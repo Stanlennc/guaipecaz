@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-11T13:56:56.959009+00:00",
+  "gerado_em": "2026-07-11T14:51:40.567861+00:00",
   "fontes": [
     {
       "id": "reporter",
@@ -34,6 +34,15 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkF2U3JxVUFMQXoxeDVTcFpBd0lPVjRZUGNMQ0l1MU1KSGFDUmtUbVZMbklXM00xaGZMeDJoZGxVVW1TU3B4clREX2NaeEJFM2Qxc2lYMm4tNE9tUFMwSUc0VUFubFVWSm5KSXlqWU5TSkxoYVBSYVo1bmhtdEJwZkRkTHd1a1V3YzRHX0MwWXdaQTdZRTdFTG5n?oc=5",
       "fonte": "Studio Notícias",
       "publicado_em": "2026-07-11T08:40:47+00:00",
+      "categoria": null,
+      "feed": "recentes"
+    },
+    {
+      "id": "e985f003db84",
+      "titulo": "PRF recupera motocicleta furtada e prende homem com antecedentes criminais na BR-116, em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdHdwMUZ4X2hlUXJoblpRWjdyZHdoZGJPN28yVUlPVDNCeV9ZRHd4UUtfeXAtSzh6QWlwNGgyTWR4WVhtYVN0OERnWXloTnh1ZkpDaGEzZVpPWW43THJrRkJxak9XbUp3Zm1vd1hodlA3aU80bmxEcDdLTXB0MUo4SndyZGxaNExwUmNrZE90Tk8zcTA0bWJMRTMxTDlpbHd2T0cyWkxwXzJobmhpV0hKem55cS1MZE5QS1pUNENXajBGTm15Qy1lTlhvUHFtUjlxMG9FUGs0cjctbHM5NDVmU2ZYeXc?oc=5",
+      "fonte": "Portal de Camaquã",
+      "publicado_em": "2026-07-11T02:17:56+00:00",
       "categoria": null,
       "feed": "recentes"
     },
@@ -234,15 +243,6 @@
       "publicado_em": "2026-07-04T18:13:00+00:00",
       "categoria": null,
       "feed": "recentes"
-    },
-    {
-      "id": "13814abf03dc",
-      "titulo": "/Notícias Esporte",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjbE84cEptcDFyVzducF9pdEluZmdkSWMwNFI1emJETGRQYTk3cm56RVJ6ZmlPOTJ5SkRqQmFYMWwtSktGRzhzX01FMmdYWmxNZE9rT1B5dFdaZlNRWXQxMFlKYVE5WUdja19FdVhR?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-04T15:37:39+00:00",
-      "categoria": null,
-      "feed": "reporter"
     }
   ],
   "noticias_home": [
@@ -252,6 +252,15 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkF2U3JxVUFMQXoxeDVTcFpBd0lPVjRZUGNMQ0l1MU1KSGFDUmtUbVZMbklXM00xaGZMeDJoZGxVVW1TU3B4clREX2NaeEJFM2Qxc2lYMm4tNE9tUFMwSUc0VUFubFVWSm5KSXlqWU5TSkxoYVBSYVo1bmhtdEJwZkRkTHd1a1V3YzRHX0MwWXdaQTdZRTdFTG5n?oc=5",
       "fonte": "Studio Notícias",
       "publicado_em": "2026-07-11T08:40:47+00:00",
+      "categoria": null,
+      "feed": "recentes"
+    },
+    {
+      "id": "e985f003db84",
+      "titulo": "PRF recupera motocicleta furtada e prende homem com antecedentes criminais na BR-116, em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdHdwMUZ4X2hlUXJoblpRWjdyZHdoZGJPN28yVUlPVDNCeV9ZRHd4UUtfeXAtSzh6QWlwNGgyTWR4WVhtYVN0OERnWXloTnh1ZkpDaGEzZVpPWW43THJrRkJxak9XbUp3Zm1vd1hodlA3aU80bmxEcDdLTXB0MUo4SndyZGxaNExwUmNrZE90Tk8zcTA0bWJMRTMxTDlpbHd2T0cyWkxwXzJobmhpV0hKem55cS1MZE5QS1pUNENXajBGTm15Qy1lTlhvUHFtUjlxMG9FUGs0cjctbHM5NDVmU2ZYeXc?oc=5",
+      "fonte": "Portal de Camaquã",
+      "publicado_em": "2026-07-11T02:17:56+00:00",
       "categoria": null,
       "feed": "recentes"
     },
@@ -308,15 +317,6 @@
       "publicado_em": "2026-07-09T12:55:26+00:00",
       "categoria": null,
       "feed": "correio"
-    },
-    {
-      "id": "fa898c66b7b6",
-      "titulo": "Cidade Inteligente Guaíba inicia entrega da infraestrutura e projeta novo ciclo de desenvolvimento para a região",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRWEwWFRFM3RoQUJraC1OVzRQNWZaTmhQMFBXb00xcG9DNnlSUTUzQUJSM2lVekRWcTlWbWhyb3h5aFJRaHlQaDM5LUIxT2l1YTRHN2xCTGxHUkFnUTgtbE1WVTRyTjMwV3RJd0RwcFAxS01RMVRSQ29GR1RPTVZQNFJZVVdGVVF6SzhLRnNLQlVhNHFKa3dUd2VGWUJNZFh3MnJPaF9BTmh3b0Q4T3F6MC1qekZjbmdwZGJyUmZLbjd2cHZwendsZVRpVEFuNFNySWc?oc=5",
-      "fonte": "Portal Litoral Sul",
-      "publicado_em": "2026-07-09T11:13:01+00:00",
-      "categoria": null,
-      "feed": "litoral"
     }
   ]
 }
