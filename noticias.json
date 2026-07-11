@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-11T05:32:00.153757+00:00",
+  "gerado_em": "2026-07-11T13:56:56.959009+00:00",
   "fontes": [
     {
       "id": "reporter",
@@ -28,6 +28,15 @@
     }
   ],
   "noticias": [
+    {
+      "id": "158a75a76c50",
+      "titulo": "PRF prende homem com motocicleta furtada na BR-116, em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkF2U3JxVUFMQXoxeDVTcFpBd0lPVjRZUGNMQ0l1MU1KSGFDUmtUbVZMbklXM00xaGZMeDJoZGxVVW1TU3B4clREX2NaeEJFM2Qxc2lYMm4tNE9tUFMwSUc0VUFubFVWSm5KSXlqWU5TSkxoYVBSYVo1bmhtdEJwZkRkTHd1a1V3YzRHX0MwWXdaQTdZRTdFTG5n?oc=5",
+      "fonte": "Studio Notícias",
+      "publicado_em": "2026-07-11T08:40:47+00:00",
+      "categoria": null,
+      "feed": "recentes"
+    },
     {
       "id": "359ce39e10c7",
       "titulo": "Alunos apresentam oficina e visitam o Jornal Correio do Povo e a Rádio Guaíba",
@@ -62,7 +71,7 @@
       "fonte": "defensoria.rs.def.br",
       "publicado_em": "2026-07-09T18:26:24+00:00",
       "categoria": null,
-      "feed": "google"
+      "feed": "recentes"
     },
     {
       "id": "ea9a7f777f82",
@@ -133,15 +142,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPendQdkJiUW1oU1RvTVVfZ2tGcjNuQkxlTThNanFTSy14NFdTUFpUbXJsa2hYc002MkRnX1dOU3VMOElFOU55bnczLVpKd0k4V3FXMUV0ZnRMWWZFWENzeF9Sams5TzR4ZlFWTVRNZy1SaTd3MjltRkY4aWUxNUczVUt5M05vaktoTS1fT21RU2NWRVJKREUwLVp5N0dTRlBYTmtDdGN5THZVdFJwYnFqRnZHbm9ia2VmUEVpWlFkeVpfXzU0dHlV?oc=5",
       "fonte": "R7",
       "publicado_em": "2026-07-08T13:35:02+00:00",
-      "categoria": null,
-      "feed": "recentes"
-    },
-    {
-      "id": "ab4d17bad809",
-      "titulo": "RECORD Guaíba leva estúdio de inverno à Serra Gaúcha durante temporada 2026",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVms1MkpZbVNaTjdTWURQY3BsNDFlYlVvcXo0bV91U3FxN3RoaGVzZjJPZGhPVDRacVdDeVNfbFlqTmNqU0xKRHJwUVJJc05HTlM0VHhJVUZWQm90TlhuaDJQU1ZVTUk2U1VpRzBiVDJfeWowNHpzRGpQbTZjZV9XZHpQOGJzbmRlSGhUSzdXVlRTRmtEdi03TGlEZXVWdTA2aGJsTFlsdVNzWXVQdlRYck1UdGVMenNkNTNEdlBQamF3eXB0QmNFaGFNWHo0SThXNGdNV1lrMmJ5dw?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-07-07T19:04:53+00:00",
       "categoria": null,
       "feed": "recentes"
     },
@@ -247,6 +247,15 @@
   ],
   "noticias_home": [
     {
+      "id": "158a75a76c50",
+      "titulo": "PRF prende homem com motocicleta furtada na BR-116, em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWkF2U3JxVUFMQXoxeDVTcFpBd0lPVjRZUGNMQ0l1MU1KSGFDUmtUbVZMbklXM00xaGZMeDJoZGxVVW1TU3B4clREX2NaeEJFM2Qxc2lYMm4tNE9tUFMwSUc0VUFubFVWSm5KSXlqWU5TSkxoYVBSYVo1bmhtdEJwZkRkTHd1a1V3YzRHX0MwWXdaQTdZRTdFTG5n?oc=5",
+      "fonte": "Studio Notícias",
+      "publicado_em": "2026-07-11T08:40:47+00:00",
+      "categoria": null,
+      "feed": "recentes"
+    },
+    {
       "id": "359ce39e10c7",
       "titulo": "Alunos apresentam oficina e visitam o Jornal Correio do Povo e a Rádio Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVG16TEZZa3JUU25DSUlRMjR1dzZ1WFowN0xzYjVLdkFfdW53R2tsbUxFQVBwSk92U2xQVHAyN0FVYUxTR2lYLTlXa2Q3U0VnWGphd014M2dfYS1Na1dmcEpNdktDaS14Rk00Yi0yX051ZGZIbEl5TXprRlIxTWNSZWVhNUh6M25LaG1KbFBKczgwai1GaGxwU0ZUbVdLNkVtUWNkMFlUMnBMa2tjcU9tQV80Tk1DTElvSjZleldhOExqeTdBSHlTV1lscHdGOWQ0bTdzWnZabjg?oc=5",
@@ -280,7 +289,7 @@
       "fonte": "defensoria.rs.def.br",
       "publicado_em": "2026-07-09T18:26:24+00:00",
       "categoria": null,
-      "feed": "google"
+      "feed": "recentes"
     },
     {
       "id": "ea9a7f777f82",
@@ -308,15 +317,6 @@
       "publicado_em": "2026-07-09T11:13:01+00:00",
       "categoria": null,
       "feed": "litoral"
-    },
-    {
-      "id": "e0c55945fd2d",
-      "titulo": "Projeto Terra entrega 226 escrituras em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNczZUbEpZRGNxbmh1UEp0SUJ3QkhGSU5yUWo3VUZXRUdyNjFTczdqdlVaaHVDRTdCbkxWd2p4dUhWcEgzdzlPUG5FM21vNF9QSUpBeDlpZnN3T2FwYWJGQ0s4V0tIczl1MUVkQ0pCV0szS1U5Q09jR0hDZUpMWkhGZdIBgAFBVV95cUxNczZUbEpZRGNxbmh1UEp0SUJ3QkhGSU5yUWo3VUZXRUdyNjFTczdqdlVaaHVDRTdCbkxWd2p4dUhWcEgzdzlPUG5FM21vNF9QSUpBeDlpZnN3T2FwYWJGQ0s4V0tIczl1MUVkQ0pCV0szS1U5Q09jR0hDZUpMWkhGZQ?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-07-09T02:24:08+00:00",
-      "categoria": null,
-      "feed": "recentes"
     }
   ]
 }
