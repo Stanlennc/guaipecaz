@@ -365,10 +365,41 @@ function updateRiverAlert(level, message) {
     return dt.toLocaleDateString('pt-BR', { day: '2-digit', month: 'short' });
   }
 
+  function imageCredit(item) {
+    return item.imagem_credito || item.fonte || '';
+  }
+
+  function leadMediaHtml(item) {
+    if (!item.imagem) return '';
+    var credit = imageCredit(item);
+    return '<img src="' + escapeHtml(item.imagem) + '" alt="" loading="eager" decoding="async" referrerpolicy="no-referrer">' +
+      (credit ? '<figcaption>Foto: ' + escapeHtml(credit) + '</figcaption>' : '');
+  }
+
+  function thumbHtml(item) {
+    if (!item.imagem) return '';
+    return '<span class="manchete-item__thumb" aria-hidden="true">' +
+      '<img src="' + escapeHtml(item.imagem) + '" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">' +
+      '</span>';
+  }
+
   function setLead(item) {
     leadEl.href = item.url;
     leadEl.hidden = false;
     leadEl.classList.remove('manchete-lead--skeleton');
+
+    var mediaEl = document.getElementById('newsLeadMedia');
+    if (mediaEl) {
+      if (item.imagem) {
+        mediaEl.innerHTML = leadMediaHtml(item);
+        mediaEl.hidden = false;
+        leadEl.classList.add('manchete-lead--has-image');
+      } else {
+        mediaEl.innerHTML = '';
+        mediaEl.hidden = true;
+        leadEl.classList.remove('manchete-lead--has-image');
+      }
+    }
 
     var sourceEl = document.getElementById('newsLeadSource');
     var dateEl = document.getElementById('newsLeadDate');
@@ -389,9 +420,11 @@ function updateRiverAlert(level, message) {
   }
 
   function renderItem(item) {
+    var hasImage = !!item.imagem;
     return (
-      '<li class="manchete-item">' +
+      '<li class="manchete-item' + (hasImage ? ' manchete-item--has-image' : '') + '">' +
         '<a href="' + escapeHtml(item.url) + '" target="_blank" rel="noopener" class="manchete-item__link">' +
+          thumbHtml(item) +
           '<span class="manchete-item__source">' + escapeHtml(item.fonte || 'Fonte') + '</span>' +
           '<span class="manchete-item__title">' + escapeHtml(item.titulo) + '</span>' +
           '<span class="manchete-item__date">' + escapeHtml(formatDate(item.publicado_em)) + '</span>' +
@@ -522,12 +555,22 @@ function updateRiverAlert(level, message) {
     var items = data.noticias || [];
     if (!items.length) return;
     list.innerHTML = items.map(function(item){
+      var hasImage = !!item.imagem;
+      var thumb = hasImage
+        ? '<span class="manchete-item__thumb" aria-hidden="true"><img src="' + esc(item.imagem) + '" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></span>'
+        : '';
+      var credit = item.imagem_credito || item.fonte || '';
+      var creditHtml = hasImage && credit
+        ? '<span class="manchete-item__photo-credit">Foto: ' + esc(credit) + '</span>'
+        : '';
       return (
-        '<li class="manchete-item"><a href="' + esc(item.url) + '" target="_blank" rel="noopener" class="manchete-item__link">' +
-          '<span class="manchete-item__source">' + esc(item.fonte || 'Fonte') + '</span>' +
-          '<span class="manchete-item__title">' + esc(item.titulo) + '</span>' +
-          '<span class="manchete-item__date">' + esc(item.publicado_em ? new Date(item.publicado_em).toLocaleDateString('pt-BR') : '') + '</span>' +
-        '</a></li>'
+        '<li class="manchete-item' + (hasImage ? ' manchete-item--has-image' : '') + '">' +
+          '<a href="' + esc(item.url) + '" target="_blank" rel="noopener" class="manchete-item__link">' +
+            thumb +
+            '<span class="manchete-item__source">' + esc(item.fonte || 'Fonte') + '</span>' +
+            '<span class="manchete-item__title">' + esc(item.titulo) + creditHtml + '</span>' +
+            '<span class="manchete-item__date">' + esc(item.publicado_em ? new Date(item.publicado_em).toLocaleDateString('pt-BR') : '') + '</span>' +
+          '</a></li>'
       );
     }).join('');
   }

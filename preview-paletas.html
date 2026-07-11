@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="mare">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Paletas de cores — Guaipecaz</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="preview-guaipecaz.css">
+</head>
+<body>
+
+<div class="preview-bar">
+  <div class="wrap">
+    <strong>Prévia · Paletas Guaipecaz</strong>
+    <span>11 opções para comparar</span>
+    <div class="theme-picker">
+      <span>Aplicar:</span>
+      <select class="theme-select" id="themeSelect" aria-label="Escolher paleta">
+        <option value="noite">Noite</option>
+        <option value="aurora">Aurora</option>
+        <option value="neblina">Neblina</option>
+        <option value="lagoa">Lagoa</option>
+        <option value="delta">Delta</option>
+        <option value="crepusculo">Crepúsculo</option>
+        <option value="alvorada">Alvorada</option>
+        <option value="serra">Serra</option>
+        <option value="bruma">Bruma</option>
+        <option value="mare">Maré</option>
+        <option value="jacui">Jacuí</option>
+      </select>
+    </div>
+    <div class="preview-bar__links">
+      <a href="preview-home.html">Home</a>
+      <a href="preview-regiao.html">Região</a>
+    </div>
+  </div>
+</div>
+
+<header class="gz-header">
+  <div class="wrap">
+    <a href="preview-home.html" class="gz-brand">Guaipecaz
+      <small>Guaíba · Grande Porto Alegre</small>
+    </a>
+    <nav class="gz-nav" aria-label="Principal">
+      <a href="preview-home.html">Início</a>
+      <a href="preview-regiao.html">Região</a>
+      <a href="servicos.html">Guaíba</a>
+      <a href="participe.html">Participe</a>
+    </nav>
+  </div>
+</header>
+
+<main class="gz-main">
+  <div class="wrap">
+
+    <header class="palettes-intro">
+      <span class="pulse-label">Design system</span>
+      <h1>Explore as paletas</h1>
+      <p>Onze direções de cor mantendo a identidade que discutimos: água/lagoa, comunidade viva, elegância e leitura clara. Clique <strong>Aplicar</strong> em cada card — a escolha vale também na Home e na Região.</p>
+    </header>
+
+    <div class="palettes-legend">
+      <span><i class="dark"></i> Escuro — painel noturno, alertas</span>
+      <span><i class="light"></i> Claro — leitura diurna, acolhimento</span>
+    </div>
+
+    <p class="theme-note" id="themeNote">
+      <strong>Paleta Noite.</strong> Escuro refinado, painel noturno e alertas (base atual do Guaipecas).
+    </p>
+
+    <div class="palettes-grid" id="palettesGrid" aria-live="polite"></div>
+
+    <section class="palettes-compare" aria-labelledby="compareTitle">
+      <h2 id="compareTitle">Guia rápido — qual escolher?</h2>
+      <table class="compare-table">
+        <thead>
+          <tr>
+            <th>Paleta</th>
+            <th>Tom</th>
+            <th>Ideal para</th>
+            <th>Combina com</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Noite</td><td>Escuro neutro</td><td>Quem gosta do site atual refinado</td><td>Alertas de rio, uso à noite</td></tr>
+          <tr><td>Lagoa</td><td>Escuro turquesa</td><td>Identidade “água” mais forte</td><td>Região, clima, rios</td></tr>
+          <tr><td>Jacuí</td><td>Escuro âmbar</td><td>Alertas e rios em destaque</td><td>Defesa Civil, enchentes</td></tr>
+          <tr><td>Maré</td><td>Escuro contraste</td><td>Máxima legibilidade de alertas</td><td>Emergência, pulso vivo</td></tr>
+          <tr><td>Crepúsculo</td><td>Escuro violeta</td><td>Beleza, diferenciação visual</td><td>Marca memorável</td></tr>
+          <tr><td>Aurora</td><td>Claro quente</td><td>Portal cidadão acolhedor</td><td>Participe, serviços locais</td></tr>
+          <tr><td>Delta</td><td>Claro terroso</td><td>Margem do Guaíba, terra + água</td><td>Comunidade, ofertas</td></tr>
+          <tr><td>Alvorada</td><td>Claro pêssego</td><td>Energia matinal, “portal vivo”</td><td>Home, enquetes</td></tr>
+          <tr><td>Serra</td><td>Claro verde-cinza</td><td>Chuva da serra, Jacuí</td><td>Região, previsão</td></tr>
+          <tr><td>Neblina</td><td>Claro azul-cinza</td><td>Dashboard limpo</td><td>Dados, tabelas de clima</td></tr>
+          <tr><td>Bruma</td><td>Claro minimal</td><td>Discrição, foco no texto</td><td>Diário oficial, editais</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <p class="gz-sources" style="margin-top:28px">
+      Dica: teste no celular com <a href="preview-home.html">Home</a> e <a href="preview-regiao.html">Região</a> usando o mesmo seletor de paleta no topo.
+    </p>
+
+  </div>
+</main>
+
+<footer class="gz-footer">
+  <div class="wrap">
+    <p><strong>Guaipecaz</strong> — comparação de paletas. Não publicado.</p>
+  </div>
+</footer>
+
+<script src="preview-guaipecaz.js"></script>
+<script src="preview-paletas.js"></script>
+</body>
+</html>

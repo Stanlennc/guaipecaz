@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="mare">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prévia Região — Guaipecaz</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="preview-guaipecaz.css">
+</head>
+<body>
+
+<div class="preview-bar">
+  <div class="wrap">
+    <strong>Prévia de design · Guaipecaz</strong>
+    <span>Região — clima, vento e água</span>
+    <div class="theme-picker">
+      <span>Paleta:</span>
+      <select class="theme-select" id="themeSelect" aria-label="Escolher paleta de cores">
+        <option value="noite">Noite</option>
+        <option value="aurora">Aurora</option>
+        <option value="neblina">Neblina</option>
+        <option value="lagoa">Lagoa</option>
+        <option value="delta">Delta</option>
+        <option value="crepusculo">Crepúsculo</option>
+        <option value="alvorada">Alvorada</option>
+        <option value="serra">Serra</option>
+        <option value="bruma">Bruma</option>
+        <option value="mare">Maré</option>
+        <option value="jacui">Jacuí</option>
+      </select>
+    </div>
+    <div class="preview-bar__links">
+      <a href="preview-paletas.html">Paletas</a>
+      <a href="preview-home.html">Home</a>
+      <a href="preview-regiao.html">Região</a>
+      <a href="index.html">Site atual ↗</a>
+    </div>
+  </div>
+</div>
+
+<header class="gz-header">
+  <div class="wrap">
+    <a href="preview-home.html" class="gz-brand">Guaipecaz
+      <small>Guaíba · Grande Porto Alegre</small>
+    </a>
+    <nav class="gz-nav" aria-label="Principal">
+      <a href="preview-home.html">Início</a>
+      <a href="preview-regiao.html" class="active">Região</a>
+      <a href="servicos.html">Guaíba</a>
+      <a href="participe.html">Participe</a>
+    </nav>
+    <button type="button" class="gz-nav-toggle" id="gzNavToggle" aria-label="Abrir menu" aria-expanded="false">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><line x1="4" y1="6" x2="20" y2="6"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="18" x2="20" y2="18"/></svg>
+    </button>
+  </div>
+  <div class="gz-mobile-nav" id="gzMobileNav">
+    <a href="preview-home.html">Início</a>
+    <a href="preview-regiao.html" class="active">Região</a>
+    <a href="servicos.html">Guaíba</a>
+    <a href="participe.html">Participe</a>
+  </div>
+</header>
+
+<div class="gz-emergency">
+  <div class="wrap">
+    <span class="label">Emergência</span>
+    <a href="tel:192">SAMU 192</a>
+    <a href="tel:193">Bombeiros 193</a>
+    <a href="tel:199">Defesa Civil 199</a>
+  </div>
+</div>
+
+<main class="gz-main">
+  <div class="wrap">
+
+    <p class="theme-note" id="themeNote">
+      <strong>Tema Noite.</strong> Escuro refinado, sensação de painel noturno e alertas (herda a identidade atual).
+    </p>
+
+    <header class="gz-page-head">
+      <span class="pulse-label">Hub Região</span>
+      <h1>Clima, vento e água</h1>
+      <p class="lede">Guaíba, Porto Alegre, Canoas e Eldorado do Sul — o que afeta a bacia e a Grande Porto Alegre, reunido para você decidir com antecedência.</p>
+    </header>
+
+    <div class="gz-alert-banner" role="status">
+      <strong>Exemplo de alerta combinado</strong>
+      <p>Quando chuva forte + vento + rio em subida coincidirem, este banner aparece automaticamente. Na versão final, a regra virá dos dados reais — sem alarmismo manual.</p>
+      <a class="gz-btn gz-btn--outline" href="tel:199">Defesa Civil 199</a>
+    </div>
+
+    <!-- RIOS -->
+    <section class="gz-section" aria-labelledby="riosTitle">
+      <div class="gz-section-head">
+        <h2 id="riosTitle">Rios da bacia</h2>
+        <span class="gz-updated" id="pulseTime">Atualizando…</span>
+      </div>
+      <div class="gz-rivers-row">
+        <article class="gz-live-card">
+          <div class="gz-live-card__type">Rio Guaíba</div>
+          <div class="gz-live-card__place">Cais Mauá · Porto Alegre</div>
+          <div class="gz-live-card__value">0,67 m</div>
+          <div class="gz-live-card__status">
+            <span class="status-dot" style="background:var(--status-normal)"></span>
+            Normal
+          </div>
+          <p class="gz-live-card__meta">Cota inundação 3,00 m · Pico histórico 5,35 m</p>
+          <a class="gz-live-card__link" href="https://nivelguaiba.com.br/portoalegre" target="_blank" rel="noopener">Nível Guaíba ao vivo ↗</a>
+        </article>
+        <article class="gz-live-card">
+          <div class="gz-live-card__type">Rio Jacuí</div>
+          <div class="gz-live-card__place">Dona Francisca · alerta antecipado</div>
+          <div class="gz-live-card__value">1,00 m</div>
+          <div class="gz-live-card__status">
+            <span class="status-dot" style="background:var(--status-alert)"></span>
+            Vigiar
+          </div>
+          <p class="gz-live-card__meta">Cota inundação 7,50 m · Chuva na serra desce em 24–48 h</p>
+          <a class="gz-live-card__link" href="https://nivelguaiba.com.br/donafrancisca" target="_blank" rel="noopener">Nível Guaíba ao vivo ↗</a>
+        </article>
+      </div>
+    </section>
+
+    <!-- CLIMA + VENTO -->
+    <section class="gz-clima-panel" aria-labelledby="climaPanelTitle">
+      <h2 id="climaPanelTitle">Previsão · chuva e vento</h2>
+      <p class="gz-clima-panel__sub">Quatro municípios da metro · dados Open-Meteo · ícones sol, nublado, chuva e tempestade</p>
+
+      <div class="gz-clima-icon-grid" id="climaIconCards" aria-live="polite">
+        <article class="gz-clima-icon-card skeleton"><div class="gz-clima-icon-card__city">Carregando…</div></article>
+        <article class="gz-clima-icon-card skeleton"><div class="gz-clima-icon-card__city">Carregando…</div></article>
+        <article class="gz-clima-icon-card skeleton"><div class="gz-clima-icon-card__city">Carregando…</div></article>
+        <article class="gz-clima-icon-card skeleton"><div class="gz-clima-icon-card__city">Carregando…</div></article>
+      </div>
+
+      <div class="gz-clima-table-wrap">
+        <table class="gz-clima-table">
+          <thead>
+            <tr>
+              <th>Local</th>
+              <th>Agora</th>
+              <th>Chuva</th>
+              <th>Vento</th>
+            </tr>
+          </thead>
+          <tbody id="climaTableBody">
+            <tr><td colspan="4" class="mono">Carregando previsão para Guaíba, POA, Canoas e Eldorado…</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="gz-mini-bars">
+        <div class="gz-mini-bar">
+          <h3>Probabilidade de chuva hoje</h3>
+          <div id="rainBars">
+            <div class="gz-bar-row"><span>Guaíba</span><div class="gz-bar-track"><div class="gz-bar-fill" style="width:40%"></div></div><span class="mono">…</span></div>
+          </div>
+        </div>
+        <div class="gz-mini-bar">
+          <h3>Velocidade do vento hoje (km/h)</h3>
+          <div id="windBars">
+            <div class="gz-bar-row"><span>Guaíba</span><div class="gz-bar-track"><div class="gz-bar-fill" style="width:30%"></div></div><span class="mono">…</span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- NOTÍCIAS -->
+    <section class="gz-section" aria-labelledby="newsTitle">
+      <div class="gz-section-head">
+        <h2 id="newsTitle">Guibanews</h2>
+        <a href="guibanews.html">Página completa →</a>
+      </div>
+      <ul class="gz-news-list">
+        <li>
+          <a href="guibanews.html">Região Metropolitana em alerta para chuvas e ventos no fim de semana</a>
+          <span class="meta">Correio do Povo · Guaíba e metro</span>
+        </li>
+        <li>
+          <a href="guibanews.html">Defesa Civil reforça monitoramento dos rios após temporal</a>
+          <span class="meta">GZH · Grande POA</span>
+        </li>
+        <li>
+          <a href="guibanews.html">Prefeitura de Guaíba atualiza plano de contingência para enchentes</a>
+          <span class="meta">Portal local · Guaíba</span>
+        </li>
+      </ul>
+    </section>
+
+    <details class="theme-note" style="cursor:pointer">
+      <summary><strong>Prevenção — o que ter pronto</strong></summary>
+      <ul style="margin:12px 0 0; padding-left:1.2rem; color:var(--ink-soft); font-size:0.88rem; line-height:1.6">
+        <li>Kit básico: documentos, remédios, água, lanterna.</li>
+        <li>Ponto de encontro da família em local mais alto.</li>
+        <li>Contatos de emergência salvos no celular.</li>
+        <li>Canais oficiais da Defesa Civil — cada evento é diferente.</li>
+      </ul>
+    </details>
+
+    <p class="gz-sources">
+      Fontes: <a href="https://nivelguaiba.com.br/" target="_blank" rel="noopener">Nível Guaíba ↗</a> ·
+      <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo ↗</a> ·
+      <a href="https://sema.rs.gov.br/niveis-guaiba" target="_blank" rel="noopener">SEMA/RS ↗</a>
+    </p>
+
+  </div>
+</main>
+
+<footer class="gz-footer">
+  <div class="wrap">
+    <p><strong>Guaipecaz</strong> — hub Região em prévia. Clima carrega ao vivo; rios com valores de exemplo até integrar o fetch atual.</p>
+  </div>
+</footer>
+
+<script src="preview-guaipecaz.js"></script>
+</body>
+</html>

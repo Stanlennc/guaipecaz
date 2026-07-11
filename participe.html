@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Participe — Guaipecas</title>
+<meta name="description" content="Enquetes e sugestões da comunidade de Guaíba para melhorar o Guaipecas.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#2eb8d4">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <a href="index.html" class="brand">Guaipecas
+      <small>Portal cidadão · Guaíba/RS</small>
+    </a>
+    <nav class="main-nav">
+      <a href="index.html">Início</a>
+      <a href="guibanews.html">Guibanews</a>
+      <a href="servicos.html">Serviços</a>
+      <a href="saude.html">Saúde</a>
+      <a href="diario-oficial.html">Diário Oficial</a>
+      <a href="participe.html" class="active">Participe</a>
+      <a href="contatos.html">Contatos</a>
+    </nav>
+    <button class="nav-toggle" aria-label="Abrir menu" aria-expanded="false" id="navToggle">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><line x1="4" y1="6" x2="20" y2="6"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="18" x2="20" y2="18"/></svg>
+    </button>
+  </div>
+  <div class="nav-backdrop" id="navBackdrop" hidden></div>
+  <div class="mobile-nav" id="mobileNav">
+    <a href="index.html">Início</a>
+    <a href="guibanews.html">Guibanews</a>
+    <a href="servicos.html">Serviços</a>
+    <a href="saude.html">Saúde</a>
+    <a href="diario-oficial.html">Diário Oficial</a>
+    <a href="participe.html">Participe</a>
+    <a href="contatos.html">Contatos</a>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <p class="breadcrumb"><a href="index.html">Início</a> / Participe</p>
+
+    <div class="enquete-hero">
+      <span class="enquete-badge">Enquete #1 · Prévia</span>
+      <h1 class="page-title">Ajude a moldar o Guaipecas</h1>
+      <p class="page-lede">Primeira enquete para captar sugestões da comunidade. Suas respostas orientam o que construímos a seguir — transporte, saúde, alertas, bairros e mais.</p>
+    </div>
+
+    <p class="source-note enquete-note">
+      <strong>Esqueleto de visualização.</strong> O formulário abaixo mostra como ficará a página. Os votos ainda não são gravados — na versão final, conectamos a um serviço seguro (Google Forms ou similar).
+    </p>
+
+    <div class="enquete-layout">
+      <section class="enquete-card" aria-labelledby="enqueteFormTitle">
+        <div class="enquete-card__head">
+          <h2 id="enqueteFormTitle">O que você quer ver no portal?</h2>
+          <p class="enquete-card__meta">Leva cerca de 1 minuto · Anônimo · Aberta até definir data</p>
+        </div>
+
+        <form class="enquete-form" id="enqueteSugestoes" action="#" method="post" novalidate>
+          <fieldset class="enquete-field">
+            <legend>1. Quais seções são mais importantes para você? <span class="enquete-optional">(marque até 3)</span></legend>
+            <ul class="enquete-options">
+              <li><label><input type="checkbox" name="secao" value="noticias"> Notícias da região</label></li>
+              <li><label><input type="checkbox" name="secao" value="rios"> Rios e alertas de chuva</label></li>
+              <li><label><input type="checkbox" name="secao" value="saude"> Saúde e UBS no mapa</label></li>
+              <li><label><input type="checkbox" name="secao" value="editais"> Editais, concursos e vagas</label></li>
+              <li><label><input type="checkbox" name="secao" value="servicos"> Serviços do dia a dia</label></li>
+              <li><label><input type="checkbox" name="secao" value="bairros"> Página por bairro</label></li>
+              <li><label><input type="checkbox" name="secao" value="eventos"> Agenda e eventos locais</label></li>
+              <li><label><input type="checkbox" name="secao" value="outro"> Outro (escreva abaixo)</label></li>
+            </ul>
+          </fieldset>
+
+          <div class="enquete-field">
+            <label for="bairro">2. Em qual bairro você mora? <span class="enquete-optional">(opcional)</span></label>
+            <select id="bairro" name="bairro">
+              <option value="">Selecione…</option>
+              <option>Centro</option>
+              <option>COHAB</option>
+              <option>Colina</option>
+              <option>Columbia</option>
+              <option>Distrito</option>
+              <option>Garibaldina</option>
+              <option>Ipê</option>
+              <option>Itapua</option>
+              <option>Lomba do Pinheiro</option>
+              <option>Moradas da Colina</option>
+              <option>Passo do Hilário</option>
+              <option>Passo Fundo</option>
+              <option>Pedras Brancas</option>
+              <option>Primavera</option>
+              <option>São Francisco</option>
+              <option>São Jorge</option>
+              <option>Vila Iolanda</option>
+              <option>Outro / não moro em Guaíba</option>
+            </select>
+          </div>
+
+          <div class="enquete-field">
+            <label for="sugestao">3. Sua sugestão em uma frase</label>
+            <textarea id="sugestao" name="sugestao" rows="4" placeholder="Ex.: Quero alertas de ônibus da minha linha e plantão de farmácia no WhatsApp."></textarea>
+          </div>
+
+          <fieldset class="enquete-field">
+            <legend>4. Você indicaria o Guaipecas para um vizinho?</legend>
+            <ul class="enquete-options enquete-options--inline">
+              <li><label><input type="radio" name="nps" value="5"> Com certeza</label></li>
+              <li><label><input type="radio" name="nps" value="4"> Provavelmente</label></li>
+              <li><label><input type="radio" name="nps" value="3"> Talvez</label></li>
+              <li><label><input type="radio" name="nps" value="2"> Provavelmente não</label></li>
+              <li><label><input type="radio" name="nps" value="1"> Não</label></li>
+            </ul>
+          </fieldset>
+
+          <div class="enquete-actions">
+            <button type="submit" class="btn-enquete" disabled>Enviar resposta (em breve)</button>
+            <p class="enquete-privacy">Não pedimos nome nem CPF. Usamos as respostas só para melhorar o portal.</p>
+          </div>
+        </form>
+      </section>
+
+      <aside class="enquete-sidebar">
+        <section class="enquete-card enquete-card--results" aria-labelledby="resultsTitle">
+          <h2 id="resultsTitle">Resultados parciais</h2>
+          <p class="enquete-card__meta">Prévia visual — dados fictícios</p>
+
+          <ul class="enquete-results">
+            <li>
+              <span class="enquete-results__label">Rios e alertas</span>
+              <div class="enquete-results__bar"><span style="width: 72%"></span></div>
+              <span class="enquete-results__pct">72%</span>
+            </li>
+            <li>
+              <span class="enquete-results__label">Notícias da região</span>
+              <div class="enquete-results__bar"><span style="width: 65%"></span></div>
+              <span class="enquete-results__pct">65%</span>
+            </li>
+            <li>
+              <span class="enquete-results__label">Editais e vagas</span>
+              <div class="enquete-results__bar"><span style="width: 58%"></span></div>
+              <span class="enquete-results__pct">58%</span>
+            </li>
+            <li>
+              <span class="enquete-results__label">Página por bairro</span>
+              <div class="enquete-results__bar"><span style="width: 41%"></span></div>
+              <span class="enquete-results__pct">41%</span>
+            </li>
+            <li>
+              <span class="enquete-results__label">Agenda local</span>
+              <div class="enquete-results__bar"><span style="width: 33%"></span></div>
+              <span class="enquete-results__pct">33%</span>
+            </li>
+          </ul>
+
+          <p class="enquete-results__total">0 respostas reais · aguardando lançamento</p>
+        </section>
+
+        <section class="enquete-card enquete-card--next">
+          <h2>Próximas enquetes</h2>
+          <ul class="enquete-next-list">
+            <li><span class="enquete-next-list__tag">Planejado</span> Qual linha de ônibus precisa de horário aqui?</li>
+            <li><span class="enquete-next-list__tag">Planejado</span> O que falta na saúde pública em Guaíba?</li>
+            <li><span class="enquete-next-list__tag">Ideia</span> Mapa colaborativo de alagamentos</li>
+          </ul>
+        </section>
+
+        <section class="enquete-card enquete-card--share">
+          <h2>Divulgue</h2>
+          <p>Quanto mais gente responder, melhor o Guaipecas fica para todos.</p>
+          <button type="button" class="btn-secondary" id="shareParticipe">Compartilhar enquete</button>
+        </section>
+      </aside>
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p><strong>Guaipecas</strong> — por quem mora em Guaíba, para quem mora em Guaíba.</p>
+    <div class="foot-links">
+      <a href="index.html">← Voltar ao início</a>
+      <a href="contatos.html">Contatos</a>
+    </div>
+  </div>
+</footer>
+
+<script src="analytics-config.js"></script>
+<script src="script.js"></script>
+<script>
+(function(){
+  var btn = document.getElementById('shareParticipe');
+  if (!btn) return;
+  btn.addEventListener('click', function(){
+    var text = 'Ajude a moldar o Guaipecas — enquete de sugestões para Guaíba: ' + window.location.href;
+    if (navigator.share) navigator.share({ title: 'Participe — Guaipecas', text: text, url: window.location.href });
+    else window.open('https://wa.me/?text=' + encodeURIComponent(text), '_blank', 'noopener');
+  });
+})();
+</script>
+</body>
+</html>

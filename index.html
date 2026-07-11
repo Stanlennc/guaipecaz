@@ -11,7 +11,7 @@
 <meta property="og:image" content="assets/favicon.svg">
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#3dadb8">
+<meta name="theme-color" content="#2eb8d4">
 <link rel="alternate" type="application/rss+xml" title="Guibanews RSS" href="noticias.rss">
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -96,12 +96,15 @@
       </div>
 
       <a href="#" class="manchete-lead manchete-lead--skeleton" id="newsLead" target="_blank" rel="noopener" hidden>
-        <span class="manchete-lead__label">Manchete</span>
-        <span class="manchete-lead__meta">
-          <span class="manchete-lead__source skeleton skeleton-inline" id="newsLeadSource">fonte</span>
-          <span class="manchete-lead__date skeleton skeleton-inline" id="newsLeadDate">agora</span>
-        </span>
-        <h2 class="manchete-lead__title skeleton" id="newsLeadTitle">Carregando manchete…</h2>
+        <div class="manchete-lead__media" id="newsLeadMedia" hidden></div>
+        <div class="manchete-lead__body">
+          <span class="manchete-lead__label">Manchete</span>
+          <span class="manchete-lead__meta">
+            <span class="manchete-lead__source skeleton skeleton-inline" id="newsLeadSource">fonte</span>
+            <span class="manchete-lead__date skeleton skeleton-inline" id="newsLeadDate">agora</span>
+          </span>
+          <h2 class="manchete-lead__title skeleton" id="newsLeadTitle">Carregando manchete…</h2>
+        </div>
       </a>
 
       <ol class="manchetes-list" id="newsList" aria-live="polite">
@@ -122,7 +125,7 @@
         </li>
       </ol>
 
-      <p class="guibanews-disclaimer">Guaíba e Grande Porto Alegre — cada manchete abre a matéria completa no veículo de origem. O Guaipecas não edita nem endossa o conteúdo.</p>
+      <p class="guibanews-disclaimer">Guaíba e Grande Porto Alegre — fotos e textos vêm das fontes originais (citadas quando há imagem). Cada manchete abre a matéria completa no veículo de origem. O Guaipecas não edita nem endossa o conteúdo.</p>
     </section>
 
     <!-- AGORA — rios + clima -->
