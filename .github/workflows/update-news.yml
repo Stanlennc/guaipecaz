@@ -5,6 +5,9 @@ on:
     - cron: "0 */2 * * *" # a cada 2 horas
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   update-news:
     runs-on: ubuntu-latest
