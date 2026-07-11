@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-11T19:01:10.715142+00:00",
+  "gerado_em": "2026-07-11T20:44:19.574055+00:00",
   "fontes": [
     {
       "id": "reporter",
@@ -146,15 +146,6 @@
       "feed": "recentes"
     },
     {
-      "id": "ab4d17bad809",
-      "titulo": "RECORD Guaíba leva estúdio de inverno à Serra Gaúcha durante temporada 2026",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVms1MkpZbVNaTjdTWURQY3BsNDFlYlVvcXo0bV91U3FxN3RoaGVzZjJPZGhPVDRacVdDeVNfbFlqTmNqU0xKRHJwUVJJc05HTlM0VHhJVUZWQm90TlhuaDJQU1ZVTUk2U1VpRzBiVDJfeWowNHpzRGpQbTZjZV9XZHpQOGJzbmRlSGhUSzdXVlRTRmtEdi03TGlEZXVWdTA2aGJsTFlsdVNzWXVQdlRYck1UdGVMenNkNTNEdlBQamF3eXB0QmNFaGFNWHo0SThXNGdNV1lrMmJ5dw?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-07-07T19:04:53+00:00",
-      "categoria": null,
-      "feed": "recentes"
-    },
-    {
       "id": "7cbd8fad7170",
       "titulo": "Guaíba inaugura seis novas salas no Hospital Regional Nelson Cornetet",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbl9IN2lPbTcxd1NZalNqUWxNei11ZHFEdlFnc1hEdU1xTFlnNDJQbS1yRUpzSERKeE5uS1pWaGZZc2lORnNsQmVhOTlFMk8zR0NBRjBBbFB5TGJNUlVhbGZ2VnozWFFpZDB4enE0UEY5aThsNHVMUWV6b1FPSEtvTnR3Q3Z3aE9SRHJQOEpKeXh1aE16?oc=5",
@@ -241,6 +232,15 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjbE84cEptcDFyVzducF9pdEluZmdkSWMwNFI1emJETGRQYTk3cm56RVJ6ZmlPOTJ5SkRqQmFYMWwtSktGRzhzX01FMmdYWmxNZE9rT1B5dFdaZlNRWXQxMFlKYVE5WUdja19FdVhR?oc=5",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-07-04T15:37:39+00:00",
+      "categoria": null,
+      "feed": "reporter"
+    },
+    {
+      "id": "7bf76cab2654",
+      "titulo": "Livro de advogada guaibense analisa direitos do consumidor no mercado de criptomoedas",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONkIycjB0ZWREZjdnSVNIUFRqNkVtelFMcFNYY2s4alotLVp5akRSZFV6R3hzc1dGOFp2NTU0d1FsLW1MaHpaTWMxUlhTajZDUU9lQm5Od3FGWlB3SnB6anNwdWUxNGpweGl6U014VEpKZkh1VEwwTTAxVldlZlFLZklyX0dYOVdGc2JwdTlRLVFib2F0VnZSZXZSVkNVUVA2N0FVWWZkcGdFRzNSUjQ3VVh2M2plQXZsLVJsMlE3b1I3U3hjQTRQQVZ4Ukk?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-03T20:00:00+00:00",
       "categoria": null,
       "feed": "reporter"
     }
