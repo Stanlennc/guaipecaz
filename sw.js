@@ -1,4 +1,4 @@
-const CACHE = 'guaipecaz-v44';
+const CACHE = 'guaipecaz-v45';
 const SHELL = [
   '/',
   '/index.html',
@@ -31,6 +31,7 @@ const SHELL = [
   '/assets/icon-512.png',
   '/assets/backgrounds/bg-por-sol.jpg',
   '/assets/backgrounds/bg-guaipeca-viralata.jpg',
+  '/assets/backgrounds/bg-pier-guaiba.jpg',
   '/assets/backgrounds/bg-guibanews.jpg',
   '/assets/backgrounds/bg-orla.jpg',
   '/assets/backgrounds/bg-guaiba-sunset.jpg',
