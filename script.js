@@ -704,6 +704,14 @@ function updateRiverAlert(level, message) {
     thumb.title = 'Foto ao vivo: ' + (riverData.imagem_credito || riverData.fonte || 'Nível Guaíba') + ' — abrir fonte';
   }
 
+  function riverUpdatedText(riverData, data) {
+    var dt = new Date(riverData.data_hora_medicao || data.gerado_em);
+    var text = 'Medição em ' + dt.toLocaleString('pt-BR') + ' · Nível Guaíba';
+    var ageMin = (Date.now() - dt.getTime()) / 60000;
+    if (ageMin > 30) text += ' · verifique na fonte';
+    return text;
+  }
+
   function updateRivers(data) {
     var rios = data.rios || {};
     var g = rios.guaiba;
@@ -717,8 +725,7 @@ function updateRiverAlert(level, message) {
         clearSkeleton(levelEl);
       }
       if (updatedEl) {
-        var dt = new Date(g.data_hora_medicao || data.gerado_em);
-        updatedEl.textContent = 'Medição em ' + dt.toLocaleString('pt-BR') + ' · Nível Guaíba';
+        updatedEl.textContent = riverUpdatedText(g, data);
       }
       applyRiverStatus(guaibaCard, g.nivel_m, g.cota_inundacao || 3.0, statusEl, g.status);
     }
@@ -734,8 +741,7 @@ function updateRiverAlert(level, message) {
         clearSkeleton(levelEl2);
       }
       if (updatedEl2) {
-        var dt2 = new Date(j.data_hora_medicao || data.gerado_em);
-        updatedEl2.textContent = 'Medição em ' + dt2.toLocaleString('pt-BR') + ' · Nível Guaíba';
+        updatedEl2.textContent = riverUpdatedText(j, data);
       }
       applyRiverStatus(jacuiCard, j.nivel_m, j.cota_inundacao || 7.5, statusEl2, j.status);
     }

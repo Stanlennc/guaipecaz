@@ -4,11 +4,11 @@ window.GUISCHEDULES_DATA = {
   "feeds": {
     "rivers": {
       "workflow": "update-rivers.yml",
-      "cron": "*/15 * * * *",
+      "cron": "7,22,37,52 * * * *",
       "cron_timezone": "UTC",
       "fetch_delay_minutes": 2,
       "interval_minutes": 15,
-      "label": "espelha o Nível Guaíba (a cada 15 minutos)",
+      "label": "espelha o Nível Guaíba (a cada 15 minutos; backup a cada 2 h)",
       "short_label": "15 min"
     },
     "news": {

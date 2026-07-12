@@ -2,18 +2,32 @@ name: Atualizar nível dos rios
 
 on:
   schedule:
-    - cron: "*/15 * * * *" # a cada 15 min — alinhado ao Nível Guaíba
+    # Evita :00 (fila do GitHub); tenta a cada ~15 min
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch: {}
+  # Backup: quando ofertas ou notícias atualizam (cron de 2h mais confiável no GitHub)
+  workflow_run:
+    workflows:
+      - "Atualizar ofertas dos mercados"
+      - "Atualizar Guibanews"
+    types: [completed]
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-rivers
+  cancel-in-progress: false
+
 jobs:
   update-rivers:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     steps:
       - name: Baixar o repositório
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Configurar Python
         uses: actions/setup-python@v5
@@ -35,6 +49,7 @@ jobs:
         run: |
           git config user.name "guaiba-em-dia-bot"
           git config user.email "actions@github.com"
-          git add rivers.json rivers-data.js assets/rivers/ schedules-data.js
+          git pull --rebase origin main
+          git add rivers.json rivers-data.js schedules-data.js
           git diff --quiet && git diff --staged --quiet || git commit -m "Atualiza nível dos rios [automático]"
           git push
