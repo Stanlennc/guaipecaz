@@ -44,6 +44,18 @@
   </div>
 </header>
 
+<div class="emergency-strip">
+  <div class="wrap">
+    <span class="label">Contatos de emergência</span>
+    <a href="mulher.html">Delegacia da Mulher</a>
+    <a href="contatos-emergencia.html#samu">SAMU 192</a>
+    <a href="contatos-emergencia.html#bombeiros">Bombeiros 193</a>
+    <a href="contatos-emergencia.html#policia">Polícia 190</a>
+    <a href="contatos-emergencia.html#defesa-civil">Defesa Civil 199</a>
+    <a href="ajude-um-pet.html">Ajude um pet</a>
+  </div>
+</div>
+
 <main>
   <div class="wrap">
     <p class="breadcrumb" id="noticiaBreadcrumb"><a href="index.html">Início</a> / <a href="guibanews.html">Guibanews</a> / <span>Carregando…</span></p>
@@ -71,14 +83,16 @@
           <h1 class="noticia-article__title" id="noticiaTitle"></h1>
         </header>
 
-        <div class="noticia-article__resumo" id="noticiaResumo"></div>
+        <div class="noticia-article__resumo" id="noticiaResumo" hidden></div>
+
+        <div class="noticia-article__body" id="noticiaBody" hidden></div>
 
         <div class="noticia-article__actions">
           <a href="#" class="btn-primary" id="noticiaSourceLink" target="_blank" rel="noopener">Ler matéria completa na fonte ↗</a>
           <button type="button" class="btn-secondary" id="noticiaShare">Compartilhar</button>
         </div>
 
-        <p class="noticia-article__disclaimer">Conteúdo agregado automaticamente pelo Guaipecas. Texto e foto pertencem à <strong id="noticiaDisclaimerSource">fonte</strong>. O portal não edita nem endossa a matéria — abra o link acima para a versão completa no veículo de origem.</p>
+        <p class="noticia-article__disclaimer">Texto e foto reproduzidos da <strong id="noticiaDisclaimerSource">fonte</strong> com crédito. O Guaipecas agrega o conteúdo para facilitar a leitura — a versão oficial e atualizada está no link da fonte acima.</p>
       </div>
 
       <div class="noticia-article__error" id="noticiaError" hidden>
@@ -107,6 +121,6 @@
 
 <script src="noticias-data.js"></script>
 <script src="analytics-config.js"></script>
-<script src="script.js"></script>
+<script src="script.js?v=8"></script>
 </body>
 </html>

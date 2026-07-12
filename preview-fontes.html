@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="mare" data-font="mare">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tipografias — Guaipecaz</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="preview-guaipecaz.css">
+<link rel="stylesheet" href="preview-fontes.css">
+</head>
+<body>
+
+<div class="preview-bar">
+  <div class="wrap">
+    <strong>Prévia · Tipografias</strong>
+    <span>6 combinações de fontes</span>
+    <div class="theme-picker">
+      <span>Paleta:</span>
+      <select class="theme-select" id="themeSelect" aria-label="Escolher paleta">
+        <option value="mare" selected>Maré</option>
+        <option value="noite">Noite</option>
+        <option value="lagoa">Lagoa</option>
+        <option value="aurora">Aurora</option>
+        <option value="delta">Delta</option>
+        <option value="jacui">Jacuí</option>
+      </select>
+    </div>
+    <div class="preview-bar__links">
+      <a href="preview-paletas.html">Paletas</a>
+      <a href="preview-fontes.html">Fontes</a>
+      <a href="preview-layouts.html">Layouts</a>
+      <a href="preview-glass.html">Vidro</a>
+      <a href="preview-home.html">Home</a>
+      <a href="index.html">Site atual ↗</a>
+    </div>
+  </div>
+</div>
+
+<main class="gz-main">
+  <div class="wrap">
+
+    <header class="fonts-intro">
+      <span class="pulse-label">Design system</span>
+      <h1>Explore as tipografias</h1>
+      <p>Seis direções de fonte para o Guaipecaz completo. Clique em um card — a página inteira muda de tipografia. Combine depois com <a href="preview-paletas.html">paleta</a> e <a href="preview-layouts.html">layout</a>.</p>
+    </header>
+
+    <p class="theme-note" id="fontNote">
+      <strong>Maré atual.</strong> Fraunces traz personalidade cívica; Inter garante leitura rápida.
+    </p>
+
+    <div class="fonts-grid" id="fontsGrid" aria-live="polite"></div>
+
+    <section class="font-live-demo font-demo" aria-labelledby="specimenTitle">
+      <div class="font-live-demo__label" id="specimenTitle">Espécime ao vivo</div>
+      <div class="type-specimen" id="typeSpecimen">
+        <div class="type-specimen__block">
+          <div class="type-specimen__label">Display / manchete</div>
+          <div class="type-specimen__display">Rio Guaíba em 0,68 m</div>
+          <div class="type-specimen__body">Notícias, rios e serviços de Guaíba num só lugar.</div>
+        </div>
+        <div class="type-specimen__block">
+          <div class="type-specimen__label">Corpo + dados</div>
+          <p class="type-specimen__body">O Circuito Sesc reuniu mais de 400 corredores na Praça da Maçã. A Defesa Civil monitora o Jacuí em Dona Francisca.</p>
+          <p class="type-specimen__mono">0,68 m · Normal · atualizado 18:15 · chuva 45%</p>
+        </div>
+      </div>
+
+      <div class="gz-agora-grid" style="margin-top:8px">
+        <article class="gz-live-card">
+          <div class="gz-live-card__type">Rio Guaíba</div>
+          <div class="gz-live-card__value">0,68 m</div>
+          <div class="gz-live-card__status"><span class="status-dot" style="background:var(--status-normal)"></span> Normal</div>
+        </article>
+        <article class="gz-live-card">
+          <div class="gz-live-card__type">Guibanews</div>
+          <h3 class="gz-news-title" style="font-size:0.95rem;margin:6px 0 0">Novo cinema de Guaíba estreia com Homem-Aranha</h3>
+        </article>
+      </div>
+    </section>
+
+    <section aria-labelledby="compareFontTitle">
+      <h2 id="compareFontTitle" style="font-family:var(--font-display);font-size:1.2rem;margin-bottom:14px">Guia rápido</h2>
+      <table class="font-compare-table">
+        <thead>
+          <tr><th>Estilo</th><th>Personalidade</th><th>Melhor para</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Maré atual</td><td>Cívico equilibrado</td><td>Site publicado, evolução natural</td></tr>
+          <tr><td>Jornal</td><td>Editorial, serifado</td><td>Guibanews como protagonista</td></tr>
+          <tr><td>Painel técnico</td><td>Dashboard, números</td><td>Rios, clima, alertas</td></tr>
+          <tr><td>Cívico</td><td>Institucional amigável</td><td>Saúde, serviços, prefeitura</td></tr>
+          <tr><td>Geométrico</td><td>App moderno</td><td>Mobile, cards grandes</td></tr>
+          <tr><td>Gaúcho</td><td>Comunidade, calor</td><td>Portal humano, paletas claras</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <p class="gz-sources">
+      Prévia tipográfica · não altera o site publicado ·
+      <a href="preview-layouts.html">ver layouts →</a>
+    </p>
+
+  </div>
+</main>
+
+<script src="preview-guaipecaz.js"></script>
+<script src="preview-fontes.js"></script>
+</body>
+</html>

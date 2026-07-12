@@ -26,6 +26,171 @@ function guaipecasNoticiaUrl(item) {
   return (item && item.url) || '#';
 }
 
+// Cidade global — sincroniza mapas e previsão do tempo
+window.GuaipecasCidade = (function(){
+  var KEY = 'guaipecas_cidade';
+  var CITIES = {
+    guaiba: { name: 'Guaíba', lat: -30.1116, lon: -51.3237, zoom: 13 },
+    poa: { name: 'Porto Alegre', lat: -30.0346, lon: -51.2177, zoom: 12 },
+    canoas: { name: 'Canoas', lat: -29.9178, lon: -51.1836, zoom: 13 },
+    eldorado: { name: 'Eldorado do Sul', lat: -30.0847, lon: -51.2936, zoom: 13 }
+  };
+  var listeners = [];
+
+  function get() {
+    var id = localStorage.getItem(KEY) || 'guaiba';
+    return CITIES[id] ? id : 'guaiba';
+  }
+
+  function set(id) {
+    if (!CITIES[id]) return;
+    var prev = get();
+    if (prev === id) return;
+    try { localStorage.setItem(KEY, id); } catch (e) {}
+    listeners.forEach(function(fn){ fn(id, prev); });
+  }
+
+  function onChange(fn) { listeners.push(fn); }
+
+  function getConfig(id) { return CITIES[id || get()]; }
+
+  function syncUi() {
+    var current = get();
+    document.querySelectorAll('[data-cidade-selector] [data-city], #wxCities [data-city]').forEach(function(btn){
+      var active = btn.getAttribute('data-city') === current;
+      btn.classList.toggle('is-active', active);
+      btn.setAttribute('aria-selected', active ? 'true' : 'false');
+    });
+  }
+
+  window.addEventListener('storage', function(e){
+    if (e.key !== KEY || !CITIES[e.newValue]) return;
+    listeners.forEach(function(fn){ fn(e.newValue, e.oldValue); });
+    syncUi();
+  });
+
+  return { get: get, set: set, onChange: onChange, getConfig: getConfig, syncUi: syncUi, list: CITIES };
+})();
+
+// Seletores de cidade reutilizáveis (mapas)
+function guaipecasInitCidadeSelectors() {
+  var gc = window.GuaipecasCidade;
+  if (!gc) return;
+
+  document.querySelectorAll('[data-cidade-selector]').forEach(function(row){
+    if (row.dataset.cidadeReady) return;
+    row.dataset.cidadeReady = '1';
+    row.innerHTML = Object.keys(gc.list).map(function(id){
+      var cfg = gc.list[id];
+      return '<button type="button" class="weather-city" data-city="' + id + '" role="tab" aria-selected="false">' + cfg.name + '</button>';
+    }).join('');
+    row.addEventListener('click', function(e){
+      var btn = e.target.closest('[data-city]');
+      if (!btn) return;
+      gc.set(btn.getAttribute('data-city'));
+    });
+  });
+
+  gc.syncUi();
+}
+
+(function(){
+  var gc = window.GuaipecasCidade;
+  if (!gc) return;
+  gc.onChange(function(){ gc.syncUi(); });
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', guaipecasInitCidadeSelectors);
+  } else {
+    guaipecasInitCidadeSelectors();
+  }
+})();
+
+// Leaflet — carregamento compartilhado
+window.guaipecasLoadLeaflet = function(cb) {
+  if (window.L) { cb(); return; }
+  if (!document.querySelector('link[data-leaflet]')) {
+    var css = document.createElement('link');
+    css.rel = 'stylesheet';
+    css.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
+    css.setAttribute('data-leaflet', '1');
+    document.head.appendChild(css);
+  }
+  var existing = document.querySelector('script[data-leaflet]');
+  if (existing) {
+    if (window.L) cb();
+    else existing.addEventListener('load', cb);
+    return;
+  }
+  var leaflet = document.createElement('script');
+  leaflet.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
+  leaflet.setAttribute('data-leaflet', '1');
+  leaflet.onload = cb;
+  document.head.appendChild(leaflet);
+};
+
+// Marcadores coloridos e deslocamento para pins sobrepostos
+window.guaipecasMapHelpers = (function(){
+  var SERVICO_CORES = {
+    samu: '#e63946',
+    bombeiros: '#e76f51',
+    policia: '#457b9d',
+    'defesa-civil': '#2a9d8f',
+    'disque-180': '#7b5ea7',
+    mulher: '#c77dff',
+    abrigo: '#6a994e',
+    animal: '#bc6c25',
+    default: '#2eb8d4'
+  };
+
+  function cor(servico, categoria) {
+    return SERVICO_CORES[servico] || SERVICO_CORES[categoria] || SERVICO_CORES.default;
+  }
+
+  function chaveCoords(p) {
+    return (Math.round(p.lat * 10000) / 10000) + ',' + (Math.round(p.lon * 10000) / 10000);
+  }
+
+  function coordsComOffset(pontos) {
+    var grupos = {};
+    pontos.forEach(function(p, i){
+      if (p.lat == null || p.lon == null) return;
+      var k = chaveCoords(p);
+      if (!grupos[k]) grupos[k] = [];
+      grupos[k].push({ p: p, i: i });
+    });
+    var out = pontos.map(function(p){ return { p: p, lat: p.lat, lon: p.lon }; });
+    Object.keys(grupos).forEach(function(k){
+      var g = grupos[k];
+      if (g.length <= 1) return;
+      g.forEach(function(item, idx){
+        var angle = (2 * Math.PI * idx) / g.length;
+        var d = 0.00045;
+        out[item.i].lat = item.p.lat + d * Math.cos(angle);
+        out[item.i].lon = item.p.lon + d * Math.sin(angle);
+      });
+    });
+    return out;
+  }
+
+  function addMarker(map, p, opts) {
+    if (!window.L || p.lat == null || p.lon == null) return null;
+    opts = opts || {};
+    var fill = cor(p.servico, p.categoria);
+    var regional = !!p.regional;
+    var marker = L.circleMarker([opts.lat != null ? opts.lat : p.lat, opts.lon != null ? opts.lon : p.lon], {
+      radius: regional ? 9 : 8,
+      color: regional ? '#f4d35e' : '#fff',
+      weight: regional ? 3 : 2,
+      fillColor: fill,
+      fillOpacity: regional ? 0.55 : 0.85
+    }).addTo(map);
+    if (opts.popup) marker.bindPopup(opts.popup);
+    return marker;
+  }
+
+  return { cor: cor, coordsComOffset: coordsComOffset, addMarker: addMarker, SERVICO_CORES: SERVICO_CORES };
+})();
+
 // Menu mobile + backdrop
 (function(){
   const toggle = document.getElementById('navToggle');
@@ -89,8 +254,8 @@ var WEATHER_ICONS = {
   storm: '<path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/>'
 };
 
-function setWeatherIcon(wmo) {
-  var iconEl = document.getElementById('wxIcon');
+function setWeatherIcon(wmo, targetId) {
+  var iconEl = document.getElementById(targetId || 'wxIcon');
   if (!iconEl) return;
   var paths = WEATHER_ICONS.clear;
   if (wmo >= 0 && wmo <= 1) paths = WEATHER_ICONS.clear;
@@ -100,6 +265,27 @@ function setWeatherIcon(wmo) {
   else if (wmo >= 71 && wmo <= 77) paths = WEATHER_ICONS.snow;
   else if (wmo >= 80 && wmo <= 99) paths = WEATHER_ICONS.storm;
   iconEl.innerHTML = paths;
+}
+
+function weatherSvg(wmo, cls) {
+  var paths = WEATHER_ICONS.clear;
+  if (wmo >= 0 && wmo <= 1) paths = WEATHER_ICONS.clear;
+  else if (wmo === 2) paths = WEATHER_ICONS.partly;
+  else if (wmo === 3) paths = WEATHER_ICONS.cloudy;
+  else if (wmo >= 51 && wmo <= 67) paths = WEATHER_ICONS.rain;
+  else if (wmo >= 71 && wmo <= 77) paths = WEATHER_ICONS.snow;
+  else if (wmo >= 80 && wmo <= 99) paths = WEATHER_ICONS.storm;
+  return '<svg class="' + (cls || 'wx-day-item__icon') + '" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true">' + paths + '</svg>';
+}
+
+function wmoLabel(code) {
+  if (code <= 1) return 'céu claro';
+  if (code === 2) return 'parcialmente nublado';
+  if (code === 3) return 'nublado';
+  if (code >= 51 && code <= 67) return 'chuva';
+  if (code >= 71 && code <= 77) return 'neve';
+  if (code >= 80) return 'tempestade';
+  return 'variável';
 }
 
 function applyRiverStatus(card, level, cota, statusEl) {
@@ -147,20 +333,16 @@ function updateRiverAlert(level, message) {
   if (!guaibaCard && !jacuiCard) return;
 
   function applyRiverPhoto(riverId, riverData) {
-    var wrap = document.getElementById(riverId + 'Photo');
-    if (!wrap || !riverData || !riverData.imagem) return;
-    var img = wrap.querySelector('img');
-    var credit = wrap.querySelector('.river-card__photo-credit');
+    var thumb = document.getElementById(riverId + 'Photo');
+    if (!thumb || !riverData || !riverData.imagem) return;
+    var img = thumb.querySelector('img');
     if (img) {
       img.src = riverData.imagem;
       img.alt = (riverData.nome || 'Rio') + ' — ' + (riverData.local || '');
     }
-    if (credit) {
-      credit.textContent = 'Foto: ' + (riverData.imagem_credito || riverData.fonte || 'Fonte');
-    }
-    wrap.hidden = false;
-    var card = document.querySelector('[data-river="' + riverId + '"]');
-    if (card) card.classList.add('river-card--has-photo');
+    if (riverData.fonte_url) thumb.href = riverData.fonte_url;
+    thumb.hidden = false;
+    thumb.title = 'Foto: ' + (riverData.imagem_credito || riverData.fonte || 'Nível Guaíba') + ' — abrir ao vivo';
   }
 
   function updateRivers(data) {
@@ -230,54 +412,105 @@ function updateRiverAlert(level, message) {
   setInterval(fetchRivers, 300000);
 })();
 
-// Previsão do tempo (Open-Meteo) — compacta
+// Previsão do tempo (Open-Meteo) — semana + seletor de cidade
 (function(){
+  var panel = document.getElementById('weatherPanel');
+  if (!panel) return;
+
+  var gc = window.GuaipecasCidade;
+  var CITIES = gc.list;
+  var cache = {};
+  var citiesEl = document.getElementById('wxCities');
   var tempEl = document.getElementById('wxTemp');
-  if (!tempEl) return;
-  var LAT = -30.1116, LON = -51.3237;
-  var url = 'https://api.open-meteo.com/v1/forecast?latitude=' + LAT + '&longitude=' + LON +
-    '&current=temperature_2m,weathercode&daily=temperature_2m_max,precipitation_probability_max' +
-    '&timezone=America%2FSao_Paulo&forecast_days=1';
+  var descEl = document.getElementById('wxDesc');
+  var compactEl = document.getElementById('wxCompact');
+  var weekEl = document.getElementById('wxWeek');
 
-  fetch(url)
-    .then(function(r){ return r.json(); })
-    .then(function(data){
-      var cur = data.current;
-      var descEl = document.getElementById('wxDesc');
-      var compactEl = document.getElementById('wxCompact');
-      var rainEl = document.getElementById('wxRain');
-      if (tempEl && cur) {
-        tempEl.textContent = Math.round(cur.temperature_2m) + '°C';
-        clearSkeleton(tempEl);
-      }
-      var wmo = cur.weathercode;
-      var desc = 'ensolarado';
-      if (wmo >= 0 && wmo <= 1) desc = 'céu claro';
-      else if (wmo === 2) desc = 'parcialmente nublado';
-      else if (wmo === 3) desc = 'nublado';
-      else if (wmo >= 51 && wmo <= 67) desc = 'chuva';
-      else if (wmo >= 71 && wmo <= 77) desc = 'neve';
-      else if (wmo >= 80 && wmo <= 99) desc = 'tempestade';
-      setWeatherIcon(wmo);
-      if (descEl) { descEl.textContent = desc; clearSkeleton(descEl); }
+  function dayLabel(isoDate, index) {
+    if (index === 0) return 'Hoje';
+    if (index === 1) return 'Amanhã';
+    var dt = new Date(isoDate + 'T12:00:00');
+    return dt.toLocaleDateString('pt-BR', { weekday: 'short' }).replace('.', '');
+  }
 
-      if (data.daily) {
-        var pop = Math.round(data.daily.precipitation_probability_max[0]);
-        var max = Math.round(data.daily.temperature_2m_max[0]);
-        if (compactEl) compactEl.textContent = 'Hoje: máx ' + max + '° · chuva ' + pop + '%';
-        if (rainEl) {
-          rainEl.textContent = 'chuva prevista: ' + pop + '%';
-          clearSkeleton(rainEl);
-        }
-      }
-    })
-    .catch(function(){
+  function fetchCity(id) {
+    var cfg = CITIES[id];
+    var url = 'https://api.open-meteo.com/v1/forecast?latitude=' + cfg.lat + '&longitude=' + cfg.lon +
+      '&current=temperature_2m,weathercode' +
+      '&daily=weathercode,temperature_2m_max,temperature_2m_min,precipitation_probability_max' +
+      '&timezone=America%2FSao_Paulo&forecast_days=7';
+    return fetch(url)
+      .then(function(r){ return r.json(); })
+      .then(function(data){
+        cache[id] = data;
+        return data;
+      });
+  }
+
+  function renderWeek(daily) {
+    if (!weekEl || !daily || !daily.time) return;
+    weekEl.innerHTML = daily.time.map(function(iso, i){
+      var wmo = daily.weathercode[i];
+      var max = Math.round(daily.temperature_2m_max[i]);
+      var min = Math.round(daily.temperature_2m_min[i]);
+      var pop = Math.round(daily.precipitation_probability_max[i]);
+      return (
+        '<div class="wx-day-item">' +
+          '<span class="wx-day-item__name">' + dayLabel(iso, i) + '</span>' +
+          weatherSvg(wmo) +
+          '<span class="wx-day-item__temps"><strong>' + max + '°</strong><span class="wx-day-item__min">' + min + '°</span></span>' +
+          '<span class="wx-day-item__rain" title="Chance de chuva">' + pop + '%</span>' +
+        '</div>'
+      );
+    }).join('');
+  }
+
+  function renderCity(id) {
+    var data = cache[id];
+    var cfg = CITIES[id];
+    if (!data || !cfg) return;
+
+    var cur = data.current;
+    if (tempEl && cur) {
+      tempEl.textContent = Math.round(cur.temperature_2m) + '°C';
       clearSkeleton(tempEl);
-      clearSkeleton(document.getElementById('wxDesc'));
-      var rainEl = document.getElementById('wxRain');
-      if (rainEl) { rainEl.textContent = 'chuva: indisponível'; clearSkeleton(rainEl); }
-      var compactEl = document.getElementById('wxCompact');
+    }
+    if (descEl && cur) {
+      descEl.textContent = wmoLabel(cur.weathercode);
+      clearSkeleton(descEl);
+    }
+    if (cur) setWeatherIcon(cur.weathercode);
+
+    if (compactEl) {
+      compactEl.textContent = 'Previsão da semana em ' + cfg.name;
+    }
+
+    renderWeek(data.daily);
+  }
+
+  function setActiveCity(id) {
+    if (!CITIES[id]) return;
+    gc.syncUi();
+    renderCity(id);
+  }
+
+  if (citiesEl) {
+    citiesEl.addEventListener('click', function(e){
+      var btn = e.target.closest('[data-city]');
+      if (!btn) return;
+      gc.set(btn.getAttribute('data-city'));
+    });
+  }
+
+  gc.onChange(function(id){ renderCity(id); });
+
+  Promise.all(Object.keys(CITIES).map(fetchCity))
+    .then(function(){ setActiveCity(gc.get()); })
+    .catch(function(){
+      if (tempEl) clearSkeleton(tempEl);
+      if (descEl) clearSkeleton(descEl);
       if (compactEl) compactEl.textContent = 'Previsão indisponível';
+      if (weekEl) weekEl.innerHTML = '<p class="weather-week__error">Não foi possível carregar a previsão.</p>';
     });
 })();
 
@@ -708,32 +941,407 @@ function updateRiverAlert(level, message) {
   var mapEl = document.getElementById('saudeMap');
   if (!mapEl) return;
 
+  var gc = window.GuaipecasCidade;
+  var noteEl = document.getElementById('saudeMapNota');
+  var map = null;
+  var markers = [];
+  var allUnidades = [];
+
   function esc(s) { return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;'); }
+
+  function renderMarkers(cidade) {
+    if (!map || !window.L) return;
+    markers.forEach(function(layer){ map.removeLayer(layer); });
+    markers = [];
+    var cfg = gc.getConfig(cidade);
+    if (cidade !== 'guaiba') {
+      map.setView([cfg.lat, cfg.lon], cfg.zoom);
+      if (noteEl) {
+        noteEl.textContent = 'Unidades municipais cadastradas apenas para Guaíba. Em ' + cfg.name + ', para urgência ligue 192 ou veja Contatos de emergência.';
+      }
+      return;
+    }
+    if (noteEl) noteEl.textContent = '';
+    allUnidades.forEach(function(u){
+      var popup = '<strong>' + esc(u.nome) + '</strong><br>' + esc(u.categoria);
+      if (u.cnes_url) popup += '<br><a href="' + esc(u.cnes_url) + '" target="_blank" rel="noopener">CNES ↗</a>';
+      markers.push(L.marker([u.lat, u.lon]).addTo(map).bindPopup(popup));
+    });
+    map.setView([cfg.lat, cfg.lon], 12);
+  }
 
   function initMap(unidades) {
     if (!window.L || !unidades.length) return;
-    var map = L.map('saudeMap').setView([-30.1137, -51.3266], 12);
+    allUnidades = unidades;
+    map = L.map('saudeMap').setView([-30.1137, -51.3266], 12);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '© OpenStreetMap' }).addTo(map);
-    unidades.forEach(function(u){
-      var popup = '<strong>' + esc(u.nome) + '</strong><br>' + esc(u.categoria);
-      if (u.cnes_url) popup += '<br><a href="' + esc(u.cnes_url) + '" target="_blank" rel="noopener">CNES ↗</a>';
-      L.marker([u.lat, u.lon]).addTo(map).bindPopup(popup);
+    renderMarkers(gc.get());
+    gc.onChange(renderMarkers);
+  }
+
+  window.guaipecasLoadLeaflet(function(){
+    function boot(unidades) { initMap(unidades || []); }
+    fetch('unidades-map.json', { cache: 'no-store' })
+      .then(function(r){ return r.json(); })
+      .then(function(d){ boot(d.unidades); })
+      .catch(function(){
+        if (window.GUIUNIDADES_DATA) boot(window.GUIUNIDADES_DATA.unidades);
+        else boot([]);
+      });
+  });
+})();
+
+// Mapa e lista de apoio — páginas dedicadas (mulher / pet)
+(function(){
+  var pageKey = document.body.getAttribute('data-apoio-page');
+  var listEl = document.getElementById('apoioList');
+  if (!pageKey || !listEl) return;
+
+  var gc = window.GuaipecasCidade;
+  var mapEl = document.getElementById('apoioMap');
+  var chipRow = document.getElementById('apoioChips');
+  var notaEl = document.getElementById('apoioNota');
+  var ledeEl = document.getElementById('apoioLede');
+  var passosEl = document.getElementById('apoioPassos');
+  var sugestoesEl = document.getElementById('apoioSugestoes');
+  var cidadeNotaEl = document.getElementById('apoioCidadeNota');
+  var data = null;
+  var pageData = null;
+  var mapInstance = null;
+  var markerLayers = [];
+  var allPontos = [];
+  var activeCat = 'all';
+
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;');
+  }
+
+  function renderLinks(p) {
+    var links = [];
+    if (p.tel) {
+      links.push('<a class="link" href="tel:' + esc(p.tel) + '">' + esc(p.telefone || p.tel) + ' ↗</a>');
+    }
+    if (p.whatsapp) {
+      links.push('<a class="link" href="https://wa.me/' + esc(p.whatsapp) + '" target="_blank" rel="noopener">WhatsApp ↗</a>');
+    }
+    if (p.url) {
+      links.push('<a class="link" href="' + esc(p.url) + '" target="_blank" rel="noopener">' + esc(p.link_label || 'Acessar') + ' ↗</a>');
+    }
+    if (p.email) {
+      links.push('<a class="link" href="mailto:' + esc(p.email) + '">E-mail ↗</a>');
+    }
+    return links.length ? '<span class="data-row__links">' + links.join('') + '</span>' : '';
+  }
+
+  function renderRow(p) {
+    var meta = [];
+    if (p.endereco) meta.push(esc(p.endereco));
+    if (p.horario) meta.push(esc(p.horario));
+    if (p.descricao) meta.push(esc(p.descricao));
+    return '<li class="data-row" data-cat="' + esc(p.categoria) + '" id="ponto-' + esc(p.id) + '">' +
+      '<span class="name">' + esc(p.nome) + '</span>' +
+      (p.urgencia ? '<span class="cat">Urgência</span>' : '') +
+      '<span class="cat">' + esc(p.categoria_label) + '</span>' +
+      (meta.length ? '<span class="data-row__meta">' + meta.join(' · ') + '</span>' : '') +
+      (p.nota ? '<span class="data-row__note">' + esc(p.nota) + '</span>' : '') +
+      renderLinks(p) +
+      '</li>';
+  }
+
+  function renderList(pontos, cidade) {
+    if (!pontos.length) {
+      var cfg = gc.getConfig(cidade);
+      var msg = cidade === 'guaiba'
+        ? 'Nenhum contato neste filtro.'
+        : 'Nenhum ponto presencial cadastrado em ' + cfg.name + ' — veja Guaíba ou Contatos de emergência.';
+      listEl.innerHTML = '<li class="data-row"><span class="name">' + esc(msg) + '</span></li>';
+      return;
+    }
+    listEl.innerHTML = pontos.map(renderRow).join('');
+  }
+
+  function updateMap(pontos, cidade) {
+    if (!mapInstance || !window.L) return;
+    var mh = window.guaipecasMapHelpers;
+    markerLayers.forEach(function(layer){ mapInstance.removeLayer(layer); });
+    markerLayers = [];
+    var cfg = gc.getConfig(cidade);
+    mapInstance.setView([cfg.lat, cfg.lon], cfg.zoom);
+    var mappable = pontos.filter(function(p){ return p.mapa && p.lat != null && p.lon != null; });
+    mh.coordsComOffset(mappable).forEach(function(item){
+      var p = item.p;
+      var popup = '<strong>' + esc(p.nome) + '</strong>';
+      if (p.endereco) popup += '<br>' + esc(p.endereco);
+      if (p.telefone) popup += '<br>' + esc(p.telefone);
+      if (p.descricao) popup += '<br><em>' + esc(p.descricao) + '</em>';
+      markerLayers.push(mh.addMarker(mapInstance, p, { lat: item.lat, lon: item.lon, popup: popup }));
     });
   }
 
-  var css = document.createElement('link');
-  css.rel = 'stylesheet';
-  css.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
-  document.head.appendChild(css);
-  var leaflet = document.createElement('script');
-  leaflet.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
-  leaflet.onload = function(){
-    fetch('unidades-map.json', { cache: 'no-store' })
-      .then(function(r){ return r.json(); })
-      .then(function(d){ initMap(d.unidades || []); })
-      .catch(function(){ if (window.GUIUNIDADES_DATA) initMap(window.GUIUNIDADES_DATA.unidades || []); });
-  };
-  document.head.appendChild(leaflet);
+  function pontosDaCidade(cidade) {
+    return allPontos.filter(function(p){
+      return p.cidade === 'todas' || !p.cidade || p.cidade === cidade;
+    });
+  }
+
+  function filterPontos(cat, cidade) {
+    var base = pontosDaCidade(cidade);
+    if (cat === 'all') return base.slice();
+    return base.filter(function(p){ return p.categoria === cat; });
+  }
+
+  function updateCidadeNota(cidade) {
+    if (!cidadeNotaEl) return;
+    var cfg = gc.getConfig(cidade);
+    if (cidade === 'guaiba') {
+      cidadeNotaEl.textContent = 'Rede de apoio presencial em Guaíba. Canais nacionais (180, 181, Delegacia Online) aparecem em qualquer cidade.';
+      return;
+    }
+    cidadeNotaEl.textContent = 'Pontos presenciais cadastrados em Guaíba. Em ' + cfg.name + ', use os contatos de emergência; canais nacionais continuam na lista.';
+  }
+
+  function setFilter(cat, cidade) {
+    activeCat = cat || activeCat;
+    var cid = cidade || gc.get();
+    var pontos = filterPontos(activeCat, cid);
+    updateCidadeNota(cid);
+    renderList(pontos, cid);
+    updateMap(pontos, cid);
+  }
+
+  function activateChip(cat) {
+    if (!chipRow) return;
+    chipRow.querySelectorAll('.chip').forEach(function(chip){
+      chip.classList.toggle('active', chip.dataset.cat === cat);
+    });
+    setFilter(cat);
+  }
+
+  function initApoio(payload) {
+    data = payload;
+    pageData = (data.paginas && data.paginas[pageKey]) || {};
+    var filtros = pageData.filtros || [];
+    allPontos = (data.pontos || []).filter(function(p){
+      return filtros.indexOf(p.categoria) !== -1;
+    });
+
+    if (ledeEl && pageData.lede) ledeEl.textContent = pageData.lede;
+    if (notaEl && pageData.nota) {
+      notaEl.innerHTML = '<strong>Em Guaíba:</strong> ' + esc(pageData.nota);
+    }
+    renderPassos(pageData.passos);
+    renderSugestoes(pageData.sugestoes);
+
+    if (chipRow) {
+      chipRow.querySelectorAll('.chip').forEach(function(chip){
+        chip.addEventListener('click', function(){ activateChip(chip.dataset.cat); });
+      });
+    }
+    activateChip('all');
+    gc.onChange(function(cidade){ setFilter(activeCat, cidade); });
+  }
+
+  function initMap() {
+    if (!mapEl || !window.L) return;
+    var cfg = gc.getConfig();
+    mapInstance = L.map('apoioMap').setView([cfg.lat, cfg.lon], cfg.zoom);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '© OpenStreetMap' }).addTo(mapInstance);
+    updateMap(filterPontos(activeCat, gc.get()), gc.get());
+  }
+
+  function applyData(payload) {
+    initApoio(payload);
+    if (mapEl) window.guaipecasLoadLeaflet(initMap);
+  }
+
+  function renderPassos(passos) {
+    if (!passosEl || !passos) return;
+    passosEl.innerHTML = passos.map(function(p){
+      var cls = 'apoio-step' + (p.urgente ? ' apoio-step--urgent' : '');
+      var link = p.link ? ' <a href="' + esc(p.link) + '" target="_blank" rel="noopener">' + esc(p.link_label || 'Acessar') + ' ↗</a>' : '';
+      return '<li class="' + cls + '"><strong>' + esc(p.titulo) + '</strong><p>' + esc(p.texto) + link + '</p></li>';
+    }).join('');
+  }
+
+  function renderSugestoes(itens) {
+    if (!sugestoesEl || !itens) return;
+    sugestoesEl.innerHTML = itens.map(function(s){ return '<li>' + esc(s) + '</li>'; }).join('');
+  }
+
+  fetch('apoio.json', { cache: 'no-store' })
+    .then(function(r){ return r.json(); })
+    .then(applyData)
+    .catch(function(){
+      if (window.GUIAPOIO_DATA) applyData(window.GUIAPOIO_DATA);
+      else listEl.innerHTML = '<li class="data-row"><span class="name">Conteúdo indisponível no momento.</span></li>';
+    });
+})();
+
+// Contatos de emergência — mapa e listas por cidade
+(function(){
+  if (!document.body.getAttribute('data-emergencia-page')) return;
+
+  var gc = window.GuaipecasCidade;
+  var ledeEl = document.getElementById('emergenciaLede');
+  var mapEl = document.getElementById('emergenciaMap');
+  var cidadeNotaEl = document.getElementById('emergenciaCidadeNota');
+  var data = null;
+  var mapInstance = null;
+  var markerLayers = [];
+  var SERVICOS = ['samu', 'bombeiros', 'policia', 'defesa-civil', 'disque-180'];
+
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;');
+  }
+
+  function renderLinks(p) {
+    var links = [];
+    if (p.tel) {
+      links.push('<a class="link" href="tel:' + esc(p.tel) + '">' + esc(p.telefone || p.tel) + ' ↗</a>');
+    }
+    if (p.url) {
+      var href = esc(p.url);
+      var external = p.url.indexOf('http') === 0;
+      links.push('<a class="link" href="' + href + '"' + (external ? ' target="_blank" rel="noopener"' : '') + '>' + esc(p.link_label || 'Acessar') + ' ↗</a>');
+    }
+    return links.length ? '<span class="data-row__links">' + links.join('') + '</span>' : '';
+  }
+
+  function renderRow(p) {
+    var meta = [];
+    if (p.endereco) meta.push(esc(p.endereco));
+    if (p.horario) meta.push(esc(p.horario));
+    return '<li class="data-row" id="ponto-' + esc(p.id) + '">' +
+      '<span class="name">' + esc(p.nome) + '</span>' +
+      (meta.length ? '<span class="data-row__meta">' + meta.join(' · ') + '</span>' : '') +
+      (p.nota ? '<span class="data-row__note">' + esc(p.nota) + '</span>' : '') +
+      renderLinks(p) +
+      '</li>';
+  }
+
+  function pontosDaCidade(cidade) {
+    return (data.pontos || []).filter(function(p){ return p.cidade === cidade; });
+  }
+
+  function renderServicos(cidade) {
+    var cfg = gc.getConfig(cidade);
+    if (cidadeNotaEl) {
+      cidadeNotaEl.textContent = 'Exibindo pontos de referência em ' + cfg.name + '. A cidade selecionada vale para todos os mapas do site.';
+    }
+    SERVICOS.forEach(function(key){
+      var svc = (data.servicos && data.servicos[key]) || {};
+      var descEl = document.getElementById('emergenciaDesc-' + key);
+      var listEl = document.getElementById('emergenciaList-' + key);
+      if (descEl) descEl.textContent = svc.descricao || '';
+      if (!listEl) return;
+      var pontos = pontosDaCidade(cidade).filter(function(p){ return p.servico === key; });
+      listEl.innerHTML = pontos.length
+        ? pontos.map(renderRow).join('')
+        : '<li class="data-row"><span class="name">Sem ponto cadastrado em ' + esc(cfg.name) + '.</span></li>';
+    });
+  }
+
+  function updateMap(cidade) {
+    if (!mapInstance || !window.L) return;
+    var mh = window.guaipecasMapHelpers;
+    markerLayers.forEach(function(layer){ mapInstance.removeLayer(layer); });
+    markerLayers = [];
+    var cfg = gc.getConfig(cidade);
+    mapInstance.setView([cfg.lat, cfg.lon], cfg.zoom);
+    var mappable = pontosDaCidade(cidade).filter(function(p){
+      return p.mapa && p.lat != null && p.lon != null;
+    });
+    mh.coordsComOffset(mappable).forEach(function(item){
+      var p = item.p;
+      var popup = '<strong>' + esc(p.nome) + '</strong>';
+      if (p.regional) popup += '<br><em>Unidade regional (fora do município selecionado)</em>';
+      if (p.endereco) popup += '<br>' + esc(p.endereco);
+      if (p.telefone) popup += '<br>' + esc(p.telefone);
+      if (p.nota) popup += '<br><em>' + esc(p.nota) + '</em>';
+      markerLayers.push(mh.addMarker(mapInstance, p, { lat: item.lat, lon: item.lon, popup: popup }));
+    });
+    renderLegenda();
+  }
+
+  function renderLegenda() {
+    var legEl = document.getElementById('emergenciaLegenda');
+    if (!legEl || !data || !data.servicos) return;
+    var mh = window.guaipecasMapHelpers;
+    legEl.innerHTML = SERVICOS.map(function(key){
+      var svc = data.servicos[key] || {};
+      var cor = mh.cor(key);
+      return '<span class="map-legenda__item"><span class="map-legenda__dot" style="background:' + cor + '"></span>' + esc(svc.nome || key) + '</span>';
+    }).join('') + '<span class="map-legenda__item map-legenda__item--regional"><span class="map-legenda__dot map-legenda__dot--regional"></span>Regional</span>';
+  }
+
+  function applyCidade(cidade) {
+    renderServicos(cidade);
+    updateMap(cidade);
+  }
+
+  function scrollToHash() {
+    var hash = window.location.hash.replace('#', '');
+    if (!hash || SERVICOS.indexOf(hash) === -1) return;
+    window.setTimeout(function(){
+      var el = document.getElementById(hash);
+      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }, 350);
+  }
+
+  function initEmergencia(payload) {
+    data = payload;
+    if (ledeEl && data.lede) ledeEl.textContent = data.lede;
+    SERVICOS.forEach(function(key){
+      var svc = (data.servicos && data.servicos[key]) || {};
+      var titleEl = document.querySelector('#' + key + ' .emergencia-servico__title');
+      if (titleEl && svc.titulo) titleEl.textContent = svc.titulo;
+    });
+    applyCidade(gc.get());
+    gc.onChange(applyCidade);
+    window.addEventListener('hashchange', scrollToHash);
+  }
+
+  function initMap() {
+    if (!mapEl || !window.L) return;
+    var cfg = gc.getConfig();
+    mapInstance = L.map('emergenciaMap').setView([cfg.lat, cfg.lon], cfg.zoom);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '© OpenStreetMap' }).addTo(mapInstance);
+    updateMap(gc.get());
+    scrollToHash();
+    window.setTimeout(function(){ mapInstance.invalidateSize(); scrollToHash(); }, 200);
+  }
+
+  function applyData(payload) {
+    initEmergencia(payload);
+    if (mapEl) window.guaipecasLoadLeaflet(initMap);
+  }
+
+  var emergenciaLoaded = false;
+  function bootEmergencia(payload) {
+    if (emergenciaLoaded || !payload) return;
+    emergenciaLoaded = true;
+    applyData(payload);
+  }
+
+  if (window.GUIEMERGENCIA_DATA) bootEmergencia(window.GUIEMERGENCIA_DATA);
+
+  fetch('emergencia.json', { cache: 'no-store' })
+    .then(function(r){
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    })
+    .then(bootEmergencia)
+    .catch(function(err){
+      if (window.GUIEMERGENCIA_DATA) bootEmergencia(window.GUIEMERGENCIA_DATA);
+      else {
+        if (ledeEl) ledeEl.textContent = 'Conteúdo indisponível no momento.';
+        SERVICOS.forEach(function(key){
+          var listEl = document.getElementById('emergenciaList-' + key);
+          if (listEl) listEl.innerHTML = '<li class="data-row"><span class="name">Não foi possível carregar os contatos.</span></li>';
+        });
+        if (typeof console !== 'undefined' && console.error) console.error('emergencia', err);
+      }
+    });
 })();
 
 // Página interna da notícia
@@ -806,10 +1414,13 @@ function updateRiverAlert(level, message) {
     if (errorEl) errorEl.hidden = true;
     if (contentEl) contentEl.hidden = false;
 
+    var conteudo = Array.isArray(item.conteudo) ? item.conteudo.filter(Boolean) : [];
+
     document.title = item.titulo + ' — Guibanews · Guaipecas';
-    setMeta('description', (item.resumo || item.titulo).slice(0, 160));
+    var descSource = (conteudo[0] || item.resumo || item.titulo);
+    setMeta('description', descSource.slice(0, 160));
     setOg('og:title', item.titulo);
-    setOg('og:description', (item.resumo || item.titulo).slice(0, 200));
+    setOg('og:description', descSource.slice(0, 200));
     if (item.imagem) setOg('og:image', item.imagem);
 
     var breadcrumb = document.getElementById('noticiaBreadcrumb');
@@ -836,21 +1447,48 @@ function updateRiverAlert(level, message) {
     var dateEl = document.getElementById('noticiaDate');
     var titleEl = document.getElementById('noticiaTitle');
     var resumoEl = document.getElementById('noticiaResumo');
+    var bodyEl = document.getElementById('noticiaBody');
     var sourceLink = document.getElementById('noticiaSourceLink');
     var disclaimerSource = document.getElementById('noticiaDisclaimerSource');
 
     if (sourceEl) sourceEl.textContent = item.fonte || 'Fonte';
     if (dateEl) dateEl.textContent = formatDate(item.publicado_em);
     if (titleEl) titleEl.textContent = item.titulo;
-    if (resumoEl) {
-      if (item.resumo) {
-        resumoEl.textContent = item.resumo;
-        resumoEl.classList.remove('noticia-article__resumo--empty');
+
+    var lead = item.resumo || '';
+
+    if (bodyEl) {
+      bodyEl.innerHTML = '';
+      if (conteudo.length) {
+        conteudo.forEach(function(paragraph){
+          var p = document.createElement('p');
+          p.textContent = paragraph;
+          bodyEl.appendChild(p);
+        });
+        bodyEl.hidden = false;
       } else {
-        resumoEl.textContent = 'Resumo indisponível no feed. Abra a matéria na fonte original para ler o texto completo.';
-        resumoEl.classList.add('noticia-article__resumo--empty');
+        bodyEl.hidden = true;
       }
     }
+
+    if (resumoEl) {
+      if (conteudo.length && lead && lead !== conteudo[0]) {
+        resumoEl.textContent = lead;
+        resumoEl.hidden = false;
+        resumoEl.classList.remove('noticia-article__resumo--empty');
+      } else if (!conteudo.length && lead) {
+        resumoEl.textContent = lead;
+        resumoEl.hidden = false;
+        resumoEl.classList.remove('noticia-article__resumo--empty');
+      } else if (!conteudo.length) {
+        resumoEl.textContent = 'Texto completo indisponível no feed. Abra a matéria na fonte original.';
+        resumoEl.hidden = false;
+        resumoEl.classList.add('noticia-article__resumo--empty');
+      } else {
+        resumoEl.hidden = true;
+      }
+    }
+
     if (sourceLink) {
       sourceLink.href = item.url;
       sourceLink.textContent = 'Ler matéria completa em ' + (item.fonte || 'fonte') + ' ↗';

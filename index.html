@@ -47,13 +47,13 @@
 
 <div class="emergency-strip">
   <div class="wrap">
-    <span class="label">Emergência</span>
-    <a href="tel:192">SAMU 192</a>
-    <a href="tel:193">Bombeiros 193</a>
-    <a href="tel:190">Polícia 190</a>
-    <a href="tel:199">Defesa Civil 199</a>
-    <span class="label">Prefeitura</span>
-    <a href="tel:551134807000">(51) 3480-7000</a>
+    <span class="label">Contatos de emergência</span>
+    <a href="mulher.html">Delegacia da Mulher</a>
+    <a href="contatos-emergencia.html#samu">SAMU 192</a>
+    <a href="contatos-emergencia.html#bombeiros">Bombeiros 193</a>
+    <a href="contatos-emergencia.html#policia">Polícia 190</a>
+    <a href="contatos-emergencia.html#defesa-civil">Defesa Civil 199</a>
+    <a href="ajude-um-pet.html">Ajude um pet</a>
   </div>
 </div>
 
@@ -82,7 +82,7 @@
       <path class="wave" d="M0 40 C 60 24, 120 54, 180 38 C 240 22, 300 52, 360 36 C 420 20, 480 50, 540 34 C 600 18, 660 46, 700 30"/>
     </svg>
   </div>
-  <p class="photo-credit">Foto: Píer de Guaíba, por Guilherme R — <a href="https://commons.wikimedia.org/wiki/File:P%C3%ADer_de_Gua%C3%ADba.jpg" target="_blank" rel="noopener">Wikimedia Commons ↗</a></p>
+  <p class="photo-credit">Foto: Pôr do sol no Guaíba, por Glauco Umbelino — <a href="https://commons.wikimedia.org/wiki/File:P%C3%B4r-do-sol_no_rio_Gua%C3%ADba_-_Porto_Alegre-RS_(2541841218).jpg" target="_blank" rel="noopener">Wikimedia Commons (CC BY 2.0) ↗</a></p>
 </section>
 
 <main>
@@ -125,7 +125,7 @@
         </li>
       </ol>
 
-      <p class="guibanews-disclaimer">Guaíba e Grande Porto Alegre — fotos e resumos vêm das fontes originais (citadas em cada matéria). O Guaipecas exibe a manchete no site e indica o veículo de origem; não edita nem endossa o conteúdo.</p>
+      <p class="guibanews-disclaimer">Guaíba e Grande Porto Alegre — fotos, resumos e texto (quando disponível) vêm das fontes originais. O Guaipecas exibe a matéria no site e indica o veículo de origem.</p>
     </section>
 
     <!-- AGORA — rios + clima -->
@@ -134,59 +134,74 @@
         <span class="now-badge" id="nowTitle">Agora</span>
         <span class="now-update skeleton skeleton-inline" id="nowUpdate">atualizando…</span>
       </div>
-      <div class="now-grid">
+      <div class="now-grid now-grid--rivers">
         <div class="river-card now-card" data-river="guaiba">
-          <div class="river-card__photo" id="guaibaPhoto" hidden>
-            <img src="" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">
-            <span class="river-card__photo-credit"></span>
-          </div>
-          <div class="river-card__body">
-          <div class="river-name">Rio Guaíba</div>
-          <div class="river-place">Cais Mauá, Porto Alegre</div>
-          <div class="river-level skeleton" id="guaibaLevel">0,66 m</div>
-          <div class="river-status" id="guaibaStatus">
-            <span class="status-dot" style="background:var(--status-normal);"></span>
-            <span>Normal</span>
-          </div>
-          <div class="river-meta">Cota de inundação: 3,00 m · Pico histórico: 5,35 m</div>
-          <a class="river-link" href="https://nivelguaiba.com.br/portoalegre" target="_blank" rel="noopener">Ver dados ao vivo ↗</a>
-          <div class="river-updated" id="guaibaUpdated">Carregando…</div>
+          <div class="river-card__layout">
+            <a class="river-card__thumb" id="guaibaPhoto" href="https://nivelguaiba.com.br/portoalegre" target="_blank" rel="noopener" hidden title="Ver foto ao vivo no Nível Guaíba">
+              <img src="" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+              <span class="river-card__thumb-badge">Ao vivo ↗</span>
+            </a>
+            <div class="river-card__body">
+              <div class="river-name">Rio Guaíba</div>
+              <div class="river-place">Cais Mauá, Porto Alegre</div>
+              <div class="river-level skeleton" id="guaibaLevel">0,66 m</div>
+              <div class="river-status" id="guaibaStatus">
+                <span class="status-dot" style="background:var(--status-normal);"></span>
+                <span>Normal</span>
+              </div>
+              <div class="river-meta">Cota de inundação: 3,00 m · Pico histórico: 5,35 m</div>
+              <a class="river-link" href="https://nivelguaiba.com.br/portoalegre" target="_blank" rel="noopener">Ver nível ao vivo ↗</a>
+              <div class="river-updated" id="guaibaUpdated">Carregando…</div>
+            </div>
           </div>
         </div>
 
         <div class="river-card now-card" data-river="jacui">
-          <div class="river-card__photo" id="jacuiPhoto" hidden>
-            <img src="" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">
-            <span class="river-card__photo-credit"></span>
+          <div class="river-card__layout">
+            <a class="river-card__thumb" id="jacuiPhoto" href="https://nivelguaiba.com.br/donafrancisca" target="_blank" rel="noopener" hidden title="Ver foto ao vivo no Nível Guaíba">
+              <img src="" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">
+              <span class="river-card__thumb-badge">Ao vivo ↗</span>
+            </a>
+            <div class="river-card__body">
+              <div class="river-name">Rio Jacuí</div>
+              <div class="river-place">Dona Francisca — alerta antecipado</div>
+              <div class="river-level skeleton" id="jacuiLevel">2,30 m</div>
+              <div class="river-status" id="jacuiStatus">
+                <span class="status-dot" style="background:var(--status-alert);"></span>
+                <span>Vigiar</span>
+              </div>
+              <div class="river-meta">Cota de inundação: 7,50 m</div>
+              <a class="river-link" href="https://nivelguaiba.com.br/donafrancisca" target="_blank" rel="noopener">Ver nível ao vivo ↗</a>
+              <div class="river-updated" id="jacuiUpdated">Carregando…</div>
+            </div>
           </div>
-          <div class="river-card__body">
-          <div class="river-name">Rio Jacuí</div>
-          <div class="river-place">Dona Francisca — alerta antecipado</div>
-          <div class="river-level skeleton" id="jacuiLevel">2,30 m</div>
-          <div class="river-status" id="jacuiStatus">
-            <span class="status-dot" style="background:var(--status-alert);"></span>
-            <span>Vigiar</span>
-          </div>
-          <div class="river-meta">Cota de inundação: 7,50 m · <span id="wxRain" class="skeleton skeleton-inline">chuva: carregando…</span></div>
-          <a class="river-link" href="https://nivelguaiba.com.br/donafrancisca" target="_blank" rel="noopener">Ver dados ao vivo ↗</a>
-          <div class="river-updated" id="jacuiUpdated">Carregando…</div>
-          </div>
-        </div>
-
-        <div class="weather-card now-card">
-          <div class="weather-head">
-            <svg class="weather-icon" id="wxIcon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true">
-              <circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/>
-            </svg>
-            <span class="weather-temp skeleton" id="wxTemp">24°C</span>
-            <span class="weather-desc skeleton skeleton-inline" id="wxDesc">carregando</span>
-          </div>
-          <p class="weather-compact" id="wxCompact">Previsão de hoje em Guaíba</p>
-          <a class="weather-more" href="https://open-meteo.com/" target="_blank" rel="noopener">Fonte: Open-Meteo ↗</a>
         </div>
       </div>
 
-      <p class="river-note">Dados via <a href="https://nivelguaiba.com.br/" target="_blank" rel="noopener">Nível Guaíba ↗</a>, atualizados a cada 30 minutos. Em risco, ligue <strong>199</strong> (Defesa Civil).</p>
+      <div class="weather-card now-card weather-card--wide" id="weatherPanel">
+        <div class="weather-cities" id="wxCities" role="tablist" aria-label="Cidade da previsão">
+          <button type="button" class="weather-city is-active" data-city="guaiba" role="tab" aria-selected="true">Guaíba</button>
+          <button type="button" class="weather-city" data-city="poa" role="tab" aria-selected="false">Porto Alegre</button>
+          <button type="button" class="weather-city" data-city="canoas" role="tab" aria-selected="false">Canoas</button>
+          <button type="button" class="weather-city" data-city="eldorado" role="tab" aria-selected="false">Eldorado do Sul</button>
+        </div>
+        <div class="weather-head">
+          <svg class="weather-icon" id="wxIcon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/>
+          </svg>
+          <span class="weather-temp skeleton" id="wxTemp">24°C</span>
+          <span class="weather-desc skeleton skeleton-inline" id="wxDesc">carregando</span>
+        </div>
+        <p class="weather-compact" id="wxCompact">Previsão da semana em Guaíba</p>
+        <div class="weather-week" id="wxWeek" aria-live="polite">
+          <div class="wx-day-item wx-day-item--skeleton"><span class="wx-day-item__name">—</span></div>
+          <div class="wx-day-item wx-day-item--skeleton"><span class="wx-day-item__name">—</span></div>
+          <div class="wx-day-item wx-day-item--skeleton"><span class="wx-day-item__name">—</span></div>
+        </div>
+        <a class="weather-more" href="https://open-meteo.com/" target="_blank" rel="noopener">Fonte: Open-Meteo ↗</a>
+      </div>
+
+      <p class="river-note">Dados via <a href="https://nivelguaiba.com.br/" target="_blank" rel="noopener">Nível Guaíba ↗</a>, atualizados a cada 30 minutos. Em risco, ligue <a href="contatos-emergencia.html#defesa-civil"><strong>199</strong> (Defesa Civil)</a>.</p>
 
       <div class="river-sources">
         <span class="section-label">Mais fontes</span>
@@ -203,6 +218,8 @@
           <li>Kit básico separado: documentos, remédios de uso contínuo, água e lanterna.</li>
           <li>Combine com a família um ponto de encontro em local mais alto.</li>
           <li>Salve os contatos de emergência no celular antes de precisar.</li>
+          <li>Violência contra a mulher: <a href="mulher.html">Delegacia da Mulher em Guaíba</a>.</li>
+          <li>Animal em risco: <a href="ajude-um-pet.html">Ajude um pet — SEBEA e canais de denúncia</a>.</li>
           <li>Siga os canais oficiais da Defesa Civil — cada evento é diferente.</li>
         </ul>
       </details>
@@ -357,6 +374,6 @@
 <script src="editais-data.js"></script>
 <script src="servicos-data.js"></script>
 <script src="analytics-config.js"></script>
-<script src="script.js"></script>
+<script src="script.js?v=8"></script>
 </body>
 </html>

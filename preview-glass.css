@@ -1,0 +1,230 @@
+/* Guaipecaz — Gaúcho + Maré + Painel + vidro */
+
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=Karla:wght@400;500;600;700&family=Lora:wght@500;600;700&display=swap');
+
+[data-theme="mare"] {
+  --paper: rgba(7, 24, 40, 0.72);
+  --paper-light: rgba(12, 34, 54, 0.78);
+  --paper-elevated: rgba(16, 42, 66, 0.82);
+  --ink: #f0f6fc;
+  --ink-soft: #8aa8c4;
+  --river: #48d4f0;
+  --river-dark: #2eb8d4;
+  --river-glow: rgba(72, 212, 240, 0.22);
+  --gold: #ffd166;
+  --gold-soft: #ffe08a;
+  --sand: rgba(72, 212, 240, 0.22);
+  --white: #ffffff;
+  --emergency-bg: rgba(26, 16, 32, 0.88);
+  --emergency-border: rgba(255, 209, 102, 0.35);
+  --shadow: 0 12px 40px rgba(4, 10, 19, 0.45);
+  --header-bg: rgba(7, 24, 40, 0.55);
+  --hero-overlay: linear-gradient(180deg, rgba(7, 24, 40, 0.25) 0%, rgba(7, 24, 40, 0.88) 100%);
+  --glass-blur: 18px;
+  --glass-border: rgba(72, 212, 240, 0.28);
+}
+
+:root {
+  --font-display: 'Lora', Georgia, serif;
+  --font-body: 'Karla', system-ui, sans-serif;
+  --font-mono: 'Courier Prime', monospace;
+}
+
+html, body { min-height: 100%; }
+
+body.gz-glass-body {
+  font-family: var(--font-body);
+  color: var(--ink);
+  background-color: #040a13;
+  background-image:
+    linear-gradient(180deg, rgba(4, 10, 19, 0.55) 0%, rgba(7, 24, 40, 0.82) 45%, rgba(4, 10, 19, 0.92) 100%),
+    var(--gz-bg-image, url('assets/backgrounds/bg-por-sol.jpg'));
+  background-size: cover;
+  background-position: center 30%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+/* Vidro — superfícies */
+.gz-glass-body .gz-header,
+.gz-glass-body .gz-emergency,
+.gz-glass-body .gz-pulse,
+.gz-glass-body .gz-live-card,
+.gz-glass-body .gz-clima-pill,
+.gz-glass-body .gz-local-card,
+.gz-glass-body .gz-community,
+.gz-glass-body .theme-note,
+.gz-glass-body .gz-section-head,
+.gz-glass-body .glass-panel {
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+}
+
+.gz-glass-body .gz-header {
+  background: var(--header-bg);
+  border-bottom: 1px solid var(--glass-border);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.25);
+}
+
+.gz-glass-body .gz-brand {
+  font-family: var(--font-display);
+}
+
+.gz-glass-body .gz-emergency {
+  background: var(--emergency-bg);
+  border-bottom: 1px solid var(--emergency-border);
+}
+
+.gz-glass-body .gz-pulse {
+  background: rgba(72, 212, 240, 0.12);
+  border-bottom: 1px solid var(--glass-border);
+}
+
+.gz-glass-body .gz-hero {
+  background: transparent;
+  padding-top: 28px;
+  padding-bottom: 8px;
+}
+.gz-glass-body .gz-hero h1 {
+  font-family: var(--font-display);
+  text-shadow: 0 2px 24px rgba(4, 10, 19, 0.8);
+}
+.gz-glass-body .gz-hero .lede {
+  text-shadow: 0 1px 12px rgba(4, 10, 19, 0.7);
+}
+
+.gz-glass-body .gz-live-card,
+.gz-glass-body .gz-clima-pill,
+.gz-glass-body .gz-local-card {
+  background: var(--paper-elevated);
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--shadow);
+}
+
+.gz-glass-body .gz-live-card:hover,
+.gz-glass-body .gz-local-card:hover {
+  border-color: var(--river);
+  box-shadow: 0 0 0 1px var(--river-glow), var(--shadow);
+}
+
+.gz-glass-body .gz-live-card__value {
+  font-family: var(--font-display);
+}
+
+.gz-glass-body .gz-community {
+  background: var(--paper-elevated);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+}
+
+.gz-glass-body .gz-main {
+  padding-bottom: 48px;
+}
+
+.gz-glass-body .theme-note {
+  background: rgba(16, 42, 66, 0.75);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius);
+  padding: 12px 16px;
+}
+
+/* Painel — grade Agora */
+.gz-glass-body .gz-agora-grid--painel {
+  display: grid;
+  gap: 14px;
+}
+@media (min-width: 700px) {
+  .gz-glass-body .gz-agora-grid--painel {
+    grid-template-columns: 1fr 1fr;
+  }
+  .gz-glass-body .gz-agora-grid--painel .gz-live-card--wide {
+    grid-column: 1 / -1;
+  }
+}
+
+/* Seletor de imagens */
+.bg-picker {
+  margin: 20px 0 28px;
+  padding: 18px;
+  border-radius: var(--radius-lg);
+  background: rgba(16, 42, 66, 0.82);
+  border: 1px solid var(--glass-border);
+  backdrop-filter: blur(var(--glass-blur));
+}
+.bg-picker h2 {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  margin: 0 0 6px;
+}
+.bg-picker p {
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  margin: 0 0 14px;
+  line-height: 1.5;
+}
+.bg-picker__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 10px;
+}
+.bg-option {
+  position: relative;
+  border: 2px solid transparent;
+  border-radius: 12px;
+  overflow: hidden;
+  cursor: pointer;
+  padding: 0;
+  background: none;
+  text-align: left;
+  transition: border-color var(--transition), transform var(--transition);
+}
+.bg-option:hover {
+  border-color: var(--river);
+  transform: translateY(-2px);
+}
+.bg-option.is-active {
+  border-color: var(--gold);
+  box-shadow: 0 0 0 1px var(--gold-soft);
+}
+.bg-option img {
+  width: 100%;
+  height: 88px;
+  object-fit: cover;
+  display: block;
+}
+.bg-option__label {
+  display: block;
+  padding: 8px 10px;
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  background: rgba(7, 24, 40, 0.92);
+  color: var(--ink);
+  line-height: 1.35;
+}
+.bg-option__credit {
+  display: block;
+  font-size: 0.55rem;
+  color: var(--ink-soft);
+  margin-top: 2px;
+}
+
+.glass-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--river);
+  margin-bottom: 8px;
+}
+.glass-badge::before {
+  content: '';
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--gold);
+  box-shadow: 0 0 8px var(--gold);
+}

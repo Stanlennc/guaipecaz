@@ -42,11 +42,13 @@
 
 <div class="emergency-strip">
   <div class="wrap">
-    <span class="label">Emergência</span>
-    <a href="tel:192">SAMU 192</a>
-    <a href="tel:193">Bombeiros 193</a>
-    <a href="tel:190">Polícia 190</a>
-    <a href="tel:199">Defesa Civil 199</a>
+    <span class="label">Contatos de emergência</span>
+    <a href="mulher.html">Delegacia da Mulher</a>
+    <a href="contatos-emergencia.html#samu">SAMU 192</a>
+    <a href="contatos-emergencia.html#bombeiros">Bombeiros 193</a>
+    <a href="contatos-emergencia.html#policia">Polícia 190</a>
+    <a href="contatos-emergencia.html#defesa-civil">Defesa Civil 199</a>
+    <a href="ajude-um-pet.html">Ajude um pet</a>
   </div>
 </div>
 
@@ -59,6 +61,10 @@
     <div class="source-note">
       <strong>Fonte:</strong> CNES/DATASUS, consultado a partir do CNPJ da Prefeitura Municipal de Guaíba. Cada unidade tem uma ficha oficial própria — clique em "Ver ficha" para endereço, telefone e detalhes completos. Lista com 28 unidades, revisada periodicamente.
     </div>
+
+    <p class="section-label">Cidade</p>
+    <div class="cidade-selector" data-cidade-selector aria-label="Selecionar cidade para o mapa"></div>
+    <p class="river-note" id="saudeMapNota"></p>
 
     <p class="section-label">Mapa das unidades</p>
     <div id="saudeMap" class="saude-map" aria-label="Mapa das unidades de saúde de Guaíba"></div>
@@ -265,6 +271,6 @@
 
 <script src="unidades-map-data.js"></script>
 <script src="analytics-config.js"></script>
-<script src="script.js"></script>
+<script src="script.js?v=8"></script>
 </body>
 </html>

@@ -1,21 +1,28 @@
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=Karla:wght@400;500;600;700&family=Lora:wght@500;600;700&display=swap');
 
 :root {
-  --paper: #071828;
-  --paper-light: #0c2236;
-  --paper-elevated: #102a42;
+  --paper-solid: #071828;
+  --paper: rgba(7, 24, 40, 0.72);
+  --paper-light: rgba(12, 34, 54, 0.78);
+  --paper-elevated: rgba(16, 42, 66, 0.82);
   --ink: #f0f6fc;
   --ink-soft: #8aa8c4;
   --river: #48d4f0;
   --river-dark: #2eb8d4;
   --river-deep: #040a13;
-  --river-glow: rgba(72, 212, 240, 0.18);
+  --river-glow: rgba(72, 212, 240, 0.22);
   --gold: #ffd166;
   --gold-soft: #ffe08a;
-  --sand: #1a3a52;
+  --sand: rgba(72, 212, 240, 0.22);
   --mist: #8aa8c4;
   --white: #ffffff;
   --emergency-link: #f0f6fc;
+  --emergency-bg: rgba(26, 16, 32, 0.88);
+  --emergency-border: rgba(255, 209, 102, 0.35);
+  --header-bg: rgba(7, 24, 40, 0.55);
+  --glass-blur: 18px;
+  --glass-border: rgba(72, 212, 240, 0.28);
+  --bg-image: url('assets/backgrounds/bg-por-sol.jpg');
 
   --accent-health: #4ec9a0;
   --accent-docs: #7eb8da;
@@ -28,25 +35,33 @@
   --status-alert: #ffd166;
   --status-danger: #e85d5d;
 
-  --font-display: 'Fraunces', serif;
-  --font-body: 'Inter', system-ui, sans-serif;
-  --font-mono: 'IBM Plex Mono', monospace;
+  --font-display: 'Lora', Georgia, serif;
+  --font-body: 'Karla', system-ui, sans-serif;
+  --font-mono: 'Courier Prime', monospace;
 
   --radius: 12px;
   --radius-lg: 16px;
   --max-width: 1080px;
-  --shadow-soft: 0 4px 16px rgba(0, 0, 0, 0.4);
+  --shadow-soft: 0 12px 40px rgba(4, 10, 19, 0.45);
   --shadow-hover: 0 12px 40px rgba(72, 212, 240, 0.14);
   --shadow-glow: 0 0 0 1px var(--river-glow);
   --transition: 0.22s ease;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; min-height: 100%; }
 
 body {
   margin: 0;
-  background: var(--paper);
+  min-height: 100%;
+  background-color: var(--river-deep);
+  background-image:
+    linear-gradient(180deg, rgba(4, 10, 19, 0.55) 0%, rgba(7, 24, 40, 0.82) 45%, rgba(4, 10, 19, 0.92) 100%),
+    var(--bg-image);
+  background-size: cover;
+  background-position: center 30%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   color: var(--ink);
   font-family: var(--font-body);
   font-size: 16px;
@@ -54,6 +69,16 @@ body {
   -webkit-font-smoothing: antialiased;
   animation: page-in 0.45s ease;
 }
+
+/* Ajude um pet — fundo guaipeca (vira-lata), só esta página */
+body[data-apoio-page="pet"] {
+  --bg-image: url('assets/backgrounds/bg-guaipeca-viralata.jpg');
+  background-image:
+    linear-gradient(180deg, rgba(4, 10, 19, 0.65) 0%, rgba(7, 24, 40, 0.88) 50%, rgba(4, 10, 19, 0.94) 100%),
+    var(--bg-image);
+  background-position: center 38%;
+}
+
 @keyframes page-in {
   from { opacity: 0; transform: translateY(6px); }
   to { opacity: 1; transform: translateY(0); }
@@ -67,10 +92,11 @@ img, svg { max-width: 100%; display: block; }
 
 /* ---------- Header ---------- */
 .site-header {
-  background: rgba(18, 26, 34, 0.88);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border-bottom: 1px solid rgba(36, 48, 64, 0.6);
+  background: var(--header-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  border-bottom: 1px solid var(--glass-border);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.25);
   position: sticky;
   top: 0;
   z-index: 50;
@@ -198,8 +224,8 @@ nav.main-nav a.active { color: var(--river); }
 
 /* ---------- Emergency strip ---------- */
 .emergency-strip {
-  background: linear-gradient(90deg, var(--river-deep) 0%, #0c1820 100%);
-  border-bottom: 1px solid rgba(61, 173, 184, 0.15);
+  background: var(--emergency-bg);
+  border-bottom: 1px solid var(--emergency-border);
 }
 .emergency-strip .wrap {
   display: flex;
@@ -220,13 +246,49 @@ nav.main-nav a.active { color: var(--river); }
   text-transform: uppercase;
   letter-spacing: 0.06em;
 }
+.emergency-pair {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.emergency-map {
+  opacity: 0.75;
+  font-size: 0.62rem;
+  padding: 0 2px;
+}
+.emergency-map:hover { opacity: 1; color: var(--gold-soft); }
+
+.map-legenda {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  margin-bottom: 10px;
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  color: var(--ink-soft);
+}
+.map-legenda__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.map-legenda__dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 1px rgba(0,0,0,0.15);
+}
+.map-legenda__dot--regional {
+  background: transparent;
+  border-color: #f4d35e;
+  box-shadow: none;
+}
 
 /* ---------- Hero ---------- */
 .hero-band {
-  background:
-    linear-gradient(180deg, rgba(6, 14, 20, 0.88) 0%, rgba(10, 30, 38, 0.72) 50%, rgba(20, 60, 70, 0.45) 100%),
-    url('https://commons.wikimedia.org/wiki/Special:FilePath/P%C3%ADer_de_Gua%C3%ADba.jpg') center 58% / cover no-repeat;
-  color: var(--paper-light);
+  background: transparent;
+  color: var(--ink);
   padding: 64px 0 80px;
   overflow: hidden;
   position: relative;
@@ -242,6 +304,12 @@ nav.main-nav a.active { color: var(--river); }
 }
 .photo-credit a { color: rgba(232, 237, 242, 0.6); text-decoration: none; }
 .photo-credit a:hover { color: var(--gold-soft); }
+.photo-credit--page {
+  text-align: left;
+  padding: 0;
+  margin-top: 8px;
+  margin-bottom: 0;
+}
 .hero-band .wrap { position: relative; z-index: 2; }
 .hero-band .section-label { color: var(--gold); }
 .hero-band h1 {
@@ -253,13 +321,15 @@ nav.main-nav a.active { color: var(--river); }
   max-width: 16ch;
   letter-spacing: -0.02em;
   color: var(--white);
+  text-shadow: 0 2px 24px rgba(4, 10, 19, 0.8);
 }
 .hero-band p.lede {
   font-size: 1.05rem;
-  color: rgba(232, 237, 242, 0.78);
+  color: rgba(232, 237, 242, 0.88);
   max-width: 50ch;
   margin: 0 0 28px;
   line-height: 1.65;
+  text-shadow: 0 1px 12px rgba(4, 10, 19, 0.7);
 }
 .waterline { width: 100%; height: 56px; display: block; margin-top: 4px; }
 .waterline path.fill { fill: var(--river); opacity: 0.14; stroke: none; }
@@ -278,7 +348,7 @@ nav.main-nav a.active { color: var(--river); }
   border-radius: var(--radius-lg);
   padding: 22px 22px 14px;
   box-shadow: var(--shadow-soft), var(--shadow-glow);
-  border: 1px solid rgba(61, 173, 184, 0.12);
+  border: 1px solid var(--glass-border);
 }
 .now-header {
   display: flex;
@@ -308,8 +378,11 @@ nav.main-nav a.active { color: var(--river); }
   grid-template-columns: 1fr;
   gap: 14px;
 }
+.now-grid--rivers {
+  margin-bottom: 14px;
+}
 @media (min-width: 700px) {
-  .now-grid { grid-template-columns: 1fr 1fr 1.15fr; }
+  .now-grid--rivers { grid-template-columns: 1fr 1fr; }
 }
 
 .now-card {
@@ -320,8 +393,8 @@ nav.main-nav a.active { color: var(--river); }
   overflow: hidden;
   transition: border-color var(--transition), box-shadow var(--transition);
 }
-.now-card .river-card__body,
-.now-card.weather-card {
+.now-card.weather-card--wide,
+.now-card .river-card__body {
   padding: 18px 16px;
 }
 .now-card:hover {
@@ -329,31 +402,54 @@ nav.main-nav a.active { color: var(--river); }
   box-shadow: var(--shadow-glow);
 }
 
-/* River cards */
-.river-card__photo {
-  position: relative;
-  height: 118px;
-  background: var(--paper-elevated);
+/* River cards — miniatura lateral + dados */
+.river-card__layout {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  padding: 16px;
 }
-.river-card__photo img {
+.river-card__thumb {
+  flex: 0 0 84px;
+  width: 84px;
+  height: 64px;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+  border: 1px solid var(--sand);
+  display: block;
+  text-decoration: none;
+  background: var(--paper-elevated);
+  transition: border-color var(--transition), transform var(--transition);
+}
+.river-card__thumb:hover {
+  border-color: var(--river);
+  transform: translateY(-1px);
+}
+.river-card__thumb img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   display: block;
 }
-.river-card__photo-credit {
+.river-card__thumb-badge {
   position: absolute;
   left: 0;
   right: 0;
   bottom: 0;
-  padding: 5px 10px;
+  padding: 3px 4px;
   font-family: var(--font-mono);
-  font-size: 0.58rem;
+  font-size: 0.5rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
   color: var(--ink);
-  background: linear-gradient(transparent, rgba(7, 24, 40, 0.9));
+  text-align: center;
+  background: linear-gradient(transparent, rgba(7, 24, 40, 0.92));
 }
-.river-card--has-photo .river-card__body {
-  padding-top: 14px;
+.river-card__body {
+  flex: 1;
+  min-width: 0;
+  padding: 0 !important;
 }
 .river-card .river-name {
   font-family: var(--font-mono);
@@ -434,6 +530,32 @@ nav.main-nav a.active { color: var(--river); }
 }
 
 /* Weather card */
+.weather-cities {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+.weather-city {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  color: var(--ink-soft);
+  background: var(--paper-elevated);
+  border: 1px solid var(--sand);
+  border-radius: 999px;
+  padding: 6px 12px;
+  cursor: pointer;
+  transition: border-color var(--transition), color var(--transition), background var(--transition);
+}
+.weather-city:hover {
+  border-color: var(--river);
+  color: var(--river);
+}
+.weather-city.is-active {
+  color: var(--ink);
+  background: var(--river-glow);
+  border-color: var(--river);
+}
 .weather-card .weather-head {
   display: flex;
   align-items: center;
@@ -457,6 +579,72 @@ nav.main-nav a.active { color: var(--river); }
   font-size: 0.82rem;
   color: var(--ink-soft);
   margin-left: auto;
+}
+.weather-week {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 6px;
+  margin: 0 0 14px;
+  overflow-x: auto;
+  padding-bottom: 4px;
+}
+@media (max-width: 699px) {
+  .weather-week {
+    grid-template-columns: repeat(7, 72px);
+  }
+}
+.wx-day-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 8px 4px;
+  border-radius: 10px;
+  border: 1px solid var(--sand);
+  background: var(--paper-elevated);
+  text-align: center;
+  min-width: 0;
+}
+.wx-day-item--skeleton {
+  min-height: 88px;
+  animation: skeleton-shimmer 1.4s ease infinite;
+  background: linear-gradient(90deg, var(--paper-elevated) 0%, var(--sand) 50%, var(--paper-elevated) 100%);
+  background-size: 200% 100%;
+}
+.wx-day-item__name {
+  font-family: var(--font-mono);
+  font-size: 0.58rem;
+  text-transform: capitalize;
+  color: var(--ink-soft);
+}
+.wx-day-item__icon {
+  width: 22px;
+  height: 22px;
+  color: var(--gold);
+}
+.wx-day-item__temps {
+  font-family: var(--font-display);
+  font-size: 0.82rem;
+  line-height: 1.1;
+}
+.wx-day-item__temps strong {
+  display: block;
+  color: var(--ink);
+}
+.wx-day-item__min {
+  font-size: 0.62rem;
+  color: var(--ink-soft);
+}
+.wx-day-item__rain {
+  font-family: var(--font-mono);
+  font-size: 0.58rem;
+  color: var(--river);
+}
+.weather-week__error {
+  grid-column: 1 / -1;
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  margin: 0;
 }
 .weather-days {
   display: flex;
@@ -483,7 +671,7 @@ nav.main-nav a.active { color: var(--river); }
   font-family: var(--font-mono);
   font-size: 0.72rem;
   color: var(--ink-soft);
-  margin: 0 0 10px;
+  margin: 0 0 12px;
 }
 
 .river-sources {
@@ -847,7 +1035,7 @@ nav.main-nav a.active { color: var(--river); }
   border-radius: var(--radius-lg);
   padding: 20px 22px 14px;
   box-shadow: var(--shadow-soft), var(--shadow-glow);
-  border: 1px solid rgba(61, 173, 184, 0.12);
+  border: 1px solid var(--glass-border);
 }
 .guibanews-header {
   display: flex;
@@ -863,7 +1051,7 @@ nav.main-nav a.active { color: var(--river); }
   letter-spacing: 0.06em;
   text-transform: uppercase;
   background: linear-gradient(135deg, var(--gold) 0%, #c98658 100%);
-  color: var(--paper);
+  color: var(--paper-solid);
   padding: 5px 14px;
   border-radius: 999px;
 }
@@ -1188,6 +1376,105 @@ nav.main-nav a.active { color: var(--river); }
   white-space: nowrap;
 }
 .data-row.hidden { display: none; }
+.data-row__meta {
+  flex: 1 1 100%;
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  line-height: 1.45;
+}
+.data-row__note {
+  flex: 1 1 100%;
+  font-size: 0.76rem;
+  color: var(--mist);
+  font-style: italic;
+  line-height: 1.45;
+}
+.data-row__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 14px;
+  align-items: center;
+}
+.apoio-lede { margin-top: -4px; margin-bottom: 18px; }
+.apoio-map {
+  height: 380px;
+  border-radius: var(--radius);
+  border: 1px solid var(--glass-border);
+  margin-bottom: 12px;
+  z-index: 1;
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+}
+.apoio-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 28px;
+}
+.apoio-steps {
+  list-style: none;
+  margin: 0 0 28px;
+  padding: 0;
+  display: grid;
+  gap: 12px;
+}
+.apoio-step {
+  background: var(--paper-light);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius);
+  padding: 16px 18px;
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+}
+.apoio-step--urgent {
+  border-color: rgba(255, 209, 102, 0.45);
+  box-shadow: 0 0 0 1px rgba(255, 209, 102, 0.12);
+}
+.apoio-step strong {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 1rem;
+  margin-bottom: 6px;
+  color: var(--ink);
+}
+.apoio-step p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  line-height: 1.55;
+}
+.apoio-step a { font-family: var(--font-mono); font-size: 0.82rem; }
+.card-grid--2 { max-width: 720px; }
+
+.cidade-selector {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+.emergencia-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 16px 0 24px;
+}
+.emergencia-servico {
+  margin-bottom: 28px;
+  scroll-margin-top: 88px;
+}
+.emergencia-servico__title {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  margin: 0 0 6px;
+  color: var(--ink);
+}
+.emergencia-servico__desc {
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  margin: 0 0 12px;
+  line-height: 1.5;
+}
+@media (min-width: 640px) { .card-grid--2 { grid-template-columns: 1fr 1fr; } }
 
 .chip-row {
   display: flex;
@@ -1239,6 +1526,26 @@ footer.site-footer .foot-links {
   font-family: var(--font-mono);
   font-size: 0.74rem;
   margin-top: 14px;
+}
+
+/* ---------- Vidro — superfícies sobre o pôr do sol ---------- */
+.site-header,
+.emergency-strip,
+.mobile-nav.open,
+.now-section,
+.now-card,
+.card,
+.guibanews-band,
+.manchete-lead,
+footer.site-footer,
+.enquete-card,
+.noticia-hero,
+.noticia-article__disclaimer,
+.prep-tips,
+.wx-day-item,
+.river-card__thumb {
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
 }
 
 /* ---------- Scroll reveal ---------- */
@@ -1444,11 +1751,27 @@ button:focus-visible {
   margin: 0 0 18px;
 }
 .noticia-article__resumo {
-  font-size: 1.05rem;
-  line-height: 1.65;
+  font-size: 1.08rem;
+  line-height: 1.6;
   color: var(--ink-soft);
-  margin: 0 0 24px;
+  margin: 0 0 20px;
   max-width: 68ch;
+  font-style: italic;
+  border-left: 3px solid var(--river);
+  padding-left: 14px;
+}
+.noticia-article__body {
+  font-size: 1.02rem;
+  line-height: 1.72;
+  color: var(--ink);
+  margin: 0 0 28px;
+  max-width: 68ch;
+}
+.noticia-article__body p {
+  margin: 0 0 1.1em;
+}
+.noticia-article__body p:last-child {
+  margin-bottom: 0;
 }
 .noticia-article__resumo--empty {
   font-style: italic;

@@ -1,0 +1,237 @@
+/* Tipografias — prévia Guaipecaz (complementa preview-guaipecaz.css) */
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@500;600;700&family=Courier+Prime:wght@400;700&family=DM+Sans:wght@400;500;600;700&family=Inconsolata:wght@400;500&family=JetBrains+Mono:wght@400;500&family=Karla:wght@400;500;600;700&family=Lora:wght@500;600;700&family=Nunito+Sans:wght@400;600;700&family=Outfit:wght@500;600;700&family=Playfair+Display:wght@600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Roboto+Mono:wght@400;500&family=Source+Serif+4:wght@400;600;700&family=Space+Grotesk:wght@500;600;700&family=Space+Mono:wght@400;700&display=swap');
+
+[data-font="mare"] {
+  --font-display: 'Fraunces', serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+  --type-scale: 1;
+  --type-tracking: 0;
+}
+
+[data-font="jornal"] {
+  --font-display: 'Playfair Display', serif;
+  --font-body: 'Source Serif 4', Georgia, serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --type-scale: 1.02;
+  --type-tracking: 0.01em;
+}
+
+[data-font="painel"] {
+  --font-display: 'Space Grotesk', system-ui, sans-serif;
+  --font-body: 'DM Sans', system-ui, sans-serif;
+  --font-mono: 'Space Mono', monospace;
+  --type-scale: 0.98;
+  --type-tracking: -0.02em;
+}
+
+[data-font="civico"] {
+  --font-display: 'Bitter', Georgia, serif;
+  --font-body: 'Nunito Sans', system-ui, sans-serif;
+  --font-mono: 'Inconsolata', monospace;
+  --type-scale: 1;
+  --type-tracking: 0;
+}
+
+[data-font="geometrico"] {
+  --font-display: 'Outfit', system-ui, sans-serif;
+  --font-body: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-mono: 'Roboto Mono', monospace;
+  --type-scale: 0.97;
+  --type-tracking: -0.015em;
+}
+
+[data-font="gaucho"] {
+  --font-display: 'Lora', Georgia, serif;
+  --font-body: 'Karla', system-ui, sans-serif;
+  --font-mono: 'Courier Prime', monospace;
+  --type-scale: 1.01;
+  --type-tracking: 0.005em;
+}
+
+body {
+  font-family: var(--font-body);
+  letter-spacing: var(--type-tracking);
+}
+
+.gz-brand,
+.font-demo h1,
+.font-card h2,
+.type-specimen__display {
+  font-family: var(--font-display);
+}
+
+.font-demo .gz-live-card__value,
+.font-demo .gz-clima-pill__temp,
+.type-specimen__mono,
+.gz-updated,
+.pulse-label,
+.tag {
+  font-family: var(--font-mono);
+}
+
+.fonts-intro {
+  margin: 28px 0 24px;
+  max-width: 62ch;
+}
+.fonts-intro h1 {
+  font-family: var(--font-display);
+  font-size: clamp(1.8rem, 4vw, 2.4rem);
+  margin: 8px 0 12px;
+}
+.fonts-intro p {
+  color: var(--ink-soft);
+  margin: 0;
+  line-height: 1.6;
+}
+
+.fonts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+  margin-bottom: 32px;
+}
+
+.font-card {
+  background: var(--paper-elevated);
+  border: 1px solid var(--sand);
+  border-radius: var(--radius-lg);
+  padding: 18px;
+  cursor: pointer;
+  transition: border-color var(--transition), box-shadow var(--transition), transform var(--transition);
+}
+.font-card:hover {
+  border-color: var(--river);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow);
+}
+.font-card.is-active {
+  border-color: var(--river);
+  box-shadow: 0 0 0 1px var(--river-glow);
+}
+.font-card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+.font-tag {
+  font-family: var(--font-mono);
+  font-size: 0.58rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 3px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--sand);
+  color: var(--ink-soft);
+}
+.font-card h2 {
+  font-size: 1.25rem;
+  margin: 0 0 6px;
+}
+.font-card__mood {
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  margin: 0 0 14px;
+  line-height: 1.5;
+}
+.font-card__stack {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  color: var(--river);
+  line-height: 1.7;
+  margin-bottom: 12px;
+}
+.font-card__sample {
+  padding: 12px;
+  border-radius: var(--radius);
+  background: var(--paper);
+  border: 1px solid var(--sand);
+}
+.font-card__sample-display {
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 6px;
+}
+.font-card__sample-body {
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+  line-height: 1.45;
+}
+
+.font-live-demo {
+  background: var(--paper-elevated);
+  border: 1px solid var(--sand);
+  border-radius: var(--radius-lg);
+  padding: 22px;
+  margin-bottom: 32px;
+}
+.font-live-demo__label {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--river);
+  margin-bottom: 16px;
+}
+
+.type-specimen {
+  display: grid;
+  gap: 20px;
+  margin-bottom: 36px;
+}
+@media (min-width: 760px) {
+  .type-specimen { grid-template-columns: 1fr 1fr; }
+}
+.type-specimen__block {
+  padding: 18px;
+  border-radius: var(--radius);
+  border: 1px solid var(--sand);
+  background: var(--paper);
+}
+.type-specimen__label {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  color: var(--ink-soft);
+  margin-bottom: 10px;
+}
+.type-specimen__display {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.15;
+  margin-bottom: 8px;
+}
+.type-specimen__body {
+  font-size: 1rem;
+  line-height: 1.65;
+  color: var(--ink-soft);
+}
+.type-specimen__mono {
+  font-size: 0.78rem;
+  color: var(--river);
+}
+
+.font-compare-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.82rem;
+  margin-bottom: 40px;
+}
+.font-compare-table th,
+.font-compare-table td {
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--sand);
+}
+.font-compare-table th {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+}
+
+.font-demo .gz-header { margin-bottom: 0; }
+.font-demo .gz-emergency { margin-top: 0; }

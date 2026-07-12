@@ -2,13 +2,9 @@
 """Gera coordenadas aproximadas das unidades de saúde para o mapa."""
 
 import json
-import re
 import sys
 import time
 from pathlib import Path
-
-import requests
-from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent.parent
 SAUDE_HTML = ROOT / "saude.html"
@@ -43,6 +39,7 @@ def guess_coords(name):
 
 
 def geocode(name):
+    import requests
     query = f"{name}, Guaíba, RS, Brasil"
     url = "https://nominatim.openstreetmap.org/search"
     try:
@@ -62,6 +59,7 @@ def geocode(name):
 
 
 def parse_units():
+    from bs4 import BeautifulSoup
     html = SAUDE_HTML.read_text(encoding="utf-8")
     soup = BeautifulSoup(html, "html.parser")
     units = []
@@ -78,6 +76,19 @@ def parse_units():
             "data_cat": row.get("data-cat", ""),
         })
     return units
+
+
+def regen_js_only():
+    if not OUTPUT.exists():
+        print(f"{OUTPUT.name} não encontrado", file=sys.stderr)
+        sys.exit(1)
+    payload = json.loads(OUTPUT.read_text(encoding="utf-8"))
+    js_path = ROOT / "unidades-map-data.js"
+    js_path.write_text(
+        "window.GUIUNIDADES_DATA = " + json.dumps(payload, ensure_ascii=False) + ";\n",
+        encoding="utf-8",
+    )
+    print(f"Salvo {len(payload.get('unidades', []))} unidades em {js_path.name}", file=sys.stderr)
 
 
 def main():
@@ -98,4 +109,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) > 1 and sys.argv[1] == "--from-json":
+        regen_js_only()
+    else:
+        main()

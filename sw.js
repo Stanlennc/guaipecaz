@@ -1,13 +1,23 @@
-const CACHE = 'guaipecas-v1';
+const CACHE = 'guaipecas-v9';
 const SHELL = [
   '/',
   '/index.html',
   '/guibanews.html',
   '/noticia.html',
   '/servicos.html',
+  '/participe.html',
   '/saude.html',
   '/diario-oficial.html',
   '/contatos.html',
+  '/contatos-emergencia.html',
+  '/mulher.html',
+  '/ajude-um-pet.html',
+  '/apoio.json',
+  '/apoio-data.js',
+  '/emergencia.json',
+  '/emergencia-data.js',
+  '/unidades-map.json',
+  '/unidades-map-data.js',
   '/styles.css',
   '/script.js',
   '/manifest.json',
@@ -15,13 +25,22 @@ const SHELL = [
   '/assets/favicon.svg',
   '/assets/icon-192.png',
   '/assets/icon-512.png',
+  '/assets/backgrounds/bg-por-sol.jpg',
+  '/assets/backgrounds/bg-guaipeca-viralata.jpg',
   '/noticias-data.js',
   '/ofertas-data.js',
   '/rivers-data.js',
   '/editais-data.js',
   '/servicos-data.js',
-  '/unidades-map-data.js',
 ];
+
+function isNetworkFirst(url) {
+  var p = url.pathname;
+  if (p === '/' || p.endsWith('.html') || p.endsWith('.js') || p.endsWith('.json') || p.endsWith('.css')) {
+    return true;
+  }
+  return false;
+}
 
 self.addEventListener('install', function (event) {
   event.waitUntil(
@@ -47,16 +66,30 @@ self.addEventListener('fetch', function (event) {
   var url = new URL(event.request.url);
   if (url.origin !== self.location.origin) return;
 
-  event.respondWith(
-    caches.match(event.request).then(function (cached) {
-      var fetchPromise = fetch(event.request).then(function (response) {
+  if (isNetworkFirst(url)) {
+    event.respondWith(
+      fetch(event.request).then(function (response) {
         if (response && response.status === 200 && response.type === 'basic') {
           var copy = response.clone();
           caches.open(CACHE).then(function (cache) { cache.put(event.request, copy); });
         }
         return response;
-      }).catch(function () { return cached; });
-      return cached || fetchPromise;
+      }).catch(function () {
+        return caches.match(event.request);
+      })
+    );
+    return;
+  }
+
+  event.respondWith(
+    caches.match(event.request).then(function (cached) {
+      return cached || fetch(event.request).then(function (response) {
+        if (response && response.status === 200 && response.type === 'basic') {
+          var copy = response.clone();
+          caches.open(CACHE).then(function (cache) { cache.put(event.request, copy); });
+        }
+        return response;
+      });
     })
   );
 });

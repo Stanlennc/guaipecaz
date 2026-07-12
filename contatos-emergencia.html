@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contatos de emergência — Guaíba/RS · Guaipecas</title>
+<meta name="description" content="SAMU 192, Bombeiros 193, Polícia 190, Defesa Civil 199 e Disque 180 — telefones, endereços e mapa por cidade na região metropolitana.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#2eb8d4">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body data-emergencia-page="1">
+
+<header class="site-header">
+  <div class="wrap">
+    <a href="index.html" class="brand">Guaipecas
+      <small>Portal cidadão · Guaíba/RS</small>
+    </a>
+    <nav class="main-nav">
+      <a href="index.html">Início</a>
+      <a href="guibanews.html">Guibanews</a>
+      <a href="servicos.html">Serviços</a>
+      <a href="saude.html">Saúde</a>
+      <a href="diario-oficial.html">Diário Oficial</a>
+      <a href="contatos.html">Contatos</a>
+    </nav>
+    <button class="nav-toggle" aria-label="Abrir menu" aria-expanded="false" id="navToggle">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><line x1="4" y1="6" x2="20" y2="6"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="18" x2="20" y2="18"/></svg>
+    </button>
+  </div>
+  <div class="nav-backdrop" id="navBackdrop" hidden></div>
+  <div class="mobile-nav" id="mobileNav">
+    <a href="index.html">Início</a>
+    <a href="guibanews.html">Guibanews</a>
+    <a href="servicos.html">Serviços</a>
+    <a href="saude.html">Saúde</a>
+    <a href="diario-oficial.html">Diário Oficial</a>
+    <a href="contatos.html">Contatos</a>
+  </div>
+</header>
+
+<div class="emergency-strip">
+  <div class="wrap">
+    <span class="label">Contatos de emergência</span>
+    <a href="mulher.html">Delegacia da Mulher</a>
+    <a href="contatos-emergencia.html#samu">SAMU 192</a>
+    <a href="contatos-emergencia.html#bombeiros">Bombeiros 193</a>
+    <a href="contatos-emergencia.html#policia">Polícia 190</a>
+    <a href="contatos-emergencia.html#defesa-civil">Defesa Civil 199</a>
+    <a href="ajude-um-pet.html">Ajude um pet</a>
+  </div>
+</div>
+
+<main>
+  <div class="wrap">
+    <p class="breadcrumb"><a href="index.html">Início</a> / Contatos de emergência</p>
+    <h1 class="page-title">Contatos de emergência</h1>
+    <p class="page-lede" id="emergenciaLede">Telefones, endereços e mapa por cidade na região metropolitana.</p>
+
+    <div class="emergencia-cta" id="emergenciaCta">
+      <a class="cta-pill" href="tel:192">SAMU 192</a>
+      <a class="cta-pill" href="tel:193">Bombeiros 193</a>
+      <a class="cta-pill" href="tel:190">Polícia 190</a>
+      <a class="cta-pill" href="tel:199">Defesa Civil 199</a>
+    </div>
+
+    <p class="section-label">Cidade</p>
+    <div class="cidade-selector" data-cidade-selector aria-label="Selecionar cidade para o mapa"></div>
+    <p class="river-note" id="emergenciaCidadeNota">Os pontos no mapa mudam conforme a cidade selecionada — a mesma escolha vale para todos os mapas do site. O mapa requer conexão com a internet.</p>
+
+    <p class="section-label">Mapa da região</p>
+    <div class="map-legenda" id="emergenciaLegenda" aria-label="Legenda do mapa"></div>
+    <div id="emergenciaMap" class="apoio-map" aria-label="Mapa dos contatos de emergência por cidade"></div>
+
+    <hr class="divider">
+    <p class="section-label">Por serviço</p>
+
+    <section class="emergencia-servico" id="samu">
+      <h2 class="emergencia-servico__title">SAMU 192</h2>
+      <p class="emergencia-servico__desc" id="emergenciaDesc-samu"></p>
+      <ul class="data-list emergencia-list" id="emergenciaList-samu" aria-live="polite"><li class="data-row"><span class="name">Carregando contatos…</span></li></ul>
+    </section>
+
+    <section class="emergencia-servico" id="bombeiros">
+      <h2 class="emergencia-servico__title">Bombeiros 193</h2>
+      <p class="emergencia-servico__desc" id="emergenciaDesc-bombeiros"></p>
+      <ul class="data-list emergencia-list" id="emergenciaList-bombeiros" aria-live="polite"></ul>
+    </section>
+
+    <section class="emergencia-servico" id="policia">
+      <h2 class="emergencia-servico__title">Polícia 190</h2>
+      <p class="emergencia-servico__desc" id="emergenciaDesc-policia"></p>
+      <ul class="data-list emergencia-list" id="emergenciaList-policia" aria-live="polite"></ul>
+    </section>
+
+    <section class="emergencia-servico" id="defesa-civil">
+      <h2 class="emergencia-servico__title">Defesa Civil 199</h2>
+      <p class="emergencia-servico__desc" id="emergenciaDesc-defesa-civil"></p>
+      <ul class="data-list emergencia-list" id="emergenciaList-defesa-civil" aria-live="polite"></ul>
+    </section>
+
+    <section class="emergencia-servico" id="disque-180">
+      <h2 class="emergencia-servico__title">Disque 180</h2>
+      <p class="emergencia-servico__desc" id="emergenciaDesc-disque-180"></p>
+      <ul class="data-list emergencia-list" id="emergenciaList-disque-180" aria-live="polite"></ul>
+    </section>
+
+    <p class="river-note note-spaced">Em perigo imediato, ligue direto. Para violência contra a mulher com rede local em Guaíba, veja também a <a href="mulher.html">página da Delegacia da Mulher ↗</a>.</p>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p><strong>Guaipecas</strong> — iniciativa cidadã independente.</p>
+    <div class="foot-links">
+      <a href="index.html">← Voltar ao início</a>
+      <a href="contatos.html">Contatos úteis</a>
+    </div>
+    <p class="foot-note">Última verificação dos dados estáticos: 11/07/2026</p>
+  </div>
+</footer>
+
+<script src="analytics-config.js"></script>
+<script src="emergencia-data.js"></script>
+<script src="script.js?v=8"></script>
+</body>
+</html>

@@ -22,6 +22,7 @@ USER_AGENT = "GuaipecasBot/1.0 (+https://github.com/Stanlennc/guaipecas-repo)"
 MAX_ITEMS_HOME = 8
 MAX_ITEMS = 30
 MAX_IMAGE_FETCH = 28
+MAX_CONTENT_FETCH = 25
 
 MEDIA_NS = {"media": "http://search.yahoo.com/mrss/"}
 CONTENT_NS = "{http://purl.org/rss/1.0/modules/content/}encoded"
@@ -378,6 +379,117 @@ def clean_resumo(text):
     return text[:600].rstrip() + ("…" if len(text) > 600 else "")
 
 
+def html_to_text(fragment):
+    if not fragment:
+        return ""
+    text = re.sub(r"<(script|style)[^>]*>.*?</\1>", " ", fragment, flags=re.I | re.S)
+    text = re.sub(r"<br\s*/?>", " ", text, flags=re.I)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = strip_html_text(text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def should_skip_paragraph(text):
+    low = text.lower()
+    if len(text) < 40:
+        return True
+    skip_markers = (
+        "leia também", "leia tambem", "assine ", "publicidade",
+        "compartilhe", "siga o ", "veja também", "veja tambem",
+        "clique aqui", "inscreva-se", "newsletter",
+    )
+    if any(marker in low for marker in skip_markers):
+        return True
+    if "fa fa-circle" in low:
+        return True
+    return False
+
+
+def extract_paragraphs_from_block(html_block):
+    paragraphs = []
+    seen = set()
+    for match in re.finditer(r"<p[^>]*>(.*?)</p>", html_block, re.I | re.S):
+        text = html_to_text(match.group(1))
+        if should_skip_paragraph(text):
+            continue
+        key = text[:120]
+        if key in seen:
+            continue
+        seen.add(key)
+        paragraphs.append(text)
+    return paragraphs
+
+
+def extract_article_body(html, url=""):
+    """Extrai parágrafos do corpo da matéria."""
+    if not html:
+        return []
+
+    low_url = (url or "").lower()
+
+    if "reporterguaibense.com.br" in low_url:
+        match = re.search(
+            r'<div class="post_content"[^>]*>(.*?)</div>\s*<div class="post_comments"',
+            html,
+            re.I | re.S,
+        )
+        if match:
+            block = re.split(r"<div[^>]+class=['\"]related_post", match.group(1), flags=re.I)[0]
+            paras = extract_paragraphs_from_block(block)
+            if paras:
+                return paras[:30]
+
+    if "g1.globo.com" in low_url or "gauchazh.clicrbs.com.br" in low_url:
+        paragraphs = []
+        seen = set()
+        for match in re.finditer(
+            r'<p class=" content-text__container[^"]*"[^>]*>(.*?)</p>',
+            html,
+            re.I | re.S,
+        ):
+            text = html_to_text(match.group(1))
+            if should_skip_paragraph(text):
+                continue
+            key = text[:120]
+            if key in seen:
+                continue
+            seen.add(key)
+            paragraphs.append(text)
+        if paragraphs:
+            return paragraphs[:30]
+
+    for pattern in (
+        r'<div[^>]+class=["\'][^"\']*post[_-]?content[^"\']*["\'][^>]*>(.*?)</div>',
+        r'<div[^>]+class=["\'][^"\']*entry-content[^"\']*["\'][^>]*>(.*?)</div>',
+        r'<div[^>]+class=["\'][^"\']*article[_-]?body[^"\']*["\'][^>]*>(.*?)</div>',
+        r"<article[^>]*>(.*?)</article>",
+    ):
+        match = re.search(pattern, html, re.I | re.S)
+        if match:
+            paras = extract_paragraphs_from_block(match.group(1))
+            if len(paras) >= 2:
+                return paras[:30]
+
+    return []
+
+
+def conteudo_from_rss_item(item_el):
+    for tag in (CONTENT_NS, "description"):
+        block = item_el.find(tag)
+        if block is None or not block.text:
+            continue
+        raw = block.text.strip()
+        if len(raw) < 120:
+            continue
+        paras = extract_paragraphs_from_block(raw)
+        if len(paras) >= 2:
+            return paras[:30]
+        text = html_to_text(raw)
+        if len(text) >= 120 and not should_skip_paragraph(text):
+            return [text[:4000]]
+    return []
+
+
 def extract_og_description(html):
     if not html:
         return None
@@ -465,26 +577,89 @@ def image_from_html(html):
     return None
 
 
-def fetch_article_meta(url):
-    """Busca imagem e resumo na página da matéria (og: tags)."""
-    if not url:
-        return None, None
+REPORTER_URL_CACHE = []
 
-    target = decode_google_news_url(url)
+
+def load_reporter_article_urls():
+    if REPORTER_URL_CACHE:
+        return REPORTER_URL_CACHE
     headers = {"User-Agent": USER_AGENT}
     try:
-        resp = requests.get(target, headers=headers, timeout=12, allow_redirects=True)
+        resp = requests.get(REPORTER_HOME, headers=headers, timeout=20)
+        resp.raise_for_status()
+        REPORTER_URL_CACHE.extend(
+            dict.fromkeys(
+                m.group(0).rstrip("/")
+                for m in REPORTER_ARTICLE_RE.finditer(resp.text)
+            )
+        )
+    except Exception as exc:
+        print(f"reporter cache: {exc}", file=sys.stderr)
+    return REPORTER_URL_CACHE
+
+
+def find_reporter_url_by_title(titulo):
+    if not titulo:
+        return None
+    stop = {"guaiba", "guaíba", "para", "como", "sobre", "depois", "antes", "entre", "desde"}
+    words = {
+        w for w in re.findall(r"\w{4,}", titulo.lower())
+        if w not in stop
+    }
+    if len(words) < 2:
+        return None
+    best = None
+    best_score = 0
+    for url in load_reporter_article_urls():
+        slug = url.rsplit("/", 1)[-1].replace("-", " ")
+        slug_words = set(re.findall(r"\w{4,}", slug))
+        score = len(words & slug_words)
+        if score > best_score:
+            best_score = score
+            best = url
+    return best if best_score >= 3 else None
+
+
+def resolve_article_url(url, titulo="", fonte=""):
+    if not url or "news.google.com" not in url:
+        return url
+    fonte_low = (fonte or "").lower()
+    if "reporter" in fonte_low or "guaibense" in fonte_low:
+        found = find_reporter_url_by_title(titulo)
+        if found:
+            return found
+    decoded = decode_google_news_url(url)
+    return decoded or url
+
+
+def fetch_article_page(url, titulo="", fonte=""):
+    """Busca imagem, resumo e corpo da matéria na página original."""
+    if not url:
+        return None, None, []
+
+    target = resolve_article_url(url, titulo, fonte)
+    headers = {"User-Agent": USER_AGENT}
+    try:
+        resp = requests.get(target, headers=headers, timeout=15, allow_redirects=True)
         resp.raise_for_status()
         if "text/html" not in (resp.headers.get("Content-Type") or "").lower():
-            return None, None
-        html = resp.text[:150000]
+            return None, None, []
+        html = resp.text[:280000]
+        final_url = resp.url or target
         return (
             extract_og_image(html) or image_from_html(html),
             extract_og_description(html),
+            extract_article_body(html, final_url),
         )
     except Exception as exc:
-        print(f"meta {target[:60]}: {exc}", file=sys.stderr)
-        return None, None
+        print(f"pagina {target[:60]}: {exc}", file=sys.stderr)
+        return None, None, []
+
+
+def fetch_article_meta(url):
+    """Busca imagem e resumo na página da matéria (og: tags)."""
+    img, resumo, _ = fetch_article_page(url)
+    return img, resumo
 
 
 def fetch_article_image(url):
@@ -600,7 +775,9 @@ def scrape_reporter_home(max_items=14):
         try:
             page = requests.get(url, headers=headers, timeout=15)
             page.raise_for_status()
-            titulo, imagem, published, resumo = extract_page_meta(page.text[:160000])
+            page_html = page.text[:280000]
+            titulo, imagem, published, resumo = extract_page_meta(page_html)
+            conteudo = extract_article_body(page_html, url)
             if not titulo:
                 continue
             pub_dt = parse_published_value(published)
@@ -620,6 +797,8 @@ def scrape_reporter_home(max_items=14):
                 entry["imagem_credito"] = "Repórter Guaibense"
             if resumo:
                 entry["resumo"] = resumo
+            if conteudo:
+                entry["conteudo"] = conteudo
             if passes_filter(entry, "nenhum") and not is_junk_item(entry):
                 items.append(entry)
         except Exception as exc:
@@ -629,21 +808,25 @@ def scrape_reporter_home(max_items=14):
 
 
 def enrich_metadata(noticias):
-    """Preenche imagem, resumo e crédito quando a fonte original publica metadados."""
+    """Preenche imagem, resumo, corpo e crédito quando a fonte original publica metadados."""
     pending = [
-        item for item in noticias
-        if not item.get("imagem") or not item.get("resumo")
+        item for item in noticias[:MAX_ITEMS]
+        if not item.get("imagem") or not item.get("resumo") or not item.get("conteudo")
     ]
     direct = [item for item in pending if "news.google.com" not in (item.get("url") or "")]
     google = [item for item in pending if item not in direct]
     fetched = 0
 
     for item in direct + google:
-        if fetched >= MAX_IMAGE_FETCH:
+        if fetched >= MAX_CONTENT_FETCH:
             break
-        if item.get("imagem") and item.get("resumo"):
+        if item.get("imagem") and item.get("resumo") and item.get("conteudo"):
             continue
-        img, resumo = fetch_article_meta(item.get("url"))
+        img, resumo, conteudo = fetch_article_page(
+            item.get("url"),
+            item.get("titulo", ""),
+            item.get("fonte", ""),
+        )
         fetched += 1
         if img and not item.get("imagem"):
             item["imagem"] = img
@@ -652,10 +835,15 @@ def enrich_metadata(noticias):
         if resumo and not item.get("resumo"):
             item["resumo"] = resumo
             print(f"resumo og: {item['titulo'][:50]}…", file=sys.stderr)
+        if conteudo and not item.get("conteudo"):
+            item["conteudo"] = conteudo
+            print(f"texto og: {item['titulo'][:50]}… ({len(conteudo)} ¶)", file=sys.stderr)
 
     for item in noticias:
         if item.get("imagem"):
             item.setdefault("imagem_credito", item.get("fonte"))
+        if item.get("conteudo") and not item.get("resumo"):
+            item["resumo"] = item["conteudo"][0][:600]
     return noticias
 
 
@@ -723,6 +911,10 @@ def parse_rss(xml_text, feed_cfg):
         resumo = resumo_from_rss_item(item_el)
         if resumo:
             entry["resumo"] = resumo
+
+        conteudo = conteudo_from_rss_item(item_el)
+        if conteudo:
+            entry["conteudo"] = conteudo
 
         if passes_filter(entry, feed_cfg.get("filtro")) and not is_junk_item(entry):
             items.append(entry)
@@ -809,6 +1001,7 @@ def write_rss(noticias):
 
 
 def main():
+    load_reporter_article_urls()
     collected = []
 
     for feed in FEEDS:
