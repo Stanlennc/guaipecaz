@@ -18,6 +18,7 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -34,8 +35,9 @@ JS_OUTPUT = ROOT / "bairros-alerta-data.js"
 GUAIBA_LAT = -30.1116
 GUAIBA_LON = -51.3237
 
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash-lite")
 GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta"
+GEMINI_MIN_INTERVAL_HOURS = float(os.environ.get("GEMINI_MIN_INTERVAL_HOURS", "2"))
 
 RISCO_HIST_WEIGHT = {"alto": 1.0, "medio": 0.55, "baixo": 0.25}
 PROX_WEIGHT = {"alta": 0.18, "media": 0.10, "baixa": 0.04}
@@ -228,11 +230,66 @@ def gemini_api_key() -> str:
     )
 
 
-def generate_ai_texts(seed: dict, ctx: dict, computed: dict) -> dict | None:
+def load_cached_ai_texts() -> tuple[dict | None, str | None]:
+    """Reaproveita textos Gemini anteriores quando a API está em rate limit."""
+    if not OUTPUT.is_file():
+        return None, None
+    try:
+        prev = load_json(OUTPUT)
+    except Exception:
+        return None, None
+    fonte = prev.get("fonte_texto") or ""
+    if not fonte.startswith("Gemini"):
+        return None, None
+    gerado = prev.get("gerado_em")
+    if gerado:
+        age_h = (datetime.now(timezone.utc) - datetime.fromisoformat(gerado)).total_seconds() / 3600
+        if age_h > GEMINI_MIN_INTERVAL_HOURS * 3:
+            return None, None
+    cached = {}
+    for b in prev.get("bairros") or []:
+        bid = b.get("id")
+        if bid and b.get("texto"):
+            cached[bid] = {"texto": b["texto"], "acao": b.get("acao", "")}
+    return (cached if cached else None), fonte
+
+
+def should_call_gemini() -> bool:
+    if os.environ.get("GEMINI_FORCE", "").strip().lower() in ("1", "true", "yes"):
+        return True
+    if not OUTPUT.is_file():
+        return True
+    try:
+        prev = load_json(OUTPUT)
+        fonte = prev.get("fonte_texto") or ""
+        if not fonte.startswith("Gemini"):
+            return True
+        gerado = prev.get("gerado_em")
+        if not gerado:
+            return True
+        age_h = (datetime.now(timezone.utc) - datetime.fromisoformat(gerado)).total_seconds() / 3600
+        if age_h >= GEMINI_MIN_INTERVAL_HOURS:
+            return True
+        print(
+            f"Gemini em cache ({age_h:.1f}h < {GEMINI_MIN_INTERVAL_HOURS}h) — reaproveitando textos.",
+            file=sys.stderr,
+        )
+        return False
+    except Exception:
+        return True
+
+
+def generate_ai_texts(seed: dict, ctx: dict, computed: dict) -> tuple[dict | None, str | None]:
     api_key = gemini_api_key()
     if not api_key:
         print("GEMINI_API_KEY ausente — usando templates.", file=sys.stderr)
-        return None
+        return None, None
+
+    if not should_call_gemini():
+        cached, fonte = load_cached_ai_texts()
+        if cached:
+            return cached, fonte
+        print("Sem cache Gemini — tentando API.", file=sys.stderr)
 
     prompt = build_ai_prompt(seed, ctx, computed)
     url = f"{GEMINI_API_BASE}/models/{GEMINI_MODEL}:generateContent"
@@ -258,24 +315,45 @@ def generate_ai_texts(seed: dict, ctx: dict, computed: dict) -> dict | None:
         "Content-Type": "application/json",
         "x-goog-api-key": api_key,
     }
-    try:
-        resp = requests.post(url, headers=headers, json=payload, timeout=90)
-        resp.raise_for_status()
-        data = resp.json()
-        candidates = data.get("candidates") or []
-        if not candidates:
-            print("Gemini sem candidatos — fallback para templates.", file=sys.stderr)
-            return None
-        parts = (candidates[0].get("content") or {}).get("parts") or []
-        content = "".join(p.get("text", "") for p in parts)
-        parsed = parse_ai_json(content)
-        if parsed:
-            print(f"Textos IA gerados (Gemini {GEMINI_MODEL}, {len(parsed)} bairros).", file=sys.stderr)
-            return parsed
-        print("Resposta Gemini inválida — fallback para templates.", file=sys.stderr)
-    except Exception as exc:
-        print(f"Gemini falhou: {exc} — fallback para templates.", file=sys.stderr)
-    return None
+    delays = (5, 20, 45)
+    for attempt, delay in enumerate(delays, start=1):
+        try:
+            resp = requests.post(url, headers=headers, json=payload, timeout=90)
+            if resp.status_code == 429:
+                print(f"Gemini 429 (tentativa {attempt}/{len(delays)}) — aguarda {delay}s.", file=sys.stderr)
+                time.sleep(delay)
+                continue
+            resp.raise_for_status()
+            data = resp.json()
+            candidates = data.get("candidates") or []
+            if not candidates:
+                print("Gemini sem candidatos.", file=sys.stderr)
+                break
+            parts = (candidates[0].get("content") or {}).get("parts") or []
+            content = "".join(p.get("text", "") for p in parts)
+            parsed = parse_ai_json(content)
+            if parsed:
+                print(f"Textos IA gerados (Gemini {GEMINI_MODEL}, {len(parsed)} bairros).", file=sys.stderr)
+                return parsed, f"Gemini ({GEMINI_MODEL})"
+            print("Resposta Gemini inválida.", file=sys.stderr)
+            break
+        except requests.HTTPError as exc:
+            if exc.response is not None and exc.response.status_code in (429, 503):
+                print(f"Gemini {exc.response.status_code} (tentativa {attempt}) — aguarda {delay}s.", file=sys.stderr)
+                time.sleep(delay)
+                continue
+            print(f"Gemini falhou: {exc}", file=sys.stderr)
+            break
+        except Exception as exc:
+            print(f"Gemini falhou: {exc}", file=sys.stderr)
+            break
+
+    cached, fonte = load_cached_ai_texts()
+    if cached:
+        print("Reaproveitando textos Gemini em cache após falha.", file=sys.stderr)
+        return cached, fonte
+    print("Fallback para templates.", file=sys.stderr)
+    return None, None
 
 
 def build_payload(seed: dict, rivers: dict, weather: dict) -> dict:
@@ -286,8 +364,8 @@ def build_payload(seed: dict, rivers: dict, weather: dict) -> dict:
         status, score = compute_status(bairro, ctx)
         computed[bairro["id"]] = {"status": status, "score": score}
 
-    ai_texts = generate_ai_texts(seed, ctx, computed)
-    fonte_texto = f"Gemini ({GEMINI_MODEL})" if ai_texts else "templates Guaipecaz"
+    ai_texts, fonte_cached = generate_ai_texts(seed, ctx, computed)
+    fonte_texto = fonte_cached or ("templates Guaipecaz" if not ai_texts else f"Gemini ({GEMINI_MODEL})")
 
     bairros_out = []
     for bairro in seed["bairros"]:

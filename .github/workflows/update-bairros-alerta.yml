@@ -2,11 +2,8 @@ name: Atualizar alerta por bairro
 
 on:
   schedule:
-    - cron: "12,27,42,57 * * * *"
-  workflow_run:
-    workflows:
-      - "Atualizar nível dos rios"
-    types: [completed]
+    # A cada 2 h — respeita cota gratuita do Gemini
+    - cron: "12 */2 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -43,7 +40,8 @@ jobs:
       - name: Gerar alertas por bairro (Gemini)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-2.0-flash
+          GEMINI_MODEL: gemini-2.0-flash-lite
+          GEMINI_FORCE: "1"
         run: python automation/fetch_bairros_alerta.py
 
       - run: python automation/gen_schedules.py
