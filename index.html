@@ -203,7 +203,7 @@
         <a class="weather-more" href="https://open-meteo.com/" target="_blank" rel="noopener">Fonte: Open-Meteo ↗</a>
       </div>
 
-      <p class="river-note">Dados via <a href="https://nivelguaiba.com.br/" target="_blank" rel="noopener">Nível Guaíba ↗</a>, atualizados a cada 30 minutos. Em risco, ligue <a href="contatos-emergencia.html#defesa-civil"><strong>199</strong> (Defesa Civil)</a>.</p>
+      <p class="river-note">Dados via <a href="https://nivelguaiba.com.br/" target="_blank" rel="noopener">Nível Guaíba ↗</a>, <span data-cadence="rivers">atualiza a cada 30 minutos</span>. Em risco, ligue <a href="contatos-emergencia.html#defesa-civil"><strong>199</strong> (Defesa Civil)</a>.</p>
 
       <div class="river-sources">
         <span class="section-label">Mais fontes</span>
@@ -236,7 +236,7 @@
         <span class="offers-update skeleton skeleton-inline" id="offersUpdate">atualizando…</span>
       </div>
       <p class="offers-lede">Encartes da semana dos mercados de Guaíba — para fechar a compra com preço melhor.</p>
-      <p class="offers-disclaimer">Encartes e fotos vêm dos sites dos mercados (citados em cada card). Sem vínculo comercial.</p>
+      <p class="offers-disclaimer">Encartes e fotos vêm dos sites dos mercados (citados em cada card). Sem vínculo comercial — <span data-cadence="offers">atualiza a cada 2 horas</span>.</p>
 
       <div class="offers-scroll-wrap">
         <div class="offers-grid offers-grid--3" id="offersGrid">
@@ -284,6 +284,7 @@
     <section class="editais-section" aria-labelledby="editaisTitle">
       <div class="section-head-row">
         <p class="section-label" id="editaisTitle">Editais e vagas</p>
+        <span class="now-update skeleton skeleton-inline" id="editaisUpdate"></span>
         <a class="section-more" href="diario-oficial.html">Ver todos →</a>
       </div>
       <ol class="manchetes-list manchetes-list--compact" id="editaisList"></ol>
@@ -308,21 +309,21 @@
         <svg class="card-icon-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h10M4 18h6"/><circle cx="17" cy="17" r="4"/><path d="M20 20l2 2"/></svg>
         <span class="tag">Guibanews</span>
         <h3>Notícias da região</h3>
-        <p>Guaíba e Grande Porto Alegre — manchetes atualizadas a cada 2 horas.</p>
+        <p>Guaíba e Grande Porto Alegre — manchetes <span data-cadence="news">atualizadas a cada 2 horas</span>.</p>
       </a>
 
       <a class="card" href="explorar.html" data-accent="water">
         <svg class="card-icon-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" aria-hidden="true"><path d="M12 21s-7-4.5-7-10a4 4 0 0 1 7-2 4 4 0 0 1 7 2c0 5.5-7 10-7 10z"/><circle cx="12" cy="11" r="2"/></svg>
         <span class="tag">Explorar</span>
         <h3>Fim de semana</h3>
-        <p>Parques e orla em Guaíba, POA e Canoas — com fotos reais e mapa.</p>
+        <p>Parques e orla em Guaíba, POA e Canoas — curadoria <span data-cadence="explorar">atualizada às quintas, 18h</span>.</p>
       </a>
 
       <a class="card" href="servicos.html" data-accent="jobs">
         <svg class="card-icon-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" aria-hidden="true"><path d="M3 9h18v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V9z"/><path d="M8 9V7a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg>
         <span class="tag">Serviços</span>
         <h3>Dia a dia</h3>
-        <p>Farmácia de plantão, ônibus, coleta de lixo e agenda oficial.</p>
+        <p>Farmácia de plantão, ônibus, coleta de lixo e agenda oficial — <span data-cadence="servicos">atualiza diariamente às 8h</span>.</p>
       </a>
 
       <a class="card" href="saude.html" data-accent="health">
@@ -336,7 +337,7 @@
         <svg class="card-icon-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M8 13h8M8 17h5"/></svg>
         <span class="tag">Diário Oficial</span>
         <h3>Editais e decretos</h3>
-        <p>Licitações, concursos e decretos — direto na fonte, antes que a informação se perca.</p>
+        <p>Licitações, concursos e decretos — <span data-cadence="editais">atualiza a cada 6 horas</span> na fonte.</p>
       </a>
 
       <a class="card" href="contatos.html" data-accent="phone">
@@ -373,12 +374,13 @@
       <a href="https://guaiba.atende.net/cidadao">Site oficial da Prefeitura ↗</a>
       <a href="https://nivelguaiba.com.br/">Nível Guaíba ↗</a>
     </div>
-    <p class="foot-note">Última verificação dos dados estáticos: 10/07/2026</p>
+    <p class="foot-note" id="footStaticNote">Contatos e saúde: <span data-cadence="contatos">revisão manual periódica</span>.</p>
   </div>
 </footer>
 
 <script src="noticias-data.js"></script>
 <script src="ofertas-data.js"></script>
+<script src="schedules-data.js"></script>
 <script src="rivers-data.js"></script>
 <script src="editais-data.js"></script>
 <script src="servicos-data.js"></script>

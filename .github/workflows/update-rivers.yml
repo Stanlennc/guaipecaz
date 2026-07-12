@@ -29,10 +29,12 @@ jobs:
           ANA_API_PASSWORD: ${{ secrets.ANA_API_PASSWORD }}
         run: python automation/fetch_rivers.py
 
+      - run: python automation/gen_schedules.py
+
       - name: Publicar mudanças
         run: |
           git config user.name "guaiba-em-dia-bot"
           git config user.email "actions@github.com"
-          git add rivers.json rivers-data.js assets/rivers/
+          git add rivers.json rivers-data.js assets/rivers/ schedules-data.js
           git diff --quiet && git diff --staged --quiet || git commit -m "Atualiza nível dos rios [automático]"
           git push

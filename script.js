@@ -26,6 +26,158 @@ function guaipecasNoticiaUrl(item) {
   return (item && item.url) || '#';
 }
 
+// Cadências oficiais — espelham automation/schedules.json e os workflows do GitHub Actions
+window.GuaipecazSchedules = (function(){
+  var data = window.GUISCHEDULES_DATA || { feeds: {} };
+
+  function feed(key) {
+    return (data.feeds && data.feeds[key]) || null;
+  }
+
+  function label(key) {
+    var f = feed(key);
+    return f && f.label ? f.label : '';
+  }
+
+  function intervalMs(key) {
+    var f = feed(key);
+    return f && f.interval_minutes ? f.interval_minutes * 60000 : 0;
+  }
+
+  function fetchDelayMs(key) {
+    var f = feed(key);
+    var min = f && f.fetch_delay_minutes != null ? f.fetch_delay_minutes : 3;
+    return min * 60000;
+  }
+
+  function cronFieldMatches(field, value) {
+    if (field === '*') return true;
+    if (field.indexOf('*/') === 0) {
+      var step = parseInt(field.slice(2), 10);
+      return !isNaN(step) && step > 0 && value % step === 0;
+    }
+    return field.split(',').some(function(part){
+      part = part.trim();
+      if (!part) return false;
+      if (part.indexOf('-') >= 0) {
+        var bounds = part.split('-');
+        var lo = parseInt(bounds[0], 10);
+        var hi = parseInt(bounds[1], 10);
+        return value >= lo && value <= hi;
+      }
+      return value === parseInt(part, 10);
+    });
+  }
+
+  function cronMatches(date, cron) {
+    var parts = String(cron || '').trim().split(/\s+/);
+    if (parts.length !== 5) return false;
+    return cronFieldMatches(parts[0], date.getUTCMinutes()) &&
+      cronFieldMatches(parts[1], date.getUTCHours()) &&
+      cronFieldMatches(parts[2], date.getUTCDate()) &&
+      cronFieldMatches(parts[3], date.getUTCMonth() + 1) &&
+      cronFieldMatches(parts[4], date.getUTCDay());
+  }
+
+  function nextCronUtc(cron, from) {
+    var cursor = new Date((from || new Date()).getTime());
+    cursor.setUTCSeconds(0, 0);
+    cursor.setUTCMinutes(cursor.getUTCMinutes() + 1);
+    var limit = cursor.getTime() + 8 * 24 * 60 * 60 * 1000;
+    while (cursor.getTime() < limit) {
+      if (cronMatches(cursor, cron)) return new Date(cursor.getTime());
+      cursor.setUTCMinutes(cursor.getUTCMinutes() + 1);
+    }
+    return null;
+  }
+
+  function lastCronUtc(cron, from) {
+    var cursor = new Date((from || new Date()).getTime());
+    cursor.setUTCSeconds(0, 0);
+    var floor = cursor.getTime() - 8 * 24 * 60 * 60 * 1000;
+    while (cursor.getTime() > floor) {
+      if (cronMatches(cursor, cron)) return new Date(cursor.getTime());
+      cursor.setUTCMinutes(cursor.getUTCMinutes() - 1);
+    }
+    return null;
+  }
+
+  function applyCadence(root) {
+    (root || document).querySelectorAll('[data-cadence]').forEach(function(el){
+      var text = label(el.getAttribute('data-cadence'));
+      if (!text) return;
+      if (el.getAttribute('data-cadence-mode') === 'prefix') {
+        el.textContent = text.charAt(0).toUpperCase() + text.slice(1);
+      } else {
+        el.textContent = text;
+      }
+    });
+  }
+
+  function updateStamp(el, geradoEm, key, opts) {
+    if (!el || !geradoEm) return;
+    opts = opts || {};
+    var dt = new Date(geradoEm).toLocaleString('pt-BR');
+    var cadence = label(key);
+    var prefix = opts.cached ? 'dados em cache: ' : 'última atualização: ';
+    el.textContent = prefix + dt + (cadence ? ' · ' + cadence : '');
+    if (typeof clearSkeleton === 'function') clearSkeleton(el);
+  }
+
+  function alignPoll(key, fn) {
+    var f = feed(key);
+    if (!f || !f.cron || typeof fn !== 'function') return;
+    var timer = null;
+
+    function schedule() {
+      if (timer) window.clearTimeout(timer);
+      var next = nextCronUtc(f.cron, new Date());
+      if (!next) return;
+      var target = next.getTime() + fetchDelayMs(key);
+      var wait = Math.max(1000, target - Date.now());
+      timer = window.setTimeout(function(){
+        if (document.visibilityState !== 'hidden') fn();
+        schedule();
+      }, wait);
+    }
+
+    function maybeCatchUp() {
+      if (document.visibilityState === 'hidden') return;
+      var last = lastCronUtc(f.cron, new Date());
+      if (!last) return;
+      var due = last.getTime() + fetchDelayMs(key);
+      if (Date.now() >= due) fn();
+    }
+
+    schedule();
+    document.addEventListener('visibilitychange', maybeCatchUp);
+  }
+
+  function poll(key, fn) {
+    alignPoll(key, fn);
+  }
+
+  function boot() { applyCadence(); }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', boot);
+  } else {
+    boot();
+  }
+
+  return {
+    feed: feed,
+    label: label,
+    intervalMs: intervalMs,
+    applyCadence: applyCadence,
+    updateStamp: updateStamp,
+    alignPoll: alignPoll,
+    poll: poll,
+    nextCronUtc: nextCronUtc,
+    lastCronUtc: lastCronUtc
+  };
+})();
+
 // Cidade global — sincroniza mapas e previsão do tempo
 window.GuaipecasCidade = (function(){
   var KEY = 'guaipecas_cidade';
@@ -496,10 +648,8 @@ function updateRiverAlert(level, message) {
     }
 
     var updateEl = document.getElementById('nowUpdate');
-    if (updateEl && data.gerado_em) {
-      var dt3 = new Date(data.gerado_em);
-      updateEl.textContent = 'última atualização: ' + dt3.toLocaleString('pt-BR');
-      clearSkeleton(updateEl);
+    if (updateEl && data.gerado_em && window.GuaipecazSchedules) {
+      window.GuaipecazSchedules.updateStamp(updateEl, data.gerado_em, 'rivers');
     }
   }
 
@@ -523,7 +673,9 @@ function updateRiverAlert(level, message) {
   }
 
   fetchRivers();
-  setInterval(fetchRivers, 300000);
+  if (window.GuaipecazSchedules) {
+    window.GuaipecazSchedules.alignPoll('rivers', fetchRivers);
+  }
 })();
 
 // Previsão do tempo (Open-Meteo) — semana + seletor de cidade
@@ -693,26 +845,30 @@ function updateRiverAlert(level, message) {
     if (!data.mercados || !data.mercados.length) return;
     container.innerHTML = data.mercados.map(renderBanner).join('');
     var updateEl = document.getElementById('offersUpdate');
-    if (updateEl && data.gerado_em) {
-      updateEl.textContent = 'última atualização: ' + new Date(data.gerado_em).toLocaleString('pt-BR');
-      clearSkeleton(updateEl);
+    if (updateEl && data.gerado_em && window.GuaipecazSchedules) {
+      window.GuaipecazSchedules.updateStamp(updateEl, data.gerado_em, 'offers');
     }
     if (window._observeReveal) window._observeReveal();
   }
 
-  fetch('ofertas.json', { cache: 'no-store' })
-    .then(function(r){ if (!r.ok) throw new Error('sem ofertas.json'); return r.json(); })
-    .then(loadOffers)
-    .catch(function(){
-      if (window.OFERTAS_DATA) loadOffers(window.OFERTAS_DATA);
-      else {
-        var updateEl = document.getElementById('offersUpdate');
-        if (updateEl) {
-          updateEl.textContent = 'encartes estáticos';
-          clearSkeleton(updateEl);
+  function fetchOffers() {
+    fetch('ofertas.json', { cache: 'no-store' })
+      .then(function(r){ if (!r.ok) throw new Error('sem ofertas.json'); return r.json(); })
+      .then(loadOffers)
+      .catch(function(){
+        if (window.OFERTAS_DATA) loadOffers(window.OFERTAS_DATA);
+        else {
+          var updateEl = document.getElementById('offersUpdate');
+          if (updateEl) {
+            updateEl.textContent = 'encartes estáticos';
+            clearSkeleton(updateEl);
+          }
         }
-      }
-    });
+      });
+  }
+
+  fetchOffers();
+  if (window.GuaipecazSchedules) window.GuaipecazSchedules.alignPoll('offers', fetchOffers);
 })();
 
 // Guibanews — manchetes via JSON
@@ -819,39 +975,40 @@ function updateRiverAlert(level, message) {
     setLead(data.noticias[0]);
     listEl.innerHTML = data.noticias.slice(1).map(renderItem).join('');
     var updateEl = document.getElementById('newsUpdate');
-    if (updateEl && data.gerado_em) {
-      var label = new Date(data.gerado_em).toLocaleString('pt-BR');
-      updateEl.textContent = cached
-        ? 'dados em cache: ' + label
-        : 'última atualização: ' + label;
-      clearSkeleton(updateEl);
+    if (updateEl && data.gerado_em && window.GuaipecazSchedules) {
+      window.GuaipecazSchedules.updateStamp(updateEl, data.gerado_em, 'news', { cached: cached });
     }
     if (window._observeReveal) window._observeReveal();
     return true;
   }
 
-  fetch('noticias.json', { cache: 'no-store' })
-    .then(function(r){ if (!r.ok) throw new Error('sem noticias.json'); return r.json(); })
-    .then(function(data){
-      var items = data.noticias_home || data.noticias;
-      if (!renderNews({ noticias: items, gerado_em: data.gerado_em }, false)) throw new Error('noticias vazias');
-    })
-    .catch(function(){
-      if (window.GUIBANEWS_DATA) {
-        var cached = {
-          noticias: window.GUIBANEWS_DATA.noticias_home || window.GUIBANEWS_DATA.noticias,
-          gerado_em: window.GUIBANEWS_DATA.gerado_em
-        };
-        if (renderNews(cached, true)) return;
-      }
-      leadEl.hidden = true;
-      listEl.innerHTML = '<li class="manchete-item"><span class="manchete-item__title">Notícias indisponíveis. Abra o site com um servidor local (<code>python3 -m http.server</code>) ou recarregue a página.</span></li>';
-      var updateEl = document.getElementById('newsUpdate');
-      if (updateEl) {
-        updateEl.textContent = 'indisponível';
-        clearSkeleton(updateEl);
-      }
-    });
+  function fetchNews() {
+    fetch('noticias.json', { cache: 'no-store' })
+      .then(function(r){ if (!r.ok) throw new Error('sem noticias.json'); return r.json(); })
+      .then(function(data){
+        var items = data.noticias_home || data.noticias;
+        if (!renderNews({ noticias: items, gerado_em: data.gerado_em }, false)) throw new Error('noticias vazias');
+      })
+      .catch(function(){
+        if (window.GUIBANEWS_DATA) {
+          var cached = {
+            noticias: window.GUIBANEWS_DATA.noticias_home || window.GUIBANEWS_DATA.noticias,
+            gerado_em: window.GUIBANEWS_DATA.gerado_em
+          };
+          if (renderNews(cached, true)) return;
+        }
+        leadEl.hidden = true;
+        listEl.innerHTML = '<li class="manchete-item"><span class="manchete-item__title">Notícias indisponíveis. Abra o site com um servidor local (<code>python3 -m http.server</code>) ou recarregue a página.</span></li>';
+        var updateEl = document.getElementById('newsUpdate');
+        if (updateEl) {
+          updateEl.textContent = 'indisponível';
+          clearSkeleton(updateEl);
+        }
+      });
+  }
+
+  fetchNews();
+  if (window.GuaipecazSchedules) window.GuaipecazSchedules.alignPoll('news', fetchNews);
 })();
 
 // PWA + compartilhamento
@@ -956,10 +1113,15 @@ function updateRiverAlert(level, message) {
     }).join('');
   }
 
-  fetch('noticias.json', { cache: 'no-store' })
-    .then(function(r){ return r.json(); })
-    .then(load)
-    .catch(function(){ if (window.GUIBANEWS_DATA) load(window.GUIBANEWS_DATA); });
+  function fetchNewsPage() {
+    fetch('noticias.json', { cache: 'no-store' })
+      .then(function(r){ return r.json(); })
+      .then(load)
+      .catch(function(){ if (window.GUIBANEWS_DATA) load(window.GUIBANEWS_DATA); });
+  }
+
+  fetchNewsPage();
+  if (window.GuaipecazSchedules) window.GuaipecazSchedules.alignPoll('news', fetchNewsPage);
 })();
 
 // Editais
@@ -984,12 +1146,21 @@ function updateRiverAlert(level, message) {
     lists.forEach(function(el){
       el.innerHTML = html || '<li class="manchete-item"><span class="manchete-item__title">Nenhum edital recente.</span></li>';
     });
+    var updateEl = document.getElementById('editaisUpdate');
+    if (updateEl && data.gerado_em && window.GuaipecazSchedules) {
+      window.GuaipecazSchedules.updateStamp(updateEl, data.gerado_em, 'editais');
+    }
   }
 
-  fetch('editais.json', { cache: 'no-store' })
-    .then(function(r){ return r.json(); })
-    .then(paint)
-    .catch(function(){ if (window.GUIEDITAIS_DATA) paint(window.GUIEDITAIS_DATA); });
+  function fetchEditais() {
+    fetch('editais.json', { cache: 'no-store' })
+      .then(function(r){ return r.json(); })
+      .then(paint)
+      .catch(function(){ if (window.GUIEDITAIS_DATA) paint(window.GUIEDITAIS_DATA); });
+  }
+
+  fetchEditais();
+  if (window.GuaipecazSchedules) window.GuaipecazSchedules.alignPoll('editais', fetchEditais);
 })();
 
 // Serviços + agenda + vagas
@@ -1025,6 +1196,10 @@ function updateRiverAlert(level, message) {
     var agenda = data.agenda || [];
     if (agendaList) agendaList.innerHTML = agenda.map(renderAgendaItem).join('') || '<li class="manchete-item"><span class="manchete-item__title">Sem eventos indexados.</span></li>';
     if (agendaHome) agendaHome.innerHTML = agenda.slice(0, 4).map(renderAgendaItem).join('') || '<li class="manchete-item"><span class="manchete-item__title">Veja em Serviços.</span></li>';
+    var updateEl = document.getElementById('servicosUpdate');
+    if (updateEl && data.gerado_em && window.GuaipecazSchedules) {
+      window.GuaipecazSchedules.updateStamp(updateEl, data.gerado_em, 'servicos');
+    }
   }
 
   function applyVagas(editais) {
@@ -1037,10 +1212,15 @@ function updateRiverAlert(level, message) {
     }).join('') || '<li class="manchete-item"><span class="manchete-item__title">Nenhuma vaga indexada.</span></li>';
   }
 
-  fetch('servicos.json', { cache: 'no-store' })
-    .then(function(r){ return r.json(); })
-    .then(apply)
-    .catch(function(){ if (window.GUISERVICOS_DATA) apply(window.GUISERVICOS_DATA); });
+  function fetchServicos() {
+    fetch('servicos.json', { cache: 'no-store' })
+      .then(function(r){ return r.json(); })
+      .then(apply)
+      .catch(function(){ if (window.GUISERVICOS_DATA) apply(window.GUISERVICOS_DATA); });
+  }
+
+  fetchServicos();
+  if (window.GuaipecazSchedules) window.GuaipecazSchedules.alignPoll('servicos', fetchServicos);
 
   if (vagasList) {
     fetch('editais.json', { cache: 'no-store' })
@@ -1675,6 +1855,7 @@ function updateRiverAlert(level, message) {
   var fdsGrid = document.getElementById('explorarFdsGrid');
   var gridEl = document.getElementById('explorarGrid');
   var mapEl = document.getElementById('explorarMap');
+  var cadenceEl = document.getElementById('explorarCadence');
 
   function esc(s) {
     if (!s) return '';
@@ -1821,18 +2002,25 @@ function updateRiverAlert(level, message) {
   function boot(payload) {
     data = payload;
     if (ledeEl && data.lede) ledeEl.textContent = data.lede;
+    if (cadenceEl && data.gerado_em && window.GuaipecazSchedules) {
+      window.GuaipecazSchedules.updateStamp(cadenceEl, data.gerado_em, 'explorar');
+    }
     applyCidade(gc.get());
     gc.onChange(applyCidade);
     if (mapEl) window.guaipecasLoadLeaflet(initMap);
   }
 
-  if (window.GUIEXPLORAR_DATA) boot(window.GUIEXPLORAR_DATA);
+  function fetchExplorar() {
+    fetch('explorar.json', { cache: 'no-store' })
+      .then(function(r){ if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+      .then(boot)
+      .catch(function(){
+        if (window.GUIEXPLORAR_DATA) boot(window.GUIEXPLORAR_DATA);
+        else if (ledeEl) ledeEl.textContent = 'Conteúdo indisponível no momento.';
+      });
+  }
 
-  fetch('explorar.json', { cache: 'no-store' })
-    .then(function(r){ if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
-    .then(boot)
-    .catch(function(){
-      if (window.GUIEXPLORAR_DATA) boot(window.GUIEXPLORAR_DATA);
-      else if (ledeEl) ledeEl.textContent = 'Conteúdo indisponível no momento.';
-    });
+  if (window.GUIEXPLORAR_DATA) boot(window.GUIEXPLORAR_DATA);
+  else fetchExplorar();
+  if (window.GuaipecazSchedules) window.GuaipecazSchedules.alignPoll('explorar', fetchExplorar);
 })();

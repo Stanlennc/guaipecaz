@@ -39,6 +39,7 @@ def run_script(name, args):
 
 
 def main():
+    run_script("gen_schedules.py", [])
     failed = []
     for name, args in REQUIRED:
         if run_script(name, args) != 0:

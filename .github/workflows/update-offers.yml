@@ -26,10 +26,12 @@ jobs:
       - name: Executar scraping
         run: python automation/fetch_offers.py
 
+      - run: python automation/gen_schedules.py
+
       - name: Publicar mudanças
         run: |
           git config user.name "guaiba-em-dia-bot"
           git config user.email "actions@github.com"
-          git add ofertas.json ofertas-data.js assets/banners/
+          git add ofertas.json ofertas-data.js assets/banners/ schedules-data.js
           git diff --quiet && git diff --staged --quiet || git commit -m "Atualiza ofertas [automático]"
           git push

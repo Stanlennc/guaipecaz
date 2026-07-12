@@ -2,7 +2,7 @@ name: Atualizar Explorar
 
 on:
   schedule:
-    - cron: "0 21 * * 4"
+    - cron: "0 21 * * 4" # quintas às 18h (Brasília, UTC-3)
   workflow_dispatch: {}
 
 permissions:
@@ -17,9 +17,10 @@ jobs:
         with:
           python-version: "3.12"
       - run: python automation/fetch_explorar.py
+      - run: python automation/gen_schedules.py
       - run: |
           git config user.name "guaiba-em-dia-bot"
           git config user.email "actions@github.com"
-          git add explorar.json explorar-data.js assets/explorar/
+          git add explorar.json explorar-data.js assets/explorar/ schedules-data.js
           git diff --quiet && git diff --staged --quiet || git commit -m "Atualiza Explorar [automático]"
           git push

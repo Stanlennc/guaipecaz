@@ -58,7 +58,8 @@
   <div class="wrap">
     <p class="breadcrumb"><a href="index.html">Início</a> / Serviços</p>
     <h1 class="page-title">Serviços do dia a dia</h1>
-    <p class="page-lede">O que você consulta com frequência — com link direto para a fonte oficial.</p>
+    <p class="page-lede">O que você consulta com frequência — com link direto para a fonte oficial. <span data-cadence="servicos">Atualiza diariamente às 8h</span>.</p>
+    <p class="river-note"><span class="now-update" id="servicosUpdate"></span></p>
 
     <div class="servicos-grid" id="servicosGrid">
       <p class="guibanews-disclaimer">Carregando serviços…</p>
@@ -70,7 +71,7 @@
 
     <hr class="divider">
     <p class="section-label">Vagas e editais recentes</p>
-    <p class="page-lede">Licitações, concursos e oportunidades — <a href="diario-oficial.html">ver todos no Diário Oficial</a>.</p>
+    <p class="page-lede">Licitações, concursos e oportunidades — <a href="diario-oficial.html">ver todos no Diário Oficial</a> (<span data-cadence="editais">atualiza a cada 6 horas</span>).</p>
     <ol class="manchetes-list" id="vagasList"></ol>
   </div>
 </main>
@@ -85,6 +86,7 @@
   </div>
 </footer>
 
+<script src="schedules-data.js"></script>
 <script src="servicos-data.js"></script>
 <script src="editais-data.js"></script>
 <script src="analytics-config.js"></script>
