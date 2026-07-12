@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Explorar — Guaipecaz</title>
-<meta name="description" content="Lugares, feiras e ideias para o fim de semana em Guaíba, Porto Alegre, Canoas e Eldorado — mapa, fotos e roteiros curados.">
+<meta name="description" content="Pontos turísticos de Guaíba, Porto Alegre e Canoas — parques e orla com foto, endereço e mapa.">
 <meta property="og:title" content="Explorar · Guaipecaz">
 <meta property="og:description" content="O que fazer no fim de semana na Grande Porto Alegre — lugares, feiras e mapa turístico.">
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
@@ -12,7 +12,7 @@
 <meta name="theme-color" content="#2eb8d4">
 <link rel="stylesheet" href="styles.css">
 </head>
-<body data-page="explorar">
+<body data-page="explorar" data-explorar-cidades="guaiba,poa,canoas">
 
 <header class="site-header">
   <div class="wrap">
@@ -68,7 +68,7 @@
 
     <section class="explorar-perfil" id="explorarPerfil" aria-live="polite">
       <div class="explorar-perfil__media">
-        <img id="explorarPerfilImg" src="" alt="" loading="lazy" width="1280" height="720">
+        <img id="explorarPerfilImg" src="" alt="" loading="lazy">
       </div>
       <div class="explorar-perfil__body">
         <p class="explorar-perfil__tagline" id="explorarPerfilTagline"></p>
@@ -87,14 +87,7 @@
 
     <section class="explorar-section" aria-labelledby="lugaresTitle">
       <div class="section-head-row">
-        <p class="section-label" id="lugaresTitle">Descubra</p>
-      </div>
-      <div class="chip-row" id="explorarChips" role="group" aria-label="Filtrar por tipo">
-        <button class="chip active" data-tipo="all">Todos</button>
-        <button class="chip" data-tipo="lugar">Lugares</button>
-        <button class="chip" data-tipo="feira">Feiras</button>
-        <button class="chip" data-tipo="roteiro">Roteiros</button>
-        <button class="chip" data-tipo="evento">Eventos</button>
+        <p class="section-label" id="lugaresTitle">Pontos turísticos</p>
       </div>
       <div class="explorar-grid" id="explorarGrid"></div>
     </section>
@@ -103,11 +96,11 @@
 
     <section class="explorar-section" aria-labelledby="mapaTitle">
       <p class="section-label" id="mapaTitle">Mapa</p>
-      <p class="map-legenda">Pins por tipo — lugares, feiras e roteiros com coordenadas na cidade selecionada.</p>
+      <p class="map-legenda">Pins dos pontos turísticos e eventos com coordenadas na cidade selecionada.</p>
       <div id="explorarMap" class="apoio-map" aria-label="Mapa turístico da região"></div>
     </section>
 
-    <p class="river-note note-spaced">Conteúdo curado pelo <strong>Guaipecaz</strong>. Em breve: mais eventos automáticos e guia de restaurantes. Tem sugestão? <a href="participe.html">Participe ↗</a></p>
+    <p class="river-note note-spaced">Pontos turísticos curados pelo <strong>Guaipecaz</strong> — foto, endereço e mapa. Tem sugestão de lugar? <a href="participe.html">Participe ↗</a></p>
   </div>
 </main>
 
@@ -124,6 +117,6 @@
 
 <script src="analytics-config.js"></script>
 <script src="explorar-data.js"></script>
-<script src="script.js?v=9"></script>
+<script src="script.js?v=10"></script>
 </body>
 </html>

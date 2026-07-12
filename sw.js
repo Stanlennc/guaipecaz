@@ -1,4 +1,4 @@
-const CACHE = 'guaipecaz-v10';
+const CACHE = 'guaipecaz-v17';
 const SHELL = [
   '/',
   '/index.html',
@@ -30,6 +30,14 @@ const SHELL = [
   '/assets/icon-512.png',
   '/assets/backgrounds/bg-por-sol.jpg',
   '/assets/backgrounds/bg-guaipeca-viralata.jpg',
+  '/assets/explorar/guaiba-pier-guaiba.jpg',
+  '/assets/explorar/guaiba-praca-maca.jpeg',
+  '/assets/explorar/guaiba-praia-alegria.webp',
+  '/assets/explorar/poa-parque-redencao.png',
+  '/assets/explorar/poa-jardim-botanico.jpg',
+  '/assets/explorar/poa-moinhos-vento.webp',
+  '/assets/explorar/poa-orla-guaiba.jpg',
+  '/assets/explorar/canoas-parque-getulio2.jpg',
   '/noticias-data.js',
   '/ofertas-data.js',
   '/rivers-data.js',

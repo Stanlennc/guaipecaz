@@ -73,14 +73,24 @@ window.GuaipecasCidade = (function(){
 })();
 
 // Seletores de cidade reutilizáveis (mapas)
+function guaipecasAllowedCities() {
+  var raw = document.body.getAttribute('data-explorar-cidades');
+  if (!raw) return null;
+  return raw.split(',').map(function(s){ return s.trim(); }).filter(Boolean);
+}
+
 function guaipecasInitCidadeSelectors() {
   var gc = window.GuaipecasCidade;
   if (!gc) return;
+  var allowed = guaipecasAllowedCities();
 
   document.querySelectorAll('[data-cidade-selector]').forEach(function(row){
     if (row.dataset.cidadeReady) return;
     row.dataset.cidadeReady = '1';
-    row.innerHTML = Object.keys(gc.list).map(function(id){
+    var cityIds = Object.keys(gc.list).filter(function(id){
+      return !allowed || allowed.indexOf(id) !== -1;
+    });
+    row.innerHTML = cityIds.map(function(id){
       var cfg = gc.list[id];
       return '<button type="button" class="weather-city" data-city="' + id + '" role="tab" aria-selected="false">' + cfg.name + '</button>';
     }).join('');
@@ -90,6 +100,10 @@ function guaipecasInitCidadeSelectors() {
       gc.set(btn.getAttribute('data-city'));
     });
   });
+
+  if (allowed && allowed.indexOf(gc.get()) === -1) {
+    gc.set(allowed[0] || 'guaiba');
+  }
 
   gc.syncUi();
 }
@@ -128,7 +142,19 @@ window.guaipecasLoadLeaflet = function(cb) {
   document.head.appendChild(leaflet);
 };
 
-// Marcadores coloridos e deslocamento para pins sobrepostos
+// Ajusta o container da imagem à proporção real do arquivo (sem crop)
+window.guaipecasFitImageFrame = function(img) {
+  function fit() {
+    if (!img || !img.naturalWidth) return;
+    var wrap = img.parentElement;
+    if (!wrap) return;
+    wrap.style.aspectRatio = img.naturalWidth + ' / ' + img.naturalHeight;
+  }
+  if (img.complete && img.naturalWidth) fit();
+  else img.addEventListener('load', fit, { once: true });
+};
+
+// Marcadores com ícones temáticos e deslocamento para pins sobrepostos
 window.guaipecasMapHelpers = (function(){
   var SERVICO_CORES = {
     samu: '#e63946',
@@ -139,15 +165,91 @@ window.guaipecasMapHelpers = (function(){
     mulher: '#c77dff',
     abrigo: '#6a994e',
     animal: '#bc6c25',
+    farmacia: '#2a9d8f',
+    ubs: '#1d8a6e',
+    caps: '#5c7cfa',
+    saude: '#2eb8d4',
+    emergencia: '#e63946',
     lugar: '#2eb8d4',
+    parque: '#52b788',
+    orla: '#48cae4',
+    cultura: '#9d4edd',
     feira: '#ffd166',
     roteiro: '#4ec9a0',
     evento: '#c77dff',
     default: '#2eb8d4'
   };
 
+  var ICONS = {
+    samu: '<path d="M8 2v5H3v2h5v5h2V9h5V7h-5V2H8z"/>',
+    bombeiros: '<path d="M8 3c-2 0-3.5 1.2-3.5 3v1.5h7V6c0-1.8-1.5-3-3.5-3zm-4 5.5v1.8l1.2 4.5h5.6l1.2-4.5V8.5H4zm2.2 6.5h3.6l-.5 1.5H6.7l-.5-1.5z"/>',
+    policia: '<path d="M8 1.5L3 4v4.2c0 3.1 2.1 5.4 5 6.3 2.9-.9 5-3.2 5-6.3V4L8 1.5zm0 2.2l2.5 1.4v2.8c0 1.8-1.2 3.3-2.5 3.9-1.3-.6-2.5-2.1-2.5-3.9V5.1L8 3.7z"/>',
+    'defesa-civil': '<path d="M8 1.5L2.5 4.2v3.3c0 3.4 2.3 6.5 5.5 7.5 3.2-1 5.5-4.1 5.5-7.5V4.2L8 1.5zm-.8 3.8h1.6l.3 3.5H6.9l.3-3.5zm.8 5.2a1 1 0 110 2 1 1 0 010-2z"/>',
+    'disque-180': '<path d="M5.2 2.5c-.5.5-.8 1.2-.8 2v1.2c0 .8.3 1.5.8 2l2.2 2.2c.5.5 1.2.8 2 .8h1.2c.8 0 1.5-.3 2-.8l.3-.3-1.2-1.2-.3.3c-.2.2-.5.3-.8.3H9.4c-.3 0-.6-.1-.8-.3L6.4 7.1c-.2-.2-.3-.5-.3-.8V5.1c0-.3.1-.6.3-.8l1.1-1.1L6.3 2.2 5.2 3.3zm5.1 1.1l1.1 1.1 1.1-1.1c.5-.5.8-1.2.8-2V2.3h-1.2v.2c0 .3-.1.6-.3.8l-1.5 1.3z"/>',
+    mulher: '<path d="M8 2a2.2 2.2 0 100 4.4A2.2 2.2 0 008 2zm-3.2 4.6c-.8.7-1.3 1.7-1.3 2.9V12h1.8v-1.8c0-.8.4-1.5 1-1.9l.2 3.5h1.8l.2-3.5c.6.4 1 1.1 1 1.9V12h1.8V9.5c0-1.2-.5-2.2-1.3-2.9L8 9.2 4.8 6.6z"/>',
+    abrigo: '<path d="M2.5 7.5L8 3l5.5 4.5V13H11V9H5v4H2.5V7.5z"/>',
+    animal: '<path d="M4.5 4.8a1.2 1.2 0 110 2.4 1.2 1.2 0 010-2.4zm7 0a1.2 1.2 0 110 2.4 1.2 1.2 0 010-2.4zM3.2 8.3a1 1 0 110 2 1 1 0 010-2zm9.6 0a1 1 0 110 2 1 1 0 010-2zM8 8.8c-1.8 0-3.2 1-3.5 2.4-.4 1.8 1.2 3.3 3.5 3.3s3.9-1.5 3.5-3.3c-.3-1.4-1.7-2.4-3.5-2.4z"/>',
+    farmacia: '<path d="M6 2h4v3h3v4h-3v3H6v-3H3V5h3V2z"/>',
+    ubs: '<path d="M3 3h10v2H9v9H7V5H3V3zm8 4h2v2h-2V7zm0 3h2v2h-2v-2z"/>',
+    caps: '<path d="M8 2.5a3.8 3.8 0 00-3.8 3.8c0 1.5.9 2.8 2.2 3.4L5.5 13h5l-.9-3.3A3.8 3.8 0 008 2.5zm0 1.8a2 2 0 110 4 2 2 0 010-4z"/>',
+    saude: '<path d="M7 2h2v5h5v2H9v5H7V9H2V7h5V2z"/>',
+    emergencia: '<path d="M2.5 9.5h2.2l1-3.2 2.1 6.4 1.8-4.6 1 2.4h3.9v1.8H12l-1.2-2.8-1.9 4.8-2.2-6.7-1.1 3.5H2.5V9.5z"/>',
+    parque: '<path d="M8 2.5c-1.8 0-3 1.4-3 3.2 0 1.2.6 2.2 1.5 2.8L5.5 13h5l-1-4.5c.9-.6 1.5-1.6 1.5-2.8 0-1.8-1.2-3.2-3-3.2zm0 1.6c.8 0 1.3.6 1.3 1.6S8.8 7.3 8 7.3 6.7 6.7 6.7 5.7 7.2 4.1 8 4.1z"/>',
+    orla: '<path d="M2 10.5c1.5-1.2 3-1 4.2-.2 1.4.9 2.8 1.1 4.3 0 1.2-.8 2.7-1 4.2.2v1.3c-1.5-1-3-.8-4.2 0-1.4.9-2.8 1.1-4.3 0-1.2-.8-2.7-1-4.2 0v-1.3zM2 7.8c1.5-1.2 3-1 4.2-.2 1.4.9 2.8 1.1 4.3 0 1.2-.8 2.7-1 4.2.2v1.3c-1.5-1-3-.8-4.2 0-1.4.9-2.8 1.1-4.3 0-1.2-.8-2.7-1-4.2 0V7.8z"/>',
+    cultura: '<path d="M3 12V5.5h1.8V12H3zm2.7 0V4h1.8v8H5.7zm2.7 0V6h1.8v6H8.4zm2.7 0V3h1.8v9h-1.8zm2.7 0V7h1.8v5h-1.8z"/>',
+    feira: '<path d="M3 4.5h10v1.5H3V4.5zm.8 2.5h8.4l-.8 5H4.6l-.8-5zm2.2 1.5v2h1.5v-2H6zm3 0v2h1.5v-2H9z"/>',
+    roteiro: '<path d="M4 2.5h6l2 2.5v7.5H4V2.5zm1.5 2v7h7V6.2L11.2 4.5H5.5zm1 1.5h4v1h-4v-1zm0 2h4v1h-4v-1z"/>',
+    evento: '<path d="M3 3.5h10v9H3v-9zm1.5 1.5v1.5h1.5V5H4.5zm3 0v1.5h1.5V5H7.5zm3 0v1.5H12V5h-1.5zM4.5 8v1.5H6V8H4.5zm3 0v1.5h1.5V8H7.5zm3 0v1.5H12V8h-1.5z"/>',
+    lugar: '<path d="M8 1.5a4.2 4.2 0 00-4.2 4.2c0 3.1 4.2 7.8 4.2 7.8s4.2-4.7 4.2-7.8A4.2 4.2 0 008 1.5zm0 2.2a2 2 0 110 4 2 2 0 010-4z"/>',
+    default: '<circle cx="8" cy="8" r="3"/>'
+  };
+
   function cor(servico, categoria) {
-    return SERVICO_CORES[servico] || SERVICO_CORES[categoria] || SERVICO_CORES.default;
+    var kind = iconKind({ servico: servico, categoria: categoria });
+    return SERVICO_CORES[kind] || SERVICO_CORES[servico] || SERVICO_CORES[categoria] || SERVICO_CORES.default;
+  }
+
+  function textoPonto(p) {
+    var tags = (p.tags || []).join(' ').toLowerCase();
+    var titulo = String(p.titulo || p.nome || '').toLowerCase();
+    var cat = String(p.categoria || p.categoria_label || '').toLowerCase();
+    return tags + ' ' + titulo + ' ' + cat;
+  }
+
+  function iconKind(p) {
+    if (!p) return 'default';
+    if (p.servico && ICONS[p.servico]) return p.servico;
+    var cat = String(p.categoria || '').toLowerCase();
+    if (cat.indexOf('farm') >= 0) return 'farmacia';
+    if (cat === 'ubs' || cat === 'esf') return 'ubs';
+    if (cat === 'caps') return 'caps';
+    if (cat === 'emergência' || cat === 'emergencia') return 'emergencia';
+    if (ICONS[cat]) return cat;
+    var texto = textoPonto(p);
+    if (p.tipo === 'feira' || texto.indexOf('feira') >= 0 || texto.indexOf('brique') >= 0) return 'feira';
+    if (p.tipo === 'evento' || texto.indexOf('evento') >= 0 || texto.indexOf('festival') >= 0) return 'evento';
+    if (p.tipo === 'roteiro') return 'roteiro';
+    if (texto.indexOf('parque') >= 0 || texto.indexOf('jardim bot') >= 0 || texto.indexOf('parcão') >= 0) return 'parque';
+    if (texto.indexOf('orla') >= 0 || texto.indexOf('beira') >= 0 || texto.indexOf('balne') >= 0 || texto.indexOf('praia') >= 0 || texto.indexOf('píer') >= 0 || texto.indexOf('pier') >= 0 || texto.indexOf('pôr do sol') >= 0) return 'orla';
+    if (texto.indexOf('cultura') >= 0 || texto.indexOf('usina') >= 0 || texto.indexOf('gasômetro') >= 0 || texto.indexOf('gasometro') >= 0 || texto.indexOf('museu') >= 0) return 'cultura';
+    if (texto.indexOf('saúde') >= 0 || texto.indexOf('saude') >= 0 || texto.indexOf('hospital') >= 0 || texto.indexOf('ubs') >= 0) return 'ubs';
+    if (p.tipo === 'lugar' || p.mapa) return 'lugar';
+    return 'default';
+  }
+
+  function iconSvg(kind) {
+    var path = ICONS[kind] || ICONS.default;
+    return '<svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">' + path + '</svg>';
+  }
+
+  function markerHtml(p, compact) {
+    var kind = iconKind(p);
+    var fill = cor(p.servico, p.categoria);
+    if (!p.servico && !p.categoria && SERVICO_CORES[kind]) fill = SERVICO_CORES[kind];
+    var regional = p.regional ? ' map-marker--regional' : '';
+    var size = compact ? ' map-marker--compact' : '';
+    return '<div class="map-marker' + regional + size + '" style="--marker-color:' + fill + '">' +
+      '<span class="map-marker__bubble">' + iconSvg(kind) + '</span></div>';
   }
 
   function chaveCoords(p) {
@@ -179,20 +281,28 @@ window.guaipecasMapHelpers = (function(){
   function addMarker(map, p, opts) {
     if (!window.L || p.lat == null || p.lon == null) return null;
     opts = opts || {};
-    var fill = cor(p.servico, p.categoria);
-    var regional = !!p.regional;
-    var marker = L.circleMarker([opts.lat != null ? opts.lat : p.lat, opts.lon != null ? opts.lon : p.lon], {
-      radius: regional ? 9 : 8,
-      color: regional ? '#f4d35e' : '#fff',
-      weight: regional ? 3 : 2,
-      fillColor: fill,
-      fillOpacity: regional ? 0.55 : 0.85
-    }).addTo(map);
+    var lat = opts.lat != null ? opts.lat : p.lat;
+    var lon = opts.lon != null ? opts.lon : p.lon;
+    var icon = L.divIcon({
+      className: 'map-marker-wrap',
+      html: markerHtml(p),
+      iconSize: [36, 42],
+      iconAnchor: [18, 42],
+      popupAnchor: [0, -36]
+    });
+    var marker = L.marker([lat, lon], { icon: icon }).addTo(map);
     if (opts.popup) marker.bindPopup(opts.popup);
     return marker;
   }
 
-  return { cor: cor, coordsComOffset: coordsComOffset, addMarker: addMarker, SERVICO_CORES: SERVICO_CORES };
+  return {
+    cor: cor,
+    iconKind: iconKind,
+    markerHtml: function(p){ return markerHtml(p, true); },
+    coordsComOffset: coordsComOffset,
+    addMarker: addMarker,
+    SERVICO_CORES: SERVICO_CORES
+  };
 })();
 
 // Menu mobile + backdrop
@@ -955,6 +1065,7 @@ function updateRiverAlert(level, message) {
 
   function renderMarkers(cidade) {
     if (!map || !window.L) return;
+    var mh = window.guaipecasMapHelpers;
     markers.forEach(function(layer){ map.removeLayer(layer); });
     markers = [];
     var cfg = gc.getConfig(cidade);
@@ -969,7 +1080,7 @@ function updateRiverAlert(level, message) {
     allUnidades.forEach(function(u){
       var popup = '<strong>' + esc(u.nome) + '</strong><br>' + esc(u.categoria);
       if (u.cnes_url) popup += '<br><a href="' + esc(u.cnes_url) + '" target="_blank" rel="noopener">CNES ↗</a>';
-      markers.push(L.marker([u.lat, u.lon]).addTo(map).bindPopup(popup));
+      markers.push(mh.addMarker(map, u, { popup: popup }));
     });
     map.setView([cfg.lat, cfg.lon], 12);
   }
@@ -1274,8 +1385,10 @@ function updateRiverAlert(level, message) {
     legEl.innerHTML = SERVICOS.map(function(key){
       var svc = data.servicos[key] || {};
       var cor = mh.cor(key);
-      return '<span class="map-legenda__item"><span class="map-legenda__dot" style="background:' + cor + '"></span>' + esc(svc.nome || key) + '</span>';
-    }).join('') + '<span class="map-legenda__item map-legenda__item--regional"><span class="map-legenda__dot map-legenda__dot--regional"></span>Regional</span>';
+      return '<span class="map-legenda__item"><span class="map-legenda__pin" style="--marker-color:' + cor + '">' +
+        mh.markerHtml({ servico: key }) + '</span>' + esc(svc.nome || key) + '</span>';
+    }).join('') + '<span class="map-legenda__item map-legenda__item--regional"><span class="map-legenda__pin map-legenda__pin--regional">' +
+      mh.markerHtml({ servico: 'policia', regional: true }) + '</span>Regional</span>';
   }
 
   function applyCidade(cidade) {
@@ -1544,14 +1657,13 @@ function updateRiverAlert(level, message) {
     });
 })();
 
-// Explorar — lazer, lugares e fim de semana
+// Explorar — pontos turísticos
 (function(){
   if (document.body.getAttribute('data-page') !== 'explorar') return;
 
   var gc = window.GuaipecasCidade;
   var helpers = window.guaipecasMapHelpers;
   var data = null;
-  var tipoFilter = 'all';
   var mapInstance = null;
   var markers = [];
 
@@ -1562,7 +1674,6 @@ function updateRiverAlert(level, message) {
   var perfilText = document.getElementById('explorarPerfilText');
   var fdsGrid = document.getElementById('explorarFdsGrid');
   var gridEl = document.getElementById('explorarGrid');
-  var chipRow = document.getElementById('explorarChips');
   var mapEl = document.getElementById('explorarMap');
 
   function esc(s) {
@@ -1579,19 +1690,13 @@ function updateRiverAlert(level, message) {
     return (data.itens || []).filter(function(it){ return it.cidade === cidade; });
   }
 
-  function passaTipo(it) {
-    return tipoFilter === 'all' || it.tipo === tipoFilter;
-  }
-
   function imgSrc(it) {
-    return it.imagem || it.imagem_remota || '';
+    return it.imagem || 'assets/explorar/guaiba-pier-guaiba.jpg';
   }
 
   function renderBadges(it) {
-    var parts = ['<span class="explorar-badge explorar-badge--tipo-' + esc(it.tipo) + '">' + esc(it.tipo) + '</span>'];
-    if (it.gratis) parts.push('<span class="explorar-badge">grátis</span>');
-    (it.tags || []).slice(0, 2).forEach(function(t){
-      if (t === 'grátis') return;
+    var parts = [];
+    (it.tags || []).slice(0, 3).forEach(function(t){
       parts.push('<span class="explorar-badge">' + esc(t) + '</span>');
     });
     return parts.join('');
@@ -1604,29 +1709,40 @@ function updateRiverAlert(level, message) {
     var extra = opts.fds ? ' explorar-card--fds' : '';
     var motivo = opts.motivo ? '<p class="explorar-card__meta">' + esc(opts.motivo) + '</p>' : '';
     var quando = it.quando ? '<p class="explorar-card__meta">' + esc(it.quando) + '</p>' : '';
+    var horario = it.horario ? '<p class="explorar-card__meta">' + esc(it.horario) + '</p>' : '';
+    var dica = it.dica ? '<p class="explorar-card__meta">' + esc(it.dica) + '</p>' : '';
+    var endereco = it.endereco ? '<p class="explorar-card__address">' + esc(it.endereco) + '</p>' : '';
     var destaque = opts.destaque ? '<p class="explorar-card__destaque">' + esc(opts.destaque) + '</p>' : '';
     return (
       '<a class="explorar-card' + extra + '" href="' + esc(href) + '"' + target + '>' +
         '<div class="explorar-card__media">' +
-          '<img src="' + esc(imgSrc(it)) + '" alt="' + esc(it.titulo) + '" loading="lazy" width="960" height="600">' +
+          '<img src="' + esc(imgSrc(it)) + '" alt="' + esc(it.titulo) + '" loading="lazy" decoding="async">' +
           '<div class="explorar-card__badges">' + renderBadges(it) + '</div>' +
         '</div>' +
         '<div class="explorar-card__body">' +
           destaque +
           '<h3 class="explorar-card__title">' + esc(it.titulo) + '</h3>' +
+          endereco +
           '<p class="explorar-card__desc">' + esc(opts.desc || it.descricao_curta) + '</p>' +
-          motivo + quando +
+          motivo + quando + horario + dica +
         '</div>' +
       '</a>'
     );
+  }
+
+  function fitImagens(root) {
+    var fit = window.guaipecasFitImageFrame;
+    if (!fit) return;
+    (root || document).querySelectorAll('.explorar-perfil__media img, .explorar-card__media img').forEach(fit);
   }
 
   function renderPerfil(cidade) {
     var perfil = (data.perfis && data.perfis[cidade]) || null;
     if (!perfil) return;
     if (perfilImg) {
-      perfilImg.src = perfil.imagem || perfil.imagem_remota || '';
+      perfilImg.src = perfil.imagem || 'assets/explorar/guaiba-pier-guaiba.jpg';
       perfilImg.alt = perfil.nome || cidade;
+      window.guaipecasFitImageFrame(perfilImg);
     }
     if (perfilTagline) perfilTagline.textContent = perfil.tagline || '';
     if (perfilText) perfilText.textContent = perfil.descricao || '';
@@ -1644,19 +1760,23 @@ function updateRiverAlert(level, message) {
       if (!it) return '';
       return renderCard(it, { fds: true, destaque: p.destaque, motivo: p.motivo, desc: p.motivo });
     }).join('') || '<p class="river-note">Em breve mais sugestões para este fim de semana.</p>';
+    fitImagens(fdsGrid);
   }
 
   function renderGrid(cidade) {
     if (!gridEl) return;
-    var itens = itensDaCidade(cidade).filter(passaTipo);
+    var itens = itensDaCidade(cidade);
     gridEl.innerHTML = itens.map(function(it){ return renderCard(it); }).join('') ||
-      '<p class="river-note">Nenhum item nesta categoria para a cidade selecionada.</p>';
+      '<p class="river-note">Nenhum ponto turístico cadastrado para esta cidade.</p>';
+    fitImagens(gridEl);
   }
 
   function popupHtml(it) {
     var quando = it.quando ? '<br><em>' + esc(it.quando) + '</em>' : '';
+    var horario = it.horario ? '<br><em>' + esc(it.horario) + '</em>' : '';
+    var endereco = it.endereco ? '<br>' + esc(it.endereco) : '';
     var link = it.url ? '<br><a href="' + esc(it.url) + '" target="_blank" rel="noopener">Saiba mais ↗</a>' : '';
-    return '<strong>' + esc(it.titulo) + '</strong><br>' + esc(it.descricao_curta) + quando + link;
+    return '<strong>' + esc(it.titulo) + '</strong>' + endereco + '<br>' + esc(it.descricao_curta) + quando + horario + link;
   }
 
   function updateMap(cidade) {
@@ -1664,11 +1784,11 @@ function updateRiverAlert(level, message) {
     markers.forEach(function(m){ mapInstance.removeLayer(m); });
     markers = [];
     var pontos = itensDaCidade(cidade).filter(function(it){
-      return it.mapa && it.lat != null && it.lon != null && passaTipo(it);
+      return it.mapa && it.lat != null && it.lon != null;
     });
     var comOffset = helpers.coordsComOffset(pontos);
     comOffset.forEach(function(o){
-      var m = helpers.addMarker(mapInstance, { lat: o.lat, lon: o.lon, categoria: o.p.tipo }, {
+      var m = helpers.addMarker(mapInstance, o.p, {
         lat: o.lat,
         lon: o.lon,
         popup: popupHtml(o.p)
@@ -1704,19 +1824,6 @@ function updateRiverAlert(level, message) {
     applyCidade(gc.get());
     gc.onChange(applyCidade);
     if (mapEl) window.guaipecasLoadLeaflet(initMap);
-  }
-
-  if (chipRow) {
-    chipRow.addEventListener('click', function(e){
-      var chip = e.target.closest('[data-tipo]');
-      if (!chip) return;
-      tipoFilter = chip.getAttribute('data-tipo');
-      chipRow.querySelectorAll('.chip').forEach(function(c){
-        c.classList.toggle('active', c.getAttribute('data-tipo') === tipoFilter);
-      });
-      renderGrid(gc.get());
-      updateMap(gc.get());
-    });
   }
 
   if (window.GUIEXPLORAR_DATA) boot(window.GUIEXPLORAR_DATA);

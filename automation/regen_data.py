@@ -11,7 +11,6 @@ ROOT = Path(__file__).resolve().parent
 REQUIRED = [
     ("fetch_apoio.py", []),
     ("fetch_emergencia.py", []),
-    ("fetch_explorar.py", []),
     ("fetch_unidades_map.py", ["--from-json"]),
 ]
 
@@ -22,6 +21,11 @@ OPTIONAL = [
     ("fetch_offers.py", []),
     ("fetch_editais.py", []),
     ("fetch_servicos.py", []),
+]
+
+# Sempre ao final — lê noticias.json + servicos.json já no disco
+POST = [
+    ("fetch_explorar.py", []),
 ]
 
 
@@ -42,6 +46,9 @@ def main():
     for name, args in OPTIONAL:
         if run_script(name, args) != 0:
             print(f"aviso: {name} falhou (opcional)", file=sys.stderr)
+    for name, args in POST:
+        if run_script(name, args) != 0:
+            failed.append(name)
     if failed:
         print(f"Falhou: {', '.join(failed)}", file=sys.stderr)
         sys.exit(1)

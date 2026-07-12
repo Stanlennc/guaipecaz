@@ -1,0 +1,25 @@
+name: Atualizar Explorar
+
+on:
+  schedule:
+    - cron: "0 21 * * 4"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-explorar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python automation/fetch_explorar.py
+      - run: |
+          git config user.name "guaiba-em-dia-bot"
+          git config user.email "actions@github.com"
+          git add explorar.json explorar-data.js assets/explorar/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Atualiza Explorar [automático]"
+          git push
