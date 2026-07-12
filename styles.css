@@ -2455,3 +2455,44 @@ body[data-page="explorar"] {
   .hero-band h1 { font-size: 1.85rem; }
   .offers-section { margin-top: 32px; }
 }
+
+/* ---------- Banner de cookies (LGPD) ---------- */
+.cookie-consent {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1200;
+  padding: 14px 16px calc(14px + env(safe-area-inset-bottom, 0px));
+  background: rgba(7, 24, 40, 0.96);
+  border-top: 1px solid rgba(72, 212, 240, 0.28);
+  box-shadow: 0 -8px 32px rgba(0, 0, 0, 0.35);
+}
+
+.cookie-consent__inner {
+  max-width: 920px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px 20px;
+}
+
+.cookie-consent__text {
+  margin: 0;
+  flex: 1 1 280px;
+  font-size: 0.84rem;
+  line-height: 1.55;
+  color: var(--mist, #c8d6e5);
+}
+
+.cookie-consent__text a {
+  color: var(--aqua, #48d4f0);
+}
+
+.cookie-consent__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}

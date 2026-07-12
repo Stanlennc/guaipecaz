@@ -1,23 +1,72 @@
-// Google Analytics 4
-(function(){
-  var id = window.GUAIPECAS_GA4_ID;
-  if (!id || id.indexOf('G-') !== 0 || id === 'G-XXXXXXXX') return;
+// Privacidade — consentimento antes do Google Analytics (LGPD)
+window.GuaipecazConsent = (function(){
+  var KEY = 'guaipecaz_cookie_consent';
 
-  window.dataLayer = window.dataLayer || [];
-  window.gtag = function(){ window.dataLayer.push(arguments); };
-  window.gtag('js', new Date());
-  window.gtag('config', id, { anonymize_ip: true, send_page_view: true });
+  function get() {
+    try { return localStorage.getItem(KEY); } catch (e) { return null; }
+  }
 
-  var s = document.createElement('script');
-  s.async = true;
-  s.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(id);
-  document.head.appendChild(s);
+  function set(value) {
+    try { localStorage.setItem(KEY, value); } catch (e) {}
+  }
 
-  window.guaipecasTrack = function(eventName, params) {
-    if (typeof window.gtag === 'function') {
-      window.gtag('event', eventName, params || {});
-    }
-  };
+  function loadAnalytics() {
+    var id = window.GUAIPECAS_GA4_ID;
+    if (!id || id.indexOf('G-') !== 0 || id === 'G-XXXXXXXX' || window.__guaipecasGaLoaded) return;
+    window.__guaipecasGaLoaded = true;
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function(){ window.dataLayer.push(arguments); };
+    window.gtag('js', new Date());
+    window.gtag('config', id, { anonymize_ip: true, send_page_view: true });
+
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(id);
+    document.head.appendChild(s);
+
+    window.guaipecasTrack = function(eventName, params) {
+      if (typeof window.gtag === 'function') {
+        window.gtag('event', eventName, params || {});
+      }
+    };
+  }
+
+  function mountBanner() {
+    if (get() || document.getElementById('cookieConsent')) return;
+
+    var banner = document.createElement('div');
+    banner.id = 'cookieConsent';
+    banner.className = 'cookie-consent';
+    banner.setAttribute('role', 'dialog');
+    banner.setAttribute('aria-label', 'Preferências de cookies');
+    banner.innerHTML =
+      '<div class="cookie-consent__inner">' +
+        '<p class="cookie-consent__text">Usamos cookies essenciais para salvar sua cidade preferida. Com sua permissão, também usamos Google Analytics para medir visitas — sem vender dados. Leia a <a href="privacidade.html">Política de Privacidade</a>.</p>' +
+        '<div class="cookie-consent__actions">' +
+          '<button type="button" class="btn-secondary btn-secondary--sm" data-cookie="essential">Só essenciais</button>' +
+          '<button type="button" class="btn-primary btn-secondary--sm" data-cookie="analytics">Aceitar analytics</button>' +
+        '</div>' +
+      '</div>';
+    document.body.appendChild(banner);
+
+    banner.addEventListener('click', function(e){
+      var btn = e.target.closest('[data-cookie]');
+      if (!btn) return;
+      set(btn.getAttribute('data-cookie'));
+      banner.remove();
+      if (btn.getAttribute('data-cookie') === 'analytics') loadAnalytics();
+    });
+  }
+
+  if (get() === 'analytics') loadAnalytics();
+  else if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', mountBanner);
+  } else {
+    mountBanner();
+  }
+
+  return { loadAnalytics: loadAnalytics };
 })();
 
 /** Página interna da notícia — mantém o usuário no Guaipecaz. */
@@ -929,42 +978,17 @@ function updateRiverAlert(level, message) {
     return dt.toLocaleDateString('pt-BR', { day: '2-digit', month: 'short' });
   }
 
-  function imageCredit(item) {
-    return item.imagem_credito || item.fonte || '';
-  }
-
-  function leadMediaHtml(item) {
-    if (!item.imagem) return '';
-    var credit = imageCredit(item);
-    return '<img src="' + escapeHtml(item.imagem) + '" alt="" loading="eager" decoding="async" referrerpolicy="no-referrer">' +
-      (credit ? '<figcaption>Foto: ' + escapeHtml(credit) + '</figcaption>' : '');
-  }
-
-  function thumbHtml(item) {
-    if (!item.imagem) return '';
-    return '<span class="manchete-item__thumb" aria-hidden="true">' +
-      '<img src="' + escapeHtml(item.imagem) + '" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">' +
-      '</span>';
-  }
-
   function setLead(item) {
     leadEl.href = guaipecasNoticiaUrl(item);
     leadEl.removeAttribute('target');
     leadEl.removeAttribute('rel');
     leadEl.hidden = false;
-    leadEl.classList.remove('manchete-lead--skeleton');
+    leadEl.classList.remove('manchete-lead--skeleton', 'manchete-lead--has-image');
 
     var mediaEl = document.getElementById('newsLeadMedia');
     if (mediaEl) {
-      if (item.imagem) {
-        mediaEl.innerHTML = leadMediaHtml(item);
-        mediaEl.hidden = false;
-        leadEl.classList.add('manchete-lead--has-image');
-      } else {
-        mediaEl.innerHTML = '';
-        mediaEl.hidden = true;
-        leadEl.classList.remove('manchete-lead--has-image');
-      }
+      mediaEl.innerHTML = '';
+      mediaEl.hidden = true;
     }
 
     var sourceEl = document.getElementById('newsLeadSource');
@@ -986,11 +1010,9 @@ function updateRiverAlert(level, message) {
   }
 
   function renderItem(item) {
-    var hasImage = !!item.imagem;
     return (
-      '<li class="manchete-item' + (hasImage ? ' manchete-item--has-image' : '') + '">' +
+      '<li class="manchete-item">' +
         '<a href="' + escapeHtml(guaipecasNoticiaUrl(item)) + '" class="manchete-item__link">' +
-          thumbHtml(item) +
           '<span class="manchete-item__source">' + escapeHtml(item.fonte || 'Fonte') + '</span>' +
           '<span class="manchete-item__title">' + escapeHtml(item.titulo) + '</span>' +
           '<span class="manchete-item__date">' + escapeHtml(formatDate(item.publicado_em)) + '</span>' +
@@ -1122,20 +1144,11 @@ function updateRiverAlert(level, message) {
     var items = data.noticias || [];
     if (!items.length) return;
     list.innerHTML = items.map(function(item){
-      var hasImage = !!item.imagem;
-      var thumb = hasImage
-        ? '<span class="manchete-item__thumb" aria-hidden="true"><img src="' + esc(item.imagem) + '" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></span>'
-        : '';
-      var credit = item.imagem_credito || item.fonte || '';
-      var creditHtml = hasImage && credit
-        ? '<span class="manchete-item__photo-credit">Foto: ' + esc(credit) + '</span>'
-        : '';
       return (
-        '<li class="manchete-item' + (hasImage ? ' manchete-item--has-image' : '') + '">' +
+        '<li class="manchete-item">' +
           '<a href="' + esc(guaipecasNoticiaUrl(item)) + '" class="manchete-item__link">' +
-            thumb +
             '<span class="manchete-item__source">' + esc(item.fonte || 'Fonte') + '</span>' +
-            '<span class="manchete-item__title">' + esc(item.titulo) + creditHtml + '</span>' +
+            '<span class="manchete-item__title">' + esc(item.titulo) + '</span>' +
             '<span class="manchete-item__date">' + esc(item.publicado_em ? new Date(item.publicado_em).toLocaleDateString('pt-BR') : '') + '</span>' +
           '</a></li>'
       );
@@ -1713,11 +1726,8 @@ function updateRiverAlert(level, message) {
     if (!others.length) return;
     relatedList.innerHTML = others.map(function(item){
       return (
-        '<li class="manchete-item' + (item.imagem ? ' manchete-item--has-image' : '') + '">' +
+        '<li class="manchete-item">' +
           '<a href="' + esc(guaipecasNoticiaUrl(item)) + '" class="manchete-item__link">' +
-            (item.imagem
-              ? '<span class="manchete-item__thumb" aria-hidden="true"><img src="' + esc(item.imagem) + '" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></span>'
-              : '') +
             '<span class="manchete-item__source">' + esc(item.fonte || 'Fonte') + '</span>' +
             '<span class="manchete-item__title">' + esc(item.titulo) + '</span>' +
             '<span class="manchete-item__date">' + esc(formatDate(item.publicado_em)) + '</span>' +
@@ -1740,14 +1750,13 @@ function updateRiverAlert(level, message) {
     if (errorEl) errorEl.hidden = true;
     if (contentEl) contentEl.hidden = false;
 
-    var conteudo = Array.isArray(item.conteudo) ? item.conteudo.filter(Boolean) : [];
+    var lead = item.resumo || '';
 
     document.title = item.titulo + ' — Guibanews · Guaipecaz';
-    var descSource = (conteudo[0] || item.resumo || item.titulo);
+    var descSource = lead || item.titulo;
     setMeta('description', descSource.slice(0, 160));
     setOg('og:title', item.titulo);
     setOg('og:description', descSource.slice(0, 200));
-    if (item.imagem) setOg('og:image', item.imagem);
 
     var breadcrumb = document.getElementById('noticiaBreadcrumb');
     if (breadcrumb) {
@@ -1756,18 +1765,7 @@ function updateRiverAlert(level, message) {
     }
 
     var hero = document.getElementById('noticiaHero');
-    var heroImg = document.getElementById('noticiaHeroImg');
-    var heroCredit = document.getElementById('noticiaHeroCredit');
-    if (item.imagem && hero && heroImg) {
-      heroImg.src = item.imagem;
-      heroImg.alt = item.titulo;
-      if (heroCredit) {
-        heroCredit.textContent = 'Foto: ' + (item.imagem_credito || item.fonte || 'Fonte');
-      }
-      hero.hidden = false;
-    } else if (hero) {
-      hero.hidden = true;
-    }
+    if (hero) hero.hidden = true;
 
     var sourceEl = document.getElementById('noticiaSource');
     var dateEl = document.getElementById('noticiaDate');
@@ -1781,37 +1779,20 @@ function updateRiverAlert(level, message) {
     if (dateEl) dateEl.textContent = formatDate(item.publicado_em);
     if (titleEl) titleEl.textContent = item.titulo;
 
-    var lead = item.resumo || '';
-
     if (bodyEl) {
       bodyEl.innerHTML = '';
-      if (conteudo.length) {
-        conteudo.forEach(function(paragraph){
-          var p = document.createElement('p');
-          p.textContent = paragraph;
-          bodyEl.appendChild(p);
-        });
-        bodyEl.hidden = false;
-      } else {
-        bodyEl.hidden = true;
-      }
+      bodyEl.hidden = true;
     }
 
     if (resumoEl) {
-      if (conteudo.length && lead && lead !== conteudo[0]) {
+      if (lead) {
         resumoEl.textContent = lead;
         resumoEl.hidden = false;
         resumoEl.classList.remove('noticia-article__resumo--empty');
-      } else if (!conteudo.length && lead) {
-        resumoEl.textContent = lead;
-        resumoEl.hidden = false;
-        resumoEl.classList.remove('noticia-article__resumo--empty');
-      } else if (!conteudo.length) {
-        resumoEl.textContent = 'Texto completo indisponível no feed. Abra a matéria na fonte original.';
+      } else {
+        resumoEl.textContent = 'Resumo indisponível no feed. Abra a matéria na fonte original para ler o texto completo.';
         resumoEl.hidden = false;
         resumoEl.classList.add('noticia-article__resumo--empty');
-      } else {
-        resumoEl.hidden = true;
       }
     }
 

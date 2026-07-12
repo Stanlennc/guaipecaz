@@ -1,4 +1,4 @@
-const CACHE = 'guaipecaz-v24';
+const CACHE = 'guaipecaz-v25';
 const SHELL = [
   '/',
   '/index.html',
@@ -7,6 +7,8 @@ const SHELL = [
   '/explorar.html',
   '/servicos.html',
   '/participe.html',
+  '/privacidade.html',
+  '/termos.html',
   '/saude.html',
   '/diario-oficial.html',
   '/contatos.html',

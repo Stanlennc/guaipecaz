@@ -21,8 +21,8 @@ OUTPUT = ROOT / "noticias.json"
 USER_AGENT = "GuaipecasBot/1.0 (+https://github.com/Stanlennc/guaipecas-repo)"
 MAX_ITEMS_HOME = 8
 MAX_ITEMS = 30
-MAX_IMAGE_FETCH = 28
 MAX_CONTENT_FETCH = 30
+MAX_RESUMO = 300
 
 MEDIA_NS = {"media": "http://search.yahoo.com/mrss/"}
 CONTENT_NS = "{http://purl.org/rss/1.0/modules/content/}encoded"
@@ -790,13 +790,8 @@ def scrape_reporter_home(max_items=14):
                 "feed": "reporter_direto",
                 "prioridade": 11,
             }
-            if imagem:
-                entry["imagem"] = imagem
-                entry["imagem_credito"] = "Repórter Guaibense"
             if resumo:
                 entry["resumo"] = resumo
-            if conteudo:
-                entry["conteudo"] = conteudo
             if passes_filter(entry, "nenhum") and not is_junk_item(entry):
                 items.append(entry)
         except Exception as exc:
@@ -805,77 +800,42 @@ def scrape_reporter_home(max_items=14):
     return items
 
 
-def enrich_images(noticias):
-    """Segunda passagem focada em imagens para itens do topo da lista."""
-    fetched = 0
-    for item in noticias[:MAX_ITEMS]:
-        if item.get("imagem"):
-            continue
-        if fetched >= MAX_IMAGE_FETCH:
-            break
-        img, _, _ = fetch_article_page(
-            item.get("url"),
-            item.get("titulo", ""),
-            item.get("fonte", ""),
-        )
-        fetched += 1
-        if img:
-            item["imagem"] = img
-            item["imagem_credito"] = item.get("fonte")
-            print(f"imagem extra: {item['titulo'][:50]}…", file=sys.stderr)
+def cap_resumo(text):
+    text = (text or "").strip()
+    if len(text) <= MAX_RESUMO:
+        return text
+    cut = text[:MAX_RESUMO].rsplit(" ", 1)[0]
+    return (cut or text[:MAX_RESUMO]).rstrip() + "…"
+
+
+def sanitize_noticias(noticias):
+    """Remove texto integral e fotos — Guibanews só publica resumo curto + link."""
+    for item in noticias:
+        item.pop("conteudo", None)
+        item.pop("imagem", None)
+        item.pop("imagem_credito", None)
+        if item.get("resumo"):
+            item["resumo"] = cap_resumo(item["resumo"])
     return noticias
 
 
-def pick_noticias_home(noticias, limit=MAX_ITEMS_HOME):
-    """Home prioriza manchetes com foto quando houver."""
-    with_img = [n for n in noticias if n.get("imagem")]
-    without = [n for n in noticias if not n.get("imagem")]
-    picked = []
-    for pool in (with_img, without):
-        for item in pool:
-            if len(picked) >= limit:
-                return picked
-            picked.append(item)
-    return picked
-
-
 def enrich_metadata(noticias):
-    """Preenche imagem, resumo, corpo e crédito quando a fonte original publica metadados."""
-    pending = [
-        item for item in noticias[:MAX_ITEMS]
-        if not item.get("imagem") or not item.get("resumo") or not item.get("conteudo")
-    ]
-    direct = [item for item in pending if "news.google.com" not in (item.get("url") or "")]
-    google = [item for item in pending if item not in direct]
+    """Preenche resumo curto quando o RSS não trouxe — sem texto integral nem fotos."""
     fetched = 0
-
-    for item in direct + google:
+    for item in noticias[:MAX_ITEMS]:
+        if item.get("resumo"):
+            continue
         if fetched >= MAX_CONTENT_FETCH:
             break
-        if item.get("imagem") and item.get("resumo") and item.get("conteudo"):
-            continue
-        img, resumo, conteudo = fetch_article_page(
+        _, resumo, _ = fetch_article_page(
             item.get("url"),
             item.get("titulo", ""),
             item.get("fonte", ""),
         )
         fetched += 1
-        if img and not item.get("imagem"):
-            item["imagem"] = img
-            item["imagem_credito"] = item.get("fonte")
-            print(f"imagem og: {item['titulo'][:50]}…", file=sys.stderr)
-        if resumo and not item.get("resumo"):
+        if resumo:
             item["resumo"] = resumo
             print(f"resumo og: {item['titulo'][:50]}…", file=sys.stderr)
-        if conteudo and not item.get("conteudo"):
-            item["conteudo"] = conteudo
-            print(f"texto og: {item['titulo'][:50]}… ({len(conteudo)} ¶)", file=sys.stderr)
-
-    for item in noticias:
-        if item.get("imagem"):
-            item.setdefault("imagem_credito", item.get("fonte"))
-        if item.get("conteudo") and not item.get("resumo"):
-            item["resumo"] = item["conteudo"][0][:600]
     return noticias
 
 
@@ -928,25 +888,9 @@ def parse_rss(xml_text, feed_cfg):
             "prioridade": max(base_priority, source_priority(fonte)),
         }
 
-        rss_image = normalize_image_url(image_from_rss_item(item_el))
-        if not rss_image:
-            for tag in (CONTENT_NS, "description"):
-                block = item_el.find(tag)
-                if block is not None and block.text:
-                    rss_image = normalize_image_url(image_from_html(block.text))
-                    if rss_image:
-                        break
-        if rss_image:
-            entry["imagem"] = rss_image
-            entry["imagem_credito"] = fonte
-
         resumo = resumo_from_rss_item(item_el)
         if resumo:
             entry["resumo"] = resumo
-
-        conteudo = conteudo_from_rss_item(item_el)
-        if conteudo:
-            entry["conteudo"] = conteudo
 
         if passes_filter(entry, feed_cfg.get("filtro")) and not is_junk_item(entry):
             items.append(entry)
@@ -966,9 +910,8 @@ def dedupe_and_sort(items):
                 dt = datetime.fromisoformat(pub.replace("Z", "+00:00"))
             except ValueError:
                 dt = datetime.min.replace(tzinfo=timezone.utc)
-        has_img = 1 if it.get("imagem") else 0
         direct = 1 if it.get("feed") in {"reporter_direto", "g1_rs", "expansao_direto", "sul21_direto"} else 0
-        return (has_img, item_rank_score(it), relevance_boost(it), direct, dt, it.get("prioridade", 5))
+        return (item_rank_score(it), relevance_boost(it), direct, dt, it.get("prioridade", 5))
 
     def item_rank_score(it):
         if it.get("feed") == "reporter_direto":
@@ -994,9 +937,8 @@ def dedupe_and_sort(items):
                 dt = datetime.fromisoformat(pub.replace("Z", "+00:00"))
             except ValueError:
                 dt = datetime.min.replace(tzinfo=timezone.utc)
-        has_img = 1 if item.get("imagem") else 0
         direct = 1 if item.get("feed") in {"reporter_direto", "g1_rs", "expansao_direto", "sul21_direto"} else 0
-        return (has_img, relevance_boost(item), direct, item_rank_score(item), dt, item.get("prioridade", 5))
+        return (relevance_boost(item), direct, item_rank_score(item), dt, item.get("prioridade", 5))
 
     unique.sort(key=sort_key, reverse=True)
     trimmed = unique[:MAX_ITEMS]
@@ -1049,9 +991,8 @@ def main():
 
     noticias = dedupe_and_sort(collected)
     noticias = enrich_metadata(noticias)
-    noticias = enrich_images(noticias)
-    noticias = dedupe_and_sort(noticias)
-    noticias_home = pick_noticias_home(noticias)
+    noticias = sanitize_noticias(noticias)
+    noticias_home = noticias[:MAX_ITEMS_HOME]
 
     payload = {
         "gerado_em": datetime.now(timezone.utc).isoformat(),
