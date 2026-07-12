@@ -543,20 +543,33 @@ window.guaipecasMapHelpers = (function(){
   const backdrop = document.getElementById('navBackdrop');
   if (!toggle || !menu) return;
 
+  // Fora do header: backdrop-filter no sticky quebrava position:fixed no mobile
+  if (menu.parentElement !== document.body) document.body.appendChild(menu);
+  if (backdrop && backdrop.parentElement !== document.body) document.body.appendChild(backdrop);
+
   function setOpen(isOpen) {
     menu.classList.toggle('open', isOpen);
+    toggle.classList.toggle('is-open', isOpen);
     toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+    toggle.setAttribute('aria-label', isOpen ? 'Fechar menu' : 'Abrir menu');
     if (backdrop) {
       backdrop.hidden = !isOpen;
       backdrop.classList.toggle('open', isOpen);
     }
+    document.body.classList.toggle('nav-open', isOpen);
     document.body.style.overflow = isOpen ? 'hidden' : '';
   }
 
-  toggle.addEventListener('click', function(){ setOpen(!menu.classList.contains('open')); });
+  toggle.addEventListener('click', function(e){
+    e.preventDefault();
+    setOpen(!menu.classList.contains('open'));
+  });
   if (backdrop) backdrop.addEventListener('click', function(){ setOpen(false); });
   menu.querySelectorAll('a').forEach(function(link){
     link.addEventListener('click', function(){ setOpen(false); });
+  });
+  document.addEventListener('keydown', function(e){
+    if (e.key === 'Escape' && menu.classList.contains('open')) setOpen(false);
   });
 })();
 

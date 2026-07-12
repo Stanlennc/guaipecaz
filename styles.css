@@ -92,14 +92,27 @@ img, svg { max-width: 100%; display: block; }
 
 /* ---------- Header ---------- */
 .site-header {
-  background: var(--header-bg);
-  backdrop-filter: blur(var(--glass-blur));
-  -webkit-backdrop-filter: blur(var(--glass-blur));
+  background: transparent;
   border-bottom: 1px solid var(--glass-border);
   box-shadow: 0 4px 24px rgba(0, 0, 0, 0.25);
   position: sticky;
   top: 0;
   z-index: 50;
+  isolation: isolate;
+}
+.site-header::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: var(--header-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  z-index: -1;
+  pointer-events: none;
+}
+.site-header > .wrap {
+  position: relative;
+  z-index: 1;
 }
 .site-header .wrap {
   display: flex;
@@ -165,7 +178,9 @@ nav.main-nav a.active { color: var(--river); }
   transition: border-color var(--transition), background var(--transition);
 }
 .nav-toggle:hover { border-color: var(--river); background: var(--sand); }
-.nav-toggle svg { stroke: currentColor; }
+.nav-toggle.is-open { border-color: var(--river); background: var(--sand); }
+.nav-toggle svg { stroke: currentColor; pointer-events: none; }
+body.nav-open { overflow: hidden; }
 
 .nav-backdrop {
   position: fixed;
@@ -173,7 +188,7 @@ nav.main-nav a.active { color: var(--river); }
   background: rgba(4, 10, 19, 0.65);
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
-  z-index: 90;
+  z-index: 140;
   opacity: 0;
   pointer-events: none;
   transition: opacity 0.3s ease;
@@ -187,6 +202,7 @@ nav.main-nav a.active { color: var(--river); }
   display: none;
   flex-direction: column;
   padding: 12px 24px 28px;
+  padding-bottom: calc(28px + env(safe-area-inset-bottom, 0px));
   border-bottom: 1px solid var(--sand);
   background: var(--paper-light);
   position: fixed;
@@ -194,7 +210,7 @@ nav.main-nav a.active { color: var(--river); }
   left: 0;
   right: 0;
   bottom: 0;
-  z-index: 100;
+  z-index: 150;
   overflow-y: auto;
   transform: translateX(100%);
   transition: transform 0.32s cubic-bezier(0.4, 0, 0.2, 1);
