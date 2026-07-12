@@ -554,13 +554,36 @@ function wmoLabel(code) {
   return 'variável';
 }
 
-function applyRiverStatus(card, level, cota, statusEl) {
+function applyRiverStatus(card, level, cota, statusEl, feedStatus) {
   if (!statusEl || level == null) return;
   var dot = statusEl.querySelector('.status-dot');
   var txt = statusEl.querySelector('span:last-child');
   if (!dot || !txt) return;
 
   card.classList.remove('alert-watch', 'alert-danger');
+  updateRiverAlert(null);
+
+  var status = (feedStatus || '').toLowerCase();
+  if (status === 'alagado') {
+    dot.style.background = 'var(--status-danger)';
+    txt.textContent = 'Alagado';
+    card.classList.add('alert-danger');
+    updateRiverAlert('danger', 'Rio acima da cota de inundação. Veja Agora e ligue 199 se precisar.');
+    return;
+  }
+  if (status === 'alerta') {
+    dot.style.background = 'var(--status-alert)';
+    txt.textContent = 'Alerta';
+    card.classList.add('alert-watch');
+    updateRiverAlert('watch', 'Rio em alerta no Nível Guaíba — acompanhe a tendência e a previsão de chuva.');
+    return;
+  }
+  if (status === 'normal') {
+    dot.style.background = 'var(--status-normal)';
+    txt.textContent = 'Normal';
+    return;
+  }
+
   if (level >= cota * 0.9) {
     dot.style.background = 'var(--status-danger)';
     txt.textContent = 'Atenção — próximo da cota';
@@ -625,9 +648,9 @@ function updateRiverAlert(level, message) {
       }
       if (updatedEl) {
         var dt = new Date(g.data_hora_medicao || data.gerado_em);
-        updatedEl.textContent = 'Atualizado em ' + dt.toLocaleString('pt-BR');
+        updatedEl.textContent = 'Medição em ' + dt.toLocaleString('pt-BR') + ' · Nível Guaíba';
       }
-      applyRiverStatus(guaibaCard, g.nivel_m, g.cota_inundacao || 3.0, statusEl);
+      applyRiverStatus(guaibaCard, g.nivel_m, g.cota_inundacao || 3.0, statusEl, g.status);
     }
 
     var j = rios.jacui;
@@ -642,14 +665,20 @@ function updateRiverAlert(level, message) {
       }
       if (updatedEl2) {
         var dt2 = new Date(j.data_hora_medicao || data.gerado_em);
-        updatedEl2.textContent = 'Atualizado em ' + dt2.toLocaleString('pt-BR');
+        updatedEl2.textContent = 'Medição em ' + dt2.toLocaleString('pt-BR') + ' · Nível Guaíba';
       }
-      applyRiverStatus(jacuiCard, j.nivel_m, j.cota_inundacao || 7.5, statusEl2);
+      applyRiverStatus(jacuiCard, j.nivel_m, j.cota_inundacao || 7.5, statusEl2, j.status);
     }
 
     var updateEl = document.getElementById('nowUpdate');
-    if (updateEl && data.gerado_em && window.GuaipecazSchedules) {
-      window.GuaipecazSchedules.updateStamp(updateEl, data.gerado_em, 'rivers');
+    if (updateEl && window.GuaipecazSchedules) {
+      var stamps = [];
+      if (g && g.data_hora_medicao) stamps.push(new Date(g.data_hora_medicao).getTime());
+      if (j && j.data_hora_medicao) stamps.push(new Date(j.data_hora_medicao).getTime());
+      var latest = stamps.length
+        ? new Date(Math.max.apply(null, stamps)).toISOString()
+        : data.gerado_em;
+      if (latest) window.GuaipecazSchedules.updateStamp(updateEl, latest, 'rivers');
     }
   }
 

@@ -99,11 +99,24 @@ def match_feed_item(item, station):
     return any(marker in title for marker in station["title_markers"])
 
 
+def parse_status_from_item(item):
+    tags = [str(t).lower() for t in (item.get("tags") or [])]
+    if "alagado" in tags:
+        return "alagado"
+    if "alerta" in tags:
+        return "alerta"
+    if "normal" in tags:
+        return "normal"
+    title = item.get("title") or ""
+    content = item.get("content_text") or ""
+    return parse_status(title) or parse_status(content)
+
+
 def parse_feed_item(item):
     title = item.get("title") or ""
     content = item.get("content_text") or ""
     nivel = parse_level_value(title) or parse_level_value(content)
-    status = parse_status(title) or parse_status(content)
+    status = parse_status_from_item(item)
     return {
         "nivel_m": nivel,
         "status": status,
@@ -172,9 +185,10 @@ def fetch_nivelguaiba_feed():
     items = data.get("items") or []
     resultado = {}
     for chave, station in STATIONS.items():
-        item = next((it for it in items if match_feed_item(it, station)), None)
-        if not item:
+        matches = [it for it in items if match_feed_item(it, station)]
+        if not matches:
             continue
+        item = max(matches, key=lambda it: it.get("date_published") or "")
         parsed = parse_feed_item(item)
         if parsed["nivel_m"] is None:
             continue
@@ -186,7 +200,7 @@ def fetch_nivelguaiba_feed():
             "data_hora_medicao": parsed["data_hora_medicao"],
             "status": parsed["status"],
             "fonte": "Nível Guaíba",
-            "fonte_url": station["fonte_url"],
+            "fonte_url": item.get("url") or station["fonte_url"],
         }
     return resultado
 
