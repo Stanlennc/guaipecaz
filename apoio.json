@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-12T04:58:56Z",
+  "gerado_em": "2026-07-12T17:14:18Z",
   "cidade": "Guaíba/RS",
   "paginas": {
     "mulher": {
@@ -45,7 +45,7 @@
     },
     "pet": {
       "lede": "Como denunciar maus-tratos, pedir resgate e encontrar apoio para cães, gatos e fauna silvestre em Guaíba. Guaipeca é o termo gaúcho para vira-lata — o cão sem raça definida que a gente encontra nas ruas e nos abrigos.",
-      "nota": "O portal leva o nome Guaipecaz em homenagem ao vira-lata gaúcho (guaipeca). Em Guaíba, a SEBEA é o canal municipal oficial: fiscaliza, resgata e registra ocorrência na polícia quando necessário. ONGs e protetores complementam adoção e resgates voluntários.",
+      "nota": "Em Guaíba, a SEBEA é o canal municipal oficial: fiscaliza, resgata e registra ocorrência na polícia quando necessário. ONGs e protetores complementam adoção e resgates voluntários.",
       "passos": [
         {
           "titulo": "1. Se o animal ou você estão em perigo",
@@ -174,8 +174,8 @@
       "tel": "555134807000",
       "url": "https://guaiba.rs.gov.br/",
       "link_label": "Portal da Prefeitura",
-      "lat": -30.1171933,
-      "lon": -51.3377734,
+      "lat": -30.1170475,
+      "lon": -51.337478,
       "cidade": "guaiba",
       "geocode_fonte": "nominatim",
       "posicao_aproximada": false
@@ -225,8 +225,8 @@
       "endereco": "Av. Nestor de Moura Jardim, 111 — Centro",
       "telefone": "(51) 3480-7030",
       "tel": "555134807030",
-      "lat": -30.1171933,
-      "lon": -51.3377734,
+      "lat": -30.1147339,
+      "lon": -51.3302703,
       "cidade": "guaiba",
       "geocode_fonte": "nominatim",
       "posicao_aproximada": false
@@ -274,8 +274,8 @@
       "url": "https://guaiba.atende.net/autoatendimento/servicos/e-denuncia-de-maus-tratos-ou-crueldade-contra-animais",
       "link_label": "Denunciar online",
       "instagram": "@sebea_guaiba",
-      "lat": -30.1171933,
-      "lon": -51.3377734,
+      "lat": -30.1147339,
+      "lon": -51.3302703,
       "cidade": "guaiba",
       "geocode_fonte": "nominatim",
       "posicao_aproximada": false
