@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-12T02:11:17.567407+00:00",
+  "gerado_em": "2026-07-12T02:40:35.495764+00:00",
   "lede": "Pontos turísticos de Guaíba, Porto Alegre e Canoas — com foto, endereço e mapa.",
   "cidades": [
     "guaiba",
@@ -11,7 +11,7 @@
       "nome": "Guaíba",
       "tagline": "Beira do Guaíba, praças e orla",
       "descricao": "Guaíba vive de frente para o lago: a orla, a Praça da Maçã, a Praia Alegria e o píer são os cartões-postais da cidade.",
-      "imagem": "assets/explorar/guaiba-pier-guaiba.jpg",
+      "imagem": "assets/explorar/guaiba-praia-alegria.webp",
       "imagem_credito": "Guaipecaz"
     },
     "poa": {
@@ -33,9 +33,9 @@
     {
       "id": "fds-guaiba-orla",
       "cidade": "guaiba",
-      "item_ref": "guaiba-beira-guaiba",
+      "item_ref": "guaiba-pier-guaiba",
       "destaque": "Pôr do sol",
-      "motivo": "Caminhada na orla do Guaíba — programa simples e bonito."
+      "motivo": "Caminhada no píer e orla de Guaíba — programa simples e bonito."
     },
     {
       "id": "fds-poa-redencao",
@@ -53,29 +53,6 @@
     }
   ],
   "pontos_turisticos": [
-    {
-      "id": "guaiba-beira-guaiba",
-      "cidade": "guaiba",
-      "titulo": "Beira do Guaíba",
-      "endereco": "Av. Pres. Getúlio Vargas, s/n — Portal Litoral Sul, Guaíba/RS",
-      "descricao_curta": "Orla e calçadão à beira do Lago dos Patos — pôr do sol e caminhada.",
-      "descricao_longa": "A beira do Guaíba em Guaíba é o encontro da cidade com o lago. Calçadão, ciclovia e horizonte d'água fazem deste trecho o programa mais pedido — especialmente no entardecer.",
-      "imagem": "assets/explorar/guaiba-praia-alegria.webp",
-      "imagem_credito": "Guaipecaz",
-      "lat": -30.0952,
-      "lon": -51.3048,
-      "tags": [
-        "grátis",
-        "orla",
-        "pôr do sol"
-      ],
-      "gratis": true,
-      "horario": "Livre acesso — melhor ao entardecer",
-      "dica": "Leve chimarrão ou mate — o pôr do sol aqui é o melhor horário.",
-      "tipo": "lugar",
-      "mapa": true,
-      "curado": true
-    },
     {
       "id": "guaiba-praca-maca",
       "cidade": "guaiba",
@@ -257,29 +234,6 @@
     }
   ],
   "itens": [
-    {
-      "id": "guaiba-beira-guaiba",
-      "cidade": "guaiba",
-      "titulo": "Beira do Guaíba",
-      "endereco": "Av. Pres. Getúlio Vargas, s/n — Portal Litoral Sul, Guaíba/RS",
-      "descricao_curta": "Orla e calçadão à beira do Lago dos Patos — pôr do sol e caminhada.",
-      "descricao_longa": "A beira do Guaíba em Guaíba é o encontro da cidade com o lago. Calçadão, ciclovia e horizonte d'água fazem deste trecho o programa mais pedido — especialmente no entardecer.",
-      "imagem": "assets/explorar/guaiba-praia-alegria.webp",
-      "imagem_credito": "Guaipecaz",
-      "lat": -30.0952,
-      "lon": -51.3048,
-      "tags": [
-        "grátis",
-        "orla",
-        "pôr do sol"
-      ],
-      "gratis": true,
-      "horario": "Livre acesso — melhor ao entardecer",
-      "dica": "Leve chimarrão ou mate — o pôr do sol aqui é o melhor horário.",
-      "tipo": "lugar",
-      "mapa": true,
-      "curado": true
-    },
     {
       "id": "guaiba-praca-maca",
       "cidade": "guaiba",

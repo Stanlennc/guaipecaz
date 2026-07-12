@@ -1,21 +1,22 @@
 # Pontos turísticos — fotos do Guaipecaz
 
-9 arquivos em uso (não renomeie sem atualizar explorar.seed.json):
+8 arquivos · cada ponto com foto própria (sem repetir):
 
 ## Guaíba
-- guaiba-praia-alegria.webp (Beira do Guaíba)
-- guaiba-praca-maca.jpeg
-- guaiba-praia-alegria.webp (Praia Alegria)
-- guaiba-pier-guaiba.jpg (Píer + perfil da cidade)
+- guaiba-praia-alegria.webp — perfil da cidade + Praia Alegria
+- guaiba-praca-maca.jpeg — Praça da Maçã
+- guaiba-pier-guaiba.jpg — Píer de Guaíba (+ sugestão fim de semana)
 
 ## Porto Alegre
 - poa-parque-redencao.png
 - poa-jardim-botanico.jpg
 - poa-moinhos-vento.webp
-- poa-orla-guaiba.jpg (Usina do Gasômetro)
+- poa-orla-guaiba.jpg — Usina do Gasômetro
 
 ## Canoas
 - canoas-parque-getulio2.jpg
+
+Beira do Guaíba (Portal Litoral): sem foto própria — aguardando imagem do usuário.
 
 Novas fotos: copie para esta pasta e atualize explorar.seed.json, depois:
 python3 automation/fetch_explorar.py
