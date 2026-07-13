@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-13T13:41:54.731966+00:00",
+  "gerado_em": "2026-07-13T14:30:56.200310+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,14 +74,64 @@
   ],
   "noticias": [
     {
-      "id": "1243af8e6369",
+      "id": "360a1434a2b0",
+      "titulo": "Sob chuva, Guaíba recebe mais de 400 corredores na 8ª etapa do Circuito Sesc de Corridas",
+      "url": "https://www.reporterguaibense.com.br/noticia/sob-chuva-guaiba-recebe-mais-de-400-corredores-na-8-etapa-do-circuito-sesc-de-corridas",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-13T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O evento contemplou provas de 1 km a 10 km neste domingo"
+    },
+    {
+      "id": "221c68dd37a6",
+      "titulo": "Rotary Guaíba realiza primeira entrega de cadeira de rodas pelo programa nacional",
+      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-realiza-primeira-entrega-de-cadeira-de-rodas-pelo-programa-nacional-mobilidade-para-todos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A ação transformou a vida de Délcio Mendonça, de 63 anos, na última sexta-feira (27)"
+    },
+    {
+      "id": "d85bcc167848",
+      "titulo": "Novo filme do Homem-Aranha deve ser uma das estreias do novo cinema de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/novo-filme-do-homem-aranha-deve-ser-uma-das-estreias-do-novo-cinema-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A unidade de Guaíba terá uma sala com 170 lugares, projetor digital com tecnologia 3D e bombonière"
+    },
+    {
+      "id": "4cd91ccbbdfb",
+      "titulo": "Guaíba lança editais da Política Nacional Aldir Blanc com mais de R$ 450 mil em investimentos na cultura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-editais-da-politica-nacional-aldir-blanc-com-mais-de-r-450-mil-em-investimentos-na-cultura",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os editais foram apresentados em duas audiências públicas presenciais"
+    },
+    {
+      "id": "42c63cc8e584",
       "titulo": "Guaíba presta apoio humanitário a Eldorado do Sul após forte temporal",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVjZyTTRhRG9jLVNWYlZiVkROR2ZubWZHRlo3SG1aVzdacmVqZzYzN3Y0ajNjLWs1VktvbWNNRkFkU3hva25pRlpVNFdBVFIxSk5DUFY4aC1ObnJIRnJIaldNRXJDQldIY2tqQ0Zld28wRVJzTTJkU29YMmdlOEtOQ0EwMEllODAxRVVUdEVzQ2dPcVdz?oc=5",
-      "fonte": "expansao.co",
+      "url": "https://expansao.co/guaiba-presta-apoio-humanitario-a-eldorado-do-sul-apos-forte-temporal/",
+      "fonte": "Expansão",
       "publicado_em": "2026-07-13T13:06:41+00:00",
+      "categoria": "Cidades",
+      "feed": "expansao_direto",
+      "resumo": "Neste domingo, 12 de julho, a prefeita de Guaíba, Claudinha Jardim, designou equipes da Defesa Civil e da Secretaria de Infraestrutura para prestar apoio humanitário às famílias de Eldorado do&#8230; O post Guaíba presta apoio humanitário a Eldorado do Sul após forte temporal apareceu primeiro em…"
+    },
+    {
+      "id": "f06b650a4cf5",
+      "titulo": "Guaíba: Uma Nova História",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YWEZWamE1OVFZUzhpeEQxMGVDYzAtOWNSMi1wY1puOUhrNUJ5bndQQkJTVXlhMi1iZG1oUFkyZTlrS2llZ3pfb0RmczZ5bzY0dm5yTEJuRmRoVGc5UzI2X1phck0wX2RlYmhoS2Vnak5WUjdpeFc0VW1R?oc=5",
+      "fonte": "Portal Litoral Sul",
+      "publicado_em": "2026-07-13T11:30:22+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Guaíba presta apoio humanitário a Eldorado do Sul após forte temporal expansao.co"
+      "resumo": "Guaíba: Uma Nova História Portal Litoral Sul"
     },
     {
       "id": "8c21b166730d",
@@ -274,26 +324,6 @@
       "resumo": "Porto Alegre entra em atenção por risco de elevação do Guaíba Agora RS"
     },
     {
-      "id": "27304c7576ce",
-      "titulo": "Sob chuva, Guaíba recebe mais de 400 corredores na 8ª etapa do Circuito Sesc de Corridas",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTnp2dllfbnUtTzhWbUVQSkVsUGZ6eEE2UzVVM0FCSTJVTW5QTWZkTnEyRFBRRzdFNHBUYXRKY0R1dDZrRFRhN0dyX21VcE5CdkhlY3NrTDZBbERzRHVwd04xaVl1emJMMGFSZ2ZJSURvY0JZNFZpemxtR285OGExT09VUllEY2dUekUxc2dIZjZNTkl1RWEteHBnVEVEcnZVclpCMGl3SEhieDU5elAzclYwYWNSWUJ1bFJ1VVkyeC1IVEhqRmd1M0FMaw?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-06-29T23:08:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Sob chuva, Guaíba recebe mais de 400 corredores na 8ª etapa do Circuito Sesc de Corridas Repórter Guaibense"
-    },
-    {
-      "id": "375eb2b1cf80",
-      "titulo": "Novo filme do Homem-Aranha deve ser uma das estreias do novo cinema de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUJNbzhvMlo2c09lM3JaR2pxR3ZxanFGQU9LTkJfeWlfdU9oWUpDdmlCRWp2dGk1c194ZHo1dDQ4N2F6UjBCQ1dObjlSb1pEd09ya1NNWG1YR1JxNE55WUF4SDc0VEtTSlVUY3dtRmhmLU80WWg1d1A5SUxPbjVWS0c4ZHpEMTUyOUREQ1Q4XzM2eGxXc1AwSE5USmhNNklObFNPV0lOcVFBLV9kVTl4S0JLSHc2Sm9SOTJMclhXUQ?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-06-29T19:15:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Novo filme do Homem-Aranha deve ser uma das estreias do novo cinema de Guaíba Repórter Guaibense"
-    },
-    {
       "id": "e99883bf253e",
       "titulo": "O que significa monumento de 4,5 metros com dedo apontado para o céu instalado às margens do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObEZRdlNaQzFtdlpoUk5rUVBIbVpKSVpqRk50LTVucUFEV1JENHB4bkYzN3J5U1l1bl95Y1NlVmNPbDVQWUhYc0RYUW9HeV9KUEJEandjdjBITnZxMHcwakwtMVo0M3hjY1h0RHZ2eGxJb1lHUWRraVExTF84UTBCZEM5RjJ3NEt5T0h1RmdQQ2d5LVJpbk9JUi1qNHpTeXk2LU5wRFBTLWt4V0RmY0wxaXRNemRJVHduaXczWUI2WnQyTEZwQ0NrdnczZXkzVHlLaGJsM05mcURsNzBmOTJNNHFDbzY0ZVFiTEExMkNWR084MUIyeWxZUdIBhwJBVV95cUxNaWZqZGpRb0c3b3g1NWxGSkFNb3d5VUJEUVlIbHpIVGc3dHRRZXEtOFl6Sk5pRXN3amYxN3lvVGFud1pfNzltQWEzUDF2OWRKWlF5eVhwdk1hX0MxcldMNVJ3VkNQelI5MGQxdk1wV0YwS3FNUTdWcDdQUnlNUHM0Tm1QUG52Z1ZfYUJtM19hZGc3S081UlZ4Wmd2Wk1OU2V1N0xPOFVkd1hzdGpXRFRhR3JYRU4xS2UxQXlHQjNUcXg3RnMtQ1I4RHRBQ0pPT2kyUGo1SXYzVmhRR2dTMUZCMmR6SGZlQzliRE5MQ0hvR2hwd2lXTDRTTlgzU0lxdW1XMFBBUFpvMA?oc=5",
@@ -342,48 +372,68 @@
       "categoria": null,
       "feed": "reporter",
       "resumo": "Círculo Saúde abre 120 vagas de emprego para a instalação do novo hospital de Guaíba Repórter Guaibense"
-    },
-    {
-      "id": "38548429cccc",
-      "titulo": "Observatório Social alerta para situação financeira e indica redução de 23% nas despesas de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNjc4U194ZHFlLUF0T05TVklfZk12Yk1HbEc3V0JBOXRfd0lVVVRiUmJXNVlEckVjYWdBbmJCeDhwMGY0d2FSbmZzc2o0MmFFR19wMjFSVHVvdC0tV2Y0aGFYR21ucjdQNjJvVW5GdndWUEItdGFBVHA0bFZSWjBrdDlOMWdzOFhNYUNUWUxXN1hxMjA0TDFDNnhhclNlSGwyQ3UzenpTam9IWW9DS1o1LTJ3TnFhVTlQTEhUaXgwNHg2b2pYcTdzZXgtTEswcmhRUTlPeENzTGs2dw?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-06-22T07:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Observatório Social alerta para situação financeira e indica redução de 23% nas despesas de Guaíba Repórter Guaibense"
-    },
-    {
-      "id": "784593a9ce78",
-      "titulo": "Servidores de Guaíba entram em estado de greve após mudança no calendário de pagamentos",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXpabXR0c1ZCZXJXRHY4U3M3aUhTWFM1N19WNFMzcU9nbnBMR3I3SHE5eml2bVZmRGptZ2MwLUxTQXF5cXgxMG1uVEdNaGN6SkxkcjNONzNtclg5Z2NRbTg5ZlprMDhKZE44cEhOR3V5VzhobmM5QTdEUHoza0lZWWZxaFA3M3ExUXpnUTc5N1dzeG5sWW9iS3p1eE9nc2xtU2VXNENIdlkwdVd3N1MxVWpMeVNzcnZILU1rWmFvR1ZoQmZXRXRXYnV3bVE?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-06-19T07:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Servidores de Guaíba entram em estado de greve após mudança no calendário de pagamentos Repórter Guaibense"
-    },
-    {
-      "id": "2219b64998d7",
-      "titulo": "Guaíba lança editais da Política Nacional Aldir Blanc com mais de R$ 450 mil em investimentos na cultura",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVkI4bGFGSEM4Nm5lVk5xNUZ2VHRORlJKa2E1bEV5QVNJNUFTbUxQb0tUR1dQU2p3bm9LX2FMb2lZeVU5M0JpSHVqaTQ4S0hqR3BUMnh3ekF1QUw2c0VGNHo0WjFqdHpGUWlBREl1UXdQM3J2S3Q1TjcwdEFXZFdSQWJJU2VuSmhCOHhsczBFZ3NJdDFnMWdVSElzY0hadXNsRDV5N0ppb2F1aWx3MWNoUGE1Uk9fYUM4N2lURGllMDRIQXM1X3dzNmFhRzJpdGRvRU5vY3hSSnBfUlBsQmhTMDFB?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-06-17T07:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Guaíba lança editais da Política Nacional Aldir Blanc com mais de R$ 450 mil em investimentos na cultura Repórter Guaibense"
     }
   ],
   "noticias_home": [
     {
-      "id": "1243af8e6369",
+      "id": "360a1434a2b0",
+      "titulo": "Sob chuva, Guaíba recebe mais de 400 corredores na 8ª etapa do Circuito Sesc de Corridas",
+      "url": "https://www.reporterguaibense.com.br/noticia/sob-chuva-guaiba-recebe-mais-de-400-corredores-na-8-etapa-do-circuito-sesc-de-corridas",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-13T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O evento contemplou provas de 1 km a 10 km neste domingo"
+    },
+    {
+      "id": "221c68dd37a6",
+      "titulo": "Rotary Guaíba realiza primeira entrega de cadeira de rodas pelo programa nacional",
+      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-realiza-primeira-entrega-de-cadeira-de-rodas-pelo-programa-nacional-mobilidade-para-todos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A ação transformou a vida de Délcio Mendonça, de 63 anos, na última sexta-feira (27)"
+    },
+    {
+      "id": "d85bcc167848",
+      "titulo": "Novo filme do Homem-Aranha deve ser uma das estreias do novo cinema de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/novo-filme-do-homem-aranha-deve-ser-uma-das-estreias-do-novo-cinema-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A unidade de Guaíba terá uma sala com 170 lugares, projetor digital com tecnologia 3D e bombonière"
+    },
+    {
+      "id": "4cd91ccbbdfb",
+      "titulo": "Guaíba lança editais da Política Nacional Aldir Blanc com mais de R$ 450 mil em investimentos na cultura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-editais-da-politica-nacional-aldir-blanc-com-mais-de-r-450-mil-em-investimentos-na-cultura",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os editais foram apresentados em duas audiências públicas presenciais"
+    },
+    {
+      "id": "42c63cc8e584",
       "titulo": "Guaíba presta apoio humanitário a Eldorado do Sul após forte temporal",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVjZyTTRhRG9jLVNWYlZiVkROR2ZubWZHRlo3SG1aVzdacmVqZzYzN3Y0ajNjLWs1VktvbWNNRkFkU3hva25pRlpVNFdBVFIxSk5DUFY4aC1ObnJIRnJIaldNRXJDQldIY2tqQ0Zld28wRVJzTTJkU29YMmdlOEtOQ0EwMEllODAxRVVUdEVzQ2dPcVdz?oc=5",
-      "fonte": "expansao.co",
+      "url": "https://expansao.co/guaiba-presta-apoio-humanitario-a-eldorado-do-sul-apos-forte-temporal/",
+      "fonte": "Expansão",
       "publicado_em": "2026-07-13T13:06:41+00:00",
+      "categoria": "Cidades",
+      "feed": "expansao_direto",
+      "resumo": "Neste domingo, 12 de julho, a prefeita de Guaíba, Claudinha Jardim, designou equipes da Defesa Civil e da Secretaria de Infraestrutura para prestar apoio humanitário às famílias de Eldorado do&#8230; O post Guaíba presta apoio humanitário a Eldorado do Sul após forte temporal apareceu primeiro em…"
+    },
+    {
+      "id": "f06b650a4cf5",
+      "titulo": "Guaíba: Uma Nova História",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YWEZWamE1OVFZUzhpeEQxMGVDYzAtOWNSMi1wY1puOUhrNUJ5bndQQkJTVXlhMi1iZG1oUFkyZTlrS2llZ3pfb0RmczZ5bzY0dm5yTEJuRmRoVGc5UzI2X1phck0wX2RlYmhoS2Vnak5WUjdpeFc0VW1R?oc=5",
+      "fonte": "Portal Litoral Sul",
+      "publicado_em": "2026-07-13T11:30:22+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Guaíba presta apoio humanitário a Eldorado do Sul após forte temporal expansao.co"
+      "resumo": "Guaíba: Uma Nova História Portal Litoral Sul"
     },
     {
       "id": "8c21b166730d",
@@ -404,56 +454,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "PRF recupera motocicleta furtada e prende homem com antecedentes criminais na BR-116, em Guaíba Portal de Camaquã"
-    },
-    {
-      "id": "359ce39e10c7",
-      "titulo": "Alunos apresentam oficina e visitam o Jornal Correio do Povo e a Rádio Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVG16TEZZa3JUU25DSUlRMjR1dzZ1WFowN0xzYjVLdkFfdW53R2tsbUxFQVBwSk92U2xQVHAyN0FVYUxTR2lYLTlXa2Q3U0VnWGphd014M2dfYS1Na1dmcEpNdktDaS14Rk00Yi0yX051ZGZIbEl5TXprRlIxTWNSZWVhNUh6M25LaG1KbFBKczgwai1GaGxwU0ZUbVdLNkVtUWNkMFlUMnBMa2tjcU9tQV80Tk1DTElvSjZleldhOExqeTdBSHlTV1lscHdGOWQ0bTdzWnZabjg?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-10T20:10:02+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Alunos apresentam oficina e visitam o Jornal Correio do Povo e a Rádio Guaíba Correio do Povo"
-    },
-    {
-      "id": "7f428226f83a",
-      "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 1",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNUE9KY3A0RFJWWWJTa2k1a1JGU1dCaE5DbmwweW5qQUFHT3dnTEFKNDZyaTl2TkpfYmpiM0g1bjhNQmJObUJzTjNsejJucXRLc3JTZXNZLVh3N0dnVjVVQVRURTk4dGttTGFKbkJMdGxpcXJMSkppSktaRDRkSFA3ZWQxWkFIN3NFWTlMWXBPUXlvZEluM1FaYnQxdWViX0NybmFZRG5wT19jdnk0LU1KbTJLaHYyaXNYZ000blpydVBaQS1KM0R4NW5KWi0tOEFzUFE1RGpQbFFLRXNPNlVrVjdBb09KTWlJdGJsSWdHSU1fR2lSczZHbDFjTlJhNXp1Y3ZYTUtfZjZoYUFic2VZdmEyOXdwX1BCdkVqR251eWx1aV9hQ0E?oc=5",
-      "fonte": "ArchDaily",
-      "publicado_em": "2026-07-10T17:43:45+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 1 ArchDaily"
-    },
-    {
-      "id": "3a2cd35e5251",
-      "titulo": "Guaíba fortalece as equipes da Defesa Civil com treinamento aquático",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQnVUYlY3V2Q1bDI5Q245eGloLU1kb3JhWXd0M1NCdGdCMGRLNHZoTTM5X051U05ZOWR4RUJHaUxxMGZVbmIyby02M3RKWTFkck93Z19meF9jNmhlZHRQMEpKbGxpZ3FvMXRwcTdDREptdk55aHhjalVJMlJrM0E3cVpzYjZfMVhBVklXanpmZEE0YmM?oc=5",
-      "fonte": "expansao.co",
-      "publicado_em": "2026-07-10T17:05:19+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba fortalece as equipes da Defesa Civil com treinamento aquático expansao.co"
-    },
-    {
-      "id": "7e14a601c6dd",
-      "titulo": "Defensoria Pública participa da entrega das escrituras encaminhadas pelo Projeto Terra – Eu sou COHAB, em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdEhqOThMTUxOQVVXZXkzY18zd0dGUTNWdXRaRTR2S2thRzdCZzVwdjhqcUQ2NXh5c3NkYnIyd09TWXdkcWFfQUwtYmVqWVo2c2dyVC1RWUtXZ0JEVndNR2QxcWxZVTJGU3FVWlRPNjlJbWg4ckVUclBGZzVic200ckk4TDhGSGFzZ01mT2ZoOUhySUZINXlUMDV0WFF3M1dGd2FMV0pWYnhVemVVZEUwaXVlTXV3ZFVqakg5NEYyb1BYU05Oa0VGUmZZX3FXalhUQ0NBd3RaYUNqZw?oc=5",
-      "fonte": "defensoria.rs.def.br",
-      "publicado_em": "2026-07-09T18:26:24+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Defensoria Pública participa da entrega das escrituras encaminhadas pelo Projeto Terra – Eu sou COHAB, em Guaíba defensoria.rs.def.br"
-    },
-    {
-      "id": "ea9a7f777f82",
-      "titulo": "Mutirão do Projeto Terra contempla 226 imóveis, em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1Z4QzRSWXpXOGc3THh1VlkyZjNKdzYwT0VjYlpTZzE2Y0JQLTB0enlsQUdtTUVEQVQ2Q3dya3ZKUkkwbzRxUkxRdU4zWHRPdnRiUFNwNENRVm9OX0tCTThQMFlKcUhVS21GcDJMUTBlUjR3ZGJDOGZKVGV4c3JWcExtdw?oc=5",
-      "fonte": "Agora RS",
-      "publicado_em": "2026-07-09T13:19:53+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Mutirão do Projeto Terra contempla 226 imóveis, em Guaíba Agora RS"
     }
   ]
 }
