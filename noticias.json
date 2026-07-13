@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-13T20:56:15.179110+00:00",
+  "gerado_em": "2026-07-13T22:55:05.824103+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,16 +84,6 @@
       "resumo": "O evento contemplou provas de 1 km a 10 km neste domingo"
     },
     {
-      "id": "221c68dd37a6",
-      "titulo": "Rotary Guaíba realiza primeira entrega de cadeira de rodas pelo programa nacional",
-      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-realiza-primeira-entrega-de-cadeira-de-rodas-pelo-programa-nacional-mobilidade-para-todos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A ação transformou a vida de Délcio Mendonça, de 63 anos, na última sexta-feira (27)"
-    },
-    {
       "id": "d85bcc167848",
       "titulo": "Novo filme do Homem-Aranha deve ser uma das estreias do novo cinema de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/novo-filme-do-homem-aranha-deve-ser-uma-das-estreias-do-novo-cinema-de-guaiba",
@@ -102,6 +92,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A unidade de Guaíba terá uma sala com 170 lugares, projetor digital com tecnologia 3D e bombonière"
+    },
+    {
+      "id": "221c68dd37a6",
+      "titulo": "Rotary Guaíba realiza primeira entrega de cadeira de rodas pelo programa nacional",
+      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-realiza-primeira-entrega-de-cadeira-de-rodas-pelo-programa-nacional-mobilidade-para-todos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A ação transformou a vida de Délcio Mendonça, de 63 anos, na última sexta-feira (27)"
     },
     {
       "id": "4cd91ccbbdfb",
@@ -304,6 +304,16 @@
       "resumo": "Rotary Guaíba realiza primeira entrega de cadeira de rodas pelo programa nacional 'Mobilidade para Todos' Repórter Guaibense"
     },
     {
+      "id": "ec2c2c0ed1f8",
+      "titulo": "Porto Alegre entra em atenção por risco de elevação do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObi1FU2lGVkhEcGw5UjBZcllQMlRMMnlrWk1GTDRhaTJLeG13aGV4OVdkcXN3UUphMTEtNVZJMU5vZVVuaXhZbVBxeE5HcGRCWjBEdDQxVTZCbVczamFJRWpYenNZZDJiZ1Y5VmJCV20zVXhCbTl5dVQ5X0xqOFZaMTJlRUhhQ2ZnRWhQMVVZX1BMNkRhYTA0Y1p5TEloZjg?oc=5",
+      "fonte": "Agora RS",
+      "publicado_em": "2026-07-01T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Porto Alegre entra em atenção por risco de elevação do Guaíba Agora RS"
+    },
+    {
       "id": "e99883bf253e",
       "titulo": "O que significa monumento de 4,5 metros com dedo apontado para o céu instalado às margens do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObEZRdlNaQzFtdlpoUk5rUVBIbVpKSVpqRk50LTVucUFEV1JENHB4bkYzN3J5U1l1bl95Y1NlVmNPbDVQWUhYc0RYUW9HeV9KUEJEandjdjBITnZxMHcwakwtMVo0M3hjY1h0RHZ2eGxJb1lHUWRraVExTF84UTBCZEM5RjJ3NEt5T0h1RmdQQ2d5LVJpbk9JUi1qNHpTeXk2LU5wRFBTLWt4V0RmY0wxaXRNemRJVHduaXczWUI2WnQyTEZwQ0NrdnczZXkzVHlLaGJsM05mcURsNzBmOTJNNHFDbzY0ZVFiTEExMkNWR084MUIyeWxZUdIBhwJBVV95cUxNaWZqZGpRb0c3b3g1NWxGSkFNb3d5VUJEUVlIbHpIVGc3dHRRZXEtOFl6Sk5pRXN3amYxN3lvVGFud1pfNzltQWEzUDF2OWRKWlF5eVhwdk1hX0MxcldMNVJ3VkNQelI5MGQxdk1wV0YwS3FNUTdWcDdQUnlNUHM0Tm1QUG52Z1ZfYUJtM19hZGc3S081UlZ4Wmd2Wk1OU2V1N0xPOFVkd1hzdGpXRFRhR3JYRU4xS2UxQXlHQjNUcXg3RnMtQ1I4RHRBQ0pPT2kyUGo1SXYzVmhRR2dTMUZCMmR6SGZlQzliRE5MQ0hvR2hwd2lXTDRTTlgzU0lxdW1XMFBBUFpvMA?oc=5",
@@ -322,6 +332,16 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Situação política e interesses estrangeiros ameaçam o Guaíba, no Rio Grande do Sul ((o))eco | Jornalismo Ambiental"
+    },
+    {
+      "id": "28cfe033ae86",
+      "titulo": "O que significa a mão gigante de concreto com dedo apontado para o céu em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQX1kydUhiZmYzdHYweW1teHlydEIwSVo3U0RFWDc4SXR6VGRyeXM2Zi00c2Z4NmdKRXVLeFdydXdZSEJSQVBZUjgyZDRpVjEzWkN0bnBCRXU5dEc3Rl9wNzNNdHVNVExCSlJuVlBpOFVHNl9GSV81M3B1SzZ5VzRpSnhaUF80UWs4QXhkS0s0MC1mZnBrbUY1WkJlWTVaaHVKWEJNRGxJTURBek45ZmUtWmN3RHFldmVJc3hOd09wVlNoNU84Q05TcnBDNHVYQkluQ2E1VXBxU3p6TEd4ZnZuYTVxangySTVVbF9jZU5Qb1Fzdm1NR1JMR2ZVc3VCOE95RDU0?oc=5",
+      "fonte": "Diário Gaúcho",
+      "publicado_em": "2026-06-24T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "O que significa a mão gigante de concreto com dedo apontado para o céu em Guaíba Diário Gaúcho"
     },
     {
       "id": "84fb647c92f5",
@@ -352,26 +372,6 @@
       "categoria": null,
       "feed": "reporter",
       "resumo": "Observatório Social alerta para situação financeira e indica redução de 23% nas despesas de Guaíba Repórter Guaibense"
-    },
-    {
-      "id": "784593a9ce78",
-      "titulo": "Servidores de Guaíba entram em estado de greve após mudança no calendário de pagamentos",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXpabXR0c1ZCZXJXRHY4U3M3aUhTWFM1N19WNFMzcU9nbnBMR3I3SHE5eml2bVZmRGptZ2MwLUxTQXF5cXgxMG1uVEdNaGN6SkxkcjNONzNtclg5Z2NRbTg5ZlprMDhKZE44cEhOR3V5VzhobmM5QTdEUHoza0lZWWZxaFA3M3ExUXpnUTc5N1dzeG5sWW9iS3p1eE9nc2xtU2VXNENIdlkwdVd3N1MxVWpMeVNzcnZILU1rWmFvR1ZoQmZXRXRXYnV3bVE?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-06-19T07:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Servidores de Guaíba entram em estado de greve após mudança no calendário de pagamentos Repórter Guaibense"
-    },
-    {
-      "id": "fef6f73af6dd",
-      "titulo": "Obras da Corsan podem causar oscilação na pressão da água em Guaíba nesta quarta-feira",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNU1Fd05FZUJuZWJyaGRydFcyckluSEg1eW9TbFlKRUlMZXhOMlNWNndsMV9LaDlXNTE4UUdoMnozX1IyaXVndmtEWElvQmdhbWlBUzZvMHowQm54RkNBUTNrQkVsMzA5YU5sUGt6YVFKZW1GVUNZWUotQVZRUENZZl9CNXFnMVVvOE9hbU04ZWstMnlKZHpvNFpSSkRYV0pmanlXYW9nLUVyRnh0QXBmQW44VDAyZEhyWnF4M2EwemthTVFzN1FqZTAxOA?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-06-16T07:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Obras da Corsan podem causar oscilação na pressão da água em Guaíba nesta quarta-feira Repórter Guaibense"
     }
   ],
   "noticias_home": [
@@ -386,16 +386,6 @@
       "resumo": "O evento contemplou provas de 1 km a 10 km neste domingo"
     },
     {
-      "id": "221c68dd37a6",
-      "titulo": "Rotary Guaíba realiza primeira entrega de cadeira de rodas pelo programa nacional",
-      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-realiza-primeira-entrega-de-cadeira-de-rodas-pelo-programa-nacional-mobilidade-para-todos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A ação transformou a vida de Délcio Mendonça, de 63 anos, na última sexta-feira (27)"
-    },
-    {
       "id": "d85bcc167848",
       "titulo": "Novo filme do Homem-Aranha deve ser uma das estreias do novo cinema de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/novo-filme-do-homem-aranha-deve-ser-uma-das-estreias-do-novo-cinema-de-guaiba",
@@ -404,6 +394,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A unidade de Guaíba terá uma sala com 170 lugares, projetor digital com tecnologia 3D e bombonière"
+    },
+    {
+      "id": "221c68dd37a6",
+      "titulo": "Rotary Guaíba realiza primeira entrega de cadeira de rodas pelo programa nacional",
+      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-realiza-primeira-entrega-de-cadeira-de-rodas-pelo-programa-nacional-mobilidade-para-todos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A ação transformou a vida de Délcio Mendonça, de 63 anos, na última sexta-feira (27)"
     },
     {
       "id": "4cd91ccbbdfb",
