@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-14T09:57:09.738296+00:00",
+  "gerado_em": "2026-07-14T11:27:00.114745+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,16 +84,6 @@
       "resumo": "O evento contemplou provas de 1 km a 10 km neste domingo"
     },
     {
-      "id": "d85bcc167848",
-      "titulo": "Novo filme do Homem-Aranha deve ser uma das estreias do novo cinema de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/novo-filme-do-homem-aranha-deve-ser-uma-das-estreias-do-novo-cinema-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A unidade de Guaíba terá uma sala com 170 lugares, projetor digital com tecnologia 3D e bombonière"
-    },
-    {
       "id": "221c68dd37a6",
       "titulo": "Rotary Guaíba realiza primeira entrega de cadeira de rodas pelo programa nacional",
       "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-realiza-primeira-entrega-de-cadeira-de-rodas-pelo-programa-nacional-mobilidade-para-todos",
@@ -102,6 +92,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação transformou a vida de Délcio Mendonça, de 63 anos, na última sexta-feira (27)"
+    },
+    {
+      "id": "d85bcc167848",
+      "titulo": "Novo filme do Homem-Aranha deve ser uma das estreias do novo cinema de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/novo-filme-do-homem-aranha-deve-ser-uma-das-estreias-do-novo-cinema-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A unidade de Guaíba terá uma sala com 170 lugares, projetor digital com tecnologia 3D e bombonière"
     },
     {
       "id": "4cd91ccbbdfb",
@@ -386,16 +386,6 @@
       "resumo": "O evento contemplou provas de 1 km a 10 km neste domingo"
     },
     {
-      "id": "d85bcc167848",
-      "titulo": "Novo filme do Homem-Aranha deve ser uma das estreias do novo cinema de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/novo-filme-do-homem-aranha-deve-ser-uma-das-estreias-do-novo-cinema-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A unidade de Guaíba terá uma sala com 170 lugares, projetor digital com tecnologia 3D e bombonière"
-    },
-    {
       "id": "221c68dd37a6",
       "titulo": "Rotary Guaíba realiza primeira entrega de cadeira de rodas pelo programa nacional",
       "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-realiza-primeira-entrega-de-cadeira-de-rodas-pelo-programa-nacional-mobilidade-para-todos",
@@ -404,6 +394,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação transformou a vida de Délcio Mendonça, de 63 anos, na última sexta-feira (27)"
+    },
+    {
+      "id": "d85bcc167848",
+      "titulo": "Novo filme do Homem-Aranha deve ser uma das estreias do novo cinema de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/novo-filme-do-homem-aranha-deve-ser-uma-das-estreias-do-novo-cinema-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A unidade de Guaíba terá uma sala com 170 lugares, projetor digital com tecnologia 3D e bombonière"
     },
     {
       "id": "4cd91ccbbdfb",
