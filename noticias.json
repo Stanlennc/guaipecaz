@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-14T11:27:00.114745+00:00",
+  "gerado_em": "2026-07-14T13:40:34.531423+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -254,16 +254,6 @@
       "resumo": "RECORD Guaíba leva estúdio de inverno à Serra Gaúcha durante temporada 2026 R7"
     },
     {
-      "id": "7cbd8fad7170",
-      "titulo": "Guaíba inaugura seis novas salas no Hospital Regional Nelson Cornetet",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbl9IN2lPbTcxd1NZalNqUWxNei11ZHFEdlFnc1hEdU1xTFlnNDJQbS1yRUpzSERKeE5uS1pWaGZZc2lORnNsQmVhOTlFMk8zR0NBRjBBbFB5TGJNUlVhbGZ2VnozWFFpZDB4enE0UEY5aThsNHVMUWV6b1FPSEtvTnR3Q3Z3aE9SRHJQOEpKeXh1aE16?oc=5",
-      "fonte": "expansao.co",
-      "publicado_em": "2026-07-07T12:49:49+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba inaugura seis novas salas no Hospital Regional Nelson Cornetet expansao.co"
-    },
-    {
       "id": "fb943be7b348",
       "titulo": "Cidade Inteligente Guaíba inicia nova etapa com primeiro evento oficial de ativação do bairro",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdVhYdHVOTnpMOEdlZ2pILXhFUFc0c3RPdFNRWlBmMU04NmlZcWF2dG1Ddmh1T08xUHdSaUJtY0RtLWFsRU5mMWRfNXJSdUw5N2hfRDVlamMtek5OOTUyR0tuMENiTjhQZVZmeE1jRTdVVmd4b2hpNHVMZ2NaYU9NME94Y1dWblAya3I5WkN2YzE2VXJMQXdjUFNrdE5qRFVURmRxVkxZLW02VU52NnR0RXBpYjVONGl6cS1HUC1JOG54OUdXMzhHenJ5MXFMUmlHdFE?oc=5",
@@ -372,6 +362,16 @@
       "categoria": null,
       "feed": "reporter",
       "resumo": "Servidores de Guaíba entram em estado de greve após mudança no calendário de pagamentos Repórter Guaibense"
+    },
+    {
+      "id": "c9603e9456c3",
+      "titulo": "Guaíba adere ao programa Prepara RS para enfrentar os potenciais efeitos do El Niño",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEFIZmhpTEdtWVFZQ0N6ZVlLTkU1cnUwRnV0SW8zVFlDcHBjVlI3TGplRVJhQ3VJbjNETjZKcnZNZXNtZmF1X2VKc2hsZkx2TXR0bGhsckxpcFQ5endVc2dBQWt4ei1SLXdvSmtxamgzbFNDck5KX2tzeDhXS3NQZ2dvQktRbDQ0bWNfYU9KVWlsa0xGcGhKRkM3SjVYS0prbndma3VqWVdhWS1m?oc=5",
+      "fonte": "expansao.co",
+      "publicado_em": "2026-06-18T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Guaíba adere ao programa Prepara RS para enfrentar os potenciais efeitos do El Niño expansao.co"
     }
   ],
   "noticias_home": [
