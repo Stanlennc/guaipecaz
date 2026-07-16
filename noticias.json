@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-15T22:57:50.187786+00:00",
+  "gerado_em": "2026-07-16T02:28:36.539865+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,14 +84,14 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
-      "id": "360a1434a2b0",
-      "titulo": "Sob chuva, Guaíba recebe mais de 400 corredores na 8ª etapa do Circuito Sesc de Corridas",
-      "url": "https://www.reporterguaibense.com.br/noticia/sob-chuva-guaiba-recebe-mais-de-400-corredores-na-8-etapa-do-circuito-sesc-de-corridas",
+      "id": "b9a5d813bc2a",
+      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-15T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O evento contemplou provas de 1 km a 10 km neste domingo"
+      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
       "id": "221c68dd37a6",
@@ -102,16 +102,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação transformou a vida de Délcio Mendonça, de 63 anos, na última sexta-feira (27)"
-    },
-    {
-      "id": "b9a5d813bc2a",
-      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
       "id": "d85bcc167848",
@@ -230,7 +220,7 @@
       "fonte": "Agora RS",
       "publicado_em": "2026-07-09T13:19:53+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Mutirão do Projeto Terra contempla 226 imóveis, em Guaíba Agora RS"
     },
     {
@@ -292,6 +282,16 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Porto Alegre entra em atenção por risco de elevação do Guaíba Agora RS"
+    },
+    {
+      "id": "27304c7576ce",
+      "titulo": "Sob chuva, Guaíba recebe mais de 400 corredores na 8ª etapa do Circuito Sesc de Corridas",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTnp2dllfbnUtTzhWbUVQSkVsUGZ6eEE2UzVVM0FCSTJVTW5QTWZkTnEyRFBRRzdFNHBUYXRKY0R1dDZrRFRhN0dyX21VcE5CdkhlY3NrTDZBbERzRHVwd04xaVl1emJMMGFSZ2ZJSURvY0JZNFZpemxtR285OGExT09VUllEY2dUekUxc2dIZjZNTkl1RWEteHBnVEVEcnZVclpCMGl3SEhieDU5elAzclYwYWNSWUJ1bFJ1VVkyeC1IVEhqRmd1M0FMaw?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-06-29T07:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Sob chuva, Guaíba recebe mais de 400 corredores na 8ª etapa do Circuito Sesc de Corridas Repórter Guaibense"
     },
     {
       "id": "e99883bf253e",
@@ -386,14 +386,14 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
-      "id": "360a1434a2b0",
-      "titulo": "Sob chuva, Guaíba recebe mais de 400 corredores na 8ª etapa do Circuito Sesc de Corridas",
-      "url": "https://www.reporterguaibense.com.br/noticia/sob-chuva-guaiba-recebe-mais-de-400-corredores-na-8-etapa-do-circuito-sesc-de-corridas",
+      "id": "b9a5d813bc2a",
+      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-15T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O evento contemplou provas de 1 km a 10 km neste domingo"
+      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
       "id": "221c68dd37a6",
@@ -404,16 +404,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação transformou a vida de Délcio Mendonça, de 63 anos, na última sexta-feira (27)"
-    },
-    {
-      "id": "b9a5d813bc2a",
-      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
       "id": "d85bcc167848",
@@ -454,6 +444,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 43 ArchDaily"
+    },
+    {
+      "id": "1243af8e6369",
+      "titulo": "Guaíba presta apoio humanitário a Eldorado do Sul após forte temporal",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVjZyTTRhRG9jLVNWYlZiVkROR2ZubWZHRlo3SG1aVzdacmVqZzYzN3Y0ajNjLWs1VktvbWNNRkFkU3hva25pRlpVNFdBVFIxSk5DUFY4aC1ObnJIRnJIaldNRXJDQldIY2tqQ0Zld28wRVJzTTJkU29YMmdlOEtOQ0EwMEllODAxRVVUdEVzQ2dPcVdz?oc=5",
+      "fonte": "expansao.co",
+      "publicado_em": "2026-07-13T13:06:41+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Guaíba presta apoio humanitário a Eldorado do Sul após forte temporal expansao.co"
     }
   ]
 }
