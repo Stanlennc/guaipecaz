@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-16T17:14:26.237650+00:00",
+  "gerado_em": "2026-07-16T19:07:31.787272+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -114,6 +114,26 @@
       "resumo": "A unidade de Guaíba terá uma sala com 170 lugares, projetor digital com tecnologia 3D e bombonière"
     },
     {
+      "id": "c24380df316b",
+      "titulo": "Projeto Pedal Sustentável disponibiliza bicicletas gratuitas em Guaíba",
+      "url": "https://expansao.co/projeto-pedal-sustentavel-disponibiliza-bicicletas-gratuitas-em-guaiba/",
+      "fonte": "Expansão",
+      "publicado_em": "2026-07-16T17:29:21+00:00",
+      "categoria": "Projetos especiais",
+      "feed": "expansao_direto",
+      "resumo": "O projeto Pedal Sustentável está com uma nova edição em funcionamento em Guaíba, oferecendo bicicletas compartilhadas para uso gratuito da população. A iniciativa conta com o apoio da CMPC e&#8230; O post Projeto Pedal Sustentável disponibiliza bicicletas gratuitas em Guaíba apareceu primeiro em…"
+    },
+    {
+      "id": "d3c2091518bd",
+      "titulo": "Estão abertas as inscrições para a segunda edição do concurso de fotografia \"Olhares de Guaíba\"",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0JDLU5oLXJTSkctTGtFZXgxLXZnUkh6bjBBSWlYSnJ6YTlzTkFrcDJJbGZyWko3aVZJQlJKZ1QxbjdMVUYxNU1hMElrSlZnY180cTlfNHpuUEhzTjVVQlFRQzFXd0szN2JYOC1UazhxbWlMWm15VU8tUmw4Z1V6ZFZQbTVtMFNqajVpcERDNFZyYkpVWGtqYkNoVTBPcndDWGZ6RGJ6SWZBSk9sR0NQalFBNEdLblFnWi1JNHNwSkpYREg3eWt6Z2cyUFRKd0FCMU1naQ?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-16T18:45:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Estão abertas as inscrições para a segunda edição do concurso de fotografia \"Olhares de Guaíba\" Repórter Guaibense"
+    },
+    {
       "id": "a6f52b2ce280",
       "titulo": "Guaíba arrecada doações para famílias atingidas por temporal em Eldorado do Sul",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmNxMEhCWlk1Q2YxOU5wV0Vxb1AwWDZiU2RGWU9OT25mTktwNlppLXRMTGZBLUdmUXk1NnZ1Z0lrYjNic0ZFb203SXNDZWc4ZU5UUzFpeGNfWXRET2hnWG8zRDdnV19fQmR1Y0pZeWZkSW9ZNUNaMFEwYlhuSUNfakFJTzJudDk0clNzZnllRU9EaEtvenNCck54OEU0OWdoQ0E?oc=5",
@@ -210,7 +230,7 @@
       "fonte": "defensoria.rs.def.br",
       "publicado_em": "2026-07-09T18:26:24+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "google",
       "resumo": "Defensoria Pública participa da entrega das escrituras encaminhadas pelo Projeto Terra – Eu sou COHAB, em Guaíba defensoria.rs.def.br"
     },
     {
@@ -352,26 +372,6 @@
       "categoria": null,
       "feed": "reporter",
       "resumo": "Observatório Social alerta para situação financeira e indica redução de 23% nas despesas de Guaíba Repórter Guaibense"
-    },
-    {
-      "id": "784593a9ce78",
-      "titulo": "Servidores de Guaíba entram em estado de greve após mudança no calendário de pagamentos",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXpabXR0c1ZCZXJXRHY4U3M3aUhTWFM1N19WNFMzcU9nbnBMR3I3SHE5eml2bVZmRGptZ2MwLUxTQXF5cXgxMG1uVEdNaGN6SkxkcjNONzNtclg5Z2NRbTg5ZlprMDhKZE44cEhOR3V5VzhobmM5QTdEUHoza0lZWWZxaFA3M3ExUXpnUTc5N1dzeG5sWW9iS3p1eE9nc2xtU2VXNENIdlkwdVd3N1MxVWpMeVNzcnZILU1rWmFvR1ZoQmZXRXRXYnV3bVE?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-06-19T07:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Servidores de Guaíba entram em estado de greve após mudança no calendário de pagamentos Repórter Guaibense"
-    },
-    {
-      "id": "c9603e9456c3",
-      "titulo": "Guaíba adere ao programa Prepara RS para enfrentar os potenciais efeitos do El Niño",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEFIZmhpTEdtWVFZQ0N6ZVlLTkU1cnUwRnV0SW8zVFlDcHBjVlI3TGplRVJhQ3VJbjNETjZKcnZNZXNtZmF1X2VKc2hsZkx2TXR0bGhsckxpcFQ5endVc2dBQWt4ei1SLXdvSmtxamgzbFNDck5KX2tzeDhXS3NQZ2dvQktRbDQ0bWNfYU9KVWlsa0xGcGhKRkM3SjVYS0prbndma3VqWVdhWS1m?oc=5",
-      "fonte": "expansao.co",
-      "publicado_em": "2026-06-18T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Guaíba adere ao programa Prepara RS para enfrentar os potenciais efeitos do El Niño expansao.co"
     }
   ],
   "noticias_home": [
@@ -416,6 +416,26 @@
       "resumo": "A unidade de Guaíba terá uma sala com 170 lugares, projetor digital com tecnologia 3D e bombonière"
     },
     {
+      "id": "c24380df316b",
+      "titulo": "Projeto Pedal Sustentável disponibiliza bicicletas gratuitas em Guaíba",
+      "url": "https://expansao.co/projeto-pedal-sustentavel-disponibiliza-bicicletas-gratuitas-em-guaiba/",
+      "fonte": "Expansão",
+      "publicado_em": "2026-07-16T17:29:21+00:00",
+      "categoria": "Projetos especiais",
+      "feed": "expansao_direto",
+      "resumo": "O projeto Pedal Sustentável está com uma nova edição em funcionamento em Guaíba, oferecendo bicicletas compartilhadas para uso gratuito da população. A iniciativa conta com o apoio da CMPC e&#8230; O post Projeto Pedal Sustentável disponibiliza bicicletas gratuitas em Guaíba apareceu primeiro em…"
+    },
+    {
+      "id": "d3c2091518bd",
+      "titulo": "Estão abertas as inscrições para a segunda edição do concurso de fotografia \"Olhares de Guaíba\"",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0JDLU5oLXJTSkctTGtFZXgxLXZnUkh6bjBBSWlYSnJ6YTlzTkFrcDJJbGZyWko3aVZJQlJKZ1QxbjdMVUYxNU1hMElrSlZnY180cTlfNHpuUEhzTjVVQlFRQzFXd0szN2JYOC1UazhxbWlMWm15VU8tUmw4Z1V6ZFZQbTVtMFNqajVpcERDNFZyYkpVWGtqYkNoVTBPcndDWGZ6RGJ6SWZBSk9sR0NQalFBNEdLblFnWi1JNHNwSkpYREg3eWt6Z2cyUFRKd0FCMU1naQ?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-16T18:45:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Estão abertas as inscrições para a segunda edição do concurso de fotografia \"Olhares de Guaíba\" Repórter Guaibense"
+    },
+    {
       "id": "a6f52b2ce280",
       "titulo": "Guaíba arrecada doações para famílias atingidas por temporal em Eldorado do Sul",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmNxMEhCWlk1Q2YxOU5wV0Vxb1AwWDZiU2RGWU9OT25mTktwNlppLXRMTGZBLUdmUXk1NnZ1Z0lrYjNic0ZFb203SXNDZWc4ZU5UUzFpeGNfWXRET2hnWG8zRDdnV19fQmR1Y0pZeWZkSW9ZNUNaMFEwYlhuSUNfakFJTzJudDk0clNzZnllRU9EaEtvenNCck54OEU0OWdoQ0E?oc=5",
@@ -434,26 +454,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Corsan promove atendimento especializado no Procon de Guaíba CORSAN"
-    },
-    {
-      "id": "22e768a3b77b",
-      "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 43",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNZ0Vnb3hMam4tRzQ4Mlo2VjFZSnlZZDFMUEpXX2hzcm5Pbm1rOTFLN3B0eURXdzlJOGZINGtmdVJ1aU9nZjBkTHBBa0tjVFFWcnlNeE5sdzNzc0N1VFZSNW8xTkliOHRyWkpISHN5N0lqRFlSaFMwbEUwOWtfei10VzFKcTFJY0tYcXFUb0NEMGhjbGxJaVZhZ3NUeS1oQm02c3pocmp3Y21tMDlqVUV0MjZTNzhnenlBaGI0bGJQdGZvbFJJOXF2RG16Y2FDY2hIN3U4ZThnUmdNUmNMdllscWRKaFdoUXpKQzN2NG9mN3hHYXNKWFQ5OXEzQmEwamZBZGJ5UUpZS1c1cUZGWThpX19TNU1SWExtX214UnB0aUdLVmN4Z1ctUmVkbzNKR2M?oc=5",
-      "fonte": "ArchDaily",
-      "publicado_em": "2026-07-14T06:00:05+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 43 ArchDaily"
-    },
-    {
-      "id": "1243af8e6369",
-      "titulo": "Guaíba presta apoio humanitário a Eldorado do Sul após forte temporal",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVjZyTTRhRG9jLVNWYlZiVkROR2ZubWZHRlo3SG1aVzdacmVqZzYzN3Y0ajNjLWs1VktvbWNNRkFkU3hva25pRlpVNFdBVFIxSk5DUFY4aC1ObnJIRnJIaldNRXJDQldIY2tqQ0Zld28wRVJzTTJkU29YMmdlOEtOQ0EwMEllODAxRVVUdEVzQ2dPcVdz?oc=5",
-      "fonte": "expansao.co",
-      "publicado_em": "2026-07-13T13:06:41+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba presta apoio humanitário a Eldorado do Sul após forte temporal expansao.co"
     }
   ]
 }
