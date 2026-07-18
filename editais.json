@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-18T07:46:19.455139+00:00",
+  "gerado_em": "2026-07-18T13:10:25.239058+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -31,15 +31,6 @@
       "feed": "vagas"
     },
     {
-      "id": "2af13ba036a9",
-      "titulo": "Oratória e Emoção: Guaíba celebra os talentos do 4º Concurso Escolar na Câmara de Vereadores",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaDRDejcteUppeGdvODF5c1VsczZOR0hITkxMaFJnMS1ESmhyTHdPZWdPTnBnMTgyUkYwWjFLaHJjTlBXbENpVFVuQURpVFVpX0R0RjAtOHZJODRIRk05bV96ODhZbXJOU3Z5cGxXRktGLWt0dVpJeGV3eVdoeGFLLUV4N0d1YmNZd3l1Q004cU9GT1U2amgzSkNqX3ZTZU8xRlZqR1ZWYkM0WDEzTlAwNlFmSQ?oc=5",
-      "fonte": "Portal ClicR",
-      "tipo": "concurso",
-      "publicado_em": "2026-06-27T07:00:00+00:00",
-      "feed": "concurso"
-    },
-    {
       "id": "a6d75e6c7ff7",
       "titulo": "Nova gestora do hospital de Guaíba abre 120 vagas de emprego no local",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaUNVbzJHd3ZHZVhHNUVQdTZiZ2lKeE5HSWtVS1UtZ0NBVHV1eE9FZURPQkxvTVVPZW85ZlZvcjdPbFFHa1BGY0xuLVpMUW93Q2F1QmZDU0Vna2RQZGxkTV9zTGpoTndtaHdLSlVfY0Nrb1RkaC1vS290NXhEa21BREtoWVAwWHdBWGJVd3YxMHpfUV9IMzE4Rko2WU54OEtWVHdvWHRnZURzQUl2bEFTT1dkSFJmYmpUUi1nVFhmM09hSTdxaXExazJXX2V4XzlXaTZCRg?oc=5",
@@ -62,9 +53,9 @@
       "titulo": "Círculo Saúde abre 120 vagas de emprego para a instalação do novo hospital de Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQWktdE5rcGhleE9kSHRYa1RqbzFQc3JHLWhYcnBXdFlBdFFQWDhtY2VoM1FNWExuTDVCUzRvYVpYSFpyTTNqb3BPVjNXQ0Qyb3Z6R0hkcVdLUEE1UWIxajhCQmM2RGlQM2ZjeENzUERQWFJIZHFPeVE2STBnWXBWdWhJRnBLSTlkOHZKVU00d3BMYTlEeUNOUnZfbElVY0xXdkpvU2IyVi1YMExMN0RiTk4zNF9SQmMxYjBJaDlHNWszY3VnWXB2cg?oc=5",
       "fonte": "Repórter Guaibense",
-      "tipo": "concurso",
+      "tipo": "vaga",
       "publicado_em": "2026-06-22T07:00:00+00:00",
-      "feed": "concurso"
+      "feed": "vagas"
     },
     {
       "id": "0dbcc92cd927",
@@ -89,9 +80,9 @@
       "titulo": "Frentista, vendedor, auxiliar de cozinha e mais: Sine Guaíba tem 16 vagas de emprego nesta semana",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ3h0bFZtY2dTSEdnWVVXanVReTVpY2ZVclEtUGNKTWJYd2gtWlpUNzRlX01uakE0SHF3RWNZa3hqdks0NlVacVUtbmRnOVZOdjZ0T3RXNU9VbFlDLVJOY2ZGVU1iSTd4Z2pOZ0s0amNPaW1RZ3BDVTFKVGJNdUlkTnpiLUlWLXVna1BBczU1eDhjNDBpbE1PMGExSm9FMmdvLXNNcUhlQXRReHhYaWVWZUkwN3JCejY0VXVRX21NUXlXNHFDOHdsSEFrQUI0WndjVUVGaDh3?oc=5",
       "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
+      "tipo": "concurso",
       "publicado_em": "2026-04-23T07:00:00+00:00",
-      "feed": "vagas"
+      "feed": "concurso"
     },
     {
       "id": "8cf47856226c",
@@ -109,6 +100,15 @@
       "fonte": "Repórter Guaibense",
       "tipo": "vaga",
       "publicado_em": "2026-03-25T07:00:00+00:00",
+      "feed": "vagas"
+    },
+    {
+      "id": "b24e52e6cbd9",
+      "titulo": "Sine oferece mais de 250 vagas de emprego em Guaíba e região; veja a lista",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmVURkNjVTFXRTM3RHo3RDdCYS1nQkZaR2RDSW82TDlQVS1ZM1V1cXcwcHNKNkpSX1owcFFDX1lVMnEwNUZkblFIdFM0TlI4bFFpcEZsNDRmVjZqMHpNMmVaa0lXQk9NbkNPODFLbF84OHlxUkhHUFVnVHdELXc1VDhCY3hGeHp5V25MRzVQVC1jWmhfOWV2SEtsM2VCaEFESHlyNHlhTG5rTEI5UE95QnNkaFh0T1VvYUE?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-03-10T07:00:00+00:00",
       "feed": "vagas"
     }
   ]
