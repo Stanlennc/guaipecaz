@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-20T21:11:41.467327+00:00",
+  "gerado_em": "2026-07-20T22:59:43.497111+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,16 +84,6 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
-    },
-    {
       "id": "1360a7e98d8a",
       "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
       "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
@@ -114,6 +104,16 @@
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+    },
+    {
       "id": "b9a5d813bc2a",
       "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
@@ -124,11 +124,31 @@
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
+      "id": "fc4754bddcc5",
+      "titulo": "Com queda histórica de crimes, Brigada Militar de São Leopoldo faz 28 anos e condecora repórter da Rádio Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ0JrVFk4T1VfXzJUNjhGb1RhQnI4eUF1Q0tHSnBLVjFuXzlES3Z2U3ZUOGRncVhJSElrZjk2SXFlX1ZPc2JwRENaRGIzMWFMeVhnY05ycmdlSnFHeVd2WU92QnFCZ3VuNGJHOGxTS2gzdHRrYXdTTXJ1V0xLOFZQVXJad20wa0JrMkRudjJWcjF4Nnd5bkRuUXk0bS1kaGwxaFRtRFNDVy02SWx3NXR1dEdLa1dOSzNLdDFTYnhtTGRJVkVJemQwVU0tLTB1UQ?oc=5",
+      "fonte": "Rádio Guaíba",
+      "publicado_em": "2026-07-20T22:54:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Com queda histórica de crimes, Brigada Militar de São Leopoldo faz 28 anos e condecora repórter da Rádio Guaíba Rádio Guaíba"
+    },
+    {
+      "id": "5750e23b19ed",
+      "titulo": "Aos 133 anos, BM de Novo Hamburgo honra centenário da morte de patrono e condecora repórter da Rádio Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcy1RUHJjTGxNUmxYcmpYLUZzT2pWNnhialpidVpMUWZQaHpETGhTM2FqcjY3R0gzRkNmUS1mcklPS19DU1prMElPdzRiam4wYUJwRDd3b294UEtLM040VzBKLUlVMWxoeVFyYjdjUVBxY0JUcTdpeXNUWDY2Q2poX3l1QU95LVliRWhxd2dmZ19rZEh3SFpSakdzM05oNkp2OFJGZnJ6WlBkaEcxYmY1ZDZxUGxJMHpFTUNYdEJxNVNZV2I0bmdJYw?oc=5",
+      "fonte": "Rádio Guaíba",
+      "publicado_em": "2026-07-20T21:46:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Aos 133 anos, BM de Novo Hamburgo honra centenário da morte de patrono e condecora repórter da Rádio Guaíba Rádio Guaíba"
+    },
+    {
       "id": "df412f76efa6",
       "titulo": "Evento gratuito com forró e comidas típicas movimenta a Orla do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMHYzZDZMdFZUMHdWT25OdUEzRFFBVTlwUVpxMjM0ak9ZRV9US1V3M25EYm8xX1NUcUh5RjJla2lkeGYtVkFGcEVrNVVKZUFZVEFKdU93Sm16bGJESU4wVHNHeGx5U2VyMi1pR3dQNkRIeUFTejR3Mk1jbHFoRmNZd3JtVlJSdFFScFc5YWxSYXU3d3hteWtxWU9US0xpQk5LNlBLNEgxTTZmVUs0VFc3N0hlUVFoUTdDZTZiUUN3cjVPcXRjTTRjVTlFNXE0aTlVYy1jY3NFaXJFZ0VzUnZRa2N2VUJSSUE5Z0h5OUU3OWhpVUZ4YnJOZFQ0X1V2OS1vS00w?oc=5",
       "fonte": "GZH",
-      "publicado_em": "2026-07-20T17:55:37+00:00",
+      "publicado_em": "2026-07-20T17:55:45+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "Evento gratuito com forró e comidas típicas movimenta a Orla do Guaíba GZH"
@@ -154,16 +174,6 @@
       "resumo": "Fabiano Brasil retorna para a Rádio Guaíba Correio do Povo"
     },
     {
-      "id": "13f482014c0b",
-      "titulo": "Mercado Livre ergue megacomplexo logístico em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ0RDclI2cjZXYk5YZ3JDd1V0X2NLbHFWTVFUdWkyUm0zMUZzZUo3QWo3cXhkb3FiVkw1VnZUZGJPRGhUQkpmNUFranFucTlqN1pGdkdVX3M2OW9PUkpfbWFlaFY0c1padnlfa0tZb3FLSFNSTTVaV2dOcXAtd2pwcUVkWVZzLTROV0steUo0b0Q1OHRqbmRXVXR5VnBjTE9nVjJlczM1d1pkUkNKRUpIc3hFam5zdFHSAbwBQVVfeXFMTW94NVlhWHBKUm9aZnZ0NWRkSTJfNmQ0MjByV2FaWGUzd0FkMjdZUzhGRFR2eG1PLW5oWE9wZ0dMajFqeTNSZzNzMzNXc3piQlJtRmZyZDh1d0N4bU54VkxNWkdrTUY3SFlrRTZST3hURUtmclZqOThkVGdFeEQzTjBDR3BTS1hZX21scnNvb0lDQmNvX1VyUTFyV1U4SnJGZEhNQ3FlM1BJLXpNeFdWa2NiRDRkX3l1bDVqRXo?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-07-20T03:57:55+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Mercado Livre ergue megacomplexo logístico em Guaíba Jornal O Sul"
-    },
-    {
       "id": "bed1d4b3120d",
       "titulo": "Mercado Livre confirma megacentro logístico em Guaíba e vai gerar 660 empregos diretos na região",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcWtYUERDZFc3Ti1STjhxX3pCZWFxRzg0MVV2UWRZanNwalVVRFF5Y3JZZVBaUm1pbWR6RVN3UTZYeWRsa2hxYzV3SWEzQjZiRnpLaTR2R2MxSF9EamtSM3N2UHE1S3VqNHJHNFRHa2l4NF96N3hlcVVXVy14Y3RCUUlLWFBUb3hqUHE1QmxZRUF5T0p3VVBXQWtKOWVrSFllYTd6Njk5azFObloySGhWTWNLQlJSQWtELUE5LU5rVzZoSDd4TnZEYTNuVzRhZDJWNEZLNmN4emY3cVlFbjQ4MUhycUVUWlE?oc=5",
@@ -182,6 +192,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Barcelona Futsal é superado fora de casa em Guaíba Campeonato Gaúcho Série Ouro FGFS Alcir 61"
+    },
+    {
+      "id": "13f482014c0b",
+      "titulo": "Mercado Livre ergue megacomplexo logístico em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ0RDclI2cjZXYk5YZ3JDd1V0X2NLbHFWTVFUdWkyUm0zMUZzZUo3QWo3cXhkb3FiVkw1VnZUZGJPRGhUQkpmNUFranFucTlqN1pGdkdVX3M2OW9PUkpfbWFlaFY0c1padnlfa0tZb3FLSFNSTTVaV2dOcXAtd2pwcUVkWVZzLTROV0steUo0b0Q1OHRqbmRXVXR5VnBjTE9nVjJlczM1d1pkUkNKRUpIc3hFam5zdFHSAbwBQVVfeXFMTW94NVlhWHBKUm9aZnZ0NWRkSTJfNmQ0MjByV2FaWGUzd0FkMjdZUzhGRFR2eG1PLW5oWE9wZ0dMajFqeTNSZzNzMzNXc3piQlJtRmZyZDh1d0N4bU54VkxNWkdrTUY3SFlrRTZST3hURUtmclZqOThkVGdFeEQzTjBDR3BTS1hZX21scnNvb0lDQmNvX1VyUTFyV1U4SnJGZEhNQ3FlM1BJLXpNeFdWa2NiRDRkX3l1bDVqRXo?oc=5",
+      "fonte": "Jornal O Sul",
+      "publicado_em": "2026-07-18T22:50:26+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Mercado Livre ergue megacomplexo logístico em Guaíba Jornal O Sul"
     },
     {
       "id": "56eb69e18198",
@@ -352,26 +372,6 @@
       "categoria": null,
       "feed": "google",
       "resumo": "O que significa monumento de 4,5 metros com dedo apontado para o céu instalado às margens do Guaíba G1"
-    },
-    {
-      "id": "2afc568ba6d5",
-      "titulo": "Situação política e interesses estrangeiros ameaçam o Guaíba, no Rio Grande do Sul",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc3dPODVBckRvZEhTWGN0bXJpUHFoa21QYjlnOHhnSkFxeVBBY2U5WjRsNVhiWHk2X3lxUjh3c2o5SEJabVdWZlNkQzZLYmdFRmpUOEg2VS0wWjlvMVhrQzI2TTAxU1o4WkR5bHVSQnBIRkIzcXgyQkpiRl9ja0xsOUZXTVd3c0hPbEVmbmFkbWFuYS1xNWhkQ0Y5UE1LX3QyMXhIX2t0VUVJaWdVUGkzTg?oc=5",
-      "fonte": "((o))eco | Jornalismo Ambiental",
-      "publicado_em": "2026-06-26T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Situação política e interesses estrangeiros ameaçam o Guaíba, no Rio Grande do Sul ((o))eco | Jornalismo Ambiental"
-    },
-    {
-      "id": "5f8d9b0792a0",
-      "titulo": "Em agenda no RS, ministro dos transportes visita obras e assina contrato para conclusão da Nova Ponte do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQm9XblZ0czN2QXlRczUxaGZGNWtYLUpQeDJjNFRkM2ExZFJNOXU5cWUzb1JZZ2pwMk8yTmVtX0RtcTk0TzRQWlgxTWVrc1RPRlFHQTdiVDE2ZGFyVjNTRFE3NVo2aTlWdVFtTVcwVmMwbDFLN3RJM3FVYzBnRGVBcnBIT0xWLWtFaUhxTXR0eVdCYy1UVDRKUlJab1NKS25ncEFWUGwwZEsyR3NNWVYxVng3Q2xqRER0dUZOTW1XdjJIck5MR0RwOGRpaHFZWmMwQUkyM0FMRDV1eUNHS3R3dnFxRjdFS09UcVB2eVN0cnpYaUZQOHI5cS1kVnhOcGh3bFlWckpn?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-06-25T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Em agenda no RS, ministro dos transportes visita obras e assina contrato para conclusão da Nova Ponte do Guaíba Correio do Povo"
     }
   ],
   "noticias_home": [
@@ -384,16 +384,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
-    {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
       "id": "1360a7e98d8a",
@@ -416,6 +406,16 @@
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+    },
+    {
       "id": "b9a5d813bc2a",
       "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
@@ -426,34 +426,34 @@
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
+      "id": "fc4754bddcc5",
+      "titulo": "Com queda histórica de crimes, Brigada Militar de São Leopoldo faz 28 anos e condecora repórter da Rádio Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ0JrVFk4T1VfXzJUNjhGb1RhQnI4eUF1Q0tHSnBLVjFuXzlES3Z2U3ZUOGRncVhJSElrZjk2SXFlX1ZPc2JwRENaRGIzMWFMeVhnY05ycmdlSnFHeVd2WU92QnFCZ3VuNGJHOGxTS2gzdHRrYXdTTXJ1V0xLOFZQVXJad20wa0JrMkRudjJWcjF4Nnd5bkRuUXk0bS1kaGwxaFRtRFNDVy02SWx3NXR1dEdLa1dOSzNLdDFTYnhtTGRJVkVJemQwVU0tLTB1UQ?oc=5",
+      "fonte": "Rádio Guaíba",
+      "publicado_em": "2026-07-20T22:54:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Com queda histórica de crimes, Brigada Militar de São Leopoldo faz 28 anos e condecora repórter da Rádio Guaíba Rádio Guaíba"
+    },
+    {
+      "id": "5750e23b19ed",
+      "titulo": "Aos 133 anos, BM de Novo Hamburgo honra centenário da morte de patrono e condecora repórter da Rádio Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcy1RUHJjTGxNUmxYcmpYLUZzT2pWNnhialpidVpMUWZQaHpETGhTM2FqcjY3R0gzRkNmUS1mcklPS19DU1prMElPdzRiam4wYUJwRDd3b294UEtLM040VzBKLUlVMWxoeVFyYjdjUVBxY0JUcTdpeXNUWDY2Q2poX3l1QU95LVliRWhxd2dmZ19rZEh3SFpSakdzM05oNkp2OFJGZnJ6WlBkaEcxYmY1ZDZxUGxJMHpFTUNYdEJxNVNZV2I0bmdJYw?oc=5",
+      "fonte": "Rádio Guaíba",
+      "publicado_em": "2026-07-20T21:46:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Aos 133 anos, BM de Novo Hamburgo honra centenário da morte de patrono e condecora repórter da Rádio Guaíba Rádio Guaíba"
+    },
+    {
       "id": "df412f76efa6",
       "titulo": "Evento gratuito com forró e comidas típicas movimenta a Orla do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMHYzZDZMdFZUMHdWT25OdUEzRFFBVTlwUVpxMjM0ak9ZRV9US1V3M25EYm8xX1NUcUh5RjJla2lkeGYtVkFGcEVrNVVKZUFZVEFKdU93Sm16bGJESU4wVHNHeGx5U2VyMi1pR3dQNkRIeUFTejR3Mk1jbHFoRmNZd3JtVlJSdFFScFc5YWxSYXU3d3hteWtxWU9US0xpQk5LNlBLNEgxTTZmVUs0VFc3N0hlUVFoUTdDZTZiUUN3cjVPcXRjTTRjVTlFNXE0aTlVYy1jY3NFaXJFZ0VzUnZRa2N2VUJSSUE5Z0h5OUU3OWhpVUZ4YnJOZFQ0X1V2OS1vS00w?oc=5",
       "fonte": "GZH",
-      "publicado_em": "2026-07-20T17:55:37+00:00",
+      "publicado_em": "2026-07-20T17:55:45+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "Evento gratuito com forró e comidas típicas movimenta a Orla do Guaíba GZH"
-    },
-    {
-      "id": "fe791b36d265",
-      "titulo": "Guaíba confirma instalação de megacomplexo logístico do Mercado Livre",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZE9mVHlRVU5fMWpScEhmVVZWSDdUeVF0OEMwa1VhSUptNmZqczlNTU9BSUJENUw5Zzd6VjZYVGNGLVFEWG5aV0pIU0stYk8yQkY5VHZyMm5CSW81UzVQaHhnTGVHYmJJNUFuV2RYaWNMM0VSOEZRRElnWE1FYlE0dS1CMW9CNWNPQ3NBN0dZNVBsaEE0?oc=5",
-      "fonte": "expansao.co",
-      "publicado_em": "2026-07-20T12:18:22+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba confirma instalação de megacomplexo logístico do Mercado Livre expansao.co"
-    },
-    {
-      "id": "9f2d9daffdd6",
-      "titulo": "Fabiano Brasil retorna para a Rádio Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY2E5VDN6YnVSc05RRDBBaDJvTmc1ZXdZMjhBd3ZkT1Viamg1LWZnX0FjemZsOUN5NDg5M0h4TjgtUU93U2Q5cW1nOG95aXJ4M0NjZll1S0VwNENwZHZfLU9Ob3dod0Qtd25HYU9SdlotcWdXaUlMWldqSUlsakxub1ZHb0RMVmRUYWlMdDRadjBMVEJjRzZCUzItMUw?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-20T10:11:28+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Fabiano Brasil retorna para a Rádio Guaíba Correio do Povo"
     }
   ]
 }
