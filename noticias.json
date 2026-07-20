@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-20T10:50:40.160835+00:00",
+  "gerado_em": "2026-07-20T14:02:21.286373+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,16 +84,6 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
-    },
-    {
       "id": "b9a5d813bc2a",
       "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
@@ -104,6 +94,16 @@
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
+    },
+    {
       "id": "d85bcc167848",
       "titulo": "Novo filme do Homem-Aranha deve ser uma das estreias do novo cinema de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/novo-filme-do-homem-aranha-deve-ser-uma-das-estreias-do-novo-cinema-de-guaiba",
@@ -112,6 +112,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A unidade de Guaíba terá uma sala com 170 lugares, projetor digital com tecnologia 3D e bombonière"
+    },
+    {
+      "id": "5e80851faa2e",
+      "titulo": "Guaíba confirma instalação de megacomplexo logístico do Mercado Livre",
+      "url": "https://expansao.co/guaiba-confirma-instalacao-de-megacomplexo-logistico-do-mercado-livre/",
+      "fonte": "Expansão",
+      "publicado_em": "2026-07-20T12:18:22+00:00",
+      "categoria": "Business",
+      "feed": "expansao_direto",
+      "resumo": "A prefeitura de Guaíba consolida um dos maiores movimentos econômicos da região com a confirmação da chegada do Mercado Livre, líder em e-commerce. Em reunião na manhã desta sexta-feira, 17&#8230; O post Guaíba confirma instalação de megacomplexo logístico do Mercado Livre apareceu primeiro em…"
     },
     {
       "id": "9f2d9daffdd6",
@@ -234,24 +244,14 @@
       "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 43 ArchDaily"
     },
     {
-      "id": "541024d8453f",
-      "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 11",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQNExadHZhQnhhaDhSXzYyalJqbzVtOEs0MlJ2VGVINWVrX0t2dmZfbjBGc0x3TEVfTUJ4NnRLSG9rMVB6WUV0OTFidUpTb0ZaTUlRS0E2N08yZ1hOVDFKSVlHeWxSN2RBNlQ4YUFxbUN2dG92a0t4MGJGSWZLMkxmajBwaTlRdndPbnBrREt5UTZyOEVUUzZ3Um92YThiV0tqUjUyR1hkMlloZ0ZHbkpPWXBiTVNEcnFsaUpZeldLYlo2UWdGb2NEaERXTDhsRzNFcUpyaXVsekwwNFFhM2NQbnhxWkxtTkpVNGVsUVVCYXJZTWpaeDVTR2dtcE8tdEhkSm5leFRmMGZ6QzZlcTJfZVpVLVdaTEJDMkthU2lXTjBaeU9kUlE?oc=5",
+      "id": "2fe758064d85",
+      "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 10",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNb1RYODR1cG9haU1BdU1GRHlTSGc5NzlRcS1iNEZTTE1JVDZRV3UwSUxHSGhCSDlGOW1NYVE2OXNPVXFvSXM2U0hJZUt4UzBCSjhHaThFemdfVTRCM1pWQUkxQ1d0RDVaMWc1RGp0cW01aEkzNHIwMkxOMllhZ3F0cHlPcWFjd3V4ekRpYzlSTnZwb1QzbGRzblgxOHB5SFRpZlAteHhnbGFIU1kwemJOS3dVbnVoZWk3VmhUY1hMUkNra0JvVlJuNlJMUTFFMHo3UXRQVWxRek1lNFVjN0FoT3BsREE5QTBSMVNUaGdkN19GUXVrOGVCZWVGQUZzcTdqeUNmY2NfLW1neFlsb3NlOFI1TFplNWZ1dklrVDJwRjhlczZfSVE?oc=5",
       "fonte": "ArchDaily",
-      "publicado_em": "2026-07-13T13:53:59+00:00",
+      "publicado_em": "2026-07-13T17:43:27+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 11 ArchDaily"
-    },
-    {
-      "id": "1243af8e6369",
-      "titulo": "Guaíba presta apoio humanitário a Eldorado do Sul após forte temporal",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVjZyTTRhRG9jLVNWYlZiVkROR2ZubWZHRlo3SG1aVzdacmVqZzYzN3Y0ajNjLWs1VktvbWNNRkFkU3hva25pRlpVNFdBVFIxSk5DUFY4aC1ObnJIRnJIaldNRXJDQldIY2tqQ0Zld28wRVJzTTJkU29YMmdlOEtOQ0EwMEllODAxRVVUdEVzQ2dPcVdz?oc=5",
-      "fonte": "expansao.co",
-      "publicado_em": "2026-07-13T13:06:41+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba presta apoio humanitário a Eldorado do Sul após forte temporal expansao.co"
+      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 10 ArchDaily"
     },
     {
       "id": "f06b650a4cf5",
@@ -386,16 +386,6 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
-    },
-    {
       "id": "b9a5d813bc2a",
       "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
@@ -406,6 +396,16 @@
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
+    },
+    {
       "id": "d85bcc167848",
       "titulo": "Novo filme do Homem-Aranha deve ser uma das estreias do novo cinema de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/novo-filme-do-homem-aranha-deve-ser-uma-das-estreias-do-novo-cinema-de-guaiba",
@@ -414,6 +414,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A unidade de Guaíba terá uma sala com 170 lugares, projetor digital com tecnologia 3D e bombonière"
+    },
+    {
+      "id": "5e80851faa2e",
+      "titulo": "Guaíba confirma instalação de megacomplexo logístico do Mercado Livre",
+      "url": "https://expansao.co/guaiba-confirma-instalacao-de-megacomplexo-logistico-do-mercado-livre/",
+      "fonte": "Expansão",
+      "publicado_em": "2026-07-20T12:18:22+00:00",
+      "categoria": "Business",
+      "feed": "expansao_direto",
+      "resumo": "A prefeitura de Guaíba consolida um dos maiores movimentos econômicos da região com a confirmação da chegada do Mercado Livre, líder em e-commerce. Em reunião na manhã desta sexta-feira, 17&#8230; O post Guaíba confirma instalação de megacomplexo logístico do Mercado Livre apareceu primeiro em…"
     },
     {
       "id": "9f2d9daffdd6",
@@ -444,16 +454,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Mercado Livre confirma megacentro logístico em Guaíba e vai gerar 660 empregos diretos na região Portal de Camaquã"
-    },
-    {
-      "id": "0640c8fd3eca",
-      "titulo": "Barcelona Futsal é superado fora de casa em Guaíba Campeonato Gaúcho Série Ouro FGFS",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT1E0YnRBSkVOSmF1YmtteERZaWhDYWRWT19hR2EtSGlKVXQySXVNenpCclpkOHBUU21KM2w3ZmIwUWxZdmpiTXJ2eXc5V1ZaVFVSMnRtNWlmMHpQWDA3ck5ONmJ5ZVk0enhoUHBlVUJmR2t0Vlp3NzNib1kxMzZZT3I0UXh1QWlVQ2tkVFhMd2dTLXM1QlZBdHR1RTVGLS02X2otNDVFRGg?oc=5",
-      "fonte": "Alcir 61",
-      "publicado_em": "2026-07-19T11:21:19+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Barcelona Futsal é superado fora de casa em Guaíba Campeonato Gaúcho Série Ouro FGFS Alcir 61"
     }
   ]
 }
