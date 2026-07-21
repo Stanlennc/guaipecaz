@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-21T17:17:22.403600+00:00",
+  "gerado_em": "2026-07-21T19:19:50.781274+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,76 @@
   ],
   "noticias": [
     {
+      "id": "5c9a14de8bb3",
+      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-21T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+    },
+    {
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
+    },
+    {
+      "id": "b9a5d813bc2a",
+      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
+    },
+    {
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+    },
+    {
+      "id": "665df31fd819",
+      "titulo": "Mesmo com melhora do tempo, Guaiba continuará subindo e Ilhas de Porto Alegre entram em Risco",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYVZxbXM5TFl1TFF5WWNhd1R3UHoxczJzWnIwZzE1cHItY2lNbHNaaS12S09WZ0ZweV9aS1NlbHpqQkQ2a0F3OVY2SV9SSVZZYkpmVk9RYXlzRERWMVB2X0M1NUtmWlViZXA3ZjkyVTNQbXYwbTdlWFhHb3JObjB0SDF4cmtHVDJWNllsX2xac001WDQzTEpfdXJGUzlYQTNNRVVCeTg5MXliUlFfWVpfS0RfbUlDejBsUUhfelZOWTQza3NUblE?oc=5",
+      "fonte": "luizmuller.com",
+      "publicado_em": "2026-07-21T18:50:35+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Mesmo com melhora do tempo, Guaiba continuará subindo e Ilhas de Porto Alegre entram em Risco luizmuller.com"
+    },
+    {
       "id": "62dcab9023e6",
       "titulo": "Mercado Livre terá centro de distribuição em Guaíba (RS)",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU09YYzliUmd0ZGN0a2JVTHVxdVFwYjBQV3FpamhDYWp6SUlWcFRuQ0s0bnhrZUQ4QVBVU1Mzam9JVUtKQUN0LVBIRkVrd20zNHJVLW10Rmt1S1hzRnZtX3I2NWZZdG9fSnkzYjE0WjM0NUo4QkRjMTYyeGxCQV9FaDhVUVVSZw?oc=5",
@@ -92,16 +162,6 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Alerta para o Guaíba: nível vai subir muito nos próximos dias causando transtornos, diz MetSul Agência GBC"
-    },
-    {
-      "id": "3083eed654d0",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTE1yR01BN21felYxN2ZZVFF1WlJLbF9ESWZ3aERvdk15dTB2SzJBUWF4bWNpeHlaa1BBSEZtd1luak42anh6RDFzRmw5c0IzYmQ1RGl3X2RJV3FSTE9RZy1LUml6c1RreVRsdlhSWHVxX21UVzhYdE03VE9SRWFBWUJfYzFfZVRfXzdWaGExOHltc1lXeGtpOTNVODNXNTRyUU0zSm5zSk9HcjlEVVJVOEFZbW5MQ3pIUHlMTVcwWEJmb3RzX3F0dUF1WlcteW1FZXVoN3VHblc3Zw?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-20T23:07:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba Repórter Guaibense"
     },
     {
       "id": "fc4754bddcc5",
@@ -124,16 +184,6 @@
       "resumo": "Aos 133 anos, BM de Novo Hamburgo condecora repórter da Rádio Guaíba e honra patrono em centenário de morte Rádio Guaíba"
     },
     {
-      "id": "49c16b5cee41",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzlHblVqUXlZbUdfMWhiMXhQdV9NVnlFeXRjakNxbFQwem12LTkxcWlQSkdMcHBDZm5QR0hiY3Z0MFFxQ1RNMW1ZRFpxV1I1elNuX3J1OEtpLWJXQm9jNFVyT0c0YXRvV1dDTE1mdWVmYmJxOWlhZXhEOGdOdEhfMEs0aTJ5T0dXQ29zVEFPNzlmbXJ1S1ZBUTNDX1phS1hkOVBqT25qOHRvUWVsNUZoSE5lSkJOTWxmSllxZ2pxYUVueGJWSkVR?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-20T19:28:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos Repórter Guaibense"
-    },
-    {
       "id": "df412f76efa6",
       "titulo": "Evento gratuito com forró e decoração típica movimenta a Orla do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMHYzZDZMdFZUMHdWT25OdUEzRFFBVTlwUVpxMjM0ak9ZRV9US1V3M25EYm8xX1NUcUh5RjJla2lkeGYtVkFGcEVrNVVKZUFZVEFKdU93Sm16bGJESU4wVHNHeGx5U2VyMi1pR3dQNkRIeUFTejR3Mk1jbHFoRmNZd3JtVlJSdFFScFc5YWxSYXU3d3hteWtxWU9US0xpQk5LNlBLNEgxTTZmVUs0VFc3N0hlUVFoUTdDZTZiUUN3cjVPcXRjTTRjVTlFNXE0aTlVYy1jY3NFaXJFZ0VzUnZRa2N2VUJSSUE5Z0h5OUU3OWhpVUZ4YnJOZFQ0X1V2OS1vS00w?oc=5",
@@ -142,16 +192,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Evento gratuito com forró e decoração típica movimenta a Orla do Guaíba GZH"
-    },
-    {
-      "id": "7c0f1e071f93",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3BDcHduWDcxRkkxV3JoXzNvVkVtc1dsRmFnNC0yTnpkSTdRVTNCYlVsUUsyTFRzNlMxbjNlLTJyMmJyS09xVGRqVG01RXVCM0hBa3B0UFNMdTlKU2hnX1hSRWkyYUtyREplQ1FWcTdBN1loNUVSRGF5NmREaXZoTEpnRWNSRWw2dzlWZTIzRXdYZ0lZY2g5THZORmFYVXRhdmxqeEN0RU5Cdm1oNVN6X2R5eXE0V3puNjJB?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-20T16:34:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira Repórter Guaibense"
     },
     {
       "id": "fe791b36d265",
@@ -194,14 +234,14 @@
       "resumo": "Barcelona Futsal é superado fora de casa em Guaíba Campeonato Gaúcho Série Ouro FGFS Alcir 61"
     },
     {
-      "id": "34e5883febe2",
+      "id": "13f482014c0b",
       "titulo": "Mercado Livre ergue megacomplexo logístico em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVW9FUk5DNTVTTzVFOGZtcTlJdTJQVVVPNlU3eDFMcjZVUjZKRklWQnBqVkE1dXFKazlvUFhseUJvbVRkMXEwTDVPNzNEdnhhS0JBSkMzVVlxcjZ6M1dVZ0RFYUx0UW80ZkJFNXE5MFBOUnlHVzdEelRsd0syMnBFT1dQU2dNeTNBVnVr?oc=5",
-      "fonte": "Rádio Pampa",
-      "publicado_em": "2026-07-18T23:31:56+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ0RDclI2cjZXYk5YZ3JDd1V0X2NLbHFWTVFUdWkyUm0zMUZzZUo3QWo3cXhkb3FiVkw1VnZUZGJPRGhUQkpmNUFranFucTlqN1pGdkdVX3M2OW9PUkpfbWFlaFY0c1padnlfa0tZb3FLSFNSTTVaV2dOcXAtd2pwcUVkWVZzLTROV0steUo0b0Q1OHRqbmRXVXR5VnBjTE9nVjJlczM1d1pkUkNKRUpIc3hFam5zdFHSAbwBQVVfeXFMTW94NVlhWHBKUm9aZnZ0NWRkSTJfNmQ0MjByV2FaWGUzd0FkMjdZUzhGRFR2eG1PLW5oWE9wZ0dMajFqeTNSZzNzMzNXc3piQlJtRmZyZDh1d0N4bU54VkxNWkdrTUY3SFlrRTZST3hURUtmclZqOThkVGdFeEQzTjBDR3BTS1hZX21scnNvb0lDQmNvX1VyUTFyV1U4SnJGZEhNQ3FlM1BJLXpNeFdWa2NiRDRkX3l1bDVqRXo?oc=5",
+      "fonte": "Jornal O Sul",
+      "publicado_em": "2026-07-18T22:50:26+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Mercado Livre ergue megacomplexo logístico em Guaíba Rádio Pampa"
+      "resumo": "Mercado Livre ergue megacomplexo logístico em Guaíba Jornal O Sul"
     },
     {
       "id": "56eb69e18198",
@@ -210,7 +250,7 @@
       "fonte": "TV Pampa",
       "publicado_em": "2026-07-18T22:48:11+00:00",
       "categoria": null,
-      "feed": "google",
+      "feed": "vizinhos",
       "resumo": "Mercado Livre ergue megacomplexo logístico em Guaíba e transforma o RS em hub do e-commerce TV Pampa"
     },
     {
@@ -222,16 +262,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Fabiano Brasil retorna à Rádio Guaíba para comandar o novo ‘Guaíba Revista’ Coletiva.net"
-    },
-    {
-      "id": "07945b98a1e5",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQVB6UENxS2otRmFFM2NpR1hGa2JsNzFpMU1RNUxNeVFPdGR1TmZVak1IdWRVbXRZYWVDU2M3TWx5U20zLWFHTnRUeFdzZElQS1VHNmE3aVhuT0lpS0ZPUndPRzlhRlpVQ1J3S2hNazBQTjgxXzZ4LWM1VU5Nb255LWc5TGszV1Z3cVZVWnFyY2ZHdV82Q0x3LWFSNERBVU05aHR4ZS00TXNURmtYbF9ZSlJYTzJQaW9oc2U5T1NYUkt0ZlVmOGZSbEJrQ2N5QzlCMmtEUW9CN3l0RkltdUZyUk9raHE2S3RmTnZEWG9FRQ?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-17T15:21:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever Repórter Guaibense"
     },
     {
       "id": "041d301d35e1",
@@ -264,16 +294,6 @@
       "resumo": "Projeto Pedal Sustentável disponibiliza bicicletas gratuitas em Guaíba expansao.co"
     },
     {
-      "id": "a5f3503d8b58",
-      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXdwWU0wM2dSMjlLTDVpUWZ4XzhfcW9aSWxPc29UZ0dYNXVpbDh2VHlHWmJxTDR2SnVPeGhwdlJVU3NQMDlpak5WVFR3YmFiT2x6VlotQjFvZl9TNFJSTDNEWnZuR1A3NEl3UDhlUDdZck1JX0xZWlR2WjBYRVZyc0pFa0pJVlNfVEFKT0hpSWxKeVlneDVlN1MzdDgxTmUyVVR5YlR1SFNaZVJLSGNfNWZaUlR4RktYSVplTjA2dlVWV1UxZ1VSSA?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-15T19:58:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba Repórter Guaibense"
-    },
-    {
       "id": "2688e0e8e7f8",
       "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 36",
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNVXJicU4yNmlFdkVUd1FISmlBem5KcVIyamxRRjBMYVpOX3ByeFhtU2RJbnI4Nkl4LUltUktUQVZqdy13VGtOOTBpa2c3SWktbW1uVE1HWEVrak9GblpOQ0x1SUg1eWNJRFZwcERiWmpLTkVZVm1SS2ZlMHJEdE05VnVRX21TdXFpcnZQS1N3MTNsNkdvd0UwbzRXclBrdmNvT05BZk94aTZCZWRxWFkxaE9pTS1KdUg4THpKOG9kSFlRTnRpcjF3VnFvcnVMZXBZNlRwZzNUTXBEUTdVblZ1c1h6Y0NfQnYtZHh6dlV1MS00ejJKUTl2c2JVUy1TSkN2YVA0c0c0QnJJNWF1OGMxcWxON3hnOTk2SkNPdkhnLXpGVEVKSkdZSGMzdXU0VVU?oc=5",
@@ -282,16 +302,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 36 ArchDaily"
-    },
-    {
-      "id": "a549bed95947",
-      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLTRwSjRyMGRNYWdjci1rSUdRTXk4T1ZpekoxRDJCbFhoeGxDRGl4MXNWTWVQaE5sdjVOdjNlTU93UkpzVnlSSmdVTlJneTdRaE5OLUthajc4N3N1OEI1NmI1Vkh2amFQYWVFWkZIa01sMUh1X0xjSG1FaXdSMklIaDZBR3lna0F0SllmYllLZ0dXZ1JSMjV1aFlPeTlRVTBKalBYdjBEQUVsdk9Ic216QUhmZU11RWJLdjByUkNRUHhVcVZsQ25rWi13djN3ZWFibVhERmt3azYtaFltQVU0?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-14T22:18:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba Repórter Guaibense"
     },
     {
       "id": "f06b650a4cf5",
@@ -362,19 +372,79 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Mais de 400 atletas participam da 8ª etapa do Circuito Sesc de Corridas em Guaíba Sesc/RS"
-    },
-    {
-      "id": "e99883bf253e",
-      "titulo": "O que significa monumento de 4,5 metros com dedo apontado para o céu instalado às margens do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObEZRdlNaQzFtdlpoUk5rUVBIbVpKSVpqRk50LTVucUFEV1JENHB4bkYzN3J5U1l1bl95Y1NlVmNPbDVQWUhYc0RYUW9HeV9KUEJEandjdjBITnZxMHcwakwtMVo0M3hjY1h0RHZ2eGxJb1lHUWRraVExTF84UTBCZEM5RjJ3NEt5T0h1RmdQQ2d5LVJpbk9JUi1qNHpTeXk2LU5wRFBTLWt4V0RmY0wxaXRNemRJVHduaXczWUI2WnQyTEZwQ0NrdnczZXkzVHlLaGJsM05mcURsNzBmOTJNNHFDbzY0ZVFiTEExMkNWR084MUIyeWxZUdIBhwJBVV95cUxNaWZqZGpRb0c3b3g1NWxGSkFNb3d5VUJEUVlIbHpIVGc3dHRRZXEtOFl6Sk5pRXN3amYxN3lvVGFud1pfNzltQWEzUDF2OWRKWlF5eVhwdk1hX0MxcldMNVJ3VkNQelI5MGQxdk1wV0YwS3FNUTdWcDdQUnlNUHM0Tm1QUG52Z1ZfYUJtM19hZGc3S081UlZ4Wmd2Wk1OU2V1N0xPOFVkd1hzdGpXRFRhR3JYRU4xS2UxQXlHQjNUcXg3RnMtQ1I4RHRBQ0pPT2kyUGo1SXYzVmhRR2dTMUZCMmR6SGZlQzliRE5MQ0hvR2hwd2lXTDRTTlgzU0lxdW1XMFBBUFpvMA?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-06-27T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "O que significa monumento de 4,5 metros com dedo apontado para o céu instalado às margens do Guaíba G1"
     }
   ],
   "noticias_home": [
+    {
+      "id": "5c9a14de8bb3",
+      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-21T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+    },
+    {
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
+    },
+    {
+      "id": "b9a5d813bc2a",
+      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
+    },
+    {
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+    },
+    {
+      "id": "665df31fd819",
+      "titulo": "Mesmo com melhora do tempo, Guaiba continuará subindo e Ilhas de Porto Alegre entram em Risco",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYVZxbXM5TFl1TFF5WWNhd1R3UHoxczJzWnIwZzE1cHItY2lNbHNaaS12S09WZ0ZweV9aS1NlbHpqQkQ2a0F3OVY2SV9SSVZZYkpmVk9RYXlzRERWMVB2X0M1NUtmWlViZXA3ZjkyVTNQbXYwbTdlWFhHb3JObjB0SDF4cmtHVDJWNllsX2xac001WDQzTEpfdXJGUzlYQTNNRVVCeTg5MXliUlFfWVpfS0RfbUlDejBsUUhfelZOWTQza3NUblE?oc=5",
+      "fonte": "luizmuller.com",
+      "publicado_em": "2026-07-21T18:50:35+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Mesmo com melhora do tempo, Guaiba continuará subindo e Ilhas de Porto Alegre entram em Risco luizmuller.com"
+    },
     {
       "id": "62dcab9023e6",
       "titulo": "Mercado Livre terá centro de distribuição em Guaíba (RS)",
@@ -384,76 +454,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Mercado Livre terá centro de distribuição em Guaíba (RS) Mundo Logística"
-    },
-    {
-      "id": "e2ace329e78d",
-      "titulo": "Alerta para o Guaíba: nível vai subir muito nos próximos dias causando transtornos, diz MetSul",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMFNVOUtzZGs5Y0hYalhjdlE4M19tUzJySGVuLWd3M0VhdzNoZVFvR0tCVk5lOFRaRzVybkVBdHh1d2dNbFdoNnpGQTZFNzFUZTBRdlZRc2d6WWp6X21lZS1tTEdQVkgzU1JLVUNoX2R2SWdnSXdtbE1WeE9nYkhqdHpUcEJobkxTbURZeGktcS1mT1N0UGZ0Y0hSVXZ4WUVTQUtkaDBva0FCdnc1enFON3J5SVNLUm5XbUczUW91ekFzcnd0MUE?oc=5",
-      "fonte": "Agência GBC",
-      "publicado_em": "2026-07-21T14:23:03+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Alerta para o Guaíba: nível vai subir muito nos próximos dias causando transtornos, diz MetSul Agência GBC"
-    },
-    {
-      "id": "3083eed654d0",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTE1yR01BN21felYxN2ZZVFF1WlJLbF9ESWZ3aERvdk15dTB2SzJBUWF4bWNpeHlaa1BBSEZtd1luak42anh6RDFzRmw5c0IzYmQ1RGl3X2RJV3FSTE9RZy1LUml6c1RreVRsdlhSWHVxX21UVzhYdE03VE9SRWFBWUJfYzFfZVRfXzdWaGExOHltc1lXeGtpOTNVODNXNTRyUU0zSm5zSk9HcjlEVVJVOEFZbW5MQ3pIUHlMTVcwWEJmb3RzX3F0dUF1WlcteW1FZXVoN3VHblc3Zw?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-20T23:07:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba Repórter Guaibense"
-    },
-    {
-      "id": "fc4754bddcc5",
-      "titulo": "Com queda histórica de crimes, Brigada Militar de São Leopoldo faz 28 anos e condecora repórter da Rádio Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ0JrVFk4T1VfXzJUNjhGb1RhQnI4eUF1Q0tHSnBLVjFuXzlES3Z2U3ZUOGRncVhJSElrZjk2SXFlX1ZPc2JwRENaRGIzMWFMeVhnY05ycmdlSnFHeVd2WU92QnFCZ3VuNGJHOGxTS2gzdHRrYXdTTXJ1V0xLOFZQVXJad20wa0JrMkRudjJWcjF4Nnd5bkRuUXk0bS1kaGwxaFRtRFNDVy02SWx3NXR1dEdLa1dOSzNLdDFTYnhtTGRJVkVJemQwVU0tLTB1UQ?oc=5",
-      "fonte": "Rádio Guaíba",
-      "publicado_em": "2026-07-20T22:54:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Com queda histórica de crimes, Brigada Militar de São Leopoldo faz 28 anos e condecora repórter da Rádio Guaíba Rádio Guaíba"
-    },
-    {
-      "id": "5750e23b19ed",
-      "titulo": "Aos 133 anos, BM de Novo Hamburgo condecora repórter da Rádio Guaíba e honra patrono em centenário de morte",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcy1RUHJjTGxNUmxYcmpYLUZzT2pWNnhialpidVpMUWZQaHpETGhTM2FqcjY3R0gzRkNmUS1mcklPS19DU1prMElPdzRiam4wYUJwRDd3b294UEtLM040VzBKLUlVMWxoeVFyYjdjUVBxY0JUcTdpeXNUWDY2Q2poX3l1QU95LVliRWhxd2dmZ19rZEh3SFpSakdzM05oNkp2OFJGZnJ6WlBkaEcxYmY1ZDZxUGxJMHpFTUNYdEJxNVNZV2I0bmdJYw?oc=5",
-      "fonte": "Rádio Guaíba",
-      "publicado_em": "2026-07-20T21:46:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Aos 133 anos, BM de Novo Hamburgo condecora repórter da Rádio Guaíba e honra patrono em centenário de morte Rádio Guaíba"
-    },
-    {
-      "id": "49c16b5cee41",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzlHblVqUXlZbUdfMWhiMXhQdV9NVnlFeXRjakNxbFQwem12LTkxcWlQSkdMcHBDZm5QR0hiY3Z0MFFxQ1RNMW1ZRFpxV1I1elNuX3J1OEtpLWJXQm9jNFVyT0c0YXRvV1dDTE1mdWVmYmJxOWlhZXhEOGdOdEhfMEs0aTJ5T0dXQ29zVEFPNzlmbXJ1S1ZBUTNDX1phS1hkOVBqT25qOHRvUWVsNUZoSE5lSkJOTWxmSllxZ2pxYUVueGJWSkVR?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-20T19:28:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos Repórter Guaibense"
-    },
-    {
-      "id": "df412f76efa6",
-      "titulo": "Evento gratuito com forró e decoração típica movimenta a Orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMHYzZDZMdFZUMHdWT25OdUEzRFFBVTlwUVpxMjM0ak9ZRV9US1V3M25EYm8xX1NUcUh5RjJla2lkeGYtVkFGcEVrNVVKZUFZVEFKdU93Sm16bGJESU4wVHNHeGx5U2VyMi1pR3dQNkRIeUFTejR3Mk1jbHFoRmNZd3JtVlJSdFFScFc5YWxSYXU3d3hteWtxWU9US0xpQk5LNlBLNEgxTTZmVUs0VFc3N0hlUVFoUTdDZTZiUUN3cjVPcXRjTTRjVTlFNXE0aTlVYy1jY3NFaXJFZ0VzUnZRa2N2VUJSSUE5Z0h5OUU3OWhpVUZ4YnJOZFQ0X1V2OS1vS00w?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-07-20T17:55:45+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Evento gratuito com forró e decoração típica movimenta a Orla do Guaíba GZH"
-    },
-    {
-      "id": "7c0f1e071f93",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3BDcHduWDcxRkkxV3JoXzNvVkVtc1dsRmFnNC0yTnpkSTdRVTNCYlVsUUsyTFRzNlMxbjNlLTJyMmJyS09xVGRqVG01RXVCM0hBa3B0UFNMdTlKU2hnX1hSRWkyYUtyREplQ1FWcTdBN1loNUVSRGF5NmREaXZoTEpnRWNSRWw2dzlWZTIzRXdYZ0lZY2g5THZORmFYVXRhdmxqeEN0RU5Cdm1oNVN6X2R5eXE0V3puNjJB?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-20T16:34:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira Repórter Guaibense"
     }
   ]
 }
