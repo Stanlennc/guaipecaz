@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-21T02:32:15.642233+00:00",
+  "gerado_em": "2026-07-21T06:27:15.161411+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -78,40 +78,10 @@
       "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-20T00:00:00+00:00",
+      "publicado_em": "2026-07-21T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
-    {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
-    },
-    {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "cdfc5fa3a4a6",
@@ -124,6 +94,26 @@
       "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
       "id": "b9a5d813bc2a",
       "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
@@ -132,6 +122,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
+    },
+    {
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "fc4754bddcc5",
@@ -284,14 +284,14 @@
       "resumo": "Guaíba arrecada doações para famílias atingidas por temporal em Eldorado do Sul expansao.co"
     },
     {
-      "id": "22e768a3b77b",
-      "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 43",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNZ0Vnb3hMam4tRzQ4Mlo2VjFZSnlZZDFMUEpXX2hzcm5Pbm1rOTFLN3B0eURXdzlJOGZINGtmdVJ1aU9nZjBkTHBBa0tjVFFWcnlNeE5sdzNzc0N1VFZSNW8xTkliOHRyWkpISHN5N0lqRFlSaFMwbEUwOWtfei10VzFKcTFJY0tYcXFUb0NEMGhjbGxJaVZhZ3NUeS1oQm02c3pocmp3Y21tMDlqVUV0MjZTNzhnenlBaGI0bGJQdGZvbFJJOXF2RG16Y2FDY2hIN3U4ZThnUmdNUmNMdllscWRKaFdoUXpKQzN2NG9mN3hHYXNKWFQ5OXEzQmEwamZBZGJ5UUpZS1c1cUZGWThpX19TNU1SWExtX214UnB0aUdLVmN4Z1ctUmVkbzNKR2M?oc=5",
+      "id": "1df2b5d278a9",
+      "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 30",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNSzE5UUFxU2plUU1GaFNqLVExNlhZSloxeVd4dkM4SXJtNVpJSzBGVFNVaTJFM09sUHViT05JMGlTWUhlc3Q0dHpheXNVVlJqV0t5UlV1OW1pcUh1Ml9lQWZmSHFlclU3MTNqVm1GMko3OFk5cU0tTWY3TW5qTjI1U3Zsb1hoQVVXR2tfdVQ4TFRKR3NKNXAxcjFYclN4RnBhTnNoS3ItVnltYTdYMXQzSmFLaW0ySFRRUnk1VUI3QVhwdjdva0NLRG40VUlBT0xWTmlXMXNwcHgxUW5WTWl4Qnd1Zlkwcm1DbTBoTmR3bGdrWlo4N1NGREotMVJnYUs2aWUwUGI1MjMxaklSZ1NBTHhDR2c4Vl9qcTdaa3RiTF9pUUxCWHRVWDdaWVRaU3c?oc=5",
       "fonte": "ArchDaily",
-      "publicado_em": "2026-07-14T06:00:05+00:00",
+      "publicado_em": "2026-07-14T11:46:59+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 43 ArchDaily"
+      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 30 ArchDaily"
     },
     {
       "id": "f06b650a4cf5",
@@ -334,16 +334,6 @@
       "resumo": "Guaíba intensifica investimentos em obras de prevenção contra enchentes na área de infraestrutura Correio do Povo"
     },
     {
-      "id": "ec2c2c0ed1f8",
-      "titulo": "Porto Alegre entra em atenção por risco de elevação do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObi1FU2lGVkhEcGw5UjBZcllQMlRMMnlrWk1GTDRhaTJLeG13aGV4OVdkcXN3UUphMTEtNVZJMU5vZVVuaXhZbVBxeE5HcGRCWjBEdDQxVTZCbVczamFJRWpYenNZZDJiZ1Y5VmJCV20zVXhCbTl5dVQ5X0xqOFZaMTJlRUhhQ2ZnRWhQMVVZX1BMNkRhYTA0Y1p5TEloZjg?oc=5",
-      "fonte": "Agora RS",
-      "publicado_em": "2026-07-01T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Porto Alegre entra em atenção por risco de elevação do Guaíba Agora RS"
-    },
-    {
       "id": "27304c7576ce",
       "titulo": "Sob chuva, Guaíba recebe mais de 400 corredores na 8ª etapa do Circuito Sesc de Corridas",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTnp2dllfbnUtTzhWbUVQSkVsUGZ6eEE2UzVVM0FCSTJVTW5QTWZkTnEyRFBRRzdFNHBUYXRKY0R1dDZrRFRhN0dyX21VcE5CdkhlY3NrTDZBbERzRHVwd04xaVl1emJMMGFSZ2ZJSURvY0JZNFZpemxtR285OGExT09VUllEY2dUekUxc2dIZjZNTkl1RWEteHBnVEVEcnZVclpCMGl3SEhieDU5elAzclYwYWNSWUJ1bFJ1VVkyeC1IVEhqRmd1M0FMaw?oc=5",
@@ -368,10 +358,20 @@
       "titulo": "Mais de 400 atletas participam da 8ª etapa do Circuito Sesc de Corridas em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVnMwb2ZhUUNYVy1BRmtkZGY3UTVUNDE5UExiQVREMEVsaFB5eUQ2cjBGdGdaSVh0OVFPSDRYUWtqTFV6S0RUc2x4Zm5uaWktVkc4c3RmX21YR1FfcmxwWXQ1cDVxUUNsS0tHNG85UHJzeG54Vk5KMkliYzNCVDBueUU4XzN3aTlYVGhwbEgtZm9FYlp0RFpoejV0NmgtTVR4WEhELWJGeGxrbEg5MjlUWnlTOW9UREJzY2c?oc=5",
       "fonte": "Sesc/RS",
-      "publicado_em": "2026-06-28T15:50:25+00:00",
+      "publicado_em": "2026-06-28T07:00:00+00:00",
       "categoria": null,
       "feed": "google",
       "resumo": "Mais de 400 atletas participam da 8ª etapa do Circuito Sesc de Corridas em Guaíba Sesc/RS"
+    },
+    {
+      "id": "e99883bf253e",
+      "titulo": "O que significa monumento de 4,5 metros com dedo apontado para o céu instalado às margens do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObEZRdlNaQzFtdlpoUk5rUVBIbVpKSVpqRk50LTVucUFEV1JENHB4bkYzN3J5U1l1bl95Y1NlVmNPbDVQWUhYc0RYUW9HeV9KUEJEandjdjBITnZxMHcwakwtMVo0M3hjY1h0RHZ2eGxJb1lHUWRraVExTF84UTBCZEM5RjJ3NEt5T0h1RmdQQ2d5LVJpbk9JUi1qNHpTeXk2LU5wRFBTLWt4V0RmY0wxaXRNemRJVHduaXczWUI2WnQyTEZwQ0NrdnczZXkzVHlLaGJsM05mcURsNzBmOTJNNHFDbzY0ZVFiTEExMkNWR084MUIyeWxZUdIBhwJBVV95cUxNaWZqZGpRb0c3b3g1NWxGSkFNb3d5VUJEUVlIbHpIVGc3dHRRZXEtOFl6Sk5pRXN3amYxN3lvVGFud1pfNzltQWEzUDF2OWRKWlF5eVhwdk1hX0MxcldMNVJ3VkNQelI5MGQxdk1wV0YwS3FNUTdWcDdQUnlNUHM0Tm1QUG52Z1ZfYUJtM19hZGc3S081UlZ4Wmd2Wk1OU2V1N0xPOFVkd1hzdGpXRFRhR3JYRU4xS2UxQXlHQjNUcXg3RnMtQ1I4RHRBQ0pPT2kyUGo1SXYzVmhRR2dTMUZCMmR6SGZlQzliRE5MQ0hvR2hwd2lXTDRTTlgzU0lxdW1XMFBBUFpvMA?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-06-27T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "O que significa monumento de 4,5 metros com dedo apontado para o céu instalado às margens do Guaíba G1"
     }
   ],
   "noticias_home": [
@@ -380,40 +380,10 @@
       "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-20T00:00:00+00:00",
+      "publicado_em": "2026-07-21T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
-    {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
-    },
-    {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "cdfc5fa3a4a6",
@@ -426,6 +396,26 @@
       "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
       "id": "b9a5d813bc2a",
       "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
@@ -434,6 +424,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
+    },
+    {
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "fc4754bddcc5",
