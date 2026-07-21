@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-20T19:41:48.706012+00:00",
+  "gerado_em": "2026-07-21T02:30:54.654496+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -26,9 +26,9 @@
       "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQVB6UENxS2otRmFFM2NpR1hGa2JsNzFpMU1RNUxNeVFPdGR1TmZVak1IdWRVbXRZYWVDU2M3TWx5U20zLWFHTnRUeFdzZElQS1VHNmE3aVhuT0lpS0ZPUndPRzlhRlpVQ1J3S2hNazBQTjgxXzZ4LWM1VU5Nb255LWc5TGszV1Z3cVZVWnFyY2ZHdV82Q0x3LWFSNERBVU05aHR4ZS00TXNURmtYbF9ZSlJYTzJQaW9oc2U5T1NYUkt0ZlVmOGZSbEJrQ2N5QzlCMmtEUW9CN3l0RkltdUZyUk9raHE2S3RmTnZEWG9FRQ?oc=5",
       "fonte": "Repórter Guaibense",
-      "tipo": "concurso",
+      "tipo": "vaga",
       "publicado_em": "2026-07-17T15:21:00+00:00",
-      "feed": "concurso"
+      "feed": "vagas"
     },
     {
       "id": "d3c2091518bd",
@@ -38,6 +38,15 @@
       "tipo": "concurso",
       "publicado_em": "2026-07-16T18:45:00+00:00",
       "feed": "concurso"
+    },
+    {
+      "id": "a549bed95947",
+      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLTRwSjRyMGRNYWdjci1rSUdRTXk4T1ZpekoxRDJCbFhoeGxDRGl4MXNWTWVQaE5sdjVOdjNlTU93UkpzVnlSSmdVTlJneTdRaE5OLUthajc4N3N1OEI1NmI1Vkh2amFQYWVFWkZIa01sMUh1X0xjSG1FaXdSMklIaDZBR3lna0F0SllmYllLZ0dXZ1JSMjV1aFlPeTlRVTBKalBYdjBEQUVsdk9Ic216QUhmZU11RWJLdjByUkNRUHhVcVZsQ25rWi13djN3ZWFibVhERmt3azYtaFltQVU0?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-07-14T22:18:00+00:00",
+      "feed": "vagas"
     },
     {
       "id": "2af13ba036a9",
@@ -101,15 +110,6 @@
       "tipo": "concurso",
       "publicado_em": "2026-04-23T07:00:00+00:00",
       "feed": "concurso"
-    },
-    {
-      "id": "8cf47856226c",
-      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego e realiza entrevistas para oportunidades em Eldorado do Sul",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTmtMNVFaY0RYYjlraklQYzhtRFgzV3B1M1hCQXVFUHpwNHU3ejJRT2Q0UWdJUll1UnJZQnBITmlscFdYRkNIX0RXYzAzWEVEZVVqblUxbTQ2MGg0aEt2Z0tWTFVIZzBmT2wwREFoYWlhRnRINWxfYm82eXNWRE5JdkdQenB6T3pRUGNIWGxZQ284Q1hvRzY1Vnh4UGFmNTlIRDlBQm8wb3RwaVpUVk9manVINHk3U1lGSzhmeEtlV0NWRzAwSFgyNXU5UFQzMzUwOE1rZlI0Z0w4Ymt3OWRqbm8zS0hFa2s?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-04-09T07:00:00+00:00",
-      "feed": "vagas"
     }
   ]
 }
