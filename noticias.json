@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-22T06:26:41.771204+00:00",
+  "gerado_em": "2026-07-22T10:24:06.333540+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,6 +84,26 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+    },
+    {
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
       "id": "16fe33979805",
       "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
@@ -114,24 +134,24 @@
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "b5c413726d53",
+      "titulo": "MetSul alerta sobre elevação do Guaíba com risco de alagamentos nas ilhas de Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNODRQR295d2M4NEFaTkFBdC1PeHJZaG5pbFF3bzZmSDJLdk1rNW1xSHhYbW5UWVE5SFpncEs0VFJMZWg0MWwtdVBETG13bmNYdXJFdTFQWWVTdWpZLWo5TFZSOUVNQ3pXamxkUnBrc3UxZkpSWk5VWVVGdDB5am1MTmxDTG54dUpPcXd0YkVjNk9lM3RRdVdyWHVOb09FdG1rT0s5WTFFWEhhLWEyekZ2b24zbENIRHUzcjVuVVJUbW01bjFjUDE00gHMAUFVX3lxTFBGT09vUGhHN296Y2RaT2FUN1l1ZUJGY1l4eHlHdkRSejVPUUxDemFIN0tKTmI0ZHM3eUhJUGFFQXlNakR3Zl9mY3p0OVphSmNSakQybDFKcnIybnhWZ3NnZHRDUHY2STdCVWVTMDJjSHlCV3BmS0JBZS1vMTlnRXMxeHNLX3NHaHp6QWxod3RGZDdYcHNvcmw5Rjc4NWtUZFNiUFRvajdqaWd6dDhKeEhFTlZpLWtnY2xjY2xBTTlBSUt2Q2YycHk0b1NKVg?oc=5",
+      "fonte": "Mix Vale",
+      "publicado_em": "2026-07-22T04:41:15+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+      "feed": "recentes",
+      "resumo": "MetSul alerta sobre elevação do Guaíba com risco de alagamentos nas ilhas de Porto Alegre Mix Vale"
     },
     {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "665df31fd819",
+      "titulo": "Mesmo com melhora do tempo, Guaiba continuará subindo e Ilhas de Porto Alegre entram em Risco",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYVZxbXM5TFl1TFF5WWNhd1R3UHoxczJzWnIwZzE1cHItY2lNbHNaaS12S09WZ0ZweV9aS1NlbHpqQkQ2a0F3OVY2SV9SSVZZYkpmVk9RYXlzRERWMVB2X0M1NUtmWlViZXA3ZjkyVTNQbXYwbTdlWFhHb3JObjB0SDF4cmtHVDJWNllsX2xac001WDQzTEpfdXJGUzlYQTNNRVVCeTg5MXliUlFfWVpfS0RfbUlDejBsUUhfelZOWTQza3NUblE?oc=5",
+      "fonte": "luizmuller.com",
+      "publicado_em": "2026-07-22T03:48:37+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+      "feed": "recentes",
+      "resumo": "Mesmo com melhora do tempo, Guaiba continuará subindo e Ilhas de Porto Alegre entram em Risco luizmuller.com"
     },
     {
       "id": "1aad0c70cfd7",
@@ -150,18 +170,8 @@
       "fonte": "Agora RS",
       "publicado_em": "2026-07-22T02:05:40+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Defesa Civil prevê alta do Taquari e do Guaíba após chuva extrema no RS Agora RS"
-    },
-    {
-      "id": "665df31fd819",
-      "titulo": "Mesmo com melhora do tempo, Guaiba continuará subindo e Ilhas de Porto Alegre entram em Risco",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYVZxbXM5TFl1TFF5WWNhd1R3UHoxczJzWnIwZzE1cHItY2lNbHNaaS12S09WZ0ZweV9aS1NlbHpqQkQ2a0F3OVY2SV9SSVZZYkpmVk9RYXlzRERWMVB2X0M1NUtmWlViZXA3ZjkyVTNQbXYwbTdlWFhHb3JObjB0SDF4cmtHVDJWNllsX2xac001WDQzTEpfdXJGUzlYQTNNRVVCeTg5MXliUlFfWVpfS0RfbUlDejBsUUhfelZOWTQza3NUblE?oc=5",
-      "fonte": "luizmuller.com",
-      "publicado_em": "2026-07-22T00:50:35+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Mesmo com melhora do tempo, Guaiba continuará subindo e Ilhas de Porto Alegre entram em Risco luizmuller.com"
     },
     {
       "id": "0e8f5e145bd0",
@@ -274,16 +284,6 @@
       "resumo": "Barcelona Futsal é superado fora de casa em Guaíba Campeonato Gaúcho Série Ouro FGFS Alcir 61"
     },
     {
-      "id": "13f482014c0b",
-      "titulo": "Mercado Livre ergue megacomplexo logístico em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ0RDclI2cjZXYk5YZ3JDd1V0X2NLbHFWTVFUdWkyUm0zMUZzZUo3QWo3cXhkb3FiVkw1VnZUZGJPRGhUQkpmNUFranFucTlqN1pGdkdVX3M2OW9PUkpfbWFlaFY0c1padnlfa0tZb3FLSFNSTTVaV2dOcXAtd2pwcUVkWVZzLTROV0steUo0b0Q1OHRqbmRXVXR5VnBjTE9nVjJlczM1d1pkUkNKRUpIc3hFam5zdFHSAbwBQVVfeXFMTW94NVlhWHBKUm9aZnZ0NWRkSTJfNmQ0MjByV2FaWGUzd0FkMjdZUzhGRFR2eG1PLW5oWE9wZ0dMajFqeTNSZzNzMzNXc3piQlJtRmZyZDh1d0N4bU54VkxNWkdrTUY3SFlrRTZST3hURUtmclZqOThkVGdFeEQzTjBDR3BTS1hZX21scnNvb0lDQmNvX1VyUTFyV1U4SnJGZEhNQ3FlM1BJLXpNeFdWa2NiRDRkX3l1bDVqRXo?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-07-18T22:50:26+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Mercado Livre ergue megacomplexo logístico em Guaíba Jornal O Sul"
-    },
-    {
       "id": "56eb69e18198",
       "titulo": "Mercado Livre ergue megacomplexo logístico em Guaíba e transforma o RS em hub do e-commerce",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ1AxWU96TWFnb0ZmMXMxZjZSUms1dkJJMUFlYlp2QTNsemtXbkR6bzRQdmJqMW52cE5EUXp5bjhzb05kUjhuZ2lwbHhWYnpsbFBHdnFENHg4VlZZeEZQMXo5SWNPU2hDaURZcWNGaGlISHhkeFJoUjRraVVQWFBJU2ZRS29zaV9hR1BXcFE5eWU0MzNHSF9ERnd1dVdLazc3dlFEb3pFbm92eVNXcURGNExSUVJ2VjlNbUhj?oc=5",
@@ -386,6 +386,26 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+    },
+    {
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
       "id": "16fe33979805",
       "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
@@ -416,44 +436,24 @@
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
-    },
-    {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
-      "id": "1aad0c70cfd7",
-      "titulo": "Tendência é de que o Guaíba fique perto da cota de alerta, diz Defesa Civil do RS",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPLUtSdnpCX0M2QmFJOGtKS0JUcVRSMjRSdVdvdkE0OU5IYjVhTC1fZUFfdU5GNUNtMzIzeDdHWnFQOXZvMklJY1pEQ3BsWTNRbFVHcE5NbXBhNGdWN1BXTDdKUzIzS2xlYy1HeXMwNldGTHNSX3NzclpKR3psNGN0OUdwd0lvVnFsay0wdkxXNHp6MWdTVGV2VFllUE5jOElZWDVhbGRnQTVFcFlLUFBGRmw5a0dRbnZJa3Q5eHljXzZ4R24yVzZvWHQxSWZQRGdNNWZUUG9qU2RUak9YLU55TXU2ejFsaERWLWxaQVdzbU1zSlI1UmFSTG9HdzROdFZiWHc?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-07-22T02:06:40+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Tendência é de que o Guaíba fique perto da cota de alerta, diz Defesa Civil do RS GZH"
-    },
-    {
-      "id": "6ed555557f79",
-      "titulo": "Defesa Civil prevê alta do Taquari e do Guaíba após chuva extrema no RS",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdTNaRkh1X2VHRXNIenFTR2dPV1plMGVBUTM4NVpGbnVHZmU1dGw2V3lrYi1RVU9faDRmMzFzeTZGTkJHTW9vSE4wVzhoenIxSHdXa0JNbWE1V05mNE1TMVdOYUNORUVHTFJZT3l6UWxQa3htU0NPdHJybFYxZlpkT3FsNlozdkV5SUNDTlN1V1c3SDZudGlaS2s3UUdjNnVTbjhTb2pNNE92UWM?oc=5",
-      "fonte": "Agora RS",
-      "publicado_em": "2026-07-22T02:05:40+00:00",
+      "id": "b5c413726d53",
+      "titulo": "MetSul alerta sobre elevação do Guaíba com risco de alagamentos nas ilhas de Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNODRQR295d2M4NEFaTkFBdC1PeHJZaG5pbFF3bzZmSDJLdk1rNW1xSHhYbW5UWVE5SFpncEs0VFJMZWg0MWwtdVBETG13bmNYdXJFdTFQWWVTdWpZLWo5TFZSOUVNQ3pXamxkUnBrc3UxZkpSWk5VWVVGdDB5am1MTmxDTG54dUpPcXd0YkVjNk9lM3RRdVdyWHVOb09FdG1rT0s5WTFFWEhhLWEyekZ2b24zbENIRHUzcjVuVVJUbW01bjFjUDE00gHMAUFVX3lxTFBGT09vUGhHN296Y2RaT2FUN1l1ZUJGY1l4eHlHdkRSejVPUUxDemFIN0tKTmI0ZHM3eUhJUGFFQXlNakR3Zl9mY3p0OVphSmNSakQybDFKcnIybnhWZ3NnZHRDUHY2STdCVWVTMDJjSHlCV3BmS0JBZS1vMTlnRXMxeHNLX3NHaHp6QWxod3RGZDdYcHNvcmw5Rjc4NWtUZFNiUFRvajdqaWd6dDhKeEhFTlZpLWtnY2xjY2xBTTlBSUt2Q2YycHk0b1NKVg?oc=5",
+      "fonte": "Mix Vale",
+      "publicado_em": "2026-07-22T04:41:15+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Defesa Civil prevê alta do Taquari e do Guaíba após chuva extrema no RS Agora RS"
+      "resumo": "MetSul alerta sobre elevação do Guaíba com risco de alagamentos nas ilhas de Porto Alegre Mix Vale"
+    },
+    {
+      "id": "665df31fd819",
+      "titulo": "Mesmo com melhora do tempo, Guaiba continuará subindo e Ilhas de Porto Alegre entram em Risco",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYVZxbXM5TFl1TFF5WWNhd1R3UHoxczJzWnIwZzE1cHItY2lNbHNaaS12S09WZ0ZweV9aS1NlbHpqQkQ2a0F3OVY2SV9SSVZZYkpmVk9RYXlzRERWMVB2X0M1NUtmWlViZXA3ZjkyVTNQbXYwbTdlWFhHb3JObjB0SDF4cmtHVDJWNllsX2xac001WDQzTEpfdXJGUzlYQTNNRVVCeTg5MXliUlFfWVpfS0RfbUlDejBsUUhfelZOWTQza3NUblE?oc=5",
+      "fonte": "luizmuller.com",
+      "publicado_em": "2026-07-22T03:48:37+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Mesmo com melhora do tempo, Guaiba continuará subindo e Ilhas de Porto Alegre entram em Risco luizmuller.com"
     }
   ]
 }
