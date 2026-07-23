@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-23T13:21:38.383700+00:00",
+  "gerado_em": "2026-07-23T13:54:08.741586+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,66 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "5c9a14de8bb3",
-      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
-    {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
-    },
-    {
-      "id": "b9a5d813bc2a",
-      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
-    },
-    {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
-    },
-    {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
-    },
-    {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
       "id": "2d718370e81b",
       "titulo": "Guaíba pode atingir cota de alerta entre sexta (24) e sábado, informa prefeitura de Porto Alegre",
       "url": "https://sul21.com.br/noticias/geral/2026/07/guaiba-pode-atingir-cota-de-alerta-entre-sexta-24-e-sabado-informa-prefeitura-de-porto-alegre/",
@@ -142,6 +82,26 @@
       "categoria": "Geral",
       "feed": "sul21_direto",
       "resumo": "O Guaíba pode atingir cota de alerta de 2,50 metros no Cais Mauá entre a sexta-feira (24) e o sábado (25). Simulações hidrológicas desenvolvidas pelo Serviço Geológico do Brasil (SGB), pelo Instituto de Pesquisas Hidráulicas (IPH) e pela Catavento Meteorologia, apontam que o grande volume de chuva…"
+    },
+    {
+      "id": "499ce8863227",
+      "titulo": "Defesa Civil alerta para elevação do Guaíba e reforça monitoramento em regiões ribeirinhas de Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSFpBbHRHTDgyYjdkdUhkTUdzTjRZV2lYRm02T1VLNUdnbFNtSUR0TEpibFAxWUR1WXhxT25iRWUwdnJ0QXFlTi1WRVB3QmJSemsyVDNhRmpGdEZ1Yk9MNHJhcGVqY2tVNXVob21lMG1LZElqNjFUQjg3bnV3dGRmblR5bzJFdGdsWnphOFYzYXpJazhVRXhjVFlKWERMQ2p1aFNGMnBmQmhxSTRvbE81WUp5WGJ4blpJdXJZRXd5TlA2RDBmaVY4SnZPLURPWXhjb0MyLVp3dDRBMGxoRkdzWkI3NkdDZ0dpVnJF?oc=5",
+      "fonte": "radiocaicara.com.br",
+      "publicado_em": "2026-07-23T13:38:19+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Defesa Civil alerta para elevação do Guaíba e reforça monitoramento em regiões ribeirinhas de Porto Alegre radiocaicara.com.br"
+    },
+    {
+      "id": "d570656bea14",
+      "titulo": "Prefeitura de Porto Alegre emite alerta para possível elevação do Guaíba nas ilhas e no Extremo Sul",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeHlXZnZTa2s3Ujh6d0NXd0ZCQXNmRGp5MjZ1dzB5ZVVGN3YxUW5XSlhxMnFkN1EwNk16WEM2enNfQUxEZmExSk1ySnRtR1k1a0dxbEhQTWJ6ZUZCSU9JUzhGb01Wa2dhVHVhMm0xeFpYNF9aY0hFWFRacFRTcmhyYTduWmFvai1yUW5NbHBSUG45cGpjNGprZ1dXTFlrdUJkR25VQm4xeU42N24ySW5tSy1mbFcyR1dZSE5zZHRZQmVvTktJUHc?oc=5",
+      "fonte": "TV Pampa",
+      "publicado_em": "2026-07-23T13:35:48+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Prefeitura de Porto Alegre emite alerta para possível elevação do Guaíba nas ilhas e no Extremo Sul TV Pampa"
     },
     {
       "id": "2e0d8b9cd46f",
@@ -260,7 +220,7 @@
       "fonte": "Correio do Povo",
       "publicado_em": "2026-07-22T19:48:37+00:00",
       "categoria": null,
-      "feed": "correio",
+      "feed": "recentes",
       "resumo": "Guaíba pode atingir cota de alerta até sábado no Cais Mauá, diz prefeitura de Porto Alegre Correio do Povo"
     },
     {
@@ -372,69 +332,49 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Alerta para o Guaíba: nível vai subir muito nos próximos dias causando transtornos, diz MetSul Agência GBC"
+    },
+    {
+      "id": "3083eed654d0",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTE1yR01BN21felYxN2ZZVFF1WlJLbF9ESWZ3aERvdk15dTB2SzJBUWF4bWNpeHlaa1BBSEZtd1luak42anh6RDFzRmw5c0IzYmQ1RGl3X2RJV3FSTE9RZy1LUml6c1RreVRsdlhSWHVxX21UVzhYdE03VE9SRWFBWUJfYzFfZVRfXzdWaGExOHltc1lXeGtpOTNVODNXNTRyUU0zSm5zSk9HcjlEVVJVOEFZbW5MQ3pIUHlMTVcwWEJmb3RzX3F0dUF1WlcteW1FZXVoN3VHblc3Zw?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-20T23:07:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba Repórter Guaibense"
+    },
+    {
+      "id": "fc4754bddcc5",
+      "titulo": "Com queda histórica de crimes, Brigada Militar de São Leopoldo faz 28 anos e condecora repórter da Rádio Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ0JrVFk4T1VfXzJUNjhGb1RhQnI4eUF1Q0tHSnBLVjFuXzlES3Z2U3ZUOGRncVhJSElrZjk2SXFlX1ZPc2JwRENaRGIzMWFMeVhnY05ycmdlSnFHeVd2WU92QnFCZ3VuNGJHOGxTS2gzdHRrYXdTTXJ1V0xLOFZQVXJad20wa0JrMkRudjJWcjF4Nnd5bkRuUXk0bS1kaGwxaFRtRFNDVy02SWx3NXR1dEdLa1dOSzNLdDFTYnhtTGRJVkVJemQwVU0tLTB1UQ?oc=5",
+      "fonte": "Rádio Guaíba",
+      "publicado_em": "2026-07-20T22:54:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Com queda histórica de crimes, Brigada Militar de São Leopoldo faz 28 anos e condecora repórter da Rádio Guaíba Rádio Guaíba"
+    },
+    {
+      "id": "5750e23b19ed",
+      "titulo": "Aos 133 anos, BM de Novo Hamburgo condecora repórter da Rádio Guaíba e honra patrono em centenário de morte",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcy1RUHJjTGxNUmxYcmpYLUZzT2pWNnhialpidVpMUWZQaHpETGhTM2FqcjY3R0gzRkNmUS1mcklPS19DU1prMElPdzRiam4wYUJwRDd3b294UEtLM040VzBKLUlVMWxoeVFyYjdjUVBxY0JUcTdpeXNUWDY2Q2poX3l1QU95LVliRWhxd2dmZ19rZEh3SFpSakdzM05oNkp2OFJGZnJ6WlBkaEcxYmY1ZDZxUGxJMHpFTUNYdEJxNVNZV2I0bmdJYw?oc=5",
+      "fonte": "Rádio Guaíba",
+      "publicado_em": "2026-07-20T21:46:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Aos 133 anos, BM de Novo Hamburgo condecora repórter da Rádio Guaíba e honra patrono em centenário de morte Rádio Guaíba"
+    },
+    {
+      "id": "49c16b5cee41",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzlHblVqUXlZbUdfMWhiMXhQdV9NVnlFeXRjakNxbFQwem12LTkxcWlQSkdMcHBDZm5QR0hiY3Z0MFFxQ1RNMW1ZRFpxV1I1elNuX3J1OEtpLWJXQm9jNFVyT0c0YXRvV1dDTE1mdWVmYmJxOWlhZXhEOGdOdEhfMEs0aTJ5T0dXQ29zVEFPNzlmbXJ1S1ZBUTNDX1phS1hkOVBqT25qOHRvUWVsNUZoSE5lSkJOTWxmSllxZ2pxYUVueGJWSkVR?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-20T19:28:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos Repórter Guaibense"
     }
   ],
   "noticias_home": [
-    {
-      "id": "5c9a14de8bb3",
-      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
-    {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
-    },
-    {
-      "id": "b9a5d813bc2a",
-      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
-    },
-    {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
-    },
-    {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
-    },
-    {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
     {
       "id": "2d718370e81b",
       "titulo": "Guaíba pode atingir cota de alerta entre sexta (24) e sábado, informa prefeitura de Porto Alegre",
@@ -446,6 +386,26 @@
       "resumo": "O Guaíba pode atingir cota de alerta de 2,50 metros no Cais Mauá entre a sexta-feira (24) e o sábado (25). Simulações hidrológicas desenvolvidas pelo Serviço Geológico do Brasil (SGB), pelo Instituto de Pesquisas Hidráulicas (IPH) e pela Catavento Meteorologia, apontam que o grande volume de chuva…"
     },
     {
+      "id": "499ce8863227",
+      "titulo": "Defesa Civil alerta para elevação do Guaíba e reforça monitoramento em regiões ribeirinhas de Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSFpBbHRHTDgyYjdkdUhkTUdzTjRZV2lYRm02T1VLNUdnbFNtSUR0TEpibFAxWUR1WXhxT25iRWUwdnJ0QXFlTi1WRVB3QmJSemsyVDNhRmpGdEZ1Yk9MNHJhcGVqY2tVNXVob21lMG1LZElqNjFUQjg3bnV3dGRmblR5bzJFdGdsWnphOFYzYXpJazhVRXhjVFlKWERMQ2p1aFNGMnBmQmhxSTRvbE81WUp5WGJ4blpJdXJZRXd5TlA2RDBmaVY4SnZPLURPWXhjb0MyLVp3dDRBMGxoRkdzWkI3NkdDZ0dpVnJF?oc=5",
+      "fonte": "radiocaicara.com.br",
+      "publicado_em": "2026-07-23T13:38:19+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Defesa Civil alerta para elevação do Guaíba e reforça monitoramento em regiões ribeirinhas de Porto Alegre radiocaicara.com.br"
+    },
+    {
+      "id": "d570656bea14",
+      "titulo": "Prefeitura de Porto Alegre emite alerta para possível elevação do Guaíba nas ilhas e no Extremo Sul",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeHlXZnZTa2s3Ujh6d0NXd0ZCQXNmRGp5MjZ1dzB5ZVVGN3YxUW5XSlhxMnFkN1EwNk16WEM2enNfQUxEZmExSk1ySnRtR1k1a0dxbEhQTWJ6ZUZCSU9JUzhGb01Wa2dhVHVhMm0xeFpYNF9aY0hFWFRacFRTcmhyYTduWmFvai1yUW5NbHBSUG45cGpjNGprZ1dXTFlrdUJkR25VQm4xeU42N24ySW5tSy1mbFcyR1dZSE5zZHRZQmVvTktJUHc?oc=5",
+      "fonte": "TV Pampa",
+      "publicado_em": "2026-07-23T13:35:48+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Prefeitura de Porto Alegre emite alerta para possível elevação do Guaíba nas ilhas e no Extremo Sul TV Pampa"
+    },
+    {
       "id": "2e0d8b9cd46f",
       "titulo": "Rios Taquari, Caí e Uruguai têm pontos em inundação; Guaíba deve atingir nível de alerta",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUkpVdE93aGthM1RUdEdkWnd1THFDTER6TTAyZ1lwdlhSQm5majM5LVFhZzgwWXA2YkEtbHU2cG1LS05kY0FPelVnRklTSUJKNVl1S051VXJXVGZvbjM5QlFOTXQzQzBKbmJicUp4VzdpS0pTbGhhTHBxWkswNERlOExOc2kxNUdZcVBpcDI4ZjlQRENMYzE3NVVn?oc=5",
@@ -454,6 +414,46 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Rios Taquari, Caí e Uruguai têm pontos em inundação; Guaíba deve atingir nível de alerta Agora RS"
+    },
+    {
+      "id": "894df27c791d",
+      "titulo": "Guaíba pode atingir cota de alerta de 2,50 metros, em Porto Alegre, entre esta sexta e o sábado",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVjFGeE5rZU12SFlyRW5jdjh5RFJHejRaRjl1R1NqNzNpSGc5NnlSaEFRcWk5UHFfWnBVZmRueURtWm54VFBJOWlqcEZXVlF3dFRNVFBDcTdpNzRUVDNDZThxeGFIcllISzZDUmVPU0FGTC1MTGZCSVl6ZFk4THhHVmRsZm82ZzVwZHdZa3NFVmtuSzFZTTY4TU5FUDJjVUVoTENpZ1doNWtobVB6TnA1Y0ZXYVhnUU5XbmdxbUtuNkN2b0xpa2VPb2xvQQ?oc=5",
+      "fonte": "Independente",
+      "publicado_em": "2026-07-23T12:31:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba pode atingir cota de alerta de 2,50 metros, em Porto Alegre, entre esta sexta e o sábado Independente"
+    },
+    {
+      "id": "d7626ba377f0",
+      "titulo": "📺 Eduardo Pinzon assume o comando do Guaíba no Ar!",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQW5mcEh5eFVTdlVvUlVpckpRZ3JRX1M5bjI0eUdFUDVHUTM3ejhZYi0yNUhCWkJSV1lDSWFOcDVyN2ZSbzhQN0EyYjRxV1VGWUxOUjFNNDVfRDNvaW9QYXdFUURsRWtXeFNpVFY1TEFicWx1clNnUzNzMzdpcF9WemxyN2gtdXhyRy1lbDdjekZ4MnlVeUtMUVZINlJYY0hX?oc=5",
+      "fonte": "R7",
+      "publicado_em": "2026-07-23T11:05:01+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "📺 Eduardo Pinzon assume o comando do Guaíba no Ar! R7"
+    },
+    {
+      "id": "c40a301b126d",
+      "titulo": "Guaíba pode atingir cota de alerta de 2,50 metros entre sexta-feira e sábado em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS0JiSlRtaU5hV0RMcWU1LTdGVUZNLURXUGNHVnUtbkpqYVhKTEZYMmxTSmszeVZpRVVLYXJmaVdhSEwtb1BaX2x3bmVyTEt4WVdZVF93Skdpa2FKSV8wSDZpaUVwR2Z2VHI4NG5pcnp6ellDaXYtcTFlUWpWTllGSXRZNHdZeU1lTkVZcEpjeGZrQWQ4cXRqeFYybHlVakEwQmU0Uy1kMXBza0ItVl9EdExWeFdFQkc5Y0RIRzN1V0U2UmM?oc=5",
+      "fonte": "Studio Notícias",
+      "publicado_em": "2026-07-23T08:44:15+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Guaíba pode atingir cota de alerta de 2,50 metros entre sexta-feira e sábado em Porto Alegre Studio Notícias"
+    },
+    {
+      "id": "fd1964692dd2",
+      "titulo": "Guaíba pode atingir cota de alerta entre sexta-feira e sábado em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOa28yWHI4RGNiS3lkMi1reElJaURpMWFVcU42bTdrdHZBeTktQ0M0dWFDdDRwbElSeWxBSzFNYTEwTW9Wa0swTS1yN0xBdHdNcWo4b1ExanFqR1VOX0Vubmk5ZDZBZW9nVzZsM0UxQzlfQnBKR296TTVPTzJ6QmZ4MTBnQWV2VXlGZGR2Q3RDSTZHRXlObGxEUG95b3ZQUThJS1JhS3JXZ2FjNTl2bWhHSEd1ajMtRkVuWGdlbUpjV1luWVdWR1dlVmN4QjA5QldQQ08zU0V4MS13QkRlNFhaRHc0aFpmbDJtWUNvc1R6aDhTVGVRLWlKZzNpZ3JIZw?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-07-23T05:58:36+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Guaíba pode atingir cota de alerta entre sexta-feira e sábado em Porto Alegre GZH"
     }
   ]
 }
