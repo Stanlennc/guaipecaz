@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-23T15:55:22.181346+00:00",
+  "gerado_em": "2026-07-23T17:21:26.032475+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,6 +84,16 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
       "id": "b9a5d813bc2a",
       "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
@@ -92,16 +102,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
-    },
-    {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "2127146cc672",
@@ -114,16 +114,6 @@
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
-    },
-    {
       "id": "cdfc5fa3a4a6",
       "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
       "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
@@ -134,14 +124,14 @@
       "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
-      "id": "15623efcf767",
-      "titulo": "Guaíba reforça monitoramento climático e entra em estado de alerta",
-      "url": "https://expansao.co/guaiba-reforca-monitoramento-climatico-e-entra-em-estado-de-alerta/",
-      "fonte": "Expansão",
-      "publicado_em": "2026-07-23T14:22:10+00:00",
-      "categoria": "Cidades",
-      "feed": "expansao_direto",
-      "resumo": "A Prefeitura de Guaíba intensificou o monitoramento das condições climáticas e hidrológicas do município e informou que a cidade entrou em estado de alerta a partir da quarta-feira (22) devido&#8230; O post Guaíba reforça monitoramento climático e entra em estado de alerta apareceu primeiro em…"
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "2d718370e81b",
@@ -154,14 +144,54 @@
       "resumo": "O Guaíba pode atingir cota de alerta de 2,50 metros no Cais Mauá entre a sexta-feira (24) e o sábado (25). Simulações hidrológicas desenvolvidas pelo Serviço Geológico do Brasil (SGB), pelo Instituto de Pesquisas Hidráulicas (IPH) e pela Catavento Meteorologia, apontam que o grande volume de chuva…"
     },
     {
-      "id": "7acf79d211fa",
-      "titulo": "Guaíba avança durante a madrugada e alaga rua na Ilha da Pintada",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNDJsT2ptWnQ1QTNiZkxtNEx2OG5KY0pwa3RvcjJPem8zdHQ0MUNDTkNRbVJuRGgyTmdMcjQtNGR6VFc1RndOcmZFY0xOeWhZUXA2X3BoOFRLRGJUZWVJeW0wcmNjczJsdlJCMFc3YUlQdzhzMXlVeGptaUpYUW5acVZHTi0xb3ZSMjRPMmkxaG5jdW5mVm1BNUdnWmRJYWI4YWRBMl9faG9WTUNjb2JyV2ZNR1FuRWs5ZGJTNmlXcXNNaXZ1b3hKeQ?oc=5",
+      "id": "891a0aa7c401",
+      "titulo": "Prefeitura de Porto Alegre suspende uso das quadras esportivas da Orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY0RTUHpQc3V6TlFxUDJxNmVvSmhxUktUSTVJTXBDYnhGTDI2amdsaTlqc0lScF96N3RaRWYweXZsQnNrb2xTMGl4Z0JhM3UtYmVMTmhMWjdYa0xOUFh6bGlPLVBZamU4NDhyU1NxZkY5NE1ldjBaRnRKRXAtdnFHenZFSDVlV1B2Sm9WMjFQMWsycVRMaVliZXZOblF6QTNFUHlfNXMyaS1NUFZHLUZ3RzhqQ3Itb0NnNjhiTFU1MHRpcWNwU3hOd0Q4TFJsajY2NC1sQnIzWGtYS2FhZWc?oc=5",
       "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-23T15:46:24+00:00",
+      "publicado_em": "2026-07-23T17:17:29+00:00",
+      "categoria": null,
+      "feed": "correio_metro",
+      "resumo": "Prefeitura de Porto Alegre suspende uso das quadras esportivas da Orla do Guaíba Correio do Povo"
+    },
+    {
+      "id": "0efdf6e0495e",
+      "titulo": "Prefeitura suspende uso das quadras esportivas da Orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORk5xWWdpSHMwT2tBekVvNnBjRXpXTHN3SHZDYnI1dUt2VHlCUi0zM091d3RHNm1YUnpTUUtrcWstUVVWazJHbm02a2dGekNOcEswN2lxNVZnTEUxWkxBUDhpd0VkNHZWSFZVbmk4WW9vX2ZfRzd3YnBaTjhUbGpuRUhDQWVkR2ZUSmp2TEVwd2YzbDdrbDc2dy1KTEUtbzhfcXR4M0dRMnpOTFhQRERBSlhESnhBM0U3aGdTYlBoTHNQcWw1VWxVTQ?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-07-23T17:02:28+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Guaíba avança durante a madrugada e alaga rua na Ilha da Pintada Correio do Povo"
+      "resumo": "Prefeitura suspende uso das quadras esportivas da Orla do Guaíba Correio do Povo"
+    },
+    {
+      "id": "43832172ead3",
+      "titulo": "Porto Alegre emite alerta para risco de elevação do Guaíba em áreas ribeirinhas",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTnozSDdYaHZxOW5TUDhZV1ZpRXZMb1JXSnlUbEk2RmVoRk5UZEF3MWh5enhUc09OcUgycnN5M3NmZmpubzJoT0ExYVJCRk02cFBhTWZvc09ydmNaR2ZUczB0aEFCcGdZSm1ZQjJCYVRsakZtMGU5VmF4WldvU3hBSDNZNWdWYWFHRS1yUXpQdVRIRkZwM3RLbkRQYmFLVU9RdF84clJKSmdiTS1QR3dMSVlyUzZmel9CbVdRNlpLbG5WY0J6UFEzNnZKUXhGYzJ5dUVBUjcxTUlMYy10NnJBTEJIRlE2MWczMm1adk5ITVo?oc=5",
+      "fonte": "Terra",
+      "publicado_em": "2026-07-23T16:47:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Porto Alegre emite alerta para risco de elevação do Guaíba em áreas ribeirinhas Terra"
+    },
+    {
+      "id": "b3d19c5f0844",
+      "titulo": "Guaíba avança durante a madrugada e alaga rua na Ilha da Pintada",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQnBTWEJ1ZmQyb3JmRjJ3LXFjWWpRV3l5UmEwYl9DNFhaWi12X0ZTVXA2QnBUc1VpRXhpZ2V6UHNpSk5JYjZMQlpRWldzZG5KQzhwV1JTM0JzMkM4Y0dhNEVoUXMyMzJWTTRCeFVWVG44bm13THN5WlBZOElHak10WGdEalZPTDJubTFKVi1n?oc=5",
+      "fonte": "Rádio Guaíba",
+      "publicado_em": "2026-07-23T16:27:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba avança durante a madrugada e alaga rua na Ilha da Pintada Rádio Guaíba"
+    },
+    {
+      "id": "cba9c33b0630",
+      "titulo": "Justiça homologa Zoneamento do Lago Guaíba: uma vitória da persistência e do equilíbrio",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2drTkYxbmd0MTBZS2d5TUpNZW1nSnNXQmk1RVhsLVFUNE1raWg3OVZTbWw0cjM3SGw5V0llS2s2b0cyZno1UXdpZmVWa0Z2Q2tTVFhLeTh5M0FfM2h0Nm9NTG00UGVjSUJVQmVadVk4ZU4xdTJ3dXZEVFFfdlJTYU93aHV0MHF2ZksyM1pfRndlVzNZaTREdGtwNWRQNnd5cnUwYWJNeHc5ZjRjcTQ1T2Zhc29DRTJLZWdZ?oc=5",
+      "fonte": "Notícias da Aldeia",
+      "publicado_em": "2026-07-23T16:07:30+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Justiça homologa Zoneamento do Lago Guaíba: uma vitória da persistência e do equilíbrio Notícias da Aldeia"
     },
     {
       "id": "ebf2ace06b4f",
@@ -200,8 +230,18 @@
       "fonte": "Brasil de Fato",
       "publicado_em": "2026-07-23T14:46:00+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Subida do Guaíba prevista para o fim de semana põe áreas ribeirinhas de Porto Alegre em alerta Brasil de Fato"
+    },
+    {
+      "id": "cfb8da5c5d3a",
+      "titulo": "Guaíba reforça monitoramento climático e entra em estado de alerta",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0FzRDZPQlFFaFFqV1RnbnVGZUxKWF9qVnU3dVgxOXF6ZlVPUVBlcnVWRzdFc2lRYW5PdzVuQzZLNDNsXzhsSzFJaWpES2p0aEZXVF96S0xRNFpkQjlZcjAzaDVQT29KY1N0LXZjeHFTT19vRmQ3c2V2QlZvQ3JTQkNvazNpZXpyV0o2NnNSU0g?oc=5",
+      "fonte": "expansao.co",
+      "publicado_em": "2026-07-23T14:22:10+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba reforça monitoramento climático e entra em estado de alerta expansao.co"
     },
     {
       "id": "ac8314bb0072",
@@ -332,46 +372,6 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Guaíba pode atingir cota de alerta em Porto Alegre Agora RS"
-    },
-    {
-      "id": "4034b7377480",
-      "titulo": "Guaíba pode atingir cota de alerta até sábado no Cais Mauá, diz prefeitura de Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOEl4VmlWSVJ0d0hoNlMydzB1NU5xZm1oX1dDMkZiLW9NM2FBc2FrQlZVc2ZhT0hRdzJDUlVaUndTLWF4TmM5QlFLUEtpWHJsYXZDbHBXck83eFBQVURKbG00elZUd3hvT1VKRDR5bmh2c01aTWZqU3lmb3R4ZkNKUS1UMEFlNFJlWmswbG5tQjdvRk81Y2JvazBlMEtnVFpIdWdqY1dOUV9rQlJfeG8tUnJoTHdhazBRWGJZV09QcDBmNWVNV0czLW9JOGhIa1JmcDVNdmludm5PcHZKSV9BTFBpamFKbFlVMWc?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-22T19:48:37+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Guaíba pode atingir cota de alerta até sábado no Cais Mauá, diz prefeitura de Porto Alegre Correio do Povo"
-    },
-    {
-      "id": "97a04679471b",
-      "titulo": "Projeto Guaíba consolida primeiro ano de pesquisas sobre os impactos geológicos das enchentes de 2024",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMzlOQWE2a2dkX1haMzlKV0lQZ1NpSkhGRUxrdVFGT3NHNWUtTnlwcUc4SVRwcmk0Y3ktdXJlMGFMdXN5M1VVVGNTQzRJYV93VC1salpWQkpaQjZPTVFLWklkWlpOTFRxX3U5b1d6U3pNTzlQU2NUMlpmaDJuWWZoaE52RGRzMnBGMG1halNFd2RIVm8wT1lSSElsTjJMMnFmcFBYNVRSQllzcHRIRDhicnQzdTN2d0NmWm1OWTZNSGhJb0pkSjJ6bG1IbmM4NUZN?oc=5",
-      "fonte": "Unisinos",
-      "publicado_em": "2026-07-22T18:05:23+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Projeto Guaíba consolida primeiro ano de pesquisas sobre os impactos geológicos das enchentes de 2024 Unisinos"
-    },
-    {
-      "id": "b51e7c330822",
-      "titulo": "Eldorado do Sul tem cota de atenção para Jacuí e Guaíba, com leve elevação",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSWQxZWlKMU8xaFItWFc3bnlFcTNkUklSVktrbE9tejFaVndXbmQwZHN4c3N0ejkyMG9xcXlMVEFBUlJFaS13SjZqbDJqaHMzWEhpM0paYnFvQnU2bmZJQkZrb09kT19USk56YU5kMm5pWTNvdS1jMzQzMFMtcy0wck1ZTDI5X2w4aXRIRGpaRnpUdFhGZHJST0ZRSnZGYm1INVNaLUE2bGxpMTM4ekxWYU5EN0tsWlJsQlNlaWJmRXJERmgwLTZsUHd3SExmTVdxbktfZi14bUFqUQ?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-07-22T16:56:14+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Eldorado do Sul tem cota de atenção para Jacuí e Guaíba, com leve elevação Jornal do Comércio"
-    },
-    {
-      "id": "8db6f7fa6e4a",
-      "titulo": "Defesa civil Rs diz que Guaíba deverá ficar próximo da cota de alerta",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeV9MYXBLNEdDWjh6bWRrNHZSeHdBbFR3M3UzWmNEa1hNaU52cDJEMWxIQmlQVTNZWTVTUHJKdEdwRGVIMEh6alN3SDRpVjcwUDJEa25FZUx0T2NTRFBZemxWalI2U1lPdmZ0ZDY2ZGV4aE5yQjdyd2ZtTElpeDZ5X2lfdzYzTWNUR2hNSXZVWnlWNm1lSENMbW9VVjdxWHh3dlpDUUd2ZWMwRjFFOVBQcEg2aGZ2elp0Tno1SVR3TlQ3ZnM?oc=5",
-      "fonte": "jornaltimoneiro.com.br",
-      "publicado_em": "2026-07-22T16:10:59+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Defesa civil Rs diz que Guaíba deverá ficar próximo da cota de alerta jornaltimoneiro.com.br"
     }
   ],
   "noticias_home": [
@@ -386,6 +386,16 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
       "id": "b9a5d813bc2a",
       "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
@@ -394,16 +404,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
-    },
-    {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "2127146cc672",
@@ -416,16 +416,6 @@
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
-    },
-    {
       "id": "cdfc5fa3a4a6",
       "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
       "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
@@ -436,14 +426,14 @@
       "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
-      "id": "15623efcf767",
-      "titulo": "Guaíba reforça monitoramento climático e entra em estado de alerta",
-      "url": "https://expansao.co/guaiba-reforca-monitoramento-climatico-e-entra-em-estado-de-alerta/",
-      "fonte": "Expansão",
-      "publicado_em": "2026-07-23T14:22:10+00:00",
-      "categoria": "Cidades",
-      "feed": "expansao_direto",
-      "resumo": "A Prefeitura de Guaíba intensificou o monitoramento das condições climáticas e hidrológicas do município e informou que a cidade entrou em estado de alerta a partir da quarta-feira (22) devido&#8230; O post Guaíba reforça monitoramento climático e entra em estado de alerta apareceu primeiro em…"
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "2d718370e81b",
@@ -454,6 +444,16 @@
       "categoria": "Geral",
       "feed": "sul21_direto",
       "resumo": "O Guaíba pode atingir cota de alerta de 2,50 metros no Cais Mauá entre a sexta-feira (24) e o sábado (25). Simulações hidrológicas desenvolvidas pelo Serviço Geológico do Brasil (SGB), pelo Instituto de Pesquisas Hidráulicas (IPH) e pela Catavento Meteorologia, apontam que o grande volume de chuva…"
+    },
+    {
+      "id": "891a0aa7c401",
+      "titulo": "Prefeitura de Porto Alegre suspende uso das quadras esportivas da Orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY0RTUHpQc3V6TlFxUDJxNmVvSmhxUktUSTVJTXBDYnhGTDI2amdsaTlqc0lScF96N3RaRWYweXZsQnNrb2xTMGl4Z0JhM3UtYmVMTmhMWjdYa0xOUFh6bGlPLVBZamU4NDhyU1NxZkY5NE1ldjBaRnRKRXAtdnFHenZFSDVlV1B2Sm9WMjFQMWsycVRMaVliZXZOblF6QTNFUHlfNXMyaS1NUFZHLUZ3RzhqQ3Itb0NnNjhiTFU1MHRpcWNwU3hOd0Q4TFJsajY2NC1sQnIzWGtYS2FhZWc?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-07-23T17:17:29+00:00",
+      "categoria": null,
+      "feed": "correio_metro",
+      "resumo": "Prefeitura de Porto Alegre suspende uso das quadras esportivas da Orla do Guaíba Correio do Povo"
     }
   ]
 }
