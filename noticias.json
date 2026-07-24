@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-24T21:01:51.771535+00:00",
+  "gerado_em": "2026-07-24T22:59:56.574136+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,14 +94,14 @@
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "b9a5d813bc2a",
@@ -114,14 +114,14 @@
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
       "id": "2a55db2c4fa4",
@@ -134,6 +134,16 @@
       "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+    },
+    {
       "id": "2127146cc672",
       "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
       "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
@@ -142,16 +152,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
       "id": "00fc8b5af7aa",
@@ -184,13 +184,33 @@
       "resumo": "No fim da tarde desta quinta-feira (23), o diretor-presidente do Departamento Municipal de Água e Esgotos (Dmae), Vicente Perrone, autorizou o fechamento preventivo das seis comportas do Sistema de Proteção contra Cheias do Município de Porto Alegre. O fechamento terá início às 12h desta…"
     },
     {
+      "id": "ce0ee9f6e7fe",
+      "titulo": "Guaíba sobe e aumenta risco de inundação nas ilhas no RS",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWpoM3czMmxkSmZtTmN1bXhieHZoYjdxQjFSSlRSVVpBZjRjZG8wcndlaU1RRTlVUlRfbHpENzBPX3lZZlZyeUtRbE4xZEtKWDAyZ3YyVmlIVWEyWGRpcm91OC1QQUpLbUs1ZXFoY1ItZ3V6TUc1WjFFa21ZbmNVLW8zMWdoYjEwMkxMR2piNFJhVUxLRm1UTFBScGVob0E?oc=5",
+      "fonte": "SBT News",
+      "publicado_em": "2026-07-24T22:40:45+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba sobe e aumenta risco de inundação nas ilhas no RS SBT News"
+    },
+    {
+      "id": "4fea71a1c885",
+      "titulo": "Rios acima da cota de inundação, Guaíba em elevação e Vale do Sinos em alerta; veja a situação do acúmulo de chuva no RS",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPN25veHNqQUZuR0dOVzhkY0hBQ3FHc2RMODkydjQwN0N3ZWdXUzctVnFiTnR4UU9MVkJmMGxXdFhac0NGRVJmWXZwTUlNWWtXdHNtbFdXNUdjRk1aSm1VdGExNmRJMHpHUEVoOENoc3MzLW83U3NPUGxraUpfQWZ5OUt0WFc2clNiOTI4dXdoeTI5ZVBhSm1DTXBMblZEVzdCa3Z1ZnN4NE1QdE1QVTQyaHlackJLamlqejJ0NkF5bzZDWlF6ZUh3cGVoTXJlcGpIeGlBaDZsaVRuRl9mSmxVTVVEd3NGWFdSWUsyTnM2aEYtOGdMdndEalFlMDAxWklPY1lZYnZpNVRLRmdGN0t3bFAxanh4RXFRcU9tbTNqTi1IQ2JFa25MN0pvWkl3SjBsMjFpNkVzSnBsZw?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-07-24T20:30:57+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Rios acima da cota de inundação, Guaíba em elevação e Vale do Sinos em alerta; veja a situação do acúmulo de chuva no RS GZH"
+    },
+    {
       "id": "f8958a64680a",
       "titulo": "Prefeitura constrói dique provisório para conter avanço do Guaíba na zona sul de Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRUkxclY1LU40dDBsRUZiM3Y3d1dqU0FQWDVfYlgxblkyNTVaQTF1eDBmblNMQzBXVjk0NUJTS1JON0RCaTh2RDJJX0xTNWNxaUdYUl9nRVhzZnk4QThXSE41SmhsNVVUMmx1eDJmMnJCNGlRUEt0NUV5d3lrOGpRLWtFaV82T1ZMdVF5OW1VU3RidTh0Ync5S21SVk9YNTduQzlTUFdpUFh4VTBIRGZVd1N5VW5BYXNIOTFtQXVXZ1FWamI1ZlowNkptcG8zeWdWNjc2S3J6QXlqUnJWT3dyRGpMZklINEdKemxOLV9JRzEyc05yRFNId2xTdjU5T1g1WkNMczNsVlE5MDIxMDg1SUdhWQ?oc=5",
       "fonte": "GZH",
-      "publicado_em": "2026-07-24T18:07:10+00:00",
+      "publicado_em": "2026-07-24T18:06:23+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Prefeitura constrói dique provisório para conter avanço do Guaíba na zona sul de Porto Alegre GZH"
     },
     {
@@ -210,7 +230,7 @@
       "fonte": "Correio do Povo",
       "publicado_em": "2026-07-24T17:27:15+00:00",
       "categoria": null,
-      "feed": "correio",
+      "feed": "google",
       "resumo": "Após cheia perder força no Vale do Taquari, atenção se volta para Jacuí, Sinos, Gravataí e Guaíba Correio do Povo"
     },
     {
@@ -232,16 +252,6 @@
       "categoria": null,
       "feed": "correio",
       "resumo": "Guaíba estabiliza na Ilha da Pintada nesta sexta-feira, mas pontos seguem alagados Correio do Povo"
-    },
-    {
-      "id": "06072f7ce8c2",
-      "titulo": "Sob influência do El Niño, Guaíba pode ultrapassar cota de alerta",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFR6Y00tTEJOeHlOdnVfMGJlOGdnNjdBY1M3MGduWVZ0RXk3dDdJaWd0SmZlLXNZck1kRkV6ckgwR05QX0hLdGR6X2g5UU1sdkZ4OGd6eFYzWlJqbFlMZkFOZnMzbEpfSHZKcUFUcGNnMGNfaTUzZngteVZiWVBwUzdMdUp0aFdaMlpqcktjVlhjNDhobmpZTUxDT0ppM3M?oc=5",
-      "fonte": "Metrópoles",
-      "publicado_em": "2026-07-24T16:43:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Sob influência do El Niño, Guaíba pode ultrapassar cota de alerta Metrópoles"
     },
     {
       "id": "ed28ef43c76e",
@@ -274,16 +284,6 @@
       "resumo": "Rios seguem acima da cota de inundação no RS; Guaíba continua em elevação e Defesa Civil mantém alerta SB News"
     },
     {
-      "id": "4fea71a1c885",
-      "titulo": "Rios acima da cota de inundação, Guaíba em elevação e Vale do Sinos em alerta; veja a situação do acúmulo de chuva no RS",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPN25veHNqQUZuR0dOVzhkY0hBQ3FHc2RMODkydjQwN0N3ZWdXUzctVnFiTnR4UU9MVkJmMGxXdFhac0NGRVJmWXZwTUlNWWtXdHNtbFdXNUdjRk1aSm1VdGExNmRJMHpHUEVoOENoc3MzLW83U3NPUGxraUpfQWZ5OUt0WFc2clNiOTI4dXdoeTI5ZVBhSm1DTXBMblZEVzdCa3Z1ZnN4NE1QdE1QVTQyaHlackJLamlqejJ0NkF5bzZDWlF6ZUh3cGVoTXJlcGpIeGlBaDZsaVRuRl9mSmxVTVVEd3NGWFdSWUsyTnM2aEYtOGdMdndEalFlMDAxWklPY1lZYnZpNVRLRmdGN0t3bFAxanh4RXFRcU9tbTNqTi1IQ2JFa25MN0pvWkl3SjBsMjFpNkVzSnBsZw?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-07-24T13:05:44+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Rios acima da cota de inundação, Guaíba em elevação e Vale do Sinos em alerta; veja a situação do acúmulo de chuva no RS GZH"
-    },
-    {
       "id": "5994367e5e3c",
       "titulo": "Chuva no RS afeta 206 cidades; elevação do Guaíba causa alerta de inundação",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0pIeDdXdzc5V1ZMTC1vQUpFclVYQU8tcEYxSzJhelEyZUhhY2ZaYms5VmY3eUxjTWtlZzdwQWFQYTlyMXdaSjBIRERnUHhPUnd6QzlWdlNBWnQ3aWN0cFA3empweVU5aWlBMmZPZnRadm9DQTY2bjBhREl4akJKTGpwTVhYUDRxU2k2MFlOa3YzWnZzN2tLVnhFUWc2dw?oc=5",
@@ -298,20 +298,10 @@
       "titulo": "Parque à beira do Guaíba inaugura quadras de vôlei de areia, beach tênis e futevôlei",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPeUpwNV9ZYkgxNUluT3NYSG9iRENiR0ktM3lFWGRBTVFEbmMtdzNmRnoyYlpoTXdfNE9FeWtuMlFrRG5SbS1OUkoycnlYV2I5NXUwdUVGX1VYZGdfeGVDODVfOWo0Z2NxNWc1MHVMaTFwTGhmSnFLMUIxN0VaLWYyOWNhcTZGLTRlTDBwZzlURFVlRm1uT3cwLXBXVUJNTnM5YnRQMDc1RWtwc0lMUFhka1JnVjlOR2l6VFhfUWY4VEtJYXVMRlVRNW5GSmExaVlxdjF5S0VOYmI4SjBtVUtMSGV0UjZvbTB4N3p3MlRHUTdlTzJKRVctZEM3X1BfVXlvMXlrT1didDRyNElOVEo2bnUzTkRMUQ?oc=5",
       "fonte": "GZH",
-      "publicado_em": "2026-07-24T13:00:44+00:00",
+      "publicado_em": "2026-07-24T12:59:47+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "Parque à beira do Guaíba inaugura quadras de vôlei de areia, beach tênis e futevôlei GZH"
-    },
-    {
-      "id": "5bdad65be718",
-      "titulo": "Guaíba entra em cheia pela primeira vez neste Super El Niño; confira a previsão para os próximos dias",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa1VWNUw1MlhPS1BYdHhYYV9EZXMzNTZvWVpKSTk3ajU4aXNxT3NqNlRsdDA4R1FHMUpPOUhWRG5yWEZ6alMtV0hQWGRINTNCaUxXZy1XOGstYzBGZS1TaTl0bHAyd2lmeEQ0TjFWM3l2RzhFSHJVT2dOZ2tlV2NzVzFMaWJTNDBQQ0VSSGNyY1FjQzFGYkNCNGtWWWp3ei1vTEZSckpmTHpTNDdKbVByS2g1aGRrN0R1aGsxVW1sWG8yMXJYaVJ4bTUxZk5zTWYweFFTM1lUdHNia3gwSkhCOXhVZ28?oc=5",
-      "fonte": "abcmais.com",
-      "publicado_em": "2026-07-24T12:55:23+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba entra em cheia pela primeira vez neste Super El Niño; confira a previsão para os próximos dias abcmais.com"
     },
     {
       "id": "5df6f03bec64",
@@ -372,6 +362,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Travessia do catamarã entre Porto Alegre e Guaíba está suspensa devido ao excesso de detritos no Guaíba radiocaicara.com.br"
+    },
+    {
+      "id": "c9f6157e8062",
+      "titulo": "Rios acima da cota de inundação em oito municípios, Guaíba em elevação e Vale do Sinos em alerta; veja a situação do acúmulo de chuva no RS",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPTnU1aS1kcVNIQTV3bklNRGVVbGZ6cjhKOHlJYVNFZkdfbmQ0c3VZZk1nTUVydW1PbE5WU09aQ25mOFNmNS1rem5jVUk2blVwRDdxSDNGLTk2czV3bHRhbjB4MHZULVA3NGQ4TG4ycnpyd0xLSXlVdGFTTWNHa0VreFZBd3ZJVDFFZVRUa0JwY0k4YzA2dEtWTEstejV6ODhFNjdFTlJFQncySnU5dXRPd3NGS09RS3Bmcy1sM2todXliSmpXMVBVeXFFeGVpV2RqSnNUV1FLb0Faa0tIMnExZHZwVkRkTkNFekhpUjMtT3NBbG83WERtSXpGMC0ySEYtaS1YTFlIUUFfaFZNbTVqeng0UGFQbTRpd0RaR3VDa0ZyQk5CLUJGeTNESHktYXMtQ0JrcnIxekp0WXRDdXc?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-07-24T10:41:15+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Rios acima da cota de inundação em oito municípios, Guaíba em elevação e Vale do Sinos em alerta; veja a situação do acúmulo de chuva no RS GZH"
     }
   ],
   "noticias_home": [
@@ -396,14 +396,14 @@
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "b9a5d813bc2a",
@@ -416,14 +416,14 @@
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
       "id": "2a55db2c4fa4",
@@ -436,6 +436,16 @@
       "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+    },
+    {
       "id": "2127146cc672",
       "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
       "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
@@ -444,16 +454,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     }
   ]
 }
