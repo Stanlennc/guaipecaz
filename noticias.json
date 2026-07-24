@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-24T15:25:05.866110+00:00",
+  "gerado_em": "2026-07-24T17:30:00.429368+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "fb0a0f3cbc0f",
-      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
-      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-24T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
-    },
-    {
       "id": "5c9a14de8bb3",
       "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
@@ -92,6 +82,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+    },
+    {
+      "id": "fb0a0f3cbc0f",
+      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
+      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-24T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
       "id": "16fe33979805",
@@ -151,7 +151,7 @@
       "publicado_em": "2026-07-24T14:53:55+00:00",
       "categoria": "Geral",
       "feed": "sul21_direto",
-      "resumo": "Após dois dias acima da cota de inundação, o Rio Taquari começa a baixar. Embora o nível da água ainda exija monitoramento e mantenha o alerta, a redução permite a retomada da circulação entre os municípios do Vale. Em Lajeado, uma das cidades mais afetadas, o nível do rio baixou quase 25 metros,…"
+      "resumo": "Após dois dias acima da cota de inundação, o Rio Taquari começa a baixar. Embora o nível da água ainda exija monitoramento e mantenha o alerta, a redução permite a retomada da circulação entre os municípios do Vale. Em Lajeado, uma das cidades mais afetadas, o nível do rio chegou a quase 25 metros…"
     },
     {
       "id": "524a4890634a",
@@ -164,14 +164,34 @@
       "resumo": "No fim da tarde desta quinta-feira (23), o diretor-presidente do Departamento Municipal de Água e Esgotos (Dmae), Vicente Perrone, autorizou o fechamento preventivo das seis comportas do Sistema de Proteção contra Cheias do Município de Porto Alegre. O fechamento terá início às 12h desta…"
     },
     {
-      "id": "8f7f74858b8c",
-      "titulo": "Prefeitura de Guaíba lança plataforma de monitoramento climático em tempo real",
-      "url": "https://expansao.co/prefeitura-de-guaiba-lanca-plataforma-de-monitoramento-climatico-em-tempo-real/",
-      "fonte": "Expansão",
-      "publicado_em": "2026-07-23T17:57:24+00:00",
-      "categoria": "Cidades",
-      "feed": "expansao_direto",
-      "resumo": "A Prefeitura de Guaíba divulgou um canal oficial para monitoramento climático em tempo real nesta quinta-feira (23). A plataforma permite que a população acompanhe, durante 24 horas por dia, as&#8230; O post Prefeitura de Guaíba lança plataforma de monitoramento climático em tempo real apareceu…"
+      "id": "6e934d4d4062",
+      "titulo": "Ilhas do Guaíba são monitoradas e água invadem casas no Rio Grande do Sul",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNVBrRWgtR3NnZG83ZHdrWVdlal85VmVFWXFRVFVOS3ExOGc1bk41REJualBHU1N1OEgzajZ0d3NseTJCQ0NsSmhwY2IxOS1UZ1dNSXpXeDM4WGNjY0hQYjllZ3RPZ1poZnBBVGxtT3ptYkczRjZ5WWhRZ2R5X1ZoampZVHkyc21XaEdOY25KQUN0VW5pLXRUdnVDWHFxOFBDZXhVWTBvbkJOT3hNWndRLWFwckhZNnJKY2d4azlkeXpHTUs2ZG5HOQ?oc=5",
+      "fonte": "band.com.br",
+      "publicado_em": "2026-07-24T17:12:12+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Ilhas do Guaíba são monitoradas e água invadem casas no Rio Grande do Sul band.com.br"
+    },
+    {
+      "id": "1197be502cc7",
+      "titulo": "Guaíba estabiliza na Ilha da Pintada nesta sexta-feira, mas pontos seguem alagados",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVEFaVlQ5LUt6eDlRR2hRY3RERTFfYmlhVzNzQlhTSjFYM0pKMjFtbWRZMzAyYnRjMmRiaENmc1RqQTJVdVJ3VHJxc3NsUjl6djRVbWRTY2VlUzhFdGFhbnF4RTNHRjBIakF3ZjBQSjBmZmFoeVMtanN2dnFNZDMzT0xaOHRaakc3T051U2F1R3FOblh3SFBkUTUxZWJBUEczckdqdnFUTnNINzZwVGpyVEptV21MV3FSZE0wcVRCZWNoeGtuN3RwVnFmbXRvejJCbWpVTEYwR1FmSHJ0MnJF?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-07-24T16:43:14+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Guaíba estabiliza na Ilha da Pintada nesta sexta-feira, mas pontos seguem alagados Correio do Povo"
+    },
+    {
+      "id": "06072f7ce8c2",
+      "titulo": "Sob influência do El Niño, Guaíba pode ultrapassar cota de alerta",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFR6Y00tTEJOeHlOdnVfMGJlOGdnNjdBY1M3MGduWVZ0RXk3dDdJaWd0SmZlLXNZck1kRkV6ckgwR05QX0hLdGR6X2g5UU1sdkZ4OGd6eFYzWlJqbFlMZkFOZnMzbEpfSHZKcUFUcGNnMGNfaTUzZngteVZiWVBwUzdMdUp0aFdaMlpqcktjVlhjNDhobmpZTUxDT0ppM3M?oc=5",
+      "fonte": "Metrópoles",
+      "publicado_em": "2026-07-24T16:43:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Sob influência do El Niño, Guaíba pode ultrapassar cota de alerta Metrópoles"
     },
     {
       "id": "e0928d17f048",
@@ -254,9 +274,9 @@
       "resumo": "Orla do Guaíba se consolida como referência na América Latina após ciclo de investimentos radiocaicara.com.br"
     },
     {
-      "id": "78ee650f807e",
+      "id": "09da6d6d8619",
       "titulo": "Após cheia perder força no Vale do Taquari, atenção se volta para Jacuí, Sinos, Gravataí e Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOFJjUXRtbkV1c0I1U29tcE96cGhJNlBHMGlNc1BfTEx2Vnc3Z2ZkWFY2akRZcHc2TmhQdHhtZ01pQ2lxa01zdll0MTFKemJ5TFFVOTVpejVENEk2elh3WVhQMTNyNXZHN2wteFZsUmlkMFpvXzFaZ25qUnZiM0p0aTI5TDdCVkx6U01uUmJtUHkzSGtKNUpiUXgtSkZrbEdxUmVEVHdKMVdrU2prSmwzanRJRi1qNFdhdUlja1RLdXMwWFNwWnU2TGlHQ2pTeWhlOG8wc1pGYzl0TThyc2F1ZjctTUQtTXJxbVBXekJJcG4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY2M0bjMySjFneHVJSS0yNDNyNGlQZUZtMVl5SThZMGlIa1ZWY1A3eVdoU0JXaURnS29MTzVDbFhEY3VfekhiRFdLbC1sclZmdnlCY3VhY2RNb2RCS2c3Z0ctSER5dkh3MXVLeWttcEFmUktmVnN2aUswRHBXZUIzbWdxTGdoZTdVMzFGMDBwVmhOSGRwMlB4MWV0QkFPV2FQbExueGdYaXByLVVTM0ZHalBYRVE1TUM4azlnbVpyNklFMHAxcUNvR3MtTmNldkc0UzNLVW5VZnpMcUQtXzVsa0toSDNCcnc2VjBFMnlLcGxUdWg5VW13?oc=5",
       "fonte": "Correio do Povo",
       "publicado_em": "2026-07-24T12:13:06+00:00",
       "categoria": null,
@@ -352,39 +372,9 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Águas avançam na Região das Ilhas e Guaíba deve chegar a 2,70 m neste sábado Jornal do Comércio"
-    },
-    {
-      "id": "483d750f4854",
-      "titulo": "Guaíba sobe para 1,96 metro no Cais Mauá",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHdVNHZHSFAwTC12eXVUSURMeFpCempOaUdmQ0RscUJTSFdyTm1rdndQY1k5RWk2NklEd3luX1BEdE5yemlVZDRVTUwteUxsYndMbDRHdUhwb3dGLTVRbkhjUmdzSjRnenRiWllTT2FKRU14R2VVNVhQNGdKODJCS1lR?oc=5",
-      "fonte": "Agora RS",
-      "publicado_em": "2026-07-23T21:36:20+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba sobe para 1,96 metro no Cais Mauá Agora RS"
-    },
-    {
-      "id": "189b85599ae2",
-      "titulo": "ATENÇÃO, ALERTA e INUNDAÇÃO: as COTAS do GUAÍBA e o que esperar para os próximos dias | Gaúcha+",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWlh4dGZKeEV1TmU4MWVVdXhEa1RXRUxQQVp4eDc5M2k5WWNBTmE0bW5ocU5lSHdXOWNWWGNTTjRpT2lwRTNMeGpySTZxTjYtYXd0eGk1cUs5WTltNnBFel9sMml2RkI3M0JCRFFnWVFmWEpFYWhhMWl1UmJacTloUjlKU1ZzaHJ6T2VseG5SbXViSzhmRjBrMzhqYnZONVhwYVRRXzRXTEN6NkM5TjVSN1o1S3p2ZUwwcDJtQkg4MExfeGEzUWNNdDNuWXRmQUM4Q09OR1BjSlRheUtJakhFSHdTT21DSnZjRDZ1TXhCT3o?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-07-23T21:04:54+00:00",
-      "categoria": null,
-      "feed": "gzh_metro",
-      "resumo": "ATENÇÃO, ALERTA e INUNDAÇÃO: as COTAS do GUAÍBA e o que esperar para os próximos dias | Gaúcha+ GZH"
     }
   ],
   "noticias_home": [
-    {
-      "id": "fb0a0f3cbc0f",
-      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
-      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-24T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
-    },
     {
       "id": "5c9a14de8bb3",
       "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
@@ -394,6 +384,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+    },
+    {
+      "id": "fb0a0f3cbc0f",
+      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
+      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-24T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
       "id": "16fe33979805",
@@ -453,7 +453,7 @@
       "publicado_em": "2026-07-24T14:53:55+00:00",
       "categoria": "Geral",
       "feed": "sul21_direto",
-      "resumo": "Após dois dias acima da cota de inundação, o Rio Taquari começa a baixar. Embora o nível da água ainda exija monitoramento e mantenha o alerta, a redução permite a retomada da circulação entre os municípios do Vale. Em Lajeado, uma das cidades mais afetadas, o nível do rio baixou quase 25 metros,…"
+      "resumo": "Após dois dias acima da cota de inundação, o Rio Taquari começa a baixar. Embora o nível da água ainda exija monitoramento e mantenha o alerta, a redução permite a retomada da circulação entre os municípios do Vale. Em Lajeado, uma das cidades mais afetadas, o nível do rio chegou a quase 25 metros…"
     }
   ]
 }
