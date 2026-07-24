@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-23T22:55:15.275108+00:00",
+  "gerado_em": "2026-07-24T02:32:53.499029+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,16 +94,6 @@
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
       "id": "cdfc5fa3a4a6",
       "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
       "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
@@ -112,6 +102,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+    },
+    {
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
+    },
+    {
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
       "id": "16fe33979805",
@@ -134,16 +144,6 @@
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
-    },
-    {
       "id": "8f7f74858b8c",
       "titulo": "Prefeitura de Guaíba lança plataforma de monitoramento climático em tempo real",
       "url": "https://expansao.co/prefeitura-de-guaiba-lanca-plataforma-de-monitoramento-climatico-em-tempo-real/",
@@ -152,6 +152,56 @@
       "categoria": "Cidades",
       "feed": "expansao_direto",
       "resumo": "A Prefeitura de Guaíba divulgou um canal oficial para monitoramento climático em tempo real nesta quinta-feira (23). A plataforma permite que a população acompanhe, durante 24 horas por dia, as&#8230; O post Prefeitura de Guaíba lança plataforma de monitoramento climático em tempo real apareceu…"
+    },
+    {
+      "id": "6f6391ab4032",
+      "titulo": "Águas avançam na Região das Ilhas e Guaíba deve chegar a 2,70 m neste sábado",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcHhVUlRLUTNxNG1hY0QtalBoRU9xeFRickJLX0lwRE1jbFBRc1JjSGUwQTlEUXNyU3ZYWTBld1c0Q2NSaW5XRkdobGJacjVRcW14UzdrbE5mTGVIaUwzTnlZczA0R205YlVENmVjU19ZNDhkZVg2LU9fdVdRakh5aHhiUmdoVFdQMXNPYm1IYkVvbHJmY0x3ZTNES3JkQ0U5NV9SME9iZ1EwemdPSjA2T0xNelItX2V5bEVMR1A5Q2hwb2V1Vl9ybExhUzFZdXA0SldFZkN0QjMtRnMtVGltMQ?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-07-24T01:18:26+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Águas avançam na Região das Ilhas e Guaíba deve chegar a 2,70 m neste sábado Jornal do Comércio"
+    },
+    {
+      "id": "78f23272cea4",
+      "titulo": "Guaíba pode atingir cota de alerta de 2,50 metros, em Porto Alegre, entre esta sexta e o sábado",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHB1TENxc2c1WDlXN1FMMXM1MjltS21vUUN2bTBkbjItbUJkeDIwSXhTaVNLRnFNY2JBVkRWbGJTT3ROSmZ5b2d3VTZHZWtxRFZjRGxsUEFabWRXMTNWcjRZekVCOVN6cV9WVXNRRVV6QUpBQnJ3bEZUOVpuOUN1bmlBbzd1R09KS3R5bWhqWldMdHZ1VXFYb2NhYVdQSGJOczk0OHZVbTFTdUJNbm1zTHZCRkpSdw?oc=5",
+      "fonte": "O Sepeense",
+      "publicado_em": "2026-07-23T23:59:42+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba pode atingir cota de alerta de 2,50 metros, em Porto Alegre, entre esta sexta e o sábado O Sepeense"
+    },
+    {
+      "id": "7dc323fe4608",
+      "titulo": "Prefeitura de Guaíba lança plataforma para monitoramento do clima e do nível do lago em tempo real",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU2RvSmtlamd0V2pwbTMwRG5taUhlOUxBLUVVTTlMTGZSeVc5M0VZcGVBb3lSQkJLSjhLUmJMblJucFVhaFdUOG5XaHlfOFVMNUZ6N2tQUl9rc2RnLTFJZEJ3LUhCSS1RbWZ4am0zRS1CQTctSVFobGNBNFdqOHNmSnVDT2FvS005RXBhdWVrQjkwaTVkMTRsT1dhblJIbklpclg2ODNZRHhNME5wZFFFRXkweDZ2TTJKeVlOQlVWYWlfWm53R2NxTjZWOA?oc=5",
+      "fonte": "radiocaicara.com.br",
+      "publicado_em": "2026-07-23T23:33:17+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Prefeitura de Guaíba lança plataforma para monitoramento do clima e do nível do lago em tempo real radiocaicara.com.br"
+    },
+    {
+      "id": "04782f5502e3",
+      "titulo": "Chuvas recuam, mas rios em alta mantêm alerta de inundação no Guaíba e no interior do RS",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNaldNa095a0hEX2lDZ09tLVZOb0R4RE1iSDJnWTRCaTdBY3VCeFlkQlE1QUpHTHU2MUJ4eFFWOW1wNk1RUlBrV2ppUEg3UXFDZ2hxMjBuQXJWa2R6UlVuTVpIcHVMYlhKV0QxakgwQ2hRcTdia2NtWkw2QUk5NGZNdmgyOUVZVnFWNkRiUnFXTno0dnpRdmJJUTE4c0VCR3VKd2JYQ0U3OGtLdVlrNE5FZUpEeDYyazlhQUNMdTNvMU9scFU3d3FpRE4wQy1XRnZfeW9zNEZMTUpYTGljV1hnYWUxU05nd0dYbTVUUlFVSVNhMVdFa0IzMmRTbUNCUXBLRlE?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-07-23T23:28:51+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Chuvas recuam, mas rios em alta mantêm alerta de inundação no Guaíba e no interior do RS GZH"
+    },
+    {
+      "id": "0ec661eed748",
+      "titulo": "Prefeitura bloqueia entrada de água do Guaíba para bueiros na zona sul de Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYk1lMFZEU1NLZHZJM1RWMzN4UjFaU1hoeXVILWVibzdCUEJCUV9McFhwYkV4UEhmVHhTOURScDk4TkJwemtmQTQtUzdPQjJDdllZMU5namZGRmZwTEtKa0JqMV9oQmZjZDI5a2g3cmxSRkpmMG1zR3FOc2tPY25nX2Vsay13clUyN1hNN0V2YTh2NElKZGtGZ0hxMmh6Q2dDNTVZT0kyd2FiYk93Y1luSmlmVkFyai1CLWVXa2xQV2Ytb0hBbkhpT0tFYlZTd1UxRGw2RUlwLW8tNXdEdnJUUk5hejJuVVlnaUdkUE41NDY0elMyNVBpbFRBbWNtTEtJU2ZkdjNrLUh2UQ?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-07-23T23:04:30+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Prefeitura bloqueia entrada de água do Guaíba para bueiros na zona sul de Porto Alegre GZH"
     },
     {
       "id": "483d750f4854",
@@ -210,8 +260,18 @@
       "fonte": "Correio do Povo",
       "publicado_em": "2026-07-23T20:21:49+00:00",
       "categoria": null,
-      "feed": "correio",
+      "feed": "correio_metro",
       "resumo": "Guaíba passa da cota de atenção em Porto Alegre e pode chegar a 2,70 metros no sábado Correio do Povo"
+    },
+    {
+      "id": "eadaa57e996e",
+      "titulo": "Guaíba passa da cota de atenção em Porto Alegre e deve chegar a 2,70 metros no sábado",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaHhKVmhxYno5Sng0ZXo3MmVfdjFLZWdnV0lRMEhNRlpEaGZhQUN6VVgyNlVWZThUeGRfMEhvSFNTOF9ZdWpGckZzNkE0U3JmRERUNDczMW1rZzF4SEJ4eFpaVE9xaUZRbzJqbmVCR3BJZ0lmNHh2LVFOYWFjUjI2TFVfeVFhTF81Yng1REtwXzBMS3hvcnZmN1VmRUFRNFZueUlDOUozanpjNURxQ3JLTnlMTC1POXBtcWs5VTdsS1lDNmQtYUhmaGVKek9ySmM1U2wtM183ZUwtNEFFLTNvVURjVQ?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-07-23T20:18:56+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Guaíba passa da cota de atenção em Porto Alegre e deve chegar a 2,70 metros no sábado Correio do Povo"
     },
     {
       "id": "d1ca8f120e50",
@@ -228,7 +288,7 @@
       "titulo": "CatSul suspenderá operações do Catamarã por excesso de entulhos no Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNXplV2dlREhjdml6MFFUS0VlQy0xLTNqSlpfcS1nUjIxTWt5YmlVMjJlY3JseXpTU1BDd3Z0Q2lnazBMY2I3WFk3LXM0cEo4Tk45enNVV0VlcGdpTWtzNVlEWVlsU1FBV2w4aE1VOTA1UThaTFRoOUsxY2UwZDZMd3pUd1VmRExUNnMxckFXOEtHYVEwY2RnYnFhY2FBdkZHWmpBQ3NsN1RsdTNKN0liLW1Hb19vS0JtV0xYNEd5VHF0N1NzRDdpYlBTcHBVVFlqcENKeA?oc=5",
       "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-23T19:28:05+00:00",
+      "publicado_em": "2026-07-23T19:36:49+00:00",
       "categoria": null,
       "feed": "correio",
       "resumo": "CatSul suspenderá operações do Catamarã por excesso de entulhos no Guaíba Correio do Povo"
@@ -262,6 +322,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "\"Negligência é escolha\": faixas na Orla do Guaíba chamam a atenção para a vulnerabilidade das pessoas em eventos extremos GZH"
+    },
+    {
+      "id": "75f628cef7fb",
+      "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 41",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNYkhQMUowQVBoMGFLZmhzWElyNUJKVGtqeldsZkdJbFFQQWR5QVZ0UjY3SG1uQ2dMVE9ZYnlBd0s1SUNuWFV1ZXdoQ2tsNzRPWFVXUFlMc2FQdDlBSzB5bGN4cjRWcFJnSEhtN3JhTl9VdU1UVEpQWlFtX1gySHhjU25QaEVQVEpTT3Y1dVcwZGIzbVNJdFgzc25rODFGOEVKMm1zMGZITzdvTk9rM2R2NUtNWm9nZUpuWElEM0daRl9GRFZRalJtMTAtbGl6QmdTXzY3ZFNfYzZwMGhNaVpGNkhqeERwbVJZVGNTMDFTRkh2WHhuSVQ2UEtUcGdNME16Tm0tWlcwY194N2FfVWpyZlNmZktiMXlXSGxUeFpLMFF4eWhKZXNWSGREa1Budmc?oc=5",
+      "fonte": "ArchDaily",
+      "publicado_em": "2026-07-23T18:19:50+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 41 ArchDaily"
     },
     {
       "id": "60802bb46134",
@@ -302,76 +372,6 @@
       "categoria": null,
       "feed": "correio",
       "resumo": "Prefeitura suspende uso das quadras esportivas da Orla do Guaíba Correio do Povo"
-    },
-    {
-      "id": "43832172ead3",
-      "titulo": "Porto Alegre emite alerta para risco de elevação do Guaíba em áreas ribeirinhas",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTnozSDdYaHZxOW5TUDhZV1ZpRXZMb1JXSnlUbEk2RmVoRk5UZEF3MWh5enhUc09OcUgycnN5M3NmZmpubzJoT0ExYVJCRk02cFBhTWZvc09ydmNaR2ZUczB0aEFCcGdZSm1ZQjJCYVRsakZtMGU5VmF4WldvU3hBSDNZNWdWYWFHRS1yUXpQdVRIRkZwM3RLbkRQYmFLVU9RdF84clJKSmdiTS1QR3dMSVlyUzZmel9CbVdRNlpLbG5WY0J6UFEzNnZKUXhGYzJ5dUVBUjcxTUlMYy10NnJBTEJIRlE2MWczMm1adk5ITVo?oc=5",
-      "fonte": "Terra",
-      "publicado_em": "2026-07-23T16:47:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Porto Alegre emite alerta para risco de elevação do Guaíba em áreas ribeirinhas Terra"
-    },
-    {
-      "id": "cba9c33b0630",
-      "titulo": "Justiça homologa Zoneamento do Lago Guaíba: uma vitória da persistência e do equilíbrio",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2drTkYxbmd0MTBZS2d5TUpNZW1nSnNXQmk1RVhsLVFUNE1raWg3OVZTbWw0cjM3SGw5V0llS2s2b0cyZno1UXdpZmVWa0Z2Q2tTVFhLeTh5M0FfM2h0Nm9NTG00UGVjSUJVQmVadVk4ZU4xdTJ3dXZEVFFfdlJTYU93aHV0MHF2ZksyM1pfRndlVzNZaTREdGtwNWRQNnd5cnUwYWJNeHc5ZjRjcTQ1T2Zhc29DRTJLZWdZ?oc=5",
-      "fonte": "Notícias da Aldeia",
-      "publicado_em": "2026-07-23T16:13:50+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Justiça homologa Zoneamento do Lago Guaíba: uma vitória da persistência e do equilíbrio Notícias da Aldeia"
-    },
-    {
-      "id": "7acf79d211fa",
-      "titulo": "Guaíba avança durante a madrugada e alaga rua na Ilha da Pintada",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNDJsT2ptWnQ1QTNiZkxtNEx2OG5KY0pwa3RvcjJPem8zdHQ0MUNDTkNRbVJuRGgyTmdMcjQtNGR6VFc1RndOcmZFY0xOeWhZUXA2X3BoOFRLRGJUZWVJeW0wcmNjczJsdlJCMFc3YUlQdzhzMXlVeGptaUpYUW5acVZHTi0xb3ZSMjRPMmkxaG5jdW5mVm1BNUdnWmRJYWI4YWRBMl9faG9WTUNjb2JyV2ZNR1FuRWs5ZGJTNmlXcXNNaXZ1b3hKeQ?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-23T15:46:24+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Guaíba avança durante a madrugada e alaga rua na Ilha da Pintada Correio do Povo"
-    },
-    {
-      "id": "d5f1d935db5f",
-      "titulo": "Guaíba já subiu? Veja o nível dos rios do RS após período de chuvas e quais já estão em alerta",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ2x3QUhoRUtSSTR3eFlxeER4aUdRYUJYVTM0X1hDUTJqS1ota3E3UTJNdmY5MmRTSnJrbkFQWDV2YnVHSG0xX3labGlEeWg0SW1hUFRJUTB1bXhOWEtwYWtPX2FGVl9ybEJHbERET3VvaG1fUkFmLUZTRWVvb0xQcFo4NjJucU1lYm1WbzNYbk9UQ1Nna2kzLVlrMTRoUzJJLWlTYnJoVHU0enhBMERqWTdqa2lzWl9jRlh6dGpjVVBNWHdVbzRR?oc=5",
-      "fonte": "Agência GBC",
-      "publicado_em": "2026-07-23T15:04:38+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba já subiu? Veja o nível dos rios do RS após período de chuvas e quais já estão em alerta Agência GBC"
-    },
-    {
-      "id": "9062a7511c8a",
-      "titulo": "Porto Alegre (RS) emite alerta de cheias e Lago Guaíba pode chegar à cota de inundação",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wX29oQ3RIR2x0cXJ4UkVvQ2pWRF8xSzg5cTFCUXNHeTVBTEFWUV9XSjhXMkRHelNQN21sZG9rc1l2by02V1pySXh0S1FVOFhxRVF3cW1mSjhyUUt3elBmQW1ieXNmSVk1WFlDWGRVeEZsVG1EdUlybUN3?oc=5",
-      "fonte": "tmc.com.br",
-      "publicado_em": "2026-07-23T14:55:35+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Porto Alegre (RS) emite alerta de cheias e Lago Guaíba pode chegar à cota de inundação tmc.com.br"
-    },
-    {
-      "id": "a0322d07f639",
-      "titulo": "Subida do Guaíba prevista para o fim de semana põe áreas ribeirinhas de Porto Alegre em alerta",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV2F2MkR2MW5kZ0R0cjBhcGZXZ2g5TmZJSENLTUJNTFlyanJoVk5KLV96a20yM1JfR3lFQXlmQk42aUtEZVJhRDJvTzBlUTVNQ3pJNm42bmV1S0tmWGtLQ0xIX2lVdG1GdFhWS182UXhSVDFBTHh3R3RDR204Rm50cVVYa1J0MkpNcFpGaUNVblpaZG9PZ2w4czNpUjRFS0pOMGluZUhQQ3JOSDNKbGdDRnc5aEQ5dmVHM0x3Vm94ZnRLX1l0TFZWVG9mdEdONERLYm9meA?oc=5",
-      "fonte": "Brasil de Fato",
-      "publicado_em": "2026-07-23T14:46:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Subida do Guaíba prevista para o fim de semana põe áreas ribeirinhas de Porto Alegre em alerta Brasil de Fato"
-    },
-    {
-      "id": "cfb8da5c5d3a",
-      "titulo": "Guaíba reforça monitoramento climático e entra em estado de alerta",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0FzRDZPQlFFaFFqV1RnbnVGZUxKWF9qVnU3dVgxOXF6ZlVPUVBlcnVWRzdFc2lRYW5PdzVuQzZLNDNsXzhsSzFJaWpES2p0aEZXVF96S0xRNFpkQjlZcjAzaDVQT29KY1N0LXZjeHFTT19vRmQ3c2V2QlZvQ3JTQkNvazNpZXpyV0o2NnNSU0g?oc=5",
-      "fonte": "expansao.co",
-      "publicado_em": "2026-07-23T14:22:10+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba reforça monitoramento climático e entra em estado de alerta expansao.co"
     }
   ],
   "noticias_home": [
@@ -396,16 +396,6 @@
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
       "id": "cdfc5fa3a4a6",
       "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
       "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
@@ -414,6 +404,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+    },
+    {
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
+    },
+    {
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
       "id": "16fe33979805",
@@ -434,16 +444,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
-    },
-    {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "8f7f74858b8c",
