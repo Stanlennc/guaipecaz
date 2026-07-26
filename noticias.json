@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-26T19:08:17.408269+00:00",
+  "gerado_em": "2026-07-26T20:56:23.211030+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "5c9a14de8bb3",
-      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-26T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
-    {
       "id": "fb0a0f3cbc0f",
       "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
       "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
@@ -94,6 +84,26 @@
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
+      "id": "5c9a14de8bb3",
+      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-26T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+    },
+    {
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+    },
+    {
       "id": "2127146cc672",
       "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
       "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
@@ -102,6 +112,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "b9a5d813bc2a",
@@ -122,26 +142,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
-    },
-    {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
-    },
-    {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
       "id": "cdfc5fa3a4a6",
@@ -172,6 +172,16 @@
       "categoria": "G1",
       "feed": "g1_rs",
       "resumo": "Troncos e destroços levados pelas fortes chuvas invadem praia no RS A travessia de Catamarã entre Porto Alegre e Guaíba, na Região Metropolitana, está suspensa desde o fim da tarde de quinta-feira (23) devido ao grande volume de troncos, madeiras e entulhos que flutuam no lago Guaíba após as fortes…"
+    },
+    {
+      "id": "8231f4404ec3",
+      "titulo": "VÍDEO: Acúmulo de troncos invadiu a Praia da Alegria, em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTFFYmh3VEp2dG9oSlM1UTk1NjFsUW1jTkVudkNwZVk1TXlONTFFX1FscWRYVXNqWnljQW9NQ2VhdjN0VFkyb3FFSEpocW1uQWhuQ25kbnJCYjdNQVBOUXlkZjFSMG9CZE5HSGJMd3pUemUwWDA0a0t1QUgtc3l4ckRkLUROWXhTMFhXbk9ycnZnRWNIQ2VZ?oc=5",
+      "fonte": "abcmais.com",
+      "publicado_em": "2026-07-26T19:42:15+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "VÍDEO: Acúmulo de troncos invadiu a Praia da Alegria, em Guaíba abcmais.com"
     },
     {
       "id": "951bfef2bd1d",
@@ -362,29 +372,9 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Defesa Civil emite alerta vermelho de inundação para o Guaíba e Rio Uruguai nesta sexta (24) abcmais.com"
-    },
-    {
-      "id": "78ee650f807e",
-      "titulo": "Após cheia perder força no Vale do Taquari, atenção se volta para Jacuí, Sinos, Gravataí e Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOFJjUXRtbkV1c0I1U29tcE96cGhJNlBHMGlNc1BfTEx2Vnc3Z2ZkWFY2akRZcHc2TmhQdHhtZ01pQ2lxa01zdll0MTFKemJ5TFFVOTVpejVENEk2elh3WVhQMTNyNXZHN2wteFZsUmlkMFpvXzFaZ25qUnZiM0p0aTI5TDdCVkx6U01uUmJtUHkzSGtKNUpiUXgtSkZrbEdxUmVEVHdKMVdrU2prSmwzanRJRi1qNFdhdUlja1RLdXMwWFNwWnU2TGlHQ2pTeWhlOG8wc1pGYzl0TThyc2F1ZjctTUQtTXJxbVBXekJJcG4?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-24T17:27:15+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Após cheia perder força no Vale do Taquari, atenção se volta para Jacuí, Sinos, Gravataí e Guaíba Correio do Povo"
     }
   ],
   "noticias_home": [
-    {
-      "id": "5c9a14de8bb3",
-      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-26T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
     {
       "id": "fb0a0f3cbc0f",
       "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
@@ -396,6 +386,26 @@
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
+      "id": "5c9a14de8bb3",
+      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-26T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+    },
+    {
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+    },
+    {
       "id": "2127146cc672",
       "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
       "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
@@ -404,6 +414,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "b9a5d813bc2a",
@@ -424,26 +444,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
-    },
-    {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
-    },
-    {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
       "id": "cdfc5fa3a4a6",
