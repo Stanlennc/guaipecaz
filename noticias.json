@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-26T20:56:23.211030+00:00",
+  "gerado_em": "2026-07-26T22:57:47.139257+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,24 +94,14 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
-    },
-    {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
       "id": "1360a7e98d8a",
@@ -144,14 +134,24 @@
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+    },
+    {
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
       "id": "8e331490b341",
@@ -184,24 +184,24 @@
       "resumo": "VÍDEO: Acúmulo de troncos invadiu a Praia da Alegria, em Guaíba abcmais.com"
     },
     {
-      "id": "951bfef2bd1d",
-      "titulo": "Catamarã retoma travessia entre Porto Alegre e Guaíba nesta segunda-feira (27)",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSG9HVVpkM0FnbzVrZ1pWbVVLRHlIdUlXX3JHN1hwb1R1b0ZtM3VMRHFORTRVcmoySThrVUZGWkFXcXZlWEdkeHlZMk50dkpORS0xQVdlcENPUmxvY1dmdmtHMUJLbk5sUGNyZTVpWnNXRFVMclYzODBieWtFSXUtLTNLR1dFQzVSbW03bk1JWnQ3QkxuN3pGdS1WQkU2WGJnb2lEblFKSmFuQVFuMTBoR2MzNmRvcnFpbG9PSGJacFd2Y0hOTkhicWY3RV9IWWFDcHc?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-07-26T18:11:15+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Catamarã retoma travessia entre Porto Alegre e Guaíba nesta segunda-feira (27) Jornal do Comércio"
-    },
-    {
       "id": "a70dad8f548f",
       "titulo": "Guaíba está abaixo da cota de inundação, mas previsão de chuva mantém atenção em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZUJCcWpOWDJWNWFET3RrbTl2YTlSYlRmbXplVFBQQzlhOVlNdkRSTDlheEZiRzFrdnAtMkNLUVpfNU9wZWRHWk1wdENaN0hfTmd1d19NN2sxYUxaTkVKbno3b0FlQTFFM0EyUC1YZGlXb3V5NUxGUVE2anUtT0VVbGFHYlFwSDVmc0JDZERKSF9RMU1yWndtbndJRHgyVzZtVHRDRFpqMUVnY1ROd18zcS1xaFZabEhrM1hCZkJCdGhHYUw2eDdfVHluMFFHenp3ZW5jZ280V2VQb0tVekVVcjI5M0YwMVU?oc=5",
       "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-07-26T17:24:24+00:00",
+      "publicado_em": "2026-07-26T18:14:36+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "Guaíba está abaixo da cota de inundação, mas previsão de chuva mantém atenção em Porto Alegre Jornal do Comércio"
+    },
+    {
+      "id": "951bfef2bd1d",
+      "titulo": "Catamarã retoma travessia entre Porto Alegre e Guaíba nesta segunda-feira (27)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSG9HVVpkM0FnbzVrZ1pWbVVLRHlIdUlXX3JHN1hwb1R1b0ZtM3VMRHFORTRVcmoySThrVUZGWkFXcXZlWEdkeHlZMk50dkpORS0xQVdlcENPUmxvY1dmdmtHMUJLbk5sUGNyZTVpWnNXRFVMclYzODBieWtFSXUtLTNLR1dFQzVSbW03bk1JWnQ3QkxuN3pGdS1WQkU2WGJnb2lEblFKSmFuQVFuMTBoR2MzNmRvcnFpbG9PSGJacFd2Y0hOTkhicWY3RV9IWWFDcHc?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-07-26T18:14:36+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Catamarã retoma travessia entre Porto Alegre e Guaíba nesta segunda-feira (27) Jornal do Comércio"
     },
     {
       "id": "69fda00b04a2",
@@ -304,6 +304,16 @@
       "resumo": "Elevação do Rio dos Sinos contrasta com queda do Guaíba e normalização do Rio Caí abcmais.com"
     },
     {
+      "id": "b7efd6bfec44",
+      "titulo": "Como fica o tempo no RS no fim de semana: sábado de sol, Guaíba em alerta e nova rodada de temporais",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMjF5dzZ2MmREVXN5ZHBNeG10WExwNjhpekFIamxHSjV0UmIyX0NBTDBmWF9LWGpUemhmTlY0bzBrR01Vd1ZYMURNZmdoMnV3WGFHV19mYVlQbkpOYjlYQURGTU5tLXhVZ3RMeW95R1JaQ0pxXzNiZ3hxUHotLWMtTU9LblZQZWZhc1JfRUZBTXVWQ1QtSDBBWC1IZ3lTZTVjSHFRTnVXNG9EeC1IcEVMYlYzdnIzVkxwcFVzbEVNVG5XS3RURU9VVWQwM2NCLW5lSk1kQ2RFWW1uRy1GX1RoN1U2YllIZWUtRVliS0Niclo2SDNwbklxQjYzNTdkWWEtak0zUm1NZjJhMlZuQlRrTHprMVdRQUl6c0tN?oc=5",
+      "fonte": "Diário Gaúcho",
+      "publicado_em": "2026-07-25T12:07:35+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Como fica o tempo no RS no fim de semana: sábado de sol, Guaíba em alerta e nova rodada de temporais Diário Gaúcho"
+    },
+    {
       "id": "c1b8a83633fb",
       "titulo": "Guaíba amanhece estável e coberto por detritos, enquanto Jacuí avança no interior",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbmJSSTZQaUJRZ3VxUGxVWllXWHU5MVRNbUxha1ltRjkzSGJuNUJVeUhDb2tZd3hyQ1JRVUxvSzJrbkxRMXU5NmFzWDZrRE90Wm5CMmpJc1pVMDJqcndhbzkxNHF3ZlM3RHZWUjRFTVE2TTlNbDJIOFIxUUZ2ajlPMUw3OWJsVEpOMUlITG9sWExVN3NrS3IxbFI0NUI3YUtuSzEzT1RCVUQ2V1FndEJ4MFlNeHN0U25fZEZraDVhXzZmWDlmREFUWmE1bGJueWZhQUtqVzZQM2prenVWa2c?oc=5",
@@ -362,16 +372,6 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Prefeitura constrói dique provisório para conter avanço do Guaíba na zona sul de Porto Alegre GZH"
-    },
-    {
-      "id": "410d363b21fd",
-      "titulo": "Defesa Civil emite alerta vermelho de inundação para o Guaíba e Rio Uruguai nesta sexta (24)",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV3Byby03c1BHTFBtZ3R3b3pPc0lkMkZFQ2VkbWdFbmxkaXpmN1BHX19aZ2hJNFVNazJjMFhqUm42YVBMbm85OElqYkp3N015dnNWM1RfakdhUVpnUkIwblEyM2lPWTNDMm12bTJiUlpCSzVTbkpENUd0YnNlNHFRZzRTZDU4N3F5aFJJMFJ5cWJ4UVpEaEJteU11UDhJWWtHNmJXTHVOUGZRRDZqTF9OWFZqTUhYclFwbmFGVnVVTDRJYnBteGhBVUplS0laTWRETnNV?oc=5",
-      "fonte": "abcmais.com",
-      "publicado_em": "2026-07-24T17:58:33+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Defesa Civil emite alerta vermelho de inundação para o Guaíba e Rio Uruguai nesta sexta (24) abcmais.com"
     }
   ],
   "noticias_home": [
@@ -396,24 +396,14 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
-    },
-    {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
       "id": "1360a7e98d8a",
@@ -446,14 +436,24 @@
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+    },
+    {
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     }
   ]
 }
