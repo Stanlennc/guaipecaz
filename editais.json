@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-25T08:03:46.689305+00:00",
+  "gerado_em": "2026-07-26T08:53:03.217045+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -35,9 +35,9 @@
       "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQVB6UENxS2otRmFFM2NpR1hGa2JsNzFpMU1RNUxNeVFPdGR1TmZVak1IdWRVbXRZYWVDU2M3TWx5U20zLWFHTnRUeFdzZElQS1VHNmE3aVhuT0lpS0ZPUndPRzlhRlpVQ1J3S2hNazBQTjgxXzZ4LWM1VU5Nb255LWc5TGszV1Z3cVZVWnFyY2ZHdV82Q0x3LWFSNERBVU05aHR4ZS00TXNURmtYbF9ZSlJYTzJQaW9oc2U5T1NYUkt0ZlVmOGZSbEJrQ2N5QzlCMmtEUW9CN3l0RkltdUZyUk9raHE2S3RmTnZEWG9FRQ?oc=5",
       "fonte": "Repórter Guaibense",
-      "tipo": "licitacao",
-      "publicado_em": "2026-07-17T15:21:00+00:00",
-      "feed": "licitacao"
+      "tipo": "vaga",
+      "publicado_em": "2026-07-17T07:00:00+00:00",
+      "feed": "vagas"
     },
     {
       "id": "d3c2091518bd",
@@ -45,7 +45,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0JDLU5oLXJTSkctTGtFZXgxLXZnUkh6bjBBSWlYSnJ6YTlzTkFrcDJJbGZyWko3aVZJQlJKZ1QxbjdMVUYxNU1hMElrSlZnY180cTlfNHpuUEhzTjVVQlFRQzFXd0szN2JYOC1UazhxbWlMWm15VU8tUmw4Z1V6ZFZQbTVtMFNqajVpcERDNFZyYkpVWGtqYkNoVTBPcndDWGZ6RGJ6SWZBSk9sR0NQalFBNEdLblFnWi1JNHNwSkpYREg3eWt6Z2cyUFRKd0FCMU1naQ?oc=5",
       "fonte": "Repórter Guaibense",
       "tipo": "concurso",
-      "publicado_em": "2026-07-16T18:45:00+00:00",
+      "publicado_em": "2026-07-16T07:00:00+00:00",
       "feed": "concurso"
     },
     {
