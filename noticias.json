@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-27T17:41:31.486073+00:00",
+  "gerado_em": "2026-07-27T19:25:18.079694+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,14 +74,14 @@
   ],
   "noticias": [
     {
-      "id": "5c9a14de8bb3",
-      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
+      "id": "4b0eb5cbea65",
+      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-07-27T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
       "id": "fb0a0f3cbc0f",
@@ -94,16 +94,6 @@
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-27T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
-    {
       "id": "cdfc5fa3a4a6",
       "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
       "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
@@ -114,14 +104,14 @@
       "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
-      "id": "b9a5d813bc2a",
-      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
       "id": "16fe33979805",
@@ -132,6 +122,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "b9a5d813bc2a",
+      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
       "id": "2a55db2c4fa4",
@@ -154,16 +154,6 @@
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
-    },
-    {
       "id": "8e331490b341",
       "titulo": "Orla de Guaíba tem cerca de 40 caminhões de troncos e resíduos retirados após fortes chuvas no RS",
       "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/07/25/orla-guaiba-40-caminhoes-troncos-residuos-retirados-fortes-chuvas-rs.ghtml",
@@ -182,6 +172,16 @@
       "categoria": "G1",
       "feed": "g1_rs",
       "resumo": "Troncos e destroços levados pelas fortes chuvas invadem praia no RS A travessia de Catamarã entre Porto Alegre e Guaíba, na Região Metropolitana, está suspensa desde o fim da tarde de quinta-feira (23) devido ao grande volume de troncos, madeiras e entulhos que flutuam no lago Guaíba após as fortes…"
+    },
+    {
+      "id": "cf60ff6bc797",
+      "titulo": "Almoço de Dia dos Pais com vista para o Guaíba: restaurante Origens tem menu exclusivo para a data",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQejU4Wnh2YzAwcHgyWnR2RWpsTThMa2Q2cTEzZ1VLVEpMTkZod3VUSFVsYWtyRzhfV3hwV3ZSNS1jUjlTYUtvUF9mVEhPbGxpSjY1Z1M0dllnNFBhWWRXNXE2TWtwcjdydU1zakFLQjdCbTdEdHMyemZrbW1jdzJSVHFTNVhJUThLbUJBREM4eFJNbi04b2U5MmZuekowVl9CdW5tWldGT2RoRWZ0dkYxRVRBaTNidlpQb082S29sdWNOQXk2NG4yUlZROGc4ZV9BdmhGazdzT3hCXzZoODhQTQ?oc=5",
+      "fonte": "Jornal da Capital",
+      "publicado_em": "2026-07-27T18:27:10+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Almoço de Dia dos Pais com vista para o Guaíba: restaurante Origens tem menu exclusivo para a data Jornal da Capital"
     },
     {
       "id": "f63c28e07339",
@@ -232,6 +232,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Orla de Guaíba fica cheia de entulhos G1"
+    },
+    {
+      "id": "84a0d6442885",
+      "titulo": "Guaíba lança Programa Prepara Guaíba -El Niño",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Gd0g4SUI1RGFKNThtall4bDVldC1sUHZ6R2RLblpQYmVOdkNxUUc3OWhhTXhMYXFfNG1wTU1kSklJWER5V1V5TXBaaWJuRVNwd1FCVVJVcW12Y3NvT3NBbVJPdHlTejR6aWNkTk4wN3RKVTQ?oc=5",
+      "fonte": "expansao.co",
+      "publicado_em": "2026-07-27T12:00:32+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba lança Programa Prepara Guaíba -El Niño expansao.co"
     },
     {
       "id": "614b4fddf28e",
@@ -362,28 +372,18 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Guaíba realiza mutirão de limpeza na Orla da Alegria após temporais no RS Jornal do Comércio"
-    },
-    {
-      "id": "8f46bd4ae5d9",
-      "titulo": "Elevação do Rio dos Sinos contrasta com queda do Guaíba e normalização do Rio Caí",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbDdpOW9xZGpRQm5YWnpYWXgyYjlwRTNvRzItQ2t1MHpfMUI3bC14YUduMUk2bjJMRzFuNW5rNkN6Rk5BUG9KaXVGLTNJV0x6RGs3ejRDTEhFalpKYm5IUENqQXZzT0lvaFlxTC1VX29tM2tfeDR4VlVuMEs1M1dRZTc3TlVnVk0zdERTc1Q4THU4bGdJOWNfbVVtTHF3eFI1MHdoTk1NTXlVUWZxYmswSjZBaw?oc=5",
-      "fonte": "abcmais.com",
-      "publicado_em": "2026-07-25T13:07:19+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Elevação do Rio dos Sinos contrasta com queda do Guaíba e normalização do Rio Caí abcmais.com"
     }
   ],
   "noticias_home": [
     {
-      "id": "5c9a14de8bb3",
-      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
+      "id": "4b0eb5cbea65",
+      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-07-27T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
       "id": "fb0a0f3cbc0f",
@@ -396,16 +396,6 @@
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-27T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
-    {
       "id": "cdfc5fa3a4a6",
       "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
       "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
@@ -416,14 +406,14 @@
       "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
-      "id": "b9a5d813bc2a",
-      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
       "id": "16fe33979805",
@@ -434,6 +424,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "b9a5d813bc2a",
+      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
       "id": "2a55db2c4fa4",
