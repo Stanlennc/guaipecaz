@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-27T02:47:07.148852+00:00",
+  "gerado_em": "2026-07-27T07:29:22.737042+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -78,7 +78,7 @@
       "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
       "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-26T00:00:00+00:00",
+      "publicado_em": "2026-07-27T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
@@ -88,7 +88,7 @@
       "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-26T00:00:00+00:00",
+      "publicado_em": "2026-07-27T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
@@ -102,6 +102,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "b9a5d813bc2a",
@@ -122,16 +132,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
-    },
-    {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "16fe33979805",
@@ -174,14 +174,14 @@
       "resumo": "Troncos e destroços levados pelas fortes chuvas invadem praia no RS A travessia de Catamarã entre Porto Alegre e Guaíba, na Região Metropolitana, está suspensa desde o fim da tarde de quinta-feira (23) devido ao grande volume de troncos, madeiras e entulhos que flutuam no lago Guaíba após as fortes…"
     },
     {
-      "id": "54e10e7fb8bd",
+      "id": "614b4fddf28e",
       "titulo": "Catamarã do Guaíba volta a funcionar nesta segunda",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRU8tYVR1ZmxLOVplUnJSTVZZZEVmVFlBTGNITlRSdHFhVTZ5c05GMEE1UDNTS0l0eTk5bkpSRDBqQnRUS3VPcDVjUEFVZzFfYkNlXzd0NlhIZUxKWmZiVndMem1OcGNnY2RUQ2F2M3lWYmYtZ29lU0lyRDZGNXZNRnpqeHVDUFNMdmhz?oc=5",
-      "fonte": "radiocaicara.com.br",
-      "publicado_em": "2026-07-27T01:32:31+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSThZd2xybWZiVlJVdUpqeGZtZkV4aUhWVlNVcHd1dTZHZVFKSGIwc2d2XzJhMEJ2dk1lUHBqRFcxb1JUdUE0LWJLN3RUdkVVVkFMN1NiYlQ0TTlRZHJlVzNWVVBlUXpyUnl3OHBsbGMyT2pRREVtcVVFU05aYl9UZtIBhgFBVV95cUxQTDJuZGFkUmxJcTdHVGRIN0NzN2FZQ0FBbFM5dGhhQlZCMHl0TjhYbzB6SFpfT2llX3N1eFVxbDFiWHpmZV9hUFVnNkZCVk1FWnA3eUdYblg4dGh4Ql9Ec3RNYkU5cEh4YnFfUEZBNm9xRFZBc3l5WkNXMmtDeFRpTnhaOU9mUQ?oc=5",
+      "fonte": "Jornal O Sul",
+      "publicado_em": "2026-07-27T01:04:10+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Catamarã do Guaíba volta a funcionar nesta segunda radiocaicara.com.br"
+      "feed": "google",
+      "resumo": "Catamarã do Guaíba volta a funcionar nesta segunda Jornal O Sul"
     },
     {
       "id": "8231f4404ec3",
@@ -194,16 +194,6 @@
       "resumo": "VÍDEO: Acúmulo de troncos invadiu a Praia da Alegria, em Guaíba abcmais.com"
     },
     {
-      "id": "a70dad8f548f",
-      "titulo": "Guaíba está abaixo da cota de inundação, mas previsão de chuva mantém atenção em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZUJCcWpOWDJWNWFET3RrbTl2YTlSYlRmbXplVFBQQzlhOVlNdkRSTDlheEZiRzFrdnAtMkNLUVpfNU9wZWRHWk1wdENaN0hfTmd1d19NN2sxYUxaTkVKbno3b0FlQTFFM0EyUC1YZGlXb3V5NUxGUVE2anUtT0VVbGFHYlFwSDVmc0JDZERKSF9RMU1yWndtbndJRHgyVzZtVHRDRFpqMUVnY1ROd18zcS1xaFZabEhrM1hCZkJCdGhHYUw2eDdfVHluMFFHenp3ZW5jZ280V2VQb0tVekVVcjI5M0YwMVU?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-07-26T18:14:36+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba está abaixo da cota de inundação, mas previsão de chuva mantém atenção em Porto Alegre Jornal do Comércio"
-    },
-    {
       "id": "951bfef2bd1d",
       "titulo": "Catamarã retoma travessia entre Porto Alegre e Guaíba nesta segunda-feira",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSG9HVVpkM0FnbzVrZ1pWbVVLRHlIdUlXX3JHN1hwb1R1b0ZtM3VMRHFORTRVcmoySThrVUZGWkFXcXZlWEdkeHlZMk50dkpORS0xQVdlcENPUmxvY1dmdmtHMUJLbk5sUGNyZTVpWnNXRFVMclYzODBieWtFSXUtLTNLR1dFQzVSbW03bk1JWnQ3QkxuN3pGdS1WQkU2WGJnb2lEblFKSmFuQVFuMTBoR2MzNmRvcnFpbG9PSGJacFd2Y0hOTkhicWY3RV9IWWFDcHc?oc=5",
@@ -212,6 +202,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Catamarã retoma travessia entre Porto Alegre e Guaíba nesta segunda-feira Jornal do Comércio"
+    },
+    {
+      "id": "a70dad8f548f",
+      "titulo": "Guaíba está abaixo da cota de inundação, mas previsão de chuva mantém atenção em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZUJCcWpOWDJWNWFET3RrbTl2YTlSYlRmbXplVFBQQzlhOVlNdkRSTDlheEZiRzFrdnAtMkNLUVpfNU9wZWRHWk1wdENaN0hfTmd1d19NN2sxYUxaTkVKbno3b0FlQTFFM0EyUC1YZGlXb3V5NUxGUVE2anUtT0VVbGFHYlFwSDVmc0JDZERKSF9RMU1yWndtbndJRHgyVzZtVHRDRFpqMUVnY1ROd18zcS1xaFZabEhrM1hCZkJCdGhHYUw2eDdfVHluMFFHenp3ZW5jZ280V2VQb0tVekVVcjI5M0YwMVU?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-07-26T18:14:36+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba está abaixo da cota de inundação, mas previsão de chuva mantém atenção em Porto Alegre Jornal do Comércio"
     },
     {
       "id": "69fda00b04a2",
@@ -380,7 +380,7 @@
       "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
       "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-26T00:00:00+00:00",
+      "publicado_em": "2026-07-27T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
@@ -390,7 +390,7 @@
       "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-26T00:00:00+00:00",
+      "publicado_em": "2026-07-27T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
@@ -404,6 +404,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "b9a5d813bc2a",
@@ -424,16 +434,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
-    },
-    {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "16fe33979805",
