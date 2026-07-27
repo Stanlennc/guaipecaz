@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-27T11:18:59.789429+00:00",
+  "gerado_em": "2026-07-27T14:30:32.581100+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,46 +94,6 @@
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
-    },
-    {
-      "id": "b9a5d813bc2a",
-      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
-    },
-    {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
-    },
-    {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
-    },
-    {
       "id": "1360a7e98d8a",
       "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
       "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
@@ -152,6 +112,56 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+    },
+    {
+      "id": "b9a5d813bc2a",
+      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
+    },
+    {
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+    },
+    {
+      "id": "ca088f17de96",
+      "titulo": "Destroços trazidos pelo Jacuí acumulam na orla de Guaíba",
+      "url": "https://expansao.co/destrocos-trazidos-pelo-jacui-acumulam-na-orla-de-guaiba/",
+      "fonte": "Expansão",
+      "publicado_em": "2026-07-27T12:14:45+00:00",
+      "categoria": "Cidades",
+      "feed": "expansao_direto",
+      "resumo": "Mesmo sem estar sob decreto de calamidade pública, município enfrenta o desafio de recolher toneladas de entulho vindas de outras regiões; gestão local busca soluções para o custeio da operação.&#8230; O post Destroços trazidos pelo Jacuí acumulam na orla de Guaíba apareceu primeiro em Expansão ."
     },
     {
       "id": "8e331490b341",
@@ -344,6 +354,16 @@
       "resumo": "Do Jacuí ao Sinos: Por que o Guaíba continua enchendo mesmo quando a chuva diminui? abcmais.com"
     },
     {
+      "id": "24c7f1972ea9",
+      "titulo": "Troncos e entulhos suspendem travessia de Catamarã entre Porto Alegre e Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBncGFBeUdzU01ROThjTVhlWGpFWjFXLU1kTTBPVkc0cW9ibHlON3djOFFzZXV5amsxcktBMWpjWl9WbWFhQ0ZwWVBITy1aOXEzeVYwVGxISHh6NjV5TWE4RDllamRseXhTcE1OWUhicw?oc=5",
+      "fonte": "grupo sepé",
+      "publicado_em": "2026-07-25T00:20:00+00:00",
+      "categoria": null,
+      "feed": "metro_recentes",
+      "resumo": "Troncos e entulhos suspendem travessia de Catamarã entre Porto Alegre e Guaíba grupo sepé"
+    },
+    {
       "id": "5621a4edd39f",
       "titulo": "Troncos e destroços levados pela chuva invadem praia e interrompem operação do Catamarã no Guaíba",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQVng3dXlGOTZMTk1SWi1mSFdBaHd2VGRNWFRDU3BZQnMxUHdLMVdJNk85QjBKOWI0dFhWcV80QWk0dVBIOWF5aWFSRFZORF9OZWZuRnV1SG9YY1AxaWFjRnQyR3ZmYVdsOEJ1bGJIOFl2TkpRaE1kcUJvejZsMjc3aXEwRFNoaXpoNlZfcl8wM29ScDA4bWhNSm9uTXhySkFBNWZtUzJJQ3haWGU5VFlrcUZFSkFMQjJTZmhiZE1vSDlqbWdIUWlQWktucHBMVnlZR0FDb1NocnlBdWRvQXp4OElDZWJYWGp3VHctVFRWbkk0Nzg0alVzcm5feDdIYmZIdjB3NmRidGhpTWZBZFVHTEE5SkoxaEky?oc=5",
@@ -352,26 +372,6 @@
       "categoria": null,
       "feed": "gzh_metro",
       "resumo": "Troncos e destroços levados pela chuva invadem praia e interrompem operação do Catamarã no Guaíba GZH"
-    },
-    {
-      "id": "b5cc8eba074f",
-      "titulo": "Troncos trazidos pelas enxurradas mudam paisagem em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTFJxSUp1OTNTbHZzTVRqeW1oYnZSLTlCRmo0QTJFU1FhVnFwajIwUlVabVdlUG1Idkp6S2ZERjZlNlNEeEFXT3BlQzZUSWRfRVVVTlBMdkFqYzM3enA2T1VjdUdYWi1nRXVXTW5HQ0c4VnlpR2VGeWVJRHo3R1BSZGZBd2hmVnQwTE45R2tWenVkMTg5T3I3cXZsaTZmRjNMZ3B0eW8xSjhCRC1SMG1Lel91eExhaHgwUlNZcHVtLTlZOWg5Y1JlcVloTWtYSnZ4Z1gwR1JwRl_SAecBQVVfeXFMTkVDTWc1Mms4ZjlZT204cEVEYUNWWEE2WEQ2blBMbTNNeHFsRFF6OERObEFIbVc2YnBNNHVnRUVPcUR2ZVBubnpmOW13MUMxWFVnUTBtNkZ3NDFSUHdjTWg0dE5BcEpnX3JGTkRBR2plZC1RdkFyejNqSm0tV29uNWpGZVVXRnJJOEpQRGZDVFVjN05zX05xanA5dmNVTFFWenVibFVtc1RhSjJselVZUmhhXzFpbU5veHA2SENNUjdOc2J1WE80UEJDd1RXM3ZHVzdJUkFDTHFPZzhNSF9yQ2R4cEQ1ME1v?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-07-24T23:58:33+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Troncos trazidos pelas enxurradas mudam paisagem em Guaíba G1"
-    },
-    {
-      "id": "ce0ee9f6e7fe",
-      "titulo": "Guaíba sobe e aumenta risco de inundação nas ilhas no RS",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWpoM3czMmxkSmZtTmN1bXhieHZoYjdxQjFSSlRSVVpBZjRjZG8wcndlaU1RRTlVUlRfbHpENzBPX3lZZlZyeUtRbE4xZEtKWDAyZ3YyVmlIVWEyWGRpcm91OC1QQUpLbUs1ZXFoY1ItZ3V6TUc1WjFFa21ZbmNVLW8zMWdoYjEwMkxMR2piNFJhVUxLRm1UTFBScGVob0E?oc=5",
-      "fonte": "SBT News",
-      "publicado_em": "2026-07-24T22:40:45+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba sobe e aumenta risco de inundação nas ilhas no RS SBT News"
     }
   ],
   "noticias_home": [
@@ -396,46 +396,6 @@
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
-    },
-    {
-      "id": "b9a5d813bc2a",
-      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
-    },
-    {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
-    },
-    {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
-    },
-    {
       "id": "1360a7e98d8a",
       "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
       "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
@@ -454,6 +414,46 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+    },
+    {
+      "id": "b9a5d813bc2a",
+      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
+    },
+    {
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     }
   ]
 }
