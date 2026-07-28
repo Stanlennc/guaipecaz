@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-28T14:03:26.221924+00:00",
+  "gerado_em": "2026-07-28T17:25:27.141913+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-28T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
-    {
       "id": "5c9a14de8bb3",
       "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
@@ -94,24 +84,24 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "id": "fb0a0f3cbc0f",
+      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
+      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-07-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "id": "4b0eb5cbea65",
+      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-07-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
       "id": "16fe33979805",
@@ -144,6 +134,16 @@
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+    },
+    {
       "id": "1abd77fa27dd",
       "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
       "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
@@ -152,6 +152,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+    },
+    {
+      "id": "a74c7b25ab03",
+      "titulo": "Prefeitura de Guaíba realiza Seminário Municipal de Educação",
+      "url": "https://expansao.co/prefeitura-de-guaiba-realiza-seminario-municipal-de-educacao/",
+      "fonte": "Expansão",
+      "publicado_em": "2026-07-28T17:17:16+00:00",
+      "categoria": "Ensino",
+      "feed": "expansao_direto",
+      "resumo": "Na última sexta-feira, 24 de julho, a Secretaria de Educação de Guaíba realizou o Seminário Municipal de Educação 2026. O evento aconteceu nas escolas municipais e teve como objetivo fortalecer&#8230; O post Prefeitura de Guaíba realiza Seminário Municipal de Educação apareceu primeiro em Expansão ."
     },
     {
       "id": "8e331490b341",
@@ -174,31 +194,31 @@
       "resumo": "Troncos e destroços levados pelas fortes chuvas invadem praia no RS A travessia de Catamarã entre Porto Alegre e Guaíba, na Região Metropolitana, está suspensa desde o fim da tarde de quinta-feira (23) devido ao grande volume de troncos, madeiras e entulhos que flutuam no lago Guaíba após as fortes…"
     },
     {
+      "id": "d80cb1e979fc",
+      "titulo": "Guaíba lança programa voltado à prevenção de situações climáticas",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRm84cHFOLWNmVHBwNU5iRnlKdDM5LU5fSkZ1WjVyYWlNNlNzbnZFSktEcXZKX0g1ZUd2VVJXdU9oVWhyVWdxLWhQNFVyWUFuQTl4Slo5TFdnOUozSjZBQ1hNcHlETmZIS3ZxT1IzRzhNbVg5cjlIQWVhNzcwS1R5dWhCM1hFR1NxNEFZSllzV09BdGdJaEJwOER3UlA5amlONTd4M0oyOVZfTXU3MnV1S1ZTeGxQSk5MZWNDUWlUcl83OFp5Q2RRR2g2Vll1cHc?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-07-28T13:59:36+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba lança programa voltado à prevenção de situações climáticas Jornal do Comércio"
+    },
+    {
       "id": "d15acc71388a",
       "titulo": "Cenários apontam que Guaíba deve ficar na cota de atenção, mas inundação não é descartada",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPVjFfRnVMM3I5UVdTLS16dEFRSWtsZnVMYWpwYnpQelZsS2NlZFhFaml6QnFwa1g1aHRncFlxSy1KN3N4UE1NcVZHV3loR1NldnZsdzhIVDNoM280QWhtdWcxTGZWTW5GTXpZZGtzazhfdHBQb2NEazByczJ1eVk3RE9RbFFCVE54TkNxZ1QydmY1a0ZZaUl3MEZENTZvVDE4ZTkxMGxoX0JVRG5wZ2hEMGRSQm9KTzFRREJCOWFyQlhjZ0w0Y2FfeXdrOEx2bkRKcTJQV09PV3RsTnRUSDdlUVFUenNNTW9KNHlrUHJtWTIwcFl3RHh1bndEbFlfY2dHTVFDSDZlMTE1aGZHV2c?oc=5",
       "fonte": "Diário Gaúcho",
       "publicado_em": "2026-07-28T13:14:14+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "google",
       "resumo": "Cenários apontam que Guaíba deve ficar na cota de atenção, mas inundação não é descartada Diário Gaúcho"
-    },
-    {
-      "id": "d80cb1e979fc",
-      "titulo": "Guaíba lança programa voltado à prevenção de situações climáticas",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRm84cHFOLWNmVHBwNU5iRnlKdDM5LU5fSkZ1WjVyYWlNNlNzbnZFSktEcXZKX0g1ZUd2VVJXdU9oVWhyVWdxLWhQNFVyWUFuQTl4Slo5TFdnOUozSjZBQ1hNcHlETmZIS3ZxT1IzRzhNbVg5cjlIQWVhNzcwS1R5dWhCM1hFR1NxNEFZSllzV09BdGdJaEJwOER3UlA5amlONTd4M0oyOVZfTXU3MnV1S1ZTeGxQSk5MZWNDUWlUcl83OFp5Q2RRR2g2Vll1cHc?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-07-28T03:50:57+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba lança programa voltado à prevenção de situações climáticas Jornal do Comércio"
     },
     {
       "id": "6ae42f1780db",
       "titulo": "O GUAÍBA VAI TRANSBORDAR? Veja os prognósticos do IPH para os próximos dias | Gaúcha+",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcHVWLUZyRmNpR1JEOGxhQTd5enBZc2VCOExxc1I3aENlQUw1eXBhN1ppa0NfN0hacVFoR0Z1QTQ5TGFpeXdfLWRvWEw1QkNQeXpIb3B0ZVhCSXJPWUpQRzJNbGptR0lSQ2pON2RrN3BXbjhsWG9wNXVFQm1XUXNWU1JmaUQwbHJWVnRLcW5fdUhETGZ6TThRZ1c2YTZsdi1TbDg4RkQyM3pKa2g3cGZyUi1ZVzB0SHpkVFU4RkNxdE0yZkZKV3dHQ3BnSVlVOWFDSEpucHg2T295dkE0TlZTOHhEQ24?oc=5",
       "fonte": "GZH",
-      "publicado_em": "2026-07-27T20:13:12+00:00",
+      "publicado_em": "2026-07-27T20:19:43+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "O GUAÍBA VAI TRANSBORDAR? Veja os prognósticos do IPH para os próximos dias | Gaúcha+ GZH"
@@ -352,39 +372,9 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Guaíba não é ameaça….por enquanto MetSul Meteorologia"
-    },
-    {
-      "id": "afaabf347e20",
-      "titulo": "Rio Jacuí recua e Guaíba fica estável em Eldorado do Sul",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0diS0N5aDlBWm1qSHY1QVlLSy14R0kxZnRveVd0VkhJaERHMTNpbW15MTg0LTB2dlloclRKQWV5SGxrVnlYSW9oVnJZMUhlVS1COWs2R1lLcGk5Ykh1bml5bW9OZWxaRVFVaFVELUhWUHgtRFJza3FLdnlVbXNzWU53bi1JRU50UVZ2UVZiNlJPdDBPX1lSaTlR?oc=5",
-      "fonte": "Agora RS",
-      "publicado_em": "2026-07-25T20:00:33+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Rio Jacuí recua e Guaíba fica estável em Eldorado do Sul Agora RS"
-    },
-    {
-      "id": "554bb2f01d6f",
-      "titulo": "Travessia Porto Alegre-Guaíba segue suspensa por detritos no Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNEF3RFVFVDlpdHIwZlVNTHZwWERaYmJJa2xzT3hqcUdvS0dxSTVJdjRiZHZ6NHFKQkNWQ1JtRkVYeE5OV0tIYUFMSVhvU0NPTEtzcVNCR1BkT0xmSzFIQXVjaml6Z3Y0SXdHa2pnMTg3Sy1WZzRoMjJ0N3FvWm52N0RMNEhHNFZLNmVGTGxMUTFRX1JlTEQtNGV6VjNDeFVzTlZkTENCRVY3bWRDYi1HYTBlRW9HSDhqSmYtb3JFZmgzdWJnT2c?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-07-25T17:24:36+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Travessia Porto Alegre-Guaíba segue suspensa por detritos no Guaíba Jornal do Comércio"
     }
   ],
   "noticias_home": [
-    {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-28T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
     {
       "id": "5c9a14de8bb3",
       "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
@@ -396,24 +386,24 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "id": "fb0a0f3cbc0f",
+      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
+      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-07-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "id": "4b0eb5cbea65",
+      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-07-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
       "id": "16fe33979805",
@@ -444,6 +434,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
       "id": "1abd77fa27dd",
