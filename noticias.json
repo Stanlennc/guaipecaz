@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-27T23:00:03.992434+00:00",
+  "gerado_em": "2026-07-28T02:25:28.421510+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -92,6 +92,16 @@
       "categoria": "G1",
       "feed": "g1_rs",
       "resumo": "Troncos e destroços levados pelas fortes chuvas invadem praia no RS A travessia de Catamarã entre Porto Alegre e Guaíba, na Região Metropolitana, está suspensa desde o fim da tarde de quinta-feira (23) devido ao grande volume de troncos, madeiras e entulhos que flutuam no lago Guaíba após as fortes…"
+    },
+    {
+      "id": "976db157b4ce",
+      "titulo": "Cenários apontam que Guaíba deve ficar na cota de atenção, mas inundação não é descartada",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZXVxUl9MdXhhbC1xMkNzN2RaME1MdHp2V3hfMmkzRktYR05fRVdzd0JSaW1YekJKM0dHWWg3SlNPZFMwVURoZDBmM3NWYkhQektFbHc1ZmduRzdmcmxuNlNqNHUycXV3a1U2Mkk3Q3dSTGJ5LW90Y1FIc0thM2s1VG8yS0JCRE83LWdWbEF6SDktazhmMU0tQWZvVEwtTzdzQVZZU3p6UGs2akQ3ekNTWld2OFlDN0FuVVBwWnYyWXJSd295LWxrQS1ubVhsYk1rUEZCTjJTRTJack1vaDktcjdmVFk4cEY0aERoN1NKUnpOZVU5YjRTNW9UVDBhRlBybXJoSy1lUXNIWHF2?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-07-27T23:47:49+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Cenários apontam que Guaíba deve ficar na cota de atenção, mas inundação não é descartada GZH"
     },
     {
       "id": "6ae42f1780db",
@@ -362,16 +372,6 @@
       "categoria": null,
       "feed": "gzh_metro",
       "resumo": "Troncos e destroços levados pela chuva invadem praia e interrompem operação do Catamarã no Guaíba GZH"
-    },
-    {
-      "id": "b5cc8eba074f",
-      "titulo": "Troncos trazidos pelas enxurradas mudam paisagem em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTFJxSUp1OTNTbHZzTVRqeW1oYnZSLTlCRmo0QTJFU1FhVnFwajIwUlVabVdlUG1Idkp6S2ZERjZlNlNEeEFXT3BlQzZUSWRfRVVVTlBMdkFqYzM3enA2T1VjdUdYWi1nRXVXTW5HQ0c4VnlpR2VGeWVJRHo3R1BSZGZBd2hmVnQwTE45R2tWenVkMTg5T3I3cXZsaTZmRjNMZ3B0eW8xSjhCRC1SMG1Lel91eExhaHgwUlNZcHVtLTlZOWg5Y1JlcVloTWtYSnZ4Z1gwR1JwRl_SAecBQVVfeXFMTkVDTWc1Mms4ZjlZT204cEVEYUNWWEE2WEQ2blBMbTNNeHFsRFF6OERObEFIbVc2YnBNNHVnRUVPcUR2ZVBubnpmOW13MUMxWFVnUTBtNkZ3NDFSUHdjTWg0dE5BcEpnX3JGTkRBR2plZC1RdkFyejNqSm0tV29uNWpGZVVXRnJJOEpQRGZDVFVjN05zX05xanA5dmNVTFFWenVibFVtc1RhSjJselVZUmhhXzFpbU5veHA2SENNUjdOc2J1WE80UEJDd1RXM3ZHVzdJUkFDTHFPZzhNSF9yQ2R4cEQ1ME1v?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-07-24T23:58:33+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Troncos trazidos pelas enxurradas mudam paisagem em Guaíba G1"
     }
   ],
   "noticias_home": [
@@ -394,6 +394,16 @@
       "categoria": "G1",
       "feed": "g1_rs",
       "resumo": "Troncos e destroços levados pelas fortes chuvas invadem praia no RS A travessia de Catamarã entre Porto Alegre e Guaíba, na Região Metropolitana, está suspensa desde o fim da tarde de quinta-feira (23) devido ao grande volume de troncos, madeiras e entulhos que flutuam no lago Guaíba após as fortes…"
+    },
+    {
+      "id": "976db157b4ce",
+      "titulo": "Cenários apontam que Guaíba deve ficar na cota de atenção, mas inundação não é descartada",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZXVxUl9MdXhhbC1xMkNzN2RaME1MdHp2V3hfMmkzRktYR05fRVdzd0JSaW1YekJKM0dHWWg3SlNPZFMwVURoZDBmM3NWYkhQektFbHc1ZmduRzdmcmxuNlNqNHUycXV3a1U2Mkk3Q3dSTGJ5LW90Y1FIc0thM2s1VG8yS0JCRE83LWdWbEF6SDktazhmMU0tQWZvVEwtTzdzQVZZU3p6UGs2akQ3ekNTWld2OFlDN0FuVVBwWnYyWXJSd295LWxrQS1ubVhsYk1rUEZCTjJTRTJack1vaDktcjdmVFk4cEY0aERoN1NKUnpOZVU5YjRTNW9UVDBhRlBybXJoSy1lUXNIWHF2?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-07-27T23:47:49+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Cenários apontam que Guaíba deve ficar na cota de atenção, mas inundação não é descartada GZH"
     },
     {
       "id": "6ae42f1780db",
@@ -444,16 +454,6 @@
       "categoria": null,
       "feed": "reporter",
       "resumo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro Repórter Guaibense"
-    },
-    {
-      "id": "728442917be7",
-      "titulo": "DMLU já recolheu 20 toneladas de resíduos da orla do Guaíba em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkJUUmlkZ3VEQ0xVdEJSVTFUMmNiWFpocGd2Q2wwb25GaTE5UDVkSmNwODkteVB0RmhXeWxFS0J3WS1zZ3IyRjVWdkdlVURXZlVXN0NoN1NMdnVKWGRFYklPRXdLYUJXdkt1QlNsNGFTQWphdXpWM2VENEJ3UEtwcmxCbmswUV9sRmRnWThVMjdNNWJZcHVrUDBjbEVYLV9aTE03M1F2TlZVdzl0ck0zeDdQd2lNc2NoWGd6RjFfU2ZjaDNDUms5ZlpzcUF0azQzUW5DZ3JEUQ?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-27T16:00:45+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "DMLU já recolheu 20 toneladas de resíduos da orla do Guaíba em Porto Alegre Correio do Povo"
     }
   ]
 }
