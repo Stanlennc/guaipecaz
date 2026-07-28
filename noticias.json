@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-28T06:25:43.222466+00:00",
+  "gerado_em": "2026-07-28T10:33:15.205477+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,14 +74,14 @@
   ],
   "noticias": [
     {
-      "id": "5c9a14de8bb3",
-      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
+      "id": "fb0a0f3cbc0f",
+      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
+      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-07-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
       "id": "4b0eb5cbea65",
@@ -94,14 +94,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
       "id": "1abd77fa27dd",
@@ -124,16 +124,6 @@
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
       "id": "b9a5d813bc2a",
       "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
@@ -152,6 +142,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
+    },
+    {
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
       "id": "8e331490b341",
@@ -188,7 +188,7 @@
       "titulo": "Cenários apontam que Guaíba deve ficar na cota de atenção, mas inundação não é descartada",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZXVxUl9MdXhhbC1xMkNzN2RaME1MdHp2V3hfMmkzRktYR05fRVdzd0JSaW1YekJKM0dHWWg3SlNPZFMwVURoZDBmM3NWYkhQektFbHc1ZmduRzdmcmxuNlNqNHUycXV3a1U2Mkk3Q3dSTGJ5LW90Y1FIc0thM2s1VG8yS0JCRE83LWdWbEF6SDktazhmMU0tQWZvVEwtTzdzQVZZU3p6UGs2akQ3ekNTWld2OFlDN0FuVVBwWnYyWXJSd295LWxrQS1ubVhsYk1rUEZCTjJTRTJack1vaDktcjdmVFk4cEY0aERoN1NKUnpOZVU5YjRTNW9UVDBhRlBybXJoSy1lUXNIWHF2?oc=5",
       "fonte": "GZH",
-      "publicado_em": "2026-07-27T23:45:55+00:00",
+      "publicado_em": "2026-07-27T23:49:43+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "Cenários apontam que Guaíba deve ficar na cota de atenção, mas inundação não é descartada GZH"
@@ -198,7 +198,7 @@
       "titulo": "O GUAÍBA VAI TRANSBORDAR? Veja os prognósticos do IPH para os próximos dias | Gaúcha+",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcHVWLUZyRmNpR1JEOGxhQTd5enBZc2VCOExxc1I3aENlQUw1eXBhN1ppa0NfN0hacVFoR0Z1QTQ5TGFpeXdfLWRvWEw1QkNQeXpIb3B0ZVhCSXJPWUpQRzJNbGptR0lSQ2pON2RrN3BXbjhsWG9wNXVFQm1XUXNWU1JmaUQwbHJWVnRLcW5fdUhETGZ6TThRZ1c2YTZsdi1TbDg4RkQyM3pKa2g3cGZyUi1ZVzB0SHpkVFU4RkNxdE0yZkZKV3dHQ3BnSVlVOWFDSEpucHg2T295dkE0TlZTOHhEQ24?oc=5",
       "fonte": "GZH",
-      "publicado_em": "2026-07-27T20:13:12+00:00",
+      "publicado_em": "2026-07-27T20:19:43+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "O GUAÍBA VAI TRANSBORDAR? Veja os prognósticos do IPH para os próximos dias | Gaúcha+ GZH"
@@ -376,14 +376,14 @@
   ],
   "noticias_home": [
     {
-      "id": "5c9a14de8bb3",
-      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
+      "id": "fb0a0f3cbc0f",
+      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
+      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-07-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
       "id": "4b0eb5cbea65",
@@ -396,14 +396,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
       "id": "1abd77fa27dd",
@@ -426,16 +426,6 @@
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
       "id": "b9a5d813bc2a",
       "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
@@ -454,6 +444,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
+    },
+    {
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     }
   ]
 }
