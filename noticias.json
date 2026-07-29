@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-29T17:13:09.996945+00:00",
+  "gerado_em": "2026-07-29T19:13:42.530036+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "5c9a14de8bb3",
-      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-29T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
-    {
       "id": "fb0a0f3cbc0f",
       "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
       "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
@@ -104,34 +94,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
-    },
-    {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
-    },
-    {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
       "id": "b9a5d813bc2a",
@@ -144,14 +114,34 @@
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+    },
+    {
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+    },
+    {
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "8e331490b341",
@@ -174,6 +164,46 @@
       "resumo": "Troncos e destroços levados pelas fortes chuvas invadem praia no RS A travessia de Catamarã entre Porto Alegre e Guaíba, na Região Metropolitana, está suspensa desde o fim da tarde de quinta-feira (23) devido ao grande volume de troncos, madeiras e entulhos que flutuam no lago Guaíba após as fortes…"
     },
     {
+      "id": "f729e1f40242",
+      "titulo": "Justiça Federal homologa Zoneamento Ecológico-Econômico para o Lago Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNalZmT2loTF8wOER3cXNmUk4wWEJjcWxTdEoyRDVIVGNNVE1wUW1Nc0xNRXJ1eUhPaGluVGtnd21lQ1VOWXNBUXQ0WEdBQk1vaDd6Ukc0bGJGRFdzcUV2bDBiNXBiX0ZlRlYzY09mMjU1VjdUTVpaUEpXeFdUeEhSWHhMNWY0Rm05QWZLcElya0JNVW90NVN5OGpqN0c3QUZZT0dTbW9RNXN1OEVxQzdaaHUxdTNQNkN3QTBV?oc=5",
+      "fonte": "Rádio Fandango",
+      "publicado_em": "2026-07-29T18:57:16+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Justiça Federal homologa Zoneamento Ecológico-Econômico para o Lago Guaíba Rádio Fandango"
+    },
+    {
+      "id": "576fa2c50e0b",
+      "titulo": "Defesa Civil reforça atendimento nas Ilhas e monitora elevação do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHhIdkVrMXFoQm8xX2pHblFOMVNWc0VqZEp2TTEtV1o0ZnY3d0U3NXlhSUM1NkpFemVfVnVkU1RwYjdLT1hCZmNNWjM4cjZsaFRvRHFkLVBaeld1VjZTWUtnRkotZnFfQnA3Z3VWMTZUVnFzZGtYajlQZEtuWVhTaDR6dEJhRVMtNTJLZlo4bS1TbDRxaENDUHVDRkpGVG9oU1pnYmFVcmNyaDc0c1QtX0xpcllZeWpCcEE3ME90RXBVUnhZRXl2STZFYWNVZjdIVE44?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-07-29T18:40:18+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Defesa Civil reforça atendimento nas Ilhas e monitora elevação do Guaíba Correio do Povo"
+    },
+    {
+      "id": "6d1eaee02286",
+      "titulo": "Guaíba pode superar cota de inundação no Centro de Porto Alegre até sábado, mostra novo boletim hidrológico",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNelQwS28wUVFvZndnbkFDY0h4b3V2NG9ZOElDanlGY21WX2lUdV9MYW91SlZ0NlpzR1lnbXk5UlV4WXRNLS1DWi10Zkt1OFVPcVZ6a0VXa1pTMlVCOTFCajZER242SjYzWUtSbmNQclFVek1kbmttd3V6c1NocGFIUXVraUhSUV9pVU5SYV9BbXhXRm9yVk9sLWw2MXJ3bk41YS1fUW9uSUw1UDdlWU9zVVJ0bE5EUklBazNoLUpRT0VOMXcxeU1ZVVVFQmZGZUtZeWlqdlA5aWwxdDhOTnVUZGkwNGQyYWEybmpZd0cxbXd1UUNBemY0RS0yc1NUNTBpM3NOcE9HNDVhTFFES2d6NEpsNDVrd052X09MOWR0MDV5SDhR?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-07-29T18:02:25+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba pode superar cota de inundação no Centro de Porto Alegre até sábado, mostra novo boletim hidrológico GZH"
+    },
+    {
+      "id": "9515e18d1a28",
+      "titulo": "Mesmo no pior cenário de chuvas, Guaíba deve permanecer abaixo da cota de inundação, aponta boletim",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPTkN4UFNWSUYxZzFJeTROQnllV2pWSVlQUWRZUllxOWNqU0VHRU43cDc3V0NWR2k5MXJfMURSUXh4SU02MGxNSnRJUU9zRnlnRHNMaVlwQzdqenpLa2VDU1NwZmVNZFJtOGdLa1lZbHFBNl9TR2FEX2gtZkNGYlJySlpjTUoxUmtUdGVwZ2NHU3dpNFd0cE9WaEp0c0JKODVZb1pEOW1wMHNSNkJvU2ZIRHl0dzF3ZXF6UGh0Rk5WZ1NrTDZMMG9fQ2FPU1ZNLUxlN2NhcUt1S2NrQTBjSzBxTnBnNW9UbmNPdzBBR1lPd2JYamhmSkN2RFNuT2hNN05WM2tsTUE5Z3Y1aExoaEdXaE52MUtRdnBEc2c?oc=5",
+      "fonte": "Diário Gaúcho",
+      "publicado_em": "2026-07-29T13:35:20+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Mesmo no pior cenário de chuvas, Guaíba deve permanecer abaixo da cota de inundação, aponta boletim Diário Gaúcho"
+    },
+    {
       "id": "b8a09b5f2ea2",
       "titulo": "Guaíba terá cheia de maior proporção e vai alagar nas ilhas",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbXhVck9JenMxT0swankyMkxGTzh3WjBHeTlqRG14ek1iS21ZRXVFM3lleVByU0kwbHYxazdMVXppU2RwanpUZUV4d2VENzVwbG1pMWxjTnlJMUlId29uNkNuYTl2bFcyOVJzT3VTV1ZoNmVtQnh6dTRZMi1EQXR5NVVPMVZYZw?oc=5",
@@ -182,16 +212,6 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Guaíba terá cheia de maior proporção e vai alagar nas ilhas MetSul Meteorologia"
-    },
-    {
-      "id": "72af9368c097",
-      "titulo": "Mesmo no pior cenário de chuvas, Guaíba deve permanecer abaixo da cota de inundação, aponta boletim",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdEx1azVlbENaWDVjYlowWk5YZ0xUSTRKSWZEbXhBanp4UUZUWFctcGkzTkJQdjNicjg4UG92dW9YYUdRblJGTW93RzJET1AxNTRJUzRPRnFSMnpOeHpjUzZ0NEFkazJZRVZuRFRGZlkxWHNhaDlDUlItTlJ4N1RFUDRudTZZVm5HOUZkOWFWVGRfUlRKbEtvN3B0d25NbkFJYTh6c1dHZjdkVEEtY3E4SFN0X01DY0JCT1RXY3l4a1hUWGdQbHlSLXpmQnMwUzRaT0VZSmI5dmprQkFvbHRUbDU0SXNVMGhQTkNDUjZxb0tMblhKV2V2cUIwQ056TU1yT1ptdUxKSkJzVmMtSHZWX3hB?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-07-28T21:27:47+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Mesmo no pior cenário de chuvas, Guaíba deve permanecer abaixo da cota de inundação, aponta boletim GZH"
     },
     {
       "id": "e54462d351de",
@@ -234,6 +254,16 @@
       "resumo": "Cenários apontam que Guaíba deve ficar na cota de atenção, mas inundação não é descartada Diário Gaúcho"
     },
     {
+      "id": "bc1b336c9ee5",
+      "titulo": "DMLU retira 78 toneladas de resíduos da Orla do Guaíba após chuvas em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdlEtWTJjOWpLX0x4N0owYURHS05oM3VETGVSdWFLa1BQS2F5aVpnQkJTMUVacEdDc2RQSHJqNERwSm5DeEhFTXhNY0kwLUNHV0NMbnkwNkl6RFhjZ25qanBKUThLY1JBTVdVRFpteWs5b0RXNUdWTGhtdldkZk0zRWlnY2ZwZlQxUjFKQ01lYkpqdTNnQUw0bWdRYjE0QU94T1ZuY3RDZzFPZm5VZEtiUEwzMWlERUYyTkFiV25CeFY3MFV4OWtqS0pWZw?oc=5",
+      "fonte": "radiocaicara.com.br",
+      "publicado_em": "2026-07-28T12:02:40+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "DMLU retira 78 toneladas de resíduos da Orla do Guaíba após chuvas em Porto Alegre radiocaicara.com.br"
+    },
+    {
       "id": "6ae42f1780db",
       "titulo": "O GUAÍBA VAI TRANSBORDAR? Veja os prognósticos do IPH para os próximos dias | Gaúcha+",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcHVWLUZyRmNpR1JEOGxhQTd5enBZc2VCOExxc1I3aENlQUw1eXBhN1ppa0NfN0hacVFoR0Z1QTQ5TGFpeXdfLWRvWEw1QkNQeXpIb3B0ZVhCSXJPWUpQRzJNbGptR0lSQ2pON2RrN3BXbjhsWG9wNXVFQm1XUXNWU1JmaUQwbHJWVnRLcW5fdUhETGZ6TThRZ1c2YTZsdi1TbDg4RkQyM3pKa2g3cGZyUi1ZVzB0SHpkVFU4RkNxdE0yZkZKV3dHQ3BnSVlVOWFDSEpucHg2T295dkE0TlZTOHhEQ24?oc=5",
@@ -262,6 +292,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Porto Alegre redescobre a orla do Guaíba e se torna referência urbana CAF | Banco"
+    },
+    {
+      "id": "0660341e9359",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONjd1Z3hLTkZVdWdUeHJXV3VOSnRwQU96eGNabWFuMHVITVppM2JtY2VTLVN1OEpOUXRmMkJFZ0dPOHFQRXdIcDJVQlFULU9wMUdDcW1ZWl9RLXJVTTA1dUd4UTZFUmdTRlBZX3hzVmxZMVl3V2FZZUdZUExFSkswQkdRdlRYSVEzMURscGctOC1wTlNXd2pzX05QUDUxNTRlRG4ybEVVOGtWYi1TYTJ3TzlCTWRCMFoydGlHRHMwMlJ1RmlkOWFjOW9Ca0RHNFBXT2hXSEh3SjgzWmtQTEtrWg?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-27T16:10:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro Repórter Guaibense"
     },
     {
       "id": "728442917be7",
@@ -332,59 +372,9 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Guaíba está abaixo da cota de inundação, mas previsão de chuva mantém atenção em Porto Alegre Jornal do Comércio"
-    },
-    {
-      "id": "69fda00b04a2",
-      "titulo": "Guaíba afirma ter removido cerca de 220 toneladas de resíduos da orla após temporais",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODhjRWVaMnJkNzhEa21fYmVBdXFpYnVTQ2haTmM2NWtRdVNZWklBSXJDLXFXbzFZbGtpR3ZSeW5WUVpBWVdQbmhLRHBXQVNDTUNOSkUtZllQYjBlcGRva05RX3VkclY4LVhPOTVPSGlVb1NJX08zR0taZzZQcHo5dm1XdU82YWl6VGpmMmlQQ1pPRmluRzNxWHIzS19WOVlfTS15d0hzbzBGSFdteTRrUVkwTUJjeFE1VjAxSmxIMXMyNzlqV1ZpRjhDRTNxZGVFY1RuRnNRM2otUVdwZ0VUclh2bw?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-26T17:18:51+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Guaíba afirma ter removido cerca de 220 toneladas de resíduos da orla após temporais Correio do Povo"
-    },
-    {
-      "id": "cfc0e5f1b6aa",
-      "titulo": "Catamarã entre Porto Alegre e Guaíba voltará a funcionar na segunda-feira",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRTlubk93T1hoM19qbk9XbUJjRmpCbVNtSW8zbWZkYWxBZl9zcGZBeHRidDRfODNPLTktVnhDYkNnbVg4SWFTYzJwVkNEdjE0aVVfQXhTb2JBUFF5c29ScGRvWEFrNk5ERHBMUV9SN29TYWRqbzNXdWFWZ0cwTklhNktBamJmUDZySWp1LTZvM0hRX0RlQ1dSUUJNTlRJQzYyc3ZJUjNwd2VScThZRHhpajlSd25zNW9DOXJiMDV4MkhYdTk1cllHbUdlcVdNTHh0ZExNWA?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-26T15:10:11+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Catamarã entre Porto Alegre e Guaíba voltará a funcionar na segunda-feira Correio do Povo"
-    },
-    {
-      "id": "41be03f75c6f",
-      "titulo": "Depois de atingir 2,15m, Guaíba sai da cota de atenção e prefeitura reabrirá quadras da Orla 3",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT1o4WnJLZnpYaVZ5ck1FRElOS0dSY3Q0TEdGMmIwVXFqOTFWMnExa2lTekVZLUpGbDdteUppZGw4QVdOekFtSEFXbzhReWNLYWQxcEwtRHlSM0lldjBJUXFRUlZWWURVeVZrX2MyQkxXbENrczl6TjAyM1Jpb1BtZWd5aEpMMGxNcnlZazJyVnFLUzRDSG1CSVpkd0Rob2dtb1JDMDJSS0k3bkRSMXluZ2ZodVBZM2M4bzdYVFFwNzIzZS1kaGRuTjRrRlBYYjg1SjBfUXpMYkFNdkp3b2R0TmR4WWVsVTBuOHgtemJR?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-26T14:10:09+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Depois de atingir 2,15m, Guaíba sai da cota de atenção e prefeitura reabrirá quadras da Orla 3 Correio do Povo"
-    },
-    {
-      "id": "93ed44e612f4",
-      "titulo": "Cerca de 40 caminhões de troncos e resíduos são retirados da Orla do Guaíba após forte chuva no RS",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOUU1tS2VhRFBjWDZyWHdxU1NYT2RNejBzMWxVYmxTQllzd0sySDJCM1B0NVZYZldDX01mbHlRZVJMT25HbkQxMEdZcVMzaFgxNjI0QjFBdU5ZNDR3NUcwSER1aXpPRkhiV1BueUZ2eEVjRmN2ZjNLV19XcTVxbmtTbVdFVTA0SGRna0ZvdDN0a1E5VmdWc1lQd19LV3dXTU11SHJaNWtHLTBaZUhIZFREUEpDNWFtZEc2Z0Y0cWE0c0tmV0VORU5RVzBEei1DVjZJS0R4NkR4YXp2WndtVl9jVUVXSnpxZXgweVhsZFFMZk5lcDc0cS1ZcG1PN1BQUzAybC1iWjNjWXFrUUY1S2R1a09QRnZQLS1pdEFj?oc=5",
-      "fonte": "Diário Gaúcho",
-      "publicado_em": "2026-07-26T13:12:37+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Cerca de 40 caminhões de troncos e resíduos são retirados da Orla do Guaíba após forte chuva no RS Diário Gaúcho"
     }
   ],
   "noticias_home": [
-    {
-      "id": "5c9a14de8bb3",
-      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-29T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
     {
       "id": "fb0a0f3cbc0f",
       "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
@@ -406,34 +396,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
-    },
-    {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
-    },
-    {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
       "id": "b9a5d813bc2a",
@@ -446,14 +416,44 @@
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+    },
+    {
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+    },
+    {
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
+    },
+    {
+      "id": "8e331490b341",
+      "titulo": "Orla de Guaíba tem cerca de 40 caminhões de troncos e resíduos retirados após fortes chuvas no RS",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/07/25/orla-guaiba-40-caminhoes-troncos-residuos-retirados-fortes-chuvas-rs.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-07-25T20:46:39+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Troncos e destroços levados pelas fortes chuvas invadem praia no RS Equipes da prefeitura de Guaíba, na Região Metropolitana de Porto Alegre, retiraram cerca de 40 caminhões carregados de troncos, galhos e outros resíduos acumulados na orla do município após as fortes chuvas que atingiram o Rio…"
     }
   ]
 }
