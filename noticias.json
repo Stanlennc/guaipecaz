@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-29T19:13:42.530036+00:00",
+  "gerado_em": "2026-07-29T20:54:12.291209+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,24 +94,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "id": "5c9a14de8bb3",
+      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-07-29T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
-      "id": "b9a5d813bc2a",
-      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
       "id": "2a55db2c4fa4",
@@ -124,6 +114,26 @@
       "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
+      "id": "b9a5d813bc2a",
+      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
+    },
+    {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
       "id": "cdfc5fa3a4a6",
       "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
       "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
@@ -132,16 +142,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
-    },
-    {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "8e331490b341",
@@ -162,6 +162,16 @@
       "categoria": "G1",
       "feed": "g1_rs",
       "resumo": "Troncos e destroços levados pelas fortes chuvas invadem praia no RS A travessia de Catamarã entre Porto Alegre e Guaíba, na Região Metropolitana, está suspensa desde o fim da tarde de quinta-feira (23) devido ao grande volume de troncos, madeiras e entulhos que flutuam no lago Guaíba após as fortes…"
+    },
+    {
+      "id": "df5065bc1d31",
+      "titulo": "Guaíba pode atingir cota de inundação nos próximos dias",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnMySVJKUlpiNncyTldtTEdWaFFxZGlVcE5Tc0E5ZThFOFpyMERQYkpnUVMtY3VrandQSktYYU5JbWlvZnVRQnA4RUZ5STJqOXFlM2FJQ1dQeXZwYmp6YnBLbjI1NFFuUHRuc0hpcERKRzJxZUVfa0FwTXVDT0h2M1JRaFpUalo0S0dZ?oc=5",
+      "fonte": "Agora RS",
+      "publicado_em": "2026-07-29T19:33:59+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba pode atingir cota de inundação nos próximos dias Agora RS"
     },
     {
       "id": "f729e1f40242",
@@ -197,11 +207,11 @@
       "id": "9515e18d1a28",
       "titulo": "Mesmo no pior cenário de chuvas, Guaíba deve permanecer abaixo da cota de inundação, aponta boletim",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPTkN4UFNWSUYxZzFJeTROQnllV2pWSVlQUWRZUllxOWNqU0VHRU43cDc3V0NWR2k5MXJfMURSUXh4SU02MGxNSnRJUU9zRnlnRHNMaVlwQzdqenpLa2VDU1NwZmVNZFJtOGdLa1lZbHFBNl9TR2FEX2gtZkNGYlJySlpjTUoxUmtUdGVwZ2NHU3dpNFd0cE9WaEp0c0JKODVZb1pEOW1wMHNSNkJvU2ZIRHl0dzF3ZXF6UGh0Rk5WZ1NrTDZMMG9fQ2FPU1ZNLUxlN2NhcUt1S2NrQTBjSzBxTnBnNW9UbmNPdzBBR1lPd2JYamhmSkN2RFNuT2hNN05WM2tsTUE5Z3Y1aExoaEdXaE52MUtRdnBEc2c?oc=5",
-      "fonte": "Diário Gaúcho",
+      "fonte": "diariogaucho.clicrbs.com.br",
       "publicado_em": "2026-07-29T13:35:20+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Mesmo no pior cenário de chuvas, Guaíba deve permanecer abaixo da cota de inundação, aponta boletim Diário Gaúcho"
+      "resumo": "Mesmo no pior cenário de chuvas, Guaíba deve permanecer abaixo da cota de inundação, aponta boletim diariogaucho.clicrbs.com.br"
     },
     {
       "id": "b8a09b5f2ea2",
@@ -247,11 +257,11 @@
       "id": "d15acc71388a",
       "titulo": "Cenários apontam que Guaíba deve ficar na cota de atenção, mas inundação não é descartada",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPVjFfRnVMM3I5UVdTLS16dEFRSWtsZnVMYWpwYnpQelZsS2NlZFhFaml6QnFwa1g1aHRncFlxSy1KN3N4UE1NcVZHV3loR1NldnZsdzhIVDNoM280QWhtdWcxTGZWTW5GTXpZZGtzazhfdHBQb2NEazByczJ1eVk3RE9RbFFCVE54TkNxZ1QydmY1a0ZZaUl3MEZENTZvVDE4ZTkxMGxoX0JVRG5wZ2hEMGRSQm9KTzFRREJCOWFyQlhjZ0w0Y2FfeXdrOEx2bkRKcTJQV09PV3RsTnRUSDdlUVFUenNNTW9KNHlrUHJtWTIwcFl3RHh1bndEbFlfY2dHTVFDSDZlMTE1aGZHV2c?oc=5",
-      "fonte": "Diário Gaúcho",
+      "fonte": "diariogaucho.clicrbs.com.br",
       "publicado_em": "2026-07-28T13:14:14+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "Cenários apontam que Guaíba deve ficar na cota de atenção, mas inundação não é descartada Diário Gaúcho"
+      "resumo": "Cenários apontam que Guaíba deve ficar na cota de atenção, mas inundação não é descartada diariogaucho.clicrbs.com.br"
     },
     {
       "id": "bc1b336c9ee5",
@@ -262,16 +272,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "DMLU retira 78 toneladas de resíduos da Orla do Guaíba após chuvas em Porto Alegre radiocaicara.com.br"
-    },
-    {
-      "id": "6ae42f1780db",
-      "titulo": "O GUAÍBA VAI TRANSBORDAR? Veja os prognósticos do IPH para os próximos dias | Gaúcha+",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcHVWLUZyRmNpR1JEOGxhQTd5enBZc2VCOExxc1I3aENlQUw1eXBhN1ppa0NfN0hacVFoR0Z1QTQ5TGFpeXdfLWRvWEw1QkNQeXpIb3B0ZVhCSXJPWUpQRzJNbGptR0lSQ2pON2RrN3BXbjhsWG9wNXVFQm1XUXNWU1JmaUQwbHJWVnRLcW5fdUhETGZ6TThRZ1c2YTZsdi1TbDg4RkQyM3pKa2g3cGZyUi1ZVzB0SHpkVFU4RkNxdE0yZkZKV3dHQ3BnSVlVOWFDSEpucHg2T295dkE0TlZTOHhEQ24?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-07-27T20:19:43+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "O GUAÍBA VAI TRANSBORDAR? Veja os prognósticos do IPH para os próximos dias | Gaúcha+ GZH"
     },
     {
       "id": "cf60ff6bc797",
@@ -292,16 +292,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Porto Alegre redescobre a orla do Guaíba e se torna referência urbana CAF | Banco"
-    },
-    {
-      "id": "0660341e9359",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONjd1Z3hLTkZVdWdUeHJXV3VOSnRwQU96eGNabWFuMHVITVppM2JtY2VTLVN1OEpOUXRmMkJFZ0dPOHFQRXdIcDJVQlFULU9wMUdDcW1ZWl9RLXJVTTA1dUd4UTZFUmdTRlBZX3hzVmxZMVl3V2FZZUdZUExFSkswQkdRdlRYSVEzMURscGctOC1wTlNXd2pzX05QUDUxNTRlRG4ybEVVOGtWYi1TYTJ3TzlCTWRCMFoydGlHRHMwMlJ1RmlkOWFjOW9Ca0RHNFBXT2hXSEh3SjgzWmtQTEtrWg?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-27T16:10:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro Repórter Guaibense"
     },
     {
       "id": "728442917be7",
@@ -372,6 +362,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Guaíba está abaixo da cota de inundação, mas previsão de chuva mantém atenção em Porto Alegre Jornal do Comércio"
+    },
+    {
+      "id": "69fda00b04a2",
+      "titulo": "Guaíba afirma ter removido cerca de 220 toneladas de resíduos da orla após temporais",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODhjRWVaMnJkNzhEa21fYmVBdXFpYnVTQ2haTmM2NWtRdVNZWklBSXJDLXFXbzFZbGtpR3ZSeW5WUVpBWVdQbmhLRHBXQVNDTUNOSkUtZllQYjBlcGRva05RX3VkclY4LVhPOTVPSGlVb1NJX08zR0taZzZQcHo5dm1XdU82YWl6VGpmMmlQQ1pPRmluRzNxWHIzS19WOVlfTS15d0hzbzBGSFdteTRrUVkwTUJjeFE1VjAxSmxIMXMyNzlqV1ZpRjhDRTNxZGVFY1RuRnNRM2otUVdwZ0VUclh2bw?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-07-26T17:18:51+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Guaíba afirma ter removido cerca de 220 toneladas de resíduos da orla após temporais Correio do Povo"
     }
   ],
   "noticias_home": [
@@ -396,24 +396,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "id": "5c9a14de8bb3",
+      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-auxiliar-mecanico-servicos-gerais-e-mais-veja-as-vagas-de-emprego-disponiveis-no-sine-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-07-29T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
-      "id": "b9a5d813bc2a",
-      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
       "id": "2a55db2c4fa4",
@@ -426,6 +416,26 @@
       "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
+      "id": "b9a5d813bc2a",
+      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
+    },
+    {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
       "id": "cdfc5fa3a4a6",
       "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
       "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
@@ -434,16 +444,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
-    },
-    {
-      "id": "1360a7e98d8a",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "8e331490b341",
