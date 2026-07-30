@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-30T10:23:29.078709+00:00",
+  "gerado_em": "2026-07-30T13:56:18.899516+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "fb0a0f3cbc0f",
-      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
-      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-30T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
-    },
-    {
       "id": "4b0eb5cbea65",
       "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
@@ -94,14 +84,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "b9a5d813bc2a",
-      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
       "id": "2a55db2c4fa4",
@@ -112,16 +102,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
-    },
-    {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
       "id": "1360a7e98d8a",
@@ -152,6 +132,56 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
+      "id": "b9a5d813bc2a",
+      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
+    },
+    {
+      "id": "048c6d4c4bce",
+      "titulo": "Guaíba anuncia construção de nova rotatória para qualificar a mobilidade urbana",
+      "url": "https://expansao.co/guaiba-anuncia-construcao-de-nova-rotatoria-para-qualificar-a-mobilidade-urbana/",
+      "fonte": "Expansão",
+      "publicado_em": "2026-07-30T12:08:04+00:00",
+      "categoria": "Cidades",
+      "feed": "expansao_direto",
+      "resumo": "A Secretaria de Meio Ambiente, Urbanismo e Sustentabilidade de Guaíba, informa que foi aprovado em definitivo o projeto para a implantação de uma nova rotatória em frente ao Hotel Ibis,&#8230; O post Guaíba anuncia construção de nova rotatória para qualificar a mobilidade urbana apareceu primeiro…"
+    },
+    {
+      "id": "274ff85d6a0a",
+      "titulo": "Prefeita de Guaíba coordena vistoria nas áreas afetadas pelos entulhos das cheias",
+      "url": "https://expansao.co/prefeita-de-guaiba-coordena-vistoria-nas-areas-afetadas-pelos-entulhos-das-cheias/",
+      "fonte": "Expansão",
+      "publicado_em": "2026-07-30T11:55:38+00:00",
+      "categoria": "Cidades",
+      "feed": "expansao_direto",
+      "resumo": "Na manhã desta quarta-feira, 29 de julho, a prefeita de Guaíba, Claudinha Jardim, recebeu em seu gabinete integrantes da equipe da Secretaria de Desenvolvimento Urbano e Metropolitano (Sedur) para coordenar&#8230; O post Prefeita de Guaíba coordena vistoria nas áreas afetadas pelos entulhos das…"
+    },
+    {
+      "id": "3adc2687aa06",
+      "titulo": "Prefeitura de Guaíba amplia estrutura da Clínica Veterinária Municipal",
+      "url": "https://expansao.co/prefeitura-de-guaiba-amplia-estrutura-da-clinica-veterinaria-municipal/",
+      "fonte": "Expansão",
+      "publicado_em": "2026-07-30T11:31:03+00:00",
+      "categoria": "Cidades",
+      "feed": "expansao_direto",
+      "resumo": "A Secretaria Municipal de Bem-Estar Animal de Guaíba inaugurou oficialmente a nova sala para exames veterinários na Clínica Veterinária Municipal. O espaço está localizado junto à sede da secretaria, na&#8230; O post Prefeitura de Guaíba amplia estrutura da Clínica Veterinária Municipal apareceu…"
     },
     {
       "id": "5f492cfb20e9",
@@ -194,11 +224,41 @@
       "resumo": "Troncos e destroços levados pelas fortes chuvas invadem praia no RS A travessia de Catamarã entre Porto Alegre e Guaíba, na Região Metropolitana, está suspensa desde o fim da tarde de quinta-feira (23) devido ao grande volume de troncos, madeiras e entulhos que flutuam no lago Guaíba após as fortes…"
     },
     {
+      "id": "36d75818d722",
+      "titulo": "Porto Alegre: Defesa Civil emite aviso amarelo para elevação do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcmpvcnNGQWo4anBLd19uWkdtSjd3b3YtOHlMdkl0U0pRakF2Ui1LWUtZN2o1Q1VLcmxaeXk2ckdKSVZaWXZlTXQ5VkpHeTN4TmRxTDdoNzNRams3UVU1Rk5XNzJIcTdfYk01SUR4OHRiVGVVUzBDeGswN1RHRmdVQms3QWw?oc=5",
+      "fonte": "Agora RS",
+      "publicado_em": "2026-07-30T13:32:31+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Porto Alegre: Defesa Civil emite aviso amarelo para elevação do Guaíba Agora RS"
+    },
+    {
+      "id": "674d7bdfcdfa",
+      "titulo": "Guaíba pode superar cota de inundação no Centro de Porto Alegre até sábado, mostra novo boletim hidrológico",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNcUJmNzBiSnFLMHdJaDFFYkNPOTdpNUZPeExRZV9ldGRNb3U3RXYtSGVRRUQtZ0QzT0pLeklLMGhOUDJJeVFyNzQyZi15X05pdUd2ZGQ2RTFNYWtGc0ZQVEgzYUZOYmFrTkl5c3dJRFNZWWJYandpcEZGdHh6TFNDdG1OdmdDZkNxb0g5WFpEbW5uQWxhankySjdoRXkyQmV5QWZnVlNLaVhZc2RSZ3RqVFhhd0sxcDl0RW50emxHbnltMEJYMXU2cGZ2RExCWFhvVkdobkJFT2ozY2hFcDBTbkhtNzNfZXVIaE5tT3FmckNYeHRZbVNTQ0lEVTgzLXpnU29WTS1pZEQtaWFFZVE4cmJMRjVzNEYxbzY3bFQ1S3JabHQ5bmc?oc=5",
+      "fonte": "Diário Gaúcho",
+      "publicado_em": "2026-07-30T12:55:38+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Guaíba pode superar cota de inundação no Centro de Porto Alegre até sábado, mostra novo boletim hidrológico Diário Gaúcho"
+    },
+    {
+      "id": "4f9c8afd6c4c",
+      "titulo": "Guaíba pode superar cota de inundação em Porto Alegre até sábado",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUo3eEhnNHBiT0RYUEZWa3I1TGViajUxaDJBTktoanRZaDNFREtfQmlSUlR4c2ZjMXNKQXp3cGgzZ3NMLUNHMmdkUGlUNDdsVERPdXBtd3VGdzhTOXpSczdrUnp3c3BXbDZTTGVVd3lNUkxVRU1rQnZCT1dKbENURTVQVXdpaS1VZXNJRTdhdUgzTTRweVlVZmFlVTVVTE0?oc=5",
+      "fonte": "Studio Notícias",
+      "publicado_em": "2026-07-30T10:40:05+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Guaíba pode superar cota de inundação em Porto Alegre até sábado Studio Notícias"
+    },
+    {
       "id": "a03afa9cb56e",
       "titulo": "Guaíba pode atingir cota de alerta nos próximos dias e provocar alagamentos",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ1ZjclFqM2phOG9VaU8wMmlxdjJEUGhhVm1IZ2JXXzlINW5WQkpfcXRpRHJvYXhodk96cE5yQjVPR1d5RmU3cUwxdWlqVUlpbTNhbWNOc0FvZ3N4dy1kOTl4Wm1FQjliZmZQWFo4ZXZwLVpQbW9TNnZVSzZKeGhBSXhqZlgtLV8wTXNydnR2TUw3ZnZONWN5aUFvWnBOYk44Y3JFVjctTlpuT0lScXVXUVFoeUZhQm9vaUxfWDNsd2MzY2s?oc=5",
       "fonte": "abcmais.com",
-      "publicado_em": "2026-07-30T10:21:36+00:00",
+      "publicado_em": "2026-07-30T10:30:00+00:00",
       "categoria": null,
       "feed": "google",
       "resumo": "Guaíba pode atingir cota de alerta nos próximos dias e provocar alagamentos abcmais.com"
@@ -207,11 +267,11 @@
       "id": "aaefb3a71a49",
       "titulo": "Guaíba em cota de atenção, estragos do tornado e 128 municípios com danos: os impactos da chuva no RS na quarta-feira",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOY3JWb1JrUjBHMzl0MnBGaFJZVzJMR0VmOXdvVUN5REFSN3BwTWN2Y1VNOHhFVzB1blZlYmxmN21hQkNERjJ3eVpFbEljV1J0LVJZYXA5ZnlUUTN1aVJ4TU1GSjhtaGNEeEZGZ2hLUlJXanFxcExIbTE4TXZFWFdtRTJuZ29jMjN3NTZmamJyZkZnSHVBN29fNmNkOElMTm5HU2ZMRTlkbnZJeXpYdVdfUGYtU0txRlRPSFVmdUdLVEt1NGJrRm5hdGsyZXZ3Qy15dm1wODI2enNlaUtkR1VpcGtVZXc3dDRjWmhxbjBaelBKdkpFS2twNm5sX1U2anRSTnF0Z2tiTFJlVng1VkU0VUpEUERwckVhYk11VzZLdllnRUJsZFdj?oc=5",
-      "fonte": "GZH",
+      "fonte": "gauchazh.clicrbs.com.br",
       "publicado_em": "2026-07-30T10:14:36+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Guaíba em cota de atenção, estragos do tornado e 128 municípios com danos: os impactos da chuva no RS na quarta-feira GZH"
+      "resumo": "Guaíba em cota de atenção, estragos do tornado e 128 municípios com danos: os impactos da chuva no RS na quarta-feira gauchazh.clicrbs.com.br"
     },
     {
       "id": "f68d061ab135",
@@ -277,31 +337,31 @@
       "id": "78c5d1f4483f",
       "titulo": "Guaíba atinge cota de atenção, diz Defesa Civil de Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS3R5Y0Eyb2h5ZUV2bkpoSzFuaTN2WGNkd1Z1MTMzQkdzQU5CYlRKd0VBWTgySWNtc0drTlJKRnlrTGM3VzhxOUF1S1RheV9JTXhMLVQtYmFJN1hORndMMUJDc0trekdHRFE3cHJ4TXoxdlM5ZVlCd09INXhuOWxYX0VTa1N5N2NwZTNWWGlzMXl4SWQ5cml5cmhmdFUyeGkwTXpubXRDZkRUUTRJTkloWDBLdXI2S1lnNWx5ZktzNlAzSXVCMkVjXzlIWnVvZ2ZHOE1hSTJmZXRTYWV1THpoLW9sRUNNMHotYlE?oc=5",
-      "fonte": "GZH",
+      "fonte": "gauchazh.clicrbs.com.br",
       "publicado_em": "2026-07-29T23:24:50+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Guaíba atinge cota de atenção, diz Defesa Civil de Porto Alegre GZH"
+      "resumo": "Guaíba atinge cota de atenção, diz Defesa Civil de Porto Alegre gauchazh.clicrbs.com.br"
     },
     {
       "id": "edb653d5c3d0",
       "titulo": "NOVO ALERTA do IPH: GUAÍBA vai passar a COTA DE INUNDAÇÃO na região do cais | Gaúcha+",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOHQzN2ZxMS05OC01MTl1bmQtclA5akFKaWd1dWw1cEZkNmhYVHl5Z3A1enRsc08zZFRoZEs5UkU5ZHNnbi1naGVLcmVBUVNhbVRiSjFDb0dGQ3ZRQmNycjlINkZZLU01RUg0eF8zdzdfZ0Q4SkRiVklHWTBsZHVLZVN2RlQ0WGJfRzRTUm93Um9JM0k3VkU2dkpXcEtPaXMybjBQalYxRGlvN3IwdUpSZWtnLTBPMkJpWldrVWtOQVJwMGlLSkZiaU41dVhkbkw5SGZZYTQ4MUs0c05UUVVIMjBpcEY?oc=5",
-      "fonte": "GZH",
+      "fonte": "gauchazh.clicrbs.com.br",
       "publicado_em": "2026-07-29T22:59:26+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "NOVO ALERTA do IPH: GUAÍBA vai passar a COTA DE INUNDAÇÃO na região do cais | Gaúcha+ GZH"
+      "resumo": "NOVO ALERTA do IPH: GUAÍBA vai passar a COTA DE INUNDAÇÃO na região do cais | Gaúcha+ gauchazh.clicrbs.com.br"
     },
     {
       "id": "ae3eb8dd8e4d",
       "titulo": "Defesa Civil emite aviso amarelo para elevação do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdmN0djgyOVNadTFjXzNmbEJLb1ZPZmNOUjZIYWVUa2FYUU5PUFViRXBOMEZjZjhORm4tSkVXcUl6UXlvUXZSYlU1YVFMNjEwTzNoTW4wTFMzNUF5TV9KM2NjTmZBbnhBUjJUXzc5d1Y1Q0ZKNTNNN1V4bTRScnBES19seHRaQQ?oc=5",
-      "fonte": "Rádio Guaíba",
+      "fonte": "guaiba.com.br",
       "publicado_em": "2026-07-29T21:48:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Defesa Civil emite aviso amarelo para elevação do Guaíba Rádio Guaíba"
+      "resumo": "Defesa Civil emite aviso amarelo para elevação do Guaíba guaiba.com.br"
     },
     {
       "id": "400c556766b1",
@@ -312,79 +372,9 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Modelos hidrológicos preveem transbordamento do Guaíba em Porto Alegre até o final da semana Terra"
-    },
-    {
-      "id": "978fbea4bd15",
-      "titulo": "Defesa Civil emite aviso para elevação do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU1VTYThlbTlxaWJycDlzZlM0bFRDWkNDWkpsaS1md1FyUkdUYmxEWU4xOFM4STM2VlJ0bk1UaHlMaTBteUlXVm9vVHlfZnQwM0l4OUJjOXF5TWdsdjVYVlZ3WmFoNFNWMS1mbmIxWmhuWUZPQkRQdUdydGpxTklWeUpPeEp5Q01CdHRsTEFyc2NUdHM1cUZXNlRQQVdzei1kbG1ucE12NVlnZzBCZTBUQVdVdw?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-29T21:30:25+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Defesa Civil emite aviso para elevação do Guaíba Correio do Povo"
-    },
-    {
-      "id": "df5065bc1d31",
-      "titulo": "Guaíba pode atingir cota de inundação até sábado (1º) no Centro de Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnMySVJKUlpiNncyTldtTEdWaFFxZGlVcE5Tc0E5ZThFOFpyMERQYkpnUVMtY3VrandQSktYYU5JbWlvZnVRQnA4RUZ5STJqOXFlM2FJQ1dQeXZwYmp6YnBLbjI1NFFuUHRuc0hpcERKRzJxZUVfa0FwTXVDT0h2M1JRaFpUalo0S0dZ?oc=5",
-      "fonte": "Agora RS",
-      "publicado_em": "2026-07-29T19:33:59+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba pode atingir cota de inundação até sábado (1º) no Centro de Porto Alegre Agora RS"
-    },
-    {
-      "id": "eae7665971ac",
-      "titulo": "Guaíba pode superar cota de inundação até sábado",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMW5wcEF3TnRMLVNLRzNwVmFjeTdzd1dGMEJkMEN6aXdmemRTNGFHM3NENkZ0YnVSWVNvWHJvMWpNSlRISUJzNEtSc3JzZVREZWN1ckpOckxadC1jN3VqUlAxOWhIV1RpbWRHbU0xenJ4aTBXTFFDY3Q3LVJBRjhkNXg2VXRDd1JTVWRlR2JvY3hiN1pCQTZ0T3p2LTQ?oc=5",
-      "fonte": "Grupo A Hora",
-      "publicado_em": "2026-07-29T19:03:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba pode superar cota de inundação até sábado Grupo A Hora"
-    },
-    {
-      "id": "f729e1f40242",
-      "titulo": "Justiça Federal homologa Zoneamento Ecológico-Econômico para o Lago Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNalZmT2loTF8wOER3cXNmUk4wWEJjcWxTdEoyRDVIVGNNVE1wUW1Nc0xNRXJ1eUhPaGluVGtnd21lQ1VOWXNBUXQ0WEdBQk1vaDd6Ukc0bGJGRFdzcUV2bDBiNXBiX0ZlRlYzY09mMjU1VjdUTVpaUEpXeFdUeEhSWHhMNWY0Rm05QWZLcElya0JNVW90NVN5OGpqN0c3QUZZT0dTbW9RNXN1OEVxQzdaaHUxdTNQNkN3QTBV?oc=5",
-      "fonte": "Rádio Fandango",
-      "publicado_em": "2026-07-29T18:57:16+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Justiça Federal homologa Zoneamento Ecológico-Econômico para o Lago Guaíba Rádio Fandango"
-    },
-    {
-      "id": "576fa2c50e0b",
-      "titulo": "Defesa Civil reforça atendimento nas Ilhas e monitora elevação do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHhIdkVrMXFoQm8xX2pHblFOMVNWc0VqZEp2TTEtV1o0ZnY3d0U3NXlhSUM1NkpFemVfVnVkU1RwYjdLT1hCZmNNWjM4cjZsaFRvRHFkLVBaeld1VjZTWUtnRkotZnFfQnA3Z3VWMTZUVnFzZGtYajlQZEtuWVhTaDR6dEJhRVMtNTJLZlo4bS1TbDRxaENDUHVDRkpGVG9oU1pnYmFVcmNyaDc0c1QtX0xpcllZeWpCcEE3ME90RXBVUnhZRXl2STZFYWNVZjdIVE44?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-29T18:40:18+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Defesa Civil reforça atendimento nas Ilhas e monitora elevação do Guaíba Correio do Povo"
-    },
-    {
-      "id": "6d1eaee02286",
-      "titulo": "Guaíba pode superar cota de inundação no Centro de Porto Alegre até sábado, mostra novo boletim hidrológico",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNelQwS28wUVFvZndnbkFDY0h4b3V2NG9ZOElDanlGY21WX2lUdV9MYW91SlZ0NlpzR1lnbXk5UlV4WXRNLS1DWi10Zkt1OFVPcVZ6a0VXa1pTMlVCOTFCajZER242SjYzWUtSbmNQclFVek1kbmttd3V6c1NocGFIUXVraUhSUV9pVU5SYV9BbXhXRm9yVk9sLWw2MXJ3bk41YS1fUW9uSUw1UDdlWU9zVVJ0bE5EUklBazNoLUpRT0VOMXcxeU1ZVVVFQmZGZUtZeWlqdlA5aWwxdDhOTnVUZGkwNGQyYWEybmpZd0cxbXd1UUNBemY0RS0yc1NUNTBpM3NOcE9HNDVhTFFES2d6NEpsNDVrd052X09MOWR0MDV5SDhR?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-07-29T18:17:06+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba pode superar cota de inundação no Centro de Porto Alegre até sábado, mostra novo boletim hidrológico GZH"
     }
   ],
   "noticias_home": [
-    {
-      "id": "fb0a0f3cbc0f",
-      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
-      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-30T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
-    },
     {
       "id": "4b0eb5cbea65",
       "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
@@ -396,14 +386,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "b9a5d813bc2a",
-      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
       "id": "2a55db2c4fa4",
@@ -414,16 +404,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
-    },
-    {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
       "id": "1360a7e98d8a",
@@ -454,6 +434,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
+      "id": "b9a5d813bc2a",
+      "titulo": "Veja como se cadastrar e andar nas bicicletas do projeto Pedal Sustentável, em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/veja-como-se-cadastrar-e-andar-nas-bicicletas-do-projeto-pedal-sustentavel-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     }
   ]
 }
