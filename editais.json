@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-30T02:10:44.386993+00:00",
+  "gerado_em": "2026-07-30T08:23:06.684275+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -17,18 +17,9 @@
       "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzlHblVqUXlZbUdfMWhiMXhQdV9NVnlFeXRjakNxbFQwem12LTkxcWlQSkdMcHBDZm5QR0hiY3Z0MFFxQ1RNMW1ZRFpxV1I1elNuX3J1OEtpLWJXQm9jNFVyT0c0YXRvV1dDTE1mdWVmYmJxOWlhZXhEOGdOdEhfMEs0aTJ5T0dXQ29zVEFPNzlmbXJ1S1ZBUTNDX1phS1hkOVBqT25qOHRvUWVsNUZoSE5lSkJOTWxmSllxZ2pxYUVueGJWSkVR?oc=5",
       "fonte": "Repórter Guaibense",
-      "tipo": "licitacao",
+      "tipo": "edital",
       "publicado_em": "2026-07-20T07:00:00+00:00",
-      "feed": "licitacao"
-    },
-    {
-      "id": "bed1d4b3120d",
-      "titulo": "Mercado Livre confirma megacentro logístico em Guaíba e vai gerar 660 empregos diretos na região",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcWtYUERDZFc3Ti1STjhxX3pCZWFxRzg0MVV2UWRZanNwalVVRFF5Y3JZZVBaUm1pbWR6RVN3UTZYeWRsa2hxYzV3SWEzQjZiRnpLaTR2R2MxSF9EamtSM3N2UHE1S3VqNHJHNFRHa2l4NF96N3hlcVVXVy14Y3RCUUlLWFBUb3hqUHE1QmxZRUF5T0p3VVBXQWtKOWVrSFllYTd6Njk5azFObloySGhWTWNLQlJSQWtELUE5LU5rVzZoSDd4TnZEYTNuVzRhZDJWNEZLNmN4emY3cVlFbjQ4MUhycUVUWlE?oc=5",
-      "fonte": "Portal de Camaquã",
-      "tipo": "vaga",
-      "publicado_em": "2026-07-20T01:43:42+00:00",
-      "feed": "vagas"
+      "feed": "edital"
     },
     {
       "id": "07945b98a1e5",
@@ -109,6 +100,15 @@
       "fonte": "Repórter Guaibense",
       "tipo": "concurso",
       "publicado_em": "2026-04-23T07:00:00+00:00",
+      "feed": "concurso"
+    },
+    {
+      "id": "8cf47856226c",
+      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego e realiza entrevistas para oportunidades em Eldorado do Sul",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTmtMNVFaY0RYYjlraklQYzhtRFgzV3B1M1hCQXVFUHpwNHU3ejJRT2Q0UWdJUll1UnJZQnBITmlscFdYRkNIX0RXYzAzWEVEZVVqblUxbTQ2MGg0aEt2Z0tWTFVIZzBmT2wwREFoYWlhRnRINWxfYm82eXNWRE5JdkdQenB6T3pRUGNIWGxZQ284Q1hvRzY1Vnh4UGFmNTlIRDlBQm8wb3RwaVpUVk9manVINHk3U1lGSzhmeEtlV0NWRzAwSFgyNXU5UFQzMzUwOE1rZlI0Z0w4Ymt3OWRqbm8zS0hFa2s?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "concurso",
+      "publicado_em": "2026-04-09T07:00:00+00:00",
       "feed": "concurso"
     }
   ]
