@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-30T15:52:32.729041+00:00",
+  "gerado_em": "2026-07-30T17:25:17.800069+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-30T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
-    {
       "id": "fb0a0f3cbc0f",
       "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
       "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
@@ -92,6 +82,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
+    },
+    {
+      "id": "4b0eb5cbea65",
+      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-30T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
       "id": "b9a5d813bc2a",
@@ -104,24 +104,24 @@
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "1abd77fa27dd",
@@ -134,24 +134,14 @@
       "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
-      "id": "048c6d4c4bce",
-      "titulo": "Guaíba anuncia construção de nova rotatória para qualificar a mobilidade urbana",
-      "url": "https://expansao.co/guaiba-anuncia-construcao-de-nova-rotatoria-para-qualificar-a-mobilidade-urbana/",
-      "fonte": "Expansão",
-      "publicado_em": "2026-07-30T12:08:04+00:00",
-      "categoria": "Cidades",
-      "feed": "expansao_direto",
-      "resumo": "A Secretaria de Meio Ambiente, Urbanismo e Sustentabilidade de Guaíba, informa que foi aprovado em definitivo o projeto para a implantação de uma nova rotatória em frente ao Hotel Ibis,&#8230; O post Guaíba anuncia construção de nova rotatória para qualificar a mobilidade urbana apareceu primeiro…"
-    },
-    {
-      "id": "274ff85d6a0a",
-      "titulo": "Prefeita de Guaíba coordena vistoria nas áreas afetadas pelos entulhos das cheias",
-      "url": "https://expansao.co/prefeita-de-guaiba-coordena-vistoria-nas-areas-afetadas-pelos-entulhos-das-cheias/",
-      "fonte": "Expansão",
-      "publicado_em": "2026-07-30T11:55:38+00:00",
-      "categoria": "Cidades",
-      "feed": "expansao_direto",
-      "resumo": "Na manhã desta quarta-feira, 29 de julho, a prefeita de Guaíba, Claudinha Jardim, recebeu em seu gabinete integrantes da equipe da Secretaria de Desenvolvimento Urbano e Metropolitano (Sedur) para coordenar&#8230; O post Prefeita de Guaíba coordena vistoria nas áreas afetadas pelos entulhos das…"
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
       "id": "5f492cfb20e9",
@@ -194,14 +184,34 @@
       "resumo": "Troncos e destroços levados pelas fortes chuvas invadem praia no RS A travessia de Catamarã entre Porto Alegre e Guaíba, na Região Metropolitana, está suspensa desde o fim da tarde de quinta-feira (23) devido ao grande volume de troncos, madeiras e entulhos que flutuam no lago Guaíba após as fortes…"
     },
     {
+      "id": "c2032fae2351",
+      "titulo": "Guaíba ultrapassa nível da última semana e pode chegar a cota de atenção",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2FEYTRpeThXMUtKSWE4RUdMYW91SEdZRkNPVXRBdEFEQXdGZ1dfY0VCTG40czBlYjE4cHNfWGVJT3AtbmtXZ09jOV9zU1ZYcm9odERpLTI0S3Z0UmxpLURzejNmd195ZzdIQkFIR2JUb0lwblQ3UllIQkxJNG1uNFM0ZUV5TThSQjlxYWRSWXFqQS1C?oc=5",
+      "fonte": "Rádio Guaíba",
+      "publicado_em": "2026-07-30T16:18:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba ultrapassa nível da última semana e pode chegar a cota de atenção Rádio Guaíba"
+    },
+    {
+      "id": "7edaa38661b3",
+      "titulo": "Guaíba atinge cota de alerta e moradores das Ilhas relatam tensão",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObHhXVTU1SVprTU02NUxDVFZSVUVuSVhxeHhJcFg0OHNMQTR1MXp2RlZsNFNjTEdnYjFrZjI4dWVqa3FCQ21VMGl3SzVUc0FmRHJrUVlNN2UtNFdfeV8wZy1wY2h6MkNDRjMwR1RHNW9WWXZyZHFDUmNYcXdLUFFtWlBmZUIwNHdoaGFfUGRuVWNDbExlQVI4Y2tMQnYybXluUllhWUVDTTBvdjlLR21WTGllYmRtamlPN0RLUHJnYW5hWkU?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-07-30T16:09:23+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Guaíba atinge cota de alerta e moradores das Ilhas relatam tensão Jornal do Comércio"
+    },
+    {
       "id": "91b6113e7fa9",
       "titulo": "Guaíba pode atingir cota de inundação em Porto Alegre nos próximos dias",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSU5fdEVfcDJGMmwydDd3WG1uRE92d1UyVXFObmxVb0k4WUdJY2d4RnZMbGQyMlhNTzFkZzdQODhlUzAzOEQyaXU0Q1ZvS2ctQm9mU3JYdFhvbVRWSzJQNUpuNDFHeWM5SEhVVjNvUzlVdS1JU3N4TE90V3l0UjlQQzRicC1VbFZjT2R4WEREd0JoSFQ2b3lXamFuemxvZXRSQkZFZ3JBYmhFV1kxSUU4M2E1WWl5UQ?oc=5",
-      "fonte": "brasildefato.com.br",
+      "fonte": "Brasil de Fato",
       "publicado_em": "2026-07-30T14:13:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Guaíba pode atingir cota de inundação em Porto Alegre nos próximos dias brasildefato.com.br"
+      "resumo": "Guaíba pode atingir cota de inundação em Porto Alegre nos próximos dias Brasil de Fato"
     },
     {
       "id": "36d75818d722",
@@ -227,11 +237,11 @@
       "id": "c5af3ff01c93",
       "titulo": "Guaíba atinge cota de atenção no Cais Mauá",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcGJKZ2VnMzFVR0wyQzJzRGhhcVlqSmJzX1FMYmg1TFpmX2NlX0NjemhYcWRrZW9wZHJFZzZvUnp6MGJWcVlnWmYzb3FfM0RBYV9DRElhaTNNeE9IZlBaQk1CN1RkMkJiTjNrRnBwZGxqTVZZOGdHOHA3dG95YkJhdDJBSThGNFFkRDFVTl93cXlxMlJFZHJIMnhSRktJNXRYYnNtZ0hIU244RUtsTnBzS2p1MFRIZlBVNkp0T1B4aw?oc=5",
-      "fonte": "terra.com.br",
+      "fonte": "Terra",
       "publicado_em": "2026-07-30T12:04:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Guaíba atinge cota de atenção no Cais Mauá terra.com.br"
+      "resumo": "Guaíba atinge cota de atenção no Cais Mauá Terra"
     },
     {
       "id": "4f9c8afd6c4c",
@@ -267,11 +277,11 @@
       "id": "f68d061ab135",
       "titulo": "Guaíba sobe mais e pode atingir cota de alerta com inundação nas ilhas",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMnpSc2ZPaU5BX01BTUxQZnF1d3FndVozX3BwR2lHbkxFc3pKUU13YTVzMExETXpyUWJfcXFnM25obW5YS0s5SFFWaFJoV085YUlWd2t3WTN2QzZabG5raXhXOXJiM3NXVUdKQi1fQTFud3VZWGpzRUFNWE41SEFFaGF3TVNTQ2tCS2hXVlNuMU5kQjM0?oc=5",
-      "fonte": "MetSul Meteorologia",
+      "fonte": "metsul.com",
       "publicado_em": "2026-07-30T09:50:06+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Guaíba sobe mais e pode atingir cota de alerta com inundação nas ilhas MetSul Meteorologia"
+      "resumo": "Guaíba sobe mais e pode atingir cota de alerta com inundação nas ilhas metsul.com"
     },
     {
       "id": "b0b05d4197d0",
@@ -357,34 +367,14 @@
       "id": "400c556766b1",
       "titulo": "Modelos hidrológicos preveem transbordamento do Guaíba em Porto Alegre até o final da semana",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdllYUmhTRl9zdTk3R2NIUlNrVWxsWDRuUXdyc0lOTlBITFg0b3RSSG4yd1dpQmhTd3hNaXZrdXVubktRQzlLZXNaOUhYMlctNFFmWjN5QzFvbDRELTJWX2pmYlMxVXY0RkY5RzFrbkludkFnb3pzeHRPdUhZak51S2xQZlF3d3lXaUR0Q2lWOW9tZ1owbXBseDY3VmluNGR2QURyWGRnYlJxcXFtWFRaZnU3alk0WGtCcnZVVDFTd2lyMUktOEJCYlZmOHFYQ3NLa3JWSjR1clVVWUZsT2FiM0FqWmJBM1I0aW9PQkYxcGw3bjRCbGFneGpMNTV4czN4Qnc?oc=5",
-      "fonte": "terra.com.br",
+      "fonte": "Terra",
       "publicado_em": "2026-07-29T21:31:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Modelos hidrológicos preveem transbordamento do Guaíba em Porto Alegre até o final da semana terra.com.br"
-    },
-    {
-      "id": "978fbea4bd15",
-      "titulo": "Defesa Civil emite aviso para elevação do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU1VTYThlbTlxaWJycDlzZlM0bFRDWkNDWkpsaS1md1FyUkdUYmxEWU4xOFM4STM2VlJ0bk1UaHlMaTBteUlXVm9vVHlfZnQwM0l4OUJjOXF5TWdsdjVYVlZ3WmFoNFNWMS1mbmIxWmhuWUZPQkRQdUdydGpxTklWeUpPeEp5Q01CdHRsTEFyc2NUdHM1cUZXNlRQQVdzei1kbG1ucE12NVlnZzBCZTBUQVdVdw?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-29T21:30:25+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Defesa Civil emite aviso para elevação do Guaíba Correio do Povo"
+      "resumo": "Modelos hidrológicos preveem transbordamento do Guaíba em Porto Alegre até o final da semana Terra"
     }
   ],
   "noticias_home": [
-    {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-30T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
     {
       "id": "fb0a0f3cbc0f",
       "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
@@ -394,6 +384,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
+    },
+    {
+      "id": "4b0eb5cbea65",
+      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-30T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
       "id": "b9a5d813bc2a",
@@ -406,24 +406,24 @@
       "resumo": "Com apoio da CMPC, a ação disponibiliza bicicletas compartilhadas para uso gratuito dos moradores da cidade"
     },
     {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "id": "1360a7e98d8a",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://www.reporterguaibense.com.br/noticia/claudinha-jardim-anuncia-centro-logistico-do-mercado-livre-em-guaiba-com-mais-de-500-vagas-veja-como-se-inscrever",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+      "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
       "id": "1abd77fa27dd",
@@ -436,24 +436,24 @@
       "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
-      "id": "048c6d4c4bce",
-      "titulo": "Guaíba anuncia construção de nova rotatória para qualificar a mobilidade urbana",
-      "url": "https://expansao.co/guaiba-anuncia-construcao-de-nova-rotatoria-para-qualificar-a-mobilidade-urbana/",
-      "fonte": "Expansão",
-      "publicado_em": "2026-07-30T12:08:04+00:00",
-      "categoria": "Cidades",
-      "feed": "expansao_direto",
-      "resumo": "A Secretaria de Meio Ambiente, Urbanismo e Sustentabilidade de Guaíba, informa que foi aprovado em definitivo o projeto para a implantação de uma nova rotatória em frente ao Hotel Ibis,&#8230; O post Guaíba anuncia construção de nova rotatória para qualificar a mobilidade urbana apareceu primeiro…"
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
-      "id": "274ff85d6a0a",
-      "titulo": "Prefeita de Guaíba coordena vistoria nas áreas afetadas pelos entulhos das cheias",
-      "url": "https://expansao.co/prefeita-de-guaiba-coordena-vistoria-nas-areas-afetadas-pelos-entulhos-das-cheias/",
-      "fonte": "Expansão",
-      "publicado_em": "2026-07-30T11:55:38+00:00",
-      "categoria": "Cidades",
-      "feed": "expansao_direto",
-      "resumo": "Na manhã desta quarta-feira, 29 de julho, a prefeita de Guaíba, Claudinha Jardim, recebeu em seu gabinete integrantes da equipe da Secretaria de Desenvolvimento Urbano e Metropolitano (Sedur) para coordenar&#8230; O post Prefeita de Guaíba coordena vistoria nas áreas afetadas pelos entulhos das…"
+      "id": "5f492cfb20e9",
+      "titulo": "Guaíba chega à cota de atenção em Porto Alegre e nível pode aumentar nos próximos dias, diz Defesa Civil",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/29/guaiba-cota-de-atencao-porto-alegre-nivel-alerta-proximos-dias-defesa-civil.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-07-29T23:52:08+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Guaíba chega à cota de atenção em Porto Alegre e nível pode aumentar nos próximos dias O nível do Guaíba alcançou a cota de atenção em Porto Alegre nesta quarta-feira (29). De acordo com a Defesa Civil da Capital, a medição feita no Cais Mauá registrou mais de 2 metros durante a tarde. A elevação…"
     }
   ]
 }
