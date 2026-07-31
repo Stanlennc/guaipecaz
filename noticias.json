@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-07-31T10:37:25.005077+00:00",
+  "gerado_em": "2026-07-31T14:02:46.970364+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,34 +84,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "fb0a0f3cbc0f",
-      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
-      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-31T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
-    },
-    {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
       "id": "1cf422762e78",
@@ -124,6 +104,16 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
       "id": "2a55db2c4fa4",
       "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
@@ -134,24 +124,24 @@
       "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+      "id": "c8c48b29aa33",
+      "titulo": "Água invade rua na Zona Norte de Porto Alegre com elevação do Guaíba; veja a previsão do tempo",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/31/alagamentos-porto-alegre-guaiba-jacui.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-07-31T12:22:21+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Água invade rua na Zona Norte de Porto Alegre com elevação do Guaíba O nível do Guaíba e do Delta do Jacuí segue em elevação nesta sexta-feira (31), provocando os primeiros alagamentos em Porto Alegre. A situação ocorre em meio a cheias nos principais rios do Rio Grande do Sul e antecede a chegada…"
     },
     {
       "id": "3436ce11a3a0",
@@ -204,24 +194,174 @@
       "resumo": "Troncos e destroços levados pelas fortes chuvas invadem praia no RS A travessia de Catamarã entre Porto Alegre e Guaíba, na Região Metropolitana, está suspensa desde o fim da tarde de quinta-feira (23) devido ao grande volume de troncos, madeiras e entulhos que flutuam no lago Guaíba após as fortes…"
     },
     {
+      "id": "f5ab4558ee4b",
+      "titulo": "Guaíba passa dos 2m50cm no Cais Mauá; Projeções não indicam cota de inundação",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaU13VmgxaHM1ZEVWXzdVQU5iQUJPVU1LZ1RSVnJxLVI0NU5NQldGMVotQmpOMzRlNFFlcUhORzZ6V2JqejFLbTM2LXJqTlRDaXFJTkl3SEVVY1lxX2NaQS1CWHh4OFBreHpSVEFkQndFTm03Y1JkWTNpcjVMNkQtZTNIc1F3T0I5enBzeGFqNTRJdHRHcmt6Nk5B?oc=5",
+      "fonte": "Agora RS",
+      "publicado_em": "2026-07-31T13:50:33+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba passa dos 2m50cm no Cais Mauá; Projeções não indicam cota de inundação Agora RS"
+    },
+    {
+      "id": "05482701f64d",
+      "titulo": "Previsão indica alta do Guaíba até o fim de semana, mas sem inundação no centro de Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPaWtpWmFFb3RyUHRzZmdibXNRRUNCTUdtRHhiU3ZMU1JHRUd1U3ZSMUlSMUtkb1lzSld1dDBlMWt1aEJQYmpRdjZFcWVTOHN2NnRNTjl0Rml3aUpScjRuYmlDN0lOcGVDb2p1SWFYeFZHMXRnTnJzUnBPbEVHYW5rVl8xQ1BQYkpGU09DX2VnQXFjRGZtU2hacWk2UjQzWmJ2MHhtQlZJLW1qNG9TNlRyR2dwS3k0bUltNnFKZV9XNUsxZ21pUnlTVzc4eXVwWVMtNUtUb0RpQlJZUUI0ZWc2TUVhMEtsTVBNYnFQcVNzZ0lia1hZZ2lOY29zZm9tS3YyMWgtdlJDOHlSRTlOcjV6c2JSak4xUQ?oc=5",
+      "fonte": "Diário Gaúcho",
+      "publicado_em": "2026-07-31T13:25:42+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Previsão indica alta do Guaíba até o fim de semana, mas sem inundação no centro de Porto Alegre Diário Gaúcho"
+    },
+    {
+      "id": "9ebea552fc10",
+      "titulo": "Guaíba atinge cota de alerta em Porto Alegre, e seis rios permanecem em nível de inundação no RS",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQlg0MDY0ejQwR25fSFpIS0NtV3ZKaTVadVpMNFIxTDNrUFc5Z21uWHVSVzh4Tm9xOXJTd2plbFRQWDV4cHlrMnZwLTFDRFJCYXp6ZFFPZFV4R2lTNmpNZXdYWHNkajdoV3RnRnRXT2RoWm9UNDJib1FyY25mc0loWU80ZkJmemZYejZSTm1TV0lOc0FXRHc5eXF6b3hEbWRQT2U5OHlUUXl0cnc3aDhST0FKNjRmdGpfZVlYTnQyMEN0b3FRaFdkdm1HRklHOEF5QWxDVjAwRmlIbmVZZXNsUGRxTWFkSEtfUmxfdUljZXJzQS1uSWFpa2I1SW9MalFvQk5tSW82dE44T1JHYWtPVEV1UXdXREU?oc=5",
+      "fonte": "Diário Gaúcho",
+      "publicado_em": "2026-07-31T13:24:07+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Guaíba atinge cota de alerta em Porto Alegre, e seis rios permanecem em nível de inundação no RS Diário Gaúcho"
+    },
+    {
+      "id": "bfd9c48cf427",
+      "titulo": "Defesa Civil aponta risco muito alto de elevação do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1VtenZROHhIZUdQX3l0TXFuaDFQTTNuYjNCZ014YmxrR05BRlNUSmJCSlZBcmhYZHRuSUtXTGtNZ3JTU1lEc0ZDSzR2ZHNPUmU2WlRTUDlPUjV6SFN4YTVhc0tabjluRnFuOV9Scnp4MkxLdDFxV1NocFJ3Y05OdTBSMmlIU0h1MG9ZT2VoUGVvZmhBQUtMQklMU0NDZER6NlNzSUxGVUcwUFZ6eGpYSkJrYXdrS0NNS2c?oc=5",
+      "fonte": "jornaldocomercio.com",
+      "publicado_em": "2026-07-31T12:59:46+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Defesa Civil aponta risco muito alto de elevação do Guaíba jornaldocomercio.com"
+    },
+    {
+      "id": "560d6856a386",
+      "titulo": "Guaíba concentra preocupação com avanço das cheias no RS",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lVy1HR241R3gtWnBELTZ6dTNBTVNsMWtTMHNmcUF3VWxsbmpDTkpuYzBmX3doa1ZqeUNlc3dHODl5cXQzQlphTFhSTHNLTHk1SnctVkpPQTA2ZC14Q19DV0RwYlNaSzV2aC1oTnNERQ?oc=5",
+      "fonte": "grupo sepé",
+      "publicado_em": "2026-07-31T12:41:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Guaíba concentra preocupação com avanço das cheias no RS grupo sepé"
+    },
+    {
+      "id": "cb0b0f2e4337",
+      "titulo": "Guaíba chega à cota de alerta e rios seguem com níveis elevados no Rio Grande do Sul",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObjRxTzU1UUV4dFc5N1V2dndFU2U3SnFvM3FpbFlPWEFzVHR2bFJvWndSMlpQYk1udDdaa21pRy1Pc0dYSmhWTnBqUll1MjVWM1diR21ibWVGRUhHb3hIN2Z1dC1HeTFSNTE0WWgyYWFBUzNQS1pFUkE0SUpRNFF0SWE0ZmpkV2R6TzhDNUJYY3hka0FZLS1id3BUb1ZEWG9hamN4QjNxWjlGaW13enZKRl9CdTRVOFBMVmU4T3NELWlRWGpZaW1EelktbkZPRTBXYjJWSlRKeUNNTHBF?oc=5",
+      "fonte": "Canguçu Online",
+      "publicado_em": "2026-07-31T12:33:55+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Guaíba chega à cota de alerta e rios seguem com níveis elevados no Rio Grande do Sul Canguçu Online"
+    },
+    {
+      "id": "f6f0fe9fdc59",
+      "titulo": "Guaíba atinge cota de alerta e Porto Alegre tem risco alto de inundação",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWV5bUVJQm5GS0MxMlpHd2VlY1hCNTAwSlN5dnd3NGd5eE1Ic3pCeGI0cDFjcVJVaTVpdjZvcnFOSWtOa3Yyc0xQRWRBQTI3bF9Fd1lhTGRCdU5nT2NGRndNSkFMT284TWsxNmx3ZjFFRkM0NlJfWllrTnpQak9CcTVUcUdJek5XM2huUE1LSHktYjJrWGE4MDZZdFpPV01kWXlOb0pHa1gtdU83dXRZbEZlSEd2cGsw?oc=5",
+      "fonte": "CNN Brasil",
+      "publicado_em": "2026-07-31T12:29:58+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Guaíba atinge cota de alerta e Porto Alegre tem risco alto de inundação CNN Brasil"
+    },
+    {
+      "id": "247081af4c54",
+      "titulo": "Guaíba atinge cota de alerta em Porto Alegre e vai ainda subir",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVhSZjZYb3IyMGk5cVNvaHUzczVyMTZTZGhjc3lWa1NqbXp6NHltdEpkUzZNeGdSbFFBRkZwektKd0dxQUZnV2JWelpRcHhhXzd1NW1zSG4zQVQ5dTlfVko4UlZnOGROVVN1S3gwQlhzWnp3LXhGMTFDdzV3RFlramxPSGVpa0ZiV3c?oc=5",
+      "fonte": "MetSul Meteorologia",
+      "publicado_em": "2026-07-31T12:26:18+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Guaíba atinge cota de alerta em Porto Alegre e vai ainda subir MetSul Meteorologia"
+    },
+    {
+      "id": "48370fa352fe",
+      "titulo": "Com feira gratuita e palestras, evento à beira do Guaíba reúne principais nomes da gastronomia gaúcha",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNYy1YZnU2YUNaaC1nNFd0LWp4NnlMWjc1aElNcUtRTDhmeGJnYXg3TVh2WURkTktDZm9jNjN6aUNzUVlUV1hmMHJrNjF0WGJCT0hvSkgwWDBpSGZlNzNuMUt5aTBkQzhKX0dQdGlxSDAzaUFRUGdTZmJweE53bTBMbGFENVBYVlBtNENWeFd3ekVrX0lZbzNlRFFjV1F1aWJuQ2lzOHRqUDVEb3RiRzJmeGhiSGVMY3BheFJSZ1Y5Q1YyZUZkMm50cnl3a1VnMkdySTlheFpuX2dzbTlXTEpLN1Z2VGp1UG9yN0xXNjQ1UGZ0TE5yVVd2dmxHQ0J3NkViUGludTNicE5DVktKSG9MNk9hZlJuU3VOb2pyNTFtQUhNZU5lV2VwcXRValgzSGc?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-07-31T12:22:20+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Com feira gratuita e palestras, evento à beira do Guaíba reúne principais nomes da gastronomia gaúcha GZH"
+    },
+    {
+      "id": "076f2625245f",
+      "titulo": "Água invade rua na Zona Norte de Porto Alegre com elevação do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaF9oNndvZGRHRUs4cFh3RzRlMGdUSWIyV0tIV3pkc2pmemF3czF6TXVLZnAwdjlwY3V6aW5rS1AxdlFXTUVWOWpmeldYbDRYTDlaRnZTaml0aU1yMWM2Q0Q2b0hZQnJVdlZObVRiMjhGWHI1Z01VY2ctVHladWpjbFRSd250TzQ3N3lMNDFqMEJGUVYxVUlSaVRJMXQ5RzJPYW0zbGdOajBpQU9WLXU1dUgtNTYyc1U4bDdpbjJDaUpGSnRjRlZkaDFnSdIB2gFBVV95cUxNR2UyYzFLb0VlM1lCMXpVYk5qN0FhcjY0NzlHMmxHLUZYZ2Y1akd4N0dXZ1EwZUdyZ044TDBuN1BNWU40NnBvUGZfUTZMNWVhZ3BvZ0lSZ2RjZUt0ZDc1STNlNDhEXzNxdXlMdWVDd1NJeWtoM0J3cG5mV3c3dHZjYlpicDAyb2ZFdUVjZ2FBeDJGUE5haTNvLWY1UGdKSllYd1NmVHlxVDdTaEk4OVJydVBGLUR0THNoU1p1dnNqaG5xaDVMSVRoWmlYNUVyY3Vwb1VZalgzbHJuZw?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-07-31T12:21:40+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Água invade rua na Zona Norte de Porto Alegre com elevação do Guaíba G1"
+    },
+    {
+      "id": "dede8e7312a8",
+      "titulo": "Guaíba em cota de alerta concentra preocupação com avanço das cheias no Estado",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPazJ0NDItY1RRWkFhTmFJSkg5a0RSWVRhcTJQdHBTdnQyX1Q4SVFidThZajh1bXFBYlNCbUJ4M2o4cjdBeXZnSjFXRjJEeUw3NHVfUWlqVzQyM09lb1c1MFYwSUN2NUpCUG5IdGN5ckN5YWh1TXE1bXdSUF9BVmIxem52NnRnVTBmc2N4SUFsODgwQlhYUXhZX3FMU0VkTG44RGlPODh5cDF3cjdQd2lJNUtQV0lVRkJqc25GcW1GRHYyd0s5X0lybHVrMHd0cEZrbWVFU0hQbzhwS3M?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-07-31T12:10:09+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Guaíba em cota de alerta concentra preocupação com avanço das cheias no Estado Correio do Povo"
+    },
+    {
+      "id": "110c11c983e1",
+      "titulo": "Guaíba atinge cota de alerta e amplia risco de inundação em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTdJOU43d2haZV81WG9EMVZENFFmYjljYnR5ZG9FbTUxWm9VS1dXdkFUS2JaRzh6OFduVU4tYmJWNGJKYjRPV3RsRndqTE9DVlZxeExfZXBpaTZEbTJvWEFmeUFMYURxYkdLbWRhSmNGbGdpSldFa2s0N3huemhUNnZCam0wMHRtR1NJNjM4NEhuZHNOc1VVaGw2MVo2Y0dPcU1xVEJn?oc=5",
+      "fonte": "brasil247.com",
+      "publicado_em": "2026-07-31T12:08:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba atinge cota de alerta e amplia risco de inundação em Porto Alegre brasil247.com"
+    },
+    {
+      "id": "18e677ab7e99",
+      "titulo": "Guaíba atinge cota de alerta em Porto Alegre e deve continuar subindo até sábado",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVndHaFdIX3B1N3BXb1kwZV93OFV3QmExUjdRVHI0a0hldjFKbnBFRUQ1cWk4N3JIMnZEQ1dLRGFJNDRjcVNQQl9sWktLdWY4eXc3cE1OcnliNzhLWG0yQkk4QmxPZzJGcC0xRkhFN1pHRHZtN1B6RkhLQkJtcG13empUVVNYUlRWaFVta3Jua1lIVm4wS2JpX0VZTlJtWDU3aFVWWFpHU1o3RmlEcGVaVnB5NmFvTms1emFxaUpxdHltUXBkbHlVb2RZLVNrRTM2eDUzT3Y1eHkxdzJoWWNIVXNqVXhLVlBCdXVEM2t5d25Ddw?oc=5",
+      "fonte": "Terra",
+      "publicado_em": "2026-07-31T11:37:43+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba atinge cota de alerta em Porto Alegre e deve continuar subindo até sábado Terra"
+    },
+    {
+      "id": "3dca203e9b3f",
+      "titulo": "Guaíba sobe durante a madrugada desta sexta (31) e atinge cota de alerta no RS",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUFdxVHlPd1BOOU85bkthUERtM3kxOVpqaEROWjFSeXJJckZGYm9Sb2t4bWVMNWN1d2FYbjdvMGhCdU9rSV9DZm5nb0U0V2ZSdEI3Yk1PNk14aG9xYUFNcGRySUJxcW5FRkFUMExZekRRQWQ3UXE0dkRvakZUd3JoaUdUMXR6REF5S1BickJmZmFJZk5teU9EcjhPaXVrUl83MHc5SC1PLU1OeTA0d0dmN3ZzdG9oX1pLVzMyT2ktV041bk5UYk9qSDhJSmF3cUR2NXhiekpTYjjSAdgBQVVfeXFMTlBXcVR5T3dQTjlPOW5LYVBEbTN5MTlaamhETloxUnlySXJGRmJvUm9reG1lTDVjdXdhWG43bzBoQnVPa0lfQ2ZuZ29FNFdmUnRCN2JNTzZNeGhvcWFBTXBkcklCcXFuRUZBVDBMWXpEUUFkN1FxNHZEb2pGVHdyaGlHVDF0ekRBeUtQYnJCZmZhSWZObXlPRHI4T2l1a1JfNzB3OUgtTy1NTnkwNHdHZjd2c3RvaF9aS1czMk9pLVdONW5OVGJPakg4SUphd3FEdjV4YnpKU2I4?oc=5",
+      "fonte": "CBN",
+      "publicado_em": "2026-07-31T11:04:52+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba sobe durante a madrugada desta sexta (31) e atinge cota de alerta no RS CBN"
+    },
+    {
+      "id": "dc53d9821513",
+      "titulo": "RS: Guaíba atinge cota de alerta e Porto Alegre tem risco alto de inundação",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFQ5QlE5RmNLLS1iNlplRHhQWEZnLVdNdnE1bW10ZWJucU9lblkwMGg3S2M5eWRNQVZZV0g1cEJLSjNjUjY1Z0d2VU5GX0JTbDA1Q2RtaHhwNllWTWd5WF9sbmhlbXA0Nk53cjFubVk3UTRlaXhNQWx1bVhONU1OYVJWd0wtUV9Scm1OTzdMbTlTQ2E3YlVqamtqdlJLb3M3MzZXNVd3?oc=5",
+      "fonte": "UOL Notícias",
+      "publicado_em": "2026-07-31T11:02:34+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "RS: Guaíba atinge cota de alerta e Porto Alegre tem risco alto de inundação UOL Notícias"
+    },
+    {
+      "id": "623a4094dfaf",
+      "titulo": "Guaíba fica próximo da cota de alerta em Porto Alegre apesar de trégua da chuva",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVG0yT3Y2ckl3dk45Um9wVWRZWlJTeTIxOGZVUUxPNlhXMnJmbkd5UFc5dDVWaTMtazZzbklYM3Y0WnpjVktZTlNvTWZ1bnBlandGTGZCTEhJM1RhV28zRGRPSWlwZmlFREFhOUdRN0JxM0xqUG5vVXZMUVdZVE1NUE0tZlY0NFkyZDBsbnpoUG1JRUhaYkgtMG05Z21Td1ZpLXMwQjVaUWdEMTBMY0pYTFo3d1NjcmRMT1ZKYmhzVW9hcU1OLWFGNVpScVJfTmx0b2ZJZG9XY3ljZHZl?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-07-31T10:46:32+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Guaíba fica próximo da cota de alerta em Porto Alegre apesar de trégua da chuva Correio do Povo"
+    },
+    {
       "id": "fe3ebf9cc9f2",
       "titulo": "Guaíba atinge cota de alerta em Porto Alegre apesar de trégua da chuva",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVFqamhyRjFwd0lGcmg4OGhNemQtUVg4SXFpblpGbDJsc1hRQTY4MW9EVjNnSzBtU3FhWF85OHNHNVdfNVNJOHpSSnBFYk1KQU41RkZlNzd0VDFyZl9uUnBYOFYwUE90dndQaTFRVmFnYTJWQ2ZWTG9XMlMxVGlzM3kzSlNTY2VxSjFBaFBoeHZBclN6ZEZ2Mk9vQ1d6UGM3VGJZcVdYTXloYUJzMkl6X1JuaEJZU1pkeVFkdEM4Z1BhREFWanVKeHNhb2taTnd4?oc=5",
       "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-31T10:25:03+00:00",
+      "publicado_em": "2026-07-31T10:26:47+00:00",
       "categoria": null,
       "feed": "correio",
       "resumo": "Guaíba atinge cota de alerta em Porto Alegre apesar de trégua da chuva Correio do Povo"
-    },
-    {
-      "id": "b99f1848ccc2",
-      "titulo": "Guaíba atinge cota de alerta em Porto Alegre, e seis rios permanecem em nível de inundação no RS",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPeHgtaWVCcmdlNVljaElySTRPVGFnWllRR2pzM2RhclplTjlOaGk4NjhhanhHZ3c5QkNoUkxxRXFTMXpJVklfejg0b2xRTm1hMUpDNHZsSzNIdmFCVDUzWHdjQ0NrRlhRemprQ2xqMXM0R0pYRTh3cjUwd29tRGh6eXRaMUlUZlRiTFh1MmhhSk5obHNGUFZDbURwbzY3bWY1UkNyak1lVUFYSnhRdTZIN2NTZHZvWnIwYzZiUE55T1VaQnhWR2t1UkZvQm1aLVBsTFplUEFWaEJCb1VXLUxVU2lUUFAzSW4wNVhYb2htTkRHZEhBdUJGR05EaGZaVTQ3SE5yejBWaXpidHgwSURBRUJXSzhOV1U?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-07-31T08:21:56+00:00",
-      "categoria": null,
-      "feed": "gzh_metro",
-      "resumo": "Guaíba atinge cota de alerta em Porto Alegre, e seis rios permanecem em nível de inundação no RS GZH"
     },
     {
       "id": "24b1a5d29ec9",
@@ -232,146 +372,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Porto Alegre eleva alerta para o Guaíba, que pode chegar a 2,5 metros Agora RS"
-    },
-    {
-      "id": "d838f98c3717",
-      "titulo": "Guaíba deve ficar em cota de atenção pelos próximos cinco dias",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVhRejBvSk02dHlWVmVoSXU3dHJUeEVzZ1JVZzdBOGZIN2FUMWJIaEROX1ZyemhVYjB1eG9OQWx6cW5rN05LNWFJTW5mMnhFZGpkdzR3N0Vpb2YwUDkxdEd3T1R1ZDRWMmRFRThraGpqaFRJYm9iUGNobjdCY2pEWXF0SzJrM1hoNU1faEY4bUxKTkpjbjhoYzQ0bXZEcDZfWk9xMW9FcDI4Zjk2RVg4WUlrekxaWXRhTktzd0IwZw?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-07-31T01:49:23+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba deve ficar em cota de atenção pelos próximos cinco dias Jornal do Comércio"
-    },
-    {
-      "id": "7d060514e564",
-      "titulo": "Guaíba sobe e Defesa Civil emite aviso de risco alto de inundação nas Ilhas",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWHhRY1AydlZIalRkNXJiOTJWZUh1dkowaHg2QzE1Q1luTVF6VHdsR2pyS2dhM0tuam1iWVNaQzZ0aV9Jdldnd1FOaVRmZnZFTW5JRDlSYzBERzZTU1lQeFBxNEt2RENuNUViUDE1MDBSYzRaSThfQjdYaXdYZFlVLVkteGNGUlJ0T3RuMUl6TlJtSzJBQUNFNEdrZ3pHX0VtZHp4RHVsclBMNzBSX0taZExDWloydURhT2ZJWFNsUDlqYU13NVFqazdqYmYtZ3FGUm1hVER4bw?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-30T23:56:10+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Guaíba sobe e Defesa Civil emite aviso de risco alto de inundação nas Ilhas Correio do Povo"
-    },
-    {
-      "id": "b3c89b5aef22",
-      "titulo": "Defesa Civil estadual alerta para risco muito alto de inundação nas Ilhas de Porto Alegre pela elevação do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMUNBdmVPaEl3Q2hqZ1ZsTWF4VHFaSk5TWk1tc1hsLS1lMjNxR1FodFZxaUtMZzkyakJ1STgxX3FjZVVTaGg4UGNJMWl5WXZDVjB0S3BtN1VGVHBxRmtvM2dLY29HTlVrYzhvRWh2c0tiWEptNmhTRGRNTmQxczBUSG1KYTVZZlZUaWdTSHZUa1d3OGpaeVg3emM3QmFNQnBMdHF3MEhrdFo0UDRyT09BdmhOVWRRNVZDN2E0V2tMbDlyd2hCLUtfZEN5cldoYlRaVk1VUXBFZEZ1QQ?oc=5",
-      "fonte": "Portal do Estado do Rio Grande do Sul",
-      "publicado_em": "2026-07-30T23:30:28+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Defesa Civil estadual alerta para risco muito alto de inundação nas Ilhas de Porto Alegre pela elevação do Guaíba Portal do Estado do Rio Grande do Sul"
-    },
-    {
-      "id": "f0da2810691d",
-      "titulo": "Defesa Civil do RS emite alerta vermelho para cota de inundação do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeTVtYWNhMmpXelhhVjBoQzJURVJZRU95OGw5YlpWTWpzNVBHU2EzaVhlZy1KVkp5U1YzdndRenNxOXI1Z0JTN0NuT1BjYlRvX1dkdTlwVi1HanZjY2JfMVdNSGFWeVFmTzlNaU5keWQzNDRGNzVmYVcwZENuM1hCRFJRV3c1Y25VZDFsQWFjbTZaNjd6WV8tSlBLa3pKRWhpRzZfWlY5WnJ1VGxLSG1WNUtPUmJjdk9obzZCRHh3ek05endYaDU2Q1ltSURaR0p5TllsQk9n?oc=5",
-      "fonte": "Portal Dia Dia News",
-      "publicado_em": "2026-07-30T21:54:29+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Defesa Civil do RS emite alerta vermelho para cota de inundação do Guaíba Portal Dia Dia News"
-    },
-    {
-      "id": "3d68bf2f75de",
-      "titulo": "Guaíba poderá subir até o final de semana, mas sem superar cota de inundação, aponta SGB",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQU1yTHRRclRuQU1udFhPbktKV3JBeUtEemg1dTZtT3R6d2pSYVlIbldtaUw4bGo5OUNZSFo4eXFPRDdDRVlWQ1NieVFtVWVUbFNQV1l4SjU1Y1ozSkdjYmRBSzEwTVp1Qi1qa3Q2MmZlR2tsTERtc3RlM0I1dldoXy1EblJiWHJzSFR5b3VWM2ZJakhHX2txS2Jyb2tkWF9ZanptZVg5MXhkV3o1aGxibEs5cjVvTmtOa093bFUwdDhyMzJUbHBCV2x1blJsTW40NlItWVFuMHpyT2lkdFNtdXhyVnBGUQ?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-30T18:51:01+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Guaíba poderá subir até o final de semana, mas sem superar cota de inundação, aponta SGB Correio do Povo"
-    },
-    {
-      "id": "40c454d587a5",
-      "titulo": "Guaíba pode atingir cota de alerta e provocar alagamentos nas ilhas de Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaXpLMFdFSU16NC1RdTFUSDRRRVpMVjktUG53c1BvaFlPbF9sdm1Pd0luYmd2YVV3MjBUNWVuS1NUeW1seTh3c0M0M0ZDbU5SU1BINXRkazg5MDdMckFyLTAzSko2dmF0bkplU1FFR2JmYk5wX2xFdzVVX2F1RHh2cGRfejFqelAtSXQtX0sycGJEcmVwWTNhWHFlaWczOWNZNnA3ay1sTUVTbXc5aE1PaFA4ejJSdGRDNlJ6dmF1Zw?oc=5",
-      "fonte": "Independente",
-      "publicado_em": "2026-07-30T18:10:00+00:00",
-      "categoria": null,
-      "feed": "metro_recentes",
-      "resumo": "Guaíba pode atingir cota de alerta e provocar alagamentos nas ilhas de Porto Alegre Independente"
-    },
-    {
-      "id": "4f019075963a",
-      "titulo": "Guaíba pode atingir cota de inundação em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb0tMcGpmLUNsbjc2LUFXemI3VzZ2MUpwRDJIdW40aVduZnNrS2JsY0E4Z3RJREFYYUZfdkxsZktVSTdZdE9EQ0JQYkQweTk3NndzckRITi12WWJMRlNTREJKTkdOcjI1akJWbnFGV1J1eVhYMkdmUDdHdlFVOXpobzJOYUc3WUVpTWxESVZHaURBT1hNdTdkb2trcG5aUlFNbDdZQ29xY08teXlnWkJwSFo1T3BWNlJQNlZ3bnI2VW4ya1N6Zm1PTzF4TEczMDVVazN1QVNqUEczM2MtcFdlN0xITkc2QdIB5gFBVV95cUxNb0tMcGpmLUNsbjc2LUFXemI3VzZ2MUpwRDJIdW40aVduZnNrS2JsY0E4Z3RJREFYYUZfdkxsZktVSTdZdE9EQ0JQYkQweTk3NndzckRITi12WWJMRlNTREJKTkdOcjI1akJWbnFGV1J1eVhYMkdmUDdHdlFVOXpobzJOYUc3WUVpTWxESVZHaURBT1hNdTdkb2trcG5aUlFNbDdZQ29xY08teXlnWkJwSFo1T3BWNlJQNlZ3bnI2VW4ya1N6Zm1PTzF4TEczMDVVazN1QVNqUEczM2MtcFdlN0xITkc2QQ?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-07-30T18:03:06+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba pode atingir cota de inundação em Porto Alegre G1"
-    },
-    {
-      "id": "5ac9572c7681",
-      "titulo": "Correio do Povo e Rádio Guaíba transformam experiências da Copa em novos formatos",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWlscElPREhRay0ydi1FYW5wNUlPdlR6Tm5qa0hPTnpzaHF4c1h6dWFmWDM0NGtILWprSVVLQUtTWjdMX0pCRFlOcXFya1ljMUMzMVNGbk5yVzJGV0FVT0IwN0s5amVIY0hyS2M0RVEtd3VxZkt3TlkyQVF2ZFM3SjZ4Rk9DaFY3YkFlUHJvNDZUZWxZbU00akVtUmp1LXc0RWZfU2V4dlhFdjNkNHU3WDd3?oc=5",
-      "fonte": "Coletiva.net",
-      "publicado_em": "2026-07-30T18:02:06+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Correio do Povo e Rádio Guaíba transformam experiências da Copa em novos formatos Coletiva.net"
-    },
-    {
-      "id": "3c79a560306d",
-      "titulo": "CatSul reduz horários por causa de detritos no Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLUN5MGQ1RlB5U1ZfMFdFcEZzaVFlZmNEeFJxUlphZTNVVXhySEwtVXFRRmk2LWFNTkE1UGZxeVFuLTRoNDZIYnJwcktjUnpRMFVnVTNCRlEzRzgtajducjctaHotTmlMUmNXbEV1dV9WNFoyd1pSRG1mWmh5RktlXzc1czBiZw?oc=5",
-      "fonte": "Agora RS",
-      "publicado_em": "2026-07-30T17:38:29+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "CatSul reduz horários por causa de detritos no Guaíba Agora RS"
-    },
-    {
-      "id": "d4aace7c9954",
-      "titulo": "Previsão indica alta do Guaíba até o fim de semana, mas sem inundação no centro de Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNQ0NJbW1BZUVUU2NvSDIyX3VPMGsyRkhtem1jUE5ZbVc5QndsMl9TbmFJem9SMHBSS28yYmVpdGJ1NlhvVmI3WVVjNVhQOUNwXzdUWEpZVkxhbkZLS2JKenRVYU4zVEFpbHhpWF80N3RaTGx2Tkw3aFhxa1R5T1pTYWV5cnhWVE9xTmlRdUJGV0oyd1d0cnU3ZzRZd21JTHAyN1FuUjRXaTVNcGNveEpDY2JvcTdDb0s4OTlHUEtDcndkNFkxUzk1OFhUUlhnOTBNYjVEMnFWU05KQnZFRDk4TC11bnZSUWxfZ3ZhS2NGM21ONVJfT2E3TUI5SGtWQW9lSjdHRGhBQVFYY0dJaF8tUWVJemk?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-07-30T17:33:50+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Previsão indica alta do Guaíba até o fim de semana, mas sem inundação no centro de Porto Alegre GZH"
-    },
-    {
-      "id": "2f4d9a69880d",
-      "titulo": "Guaíba pode atingir cota de alerta até sexta-feira em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQnF3d0stMkxsZEp1ZXBSeWVEMFAxTzdRLWNmbDdZX0xtYUxtS1VudDhSdXI3TWQxZ2NEc1hzZGQ1dmZ5TnN3bzQyUm8wSE92TnpEMmRXeVhweHViMUtIcDVYcWozS25iTWZrUnNGaE9IYnpwMkxhWDJtRk92R0NndjJGLXA1eEFmMmYxTWFLdUVfQ0NOS0Q1NWJtYmhMbENHSk1NeWpDMEVXUldZWkkwcFhMX3o3UHdmdkNTNkU1UTJIbEVJc0Q5NzJTTVlwUjJrQmZGc1BfaUZnem5B?oc=5",
-      "fonte": "O Litorâneo",
-      "publicado_em": "2026-07-30T17:16:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba pode atingir cota de alerta até sexta-feira em Porto Alegre O Litorâneo"
-    },
-    {
-      "id": "c2032fae2351",
-      "titulo": "Guaíba ultrapassa nível da última semana e pode chegar a cota de atenção",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2FEYTRpeThXMUtKSWE4RUdMYW91SEdZRkNPVXRBdEFEQXdGZ1dfY0VCTG40czBlYjE4cHNfWGVJT3AtbmtXZ09jOV9zU1ZYcm9odERpLTI0S3Z0UmxpLURzejNmd195ZzdIQkFIR2JUb0lwblQ3UllIQkxJNG1uNFM0ZUV5TThSQjlxYWRSWXFqQS1C?oc=5",
-      "fonte": "Rádio Guaíba",
-      "publicado_em": "2026-07-30T16:18:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba ultrapassa nível da última semana e pode chegar a cota de atenção Rádio Guaíba"
-    },
-    {
-      "id": "7edaa38661b3",
-      "titulo": "Guaíba atinge cota de alerta e moradores das Ilhas relatam tensão",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObHhXVTU1SVprTU02NUxDVFZSVUVuSVhxeHhJcFg0OHNMQTR1MXp2RlZsNFNjTEdnYjFrZjI4dWVqa3FCQ21VMGl3SzVUc0FmRHJrUVlNN2UtNFdfeV8wZy1wY2h6MkNDRjMwR1RHNW9WWXZyZHFDUmNYcXdLUFFtWlBmZUIwNHdoaGFfUGRuVWNDbExlQVI4Y2tMQnYybXluUllhWUVDTTBvdjlLR21WTGllYmRtamlPN0RLUHJnYW5hWkU?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-07-30T16:09:23+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba atinge cota de alerta e moradores das Ilhas relatam tensão Jornal do Comércio"
-    },
-    {
-      "id": "91b6113e7fa9",
-      "titulo": "Guaíba pode atingir cota de inundação em Porto Alegre nos próximos dias",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSU5fdEVfcDJGMmwydDd3WG1uRE92d1UyVXFObmxVb0k4WUdJY2d4RnZMbGQyMlhNTzFkZzdQODhlUzAzOEQyaXU0Q1ZvS2ctQm9mU3JYdFhvbVRWSzJQNUpuNDFHeWM5SEhVVjNvUzlVdS1JU3N4TE90V3l0UjlQQzRicC1VbFZjT2R4WEREd0JoSFQ2b3lXamFuemxvZXRSQkZFZ3JBYmhFV1kxSUU4M2E1WWl5UQ?oc=5",
-      "fonte": "Brasil de Fato",
-      "publicado_em": "2026-07-30T14:13:00+00:00",
-      "categoria": null,
-      "feed": "metro_recentes",
-      "resumo": "Guaíba pode atingir cota de inundação em Porto Alegre nos próximos dias Brasil de Fato"
     }
   ],
   "noticias_home": [
@@ -386,34 +386,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "fb0a0f3cbc0f",
-      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
-      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-31T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
-    },
-    {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
       "id": "1cf422762e78",
@@ -426,6 +406,16 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
       "id": "2a55db2c4fa4",
       "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
@@ -436,24 +426,34 @@
       "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+      "id": "c8c48b29aa33",
+      "titulo": "Água invade rua na Zona Norte de Porto Alegre com elevação do Guaíba; veja a previsão do tempo",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/31/alagamentos-porto-alegre-guaiba-jacui.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-07-31T12:22:21+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Água invade rua na Zona Norte de Porto Alegre com elevação do Guaíba O nível do Guaíba e do Delta do Jacuí segue em elevação nesta sexta-feira (31), provocando os primeiros alagamentos em Porto Alegre. A situação ocorre em meio a cheias nos principais rios do Rio Grande do Sul e antecede a chegada…"
+    },
+    {
+      "id": "3436ce11a3a0",
+      "titulo": "Guaíba sobe durante a madrugada e atinge cota de alerta em Porto Alegre",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/31/guaiba-atinge-cota-de-alerta-em-porto-alegre.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-07-31T09:26:10+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Guaíba sobe durante a madrugada e atinge cota de alerta em Porto Alegre O nível do Guaíba atingiu e ultrapassou a cota de alerta no Cais Mauá, na Região Central de Porto Alegre, na madrugada desta sexta-feira (31). A cota de alerta no local é de 2,50 metros. Na última atualização, no início da…"
     }
   ]
 }
