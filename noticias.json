@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-01T06:28:06.458392+00:00",
+  "gerado_em": "2026-08-01T09:57:01.161340+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,14 +94,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
       "id": "1360a7e98d8a",
@@ -114,16 +114,6 @@
       "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
       "id": "16fe33979805",
       "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
@@ -134,14 +124,14 @@
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "1cf422762e78",
@@ -214,6 +204,16 @@
       "resumo": "Troncos e destroços levados pelas fortes chuvas invadem praia no RS A travessia de Catamarã entre Porto Alegre e Guaíba, na Região Metropolitana, está suspensa desde o fim da tarde de quinta-feira (23) devido ao grande volume de troncos, madeiras e entulhos que flutuam no lago Guaíba após as fortes…"
     },
     {
+      "id": "f33d2e7f2329",
+      "titulo": "Guaíba segue em cota de alerta em Porto Alegre, e cinco rios ainda estão em nível de inundação no RS",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNV0Fydk85Qllmb2VkZGQ5bkFOMjVZN1AwQ1VKaDNQVXg1ZWNBYl9EWkR1amJibmdoOFp1U0ZtY0FIQXVydzdwbWE0QkJid3MyVHhYSXA1WWxFYjBpTEttREtyeTNGVE5HWjVHS1dkRWtTNldIVEduc1NheGNBdUZ2WTVxeVk3d28xU0NMSURVTF84XzRCMHQtbTVCLVRFZlNQcVY1S2NvdDRyV1BDd1FjYWVCLU45X2daMTAzU0JCbzlZVWI0dUZ0OF9ZYmNfSGJycnEtdUZ5T1NRYUZYUFdrNFlJdVdGT21DS3g4ZjN0ckg0RjhKOGw4MEZReThHOU8ya2ZSaXNUWUFKdjFuOGJJY2hR?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-08-01T09:54:57+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Guaíba segue em cota de alerta em Porto Alegre, e cinco rios ainda estão em nível de inundação no RS GZH"
+    },
+    {
       "id": "0f79bd8473e2",
       "titulo": "Porto Alegre está em alerta com a elevação das águas do Guaíba desde a última madrugada",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSVlNeW9vNEd5d2F5ZEdHZDdRZW4wdllmUHdBSWxudW9id3FNQWs4OWZaSnF6MTAyOERKSUxqM1Z1SktfR0lTY0piSmRfcTdmTjBSRUdIUnkxei10VEVFQkdQSWdxUld4ZjlmYzVlTlI5VW5qcElib2NnRFFUbTRSTG1GVGpOMFo1YjhtTVhBRkNidllkWDE2Z0gzMTA0empfZmxQVFNxOVRJTkNCUXVIV2RtTmFuTGhfbkZ3cjZiUURBZVJ2R0xRZEU5NzRwaFIzanc?oc=5",
@@ -222,6 +222,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Porto Alegre está em alerta com a elevação das águas do Guaíba desde a última madrugada R7"
+    },
+    {
+      "id": "9be2d38ce3bb",
+      "titulo": "O Guaíba não deve atingir a cota de inundação neste final de semana no Cais Mauá em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1NSWGEycjgxNTNPVVFMdWxrMlpYWDM3bVBKd2tqbTBMUko4c0dHNzFYY3hHUktBTEdaVTczdnBOSHh1dkozQ0tEaGQxLVEtV2puVGxzVlRBSHpQNUdNWEZLTUZGa1d2bFU0cnVTd1JHN2RRbTRib3BBZ0hteUk5cmlUckhiMHNWQm1feFJ0M0dyZ19xMTRfbmRmamNXYnFtczNFVUpNTjhQNDF6eFpQWFY2VnVOT0lRa2xZTkl1NURlZk3SAcMBQVVfeXFMUG9TUlhhMnI4MTUzT1VRTHVsazJaWFgzN21QSndram0wTFJKOHNHRzcxWGN4R1JLQUxHWlU3M3ZwTkh4dXZKM0NLRGhkMS1RLVdqblRsc1ZUQUh6UDVHTVhGS01GRmtXdmxVNHJ1U3dSRzdkUW00Ym9wQWdIbXlJOXJpVHJIYjBzVkJtX3hSdDNHcmdfcTE0X25kZmpjV2JxbXMzRVVKTU44UDQxenhaUFhWNlZ1Tk9JUWtsWU5JdTVEZWZN?oc=5",
+      "fonte": "Jornal O Sul",
+      "publicado_em": "2026-07-31T23:22:23+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "O Guaíba não deve atingir a cota de inundação neste final de semana no Cais Mauá em Porto Alegre Jornal O Sul"
     },
     {
       "id": "e7f561f3c9f2",
@@ -361,16 +371,6 @@
       "categoria": null,
       "feed": "metro_recentes",
       "resumo": "Guaíba sobe acima da cota de alerta e primeiros alagamentos são registrados em Porto Alegre Clic Camaquã"
-    },
-    {
-      "id": "057bd9cd3a60",
-      "titulo": "Inundações no Rio Grande do Sul: Guaíba atinge alerta e seis rios estão acima da cota",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVkx5ZUlkbEh2aDVxOFJFR2NnbG9MSXBnVVhqZHJNMkI5R284ZjJfMHNsOG5TMnVEZDJLSU9Qd2tka0l5QWRhMWo4ZV93U1BSa1V6aW0ta1dPd0xtSnVlT1F6dTdheTE4eFBKNVZFbHNTd204aFFLZHpEaENxWEZsZy1GVFJuUGFkdFN6SDZDZWRySlN4Z3psLVNycDlCQk1pTUNPTG1IZGZRT190ekNNSTduclEzc1k?oc=5",
-      "fonte": "blogdosilvalima.com.br",
-      "publicado_em": "2026-07-31T14:38:13+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Inundações no Rio Grande do Sul: Guaíba atinge alerta e seis rios estão acima da cota blogdosilvalima.com.br"
     }
   ],
   "noticias_home": [
@@ -395,14 +395,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
       "id": "1360a7e98d8a",
@@ -415,16 +415,6 @@
       "resumo": "O investimento já está confirmado e o projeto avança em ritmo acelerado"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
       "id": "16fe33979805",
       "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
@@ -435,14 +425,14 @@
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "1cf422762e78",
@@ -453,6 +443,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
+    },
+    {
+      "id": "f79b80b61292",
+      "titulo": "Guaíba deve ficar abaixo da cota de inundação, mas falta de dados mantém incerteza na Capital",
+      "url": "https://sul21.com.br/noticias/geral/2026/07/guaiba-deve-ficar-abaixo-da-cota-de-inundacao-mas-falta-de-dados-mantem-incerteza-na-capital/",
+      "fonte": "Sul21",
+      "publicado_em": "2026-07-31T15:19:43+00:00",
+      "categoria": "Geral",
+      "feed": "sul21_direto",
+      "resumo": "Na madrugada desta sexta-feira (31), o Guaíba chegou à cota de alerta de 2,50 metros. Às 7h, o primeiro boletim do dia da Defesa Civil de Porto Alegre informava que a régua do Cais Mauá alcançava 2,51 metros, enquanto na Ilha da Pintada chegava a 2,30 metros. A tendência é que o nível da água siga…"
     }
   ]
 }
