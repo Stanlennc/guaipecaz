@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-01T16:57:57.157199+00:00",
+  "gerado_em": "2026-08-01T19:05:51.965711+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,34 +94,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
-    },
-    {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
       "id": "328a4ef216b4",
@@ -134,14 +114,44 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+    },
+    {
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
       "id": "b965b879f057",
@@ -205,13 +215,13 @@
     },
     {
       "id": "f33d2e7f2329",
-      "titulo": "Guaíba segue em cota de alerta em Porto Alegre, e cinco rios ainda estão em nível de inundação no RS",
+      "titulo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNV0Fydk85Qllmb2VkZGQ5bkFOMjVZN1AwQ1VKaDNQVXg1ZWNBYl9EWkR1amJibmdoOFp1U0ZtY0FIQXVydzdwbWE0QkJid3MyVHhYSXA1WWxFYjBpTEttREtyeTNGVE5HWjVHS1dkRWtTNldIVEduc1NheGNBdUZ2WTVxeVk3d28xU0NMSURVTF84XzRCMHQtbTVCLVRFZlNQcVY1S2NvdDRyV1BDd1FjYWVCLU45X2daMTAzU0JCbzlZVWI0dUZ0OF9ZYmNfSGJycnEtdUZ5T1NRYUZYUFdrNFlJdVdGT21DS3g4ZjN0ckg0RjhKOGw4MEZReThHOU8ya2ZSaXNUWUFKdjFuOGJJY2hR?oc=5",
       "fonte": "GZH",
       "publicado_em": "2026-08-01T15:33:29+00:00",
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba segue em cota de alerta em Porto Alegre, e cinco rios ainda estão em nível de inundação no RS GZH"
+      "feed": "recentes",
+      "resumo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS GZH"
     },
     {
       "id": "984fd43d099f",
@@ -327,11 +337,11 @@
       "id": "5dae9b97b86d",
       "titulo": "Lago Guaíba se aproxima da cota de inundação em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmdsQ0M0MXJzVU5QSmR6OWpfbkJhY2IyUWN6STVCT0FXdUdZbklnLU44ZzhfQWNmYjl3UHNRaE15cUxCNjJ5Qm44X3VXd09BeW9hZWJYelRSX1lBanVGcFdzaHJyUHZWYVF2RS1majN1bERRbHV1cmFlZ2ZZNmF0emVFV2JhUm85TnU3aVh0LTNyaXVjTUlaQ183dlhDRXk0dW10RlRRWGJnY3pFbzA4WUFNYXHSAcMBQVVfeXFMT0E5LUxhaG1aTHRSeXlRYVhkTWpXM08tUXoxZWQ1XzVxV3Vrd2tkTTRGY2VDVVZiUkFGWEFNanc1NTZLY3pnZGRFakJjMVpNcml4X0swTWhyRk1zOWZrMnZyRVFhTDhqdC04cDVpdUJhT2xlanlyYUN5SHItcDB6NWZBdENGOW5aMWVWVXRKaUtuWFR4akdONHY5WERmYjJQRWx1Q05DbExKMVpDNzk2cjNFWk1xWjZiVDJMZE5lT2Utd2hN?oc=5",
-      "fonte": "g1.globo.com",
+      "fonte": "G1",
       "publicado_em": "2026-07-31T17:18:44+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Lago Guaíba se aproxima da cota de inundação em Porto Alegre g1.globo.com"
+      "resumo": "Lago Guaíba se aproxima da cota de inundação em Porto Alegre G1"
     },
     {
       "id": "428f72bd9059",
@@ -357,20 +367,10 @@
       "id": "88f216afccaf",
       "titulo": "Preocupação com o Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmMwMnFNV2pJY1BpWFh6TlBwSmYyQk9RUHB1RzI4alRmeGh2Zkg2Q09NaUxYX19Mck55N0p6V21ZcHk4d0tXcFl4TGNUb011TjViVkVQYVVzdVI5VGJiUlRJbkUxdVk1bVhjQ2lPUHhGNlNfTGIyRVh0TVZ1MTlJcXBlUXczZzhEQ3NxWHZnQUVMalN6TzdDZVNRbkpEd2o2VWtVb3lYWEFESklIYkNuTDd4TdIBwgFBVV95cUxNSE10UUFTbzFDNTN0a0dmRmtoZkFPd1Jhc0tOTzlZeGpOQzZRSjV4Z3pXdURuajd1alNlSFBTcU1GN2JkZ1JSb0F3MU5QVU5HVTJjWEV3VHE0VlluTXJmcVFMX25QbGN1TTJMN1lyaG55cEVlOWJmdU04dEhqQUtIUFlYV21SMHo0eFJ6eXFoYVZEdTZycXBuc2F4U3dZRUhXNlBmWkFDNmMydHlhLVEwLS0zekdFWjg5VVpIQjNXSk5TZw?oc=5",
-      "fonte": "g1.globo.com",
+      "fonte": "G1",
       "publicado_em": "2026-07-31T15:38:27+00:00",
       "categoria": null,
       "feed": "recentes"
-    },
-    {
-      "id": "c5c1b83216f3",
-      "titulo": "Guaíba deve ficar abaixo da cota de inundação, mas falta de dados mantém incerteza na Capital",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeE8tZFYxN2VLUW81a2Fkekp6NnNUZkJZa0huS0pkdS02UWk3OEh1Y3NRN0pWaUN6ZU5ZR3d3MlZ5QjJucUdEcEdGXzY3eVhrZDF4MVVyR0JNTXBLblBLanJpZ0MzMDdjQUx6UlNSam9iS0ZzRG9PclgtbFJkX3lOZU54Um1tTTVjNWJ4SW9udWRJZ0R4eUFKRUdwYVdzSWlyWmxzS2h2dERYOG02UDVKSDA1NXRKZ3paY05WQVlpdFBham1rdGh1bTNWdWlyR0p1SUFn?oc=5",
-      "fonte": "Sul 21",
-      "publicado_em": "2026-07-31T15:19:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba deve ficar abaixo da cota de inundação, mas falta de dados mantém incerteza na Capital Sul 21"
     }
   ],
   "noticias_home": [
@@ -395,34 +395,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
-    },
-    {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
       "id": "328a4ef216b4",
@@ -435,24 +415,44 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
-      "id": "b965b879f057",
-      "titulo": "Guaíba tem redução de nível; Jacuí, Caí e Rio dos Sinos continuam na cota de inundação",
-      "url": "https://sul21.com.br/noticias/geral/2026/08/guaiba-tem-reducao-de-nivel-jacui-cai-e-rio-dos-sinos-continuam-na-cota-de-inundacao/",
-      "fonte": "Sul21",
-      "publicado_em": "2026-08-01T12:22:57+00:00",
-      "categoria": "Geral",
-      "feed": "sul21_direto",
-      "resumo": "A medição do Guaíba no Cais Mauá registrou descida de 1,44 metros na manhã deste sábado (1º). No momento, a cota é de normalidade, com 1,07 metros. Segue o alerta, entretanto, de risco muito alto para inundação nas ilhas de Porto Alegre. Na Ilha da Pintada, o nível atual é de 2,28 m (medição das…"
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+    },
+    {
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     }
   ]
 }
