@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-01T19:05:51.965711+00:00",
+  "gerado_em": "2026-08-01T20:53:27.833228+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "fb0a0f3cbc0f",
-      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
-      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-01T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
-    },
-    {
       "id": "4b0eb5cbea65",
       "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
@@ -94,14 +84,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "id": "fb0a0f3cbc0f",
+      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
+      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-08-01T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
       "id": "328a4ef216b4",
@@ -124,14 +114,24 @@
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+    },
+    {
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
       "id": "1cf422762e78",
@@ -142,6 +142,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
+    },
+    {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
       "id": "2a55db2c4fa4",
@@ -214,14 +224,14 @@
       "resumo": "Troncos e destroços levados pelas fortes chuvas invadem praia no RS A travessia de Catamarã entre Porto Alegre e Guaíba, na Região Metropolitana, está suspensa desde o fim da tarde de quinta-feira (23) devido ao grande volume de troncos, madeiras e entulhos que flutuam no lago Guaíba após as fortes…"
     },
     {
-      "id": "f33d2e7f2329",
+      "id": "4728dfb2febf",
       "titulo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNV0Fydk85Qllmb2VkZGQ5bkFOMjVZN1AwQ1VKaDNQVXg1ZWNBYl9EWkR1amJibmdoOFp1U0ZtY0FIQXVydzdwbWE0QkJid3MyVHhYSXA1WWxFYjBpTEttREtyeTNGVE5HWjVHS1dkRWtTNldIVEduc1NheGNBdUZ2WTVxeVk3d28xU0NMSURVTF84XzRCMHQtbTVCLVRFZlNQcVY1S2NvdDRyV1BDd1FjYWVCLU45X2daMTAzU0JCbzlZVWI0dUZ0OF9ZYmNfSGJycnEtdUZ5T1NRYUZYUFdrNFlJdVdGT21DS3g4ZjN0ckg0RjhKOGw4MEZReThHOU8ya2ZSaXNUWUFKdjFuOGJJY2hR?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-08-01T15:33:29+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQR1JSQWJkOXI4Z3l5OEFpdDVsaUlHalRvLVpJZHY1R1JOQVJ2QnVRQXNVdWtvUnF0TlNNLW15T1BpaF9oVVFNRm5EbnpwQnpZSEVxci1PQzhtU2l6UWVPOEdaN2NFUHdYMUZXY0lOMGJobHdBdnVrMldTcDgyY3MwUG1hYjhxb1VsdWhCcFRvbXExNXJsRmJkbU8wY0RFMkpVRVM0ODJhcnVLR0Y1T0pPMmd1REVUbmNndjZLZjI0NEtXZzNidlNnVXliTzZoWEFIYmsxeXg3dkMyLTNMQnlrNGlxWFYxR2V6N05QVUVscUZyaTFxVWs0dnlmY1NiQllmQUk5ZFVtMWFoZ3FSTTN2MnVDQ24yNE1hdW1Veg?oc=5",
+      "fonte": "diariogaucho.clicrbs.com.br",
+      "publicado_em": "2026-08-01T18:22:30+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS GZH"
+      "feed": "vizinhos",
+      "resumo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS diariogaucho.clicrbs.com.br"
     },
     {
       "id": "984fd43d099f",
@@ -257,11 +267,11 @@
       "id": "9be2d38ce3bb",
       "titulo": "O Guaíba não deve atingir a cota de inundação neste final de semana no Cais Mauá em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1NSWGEycjgxNTNPVVFMdWxrMlpYWDM3bVBKd2tqbTBMUko4c0dHNzFYY3hHUktBTEdaVTczdnBOSHh1dkozQ0tEaGQxLVEtV2puVGxzVlRBSHpQNUdNWEZLTUZGa1d2bFU0cnVTd1JHN2RRbTRib3BBZ0hteUk5cmlUckhiMHNWQm1feFJ0M0dyZ19xMTRfbmRmamNXYnFtczNFVUpNTjhQNDF6eFpQWFY2VnVOT0lRa2xZTkl1NURlZk3SAcMBQVVfeXFMUG9TUlhhMnI4MTUzT1VRTHVsazJaWFgzN21QSndram0wTFJKOHNHRzcxWGN4R1JLQUxHWlU3M3ZwTkh4dXZKM0NLRGhkMS1RLVdqblRsc1ZUQUh6UDVHTVhGS01GRmtXdmxVNHJ1U3dSRzdkUW00Ym9wQWdIbXlJOXJpVHJIYjBzVkJtX3hSdDNHcmdfcTE0X25kZmpjV2JxbXMzRVVKTU44UDQxenhaUFhWNlZ1Tk9JUWtsWU5JdTVEZWZN?oc=5",
-      "fonte": "Jornal O Sul",
+      "fonte": "osul.com.br",
       "publicado_em": "2026-07-31T23:22:23+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "O Guaíba não deve atingir a cota de inundação neste final de semana no Cais Mauá em Porto Alegre Jornal O Sul"
+      "resumo": "O Guaíba não deve atingir a cota de inundação neste final de semana no Cais Mauá em Porto Alegre osul.com.br"
     },
     {
       "id": "e7f561f3c9f2",
@@ -362,28 +372,9 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Veículos da Toyota colocam Guaíba na liderança das importações gaúchas Jornal do Comércio"
-    },
-    {
-      "id": "88f216afccaf",
-      "titulo": "Preocupação com o Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmMwMnFNV2pJY1BpWFh6TlBwSmYyQk9RUHB1RzI4alRmeGh2Zkg2Q09NaUxYX19Mck55N0p6V21ZcHk4d0tXcFl4TGNUb011TjViVkVQYVVzdVI5VGJiUlRJbkUxdVk1bVhjQ2lPUHhGNlNfTGIyRVh0TVZ1MTlJcXBlUXczZzhEQ3NxWHZnQUVMalN6TzdDZVNRbkpEd2o2VWtVb3lYWEFESklIYkNuTDd4TdIBwgFBVV95cUxNSE10UUFTbzFDNTN0a0dmRmtoZkFPd1Jhc0tOTzlZeGpOQzZRSjV4Z3pXdURuajd1alNlSFBTcU1GN2JkZ1JSb0F3MU5QVU5HVTJjWEV3VHE0VlluTXJmcVFMX25QbGN1TTJMN1lyaG55cEVlOWJmdU04dEhqQUtIUFlYV21SMHo0eFJ6eXFoYVZEdTZycXBuc2F4U3dZRUhXNlBmWkFDNmMydHlhLVEwLS0zekdFWjg5VVpIQjNXSk5TZw?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-07-31T15:38:27+00:00",
-      "categoria": null,
-      "feed": "recentes"
     }
   ],
   "noticias_home": [
-    {
-      "id": "fb0a0f3cbc0f",
-      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
-      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-01T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
-    },
     {
       "id": "4b0eb5cbea65",
       "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
@@ -395,14 +386,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "id": "fb0a0f3cbc0f",
+      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
+      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-08-01T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
       "id": "328a4ef216b4",
@@ -425,14 +416,24 @@
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+    },
+    {
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     },
     {
       "id": "1cf422762e78",
@@ -445,14 +446,14 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     }
   ]
 }
