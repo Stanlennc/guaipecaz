@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-02T11:15:37.020011+00:00",
+  "gerado_em": "2026-08-02T13:17:19.364936+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,16 @@
   ],
   "noticias": [
     {
+      "id": "4b0eb5cbea65",
+      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-02T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
+    },
+    {
       "id": "fb0a0f3cbc0f",
       "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
       "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
@@ -82,6 +92,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
+    },
+    {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
       "id": "16fe33979805",
@@ -102,16 +122,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
       "id": "cdfc5fa3a4a6",
@@ -217,11 +227,11 @@
       "id": "bd762e5f20f6",
       "titulo": "Guaíba começa a baixar e vento Sul pode causar repique",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04Wi11OC1yZXVoazhzX3JBV21Ic29HLXdTQmVLWTk5N2RybHlEQVNObFBMX0dYYXVkZDVNekxyUHEtbG1OeEpqR1hzM01XbTZ6U0dBOVlqaDF2ZThqc3V0VjdwRVhCQTFWUGtVV3dYNTIxMktFTGZJYjE2ek9IOVE?oc=5",
-      "fonte": "MetSul Meteorologia",
+      "fonte": "metsul.com",
       "publicado_em": "2026-08-01T22:37:45+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Guaíba começa a baixar e vento Sul pode causar repique MetSul Meteorologia"
+      "resumo": "Guaíba começa a baixar e vento Sul pode causar repique metsul.com"
     },
     {
       "id": "4728dfb2febf",
@@ -362,19 +372,19 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Lago Guaíba se aproxima da cota de inundação em Porto Alegre G1"
-    },
-    {
-      "id": "428f72bd9059",
-      "titulo": "Subida do Guaíba mobiliza moradores das ilhas de Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTmwwRXQwZjk0Sm92aDNaUVJmQ2RWZXFUTzdvMExTckEyMklzWGpxWjUzNklOVDNLb2s3WEVqVDliWE5RMlFKYjQxN3B3TktBTHVYVVNRMGxlX284cFZpOEp4M244ckV3b0U0YWlaNDV1VGdLc21Hck5jVGpuS3phQXpxaUZEdXc1SktSelJZOHZKQ2xHZU5yQzhqZklTYmY5Tlp3ODI5dWVUTmluZThRWkJKQXdHOEVMdk90dXgwTUdoRmtK?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-31T16:31:40+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Subida do Guaíba mobiliza moradores das ilhas de Porto Alegre Correio do Povo"
     }
   ],
   "noticias_home": [
+    {
+      "id": "4b0eb5cbea65",
+      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-02T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
+    },
     {
       "id": "fb0a0f3cbc0f",
       "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
@@ -384,6 +394,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
+    },
+    {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
       "id": "16fe33979805",
@@ -404,16 +424,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
       "id": "cdfc5fa3a4a6",
@@ -444,16 +454,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     }
   ]
 }
