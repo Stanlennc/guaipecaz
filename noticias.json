@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-02T13:17:19.364936+00:00",
+  "gerado_em": "2026-08-02T15:00:45.186229+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,26 +94,6 @@
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
-    },
-    {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
-    },
-    {
       "id": "2127146cc672",
       "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
       "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
@@ -134,6 +114,36 @@
       "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+    },
+    {
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
       "id": "2a55db2c4fa4",
       "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
@@ -152,26 +162,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
-    },
-    {
-      "id": "b965b879f057",
-      "titulo": "Guaíba tem redução de nível; Jacuí, Caí e Rio dos Sinos continuam na cota de inundação",
-      "url": "https://sul21.com.br/noticias/geral/2026/08/guaiba-tem-reducao-de-nivel-jacui-cai-e-rio-dos-sinos-continuam-na-cota-de-inundacao/",
-      "fonte": "Sul21",
-      "publicado_em": "2026-08-01T12:22:57+00:00",
-      "categoria": "Geral",
-      "feed": "sul21_direto",
-      "resumo": "A medição do Guaíba no Cais Mauá registrou descida de 1,44 metros na manhã deste sábado (1º). No momento, a cota é de normalidade, com 1,07 metros. Segue o alerta, entretanto, de risco muito alto para inundação nas ilhas de Porto Alegre. Na Ilha da Pintada, o nível atual é de 2,28 m (medição das…"
     },
     {
       "id": "c8c48b29aa33",
@@ -227,11 +217,11 @@
       "id": "bd762e5f20f6",
       "titulo": "Guaíba começa a baixar e vento Sul pode causar repique",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04Wi11OC1yZXVoazhzX3JBV21Ic29HLXdTQmVLWTk5N2RybHlEQVNObFBMX0dYYXVkZDVNekxyUHEtbG1OeEpqR1hzM01XbTZ6U0dBOVlqaDF2ZThqc3V0VjdwRVhCQTFWUGtVV3dYNTIxMktFTGZJYjE2ek9IOVE?oc=5",
-      "fonte": "metsul.com",
+      "fonte": "MetSul Meteorologia",
       "publicado_em": "2026-08-01T22:37:45+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Guaíba começa a baixar e vento Sul pode causar repique metsul.com"
+      "resumo": "Guaíba começa a baixar e vento Sul pode causar repique MetSul Meteorologia"
     },
     {
       "id": "4728dfb2febf",
@@ -252,6 +242,16 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Cinco rios seguem acima da cota de inundação no RS; Guaíba permanece em alerta em Porto Alegre Clic Camaquã"
+    },
+    {
+      "id": "9e9e4d494a99",
+      "titulo": "Guaíba tem redução de nível; Jacuí, Caí e Rio dos Sinos continuam na cota de inundação",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYlNJNlVpd0dFemR5akJNaHZneHR6OVozNVBrdmJVYkVhVVAtWm5yLWVPNE1VYWNUNUN2OVlUb1R1OER1NlNCSmJINlh1R0dCN1ZBTm5qVlNIaG5zUGFBOFk0NU9jaWd6SC1MTC1VTmN2MzZ2Tl9OMjFQR0hjaDZMc08tOE5BUmdSV0JHUElDUjZ6Sk4teEF3VHdDYkQ5UXJVLUlvbzZmQm1GbGJLRGx1d3IxZ0lRSm5qWEJDME9vUEM2cWFCWkd3Rw?oc=5",
+      "fonte": "Sul 21",
+      "publicado_em": "2026-08-01T12:22:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba tem redução de nível; Jacuí, Caí e Rio dos Sinos continuam na cota de inundação Sul 21"
     },
     {
       "id": "0f79bd8473e2",
@@ -396,26 +396,6 @@
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
-    },
-    {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
-    },
-    {
       "id": "2127146cc672",
       "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
       "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
@@ -436,6 +416,36 @@
       "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+    },
+    {
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
       "id": "2a55db2c4fa4",
       "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
@@ -444,16 +454,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
-    },
-    {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     }
   ]
 }
