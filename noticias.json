@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-03T11:20:46.356473+00:00",
+  "gerado_em": "2026-08-03T14:35:02.338883+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -124,26 +124,6 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
-    },
-    {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
-    },
-    {
       "id": "2127146cc672",
       "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
       "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
@@ -162,6 +142,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+    },
+    {
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "c8c48b29aa33",
@@ -194,14 +184,24 @@
       "resumo": "Guaíba chega à cota de atenção em Porto Alegre e nível pode aumentar nos próximos dias O nível do Guaíba alcançou a cota de atenção em Porto Alegre nesta quarta-feira (29). De acordo com a Defesa Civil da Capital, a medição feita no Cais Mauá registrou mais de 2 metros durante a tarde. A elevação…"
     },
     {
+      "id": "a0f3123d85cd",
+      "titulo": "Jacuí, Sinos, Gravataí e Uruguai seguem em cota de inundação, enquanto Guaíba continua recuando em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQ0d0ZHJsMTJfZHNkRjNXc3NxRHJmaXhSWkNOeEhUQ1A1NUpRajRqc0o5UWNlZUt1c0VNOHJDbTZMckVuQWxmNVVDdzdHYkoyOTBSSFd1QVdNdDBncHRXVGJRWUs0OVFUcWVpUDV3TkVCLXk0RkFEVE04U0pjMXNHZExjZVVsWWNqZkVQUUI3OGtpYnRzUVYyUmlfbTctSy1DSHd3bDhqQjkzMWRhY2NCS3FJWXRqMk5vcy1xY0NTSUNHUk81Rk4zdFRpQTVIM0JPandqOGU4SHJyZkRjdHNhdnVRenRpMEMwajB1T0Fpa2xoZUYxaW5YblQtVXI5LWlLWHpr?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-03T12:03:24+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Jacuí, Sinos, Gravataí e Uruguai seguem em cota de inundação, enquanto Guaíba continua recuando em Porto Alegre Correio do Povo"
+    },
+    {
       "id": "308a0f6470a8",
       "titulo": "Guaíba baixa, mas deixa rastro de galhos e lixo na Orla de Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUJ4NTZpZWVwN2h1UHdkX2Joa25IWnZucXc1V0JCZDJOVGdPeVd2SWtmTHllanJRSVRBU1BIcXQ0by12bURWU0oyX3BmQUtpbHZNV2d3c1ZiM1FvaW5vTVY3dks2eXlZcWpxMHFneU92blMwWTZLTldRa1k1aXpUU1o5ek03Y05CdEIwVHU0SUsxSjE4dlJobTNiYjFHb28tU0VKOEExbGg1NkZMVWJUVkdEN2Z1bWFzUXQ4UjduSDJneS13N0hmWVFB?oc=5",
-      "fonte": "Jornal do Comércio",
+      "fonte": "jornaldocomercio.com",
       "publicado_em": "2026-08-02T18:14:52+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Guaíba baixa, mas deixa rastro de galhos e lixo na Orla de Porto Alegre Jornal do Comércio"
+      "resumo": "Guaíba baixa, mas deixa rastro de galhos e lixo na Orla de Porto Alegre jornaldocomercio.com"
     },
     {
       "id": "3ef317188271",
@@ -257,11 +257,11 @@
       "id": "4728dfb2febf",
       "titulo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQR1JSQWJkOXI4Z3l5OEFpdDVsaUlHalRvLVpJZHY1R1JOQVJ2QnVRQXNVdWtvUnF0TlNNLW15T1BpaF9oVVFNRm5EbnpwQnpZSEVxci1PQzhtU2l6UWVPOEdaN2NFUHdYMUZXY0lOMGJobHdBdnVrMldTcDgyY3MwUG1hYjhxb1VsdWhCcFRvbXExNXJsRmJkbU8wY0RFMkpVRVM0ODJhcnVLR0Y1T0pPMmd1REVUbmNndjZLZjI0NEtXZzNidlNnVXliTzZoWEFIYmsxeXg3dkMyLTNMQnlrNGlxWFYxR2V6N05QVUVscUZyaTFxVWs0dnlmY1NiQllmQUk5ZFVtMWFoZ3FSTTN2MnVDQ24yNE1hdW1Veg?oc=5",
-      "fonte": "Diário Gaúcho",
+      "fonte": "diariogaucho.clicrbs.com.br",
       "publicado_em": "2026-08-01T19:52:10+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS Diário Gaúcho"
+      "resumo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS diariogaucho.clicrbs.com.br"
     },
     {
       "id": "3e0a69c0b618",
@@ -317,11 +317,11 @@
       "id": "e7f561f3c9f2",
       "titulo": "INUNDAÇÃO para o Guaíba. Risco MUITO ALTO para a região das Ilhas.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHVxdml1ZmIzdzNyeDA5dk04SURFTk9jWEVEd2p5NWlnN29kT2xxNFgxV0MwWW05VE5OUU1BZ1dWWXJhQ2t6NmhwMC1BQ29NMGc4UXdjSHdqMHNRWXVYQVBpZ1RpZzdxSnpmMFVjdTV1anRFVjBqempsY0JpWFNRZ2VSbk40RjZtc1duOUxGR3dzeUZwNEpSOFJTaHl1aVpVS0J4NUotQzdoV0tkVnlwNWphX3E?oc=5",
-      "fonte": "Defesa Civil do Rio Grande do Sul",
+      "fonte": "defesacivil.rs.gov.br",
       "publicado_em": "2026-07-31T23:01:27+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "INUNDAÇÃO para o Guaíba. Risco MUITO ALTO para a região das Ilhas. Defesa Civil do Rio Grande do Sul"
+      "resumo": "INUNDAÇÃO para o Guaíba. Risco MUITO ALTO para a região das Ilhas. defesacivil.rs.gov.br"
     },
     {
       "id": "854d4e21190b",
@@ -337,11 +337,11 @@
       "id": "7dcba283dc3c",
       "titulo": "Novo boletim mantém previsão de alta do Guaíba até sábado, mas sem ultrapassar cota de inundação",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOYXFQYldybnZTcjNWVEVXYUc3RkZfSTZOSXdyMjV5eFBDTlZwclgtYWdNS2RrYlhyUlVmajZJamt5c1NwS3ZiTHdkTklBdmtndnpfUVVDS0VZRm8yWnNndHRLUU5VdTRkSHRNX29VbDQwYW5tdXl0Rk5pVFJKRk1mOXllQmFCaWxRMzY5blBOUVJFYnN5a3hRUUUzQ0NsT2kxZE5SMzY4MUFOVjF4amNlQW5yYy1GdUo1U2JvaWtLZkNtRlhUaUxIdUpQOHF5TlE4MTNLNjJGY0lQbWREaHhnYlZGSEdqelF5OF9yWDVIemZSa1E5ZHlyRmt2NmZDeGhLNlNfWGdSWGtGRWlDbU0yMGJlR1U1QQ?oc=5",
-      "fonte": "GZH",
+      "fonte": "gauchazh.clicrbs.com.br",
       "publicado_em": "2026-07-31T22:00:14+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Novo boletim mantém previsão de alta do Guaíba até sábado, mas sem ultrapassar cota de inundação GZH"
+      "resumo": "Novo boletim mantém previsão de alta do Guaíba até sábado, mas sem ultrapassar cota de inundação gauchazh.clicrbs.com.br"
     },
     {
       "id": "3783ef754c4d",
@@ -426,14 +426,24 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "cdfc5fa3a4a6",
-      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
       "id": "1cf422762e78",
@@ -444,16 +454,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
-    },
-    {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
     }
   ]
 }
