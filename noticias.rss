@@ -5,13 +5,6 @@
 <description>Notícias de Guaíba e da Região Metropolitana de Porto Alegre</description>
 <language>pt-BR</language>
 <item>
-<title>Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real</title>
-<link>https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real</link>
-<guid>fb0a0f3cbc0f</guid>
-<pubDate>2026-08-03T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba</title>
 <link>https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba</link>
 <guid>4b0eb5cbea65</guid>
@@ -19,9 +12,40 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
-<title>Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba</title>
-<link>https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba</link>
-<guid>16fe33979805</guid>
+<title>Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha</title>
+<link>https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha</link>
+<guid>8a9e8f04364e</guid>
+<pubDate>2026-08-03T00:00:00+00:00</pubDate>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação</title>
+<link>https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude</link>
+<guid>777f86ec4825</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos</title>
+<link>https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos</link>
+<guid>2127146cc672</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população</title>
+<link>https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao</link>
+<guid>1cf422762e78</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos</title>
+<link>https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos</link>
+<guid>2a55db2c4fa4</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira</title>
+<link>https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira</link>
+<guid>cdfc5fa3a4a6</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -34,24 +58,6 @@
 <title>Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura</title>
 <link>https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura</link>
 <guid>328a4ef216b4</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos</title>
-<link>https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos</link>
-<guid>2127146cc672</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos</title>
-<link>https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos</link>
-<guid>2a55db2c4fa4</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população</title>
-<link>https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao</link>
-<guid>1cf422762e78</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -76,6 +82,13 @@
 <source>G1 RS</source>
 </item>
 <item>
+<title>Limpeza de resíduos da cheia em Guaíba pode levar até dois meses</title>
+<link>https://news.google.com/rss/articles/CBMizgFBVV95cUxOczN6Qm8zeGE0aVhpbUJVV0lBYnRwU2ZVZXB4ZFMtd0dQS1pkTDhEbEs2RE1HSmlVYnctMEFlSV9iRnhFV3BnbGlnYTM5ZzhMandjVHJHRnpGQ3N5UmxSdUlXU2NCNV9PRjhWRVlYdTVQcWFLeG9kbnJQMk1qV25xTDRiei1tVUhlQXdRY0ItVWtFMDEzWnExRHFDNFFBbDdGWFNYWHdMalRFbk1hUVZ0VWtva28wSjEtemQ3bEg5Vjk1TDFtS2pxNmJqc0M2dw?oc=5</link>
+<guid>f7f572c94c49</guid>
+<pubDate>2026-08-03T16:49:53+00:00</pubDate>
+<source>Jornal do Comércio</source>
+</item>
+<item>
 <title>Jacuí, Sinos, Gravataí e Uruguai seguem em cota de inundação, enquanto Guaíba continua recuando em Porto Alegre</title>
 <link>https://news.google.com/rss/articles/CBMigwJBVV95cUxQQ0d0ZHJsMTJfZHNkRjNXc3NxRHJmaXhSWkNOeEhUQ1A1NUpRajRqc0o5UWNlZUt1c0VNOHJDbTZMckVuQWxmNVVDdzdHYkoyOTBSSFd1QVdNdDBncHRXVGJRWUs0OVFUcWVpUDV3TkVCLXk0RkFEVE04U0pjMXNHZExjZVVsWWNqZkVQUUI3OGtpYnRzUVYyUmlfbTctSy1DSHd3bDhqQjkzMWRhY2NCS3FJWXRqMk5vcy1xY0NTSUNHUk81Rk4zdFRpQTVIM0JPandqOGU4SHJyZkRjdHNhdnVRenRpMEMwajB1T0Fpa2xoZUYxaW5YblQtVXI5LWlLWHpr?oc=5</link>
 <guid>a0f3123d85cd</guid>
@@ -87,7 +100,7 @@
 <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxONUJ4NTZpZWVwN2h1UHdkX2Joa25IWnZucXc1V0JCZDJOVGdPeVd2SWtmTHllanJRSVRBU1BIcXQ0by12bURWU0oyX3BmQUtpbHZNV2d3c1ZiM1FvaW5vTVY3dks2eXlZcWpxMHFneU92blMwWTZLTldRa1k1aXpUU1o5ek03Y05CdEIwVHU0SUsxSjE4dlJobTNiYjFHb28tU0VKOEExbGg1NkZMVWJUVkdEN2Z1bWFzUXQ4UjduSDJneS13N0hmWVFB?oc=5</link>
 <guid>308a0f6470a8</guid>
 <pubDate>2026-08-02T18:14:52+00:00</pubDate>
-<source>jornaldocomercio.com</source>
+<source>Jornal do Comércio</source>
 </item>
 <item>
 <title>Bacias do Guaíba e do rio Uruguai ainda apresentam níveis acima da cota de inundação em sete estações, aponta SGB</title>
@@ -123,19 +136,5 @@
 <guid>bd762e5f20f6</guid>
 <pubDate>2026-08-01T22:37:45+00:00</pubDate>
 <source>MetSul Meteorologia</source>
-</item>
-<item>
-<title>Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS</title>
-<link>https://news.google.com/rss/articles/CBMinAJBVV95cUxQR1JSQWJkOXI4Z3l5OEFpdDVsaUlHalRvLVpJZHY1R1JOQVJ2QnVRQXNVdWtvUnF0TlNNLW15T1BpaF9oVVFNRm5EbnpwQnpZSEVxci1PQzhtU2l6UWVPOEdaN2NFUHdYMUZXY0lOMGJobHdBdnVrMldTcDgyY3MwUG1hYjhxb1VsdWhCcFRvbXExNXJsRmJkbU8wY0RFMkpVRVM0ODJhcnVLR0Y1T0pPMmd1REVUbmNndjZLZjI0NEtXZzNidlNnVXliTzZoWEFIYmsxeXg3dkMyLTNMQnlrNGlxWFYxR2V6N05QVUVscUZyaTFxVWs0dnlmY1NiQllmQUk5ZFVtMWFoZ3FSTTN2MnVDQ24yNE1hdW1Veg?oc=5</link>
-<guid>4728dfb2febf</guid>
-<pubDate>2026-08-01T19:52:10+00:00</pubDate>
-<source>diariogaucho.clicrbs.com.br</source>
-</item>
-<item>
-<title>Cinco rios seguem acima da cota de inundação no RS; Guaíba permanece em alerta em Porto Alegre</title>
-<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNdUxYVGtZWk9pQk9XQTh2eFliZnpJNk1rdDc5UkJWVG9XYXVNRlFuUTRrZ0o3cWdLOUxqWnp0WWtnZzBwOXN6MEVfNndBaUE1aXpQUVhlWDk0Z0dXV2NiNlVrbmt4WkFoSVZUU0I5azl2YW02VW9LakhEM2dvMElxNTB3V0xUc1lzTDJfLTBVYlFMMmxRMXJOVF84WG9TU2h2aC1vWnpJZnFLUUJNTFNpaGYtLXJhVXhjT2lrXw?oc=5</link>
-<guid>3e0a69c0b618</guid>
-<pubDate>2026-08-01T12:38:08+00:00</pubDate>
-<source>Clic Camaquã</source>
 </item>
 </channel></rss>
