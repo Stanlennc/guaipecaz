@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-03T21:00:28.108284+00:00",
+  "gerado_em": "2026-08-03T22:58:24.299310+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,116 @@
   ],
   "noticias": [
     {
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-03T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
+    {
+      "id": "4b0eb5cbea65",
+      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-03T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
+    },
+    {
+      "id": "fb0a0f3cbc0f",
+      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
+      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-03T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
+    },
+    {
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+    },
+    {
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+    },
+    {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+    },
+    {
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+    },
+    {
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
       "id": "c8c48b29aa33",
       "titulo": "Água invade rua na Zona Norte de Porto Alegre com elevação do Guaíba; veja a previsão do tempo",
       "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/31/alagamentos-porto-alegre-guaiba-jacui.ghtml",
@@ -104,6 +214,16 @@
       "resumo": "Guaíba chega à cota de atenção em Porto Alegre e nível pode aumentar nos próximos dias O nível do Guaíba alcançou a cota de atenção em Porto Alegre nesta quarta-feira (29). De acordo com a Defesa Civil da Capital, a medição feita no Cais Mauá registrou mais de 2 metros durante a tarde. A elevação…"
     },
     {
+      "id": "7c26283cf184",
+      "titulo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVzV5RXpYOW9Ed1gwSU91SmRkOWwwX1A4Tm05X3l4RHNRTHl1SmN4Ny1vTGYxWUFvWFJMNmV6YkhHTVlpdGdHazdiYjZLMUVaR3kxZ2xuYVQzMnFLV1d5N3VGNXVIOENLdFU1VG9qNGZ1QWEzWU5DTF9mRk9FZFpQRFN4cmZKQzJzdXpWS1JlMXR6elEtVlBtUzU0YkxkYU1h?oc=5",
+      "fonte": "Agora RS",
+      "publicado_em": "2026-08-03T21:49:43+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba Agora RS"
+    },
+    {
       "id": "f889202942a5",
       "titulo": "Mais de 440 toneladas de resíduos foram recolhidas da orla do Guaíba em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdU5kZV8xZ1FnTjNoRlkxS0ZLOGlqb2pqOWpZUVVmNTcxTVZQX3dJbVY3UjVmUEFlVHYwdXNCSXVoSEY5NnRKTHEwWERvMEQxUFJKYkNxVlNHXzFTdHFoMDBYWU90OTFiZkhmT2JSMHVMbWhVUjZ1amQtbDVmMElXbXZCVll3LWRWZXFCUVpWa3B5NEpfbnlwdXJaU1ZSOFlRaGFmaWJpSXlUbTc5YkhicWVkZzR1M0pOSXdHc05FaGdVWVpkLWU3T0pIMGRrWTdNVURVckoxdUVPSUxseVdSN2xNQQ?oc=5",
@@ -114,23 +234,13 @@
       "resumo": "Mais de 440 toneladas de resíduos foram recolhidas da orla do Guaíba em Porto Alegre Correio do Povo"
     },
     {
-      "id": "76f0b17248b2",
-      "titulo": "Mais de 440 toneladas de resíduos são recolhidas da orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRHZ2UTFYS0R0UlVhUktCV1NHWFRWSkxBczlLSXNmNm5KQ1BZak81MlBKTnlXcTgxNi0xM2dyQm90TEcyTWVPa21Ra3ZTeGlkS202amQ0dmdaaHF3WWFYUmI3bWIybmVSbi1aU0RGUGk4Z2o0YjA5UU1FdEsyMVY1OUtEZUd5NFBhbE40SzFUelJkQXVGM2I3ZzlQZnpLTzVmVnU4aHVibHJtZw?oc=5",
-      "fonte": "Prefeitura de Porto Alegre",
-      "publicado_em": "2026-08-03T20:18:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Mais de 440 toneladas de resíduos são recolhidas da orla do Guaíba Prefeitura de Porto Alegre"
-    },
-    {
       "id": "b19e1f2814df",
       "titulo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOekhWLTE1VHZxRHpMR0V3bDI2N19ENGtIZ0ZpNkYwaHlreWpzaldXcnVkcEIzRm51Yk8tRXNGNkZpRG1uWUwwRWl1VmFDVVRwcGloVV9qd3FSWktmMEtjb2JzWkhlTlliTGtISXBmTmUxT0M5N0pEWU9tSVRQMUZfOTZram5wMm5GMm1kVGNXY0xtcHhyOVlPWFl6Uy1iSW45X25fbERmbVFiRVdmcDB0TEtLbnMtaDQ3WVRQWmtUdHRaeFAyaXFzNkgyVzE2aVZMZGpZODZqQjRjeVUtTS1VZ0sxdTFLamRLMTdHVg?oc=5",
       "fonte": "Correio do Povo",
       "publicado_em": "2026-08-03T19:55:09+00:00",
       "categoria": null,
-      "feed": "correio_metro",
+      "feed": "correio",
       "resumo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias Correio do Povo"
     },
     {
@@ -140,7 +250,7 @@
       "fonte": "Correio do Povo",
       "publicado_em": "2026-08-03T19:28:48+00:00",
       "categoria": null,
-      "feed": "correio",
+      "feed": "recentes",
       "resumo": "Guaíba assina termo de cooperação com Estado para remoção de entulhos das cheias Correio do Povo"
     },
     {
@@ -162,26 +272,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Limpeza de resíduos da cheia em Guaíba pode levar até dois meses Jornal do Comércio"
-    },
-    {
-      "id": "599abeda66fe",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkZwTWVKR3VFNWxYS0ZPTmdDRlZwUGd6LXNPVERzNkFrZWoxa0N6cFl6T3ZvNmZJWG1RYUJMeWJ1TzVhQVA2TGRLc0piSjY2WGc1cWxnMGcyT1dvZHhVOHZBdUdvTl9oM2dDV2pMbzVCM0ZEdmZGRVhiNUZxczlLbDc0cWthZFY2OHBtTHZWYVZ6cTBvZnJmTkx6OWU4SGtmUG5zbWxmX0thUTl6N1ZwN0h2UVhHZUtzRHR4SXhValQ?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-03T16:15:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha Repórter Guaibense"
-    },
-    {
-      "id": "3fff1a058d6d",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVXU0UURLWlF6VnFPLUYweHlFRnYtd3lQTWxLSE5FMUctY0RYa2lwTU9oWDczMkFtbThXQzFPYXZ2bWhmZFBzU2RRYnpLUUcwUmo2Nl9UMkRFOUJ2U01lWE1mRDh1czRPWS1PcWJpLVpQZTNsbHd5Rm5kNnBOWE9MVXFfZzRVZ0NQRDJaR2FkTU5saWdZaTRtX240QUtzYkdIcFp2ODAwazY0SlJTNGprQmZld3BZLW1mV1N5MFZlN0xjRXlf?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-03T14:43:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação Repórter Guaibense"
     },
     {
       "id": "a0f3123d85cd",
@@ -282,178 +372,88 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Guaíba tem redução de nível; Jacuí, Caí e Rio dos Sinos continuam na cota de inundação Sul 21"
-    },
-    {
-      "id": "0f79bd8473e2",
-      "titulo": "Porto Alegre está em alerta com a elevação das águas do Guaíba desde a última madrugada",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSVlNeW9vNEd5d2F5ZEdHZDdRZW4wdllmUHdBSWxudW9id3FNQWs4OWZaSnF6MTAyOERKSUxqM1Z1SktfR0lTY0piSmRfcTdmTjBSRUdIUnkxei10VEVFQkdQSWdxUld4ZjlmYzVlTlI5VW5qcElib2NnRFFUbTRSTG1GVGpOMFo1YjhtTVhBRkNidllkWDE2Z0gzMTA0empfZmxQVFNxOVRJTkNCUXVIV2RtTmFuTGhfbkZ3cjZiUURBZVJ2R0xRZEU5NzRwaFIzanc?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-07-31T23:52:11+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Porto Alegre está em alerta com a elevação das águas do Guaíba desde a última madrugada R7"
-    },
-    {
-      "id": "9be2d38ce3bb",
-      "titulo": "O Guaíba não deve atingir a cota de inundação neste final de semana no Cais Mauá em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1NSWGEycjgxNTNPVVFMdWxrMlpYWDM3bVBKd2tqbTBMUko4c0dHNzFYY3hHUktBTEdaVTczdnBOSHh1dkozQ0tEaGQxLVEtV2puVGxzVlRBSHpQNUdNWEZLTUZGa1d2bFU0cnVTd1JHN2RRbTRib3BBZ0hteUk5cmlUckhiMHNWQm1feFJ0M0dyZ19xMTRfbmRmamNXYnFtczNFVUpNTjhQNDF6eFpQWFY2VnVOT0lRa2xZTkl1NURlZk3SAcMBQVVfeXFMUG9TUlhhMnI4MTUzT1VRTHVsazJaWFgzN21QSndram0wTFJKOHNHRzcxWGN4R1JLQUxHWlU3M3ZwTkh4dXZKM0NLRGhkMS1RLVdqblRsc1ZUQUh6UDVHTVhGS01GRmtXdmxVNHJ1U3dSRzdkUW00Ym9wQWdIbXlJOXJpVHJIYjBzVkJtX3hSdDNHcmdfcTE0X25kZmpjV2JxbXMzRVVKTU44UDQxenhaUFhWNlZ1Tk9JUWtsWU5JdTVEZWZN?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-07-31T23:22:23+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "O Guaíba não deve atingir a cota de inundação neste final de semana no Cais Mauá em Porto Alegre Jornal O Sul"
-    },
-    {
-      "id": "eade8630baac",
-      "titulo": "Defesa Civil estadual alerta para risco muito alto de inundação do Guaíba na região das Ilhas",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNFN3S1FWR2tMX3A5dFEzY1kzUnVVNGFxYmhyc19DRjNQWlJpcnlnRlJLekpYTGpGUi1MczlqV3M3OTNLOGdHT2dpbUc2bkNnZURUU3BmT0pVM0tpTlZzem1JRkpyd0hWY3BZWS1vQVBfVC1hTnpEN0RqM3lMY29qc3NIam1SQ3hCVEV2MWtmQ2Y1Z1R5anFSXzd6Q3hpTk50cFNrWDBPSWV3MkxzZjlhMldsemtocHhDWnc?oc=5",
-      "fonte": "Portal do Estado do Rio Grande do Sul",
-      "publicado_em": "2026-07-31T23:15:32+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Defesa Civil estadual alerta para risco muito alto de inundação do Guaíba na região das Ilhas Portal do Estado do Rio Grande do Sul"
-    },
-    {
-      "id": "e7f561f3c9f2",
-      "titulo": "INUNDAÇÃO para o Guaíba. Risco MUITO ALTO para a região das Ilhas.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHVxdml1ZmIzdzNyeDA5dk04SURFTk9jWEVEd2p5NWlnN29kT2xxNFgxV0MwWW05VE5OUU1BZ1dWWXJhQ2t6NmhwMC1BQ29NMGc4UXdjSHdqMHNRWXVYQVBpZ1RpZzdxSnpmMFVjdTV1anRFVjBqempsY0JpWFNRZ2VSbk40RjZtc1duOUxGR3dzeUZwNEpSOFJTaHl1aVpVS0J4NUotQzdoV0tkVnlwNWphX3E?oc=5",
-      "fonte": "Defesa Civil do Rio Grande do Sul",
-      "publicado_em": "2026-07-31T23:01:27+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "INUNDAÇÃO para o Guaíba. Risco MUITO ALTO para a região das Ilhas. Defesa Civil do Rio Grande do Sul"
-    },
-    {
-      "id": "854d4e21190b",
-      "titulo": "Lago Guaíba se aproxima da cota de alerta para inundação em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcTFkY3Y3ZUxUa3RkSW9jWGlxbHEyTWI3N0V5blZRZzFVOGNoZ2VHU0dfYVZjZFRHYnU5VDNqVXN4bnJkX3FxZ0s5N25DdVhsckFZYU1URVBuMEZHYmxaZVpfbDBUQWlHMkhQYTlwVTR6V2dnSWJBSGVBQkpMX29vT1AzME5fd0RYRmRvbmlta21QYzZnSkVxTVFSYU5qMmFqbi1yVk45dXg?oc=5",
-      "fonte": "revistaoeste.com",
-      "publicado_em": "2026-07-31T22:02:19+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Lago Guaíba se aproxima da cota de alerta para inundação em Porto Alegre revistaoeste.com"
-    },
-    {
-      "id": "7dcba283dc3c",
-      "titulo": "Novo boletim mantém previsão de alta do Guaíba até sábado, mas sem ultrapassar cota de inundação",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOYXFQYldybnZTcjNWVEVXYUc3RkZfSTZOSXdyMjV5eFBDTlZwclgtYWdNS2RrYlhyUlVmajZJamt5c1NwS3ZiTHdkTklBdmtndnpfUVVDS0VZRm8yWnNndHRLUU5VdTRkSHRNX29VbDQwYW5tdXl0Rk5pVFJKRk1mOXllQmFCaWxRMzY5blBOUVJFYnN5a3hRUUUzQ0NsT2kxZE5SMzY4MUFOVjF4amNlQW5yYy1GdUo1U2JvaWtLZkNtRlhUaUxIdUpQOHF5TlE4MTNLNjJGY0lQbWREaHhnYlZGSEdqelF5OF9yWDVIemZSa1E5ZHlyRmt2NmZDeGhLNlNfWGdSWGtGRWlDbU0yMGJlR1U1QQ?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-07-31T22:00:14+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Novo boletim mantém previsão de alta do Guaíba até sábado, mas sem ultrapassar cota de inundação GZH"
-    },
-    {
-      "id": "8852f306c6c7",
-      "titulo": "Cheias no RS: Guaíba deve ficar na cota de alerta, sem transbordar, prevê boletim",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNC1Mc3VHV3RKNHdURm1HdDZMUmxhaElrcFpKVUNZbVJTSExBVkR3b0dnUTdlRWp0RHdKcUpNa2FzR2hGUncwdTJiUUQ3S2VwSE5FRnVucmpRMDNRU29nVFFGQ01mV2IwaTRUZm1lSmVadUlUUzB3TmJMbzgzbUt4Y18wMXQ4ZDVOZ2ZGc0hPUjhHakduUk5sb0pfZklZektjYzhuaG5zYXdnd28wVG1LRFRaLW9ITC1Ha0owTXUzZ3U2UEJmTnVIR0NEOEp0Unc?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-07-31T21:11:08+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Cheias no RS: Guaíba deve ficar na cota de alerta, sem transbordar, prevê boletim R7"
-    },
-    {
-      "id": "25742eee1a6f",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPS0hFTUxwcTdjTzFyTFVvWDZnaEo1X1Z0WGlsMkRNaUlld0R4Zmx4YTRkckRldEVkWGhBM0dmY3pHNVh0Z2VEOVk4dkdGd25GeTZrX1BCV0VUWEFteC1YMDdONUxSemp6ZUVYZUt0b2RyV1FDcmJXNXZPbXdPZUlBRzY1RFViZFRtS1hsSGF3MGFaVXRzSmdIVVpuSkFuUUJUYnVzZE5QQUFyQkl6TGNIT1F2MHptZkZMZ0FXemFBT2wtZ1hLTU1hUkhzT3Zvb0wxbzJkOVdrTVFLbkdUaElvZEhvOGM?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-07-31T20:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura Repórter Guaibense"
-    },
-    {
-      "id": "90b1601c283b",
-      "titulo": "Guaíba sobe em Porto Alegre e Defesa Civil emite alerta de alagamento",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWjRxTTJWelYyWWdGNHRHdndhclpQMmxOSUFpbnBkbkZRQ0lhcGVZZy1FSTZsSjE0c1BxZG5jT3gyTVNubjE2VG9aWmF5ZmlLdmFuNHFfeDVCS3VmbEVWX1lyM0J1b3hMWjVweUpNVFBUTjlFSE9SZV9LYUJGTlVleVBuNWZ3Qmo4Yl9XOTFzY2djdGJMZkt3WE00RUNWZUFoN1BreFAtUVlqWG9w?oc=5",
-      "fonte": "A Gazeta",
-      "publicado_em": "2026-07-31T19:51:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Guaíba sobe em Porto Alegre e Defesa Civil emite alerta de alagamento A Gazeta"
     }
   ],
   "noticias_home": [
     {
-      "id": "c8c48b29aa33",
-      "titulo": "Água invade rua na Zona Norte de Porto Alegre com elevação do Guaíba; veja a previsão do tempo",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/31/alagamentos-porto-alegre-guaiba-jacui.ghtml",
-      "fonte": "G1 RS",
-      "publicado_em": "2026-07-31T12:22:21+00:00",
-      "categoria": "G1",
-      "feed": "g1_rs",
-      "resumo": "Água invade rua na Zona Norte de Porto Alegre com elevação do Guaíba O nível do Guaíba e do Delta do Jacuí segue em elevação nesta sexta-feira (31), provocando os primeiros alagamentos em Porto Alegre. A situação ocorre em meio a cheias nos principais rios do Rio Grande do Sul e antecede a chegada…"
-    },
-    {
-      "id": "3436ce11a3a0",
-      "titulo": "Guaíba sobe durante a madrugada e atinge cota de alerta em Porto Alegre",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/31/guaiba-atinge-cota-de-alerta-em-porto-alegre.ghtml",
-      "fonte": "G1 RS",
-      "publicado_em": "2026-07-31T09:26:10+00:00",
-      "categoria": "G1",
-      "feed": "g1_rs",
-      "resumo": "Guaíba sobe durante a madrugada e atinge cota de alerta em Porto Alegre O nível do Guaíba atingiu e ultrapassou a cota de alerta no Cais Mauá, na Região Central de Porto Alegre, na madrugada desta sexta-feira (31). A cota de alerta no local é de 2,50 metros. Na última atualização, no início da…"
-    },
-    {
-      "id": "5f492cfb20e9",
-      "titulo": "Guaíba chega à cota de atenção em Porto Alegre e nível pode aumentar nos próximos dias, diz Defesa Civil",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/29/guaiba-cota-de-atencao-porto-alegre-nivel-alerta-proximos-dias-defesa-civil.ghtml",
-      "fonte": "G1 RS",
-      "publicado_em": "2026-07-29T23:52:08+00:00",
-      "categoria": "G1",
-      "feed": "g1_rs",
-      "resumo": "Guaíba chega à cota de atenção em Porto Alegre e nível pode aumentar nos próximos dias O nível do Guaíba alcançou a cota de atenção em Porto Alegre nesta quarta-feira (29). De acordo com a Defesa Civil da Capital, a medição feita no Cais Mauá registrou mais de 2 metros durante a tarde. A elevação…"
-    },
-    {
-      "id": "f889202942a5",
-      "titulo": "Mais de 440 toneladas de resíduos foram recolhidas da orla do Guaíba em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdU5kZV8xZ1FnTjNoRlkxS0ZLOGlqb2pqOWpZUVVmNTcxTVZQX3dJbVY3UjVmUEFlVHYwdXNCSXVoSEY5NnRKTHEwWERvMEQxUFJKYkNxVlNHXzFTdHFoMDBYWU90OTFiZkhmT2JSMHVMbWhVUjZ1amQtbDVmMElXbXZCVll3LWRWZXFCUVpWa3B5NEpfbnlwdXJaU1ZSOFlRaGFmaWJpSXlUbTc5YkhicWVkZzR1M0pOSXdHc05FaGdVWVpkLWU3T0pIMGRrWTdNVURVckoxdUVPSUxseVdSN2xNQQ?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-08-03T20:56:25+00:00",
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-03T00:00:00+00:00",
       "categoria": null,
-      "feed": "correio",
-      "resumo": "Mais de 440 toneladas de resíduos foram recolhidas da orla do Guaíba em Porto Alegre Correio do Povo"
+      "feed": "reporter_direto",
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "76f0b17248b2",
-      "titulo": "Mais de 440 toneladas de resíduos são recolhidas da orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRHZ2UTFYS0R0UlVhUktCV1NHWFRWSkxBczlLSXNmNm5KQ1BZak81MlBKTnlXcTgxNi0xM2dyQm90TEcyTWVPa21Ra3ZTeGlkS202amQ0dmdaaHF3WWFYUmI3bWIybmVSbi1aU0RGUGk4Z2o0YjA5UU1FdEsyMVY1OUtEZUd5NFBhbE40SzFUelJkQXVGM2I3ZzlQZnpLTzVmVnU4aHVibHJtZw?oc=5",
-      "fonte": "Prefeitura de Porto Alegre",
-      "publicado_em": "2026-08-03T20:18:00+00:00",
+      "id": "4b0eb5cbea65",
+      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-03T00:00:00+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Mais de 440 toneladas de resíduos são recolhidas da orla do Guaíba Prefeitura de Porto Alegre"
+      "feed": "reporter_direto",
+      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "b19e1f2814df",
-      "titulo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOekhWLTE1VHZxRHpMR0V3bDI2N19ENGtIZ0ZpNkYwaHlreWpzaldXcnVkcEIzRm51Yk8tRXNGNkZpRG1uWUwwRWl1VmFDVVRwcGloVV9qd3FSWktmMEtjb2JzWkhlTlliTGtISXBmTmUxT0M5N0pEWU9tSVRQMUZfOTZram5wMm5GMm1kVGNXY0xtcHhyOVlPWFl6Uy1iSW45X25fbERmbVFiRVdmcDB0TEtLbnMtaDQ3WVRQWmtUdHRaeFAyaXFzNkgyVzE2aVZMZGpZODZqQjRjeVUtTS1VZ0sxdTFLamRLMTdHVg?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-08-03T19:55:09+00:00",
+      "id": "fb0a0f3cbc0f",
+      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
+      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-03T00:00:00+00:00",
       "categoria": null,
-      "feed": "correio_metro",
-      "resumo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias Correio do Povo"
+      "feed": "reporter_direto",
+      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
-      "id": "b45c38e81a9d",
-      "titulo": "Guaíba assina termo de cooperação com Estado para remoção de entulhos das cheias",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcXRTekpJY0VtVjAyY18xbWhzeEtMY1B3MGxBT3RtNDVjRE1SRkxGdmFydVBpSUVjUldmQ3ZWUEh3LWljRVQyQ2t5N3Q3ZWNrY0NRV09tX1dOZWlmMUNzR1c2Z2ZYVndNZHgzMjVKc2dGOW9RZmhzdnRNYnpxZlRqRU9ZYmpIUHRmSkJOS0JsODN2a3pDalduOGsyZzJtb3BXWUJlajFBUXMwUWtIQk1UZl9RbWZJTFZReDVfTzRWa3RROVlhclMtS2pIVEloRkh3RkFva2l3SEZqdFljYmc?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-08-03T19:28:48+00:00",
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
       "categoria": null,
-      "feed": "correio",
-      "resumo": "Guaíba assina termo de cooperação com Estado para remoção de entulhos das cheias Correio do Povo"
+      "feed": "reporter_direto",
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
-      "id": "c69d03bda341",
-      "titulo": "SESI/SENAI pode reforçar construção do ecossistema de inovação da Cidade Inteligente Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdG55Mkd1Ni1NTzBuQk1sU3VSWHNZVnBpUHJkNG55OGppSHg4YlNXUHE5V1NaelBxOWNzeFBmUmNDU1ZoT3p4UUhBZUFuWkVqRmM3ZkVRTmNQT0tETGdDeG1hbjUtWXVRU3FoOW01RExZVS1tbUN3VXowTXFxZldtNUlRT09TcW1QYm5RXzhJQVEwYzZWb3ZuUnllYjlvT2RYcWs1TUdhekFmOFM0ejVzYVRLaDFlQkR1eDhCY3UwdzBqeGdlWTZUVzY2cUY2MHFRQkRJTnZfZw?oc=5",
-      "fonte": "Portal Litoral Sul",
-      "publicado_em": "2026-08-03T17:14:56+00:00",
+      "id": "2127146cc672",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
       "categoria": null,
-      "feed": "litoral",
-      "resumo": "SESI/SENAI pode reforçar construção do ecossistema de inovação da Cidade Inteligente Guaíba Portal Litoral Sul"
+      "feed": "reporter_direto",
+      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+    },
+    {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     }
   ]
 }
