@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-02T22:55:05.622663+00:00",
+  "gerado_em": "2026-08-03T02:40:38.194332+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,14 +94,24 @@
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "1abd77fa27dd",
@@ -114,34 +124,24 @@
       "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
       "id": "2a55db2c4fa4",
@@ -194,184 +194,164 @@
       "resumo": "Troncos e destroços levados pelas fortes chuvas invadem praia no RS Equipes da prefeitura de Guaíba, na Região Metropolitana de Porto Alegre, retiraram cerca de 40 caminhões carregados de troncos, galhos e outros resíduos acumulados na orla do município após as fortes chuvas que atingiram o Rio…"
     },
     {
-      "id": "308a0f6470a8",
-      "titulo": "Guaíba baixa, mas deixa rastro de galhos e lixo na Orla de Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUJ4NTZpZWVwN2h1UHdkX2Joa25IWnZucXc1V0JCZDJOVGdPeVd2SWtmTHllanJRSVRBU1BIcXQ0by12bURWU0oyX3BmQUtpbHZNV2d3c1ZiM1FvaW5vTVY3dks2eXlZcWpxMHFneU92blMwWTZLTldRa1k1aXpUU1o5ek03Y05CdEIwVHU0SUsxSjE4dlJobTNiYjFHb28tU0VKOEExbGg1NkZMVWJUVkdEN2Z1bWFzUXQ4UjduSDJneS13N0hmWVFB?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-08-02T18:02:50+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba baixa, mas deixa rastro de galhos e lixo na Orla de Porto Alegre Jornal do Comércio"
+      "id": "98e9c846132c",
+      "titulo": "Tradição de domingo: busca por frango assado gera filas e pedidos antecipados em Porto Alegre",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/02/tradicao-de-domingo-busca-por-frango-assado-gera-filas-e-pedidos-antecipados-em-porto-alegre.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-08-02T18:52:19+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Tradição de domingo: busca por frango assado gera filas e pedidos antecipados no RS O almoço de domingo em Porto Alegre tem um prato tradicional que atrai filas em padarias e assados: o frango. A busca pela refeição, geralmente acompanhada de polenta e maionese, é motivada pela praticidade de…"
     },
     {
-      "id": "3ef317188271",
-      "titulo": "Bacias do Guaíba e do rio Uruguai ainda apresentam níveis acima da cota de inundação em sete estações, aponta SGB",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcHl2dFpKeXBTRWdPRFBRdF9oR1lHUjE5a3RSUE1vYndWUGJ1T2lJSTZIbUFZa3h2VWNfWTVmVHhVbURCaEdhTjVOcEtXNGpncWVDcUFaVFN0WWR2YllIa1YyS2dNUkxmWktWSklsWFVGUFBfb3lyWGs5YjlMcjhsTTVZYUo0cXA5ZkM0V1EzVVQzdDFFOWd3VHdxOTdNcTBUZXF2UnJoaDlaTnJLakhkQ2Q0eVJ1RDZ0REp0U0ZNdUhIT2R2RERwUTJvSWk1UG5PQUtuTGluWEN6M1BheWhfWUJ0ZXR3SFdRTHBYcTY2VjJCRmgtQzVNUHpSUmVCbkJFVWM0WXNKaUw?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-08-02T17:15:09+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Bacias do Guaíba e do rio Uruguai ainda apresentam níveis acima da cota de inundação em sete estações, aponta SGB Correio do Povo"
+      "id": "b2f1698a4775",
+      "titulo": "Filme “Depois do Fim” estreia na sexta em Porto Alegre após seleção para festival internacional",
+      "url": "https://expansao.co/filme-depois-do-fim-estreia-na-sexta-em-porto-alegre-apos-selecao-para-festival-internacional/",
+      "fonte": "Expansão",
+      "publicado_em": "2026-08-02T18:30:46+00:00",
+      "categoria": "Cultura",
+      "feed": "expansao_direto",
+      "resumo": "O longa-metragem gaúcho &#8220;Depois do Fim&#8221; terá sua estreia na sexta-feira, 7 de agosto, às 19h, no Teatro de Arena, em Porto Alegre. Produzido de forma independente por artistas do&#8230; O post Filme &#8220;Depois do Fim&#8221; estreia na sexta em Porto Alegre após seleção para festival…"
     },
     {
-      "id": "a2ef8705dd28",
-      "titulo": "Com redução do Guaíba e rio Jacuí, moradores começam a retornar para casa em Eldorado do Sul",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbVlqc29xZU9jeWNrNmdnbHRtRDYxVktsY3FUemt3OGR3eHprVlZfLVdIVEtjUGh6QUVMeFhjQlF3ZFVYQVdLS0J4YldKd01KQk1qZlRGYmVORkFNanAtczQzR080UENlSThUWWZnTlI3MXRSQm40cnNVRE1xS3pBMy1kSk9QYTdsMHdQZGJxNTJXaGlyTFNycGxlNHVQS21BOEljV1JpbjR5QmZ1M05NeW92YUhNWmEtWXc5M2N2R2c2cmZCSEFoU0QwbkQ0b1F6MFRjRzNZNlc3TVlFMEhnbGZGVzZDSHZVbDRGZA?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-08-02T16:57:57+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Com redução do Guaíba e rio Jacuí, moradores começam a retornar para casa em Eldorado do Sul Correio do Povo"
+      "id": "60026c9b9e20",
+      "titulo": "Porto Alegre: Defesa Civil emite aviso para ventos fortes e pancadas de chuva",
+      "url": "https://sul21.com.br/noticias/geral/2026/08/porto-alegre-defesa-civil-emite-aviso-para-ventos-fortes-e-pancadas-de-chuva/",
+      "fonte": "Sul21",
+      "publicado_em": "2026-08-01T19:42:41+00:00",
+      "categoria": "Geral",
+      "feed": "sul21_direto",
+      "resumo": "A Defesa Civil de Porto Alegre emitiu um aviso de atenção para ventos fortes e pancadas de chuva, com vigência das 17h deste sábado (1°), até as 7h de domingo (2). Conforme a Catavento Meteorologia e o Centro de Monitoramento da Defesa Civil (Cemadec), a passagem de um sistema frontal deve provocar…"
     },
     {
-      "id": "86277ca766d6",
-      "titulo": "Apesar de persistência de alagamento, alta do Guaíba favorece pesca amadora na Ilha da Pintada",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOLXA5aWlPU3hwd0FteUJKTjdfbUtrMUlQRXhWMWZFTDkzQmNhMG9CSHlSTnc0QWV5aThMUXFrZWlzdVUzVXEwbWF3LTlfTWt3cFNJWDUxSVhGekRtbGs2UDNBVVBSdEdDc1M2bGRjMUJDX3d5MVMzdFNSWDNORGpTelRCRDFSRU9yYWRlQm5qTGs4SzBONXZxN1Z5Wk82X1FQSmsyLW1UbWJhSHNVdGFybGN3ejllSEF2M3cxOFEzZTlfdzNDMUxUS1RIazA3eXN6ZmRXTDlRZG1GSGlBckpDMUF5NkprR2ZTaUt2YWRVdw?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-08-02T16:55:12+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Apesar de persistência de alagamento, alta do Guaíba favorece pesca amadora na Ilha da Pintada Correio do Povo"
+      "id": "e1ae9f0fa236",
+      "titulo": "Jantar AACD Porto Alegre realiza jantar no mês de agosto",
+      "url": "https://expansao.co/jantar-aacd-porto-alegre-realiza-jantar-no-mes-de-agosto/",
+      "fonte": "Expansão",
+      "publicado_em": "2026-08-01T13:20:14+00:00",
+      "categoria": "Gastronomia",
+      "feed": "expansao_direto",
+      "resumo": "Em 19 de agosto de 2026, a AACD Porto Alegre promove mais uma edição de seu tradicional jantar beneficente. Com o tema &#8220;Cada movimento importa, e você faz parte dele&#8221;,&#8230; O post Jantar AACD Porto Alegre realiza jantar no mês de agosto apareceu primeiro em Expansão ."
     },
     {
-      "id": "80006d33694c",
-      "titulo": "Guaíba retoma baixa após breve repique por frente fria",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRXlfOGdHYUVfZnVrV3pQOWd3T0hUUWZKQ0o1a0toSVpzNlhjOXVJZ3RkVU1NaU5sckNpWFd0SGdidHJVUWwxNWw4UzUxRmtkeHEwb2FkaVdubG9tbjdObXYxN0NKVWF4elN1cUxLRmF0U1hHVHhhLS1KajNKZXhOUA?oc=5",
-      "fonte": "MetSul Meteorologia",
-      "publicado_em": "2026-08-02T14:52:56+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba retoma baixa após breve repique por frente fria MetSul Meteorologia"
+      "id": "d8662b7a908d",
+      "titulo": "Na estreia da 'Equilibrivm Tour', Anitta destina alimentos arrecadados com ingressos solidários para 18 aldeias indígenas de Porto Alegre",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/31/show-anitta-doacao-aldeias-indigenas-porto-alegre.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-07-31T17:02:16+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Anitta destina alimentos arrecadados com ingressos para 18 aldeias indígenas no RS Os alimentos arrecadados por meio de ingressos solidários no show da cantora Anitta, neste sábado (1º), em Porto Alegre, serão destinados a 18 aldeias indígenas da capital gaúcha. A iniciativa atende a um pedido da…"
     },
     {
-      "id": "bd762e5f20f6",
-      "titulo": "Guaíba começa a baixar e vento Sul pode causar repique",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04Wi11OC1yZXVoazhzX3JBV21Ic29HLXdTQmVLWTk5N2RybHlEQVNObFBMX0dYYXVkZDVNekxyUHEtbG1OeEpqR1hzM01XbTZ6U0dBOVlqaDF2ZThqc3V0VjdwRVhCQTFWUGtVV3dYNTIxMktFTGZJYjE2ek9IOVE?oc=5",
-      "fonte": "MetSul Meteorologia",
-      "publicado_em": "2026-08-01T22:37:45+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba começa a baixar e vento Sul pode causar repique MetSul Meteorologia"
+      "id": "2682664258c8",
+      "titulo": "'Foi quando eu vi o carro': Veículo bate em poste, invade casa e uma pessoa fica ferida em Canoas; VÍDEO",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/30/carro-bate-poste-atinge-casa-canoas.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-07-30T11:25:03+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Carro bate em poste, invade casa e causa falta de luz em Canoas; mulher fica ferida Um carro desgovernado arrancou um poste de concreto e atingiu uma casa em Canoas, na Região Metropolitana de Porto Alegre, na madrugada desta quinta-feira (30). O acidente, que aconteceu na Avenida Farroupilha,…"
     },
     {
-      "id": "4728dfb2febf",
-      "titulo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQR1JSQWJkOXI4Z3l5OEFpdDVsaUlHalRvLVpJZHY1R1JOQVJ2QnVRQXNVdWtvUnF0TlNNLW15T1BpaF9oVVFNRm5EbnpwQnpZSEVxci1PQzhtU2l6UWVPOEdaN2NFUHdYMUZXY0lOMGJobHdBdnVrMldTcDgyY3MwUG1hYjhxb1VsdWhCcFRvbXExNXJsRmJkbU8wY0RFMkpVRVM0ODJhcnVLR0Y1T0pPMmd1REVUbmNndjZLZjI0NEtXZzNidlNnVXliTzZoWEFIYmsxeXg3dkMyLTNMQnlrNGlxWFYxR2V6N05QVUVscUZyaTFxVWs0dnlmY1NiQllmQUk5ZFVtMWFoZ3FSTTN2MnVDQ24yNE1hdW1Veg?oc=5",
-      "fonte": "diariogaucho.clicrbs.com.br",
-      "publicado_em": "2026-08-01T19:52:10+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS diariogaucho.clicrbs.com.br"
+      "id": "908367f1da71",
+      "titulo": "120 anos de Mario Quintana: Filme sobre encontro entre poeta e fotógrafa ganha vida em Porto Alegre",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/30/120-anos-mario-quintana-filme-encontro-poeta-fotografa-porto-alegre.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-07-30T07:00:22+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Filme sobre encontro entre Mario Quintana e fotógrafa ganha vida em Porto Alegre Um dos nomes mais marcantes da literatura gaúcha volta aos holofotes das telas em uma produção inspirada em um encontro real. A gravação do longa-metragem Minha Sombra Luminosa acontece no ano em que Mario Quintana…"
     },
     {
-      "id": "3e0a69c0b618",
-      "titulo": "Cinco rios seguem acima da cota de inundação no RS; Guaíba permanece em alerta em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdUxYVGtZWk9pQk9XQTh2eFliZnpJNk1rdDc5UkJWVG9XYXVNRlFuUTRrZ0o3cWdLOUxqWnp0WWtnZzBwOXN6MEVfNndBaUE1aXpQUVhlWDk0Z0dXV2NiNlVrbmt4WkFoSVZUU0I5azl2YW02VW9LakhEM2dvMElxNTB3V0xUc1lzTDJfLTBVYlFMMmxRMXJOVF84WG9TU2h2aC1vWnpJZnFLUUJNTFNpaGYtLXJhVXhjT2lrXw?oc=5",
-      "fonte": "Clic Camaquã",
-      "publicado_em": "2026-08-01T12:38:08+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Cinco rios seguem acima da cota de inundação no RS; Guaíba permanece em alerta em Porto Alegre Clic Camaquã"
+      "id": "fa99f9d99574",
+      "titulo": "Tubulação de água rompe no desembarque internacional do Aeroporto de Porto Alegre",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/28/tubulacao-agua-rompe-aeroporto-salgado-filho-porto-alegre.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-07-28T13:34:39+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Tubulação de água rompe no desembarque internacional do aeroporto de Porto Alegre Uma tubulação de água potável rompeu no primeiro piso do Aeroporto Salgado Filho, em Porto Alegre, na área de desembarque internacional, na manhã desta terça-feira (28). Apesar do incidente, nenhum passageiro, voo ou…"
     },
     {
-      "id": "9e9e4d494a99",
-      "titulo": "Guaíba tem redução de nível; Jacuí, Caí e Rio dos Sinos continuam na cota de inundação",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYlNJNlVpd0dFemR5akJNaHZneHR6OVozNVBrdmJVYkVhVVAtWm5yLWVPNE1VYWNUNUN2OVlUb1R1OER1NlNCSmJINlh1R0dCN1ZBTm5qVlNIaG5zUGFBOFk0NU9jaWd6SC1MTC1VTmN2MzZ2Tl9OMjFQR0hjaDZMc08tOE5BUmdSV0JHUElDUjZ6Sk4teEF3VHdDYkQ5UXJVLUlvbzZmQm1GbGJLRGx1d3IxZ0lRSm5qWEJDME9vUEM2cWFCWkd3Rw?oc=5",
-      "fonte": "Sul 21",
-      "publicado_em": "2026-08-01T12:22:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba tem redução de nível; Jacuí, Caí e Rio dos Sinos continuam na cota de inundação Sul 21"
+      "id": "5399514c870c",
+      "titulo": "Adolescente de 17 anos é morta a tiros em Porto Alegre; suspeito seria o ex-namorado contra quem ela tinha medida protetiva",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/28/adolescente-morta-tiros-porto-alegre-feminicidio.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-07-28T11:45:03+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Adolescente de 17 anos é morta a tiros em Porto Alegre Uma adolescente de 17 anos foi morta com um tiro na cabeça na madrugada desta terça-feira (28), no bairro Vila Nova, em Porto Alegre. A Polícia Civil investiga o caso como feminicídio. De acordo coma polícia, o suspeito é Hallysson Theylor…"
     },
     {
-      "id": "0f79bd8473e2",
-      "titulo": "Porto Alegre está em alerta com a elevação das águas do Guaíba desde a última madrugada",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSVlNeW9vNEd5d2F5ZEdHZDdRZW4wdllmUHdBSWxudW9id3FNQWs4OWZaSnF6MTAyOERKSUxqM1Z1SktfR0lTY0piSmRfcTdmTjBSRUdIUnkxei10VEVFQkdQSWdxUld4ZjlmYzVlTlI5VW5qcElib2NnRFFUbTRSTG1GVGpOMFo1YjhtTVhBRkNidllkWDE2Z0gzMTA0empfZmxQVFNxOVRJTkNCUXVIV2RtTmFuTGhfbkZ3cjZiUURBZVJ2R0xRZEU5NzRwaFIzanc?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-07-31T23:52:11+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Porto Alegre está em alerta com a elevação das águas do Guaíba desde a última madrugada R7"
+      "id": "d88f3476df03",
+      "titulo": "VÍDEO: veja chegada de forte chuva em Porto Alegre; cidade registra alagamentos em menos de uma hora",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/27/video-veja-chegada-da-chuva-em-porto-alegre-cidade-registra-alagamentos.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-07-27T21:14:14+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Veja chegada de forte chuva em Porto Alegre Porto Alegre foi atingida por uma forte chuva no fim da tarde desta segunda-feira (27), enquanto o Rio Grande do Sul se prepara para enfrentar um período de instabilidade. Veja vídeo acima. Em menos de uma hora, o cenário provocou alagamentos e…"
     },
     {
-      "id": "9be2d38ce3bb",
-      "titulo": "O Guaíba não deve atingir a cota de inundação neste final de semana no Cais Mauá em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1NSWGEycjgxNTNPVVFMdWxrMlpYWDM3bVBKd2tqbTBMUko4c0dHNzFYY3hHUktBTEdaVTczdnBOSHh1dkozQ0tEaGQxLVEtV2puVGxzVlRBSHpQNUdNWEZLTUZGa1d2bFU0cnVTd1JHN2RRbTRib3BBZ0hteUk5cmlUckhiMHNWQm1feFJ0M0dyZ19xMTRfbmRmamNXYnFtczNFVUpNTjhQNDF6eFpQWFY2VnVOT0lRa2xZTkl1NURlZk3SAcMBQVVfeXFMUG9TUlhhMnI4MTUzT1VRTHVsazJaWFgzN21QSndram0wTFJKOHNHRzcxWGN4R1JLQUxHWlU3M3ZwTkh4dXZKM0NLRGhkMS1RLVdqblRsc1ZUQUh6UDVHTVhGS01GRmtXdmxVNHJ1U3dSRzdkUW00Ym9wQWdIbXlJOXJpVHJIYjBzVkJtX3hSdDNHcmdfcTE0X25kZmpjV2JxbXMzRVVKTU44UDQxenhaUFhWNlZ1Tk9JUWtsWU5JdTVEZWZN?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-07-31T23:22:23+00:00",
+      "id": "0b0f0c570fba",
+      "titulo": "Escola municipal Arlindo Stringhini completa 50 anos de história no bairro Columbia City",
+      "url": "https://www.reporterguaibense.com.br/noticia/escola-municipal-arlindo-stringhini-completa-50-anos-de-historia-no-bairro-columbia-city",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-02T00:00:00+00:00",
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "O Guaíba não deve atingir a cota de inundação neste final de semana no Cais Mauá em Porto Alegre Jornal O Sul"
+      "feed": "reporter_direto",
+      "resumo": "Os festejos dos 50 anos foi marcado com gincana, jantar e atividades da Copa do Mundo"
     },
     {
-      "id": "eade8630baac",
-      "titulo": "Defesa Civil estadual alerta para risco muito alto de inundação do Guaíba na região das Ilhas",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNFN3S1FWR2tMX3A5dFEzY1kzUnVVNGFxYmhyc19DRjNQWlJpcnlnRlJLekpYTGpGUi1MczlqV3M3OTNLOGdHT2dpbUc2bkNnZURUU3BmT0pVM0tpTlZzem1JRkpyd0hWY3BZWS1vQVBfVC1hTnpEN0RqM3lMY29qc3NIam1SQ3hCVEV2MWtmQ2Y1Z1R5anFSXzd6Q3hpTk50cFNrWDBPSWV3MkxzZjlhMldsemtocHhDWnc?oc=5",
-      "fonte": "Portal do Estado do Rio Grande do Sul",
-      "publicado_em": "2026-07-31T23:15:32+00:00",
+      "id": "1cf731bb1194",
+      "titulo": "Com caixa zerado, grupo Vagalumes da Esperança enfrenta dificuldades para manter distribuição de marmitas",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-caixa-zerado-grupo-vagalumes-da-esperanca-enfrenta-dificuldades-para-manter-distribuicao-de-marmitas",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-02T00:00:00+00:00",
       "categoria": null,
-      "feed": "google",
-      "resumo": "Defesa Civil estadual alerta para risco muito alto de inundação do Guaíba na região das Ilhas Portal do Estado do Rio Grande do Sul"
+      "feed": "reporter_direto",
+      "resumo": "As doações de alimentos não perecíveis podem ser entregues aos sábados pela manhã no Centro Espírita Fernando Óz, no bairro Ermo"
     },
     {
-      "id": "e7f561f3c9f2",
-      "titulo": "INUNDAÇÃO para o Guaíba. Risco MUITO ALTO para a região das Ilhas.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHVxdml1ZmIzdzNyeDA5dk04SURFTk9jWEVEd2p5NWlnN29kT2xxNFgxV0MwWW05VE5OUU1BZ1dWWXJhQ2t6NmhwMC1BQ29NMGc4UXdjSHdqMHNRWXVYQVBpZ1RpZzdxSnpmMFVjdTV1anRFVjBqempsY0JpWFNRZ2VSbk40RjZtc1duOUxGR3dzeUZwNEpSOFJTaHl1aVpVS0J4NUotQzdoV0tkVnlwNWphX3E?oc=5",
-      "fonte": "Defesa Civil do Rio Grande do Sul",
-      "publicado_em": "2026-07-31T23:01:27+00:00",
+      "id": "3550dcf52089",
+      "titulo": "Itapuí celebra 100 anos em homenagem na Câmara e prepara grande festa do centenário em agosto",
+      "url": "https://www.reporterguaibense.com.br/noticia/itapui-celebra-100-anos-em-homenagem-na-camara-e-prepara-grande-festa-do-centenario-em-agosto",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-02T00:00:00+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "INUNDAÇÃO para o Guaíba. Risco MUITO ALTO para a região das Ilhas. Defesa Civil do Rio Grande do Sul"
+      "feed": "reporter_direto",
+      "resumo": "O MC Jean Paul será a grande atração da festa de 100 anos, no dia 15 de agosto"
     },
     {
-      "id": "854d4e21190b",
-      "titulo": "Lago Guaíba se aproxima da cota de alerta para inundação em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcTFkY3Y3ZUxUa3RkSW9jWGlxbHEyTWI3N0V5blZRZzFVOGNoZ2VHU0dfYVZjZFRHYnU5VDNqVXN4bnJkX3FxZ0s5N25DdVhsckFZYU1URVBuMEZHYmxaZVpfbDBUQWlHMkhQYTlwVTR6V2dnSWJBSGVBQkpMX29vT1AzME5fd0RYRmRvbmlta21QYzZnSkVxTVFSYU5qMmFqbi1yVk45dXg?oc=5",
-      "fonte": "revistaoeste.com",
-      "publicado_em": "2026-07-31T22:02:19+00:00",
+      "id": "670539a4950f",
+      "titulo": "Secretaria de Esportes amplia ações na zona rural e avança na implantação do Conselho Municipal",
+      "url": "https://www.reporterguaibense.com.br/noticia/secretaria-de-esportes-amplia-acoes-na-zona-rural-e-avanca-na-implantacao-do-conselho-municipal",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-02T00:00:00+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Lago Guaíba se aproxima da cota de alerta para inundação em Porto Alegre revistaoeste.com"
+      "feed": "reporter_direto",
+      "resumo": "O chamamento público para composição do conselho será iniciado em breve"
     },
     {
-      "id": "7dcba283dc3c",
-      "titulo": "Novo boletim mantém previsão de alta do Guaíba até sábado, mas sem ultrapassar cota de inundação",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOYXFQYldybnZTcjNWVEVXYUc3RkZfSTZOSXdyMjV5eFBDTlZwclgtYWdNS2RrYlhyUlVmajZJamt5c1NwS3ZiTHdkTklBdmtndnpfUVVDS0VZRm8yWnNndHRLUU5VdTRkSHRNX29VbDQwYW5tdXl0Rk5pVFJKRk1mOXllQmFCaWxRMzY5blBOUVJFYnN5a3hRUUUzQ0NsT2kxZE5SMzY4MUFOVjF4amNlQW5yYy1GdUo1U2JvaWtLZkNtRlhUaUxIdUpQOHF5TlE4MTNLNjJGY0lQbWREaHhnYlZGSEdqelF5OF9yWDVIemZSa1E5ZHlyRmt2NmZDeGhLNlNfWGdSWGtGRWlDbU0yMGJlR1U1QQ?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-07-31T22:00:14+00:00",
+      "id": "ea0fffcf2d72",
+      "titulo": "Medo, terremotos e superpoderes: Feira de Ciência mobiliza estudantes da escola São Francisco de Assis",
+      "url": "https://www.reporterguaibense.com.br/noticia/medo-terremotos-e-superpoderes-feira-de-ciencia-mobiliza-estudantes-da-escola-sao-francisco-de-assis",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-02T00:00:00+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Novo boletim mantém previsão de alta do Guaíba até sábado, mas sem ultrapassar cota de inundação GZH"
+      "feed": "reporter_direto",
+      "resumo": "Os trabalhos foram avaliados pelo jornalista Pedro Molnar e professor Saulo Siqueira, do Rio de Janeiro"
     },
     {
-      "id": "3783ef754c4d",
-      "titulo": "Guaíba não deverá atingir cota de inundação neste final de semana, atualiza boletim do SGB",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZFJjbmZxc191NkFSYS1hVHZjOG1qeFRlc0FiZmo1T2JMTUNzenF3aXFjQkxIMTB3b3Bhd01fOEw5Zy1KeUFSeXVRbUc5NEVXSjVxWFpocmwtSV9uZFh3MkhFd1ViaEtuTEd3V05lYW1QRTZQdFRqV05lY1RtSWl3MGlGTVVQaUVpNnlrbGxrM1JDZkVYUEE1ZTVFSy1vSHVkQzBCR3E1dS1ZV3NZZVR6MDhWdURvTVBvVTJIeE5FT2JpX0xOb3l6Rm1tXzF5dmptcEdoelFnLU9GZlpzaG5zVzVpOWhOdVg3ZXc?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-07-31T19:40:05+00:00",
+      "id": "f6f1bc8ec843",
+      "titulo": "Semana Literária da escola Augusto Meyer transforma clássicos da literatura em espetáculos teatrais",
+      "url": "https://www.reporterguaibense.com.br/noticia/semana-literaria-da-escola-augusto-meyer-transforma-classicos-da-literatura-em-espetaculos-teatrais",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
       "categoria": null,
-      "feed": "correio",
-      "resumo": "Guaíba não deverá atingir cota de inundação neste final de semana, atualiza boletim do SGB Correio do Povo"
-    },
-    {
-      "id": "ca8c839b3a52",
-      "titulo": "Guaíba sobe em Porto Alegre e Defesa Civil emite alerta de alagamento para áreas ribeirinhas",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RdWxGb2FlMU9lN3NJcXdVVi1PdHFjUHVpOVJuTXdPeC1EdldoNV9Ld1hwTzJHZGNMd0oxSzdtQlVHeW5OR2V5MVJ0eG5pcnY4bGMzQWlpSjVUYnZQVzFsZUhGeVdWUXlJbHI5ZlA0eFVYWlFzdjYtRkRn?oc=5",
-      "fonte": "ICL Notícias",
-      "publicado_em": "2026-07-31T18:44:31+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba sobe em Porto Alegre e Defesa Civil emite alerta de alagamento para áreas ribeirinhas ICL Notícias"
-    },
-    {
-      "id": "a39d4c8d54fc",
-      "titulo": "Guaíba ultrapassa cota de alerta no RS e gera alerta hidrológico",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQnVzVUZ6dTJ1M2tOYWVHUV9WdkpzeUNiVGNsVHBxVVBKYUNLejJyTXE4TzQ1UXctYUpIZjlRUlROOFM0eEJLQTNaZGdvS2h6QmRTdG9hVEgyQ2JRX20zUmtha09oU0pzN3dpc1NoSzh6eS1ldzZ1R2pGcDZSdENwZjBqUHkzczJUeFlMUklPU0dfRGxuSlVJQVFqZWQ4U3FmcEE?oc=5",
-      "fonte": "BandNews",
-      "publicado_em": "2026-07-31T18:21:31+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba ultrapassa cota de alerta no RS e gera alerta hidrológico BandNews"
+      "feed": "reporter_direto",
+      "resumo": "Os alunos apresentaram adaptações teatrais de obras consagradas da literatura mundial e brasileira, como"
     }
   ],
   "noticias_home": [
@@ -396,14 +376,24 @@
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "1abd77fa27dd",
@@ -416,34 +406,24 @@
       "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
-      "id": "2127146cc672",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://www.reporterguaibense.com.br/noticia/licitacao-dos-semaforos-em-guaiba-avanca-para-nova-etapa-entenda-os-proximos-passos",
+      "id": "cdfc5fa3a4a6",
+      "titulo": "Restaurante Popular de Guaíba tem novo endereço a partir desta terça-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/restaurante-popular-de-guaiba-tem-novo-endereco-a-partir-desta-terca-feira",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Processo licitatório para modernização da sinalização viária tem empresa classificada em primeiro lugar provisoriamente"
-    },
-    {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+      "resumo": "O serviço atende cerca de 70 usuários do Centros de Referência de Assistência Social (Cras) por dia"
     },
     {
       "id": "2a55db2c4fa4",
