@@ -1,8 +1,17 @@
 {
-  "gerado_em": "2026-08-04T19:28:59.625011+00:00",
+  "gerado_em": "2026-08-05T02:22:01.774888+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
+    {
+      "id": "222af359a8b8",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTURzNW01X2p1R2RIRjdKWDdhQnRQMnpoakNGckF0andQTEhjUWZTLXkxVzlBVF94bmp2VzB5bE5UQ0I0Nm1GSXNtampTOGtDTUp3SThLdGxybVRoVFNRNmJWZ0JCdnd3SFBaX213OVEtQVItbmI1TTFXSWI3ZUlSLU5BTXJGckE1OExjemxfWHN1RGZRTTBGS3hnX3dFdVRnQ1FjX3lRODlKTTJ4VjYtT04xdlh2YU1qUy1CMzlFUko2VnJfQWhFTkg5LUVZcnpTaFdXOUxPSzhYM1U?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-08-04T22:09:00+00:00",
+      "feed": "vagas"
+    },
     {
       "id": "66a7f7bdb864",
       "titulo": "Mercado Livre abre vaga de Auxiliar de Logística em Guaíba com salário de até R$ 2.149 e benefícios",
@@ -101,15 +110,6 @@
       "tipo": "concurso",
       "publicado_em": "2026-04-23T07:00:00+00:00",
       "feed": "concurso"
-    },
-    {
-      "id": "77a0ee2578b3",
-      "titulo": "Frentista, vendedor, auxiliar de cozinha e mais: Sine Guaíba tem 16 vagas de emprego nesta semana",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ3h0bFZtY2dTSEdnWVVXanVReTVpY2ZVclEtUGNKTWJYd2gtWlpUNzRlX01uakE0SHF3RWNZa3hqdks0NlVacVUtbmRnOVZOdjZ0T3RXNU9VbFlDLVJOY2ZGVU1iSTd4Z2pOZ0s0amNPaW1RZ3BDVTFKVGJNdUlkTnpiLUlWLXVna1BBczU1eDhjNDBpbE1PMGExSm9FMmdvLXNNcUhlQXRReHhYaWVWZUkwN3JCejY0VXVRX21NUXlXNHFDOHdsSEFrQUI0WndjVUVGaDh3?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-04-23T07:00:00+00:00",
-      "feed": "vagas"
     }
   ]
 }
