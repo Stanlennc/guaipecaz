@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-05T21:05:47.232943+00:00",
+  "gerado_em": "2026-08-05T22:56:36.303077+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,16 @@
   ],
   "noticias": [
     {
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-05T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
+    {
       "id": "4b0eb5cbea65",
       "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
@@ -84,24 +94,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "fb0a0f3cbc0f",
-      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
-      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-05T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
-    },
-    {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-05T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
       "id": "821a278c8680",
@@ -114,14 +114,14 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "2a55db2c4fa4",
@@ -152,16 +152,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "80b54c6c66ee",
@@ -204,6 +194,16 @@
       "resumo": "Guaíba chega à cota de atenção em Porto Alegre e nível pode aumentar nos próximos dias O nível do Guaíba alcançou a cota de atenção em Porto Alegre nesta quarta-feira (29). De acordo com a Defesa Civil da Capital, a medição feita no Cais Mauá registrou mais de 2 metros durante a tarde. A elevação…"
     },
     {
+      "id": "84880dbb1745",
+      "titulo": "Navios de respeito atravessam o Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYW5DYmZjWkppLUhaNWVLb1dTZS1RSFlwbmwtZ1NKY0kycDl1QjhkdXl6dy1fVVktcmlsNzRsNEZIcF9YbTRxenZwYlR6eVNHMFpEbTRBbURTVmdLemoxZU9OeDNfc3FfaHdHVUllVnA4XzZ4N2xDS1VteTNuUjFBSGNGX2E4bEdsbmpkMWgwbFlfQ09ZOTBEc2RXaHZzWHo5NFlWLTM2akN3WjEzbUR6Vjc4X2g4VXQ3LTRj?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-08-05T22:26:11+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Navios de respeito atravessam o Guaíba Jornal do Comércio"
+    },
+    {
       "id": "8aaa74245c7f",
       "titulo": "\"Desinformação precisa ser combatida em conjunto\", propõe gerente da Rádio Guaíba na Federasul",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlVndUQ0aGFBWDNZc3d2aV9mYWNpY1JmVURkNGhwTkg4WWFId0tYTWF0RkJVUHU4c2twMkVKcjYzYWRWTXJ0WDBEcm5UUzlSd1M0YWYtU0xxWWtaNmFPendlR2pyX0lrRFQ4eWFkT3daQVh0a01NNDAtUFgtcEJVRmRTSTdhcVB6dWVZR3FfS2lNOGk3UFR6MmZfcVdwZEUtQU5yOU9tVXN2M3hQSkdNNlVrMTY?oc=5",
@@ -212,6 +212,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "\"Desinformação precisa ser combatida em conjunto\", propõe gerente da Rádio Guaíba na Federasul Rádio Guaíba"
+    },
+    {
+      "id": "4c44c5ac7b8a",
+      "titulo": "Fragilidade do Guaíba entra no debate sobre nova fábrica da CMPC - Instituto Humanitas Unisinos",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXcyb0xVcEZJMzJqOEc0M0ZSalpOVENZcUt0TWRzWFNzY0tqOGVCQ2RWZGlEanVFR3IwdDBzUUFWUHh5MDMxVVhaV3RzaUtjWkt1WGpsaW9IMGhkWWlaSFJVR3NSTFM3OFNjaGpXSi10OWk2S0FMdmZZOE9GRTYyQnA2WnJTMUZRblBjbENYd3A0VWtRVnYxSUtuaw?oc=5",
+      "fonte": "Instituto Humanitas Unisinos - IHU",
+      "publicado_em": "2026-08-05T12:08:50+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Fragilidade do Guaíba entra no debate sobre nova fábrica da CMPC Instituto Humanitas Unisinos - IHU"
     },
     {
       "id": "f434a334be94",
@@ -250,7 +260,7 @@
       "fonte": "Extra Classe",
       "publicado_em": "2026-08-04T15:44:15+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "metro_recentes",
       "resumo": "Fragilidade do Guaíba entra no debate sobre nova fábrica da CMPC Extra Classe"
     },
     {
@@ -362,19 +372,19 @@
       "categoria": null,
       "feed": "correio",
       "resumo": "Jacuí, Sinos, Gravataí e Uruguai seguem em cota de inundação, enquanto Guaíba continua recuando em Porto Alegre Correio do Povo"
-    },
-    {
-      "id": "308a0f6470a8",
-      "titulo": "Guaíba baixa, mas deixa rastro de galhos e lixo na Orla de Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUJ4NTZpZWVwN2h1UHdkX2Joa25IWnZucXc1V0JCZDJOVGdPeVd2SWtmTHllanJRSVRBU1BIcXQ0by12bURWU0oyX3BmQUtpbHZNV2d3c1ZiM1FvaW5vTVY3dks2eXlZcWpxMHFneU92blMwWTZLTldRa1k1aXpUU1o5ek03Y05CdEIwVHU0SUsxSjE4dlJobTNiYjFHb28tU0VKOEExbGg1NkZMVWJUVkdEN2Z1bWFzUXQ4UjduSDJneS13N0hmWVFB?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-08-02T18:14:52+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba baixa, mas deixa rastro de galhos e lixo na Orla de Porto Alegre Jornal do Comércio"
     }
   ],
   "noticias_home": [
+    {
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-05T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
     {
       "id": "4b0eb5cbea65",
       "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
@@ -386,24 +396,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "fb0a0f3cbc0f",
-      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
-      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-05T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
-    },
-    {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-05T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
       "id": "821a278c8680",
@@ -416,14 +416,14 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "2a55db2c4fa4",
