@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-05T02:23:48.584152+00:00",
+  "gerado_em": "2026-08-05T06:26:35.013779+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -78,7 +78,7 @@
       "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
       "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-04T00:00:00+00:00",
+      "publicado_em": "2026-08-05T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
@@ -88,20 +88,30 @@
       "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-04T00:00:00+00:00",
+      "publicado_em": "2026-08-05T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-05T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
+    {
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
       "id": "821a278c8680",
@@ -112,6 +122,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+    },
+    {
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "777f86ec4825",
@@ -134,24 +154,14 @@
       "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "df37597c9344",
@@ -317,21 +327,11 @@
       "id": "f7f572c94c49",
       "titulo": "Limpeza de resíduos da cheia em Guaíba pode levar até dois meses",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOczN6Qm8zeGE0aVhpbUJVV0lBYnRwU2ZVZXB4ZFMtd0dQS1pkTDhEbEs2RE1HSmlVYnctMEFlSV9iRnhFV3BnbGlnYTM5ZzhMandjVHJHRnpGQ3N5UmxSdUlXU2NCNV9PRjhWRVlYdTVQcWFLeG9kbnJQMk1qV25xTDRiei1tVUhlQXdRY0ItVWtFMDEzWnExRHFDNFFBbDdGWFNYWHdMalRFbk1hUVZ0VWtva28wSjEtemQ3bEg5Vjk1TDFtS2pxNmJqc0M2dw?oc=5",
-      "fonte": "jornaldocomercio.com",
+      "fonte": "Jornal do Comércio",
       "publicado_em": "2026-08-03T16:49:53+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Limpeza de resíduos da cheia em Guaíba pode levar até dois meses jornaldocomercio.com"
-    },
-    {
-      "id": "599abeda66fe",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkZwTWVKR3VFNWxYS0ZPTmdDRlZwUGd6LXNPVERzNkFrZWoxa0N6cFl6T3ZvNmZJWG1RYUJMeWJ1TzVhQVA2TGRLc0piSjY2WGc1cWxnMGcyT1dvZHhVOHZBdUdvTl9oM2dDV2pMbzVCM0ZEdmZGRVhiNUZxczlLbDc0cWthZFY2OHBtTHZWYVZ6cTBvZnJmTkx6OWU4SGtmUG5zbWxmX0thUTl6N1ZwN0h2UVhHZUtzRHR4SXhValQ?oc=5",
-      "fonte": "reporterguaibense.com.br",
-      "publicado_em": "2026-08-03T16:15:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha reporterguaibense.com.br"
+      "resumo": "Limpeza de resíduos da cheia em Guaíba pode levar até dois meses Jornal do Comércio"
     },
     {
       "id": "a0f3123d85cd",
@@ -347,11 +347,11 @@
       "id": "308a0f6470a8",
       "titulo": "Guaíba baixa, mas deixa rastro de galhos e lixo na Orla de Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUJ4NTZpZWVwN2h1UHdkX2Joa25IWnZucXc1V0JCZDJOVGdPeVd2SWtmTHllanJRSVRBU1BIcXQ0by12bURWU0oyX3BmQUtpbHZNV2d3c1ZiM1FvaW5vTVY3dks2eXlZcWpxMHFneU92blMwWTZLTldRa1k1aXpUU1o5ek03Y05CdEIwVHU0SUsxSjE4dlJobTNiYjFHb28tU0VKOEExbGg1NkZMVWJUVkdEN2Z1bWFzUXQ4UjduSDJneS13N0hmWVFB?oc=5",
-      "fonte": "jornaldocomercio.com",
+      "fonte": "Jornal do Comércio",
       "publicado_em": "2026-08-02T18:14:52+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Guaíba baixa, mas deixa rastro de galhos e lixo na Orla de Porto Alegre jornaldocomercio.com"
+      "resumo": "Guaíba baixa, mas deixa rastro de galhos e lixo na Orla de Porto Alegre Jornal do Comércio"
     },
     {
       "id": "3ef317188271",
@@ -380,7 +380,7 @@
       "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
       "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-04T00:00:00+00:00",
+      "publicado_em": "2026-08-05T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
@@ -390,20 +390,30 @@
       "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-04T00:00:00+00:00",
+      "publicado_em": "2026-08-05T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-05T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
+    {
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
       "id": "821a278c8680",
@@ -414,6 +424,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+    },
+    {
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "777f86ec4825",
@@ -434,26 +454,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
-    },
-    {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     }
   ]
 }
