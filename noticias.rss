@@ -5,23 +5,9 @@
 <description>Notícias de Guaíba e da Região Metropolitana de Porto Alegre</description>
 <language>pt-BR</language>
 <item>
-<title>Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real</title>
-<link>https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real</link>
-<guid>fb0a0f3cbc0f</guid>
-<pubDate>2026-08-06T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha</title>
 <link>https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha</link>
 <guid>8a9e8f04364e</guid>
-<pubDate>2026-08-06T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba</title>
-<link>https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba</link>
-<guid>4b0eb5cbea65</guid>
 <pubDate>2026-08-06T00:00:00+00:00</pubDate>
 <source>Repórter Guaibense</source>
 </item>
@@ -32,15 +18,21 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
-<title>Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação</title>
-<link>https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude</link>
-<guid>777f86ec4825</guid>
+<title>Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro</title>
+<link>https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro</link>
+<guid>1abd77fa27dd</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
 <title>Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos</title>
 <link>https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos</link>
 <guid>2a55db2c4fa4</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação</title>
+<link>https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude</link>
+<guid>777f86ec4825</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -54,6 +46,20 @@
 <link>https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego</link>
 <guid>df37597c9344</guid>
 <source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Prefeitura de Guaíba instala 146 novas lixeiras na cidade</title>
+<link>https://expansao.co/prefeitura-de-guaiba-instala-146-novas-lixeiras-na-cidade/</link>
+<guid>e3f76236478e</guid>
+<pubDate>2026-08-06T18:20:01+00:00</pubDate>
+<source>Expansão</source>
+</item>
+<item>
+<title>Guaíba realiza limpeza nas orlas com equipamentos do Programa Horas-Máquinas</title>
+<link>https://expansao.co/guaiba-realiza-limpeza-nas-orlas-com-equipamentos-do-programa-horas-maquinas/</link>
+<guid>c3f5c679be1c</guid>
+<pubDate>2026-08-06T17:50:20+00:00</pubDate>
+<source>Expansão</source>
 </item>
 <item>
 <title>Água invade rua na Zona Norte de Porto Alegre com elevação do Guaíba; veja a previsão do tempo</title>
@@ -70,18 +76,25 @@
 <source>G1 RS</source>
 </item>
 <item>
-<title>Guaíba chega à cota de atenção em Porto Alegre e nível pode aumentar nos próximos dias, diz Defesa Civil</title>
-<link>https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/29/guaiba-cota-de-atencao-porto-alegre-nivel-alerta-proximos-dias-defesa-civil.ghtml</link>
-<guid>5f492cfb20e9</guid>
-<pubDate>2026-07-29T23:52:08+00:00</pubDate>
-<source>G1 RS</source>
+<title>Interrupções no sistema de içamento da Ponte do Guaíba impactam tráfego fluvial e corredor logístico do RS</title>
+<link>https://news.google.com/rss/articles/CBMigAJBVV95cUxOTVhFa240bXJrOXZoRWRzVzZvQXRuQy1iX1VmdHNFTFp6N241U2JHN0lYWHA3TFRjUG9RYkNkS21jSW1nbENsUUZPMnF6WW9XUGgwYzk4OHJ1VGhzS0JYLTJIZTFRWHdKTVViMXhIV2UtQUNsNkdZcjhNOVIta19oZ0tGNnpyel9rdU9HUS1WWVFMYk55MzF4VktBY0p2OHIweTl1NTF0WFNBSjd5RHpBbUxBWFM4T19aWFlKOXp5M18tZmFIVDlLNEl0cW5IUklzSTZlTmlOSjhUUHZLNWc4R3pYaGxpTnBHOFNjZ2FNZU9reUJHU1lsXzJzb3E3amVW?oc=5</link>
+<guid>b8c567cbdfd1</guid>
+<pubDate>2026-08-06T17:26:36+00:00</pubDate>
+<source>Correio do Povo</source>
+</item>
+<item>
+<title>Porto Alegre já recolheu mais de 440 toneladas de lixo deixado pela cheia do Guaíba</title>
+<link>https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZ05Fa3ZzeVlVeDdha2czX2pnTG1SU3BhMUhxSHdFVjlXclRiRkJQc2swQ2lDcVIzRm45OUlqd1I2MWh6bDY5RkJOczNaWUtGVzRnRVMxaThzOS1iQ19vZ2ltVHcwZi1mek1vVG01NTlKSjBHVzAwZDUzY1VfMjJBb1hadTVnSGU5TFg5MEVzeGM1YUdmWEVPUEVrTVV0MjBDTE5iZTJBci1MdDMyRkx5QkV3YW1laERqZWwxUVpoeWpicUR2bTRYaFBwWjZlZ1lrb2p2X2dncThBNDcyS2FSTXhoYUc1VDgydWNncDNsMnF6N2ZGdXc?oc=5</link>
+<guid>eb39759677b3</guid>
+<pubDate>2026-08-06T13:50:00+00:00</pubDate>
+<source>Terra</source>
 </item>
 <item>
 <title>Navios de respeito atravessam o Guaíba</title>
 <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYW5DYmZjWkppLUhaNWVLb1dTZS1RSFlwbmwtZ1NKY0kycDl1QjhkdXl6dy1fVVktcmlsNzRsNEZIcF9YbTRxenZwYlR6eVNHMFpEbTRBbURTVmdLemoxZU9OeDNfc3FfaHdHVUllVnA4XzZ4N2xDS1VteTNuUjFBSGNGX2E4bEdsbmpkMWgwbFlfQ09ZOTBEc2RXaHZzWHo5NFlWLTM2akN3WjEzbUR6Vjc4X2g4VXQ3LTRj?oc=5</link>
 <guid>84880dbb1745</guid>
 <pubDate>2026-08-05T23:05:10+00:00</pubDate>
-<source>Jornal do Comércio</source>
+<source>jornaldocomercio.com</source>
 </item>
 <item>
 <title>Pescadores relatam impactos da poluição no Guaíba</title>
@@ -106,8 +119,8 @@
 </item>
 <item>
 <title>Fragilidade do Guaíba entra no debate sobre nova fábrica da CMPC - Instituto Humanitas Unisinos</title>
-<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXcyb0xVcEZJMzJqOEc0M0ZSalpOVENZcUt0TWRzWFNzY0tqOGVCQ2RWZGlEanVFR3IwdDBzUUFWUHh5MDMxVVhaV3RzaUtjWkt1WGpsaW9IMGhkWWlaSFJVR3NSTFM3OFNjaGpXSi10OWk2S0FMdmZZOE9GRTYyQnA2WnJTMUZRblBjbENYd3A0VWtRVnYxSUtuaw?oc=5</link>
-<guid>4c44c5ac7b8a</guid>
+<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOdURjQ0JyYnFvOTkzWGFlR2k5bHBIeTNOY19UMHVnV3Ztdy1iaFFuU0Y3bDR4UkhnMmhlemdGOGVxaWZaVElrVnR2T2FyNEFwenZla3p1ZWdocVZuaTRkY2N5aVA0c0ZpQlJQV3VtbVRrcXZJeDVOYmpUb3E4aU4weEY2RFJDVTVXb1pmc3dDSFNuME1WQ0ZfUF90UG9QRDZLUUVnZjl6TFVLMUptdHhj?oc=5</link>
+<guid>6d8c8be44ed6</guid>
 <pubDate>2026-08-05T12:08:50+00:00</pubDate>
 <source>Instituto Humanitas Unisinos - IHU</source>
 </item>
@@ -124,19 +137,5 @@
 <guid>f434a334be94</guid>
 <pubDate>2026-08-04T23:03:36+00:00</pubDate>
 <source>GZH</source>
-</item>
-<item>
-<title>Moradores de Camaquã, Guaíba e São Lourenço do Sul são contemplados na Nota Fiscal Gaúcha</title>
-<link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZFp0Y2Z1ZjRpU1pRVDBweDhqaTgxYlFjQU14Q2pHYlJfS2cyWHJwbUprWEJsOFVveklqRnBLUU1VTzN1Q3RLUU5BaHpSNmNPeFpsQVd5NzVsMTA4MmlKdUFBbDFuSGxTNW9tTy0wZXlmT1YyaDhGYUpuSUx1a1JtLVdqUVpOSFhlRHkta2FKUVVKS0l4T1NMSDkwcHQxUy1vcVZlVTZ1RUJGSkN6cTdyWnc5MG1tdHBiSWYzRW1TVGFUOFlUTFVfYVpwN3BHcEd6Y1RmbnViaGJlNWJJ?oc=5</link>
-<guid>39fb270982eb</guid>
-<pubDate>2026-08-04T18:37:54+00:00</pubDate>
-<source>Portal de Camaquã</source>
-</item>
-<item>
-<title>Guaíba volta a normalidade depois de uma semana</title>
-<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWRySGlVb0MxS1hBTGJ1eWs3TlhtR2ZnQnF5MU5IRWdUOWFPTVNjSlBEQ2RZN1Q0UkFmeWp6Wlpqa0pkSEo5WFdLTTBpczRyaGY2V0FVRFNEc2FCN3h5RFBxUlVjRERaeUhiMEtvUTF4Sjlqb0FRdzFMRWFKNkhTWk9sSnRxR08wVFhlSS1lVGRMMzM0YnVuMC1XY2lOTmNhWFBDNXRTT04xVlVjRm1oVGJR?oc=5</link>
-<guid>bc835cea92f8</guid>
-<pubDate>2026-08-04T17:23:08+00:00</pubDate>
-<source>correiodopovo.com.br</source>
 </item>
 </channel></rss>
