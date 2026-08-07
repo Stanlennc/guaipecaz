@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-07T10:51:08.784237+00:00",
+  "gerado_em": "2026-08-07T12:59:09.425667+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,24 +84,14 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
+      "id": "fb0a0f3cbc0f",
+      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
+      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-08-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
-    {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
       "id": "328a4ef216b4",
@@ -114,14 +104,34 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+    },
+    {
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "1abd77fa27dd",
@@ -144,16 +154,6 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
-    },
-    {
       "id": "e3f76236478e",
       "titulo": "Prefeitura de Guaíba instala 146 novas lixeiras na cidade",
       "url": "https://expansao.co/prefeitura-de-guaiba-instala-146-novas-lixeiras-na-cidade/",
@@ -162,16 +162,6 @@
       "categoria": "Cidades",
       "feed": "expansao_direto",
       "resumo": "A Secretaria de Infraestrutura e Serviços Públicos de Guaíba, realizou a instalação de 146 novas lixeiras em pontos estratégicos da cidade. A obra tem como objetivo ampliar a estrutura urbana&#8230; O post Prefeitura de Guaíba instala 146 novas lixeiras na cidade apareceu primeiro em Expansão ."
-    },
-    {
-      "id": "c3f5c679be1c",
-      "titulo": "Guaíba realiza limpeza nas orlas com equipamentos do Programa Horas-Máquinas",
-      "url": "https://expansao.co/guaiba-realiza-limpeza-nas-orlas-com-equipamentos-do-programa-horas-maquinas/",
-      "fonte": "Expansão",
-      "publicado_em": "2026-08-06T17:50:20+00:00",
-      "categoria": "Cidades",
-      "feed": "expansao_direto",
-      "resumo": "Na manhã desta quinta-feira, 6 de agosto, as equipes enviadas para Guaíba pelo governo do Estado do Rio Grande do Sul, por meio do Programa Horas-Máquinas &#8211; Fase II, iniciaram&#8230; O post Guaíba realiza limpeza nas orlas com equipamentos do Programa Horas-Máquinas apareceu primeiro em…"
     },
     {
       "id": "c8c48b29aa33",
@@ -372,6 +362,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Mais de 440 toneladas de resíduos são recolhidas da Orla do Guaíba radiocaicara.com.br"
+    },
+    {
+      "id": "7c26283cf184",
+      "titulo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVzV5RXpYOW9Ed1gwSU91SmRkOWwwX1A4Tm05X3l4RHNRTHl1SmN4Ny1vTGYxWUFvWFJMNmV6YkhHTVlpdGdHazdiYjZLMUVaR3kxZ2xuYVQzMnFLV1d5N3VGNXVIOENLdFU1VG9qNGZ1QWEzWU5DTF9mRk9FZFpQRFN4cmZKQzJzdXpWS1JlMXR6elEtVlBtUzU0YkxkYU1h?oc=5",
+      "fonte": "Agora RS",
+      "publicado_em": "2026-08-03T21:49:43+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba Agora RS"
     }
   ],
   "noticias_home": [
@@ -386,24 +386,14 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
+      "id": "fb0a0f3cbc0f",
+      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
+      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-08-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
-    {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
     },
     {
       "id": "328a4ef216b4",
@@ -416,14 +406,34 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+    },
+    {
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "1abd77fa27dd",
@@ -444,16 +454,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     }
   ]
 }
