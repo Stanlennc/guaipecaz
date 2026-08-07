@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-07T07:12:58.020082+00:00",
+  "gerado_em": "2026-08-07T08:57:23.959571+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,6 +84,16 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
+      "id": "fb0a0f3cbc0f",
+      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
+      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-07T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
+    },
+    {
       "id": "8a9e8f04364e",
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
@@ -94,14 +104,14 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
       "id": "821a278c8680",
@@ -124,24 +134,14 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "1cf422762e78",
@@ -152,6 +152,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "e3f76236478e",
@@ -227,21 +237,11 @@
       "id": "eb39759677b3",
       "titulo": "Porto Alegre já recolheu mais de 440 toneladas de lixo deixado pela cheia do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZ05Fa3ZzeVlVeDdha2czX2pnTG1SU3BhMUhxSHdFVjlXclRiRkJQc2swQ2lDcVIzRm45OUlqd1I2MWh6bDY5RkJOczNaWUtGVzRnRVMxaThzOS1iQ19vZ2ltVHcwZi1mek1vVG01NTlKSjBHVzAwZDUzY1VfMjJBb1hadTVnSGU5TFg5MEVzeGM1YUdmWEVPUEVrTVV0MjBDTE5iZTJBci1MdDMyRkx5QkV3YW1laERqZWwxUVpoeWpicUR2bTRYaFBwWjZlZ1lrb2p2X2dncThBNDcyS2FSTXhoYUc1VDgydWNncDNsMnF6N2ZGdXc?oc=5",
-      "fonte": "Terra",
+      "fonte": "terra.com.br",
       "publicado_em": "2026-08-06T13:50:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Porto Alegre já recolheu mais de 440 toneladas de lixo deixado pela cheia do Guaíba Terra"
-    },
-    {
-      "id": "aa7feb05da20",
-      "titulo": "Guaíba: limpeza retira toneladas de resíduos trazidos pela chuva",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEI0X0I2NGlvZ3lTbGdsSDQtbGNjVG54TzJhMG1FV211QTJVRnRoUkZRbXJFQUpBV1ZwU2U4MHgwLW5VVFZTUjgyNEl3U0pJVS1STV8waUl2SlFVMWQ5OGZlOFdwYmRPZEtISjZ0N3FFWVRIaHZJTnhvWDlJZmtrRVc0SGVSY1JITjQ2Y3l0Y1YtNEQydXBGZlRnbkVwMWxNWXl3NWNFckRRbGFuOHdFZjBxVW1oVjV2UjJNdV9PWVlfMzR3Z3FMVnZRT2gtUQ?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-08-06T13:40:07+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba: limpeza retira toneladas de resíduos trazidos pela chuva R7"
+      "resumo": "Porto Alegre já recolheu mais de 440 toneladas de lixo deixado pela cheia do Guaíba terra.com.br"
     },
     {
       "id": "84880dbb1745",
@@ -297,11 +297,11 @@
       "id": "f3c6f65ad883",
       "titulo": "Defesa Civil reúne lideranças das Ilhas para avaliar ações durante elevação do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUkI4R0RkbUZUMmUtWkszRWVXNV9RT0doejlacmpWRm1TQ2JrcVF0TDUyaGFCa0ozTlFJX2xyNmNRZFl5U09HYlUyclNReW1ZZHFNZXFvdDNnVEdjZmkxT1E2bnlub20xbjc0VktOUDBRRDVMQVllUzJMMThDZzVOek0xQW5taDd5U0pTVjdZbTZ0aU5MdW4zS0c1bGxFVldwdUdlR0NIcjNtMlVnajVnYjVpVU8yUEVvb1dpajNBQjFYOVF4VFNRb3FuZ1JPbTEwTHlBOXRzMGsyU0ZqZTV0cEdzNGFQNFBuSFE4TnRQRVBQcDdTY3FuNg?oc=5",
-      "fonte": "Terra",
+      "fonte": "terra.com.br",
       "publicado_em": "2026-08-04T23:07:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Defesa Civil reúne lideranças das Ilhas para avaliar ações durante elevação do Guaíba Terra"
+      "resumo": "Defesa Civil reúne lideranças das Ilhas para avaliar ações durante elevação do Guaíba terra.com.br"
     },
     {
       "id": "f434a334be94",
@@ -386,6 +386,16 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
+      "id": "fb0a0f3cbc0f",
+      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
+      "url": "https://www.reporterguaibense.com.br/noticia/em-situacao-de-alerta-guaiba-divulga-site-para-monitoramento-climatico-em-tempo-real",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-07T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A cidade não apresentava nenhum risco hidrogeológico até o início da tarde desta quinta-feira"
+    },
+    {
       "id": "8a9e8f04364e",
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
@@ -396,14 +406,14 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
     },
     {
       "id": "821a278c8680",
@@ -426,24 +436,14 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "1cf422762e78",
