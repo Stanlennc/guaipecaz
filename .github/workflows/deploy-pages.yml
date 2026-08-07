@@ -1,17 +1,9 @@
 name: Publicar GitHub Pages
 
 on:
+  # Cada update automático já faz push em main; workflow_run duplicava deploys.
   push:
     branches: [main]
-  workflow_run:
-    workflows:
-      - "Atualizar nível dos rios"
-      - "Atualizar GuaibaNews"
-      - "Atualizar ofertas dos mercados"
-      - "Atualizar editais"
-      - "Atualizar serviços"
-      - "Atualizar Explorar"
-    types: [completed]
   workflow_dispatch: {}
 
 permissions:
@@ -21,11 +13,10 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   deploy:
-    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -53,3 +44,5 @@ jobs:
       - name: Publicar no GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          timeout: 1200000
