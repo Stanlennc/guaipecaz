@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-08T06:50:54.940651+00:00",
+  "gerado_em": "2026-08-08T08:38:34.053494+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,26 +94,6 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
-    },
-    {
       "id": "1abd77fa27dd",
       "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
       "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
@@ -124,14 +104,14 @@
       "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "777f86ec4825",
@@ -144,14 +124,34 @@
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+    },
+    {
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "e3b686e740e5",
@@ -172,6 +172,16 @@
       "categoria": "G1",
       "feed": "g1_rs",
       "resumo": "Água invade rua na Zona Norte de Porto Alegre com elevação do Guaíba O nível do Guaíba e do Delta do Jacuí segue em elevação nesta sexta-feira (31), provocando os primeiros alagamentos em Porto Alegre. A situação ocorre em meio a cheias nos principais rios do Rio Grande do Sul e antecede a chegada…"
+    },
+    {
+      "id": "92b572cfbcc6",
+      "titulo": "Até churrasco a bordo: Itapuã, onde o Guaíba encontra a Lagoa dos Patos, torna-se reduto da pesca esportiva",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNTmFaR0liZ0JQeE13R3htUERtNXRHTW9XTG5YZlR3ODNPSXNucVRmWGt5WlBfSWIxa3Mtc3lrZkc1WjdtaVJtcEFHNVdlR1NFZFY0d21icVc0OURJM3RLNWpRQ3JGV1E5cFlaOWs0dG40bkdqMEh1WTdKcDNMazEzNTEybjl6MXVSVEUyOG12OEt3cTRyZU50Si1jTjVIM1VOcU1VRWVTdmw0b09qRGdKZ19HOVc5R1Q0MGdvcnd5STFObExiLUpqZktiOFg4NzJTNnFBcDduZHZzUWtmQVlVVnNiT3hEeU1RanIxZ1NWaWwxb1otUldmS3ZPYm9pa0p1bnNjVHNQQmR6OTJaMjI1YlhjVUJVMjRrMWV2Wmh4cHQ2RWs?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-08-08T07:01:45+00:00",
+      "categoria": null,
+      "feed": "gzh_metro",
+      "resumo": "Até churrasco a bordo: Itapuã, onde o Guaíba encontra a Lagoa dos Patos, torna-se reduto da pesca esportiva GZH"
     },
     {
       "id": "7e3be68a3d82",
@@ -227,11 +237,11 @@
       "id": "aa7feb05da20",
       "titulo": "Guaíba: limpeza retira toneladas de resíduos trazidos pela chuva",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEI0X0I2NGlvZ3lTbGdsSDQtbGNjVG54TzJhMG1FV211QTJVRnRoUkZRbXJFQUpBV1ZwU2U4MHgwLW5VVFZTUjgyNEl3U0pJVS1STV8waUl2SlFVMWQ5OGZlOFdwYmRPZEtISjZ0N3FFWVRIaHZJTnhvWDlJZmtrRVc0SGVSY1JITjQ2Y3l0Y1YtNEQydXBGZlRnbkVwMWxNWXl3NWNFckRRbGFuOHdFZjBxVW1oVjV2UjJNdV9PWVlfMzR3Z3FMVnZRT2gtUQ?oc=5",
-      "fonte": "R7",
+      "fonte": "noticias.r7.com",
       "publicado_em": "2026-08-06T13:40:07+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Guaíba: limpeza retira toneladas de resíduos trazidos pela chuva R7"
+      "resumo": "Guaíba: limpeza retira toneladas de resíduos trazidos pela chuva noticias.r7.com"
     },
     {
       "id": "84880dbb1745",
@@ -275,13 +285,13 @@
     },
     {
       "id": "6d8c8be44ed6",
-      "titulo": "Fragilidade do Guaíba entra no debate sobre nova fábrica da CMPC - Instituto Humanitas Unisinos",
+      "titulo": "Fragilidade do Guaíba entra no debate sobre nova fábrica da CMPC",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdURjQ0JyYnFvOTkzWGFlR2k5bHBIeTNOY19UMHVnV3Ztdy1iaFFuU0Y3bDR4UkhnMmhlemdGOGVxaWZaVElrVnR2T2FyNEFwenZla3p1ZWdocVZuaTRkY2N5aVA0c0ZpQlJQV3VtbVRrcXZJeDVOYmpUb3E4aU4weEY2RFJDVTVXb1pmc3dDSFNuME1WQ0ZfUF90UG9QRDZLUUVnZjl6TFVLMUptdHhj?oc=5",
-      "fonte": "Instituto Humanitas Unisinos - IHU",
+      "fonte": "ihu.unisinos.br",
       "publicado_em": "2026-08-05T12:08:50+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Fragilidade do Guaíba entra no debate sobre nova fábrica da CMPC Instituto Humanitas Unisinos - IHU"
+      "resumo": "Fragilidade do Guaíba entra no debate sobre nova fábrica da CMPC ihu.unisinos.br"
     },
     {
       "id": "f3c6f65ad883",
@@ -322,16 +332,6 @@
       "categoria": null,
       "feed": "correio",
       "resumo": "Guaíba volta a normalidade depois de uma semana Correio do Povo"
-    },
-    {
-      "id": "0687d0679bb8",
-      "titulo": "Fragilidade do Guaíba entra no debate sobre nova fábrica da CMPC",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEZSMEE1azNDeVNObTlCaGJ1cFo4bVFJMEl0V0taeURYYzVmaTZZc0R6dmRSa3pZYXRzdi1GaEdaTk5QVWFCT3dzcndIUjdaX0VZWnNfbno2andqN2FDd2JwWjBMUWJwck9uS2hCMUQxM2ZCWG1WaGplS3ZKMHBIaklTLWdNNnEzWktnVkNQSFZNeVZrdWpPSnF2R3U5Um8tNmJMVFB4bWxiZDNlMVFsb291SQ?oc=5",
-      "fonte": "Extra Classe",
-      "publicado_em": "2026-08-04T15:44:15+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Fragilidade do Guaíba entra no debate sobre nova fábrica da CMPC Extra Classe"
     },
     {
       "id": "ed9be06c7214",
@@ -396,26 +396,6 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
-    },
-    {
       "id": "1abd77fa27dd",
       "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
       "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
@@ -426,14 +406,14 @@
       "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "777f86ec4825",
@@ -446,14 +426,34 @@
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+    },
+    {
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     }
   ]
 }
