@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-07T18:53:26.831956+00:00",
+  "gerado_em": "2026-08-08T01:23:54.690850+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -11,15 +11,6 @@
       "tipo": "vaga",
       "publicado_em": "2026-08-04T22:09:00+00:00",
       "feed": "vagas"
-    },
-    {
-      "id": "49c16b5cee41",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzlHblVqUXlZbUdfMWhiMXhQdV9NVnlFeXRjakNxbFQwem12LTkxcWlQSkdMcHBDZm5QR0hiY3Z0MFFxQ1RNMW1ZRFpxV1I1elNuX3J1OEtpLWJXQm9jNFVyT0c0YXRvV1dDTE1mdWVmYmJxOWlhZXhEOGdOdEhfMEs0aTJ5T0dXQ29zVEFPNzlmbXJ1S1ZBUTNDX1phS1hkOVBqT25qOHRvUWVsNUZoSE5lSkJOTWxmSllxZ2pxYUVueGJWSkVR?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "licitacao",
-      "publicado_em": "2026-07-20T07:00:00+00:00",
-      "feed": "licitacao"
     },
     {
       "id": "07945b98a1e5",
@@ -109,6 +100,15 @@
       "fonte": "Repórter Guaibense",
       "tipo": "vaga",
       "publicado_em": "2026-04-23T07:00:00+00:00",
+      "feed": "vagas"
+    },
+    {
+      "id": "8cf47856226c",
+      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego e realiza entrevistas para oportunidades em Eldorado do Sul",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTmtMNVFaY0RYYjlraklQYzhtRFgzV3B1M1hCQXVFUHpwNHU3ejJRT2Q0UWdJUll1UnJZQnBITmlscFdYRkNIX0RXYzAzWEVEZVVqblUxbTQ2MGg0aEt2Z0tWTFVIZzBmT2wwREFoYWlhRnRINWxfYm82eXNWRE5JdkdQenB6T3pRUGNIWGxZQ284Q1hvRzY1Vnh4UGFmNTlIRDlBQm8wb3RwaVpUVk9manVINHk3U1lGSzhmeEtlV0NWRzAwSFgyNXU5UFQzMzUwOE1rZlI0Z0w4Ymt3OWRqbm8zS0hFa2s?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-04-09T07:00:00+00:00",
       "feed": "vagas"
     }
   ]
