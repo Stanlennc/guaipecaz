@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-08T16:31:57.114442+00:00",
+  "gerado_em": "2026-08-08T18:35:09.145900+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-08T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
-    {
       "id": "8a9e8f04364e",
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
@@ -92,6 +82,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
+    {
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "1abd77fa27dd",
@@ -114,34 +124,14 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
-    },
-    {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "328a4ef216b4",
@@ -152,6 +142,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "e3b686e740e5",
@@ -177,11 +177,11 @@
       "id": "7e3be68a3d82",
       "titulo": "Vento do ciclone interrompe baixa e causa subida temporária do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM3g1c3RpMFRZMnhfRy1WeDAyTUs4V3QzejdoNk16c2N3M3JRdHVLY3V5SG04SnREaU1NM2VFR0UtanJsYWdFQ0YzQVFwMkhhN2swNHpBbDFOckFIRjlhWkxucnZNVWo3ZzFhRHdqaEhtenVRbTU0Y3FPcXh1VGlvQjZFY2J3ZHNaZFBTTnl6ejRwOGM?oc=5",
-      "fonte": "MetSul Meteorologia",
+      "fonte": "metsul.com",
       "publicado_em": "2026-08-07T13:19:51+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Vento do ciclone interrompe baixa e causa subida temporária do Guaíba MetSul Meteorologia"
+      "resumo": "Vento do ciclone interrompe baixa e causa subida temporária do Guaíba metsul.com"
     },
     {
       "id": "05ecc3d0d42c",
@@ -217,11 +217,11 @@
       "id": "eb39759677b3",
       "titulo": "Porto Alegre já recolheu mais de 440 toneladas de lixo deixado pela cheia do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZ05Fa3ZzeVlVeDdha2czX2pnTG1SU3BhMUhxSHdFVjlXclRiRkJQc2swQ2lDcVIzRm45OUlqd1I2MWh6bDY5RkJOczNaWUtGVzRnRVMxaThzOS1iQ19vZ2ltVHcwZi1mek1vVG01NTlKSjBHVzAwZDUzY1VfMjJBb1hadTVnSGU5TFg5MEVzeGM1YUdmWEVPUEVrTVV0MjBDTE5iZTJBci1MdDMyRkx5QkV3YW1laERqZWwxUVpoeWpicUR2bTRYaFBwWjZlZ1lrb2p2X2dncThBNDcyS2FSTXhoYUc1VDgydWNncDNsMnF6N2ZGdXc?oc=5",
-      "fonte": "Terra",
+      "fonte": "terra.com.br",
       "publicado_em": "2026-08-06T13:50:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Porto Alegre já recolheu mais de 440 toneladas de lixo deixado pela cheia do Guaíba Terra"
+      "resumo": "Porto Alegre já recolheu mais de 440 toneladas de lixo deixado pela cheia do Guaíba terra.com.br"
     },
     {
       "id": "aa7feb05da20",
@@ -287,11 +287,11 @@
       "id": "f3c6f65ad883",
       "titulo": "Defesa Civil reúne lideranças das Ilhas para avaliar ações durante elevação do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUkI4R0RkbUZUMmUtWkszRWVXNV9RT0doejlacmpWRm1TQ2JrcVF0TDUyaGFCa0ozTlFJX2xyNmNRZFl5U09HYlUyclNReW1ZZHFNZXFvdDNnVEdjZmkxT1E2bnlub20xbjc0VktOUDBRRDVMQVllUzJMMThDZzVOek0xQW5taDd5U0pTVjdZbTZ0aU5MdW4zS0c1bGxFVldwdUdlR0NIcjNtMlVnajVnYjVpVU8yUEVvb1dpajNBQjFYOVF4VFNRb3FuZ1JPbTEwTHlBOXRzMGsyU0ZqZTV0cEdzNGFQNFBuSFE4TnRQRVBQcDdTY3FuNg?oc=5",
-      "fonte": "Terra",
+      "fonte": "terra.com.br",
       "publicado_em": "2026-08-04T23:07:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Defesa Civil reúne lideranças das Ilhas para avaliar ações durante elevação do Guaíba Terra"
+      "resumo": "Defesa Civil reúne lideranças das Ilhas para avaliar ações durante elevação do Guaíba terra.com.br"
     },
     {
       "id": "f434a334be94",
@@ -307,11 +307,11 @@
       "id": "39fb270982eb",
       "titulo": "Moradores de Camaquã, Guaíba e São Lourenço do Sul são contemplados na Nota Fiscal Gaúcha",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZFp0Y2Z1ZjRpU1pRVDBweDhqaTgxYlFjQU14Q2pHYlJfS2cyWHJwbUprWEJsOFVveklqRnBLUU1VTzN1Q3RLUU5BaHpSNmNPeFpsQVd5NzVsMTA4MmlKdUFBbDFuSGxTNW9tTy0wZXlmT1YyaDhGYUpuSUx1a1JtLVdqUVpOSFhlRHkta2FKUVVKS0l4T1NMSDkwcHQxUy1vcVZlVTZ1RUJGSkN6cTdyWnc5MG1tdHBiSWYzRW1TVGFUOFlUTFVfYVpwN3BHcEd6Y1RmbnViaGJlNWJJ?oc=5",
-      "fonte": "portaldecamaqua.com.br",
+      "fonte": "Portal de Camaquã",
       "publicado_em": "2026-08-04T18:37:54+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Moradores de Camaquã, Guaíba e São Lourenço do Sul são contemplados na Nota Fiscal Gaúcha portaldecamaqua.com.br"
+      "resumo": "Moradores de Camaquã, Guaíba e São Lourenço do Sul são contemplados na Nota Fiscal Gaúcha Portal de Camaquã"
     },
     {
       "id": "bc835cea92f8",
@@ -327,11 +327,11 @@
       "id": "ed9be06c7214",
       "titulo": "Record Guaíba: IA rompe barreira do idioma em cobertura de enchente em Lajeado",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZmRqX05jUTNnUzBVSm9nRHlmVk5CMFd6cks1aVFfNjhrUnBxRWxtX0dHLWdScEl1ZVRnYUZ2Q1R0cjlJYVFYM3ZaajdCWnpMSzdsVWc1YXRIWExPWUozRjl0ZHhxWW1KcjZQanpXUm5aV2J4bnY1SmpuMG5CRmJNU0Fsdy0xVTIyakRYRFg5NGhRSERub1RERVhIXzNtR05fNkpBVDdNbGZaMmct?oc=5",
-      "fonte": "Coletiva.net",
+      "fonte": "coletiva.net",
       "publicado_em": "2026-08-04T15:00:32+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Record Guaíba: IA rompe barreira do idioma em cobertura de enchente em Lajeado Coletiva.net"
+      "resumo": "Record Guaíba: IA rompe barreira do idioma em cobertura de enchente em Lajeado coletiva.net"
     },
     {
       "id": "6e2bcbc262f7",
@@ -347,11 +347,11 @@
       "id": "5ac9572c7681",
       "titulo": "Correio do Povo e Rádio Guaíba transformam experiências da Copa em novos formatos",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWlscElPREhRay0ydi1FYW5wNUlPdlR6Tm5qa0hPTnpzaHF4c1h6dWFmWDM0NGtILWprSVVLQUtTWjdMX0pCRFlOcXFya1ljMUMzMVNGbk5yVzJGV0FVT0IwN0s5amVIY0hyS2M0RVEtd3VxZkt3TlkyQVF2ZFM3SjZ4Rk9DaFY3YkFlUHJvNDZUZWxZbU00akVtUmp1LXc0RWZfU2V4dlhFdjNkNHU3WDd3?oc=5",
-      "fonte": "Coletiva.net",
+      "fonte": "coletiva.net",
       "publicado_em": "2026-08-04T11:19:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Correio do Povo e Rádio Guaíba transformam experiências da Copa em novos formatos Coletiva.net"
+      "resumo": "Correio do Povo e Rádio Guaíba transformam experiências da Copa em novos formatos coletiva.net"
     },
     {
       "id": "7af3bd84d897",
@@ -364,27 +364,17 @@
       "resumo": "Mais de 440 toneladas de resíduos são recolhidas da Orla do Guaíba radiocaicara.com.br"
     },
     {
-      "id": "7c26283cf184",
-      "titulo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVzV5RXpYOW9Ed1gwSU91SmRkOWwwX1A4Tm05X3l4RHNRTHl1SmN4Ny1vTGYxWUFvWFJMNmV6YkhHTVlpdGdHazdiYjZLMUVaR3kxZ2xuYVQzMnFLV1d5N3VGNXVIOENLdFU1VG9qNGZ1QWEzWU5DTF9mRk9FZFpQRFN4cmZKQzJzdXpWS1JlMXR6elEtVlBtUzU0YkxkYU1h?oc=5",
-      "fonte": "Agora RS",
-      "publicado_em": "2026-08-03T21:49:43+00:00",
+      "id": "4fdfcb8af79f",
+      "titulo": "O dia em que Porto Alegre foi bombardeada por uma canhoneira atracada no Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOYVY2X1NiZG5tcGl4V2xWOGpCWk5Nb1lKSE85OGN6a3pvMkV6UFpPT2EtcnRJSHVlNEl1bjJEbjdZcWtOX0dQLTc0SWw3RVBHcEJhWmZRX2I3STJPTHhWTldIcmk1WHh6d212ckNjV09VSjJNSS1QN3NUeFNNQWU0bzhjdE1wYmFOWTI1ZTc2RU42Vkh0LTQzVG9oMzV0RlVUcEdrYnFsZ3RGNkNzT3NsN0tQQkZfY1QxWklQQlZTQ0ZoTElUZXdBdDR6TTgzM01CazlhM3U5LVdmamlOR2lxbGNJWDdnRlNuaGtmMjN6ckZ0bnB3NUtBRnlLQ2p4Vk9XanA5S0syOFktMUVhb055R2pR?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-08-04T07:36:37+00:00",
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba Agora RS"
+      "feed": "recentes",
+      "resumo": "O dia em que Porto Alegre foi bombardeada por uma canhoneira atracada no Guaíba GZH"
     }
   ],
   "noticias_home": [
-    {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-08T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
     {
       "id": "8a9e8f04364e",
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
@@ -394,6 +384,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
+    {
+      "id": "2a55db2c4fa4",
+      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "1abd77fa27dd",
@@ -416,34 +426,14 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
-    },
-    {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
-      "id": "2a55db2c4fa4",
-      "titulo": "Guaíba lança programa com plano para fortalecer prevenção a desastres climáticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-lanca-programa-com-plano-para-fortalecer-prevencao-a-desastres-climaticos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade já executou 29 intervenções voltadas à resiliência climática, segundo a prefeita Claudinha Jardim"
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "328a4ef216b4",
@@ -454,6 +444,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     }
   ]
 }
