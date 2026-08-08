@@ -5,35 +5,10 @@
 <description>Notícias de Guaíba e da Região Metropolitana de Porto Alegre</description>
 <language>pt-BR</language>
 <item>
-<title>CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba</title>
-<link>https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba</link>
-<guid>4b0eb5cbea65</guid>
-<pubDate>2026-08-08T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha</title>
 <link>https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha</link>
 <guid>8a9e8f04364e</guid>
 <pubDate>2026-08-08T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro</title>
-<link>https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro</link>
-<guid>1abd77fa27dd</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população</title>
-<link>https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao</link>
-<guid>1cf422762e78</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação</title>
-<link>https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude</link>
-<guid>777f86ec4825</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -43,15 +18,33 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
-<title>Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário</title>
-<link>https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario</link>
-<guid>821a278c8680</guid>
+<title>Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação</title>
+<link>https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude</link>
+<guid>777f86ec4825</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
 <title>Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura</title>
 <link>https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura</link>
 <guid>328a4ef216b4</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população</title>
+<link>https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao</link>
+<guid>1cf422762e78</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro</title>
+<link>https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro</link>
+<guid>1abd77fa27dd</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário</title>
+<link>https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario</link>
+<guid>821a278c8680</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -72,7 +65,7 @@
 <title>Até churrasco a bordo: Itapuã, onde o Guaíba encontra a Lagoa dos Patos, torna-se reduto da pesca esportiva</title>
 <link>https://news.google.com/rss/articles/CBMiowJBVV95cUxNTmFaR0liZ0JQeE13R3htUERtNXRHTW9XTG5YZlR3ODNPSXNucVRmWGt5WlBfSWIxa3Mtc3lrZkc1WjdtaVJtcEFHNVdlR1NFZFY0d21icVc0OURJM3RLNWpRQ3JGV1E5cFlaOWs0dG40bkdqMEh1WTdKcDNMazEzNTEybjl6MXVSVEUyOG12OEt3cTRyZU50Si1jTjVIM1VOcU1VRWVTdmw0b09qRGdKZ19HOVc5R1Q0MGdvcnd5STFObExiLUpqZktiOFg4NzJTNnFBcDduZHZzUWtmQVlVVnNiT3hEeU1RanIxZ1NWaWwxb1otUldmS3ZPYm9pa0p1bnNjVHNQQmR6OTJaMjI1YlhjVUJVMjRrMWV2Wmh4cHQ2RWs?oc=5</link>
 <guid>92b572cfbcc6</guid>
-<pubDate>2026-08-08T07:01:45+00:00</pubDate>
+<pubDate>2026-08-08T07:11:05+00:00</pubDate>
 <source>GZH</source>
 </item>
 <item>
@@ -115,7 +108,7 @@
 <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEI0X0I2NGlvZ3lTbGdsSDQtbGNjVG54TzJhMG1FV211QTJVRnRoUkZRbXJFQUpBV1ZwU2U4MHgwLW5VVFZTUjgyNEl3U0pJVS1STV8waUl2SlFVMWQ5OGZlOFdwYmRPZEtISjZ0N3FFWVRIaHZJTnhvWDlJZmtrRVc0SGVSY1JITjQ2Y3l0Y1YtNEQydXBGZlRnbkVwMWxNWXl3NWNFckRRbGFuOHdFZjBxVW1oVjV2UjJNdV9PWVlfMzR3Z3FMVnZRT2gtUQ?oc=5</link>
 <guid>aa7feb05da20</guid>
 <pubDate>2026-08-06T13:40:07+00:00</pubDate>
-<source>noticias.r7.com</source>
+<source>R7</source>
 </item>
 <item>
 <title>Navios de respeito atravessam o Guaíba</title>
@@ -137,5 +130,12 @@
 <guid>8aaa74245c7f</guid>
 <pubDate>2026-08-05T18:46:00+00:00</pubDate>
 <source>Rádio Guaíba</source>
+</item>
+<item>
+<title>Guaíba inaugura cozinha comunitária com capacidade para 160 refeições diárias</title>
+<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0JCdkFpTXRrMmRkSENCX2pWME92NElWSDNLNlctMXdaeVFuV2V5Uk9oejF6ZXBPemI1M181eXg3WVVsYXRBaVJVNXN2d0poNlRsTmVVYXBFRGs2UU0xdGZjY2NlbmNPenhrQ1JUNkx6d08zZ25jUzRwZkFYWFRLRmhueE1Gdzl3UWpuWGd3QXBmV0Z4QnlXalZDQ1JqSWs?oc=5</link>
+<guid>c109fedcac74</guid>
+<pubDate>2026-08-05T17:44:34+00:00</pubDate>
+<source>expansao.co</source>
 </item>
 </channel></rss>
