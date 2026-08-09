@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-09T03:40:41.758395+00:00",
+  "gerado_em": "2026-08-09T05:02:43.168673+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-09T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
-    {
       "id": "8a9e8f04364e",
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
@@ -94,24 +84,24 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "id": "4b0eb5cbea65",
+      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-08-09T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "1abd77fa27dd",
@@ -134,16 +124,6 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
       "id": "821a278c8680",
       "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
       "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
@@ -154,14 +134,24 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
-      "id": "5899cb5bca6a",
-      "titulo": "Pontes e passarelas vão ser revitalizadas na BR-116 entre Camaquã e Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWlDbTlvR183eGhpeTVoa2xtaDB2YzZOYzU3aUFNa3pCakJuLWxJc2lfMHJrenI4ZnBLUmQ5bjNiV0ZKeEZSTTdhcFREQ1lpY3F1cjVOX1pJbXl0UzB3YVRMczl0MVZURk9VS1pWT3FPejhWc3FuV2I4X2xoRXpTWDluN1R1aTlGWk9fX3N1MWd5OHNiNGQzQkx4ZG5hajdja3ZDbmtOcnhKMGRkdG0xUDBNZ2o5cERGN0RROUpXUdIBxAFBVV95cUxNUHEtVGlyOXRzUmRXcmw5aW1wbzczXzVfYTJycjg3cHFoWkRDa2RLeFl2WFR1NmRhNE1yOGNhRHNQS204RnBHV3NOZkY2WF9Gd3A5bDJkZ09OZ1JGZzFIVldTUkRSWVN1cUlfVEtfbFNkdldLM1M3el9lMnU5VEZscWpIXzV0Yko0a1dEeTl0a3pqdnNreDI1VGZCd0x5amRwdWk0N1owWXIwNzZBNVp1Q3puU1dDdXF1UjV6LWRqRFpHV2oy?oc=5",
-      "fonte": "Blog do Juares",
-      "publicado_em": "2026-08-08T13:16:23+00:00",
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Pontes e passarelas vão ser revitalizadas na BR-116 entre Camaquã e Guaíba Blog do Juares"
+      "feed": "reporter_direto",
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "92b572cfbcc6",
@@ -372,19 +362,19 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Correio do Povo e Rádio Guaíba transformam experiências da Copa em novos formatos Coletiva.net"
+    },
+    {
+      "id": "7af3bd84d897",
+      "titulo": "Mais de 440 toneladas de resíduos são recolhidas da Orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQk03c3k4MUZicEJJUzBIZ1dfcFNJdmFNdXZsbncxZjYta3kxRzhoTEZkMFEwQlExUmJKaHF3RUh3bERTSDQ3WlJORC01LTNnMmdLd1FuZkRUWTBua0N5aTg3d3FnalJFRVZCYXFnaUJkY21nX0lCY2pDRkNPUGR1T2huNlJtbG02ZkN6VG0zS0VJaXU1RTZpcktoMzM1UnZVdmlNQWVWdE15TVI1dGJJMkZUQnJRUQ?oc=5",
+      "fonte": "radiocaicara.com.br",
+      "publicado_em": "2026-08-04T11:16:46+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Mais de 440 toneladas de resíduos são recolhidas da Orla do Guaíba radiocaicara.com.br"
     }
   ],
   "noticias_home": [
-    {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-09T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
     {
       "id": "8a9e8f04364e",
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
@@ -396,24 +386,24 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "id": "4b0eb5cbea65",
+      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-08-09T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "1abd77fa27dd",
@@ -436,16 +426,6 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
       "id": "821a278c8680",
       "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
       "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
@@ -454,6 +434,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+    },
+    {
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     }
   ]
 }
