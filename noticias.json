@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-09T16:32:06.649120+00:00",
+  "gerado_em": "2026-08-09T18:37:57.426105+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,24 +94,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
-    },
-    {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "df37597c9344",
@@ -134,16 +124,6 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
       "id": "328a4ef216b4",
       "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
@@ -152,6 +132,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "66413f43b4ae",
@@ -277,11 +277,11 @@
       "id": "03de210691f7",
       "titulo": "Pescadores relatam impactos da poluição no Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT2cyUEN2S0J5T18wcDlibnRUQnk1YWUyYkxOb094M2daaTZTam04MldvVU5VbWdiOFpVdWZxS0ZjZlhnbEhWQzNRSDJsOWNWU1FJcDRHdjJyUDNHTktaT1VBejZyNElNeG5SWjdDdzZmNGZrSVBFQVRnSjlDT0pOcnNnUkZJRzItVEh3SWxJRWhfY2wtWFhPVURCd0VObElUYXQ4NHYyZTNVVXR2YlF3ZV93WDg2eU1WMmc?oc=5",
-      "fonte": "GZH",
+      "fonte": "gauchazh.clicrbs.com.br",
       "publicado_em": "2026-08-05T19:53:01+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Pescadores relatam impactos da poluição no Guaíba GZH"
+      "resumo": "Pescadores relatam impactos da poluição no Guaíba gauchazh.clicrbs.com.br"
     },
     {
       "id": "8aaa74245c7f",
@@ -302,6 +302,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Guaíba inaugura cozinha comunitária com capacidade para 160 refeições diárias expansao.co"
+    },
+    {
+      "id": "caef9347ec54",
+      "titulo": "Motociclista, de Guaíba, fica ferido após perder o controle e sofrer queda na ERS-118 em Gravataí",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVHk2T0JnNE5LRGUtZktoY1BUZktIZGZCaVpNVzNYalUwQlF0ajBXemcxUWRId0lESjJuSnBlaEIwMk9UdV9IT3JtcGVaZnVWQU9NaEQ0R2JsakxGR0ZqbTJsd2tMYlFWaWtUV3o2bVdiaGNGUUV0bnQzYlU5TmxDZ19PNUkteDV4UnFzOGRCaF9GU3RrMzFBY0ZGSDJxUlduUXdzaTNpTjFCbTVubnJGM2tvNmwzSHdhekw1MlNva2ZDUnlPdkFoejBFb1gxRlU0czdfOWdWYXEybW9Mdm42bGp5OWxEUQ?oc=5",
+      "fonte": "Portal de Camaquã",
+      "publicado_em": "2026-08-05T14:02:47+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Motociclista, de Guaíba, fica ferido após perder o controle e sofrer queda na ERS-118 em Gravataí Portal de Camaquã"
     },
     {
       "id": "6d8c8be44ed6",
@@ -327,11 +337,11 @@
       "id": "f434a334be94",
       "titulo": "Mais de 680 toneladas de resíduos trazidos pela água são retiradas das margens do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTFRPU0lqX2x2STQ2UWVzV2F5OEdlVm9VV29BQUNxSlFaU2tNR0dqdnFIam5OWFUxRXFWRzRVWTJ3ajB3MEdpclh0bTZpcDJHcUhaTDY2eHJFSkl2TU10NzJpVE1aT25zRmhwM3NQTEVUOWV5UDJZVkRDbkRqNl9Ia3g3R0VGWUlJV2c2Z2NteV94SkVIM2ZLT1hJcWQ5ZjhvM21YMTBqR09Qdjd0ZjViRHJtR3JraXZITEdfU1RpZjBsTi0xUjllMy13SFNFdGw2bGlEbzdsNE56X2tWMExsWGktN0syWHBLbDQyT1hGYW1vcUo4SGVBdV9vSVg2Ml9wZUc0?oc=5",
-      "fonte": "GZH",
+      "fonte": "gauchazh.clicrbs.com.br",
       "publicado_em": "2026-08-04T23:03:36+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Mais de 680 toneladas de resíduos trazidos pela água são retiradas das margens do Guaíba GZH"
+      "resumo": "Mais de 680 toneladas de resíduos trazidos pela água são retiradas das margens do Guaíba gauchazh.clicrbs.com.br"
     },
     {
       "id": "39fb270982eb",
@@ -362,16 +372,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Record Guaíba: IA rompe barreira do idioma em cobertura de enchente em Lajeado Coletiva.net"
-    },
-    {
-      "id": "6e2bcbc262f7",
-      "titulo": "Guaíba volta para a cota de atenção depois de uma semana",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEJCcHIxclVwMUVtS0dWNFdsMV9XaVpaT2k4c3lDd1kyT3llYzM5Nmp5MEU4b29nR20xc2tIbnRZemJmNGdFV29jbHNIQ2Q4a3d5NTBtY28yX0J0WTJQRzhlbHhabS1kU1NnUDlsUmJYMmgxVS1idXdXRTZqd2R3TmdaTQ?oc=5",
-      "fonte": "Rádio Guaíba",
-      "publicado_em": "2026-08-04T14:46:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba volta para a cota de atenção depois de uma semana Rádio Guaíba"
     }
   ],
   "noticias_home": [
@@ -396,24 +396,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
-    },
-    {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "df37597c9344",
@@ -436,16 +426,6 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
       "id": "328a4ef216b4",
       "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
@@ -454,6 +434,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     }
   ]
 }
