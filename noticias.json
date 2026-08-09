@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-09T08:40:32.089819+00:00",
+  "gerado_em": "2026-08-09T10:32:54.116099+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,16 @@
   ],
   "noticias": [
     {
+      "id": "4b0eb5cbea65",
+      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-09T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
+    },
+    {
       "id": "8a9e8f04364e",
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
@@ -84,14 +94,24 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-09T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+    },
+    {
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "df37597c9344",
@@ -114,24 +134,14 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
       "id": "821a278c8680",
@@ -142,16 +152,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
       "id": "5899cb5bca6a",
@@ -194,14 +194,14 @@
       "resumo": "Vento do ciclone interrompe baixa e causa subida temporária do Guaíba MetSul Meteorologia"
     },
     {
-      "id": "05ecc3d0d42c",
-      "titulo": "Arquivos Secretaria de Infraestrutura e Serviços Públicos de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWklmX1BDYjFJR0FJMlM1MTg5cHlSZ1lDaVBuaUhjeGVnZlBwOExFd18tTkdraVRVTGNqcmJuQkl0cE1qN2ZNUmhieTRuLXdXVThxTkRuYmhnYmlXTVFoUzM4b0JzUDJFQ2VyM3FoUmYtN0htczNDZlRKcmhJTURNelFJcWVYb3NDbGRleA?oc=5",
+      "id": "36e288eb9400",
+      "titulo": "Prefeitura de Guaíba instala 146 novas lixeiras na cidade",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTVzTVF0ZTZ6V19iMVNna0k3a3FqLWVRaGVLNG1wRU9UZTRWNjhCVmV5UXNpTjZMSXhxNk1Sbkw5bERjSVlkdmtXTFdoMlRqajZ1emZhNFVSZWE4QmtzdFY0bzdIYmNITWFEeUYzYXVuZk1TN3JDSFNhWkxMYXVMaVlqcjM?oc=5",
       "fonte": "expansao.co",
       "publicado_em": "2026-08-06T18:20:01+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Arquivos Secretaria de Infraestrutura e Serviços Públicos de Guaíba expansao.co"
+      "resumo": "Prefeitura de Guaíba instala 146 novas lixeiras na cidade expansao.co"
     },
     {
       "id": "a51d973064f2",
@@ -376,6 +376,16 @@
   ],
   "noticias_home": [
     {
+      "id": "4b0eb5cbea65",
+      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-09T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
+    },
+    {
       "id": "8a9e8f04364e",
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
@@ -386,14 +396,24 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-09T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+    },
+    {
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "df37597c9344",
@@ -416,24 +436,14 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
       "id": "821a278c8680",
@@ -444,16 +454,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     }
   ]
 }
