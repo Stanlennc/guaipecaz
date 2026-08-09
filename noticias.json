@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-09T18:37:57.426105+00:00",
+  "gerado_em": "2026-08-09T20:29:55.602233+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -73,86 +73,6 @@
     }
   ],
   "noticias": [
-    {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-09T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
-    },
-    {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-09T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
-    {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
-    },
-    {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
-    },
-    {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
-    },
     {
       "id": "66413f43b4ae",
       "titulo": "Guaíba volta a ter cota de cheia com vento Sul do ar frio",
@@ -277,21 +197,21 @@
       "id": "03de210691f7",
       "titulo": "Pescadores relatam impactos da poluição no Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT2cyUEN2S0J5T18wcDlibnRUQnk1YWUyYkxOb094M2daaTZTam04MldvVU5VbWdiOFpVdWZxS0ZjZlhnbEhWQzNRSDJsOWNWU1FJcDRHdjJyUDNHTktaT1VBejZyNElNeG5SWjdDdzZmNGZrSVBFQVRnSjlDT0pOcnNnUkZJRzItVEh3SWxJRWhfY2wtWFhPVURCd0VObElUYXQ4NHYyZTNVVXR2YlF3ZV93WDg2eU1WMmc?oc=5",
-      "fonte": "gauchazh.clicrbs.com.br",
+      "fonte": "GZH",
       "publicado_em": "2026-08-05T19:53:01+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Pescadores relatam impactos da poluição no Guaíba gauchazh.clicrbs.com.br"
+      "resumo": "Pescadores relatam impactos da poluição no Guaíba GZH"
     },
     {
       "id": "8aaa74245c7f",
       "titulo": "\"Desinformação precisa ser combatida em conjunto\", propõe gerente da Rádio Guaíba na Federasul",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlVndUQ0aGFBWDNZc3d2aV9mYWNpY1JmVURkNGhwTkg4WWFId0tYTWF0RkJVUHU4c2twMkVKcjYzYWRWTXJ0WDBEcm5UUzlSd1M0YWYtU0xxWWtaNmFPendlR2pyX0lrRFQ4eWFkT3daQVh0a01NNDAtUFgtcEJVRmRTSTdhcVB6dWVZR3FfS2lNOGk3UFR6MmZfcVdwZEUtQU5yOU9tVXN2M3hQSkdNNlVrMTY?oc=5",
-      "fonte": "Rádio Guaíba",
+      "fonte": "guaiba.com.br",
       "publicado_em": "2026-08-05T18:46:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "\"Desinformação precisa ser combatida em conjunto\", propõe gerente da Rádio Guaíba na Federasul Rádio Guaíba"
+      "resumo": "\"Desinformação precisa ser combatida em conjunto\", propõe gerente da Rádio Guaíba na Federasul guaiba.com.br"
     },
     {
       "id": "c109fedcac74",
@@ -307,11 +227,11 @@
       "id": "caef9347ec54",
       "titulo": "Motociclista, de Guaíba, fica ferido após perder o controle e sofrer queda na ERS-118 em Gravataí",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVHk2T0JnNE5LRGUtZktoY1BUZktIZGZCaVpNVzNYalUwQlF0ajBXemcxUWRId0lESjJuSnBlaEIwMk9UdV9IT3JtcGVaZnVWQU9NaEQ0R2JsakxGR0ZqbTJsd2tMYlFWaWtUV3o2bVdiaGNGUUV0bnQzYlU5TmxDZ19PNUkteDV4UnFzOGRCaF9GU3RrMzFBY0ZGSDJxUlduUXdzaTNpTjFCbTVubnJGM2tvNmwzSHdhekw1MlNva2ZDUnlPdkFoejBFb1gxRlU0czdfOWdWYXEybW9Mdm42bGp5OWxEUQ?oc=5",
-      "fonte": "Portal de Camaquã",
+      "fonte": "portaldecamaqua.com.br",
       "publicado_em": "2026-08-05T14:02:47+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Motociclista, de Guaíba, fica ferido após perder o controle e sofrer queda na ERS-118 em Gravataí Portal de Camaquã"
+      "resumo": "Motociclista, de Guaíba, fica ferido após perder o controle e sofrer queda na ERS-118 em Gravataí portaldecamaqua.com.br"
     },
     {
       "id": "6d8c8be44ed6",
@@ -337,21 +257,31 @@
       "id": "f434a334be94",
       "titulo": "Mais de 680 toneladas de resíduos trazidos pela água são retiradas das margens do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTFRPU0lqX2x2STQ2UWVzV2F5OEdlVm9VV29BQUNxSlFaU2tNR0dqdnFIam5OWFUxRXFWRzRVWTJ3ajB3MEdpclh0bTZpcDJHcUhaTDY2eHJFSkl2TU10NzJpVE1aT25zRmhwM3NQTEVUOWV5UDJZVkRDbkRqNl9Ia3g3R0VGWUlJV2c2Z2NteV94SkVIM2ZLT1hJcWQ5ZjhvM21YMTBqR09Qdjd0ZjViRHJtR3JraXZITEdfU1RpZjBsTi0xUjllMy13SFNFdGw2bGlEbzdsNE56X2tWMExsWGktN0syWHBLbDQyT1hGYW1vcUo4SGVBdV9vSVg2Ml9wZUc0?oc=5",
-      "fonte": "gauchazh.clicrbs.com.br",
+      "fonte": "GZH",
       "publicado_em": "2026-08-04T23:03:36+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Mais de 680 toneladas de resíduos trazidos pela água são retiradas das margens do Guaíba gauchazh.clicrbs.com.br"
+      "resumo": "Mais de 680 toneladas de resíduos trazidos pela água são retiradas das margens do Guaíba GZH"
+    },
+    {
+      "id": "222af359a8b8",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTURzNW01X2p1R2RIRjdKWDdhQnRQMnpoakNGckF0andQTEhjUWZTLXkxVzlBVF94bmp2VzB5bE5UQ0I0Nm1GSXNtampTOGtDTUp3SThLdGxybVRoVFNRNmJWZ0JCdnd3SFBaX213OVEtQVItbmI1TTFXSWI3ZUlSLU5BTXJGckE1OExjemxfWHN1RGZRTTBGS3hnX3dFdVRnQ1FjX3lRODlKTTJ4VjYtT04xdlh2YU1qUy1CMzlFUko2VnJfQWhFTkg5LUVZcnpTaFdXOUxPSzhYM1U?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-04T22:09:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego Repórter Guaibense"
     },
     {
       "id": "39fb270982eb",
       "titulo": "Moradores de Camaquã, Guaíba e São Lourenço do Sul são contemplados na Nota Fiscal Gaúcha",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZFp0Y2Z1ZjRpU1pRVDBweDhqaTgxYlFjQU14Q2pHYlJfS2cyWHJwbUprWEJsOFVveklqRnBLUU1VTzN1Q3RLUU5BaHpSNmNPeFpsQVd5NzVsMTA4MmlKdUFBbDFuSGxTNW9tTy0wZXlmT1YyaDhGYUpuSUx1a1JtLVdqUVpOSFhlRHkta2FKUVVKS0l4T1NMSDkwcHQxUy1vcVZlVTZ1RUJGSkN6cTdyWnc5MG1tdHBiSWYzRW1TVGFUOFlUTFVfYVpwN3BHcEd6Y1RmbnViaGJlNWJJ?oc=5",
-      "fonte": "Portal de Camaquã",
+      "fonte": "portaldecamaqua.com.br",
       "publicado_em": "2026-08-04T18:37:54+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Moradores de Camaquã, Guaíba e São Lourenço do Sul são contemplados na Nota Fiscal Gaúcha Portal de Camaquã"
+      "resumo": "Moradores de Camaquã, Guaíba e São Lourenço do Sul são contemplados na Nota Fiscal Gaúcha portaldecamaqua.com.br"
     },
     {
       "id": "bc835cea92f8",
@@ -372,88 +302,158 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Record Guaíba: IA rompe barreira do idioma em cobertura de enchente em Lajeado Coletiva.net"
+    },
+    {
+      "id": "5ac9572c7681",
+      "titulo": "Correio do Povo e Rádio Guaíba transformam experiências da Copa em novos formatos",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWlscElPREhRay0ydi1FYW5wNUlPdlR6Tm5qa0hPTnpzaHF4c1h6dWFmWDM0NGtILWprSVVLQUtTWjdMX0pCRFlOcXFya1ljMUMzMVNGbk5yVzJGV0FVT0IwN0s5amVIY0hyS2M0RVEtd3VxZkt3TlkyQVF2ZFM3SjZ4Rk9DaFY3YkFlUHJvNDZUZWxZbU00akVtUmp1LXc0RWZfU2V4dlhFdjNkNHU3WDd3?oc=5",
+      "fonte": "Coletiva.net",
+      "publicado_em": "2026-08-04T11:19:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Correio do Povo e Rádio Guaíba transformam experiências da Copa em novos formatos Coletiva.net"
+    },
+    {
+      "id": "7af3bd84d897",
+      "titulo": "Mais de 440 toneladas de resíduos são recolhidas da Orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQk03c3k4MUZicEJJUzBIZ1dfcFNJdmFNdXZsbncxZjYta3kxRzhoTEZkMFEwQlExUmJKaHF3RUh3bERTSDQ3WlJORC01LTNnMmdLd1FuZkRUWTBua0N5aTg3d3FnalJFRVZCYXFnaUJkY21nX0lCY2pDRkNPUGR1T2huNlJtbG02ZkN6VG0zS0VJaXU1RTZpcktoMzM1UnZVdmlNQWVWdE15TVI1dGJJMkZUQnJRUQ?oc=5",
+      "fonte": "radiocaicara.com.br",
+      "publicado_em": "2026-08-04T11:16:46+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Mais de 440 toneladas de resíduos são recolhidas da Orla do Guaíba radiocaicara.com.br"
+    },
+    {
+      "id": "4fdfcb8af79f",
+      "titulo": "O dia em que Porto Alegre foi bombardeada por uma canhoneira atracada no Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOYVY2X1NiZG5tcGl4V2xWOGpCWk5Nb1lKSE85OGN6a3pvMkV6UFpPT2EtcnRJSHVlNEl1bjJEbjdZcWtOX0dQLTc0SWw3RVBHcEJhWmZRX2I3STJPTHhWTldIcmk1WHh6d212ckNjV09VSjJNSS1QN3NUeFNNQWU0bzhjdE1wYmFOWTI1ZTc2RU42Vkh0LTQzVG9oMzV0RlVUcEdrYnFsZ3RGNkNzT3NsN0tQQkZfY1QxWklQQlZTQ0ZoTElUZXdBdDR6TTgzM01CazlhM3U5LVdmamlOR2lxbGNJWDdnRlNuaGtmMjN6ckZ0bnB3NUtBRnlLQ2p4Vk9XanA5S0syOFktMUVhb055R2pR?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-08-04T07:36:37+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "O dia em que Porto Alegre foi bombardeada por uma canhoneira atracada no Guaíba GZH"
+    },
+    {
+      "id": "eebda759bc00",
+      "titulo": "Mais de 440 toneladas de resíduos são recolhidas da orla do Guaíba – Notícias",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUGpPajlDREptSDhPMUpwOE1UM1hEVUpjQXJHZXFvQkdGdVlCV1R6cW51dDFrUjlwSnFSVlIyR2ZxLUJ4YklGVVdQbUdrLVVicTBPN214OGxER2hGeEJrN2UwbkR0WU5nT1E4dFZ3Tkc5MXVGOHNsUkJzMzFrWml2M1hhWFY1LTVkVy1zcEVwUGhYMmhYMWgzYU1pVTUtR29VT3R6eEpwbXN4cS1QUy1z?oc=5",
+      "fonte": "Porto Alegre 24 Horas",
+      "publicado_em": "2026-08-03T22:29:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Mais de 440 toneladas de resíduos são recolhidas da orla do Guaíba – Notícias Porto Alegre 24 Horas"
+    },
+    {
+      "id": "37f40c701ca5",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb0g3TzRsLVhVaGtFV09iUmhwaUV3YjNHWERZcGFTLU1SMTlQb1NpV194djlnTjhXVF82UGFERTA4MXBIUDFnbjUyZWtldkYydHdNY0ZVWXBiazIydUptY2hYbWRhUkwxejRVTTl0TDcwYWNxQ1M5SzNvQ29KejJkVjJyLW1POXVWRTJ6STlYOXV1N3V2RmhqekJuZDZCLWJVZ1VhRDdhS0Z5RGJmN09DbzN6MEN5WElMTG1ZMXJjLUFTc2FpUzRlMjRFSElTMkVVWjNr?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-03T21:57:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário Repórter Guaibense"
+    },
+    {
+      "id": "7c26283cf184",
+      "titulo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVzV5RXpYOW9Ed1gwSU91SmRkOWwwX1A4Tm05X3l4RHNRTHl1SmN4Ny1vTGYxWUFvWFJMNmV6YkhHTVlpdGdHazdiYjZLMUVaR3kxZ2xuYVQzMnFLV1d5N3VGNXVIOENLdFU1VG9qNGZ1QWEzWU5DTF9mRk9FZFpQRFN4cmZKQzJzdXpWS1JlMXR6elEtVlBtUzU0YkxkYU1h?oc=5",
+      "fonte": "Agora RS",
+      "publicado_em": "2026-08-03T21:49:43+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba Agora RS"
+    },
+    {
+      "id": "f889202942a5",
+      "titulo": "Mais de 440 toneladas de resíduos foram recolhidas da orla do Guaíba em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdU5kZV8xZ1FnTjNoRlkxS0ZLOGlqb2pqOWpZUVVmNTcxTVZQX3dJbVY3UjVmUEFlVHYwdXNCSXVoSEY5NnRKTHEwWERvMEQxUFJKYkNxVlNHXzFTdHFoMDBYWU90OTFiZkhmT2JSMHVMbWhVUjZ1amQtbDVmMElXbXZCVll3LWRWZXFCUVpWa3B5NEpfbnlwdXJaU1ZSOFlRaGFmaWJpSXlUbTc5YkhicWVkZzR1M0pOSXdHc05FaGdVWVpkLWU3T0pIMGRrWTdNVURVckoxdUVPSUxseVdSN2xNQQ?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-03T20:58:50+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Mais de 440 toneladas de resíduos foram recolhidas da orla do Guaíba em Porto Alegre Correio do Povo"
     }
   ],
   "noticias_home": [
     {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-09T00:00:00+00:00",
+      "id": "66413f43b4ae",
+      "titulo": "Guaíba volta a ter cota de cheia com vento Sul do ar frio",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeldQY242RjJDMHVCTDliU1VWWld2SVRWOTlYUU4tY1prMlZybExUS0pCVFo3Y0g2SFFKQ1V6Mm9PdGRkSDRTY2ZJeDRtLWwwdlVVRDlpNFJGdGIxYTg2aHBNQUJySzFvVW1EQ2ZiYVBsOW13V1ZqM0FtN2ttbl9OQVBYbw?oc=5",
+      "fonte": "MetSul Meteorologia",
+      "publicado_em": "2026-08-09T15:58:23+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+      "feed": "vizinhos",
+      "resumo": "Guaíba volta a ter cota de cheia com vento Sul do ar frio MetSul Meteorologia"
     },
     {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-09T00:00:00+00:00",
+      "id": "25d13e590907",
+      "titulo": "Com vento Sul, Guaíba volta a elevar e supera cota de atenção em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLTZ3NHoxa0czQ0RlbGlvMF9VaGJub2RtajBCV0dFakNrZDU1Sy0zanR3Xy02WS1TUU1PUUx0LUhwS2VNZ1hoLU9Mcm82MU1tNEhjZFlLdWQ1d0dxVUd0VVNrOGJGZlh6LTl3bjMzODQzNHpHZUJjc2ZfY0NRTWVuYTM4SWU1MkliRWFBSEh2anR3SkJjcFlVSEtFM0ZxTXhaSzRESTRBZzFRZWdYUy1JOFdKNFo4WWMtcXU5X00xaHAxcTZnbDIwWkNlTXFlc3lBU1Fnc3BRQ2o?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-09T14:28:01+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
+      "feed": "correio",
+      "resumo": "Com vento Sul, Guaíba volta a elevar e supera cota de atenção em Porto Alegre Correio do Povo"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "e216a2d5647f",
+      "titulo": "Até churrasco a bordo: Itapuã, onde o Guaíba encontra a Lagoa dos Patos, torna-se reduto da pesca esportiva",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQUWNVOV9TMC1VcFpsbkZWdzEtdTBsaXljZ1hzUUppQ0prenNPMnUtNk12SEdTZHp2ZVJrTU9CS0Y3RXdzMU5zRjdyckhYRmd2TnBRenoxb1BCM2pyNEtoc19ieHN6WEloYjdNa3dsYzFNajNiSmJjMm1hNFoxNy1wYm1ObDh1WWtFS1ZmMUhrZGRmUlZvWXJ1R29aMDhxeVZkZXVEVFRvTi1wQUVZODdLNTdQWm53bFl0MmFEblZBbUljYkVUMG45VURxSS04bmNMQUxOVW9pUDJiRWVRWkFoblNHUGdfbmQyYUg1S3BtSzlqTlI1R0lRUFZyU3Z5R1hQR1dnU2o2anVzRzMxV2VFY01GcWRRTjNoOEVGanBqMS1CVE0?oc=5",
+      "fonte": "Diário Gaúcho",
+      "publicado_em": "2026-08-09T14:07:52+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "feed": "recentes",
+      "resumo": "Até churrasco a bordo: Itapuã, onde o Guaíba encontra a Lagoa dos Patos, torna-se reduto da pesca esportiva Diário Gaúcho"
     },
     {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "5899cb5bca6a",
+      "titulo": "Pontes e passarelas vão ser revitalizadas na BR-116 entre Camaquã e Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWlDbTlvR183eGhpeTVoa2xtaDB2YzZOYzU3aUFNa3pCakJuLWxJc2lfMHJrenI4ZnBLUmQ5bjNiV0ZKeEZSTTdhcFREQ1lpY3F1cjVOX1pJbXl0UzB3YVRMczl0MVZURk9VS1pWT3FPejhWc3FuV2I4X2xoRXpTWDluN1R1aTlGWk9fX3N1MWd5OHNiNGQzQkx4ZG5hajdja3ZDbmtOcnhKMGRkdG0xUDBNZ2o5cERGN0RROUpXUdIBxAFBVV95cUxNUHEtVGlyOXRzUmRXcmw5aW1wbzczXzVfYTJycjg3cHFoWkRDa2RLeFl2WFR1NmRhNE1yOGNhRHNQS204RnBHV3NOZkY2WF9Gd3A5bDJkZ09OZ1JGZzFIVldTUkRSWVN1cUlfVEtfbFNkdldLM1M3el9lMnU5VEZscWpIXzV0Yko0a1dEeTl0a3pqdnNreDI1VGZCd0x5amRwdWk0N1owWXIwNzZBNVp1Q3puU1dDdXF1UjV6LWRqRFpHV2oy?oc=5",
+      "fonte": "Blog do Juares",
+      "publicado_em": "2026-08-08T13:16:23+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+      "feed": "vizinhos",
+      "resumo": "Pontes e passarelas vão ser revitalizadas na BR-116 entre Camaquã e Guaíba Blog do Juares"
     },
     {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "02a9ffe89672",
+      "titulo": "Prefeitura de Guaíba realiza seminário sobre a primeira infância",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZG9JVDRwTVBacE5PX3NqNGtYb2piSElqc2dWWkVFX0Vhb0V3U2VPdHZVMkk3Smk0ZXJwY1JtSkRfTXNVV1JQZi0tdDlRWTBOWENDVDJlb3hkXzg1WHRFT0NhZ2ZseHhVbEVKWUN1U3pUYXBvX29zTDNCTTIteWUzY2dLekM4NlVvOU9jenRR?oc=5",
+      "fonte": "expansao.co",
+      "publicado_em": "2026-08-07T17:31:08+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+      "feed": "recentes",
+      "resumo": "Prefeitura de Guaíba realiza seminário sobre a primeira infância expansao.co"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "7e3be68a3d82",
+      "titulo": "Vento do ciclone interrompe baixa e causa subida temporária do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM3g1c3RpMFRZMnhfRy1WeDAyTUs4V3QzejdoNk16c2N3M3JRdHVLY3V5SG04SnREaU1NM2VFR0UtanJsYWdFQ0YzQVFwMkhhN2swNHpBbDFOckFIRjlhWkxucnZNVWo3ZzFhRHdqaEhtenVRbTU0Y3FPcXh1VGlvQjZFY2J3ZHNaZFBTTnl6ejRwOGM?oc=5",
+      "fonte": "MetSul Meteorologia",
+      "publicado_em": "2026-08-07T13:19:51+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+      "feed": "vizinhos",
+      "resumo": "Vento do ciclone interrompe baixa e causa subida temporária do Guaíba MetSul Meteorologia"
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "36e288eb9400",
+      "titulo": "Prefeitura de Guaíba instala 146 novas lixeiras na cidade",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTVzTVF0ZTZ6V19iMVNna0k3a3FqLWVRaGVLNG1wRU9UZTRWNjhCVmV5UXNpTjZMSXhxNk1Sbkw5bERjSVlkdmtXTFdoMlRqajZ1emZhNFVSZWE4QmtzdFY0bzdIYmNITWFEeUYzYXVuZk1TN3JDSFNhWkxMYXVMaVlqcjM?oc=5",
+      "fonte": "expansao.co",
+      "publicado_em": "2026-08-06T18:20:01+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+      "feed": "recentes",
+      "resumo": "Prefeitura de Guaíba instala 146 novas lixeiras na cidade expansao.co"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "343999217cfd",
+      "titulo": "Guaíba realiza limpeza nas orlas com equipamentos do Programa Horas-Máquinas",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMzdJakMwWV83YXpqNkFqQmhFQUlYYzQ3TW8wTk5pc1FScmExYzViM0liNm4ySHdkOHBHNjF5cGVsc1dycHQwUjR6ZjhpVFJLWUNqYjJPTlpEUENJY0dCY1FVdGtmZFlxOE81WDFhUWNRVUdmYXBwRTNNN09aWjQzV09iSGdXQUdwUGJvdWRaLVhPbVR5V2tNOXBVZmVDdw?oc=5",
+      "fonte": "expansao.co",
+      "publicado_em": "2026-08-06T17:50:20+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "feed": "recentes",
+      "resumo": "Guaíba realiza limpeza nas orlas com equipamentos do Programa Horas-Máquinas expansao.co"
     }
   ]
 }
