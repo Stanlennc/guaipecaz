@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-08T22:27:19.949444+00:00",
+  "gerado_em": "2026-08-09T01:37:11.628348+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-08T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
-    },
-    {
       "id": "4b0eb5cbea65",
       "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
@@ -94,24 +84,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-08-08T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
       "id": "777f86ec4825",
@@ -124,14 +104,14 @@
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "1cf422762e78",
@@ -152,6 +132,36 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+    },
+    {
+      "id": "5899cb5bca6a",
+      "titulo": "Pontes e passarelas vão ser revitalizadas na BR-116 entre Camaquã e Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWlDbTlvR183eGhpeTVoa2xtaDB2YzZOYzU3aUFNa3pCakJuLWxJc2lfMHJrenI4ZnBLUmQ5bjNiV0ZKeEZSTTdhcFREQ1lpY3F1cjVOX1pJbXl0UzB3YVRMczl0MVZURk9VS1pWT3FPejhWc3FuV2I4X2xoRXpTWDluN1R1aTlGWk9fX3N1MWd5OHNiNGQzQkx4ZG5hajdja3ZDbmtOcnhKMGRkdG0xUDBNZ2o5cERGN0RROUpXUdIBxAFBVV95cUxNUHEtVGlyOXRzUmRXcmw5aW1wbzczXzVfYTJycjg3cHFoWkRDa2RLeFl2WFR1NmRhNE1yOGNhRHNQS204RnBHV3NOZkY2WF9Gd3A5bDJkZ09OZ1JGZzFIVldTUkRSWVN1cUlfVEtfbFNkdldLM1M3el9lMnU5VEZscWpIXzV0Yko0a1dEeTl0a3pqdnNreDI1VGZCd0x5amRwdWk0N1owWXIwNzZBNVp1Q3puU1dDdXF1UjV6LWRqRFpHV2oy?oc=5",
+      "fonte": "Blog do Juares",
+      "publicado_em": "2026-08-08T13:16:23+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Pontes e passarelas vão ser revitalizadas na BR-116 entre Camaquã e Guaíba Blog do Juares"
     },
     {
       "id": "92b572cfbcc6",
@@ -177,11 +187,11 @@
       "id": "7e3be68a3d82",
       "titulo": "Vento do ciclone interrompe baixa e causa subida temporária do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM3g1c3RpMFRZMnhfRy1WeDAyTUs4V3QzejdoNk16c2N3M3JRdHVLY3V5SG04SnREaU1NM2VFR0UtanJsYWdFQ0YzQVFwMkhhN2swNHpBbDFOckFIRjlhWkxucnZNVWo3ZzFhRHdqaEhtenVRbTU0Y3FPcXh1VGlvQjZFY2J3ZHNaZFBTTnl6ejRwOGM?oc=5",
-      "fonte": "metsul.com",
+      "fonte": "MetSul Meteorologia",
       "publicado_em": "2026-08-07T13:19:51+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Vento do ciclone interrompe baixa e causa subida temporária do Guaíba metsul.com"
+      "resumo": "Vento do ciclone interrompe baixa e causa subida temporária do Guaíba MetSul Meteorologia"
     },
     {
       "id": "05ecc3d0d42c",
@@ -257,11 +267,11 @@
       "id": "8aaa74245c7f",
       "titulo": "\"Desinformação precisa ser combatida em conjunto\", propõe gerente da Rádio Guaíba na Federasul",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlVndUQ0aGFBWDNZc3d2aV9mYWNpY1JmVURkNGhwTkg4WWFId0tYTWF0RkJVUHU4c2twMkVKcjYzYWRWTXJ0WDBEcm5UUzlSd1M0YWYtU0xxWWtaNmFPendlR2pyX0lrRFQ4eWFkT3daQVh0a01NNDAtUFgtcEJVRmRTSTdhcVB6dWVZR3FfS2lNOGk3UFR6MmZfcVdwZEUtQU5yOU9tVXN2M3hQSkdNNlVrMTY?oc=5",
-      "fonte": "Rádio Guaíba",
+      "fonte": "guaiba.com.br",
       "publicado_em": "2026-08-05T18:46:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "\"Desinformação precisa ser combatida em conjunto\", propõe gerente da Rádio Guaíba na Federasul Rádio Guaíba"
+      "resumo": "\"Desinformação precisa ser combatida em conjunto\", propõe gerente da Rádio Guaíba na Federasul guaiba.com.br"
     },
     {
       "id": "c109fedcac74",
@@ -347,11 +357,11 @@
       "id": "6e2bcbc262f7",
       "titulo": "Guaíba volta para a cota de atenção depois de uma semana",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEJCcHIxclVwMUVtS0dWNFdsMV9XaVpaT2k4c3lDd1kyT3llYzM5Nmp5MEU4b29nR20xc2tIbnRZemJmNGdFV29jbHNIQ2Q4a3d5NTBtY28yX0J0WTJQRzhlbHhabS1kU1NnUDlsUmJYMmgxVS1idXdXRTZqd2R3TmdaTQ?oc=5",
-      "fonte": "Rádio Guaíba",
+      "fonte": "guaiba.com.br",
       "publicado_em": "2026-08-04T14:46:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Guaíba volta para a cota de atenção depois de uma semana Rádio Guaíba"
+      "resumo": "Guaíba volta para a cota de atenção depois de uma semana guaiba.com.br"
     },
     {
       "id": "5ac9572c7681",
@@ -362,29 +372,9 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Correio do Povo e Rádio Guaíba transformam experiências da Copa em novos formatos Coletiva.net"
-    },
-    {
-      "id": "7af3bd84d897",
-      "titulo": "Mais de 440 toneladas de resíduos são recolhidas da Orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQk03c3k4MUZicEJJUzBIZ1dfcFNJdmFNdXZsbncxZjYta3kxRzhoTEZkMFEwQlExUmJKaHF3RUh3bERTSDQ3WlJORC01LTNnMmdLd1FuZkRUWTBua0N5aTg3d3FnalJFRVZCYXFnaUJkY21nX0lCY2pDRkNPUGR1T2huNlJtbG02ZkN6VG0zS0VJaXU1RTZpcktoMzM1UnZVdmlNQWVWdE15TVI1dGJJMkZUQnJRUQ?oc=5",
-      "fonte": "radiocaicara.com.br",
-      "publicado_em": "2026-08-04T11:16:46+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Mais de 440 toneladas de resíduos são recolhidas da Orla do Guaíba radiocaicara.com.br"
     }
   ],
   "noticias_home": [
-    {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-08T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
-    },
     {
       "id": "4b0eb5cbea65",
       "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
@@ -396,24 +386,14 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-08-08T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
       "id": "777f86ec4825",
@@ -426,14 +406,14 @@
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "1cf422762e78",
@@ -454,6 +434,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     }
   ]
 }
