@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-10T18:55:07.010767+00:00",
+  "gerado_em": "2026-08-10T20:40:54.927288+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,16 @@
   ],
   "noticias": [
     {
+      "id": "e37d22daa6a2",
+      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-10T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
+    },
+    {
       "id": "4b0eb5cbea65",
       "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
@@ -94,14 +104,14 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "df37597c9344",
@@ -114,34 +124,14 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
-    },
-    {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "821a278c8680",
@@ -154,6 +144,16 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
       "id": "565786259c27",
       "titulo": "Guaíba promove a 1ª edição da Feira Itinerante do Agro para fortalecer a agricultura familiar",
       "url": "https://expansao.co/guaiba-promove-a-1a-edicao-da-feira-itinerante-do-agro-para-fortalecer-a-agricultura-familiar/",
@@ -162,6 +162,26 @@
       "categoria": "Business",
       "feed": "expansao_direto",
       "resumo": "Nesta terça-feira, 11 de agosto, a Agência de Desenvolvimento Econômico e Social de Guaíba promove a 1ª edição da Feira Itinerante do Agro, em frente à sede da prefeitura. A&#8230; O post Guaíba promove a 1ª edição da Feira Itinerante do Agro para fortalecer a agricultura familiar apareceu primeiro…"
+    },
+    {
+      "id": "7e498efc1bd9",
+      "titulo": "AO VIVO | UFSM X Guaíba Pela 2ª Rodada Da Copa Cláudio Braga Maxime Le Flaguais (j1DdrlOUW0)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15ZHd0ZmdjaTN5cC1FaGNsR3o1TnhnRktQLTJBS2JoQ1E2TXgzbk50d1RwdWxrYW8yWFYtWkRrRTlGUlhTTTBCRkpVVndaRjFPRURqcUdwN0tzRVE?oc=5",
+      "fonte": "Mshale",
+      "publicado_em": "2026-08-10T18:43:29+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "AO VIVO | UFSM X Guaíba Pela 2ª Rodada Da Copa Cláudio Braga Maxime Le Flaguais (j1DdrlOUW0) Mshale"
+    },
+    {
+      "id": "17396331a126",
+      "titulo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ReVBXeEh4cUNsMnp2cXFoZ0ZxTmxpRUFWN3FFWnBwSHBUbFFmSlBwZ0VlSUZ6bzJxUEpCcXZzd29wZ1d4a0N0eWZxLUo1Wk84R1FHMGwtSzlpamM?oc=5",
+      "fonte": "Mshale",
+      "publicado_em": "2026-08-10T18:37:55+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU) Mshale"
     },
     {
       "id": "f394a1bebbb3",
@@ -196,11 +216,11 @@
       "id": "1f315d93b32f",
       "titulo": "Embarcações no Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGRtUGZIZnRFZXhBbVlKQVk3SVhaQ2tBNEFORzVaZkRuSTI0aFlpZi1hdGdLY2ZydE9GTHdxWWJSdDlTa1VwM2VIak9FcDkzNlN6dWRjeTB5dlhpc0pkUGp3NmRhMkNtTlZDSHh2RFU3Q1ZYYU81UHBlSmozSllnTUF5M3ZZN2FwaWMxM2dZRWgyaWY0NGN1UGNScm1ZR3RYOGYw?oc=5",
-      "fonte": "Jornal do Comércio",
+      "fonte": "jornaldocomercio.com",
       "publicado_em": "2026-08-09T21:47:22+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Embarcações no Guaíba Jornal do Comércio"
+      "resumo": "Embarcações no Guaíba jornaldocomercio.com"
     },
     {
       "id": "66413f43b4ae",
@@ -306,11 +326,11 @@
       "id": "84880dbb1745",
       "titulo": "Navios de respeito atravessam o Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYW5DYmZjWkppLUhaNWVLb1dTZS1RSFlwbmwtZ1NKY0kycDl1QjhkdXl6dy1fVVktcmlsNzRsNEZIcF9YbTRxenZwYlR6eVNHMFpEbTRBbURTVmdLemoxZU9OeDNfc3FfaHdHVUllVnA4XzZ4N2xDS1VteTNuUjFBSGNGX2E4bEdsbmpkMWgwbFlfQ09ZOTBEc2RXaHZzWHo5NFlWLTM2akN3WjEzbUR6Vjc4X2g4VXQ3LTRj?oc=5",
-      "fonte": "Jornal do Comércio",
+      "fonte": "jornaldocomercio.com",
       "publicado_em": "2026-08-05T23:05:10+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Navios de respeito atravessam o Guaíba Jornal do Comércio"
+      "resumo": "Navios de respeito atravessam o Guaíba jornaldocomercio.com"
     },
     {
       "id": "03de210691f7",
@@ -351,29 +371,19 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Motociclista, de Guaíba, fica ferido após perder o controle e sofrer queda na ERS-118 em Gravataí Portal de Camaquã"
-    },
-    {
-      "id": "4c44c5ac7b8a",
-      "titulo": "Fragilidade do Guaíba entra no debate sobre nova fábrica da CMPC",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXcyb0xVcEZJMzJqOEc0M0ZSalpOVENZcUt0TWRzWFNzY0tqOGVCQ2RWZGlEanVFR3IwdDBzUUFWUHh5MDMxVVhaV3RzaUtjWkt1WGpsaW9IMGhkWWlaSFJVR3NSTFM3OFNjaGpXSi10OWk2S0FMdmZZOE9GRTYyQnA2WnJTMUZRblBjbENYd3A0VWtRVnYxSUtuaw?oc=5",
-      "fonte": "ihu.unisinos.br",
-      "publicado_em": "2026-08-05T12:08:50+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Fragilidade do Guaíba entra no debate sobre nova fábrica da CMPC ihu.unisinos.br"
-    },
-    {
-      "id": "f3c6f65ad883",
-      "titulo": "Defesa Civil reúne lideranças das Ilhas para avaliar ações durante elevação do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUkI4R0RkbUZUMmUtWkszRWVXNV9RT0doejlacmpWRm1TQ2JrcVF0TDUyaGFCa0ozTlFJX2xyNmNRZFl5U09HYlUyclNReW1ZZHFNZXFvdDNnVEdjZmkxT1E2bnlub20xbjc0VktOUDBRRDVMQVllUzJMMThDZzVOek0xQW5taDd5U0pTVjdZbTZ0aU5MdW4zS0c1bGxFVldwdUdlR0NIcjNtMlVnajVnYjVpVU8yUEVvb1dpajNBQjFYOVF4VFNRb3FuZ1JPbTEwTHlBOXRzMGsyU0ZqZTV0cEdzNGFQNFBuSFE4TnRQRVBQcDdTY3FuNg?oc=5",
-      "fonte": "Terra",
-      "publicado_em": "2026-08-04T23:07:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Defesa Civil reúne lideranças das Ilhas para avaliar ações durante elevação do Guaíba Terra"
     }
   ],
   "noticias_home": [
+    {
+      "id": "e37d22daa6a2",
+      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-10T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
+    },
     {
       "id": "4b0eb5cbea65",
       "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
@@ -395,14 +405,14 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "df37597c9344",
@@ -415,34 +425,14 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
-    },
-    {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "821a278c8680",
@@ -453,6 +443,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+    },
+    {
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     }
   ]
 }
