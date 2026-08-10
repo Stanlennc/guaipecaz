@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-10T16:52:49.260057+00:00",
+  "gerado_em": "2026-08-10T18:55:07.010767+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-10T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
-    },
-    {
       "id": "4b0eb5cbea65",
       "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
@@ -94,24 +84,24 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-08-10T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "df37597c9344",
@@ -124,6 +114,16 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
       "id": "777f86ec4825",
       "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
       "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
@@ -132,6 +132,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+    },
+    {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
     },
     {
       "id": "821a278c8680",
@@ -144,14 +154,34 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "565786259c27",
+      "titulo": "Guaíba promove a 1ª edição da Feira Itinerante do Agro para fortalecer a agricultura familiar",
+      "url": "https://expansao.co/guaiba-promove-a-1a-edicao-da-feira-itinerante-do-agro-para-fortalecer-a-agricultura-familiar/",
+      "fonte": "Expansão",
+      "publicado_em": "2026-08-10T17:21:05+00:00",
+      "categoria": "Business",
+      "feed": "expansao_direto",
+      "resumo": "Nesta terça-feira, 11 de agosto, a Agência de Desenvolvimento Econômico e Social de Guaíba promove a 1ª edição da Feira Itinerante do Agro, em frente à sede da prefeitura. A&#8230; O post Guaíba promove a 1ª edição da Feira Itinerante do Agro para fortalecer a agricultura familiar apareceu primeiro…"
+    },
+    {
+      "id": "f394a1bebbb3",
+      "titulo": "Guaíba anuncia datas do Sarandeio Farroupilha 2026",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ia2k2UVRTU1VEYk1nX2xNUldHOFZTR3FCMUk2TnN6dUltS0tJYlZWTG1yRkctRTI2VlRlQ1JYVTh2S3JmN1FvZnN0dmJsU3Y3VlRrVUF2X3h3QWdwcnpmMjF1ME8tZWhpQzVZTUNvSVdJdFVOQ1VRR09Law?oc=5",
+      "fonte": "expansao.co",
+      "publicado_em": "2026-08-10T17:07:03+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+      "feed": "recentes",
+      "resumo": "Guaíba anuncia datas do Sarandeio Farroupilha 2026 expansao.co"
+    },
+    {
+      "id": "47929e317a03",
+      "titulo": "PRF prende 6 pessoas, incluindo 2 de Guaiba, apreende 500 canetas emagrecedoras, 700 cigarros eletrônicos e anabolizantes em Lajeado",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPaWw3VnVhYzZMY090dXp5U05KVE14cUtjQ0pSM1lzX3hSdXFmX2I0cmszMFJGMldvSFZjTnlWWjBHd0lHR1Z2SUlJUWM5OGtIa1NCZktpdno5X1dEdWRVYzF1N2ZVUDRWbWJMVlJIYUwzektHUWctWHpQSjlsUVF1MkhpS2d3Wm5SMFJlMnRMNmRTaEpQTGFINzh1aXY2dEFHd282RldxVnJ1RmxnRXUzWkhGMmtnaktiN3o5MDU2NmQ3Q25SaXdIRml2NURDaEpuZjhPQUlZbUgyWVExRlZPdVdzY1FLUzc2QTFwTVlPTTlULWNTYl9WNWpuZEdzTFFfQl8ydUJaSm9aQVVtYzZObEdVbw?oc=5",
+      "fonte": "Portal de Camaquã",
+      "publicado_em": "2026-08-10T17:04:38+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "PRF prende 6 pessoas, incluindo 2 de Guaiba, apreende 500 canetas emagrecedoras, 700 cigarros eletrônicos e anabolizantes em Lajeado Portal de Camaquã"
     },
     {
       "id": "44aab73647c2",
@@ -341,49 +371,9 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Defesa Civil reúne lideranças das Ilhas para avaliar ações durante elevação do Guaíba Terra"
-    },
-    {
-      "id": "f434a334be94",
-      "titulo": "Mais de 680 toneladas de resíduos trazidos pela água são retiradas das margens do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTFRPU0lqX2x2STQ2UWVzV2F5OEdlVm9VV29BQUNxSlFaU2tNR0dqdnFIam5OWFUxRXFWRzRVWTJ3ajB3MEdpclh0bTZpcDJHcUhaTDY2eHJFSkl2TU10NzJpVE1aT25zRmhwM3NQTEVUOWV5UDJZVkRDbkRqNl9Ia3g3R0VGWUlJV2c2Z2NteV94SkVIM2ZLT1hJcWQ5ZjhvM21YMTBqR09Qdjd0ZjViRHJtR3JraXZITEdfU1RpZjBsTi0xUjllMy13SFNFdGw2bGlEbzdsNE56X2tWMExsWGktN0syWHBLbDQyT1hGYW1vcUo4SGVBdV9vSVg2Ml9wZUc0?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-08-04T23:03:36+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Mais de 680 toneladas de resíduos trazidos pela água são retiradas das margens do Guaíba GZH"
-    },
-    {
-      "id": "39fb270982eb",
-      "titulo": "Moradores de Camaquã, Guaíba e São Lourenço do Sul são contemplados na Nota Fiscal Gaúcha",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZFp0Y2Z1ZjRpU1pRVDBweDhqaTgxYlFjQU14Q2pHYlJfS2cyWHJwbUprWEJsOFVveklqRnBLUU1VTzN1Q3RLUU5BaHpSNmNPeFpsQVd5NzVsMTA4MmlKdUFBbDFuSGxTNW9tTy0wZXlmT1YyaDhGYUpuSUx1a1JtLVdqUVpOSFhlRHkta2FKUVVKS0l4T1NMSDkwcHQxUy1vcVZlVTZ1RUJGSkN6cTdyWnc5MG1tdHBiSWYzRW1TVGFUOFlUTFVfYVpwN3BHcEd6Y1RmbnViaGJlNWJJ?oc=5",
-      "fonte": "Portal de Camaquã",
-      "publicado_em": "2026-08-04T18:37:54+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Moradores de Camaquã, Guaíba e São Lourenço do Sul são contemplados na Nota Fiscal Gaúcha Portal de Camaquã"
-    },
-    {
-      "id": "bc835cea92f8",
-      "titulo": "Guaíba volta a normalidade depois de uma semana",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWRySGlVb0MxS1hBTGJ1eWs3TlhtR2ZnQnF5MU5IRWdUOWFPTVNjSlBEQ2RZN1Q0UkFmeWp6Wlpqa0pkSEo5WFdLTTBpczRyaGY2V0FVRFNEc2FCN3h5RFBxUlVjRERaeUhiMEtvUTF4Sjlqb0FRdzFMRWFKNkhTWk9sSnRxR08wVFhlSS1lVGRMMzM0YnVuMC1XY2lOTmNhWFBDNXRTT04xVlVjRm1oVGJR?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-08-04T17:23:08+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Guaíba volta a normalidade depois de uma semana Correio do Povo"
     }
   ],
   "noticias_home": [
-    {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-10T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
-    },
     {
       "id": "4b0eb5cbea65",
       "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
@@ -395,24 +385,24 @@
       "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-08-10T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "df37597c9344",
@@ -425,6 +415,16 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
       "id": "777f86ec4825",
       "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
       "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
@@ -435,6 +435,16 @@
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
       "id": "821a278c8680",
       "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
       "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
@@ -443,16 +453,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     }
   ]
 }
