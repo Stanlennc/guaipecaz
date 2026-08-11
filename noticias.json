@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-11T03:42:39.434152+00:00",
+  "gerado_em": "2026-08-11T05:06:28.418992+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-11T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
-    {
       "id": "e37d22daa6a2",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
@@ -92,6 +82,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
+    },
+    {
+      "id": "4b0eb5cbea65",
+      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-11T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
       "id": "8a9e8f04364e",
@@ -114,6 +114,26 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+    },
+    {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
       "id": "777f86ec4825",
       "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
       "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
@@ -134,16 +154,6 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
-    },
-    {
       "id": "821a278c8680",
       "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
       "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
@@ -152,16 +162,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "565786259c27",
@@ -187,21 +187,21 @@
       "id": "7e498efc1bd9",
       "titulo": "AO VIVO | UFSM X Guaíba Pela 2ª Rodada Da Copa Cláudio Braga Maxime Le Flaguais (j1DdrlOUW0)",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15ZHd0ZmdjaTN5cC1FaGNsR3o1TnhnRktQLTJBS2JoQ1E2TXgzbk50d1RwdWxrYW8yWFYtWkRrRTlGUlhTTTBCRkpVVndaRjFPRURqcUdwN0tzRVE?oc=5",
-      "fonte": "mshale.com",
+      "fonte": "Mshale",
       "publicado_em": "2026-08-10T18:43:29+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "AO VIVO | UFSM X Guaíba Pela 2ª Rodada Da Copa Cláudio Braga Maxime Le Flaguais (j1DdrlOUW0) mshale.com"
+      "resumo": "AO VIVO | UFSM X Guaíba Pela 2ª Rodada Da Copa Cláudio Braga Maxime Le Flaguais (j1DdrlOUW0) Mshale"
     },
     {
       "id": "17396331a126",
       "titulo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU)",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ReVBXeEh4cUNsMnp2cXFoZ0ZxTmxpRUFWN3FFWnBwSHBUbFFmSlBwZ0VlSUZ6bzJxUEpCcXZzd29wZ1d4a0N0eWZxLUo1Wk84R1FHMGwtSzlpamM?oc=5",
-      "fonte": "mshale.com",
+      "fonte": "Mshale",
       "publicado_em": "2026-08-10T18:37:55+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU) mshale.com"
+      "resumo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU) Mshale"
     },
     {
       "id": "f394a1bebbb3",
@@ -376,16 +376,6 @@
   ],
   "noticias_home": [
     {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-11T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
-    {
       "id": "e37d22daa6a2",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
@@ -394,6 +384,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
+    },
+    {
+      "id": "4b0eb5cbea65",
+      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-11T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
     },
     {
       "id": "8a9e8f04364e",
@@ -416,6 +416,26 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+    },
+    {
+      "id": "1abd77fa27dd",
+      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
+    },
+    {
       "id": "777f86ec4825",
       "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
       "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
@@ -434,26 +454,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
-    },
-    {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     }
   ]
 }
