@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-11T14:55:21.245053+00:00",
+  "gerado_em": "2026-08-11T16:56:05.857876+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,24 +94,14 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-11T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
-    {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "1cf422762e78",
@@ -124,16 +114,6 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
-    },
-    {
       "id": "777f86ec4825",
       "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
       "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
@@ -144,14 +124,14 @@
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "328a4ef216b4",
@@ -162,6 +142,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
       "id": "ff69aec933ab",
@@ -192,16 +182,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "RECORD Guaíba coloca as eleições de 2026 no centro do debate com entrevistas com candidatos ao Governo do RS R7"
-    },
-    {
-      "id": "3e966ba75d18",
-      "titulo": "ON LINE X GUAÍBA | Disputa Do 3º Lugar Da Copa Cláudio Braga De Voleibol Sub-16 Feminino 1º Divisão Al Nassar (0US89YUTUt)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlM1FHdXpiTDhrc2ZNWHBNSEpyZEVuYzVlb1dHTnpNSVJqRUhHa2g2ZFdvSERBbzBKcG1XVC1zbV8tV1gxcFRpQ2c3c1NYYXhMZElMTnR0ZU1yVk0?oc=5",
-      "fonte": "Mshale",
-      "publicado_em": "2026-08-10T21:46:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "ON LINE X GUAÍBA | Disputa Do 3º Lugar Da Copa Cláudio Braga De Voleibol Sub-16 Feminino 1º Divisão Al Nassar (0US89YUTUt) Mshale"
     },
     {
       "id": "7e498efc1bd9",
@@ -247,11 +227,11 @@
       "id": "47929e317a03",
       "titulo": "PRF prende 6 pessoas, incluindo 2 de Guaiba, apreende 500 canetas emagrecedoras, 700 cigarros eletrônicos e anabolizantes em Lajeado",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPaWw3VnVhYzZMY090dXp5U05KVE14cUtjQ0pSM1lzX3hSdXFmX2I0cmszMFJGMldvSFZjTnlWWjBHd0lHR1Z2SUlJUWM5OGtIa1NCZktpdno5X1dEdWRVYzF1N2ZVUDRWbWJMVlJIYUwzektHUWctWHpQSjlsUVF1MkhpS2d3Wm5SMFJlMnRMNmRTaEpQTGFINzh1aXY2dEFHd282RldxVnJ1RmxnRXUzWkhGMmtnaktiN3o5MDU2NmQ3Q25SaXdIRml2NURDaEpuZjhPQUlZbUgyWVExRlZPdVdzY1FLUzc2QTFwTVlPTTlULWNTYl9WNWpuZEdzTFFfQl8ydUJaSm9aQVVtYzZObEdVbw?oc=5",
-      "fonte": "portaldecamaqua.com.br",
+      "fonte": "Portal de Camaquã",
       "publicado_em": "2026-08-10T17:04:38+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "PRF prende 6 pessoas, incluindo 2 de Guaiba, apreende 500 canetas emagrecedoras, 700 cigarros eletrônicos e anabolizantes em Lajeado portaldecamaqua.com.br"
+      "resumo": "PRF prende 6 pessoas, incluindo 2 de Guaiba, apreende 500 canetas emagrecedoras, 700 cigarros eletrônicos e anabolizantes em Lajeado Portal de Camaquã"
     },
     {
       "id": "1f315d93b32f",
@@ -297,11 +277,11 @@
       "id": "5899cb5bca6a",
       "titulo": "Pontes e passarelas vão ser revitalizadas na BR-116 entre Camaquã e Guaíba",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWlDbTlvR183eGhpeTVoa2xtaDB2YzZOYzU3aUFNa3pCakJuLWxJc2lfMHJrenI4ZnBLUmQ5bjNiV0ZKeEZSTTdhcFREQ1lpY3F1cjVOX1pJbXl0UzB3YVRMczl0MVZURk9VS1pWT3FPejhWc3FuV2I4X2xoRXpTWDluN1R1aTlGWk9fX3N1MWd5OHNiNGQzQkx4ZG5hajdja3ZDbmtOcnhKMGRkdG0xUDBNZ2o5cERGN0RROUpXUdIBxAFBVV95cUxNUHEtVGlyOXRzUmRXcmw5aW1wbzczXzVfYTJycjg3cHFoWkRDa2RLeFl2WFR1NmRhNE1yOGNhRHNQS204RnBHV3NOZkY2WF9Gd3A5bDJkZ09OZ1JGZzFIVldTUkRSWVN1cUlfVEtfbFNkdldLM1M3el9lMnU5VEZscWpIXzV0Yko0a1dEeTl0a3pqdnNreDI1VGZCd0x5amRwdWk0N1owWXIwNzZBNVp1Q3puU1dDdXF1UjV6LWRqRFpHV2oy?oc=5",
-      "fonte": "blogdojuares.com.br",
+      "fonte": "Blog do Juares",
       "publicado_em": "2026-08-08T13:16:23+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Pontes e passarelas vão ser revitalizadas na BR-116 entre Camaquã e Guaíba blogdojuares.com.br"
+      "resumo": "Pontes e passarelas vão ser revitalizadas na BR-116 entre Camaquã e Guaíba Blog do Juares"
     },
     {
       "id": "02a9ffe89672",
@@ -372,6 +352,26 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Navios de respeito atravessam o Guaíba Jornal do Comércio"
+    },
+    {
+      "id": "03de210691f7",
+      "titulo": "Pescadores relatam impactos da poluição no Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT2cyUEN2S0J5T18wcDlibnRUQnk1YWUyYkxOb094M2daaTZTam04MldvVU5VbWdiOFpVdWZxS0ZjZlhnbEhWQzNRSDJsOWNWU1FJcDRHdjJyUDNHTktaT1VBejZyNElNeG5SWjdDdzZmNGZrSVBFQVRnSjlDT0pOcnNnUkZJRzItVEh3SWxJRWhfY2wtWFhPVURCd0VObElUYXQ4NHYyZTNVVXR2YlF3ZV93WDg2eU1WMmc?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-08-05T19:53:01+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Pescadores relatam impactos da poluição no Guaíba GZH"
+    },
+    {
+      "id": "8aaa74245c7f",
+      "titulo": "\"Desinformação precisa ser combatida em conjunto\", propõe gerente da Rádio Guaíba na Federasul",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlVndUQ0aGFBWDNZc3d2aV9mYWNpY1JmVURkNGhwTkg4WWFId0tYTWF0RkJVUHU4c2twMkVKcjYzYWRWTXJ0WDBEcm5UUzlSd1M0YWYtU0xxWWtaNmFPendlR2pyX0lrRFQ4eWFkT3daQVh0a01NNDAtUFgtcEJVRmRTSTdhcVB6dWVZR3FfS2lNOGk3UFR6MmZfcVdwZEUtQU5yOU9tVXN2M3hQSkdNNlVrMTY?oc=5",
+      "fonte": "Rádio Guaíba",
+      "publicado_em": "2026-08-05T18:46:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "\"Desinformação precisa ser combatida em conjunto\", propõe gerente da Rádio Guaíba na Federasul Rádio Guaíba"
     }
   ],
   "noticias_home": [
@@ -396,24 +396,14 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "4b0eb5cbea65",
-      "titulo": "CEEE Equatorial leva serviços gratuitos para economia de energia e sorteio de 20 geladeiras para Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-leva-servicos-gratuitos-para-economia-de-energia-e-sorteio-de-20-geladeiras-para-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-11T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "E+ Comunidade estará na Subprefeitura de Pedras Brancas entre os dias 29 e 31 de julho com cadastro na Tarifa Social, troca de lâmpadas e..."
-    },
-    {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "1cf422762e78",
@@ -426,16 +416,6 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
-      "id": "1abd77fa27dd",
-      "titulo": "Paula Parolli apresenta trabalho de atualização do Plano Diretor de Guaíba no Rotary; Conferência será em outubro",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-trabalho-de-atualizacao-do-plano-diretor-de-guaiba-no-rotary-conferencia-sera-em-outubro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta também prevê a atualização do Código de Obras, Plano de Mobilidade e Lei de Parcelamento do Solo"
-    },
-    {
       "id": "777f86ec4825",
       "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
       "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
@@ -446,14 +426,34 @@
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
+      "id": "16fe33979805",
+      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     }
   ]
 }
