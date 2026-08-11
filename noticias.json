@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-11T18:59:47.849822+00:00",
+  "gerado_em": "2026-08-11T20:41:04.087345+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-11T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
-    },
-    {
       "id": "e37d22daa6a2",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
@@ -92,6 +82,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
+    },
+    {
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-11T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
       "id": "328a4ef216b4",
@@ -114,14 +114,14 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "821a278c8680",
@@ -134,14 +134,14 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "16fe33979805",
@@ -192,6 +192,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "RECORD Guaíba coloca as eleições de 2026 no centro do debate com entrevistas com candidatos ao Governo do RS R7"
+    },
+    {
+      "id": "3e966ba75d18",
+      "titulo": "ON LINE X GUAÍBA | Disputa Do 3º Lugar Da Copa Cláudio Braga De Voleibol Sub-16 Feminino 1º Divisão Al Nassar (0US89YUTUt)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlM1FHdXpiTDhrc2ZNWHBNSEpyZEVuYzVlb1dHTnpNSVJqRUhHa2g2ZFdvSERBbzBKcG1XVC1zbV8tV1gxcFRpQ2c3c1NYYXhMZElMTnR0ZU1yVk0?oc=5",
+      "fonte": "Mshale",
+      "publicado_em": "2026-08-10T21:46:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "ON LINE X GUAÍBA | Disputa Do 3º Lugar Da Copa Cláudio Braga De Voleibol Sub-16 Feminino 1º Divisão Al Nassar (0US89YUTUt) Mshale"
     },
     {
       "id": "7e498efc1bd9",
@@ -290,7 +300,7 @@
       "fonte": "Blog do Juares",
       "publicado_em": "2026-08-08T13:16:23+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Pontes e passarelas vão ser revitalizadas na BR-116 entre Camaquã e Guaíba Blog do Juares"
     },
     {
@@ -362,29 +372,9 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Navios de respeito atravessam o Guaíba Jornal do Comércio"
-    },
-    {
-      "id": "03de210691f7",
-      "titulo": "Pescadores relatam impactos da poluição no Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT2cyUEN2S0J5T18wcDlibnRUQnk1YWUyYkxOb094M2daaTZTam04MldvVU5VbWdiOFpVdWZxS0ZjZlhnbEhWQzNRSDJsOWNWU1FJcDRHdjJyUDNHTktaT1VBejZyNElNeG5SWjdDdzZmNGZrSVBFQVRnSjlDT0pOcnNnUkZJRzItVEh3SWxJRWhfY2wtWFhPVURCd0VObElUYXQ4NHYyZTNVVXR2YlF3ZV93WDg2eU1WMmc?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-08-05T19:53:01+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Pescadores relatam impactos da poluição no Guaíba GZH"
     }
   ],
   "noticias_home": [
-    {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-11T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
-    },
     {
       "id": "e37d22daa6a2",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
@@ -394,6 +384,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
+    },
+    {
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-11T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
       "id": "328a4ef216b4",
@@ -416,14 +416,14 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "821a278c8680",
@@ -436,14 +436,14 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "16fe33979805",
