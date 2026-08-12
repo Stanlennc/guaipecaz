@@ -5,13 +5,6 @@
 <description>Notícias de Guaíba e da Região Metropolitana de Porto Alegre</description>
 <language>pt-BR</language>
 <item>
-<title>Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba</title>
-<link>https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba</link>
-<guid>e37d22daa6a2</guid>
-<pubDate>2026-08-11T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha</title>
 <link>https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha</link>
 <guid>8a9e8f04364e</guid>
@@ -19,15 +12,10 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
-<title>Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário</title>
-<link>https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario</link>
-<guid>821a278c8680</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação</title>
-<link>https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude</link>
-<guid>777f86ec4825</guid>
+<title>Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba</title>
+<link>https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba</link>
+<guid>e37d22daa6a2</guid>
+<pubDate>2026-08-11T00:00:00+00:00</pubDate>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -43,9 +31,21 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
+<title>Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação</title>
+<link>https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude</link>
+<guid>777f86ec4825</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
 <title>Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura</title>
 <link>https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura</link>
 <guid>328a4ef216b4</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário</title>
+<link>https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario</link>
+<guid>821a278c8680</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -53,6 +53,13 @@
 <link>https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba</link>
 <guid>16fe33979805</guid>
 <source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Audiência Pública debate impactos da ampliação da CMPC e alerta para poluição do Guaíba</title>
+<link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZVA2aEpjVXRJYlpaaVZlUHcxYVNwdEdMQ0hDa0ZORmdIdENFR0NTTVY3aHA2clBVdkRZTTJyUkpsUGUwYl9adzJwR3BzYjBVMWdpelRQNDFpOWkzbVQ2bnhETXk4ZGtjVWpJR0xBdjJPQnEwMHFtZE1xa1pLa2cwTlNWSDVCU2RXYS14LV94OFF6dkpLcWUyLXdPLTZmRDd2N2JKRzA3UFFYM0lrTFlUOEtzOTJ6XzFxOWNlX0l1ZVhUYUt6SjlNdw?oc=5</link>
+<guid>6893df8a9e64</guid>
+<pubDate>2026-08-12T00:01:48+00:00</pubDate>
+<source>PT Assembleia RS</source>
 </item>
 <item>
 <title>Precariedade do Guaíba gera dúvidas sobre a nova fábrica da CMPC Celulose</title>
@@ -73,7 +80,7 @@
 <link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZXR6T01Ub3ozZ3lYZEs3b192XzBDeFQ2a1FwY2xyeVI2aktMQzJTM3RTN0dpVmN6bEpnbWlHM2Z2QVBsZE1TSnEyVG9ESjRLbXh1dHFQZ0xiam4wc2VqRk9OM1VVMlZLWUlMaU9ycEpIdXdQdDlDMUNLaDE5WlUzQ1VfdEZZeFBOZm1DZ0pwN2MweDJ6cXlRY2NzUXFCTWpzaDMtUVFoSDBQU2JaMDhqRElnYUpnZ2I4Yk0zdkgxMzRoa3BsZjdFM3ZRN1hHeGdaVU5FdFFERHlWbDdOMm51aVJXRjhNRjY3?oc=5</link>
 <guid>7a137ed9ea93</guid>
 <pubDate>2026-08-11T10:11:28+00:00</pubDate>
-<source>Correio do Povo</source>
+<source>correiodopovo.com.br</source>
 </item>
 <item>
 <title>RECORD Guaíba coloca as eleições de 2026 no centro do debate com entrevistas com candidatos ao Governo do RS</title>
@@ -87,21 +94,21 @@
 <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlM1FHdXpiTDhrc2ZNWHBNSEpyZEVuYzVlb1dHTnpNSVJqRUhHa2g2ZFdvSERBbzBKcG1XVC1zbV8tV1gxcFRpQ2c3c1NYYXhMZElMTnR0ZU1yVk0?oc=5</link>
 <guid>3e966ba75d18</guid>
 <pubDate>2026-08-10T21:46:00+00:00</pubDate>
-<source>Mshale</source>
+<source>mshale.com</source>
 </item>
 <item>
 <title>AO VIVO | UFSM X Guaíba Pela 2ª Rodada Da Copa Cláudio Braga Maxime Le Flaguais (j1DdrlOUW0)</title>
 <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE15ZHd0ZmdjaTN5cC1FaGNsR3o1TnhnRktQLTJBS2JoQ1E2TXgzbk50d1RwdWxrYW8yWFYtWkRrRTlGUlhTTTBCRkpVVndaRjFPRURqcUdwN0tzRVE?oc=5</link>
 <guid>7e498efc1bd9</guid>
 <pubDate>2026-08-10T18:43:29+00:00</pubDate>
-<source>Mshale</source>
+<source>mshale.com</source>
 </item>
 <item>
 <title>APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU)</title>
 <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ReVBXeEh4cUNsMnp2cXFoZ0ZxTmxpRUFWN3FFWnBwSHBUbFFmSlBwZ0VlSUZ6bzJxUEpCcXZzd29wZ1d4a0N0eWZxLUo1Wk84R1FHMGwtSzlpamM?oc=5</link>
 <guid>17396331a126</guid>
 <pubDate>2026-08-10T18:37:55+00:00</pubDate>
-<source>Mshale</source>
+<source>mshale.com</source>
 </item>
 <item>
 <title>Guaíba promove a 1ª edição da Feira Itinerante do Agro para fortalecer a agricultura familiar</title>
@@ -130,12 +137,5 @@
 <guid>1f315d93b32f</guid>
 <pubDate>2026-08-09T21:47:22+00:00</pubDate>
 <source>Jornal do Comércio</source>
-</item>
-<item>
-<title>Guaíba volta a ter cota de cheia com vento Sul do ar frio</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPeldQY242RjJDMHVCTDliU1VWWld2SVRWOTlYUU4tY1prMlZybExUS0pCVFo3Y0g2SFFKQ1V6Mm9PdGRkSDRTY2ZJeDRtLWwwdlVVRDlpNFJGdGIxYTg2aHBNQUJySzFvVW1EQ2ZiYVBsOW13V1ZqM0FtN2ttbl9OQVBYbw?oc=5</link>
-<guid>66413f43b4ae</guid>
-<pubDate>2026-08-09T15:58:23+00:00</pubDate>
-<source>MetSul Meteorologia</source>
 </item>
 </channel></rss>
