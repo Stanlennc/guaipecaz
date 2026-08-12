@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-12T04:06:02.815910+00:00",
+  "gerado_em": "2026-08-12T07:22:06.025622+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-12T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
-    },
-    {
       "id": "e37d22daa6a2",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
@@ -94,24 +84,14 @@
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-08-12T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
       "id": "821a278c8680",
@@ -134,6 +114,16 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
       "id": "328a4ef216b4",
       "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
@@ -144,6 +134,16 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+    },
+    {
       "id": "16fe33979805",
       "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
@@ -152,6 +152,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "17396331a126",
+      "titulo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ReVBXeEh4cUNsMnp2cXFoZ0ZxTmxpRUFWN3FFWnBwSHBUbFFmSlBwZ0VlSUZ6bzJxUEpCcXZzd29wZ1d4a0N0eWZxLUo1Wk84R1FHMGwtSzlpamM?oc=5",
+      "fonte": "Mshale",
+      "publicado_em": "2026-08-12T04:49:32+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU) Mshale"
     },
     {
       "id": "6893df8a9e64",
@@ -167,11 +177,11 @@
       "id": "44a865fadcfa",
       "titulo": "Precariedade do Guaíba gera dúvidas sobre a nova fábrica da CMPC Celulose",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1czM25RTmhWMnc1al9TNTR6bXVZTDBhaEdJaTNISnhKbDhjT3NFVHhDbFF5czlmNGNVeVh4cXRyNHRJczZJRFgwN0VQc0pPSlRmQlk0MjlBVjRjRHYxMG54emtkY2prY2tHeHUybHlYOExTVFFacGZUN3lEeHIzaDkxcmZhdU9MTUduVVl0aGdHRWlCdlNKdkZlU1d6c0UwWEtjY0pSb2hJeTQ3bVI1TGFIamluSEVyLUJPbDFxdw?oc=5",
-      "fonte": "Extra Classe",
+      "fonte": "extraclasse.org.br",
       "publicado_em": "2026-08-11T18:56:26+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Precariedade do Guaíba gera dúvidas sobre a nova fábrica da CMPC Celulose Extra Classe"
+      "resumo": "Precariedade do Guaíba gera dúvidas sobre a nova fábrica da CMPC Celulose extraclasse.org.br"
     },
     {
       "id": "ff69aec933ab",
@@ -207,31 +217,21 @@
       "id": "3e966ba75d18",
       "titulo": "ON LINE X GUAÍBA | Disputa Do 3º Lugar Da Copa Cláudio Braga De Voleibol Sub-16 Feminino 1º Divisão Al Nassar (0US89YUTUt)",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlM1FHdXpiTDhrc2ZNWHBNSEpyZEVuYzVlb1dHTnpNSVJqRUhHa2g2ZFdvSERBbzBKcG1XVC1zbV8tV1gxcFRpQ2c3c1NYYXhMZElMTnR0ZU1yVk0?oc=5",
-      "fonte": "mshale.com",
+      "fonte": "Mshale",
       "publicado_em": "2026-08-10T21:46:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "ON LINE X GUAÍBA | Disputa Do 3º Lugar Da Copa Cláudio Braga De Voleibol Sub-16 Feminino 1º Divisão Al Nassar (0US89YUTUt) mshale.com"
+      "resumo": "ON LINE X GUAÍBA | Disputa Do 3º Lugar Da Copa Cláudio Braga De Voleibol Sub-16 Feminino 1º Divisão Al Nassar (0US89YUTUt) Mshale"
     },
     {
       "id": "7e498efc1bd9",
       "titulo": "AO VIVO | UFSM X Guaíba Pela 2ª Rodada Da Copa Cláudio Braga Maxime Le Flaguais (j1DdrlOUW0)",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15ZHd0ZmdjaTN5cC1FaGNsR3o1TnhnRktQLTJBS2JoQ1E2TXgzbk50d1RwdWxrYW8yWFYtWkRrRTlGUlhTTTBCRkpVVndaRjFPRURqcUdwN0tzRVE?oc=5",
-      "fonte": "mshale.com",
+      "fonte": "Mshale",
       "publicado_em": "2026-08-10T18:43:29+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "AO VIVO | UFSM X Guaíba Pela 2ª Rodada Da Copa Cláudio Braga Maxime Le Flaguais (j1DdrlOUW0) mshale.com"
-    },
-    {
-      "id": "17396331a126",
-      "titulo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ReVBXeEh4cUNsMnp2cXFoZ0ZxTmxpRUFWN3FFWnBwSHBUbFFmSlBwZ0VlSUZ6bzJxUEpCcXZzd29wZ1d4a0N0eWZxLUo1Wk84R1FHMGwtSzlpamM?oc=5",
-      "fonte": "mshale.com",
-      "publicado_em": "2026-08-10T18:37:55+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU) mshale.com"
+      "resumo": "AO VIVO | UFSM X Guaíba Pela 2ª Rodada Da Copa Cláudio Braga Maxime Le Flaguais (j1DdrlOUW0) Mshale"
     },
     {
       "id": "aa62942513a4",
@@ -277,11 +277,11 @@
       "id": "66413f43b4ae",
       "titulo": "Guaíba volta a ter cota de cheia com vento Sul do ar frio",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeldQY242RjJDMHVCTDliU1VWWld2SVRWOTlYUU4tY1prMlZybExUS0pCVFo3Y0g2SFFKQ1V6Mm9PdGRkSDRTY2ZJeDRtLWwwdlVVRDlpNFJGdGIxYTg2aHBNQUJySzFvVW1EQ2ZiYVBsOW13V1ZqM0FtN2ttbl9OQVBYbw?oc=5",
-      "fonte": "metsul.com",
+      "fonte": "MetSul Meteorologia",
       "publicado_em": "2026-08-09T15:58:23+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Guaíba volta a ter cota de cheia com vento Sul do ar frio metsul.com"
+      "resumo": "Guaíba volta a ter cota de cheia com vento Sul do ar frio MetSul Meteorologia"
     },
     {
       "id": "25d13e590907",
@@ -297,11 +297,11 @@
       "id": "e216a2d5647f",
       "titulo": "Até churrasco a bordo: Itapuã, onde o Guaíba encontra a Lagoa dos Patos, torna-se reduto da pesca esportiva",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQUWNVOV9TMC1VcFpsbkZWdzEtdTBsaXljZ1hzUUppQ0prenNPMnUtNk12SEdTZHp2ZVJrTU9CS0Y3RXdzMU5zRjdyckhYRmd2TnBRenoxb1BCM2pyNEtoc19ieHN6WEloYjdNa3dsYzFNajNiSmJjMm1hNFoxNy1wYm1ObDh1WWtFS1ZmMUhrZGRmUlZvWXJ1R29aMDhxeVZkZXVEVFRvTi1wQUVZODdLNTdQWm53bFl0MmFEblZBbUljYkVUMG45VURxSS04bmNMQUxOVW9pUDJiRWVRWkFoblNHUGdfbmQyYUg1S3BtSzlqTlI1R0lRUFZyU3Z5R1hQR1dnU2o2anVzRzMxV2VFY01GcWRRTjNoOEVGanBqMS1CVE0?oc=5",
-      "fonte": "Diário Gaúcho",
+      "fonte": "diariogaucho.clicrbs.com.br",
       "publicado_em": "2026-08-09T14:07:52+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Até churrasco a bordo: Itapuã, onde o Guaíba encontra a Lagoa dos Patos, torna-se reduto da pesca esportiva Diário Gaúcho"
+      "resumo": "Até churrasco a bordo: Itapuã, onde o Guaíba encontra a Lagoa dos Patos, torna-se reduto da pesca esportiva diariogaucho.clicrbs.com.br"
     },
     {
       "id": "02a9ffe89672",
@@ -317,11 +317,11 @@
       "id": "7e3be68a3d82",
       "titulo": "Vento do ciclone interrompe baixa e causa subida temporária do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM3g1c3RpMFRZMnhfRy1WeDAyTUs4V3QzejdoNk16c2N3M3JRdHVLY3V5SG04SnREaU1NM2VFR0UtanJsYWdFQ0YzQVFwMkhhN2swNHpBbDFOckFIRjlhWkxucnZNVWo3ZzFhRHdqaEhtenVRbTU0Y3FPcXh1VGlvQjZFY2J3ZHNaZFBTTnl6ejRwOGM?oc=5",
-      "fonte": "metsul.com",
+      "fonte": "MetSul Meteorologia",
       "publicado_em": "2026-08-07T13:19:51+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Vento do ciclone interrompe baixa e causa subida temporária do Guaíba metsul.com"
+      "resumo": "Vento do ciclone interrompe baixa e causa subida temporária do Guaíba MetSul Meteorologia"
     },
     {
       "id": "343999217cfd",
@@ -376,16 +376,6 @@
   ],
   "noticias_home": [
     {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-12T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
-    },
-    {
       "id": "e37d22daa6a2",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
@@ -396,24 +386,14 @@
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-08-12T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
       "id": "821a278c8680",
@@ -436,6 +416,16 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
       "id": "328a4ef216b4",
       "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
@@ -444,6 +434,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "16fe33979805",
