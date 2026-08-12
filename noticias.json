@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-12T13:05:03.331356+00:00",
+  "gerado_em": "2026-08-12T14:55:17.320972+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,16 @@
   ],
   "noticias": [
     {
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-12T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
+    {
       "id": "e37d22daa6a2",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
@@ -84,14 +94,24 @@
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-12T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+    },
+    {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "328a4ef216b4",
@@ -114,16 +134,6 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
       "id": "1cf422762e78",
       "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
@@ -132,16 +142,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "16fe33979805",
@@ -177,11 +177,11 @@
       "id": "44a865fadcfa",
       "titulo": "Precariedade do Guaíba gera dúvidas sobre a nova fábrica da CMPC Celulose",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1czM25RTmhWMnc1al9TNTR6bXVZTDBhaEdJaTNISnhKbDhjT3NFVHhDbFF5czlmNGNVeVh4cXRyNHRJczZJRFgwN0VQc0pPSlRmQlk0MjlBVjRjRHYxMG54emtkY2prY2tHeHUybHlYOExTVFFacGZUN3lEeHIzaDkxcmZhdU9MTUduVVl0aGdHRWlCdlNKdkZlU1d6c0UwWEtjY0pSb2hJeTQ3bVI1TGFIamluSEVyLUJPbDFxdw?oc=5",
-      "fonte": "Extra Classe",
+      "fonte": "extraclasse.org.br",
       "publicado_em": "2026-08-11T18:56:26+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Precariedade do Guaíba gera dúvidas sobre a nova fábrica da CMPC Celulose Extra Classe"
+      "resumo": "Precariedade do Guaíba gera dúvidas sobre a nova fábrica da CMPC Celulose extraclasse.org.br"
     },
     {
       "id": "ff69aec933ab",
@@ -207,11 +207,11 @@
       "id": "917cd88306c2",
       "titulo": "RECORD Guaíba coloca as eleições de 2026 no centro do debate com entrevistas com candidatos ao Governo do RS",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQOEZ6MW5zMUNpMEFDTU8xd214NnNDT3NrXzdxbml2V0hkX0N5S0lZN1g0NFlCOGdIN21PWTlRMEl0Rkc3RHNNMTllRlNvaEVfNE51Slk1d1ZPWG9jbVBrZEcxMExiQk13dHlJOFliQV93MkFxRFhRYVhJNktLcjFFRS1UdDRQMV9EZjFqUFBCcGVvNlE4MmlyX21wMEhZeHNZTVlQb1VBNmRTU1J3NUZtZDdra0JKX3BSdE9iZk0yeEF5OUJZYm5PZVptc0t6YnhMc2dkQWk3M1pERTBJR1lLRXAxMHdrMEJ4RUp4Uklvc3ZqUjh5OXZGMUVZZTNULUN1S01JUTN3?oc=5",
-      "fonte": "R7",
+      "fonte": "record.r7.com",
       "publicado_em": "2026-08-10T22:34:51+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "RECORD Guaíba coloca as eleições de 2026 no centro do debate com entrevistas com candidatos ao Governo do RS R7"
+      "resumo": "RECORD Guaíba coloca as eleições de 2026 no centro do debate com entrevistas com candidatos ao Governo do RS record.r7.com"
     },
     {
       "id": "3e966ba75d18",
@@ -257,11 +257,11 @@
       "id": "47929e317a03",
       "titulo": "PRF prende 6 pessoas, incluindo 2 de Guaiba, apreende 500 canetas emagrecedoras, 700 cigarros eletrônicos e anabolizantes em Lajeado",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPaWw3VnVhYzZMY090dXp5U05KVE14cUtjQ0pSM1lzX3hSdXFmX2I0cmszMFJGMldvSFZjTnlWWjBHd0lHR1Z2SUlJUWM5OGtIa1NCZktpdno5X1dEdWRVYzF1N2ZVUDRWbWJMVlJIYUwzektHUWctWHpQSjlsUVF1MkhpS2d3Wm5SMFJlMnRMNmRTaEpQTGFINzh1aXY2dEFHd282RldxVnJ1RmxnRXUzWkhGMmtnaktiN3o5MDU2NmQ3Q25SaXdIRml2NURDaEpuZjhPQUlZbUgyWVExRlZPdVdzY1FLUzc2QTFwTVlPTTlULWNTYl9WNWpuZEdzTFFfQl8ydUJaSm9aQVVtYzZObEdVbw?oc=5",
-      "fonte": "portaldecamaqua.com.br",
+      "fonte": "Portal de Camaquã",
       "publicado_em": "2026-08-10T17:04:38+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "PRF prende 6 pessoas, incluindo 2 de Guaiba, apreende 500 canetas emagrecedoras, 700 cigarros eletrônicos e anabolizantes em Lajeado portaldecamaqua.com.br"
+      "resumo": "PRF prende 6 pessoas, incluindo 2 de Guaiba, apreende 500 canetas emagrecedoras, 700 cigarros eletrônicos e anabolizantes em Lajeado Portal de Camaquã"
     },
     {
       "id": "1f315d93b32f",
@@ -376,6 +376,16 @@
   ],
   "noticias_home": [
     {
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-12T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
+    {
       "id": "e37d22daa6a2",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
@@ -386,14 +396,24 @@
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-12T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+    },
+    {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "328a4ef216b4",
@@ -416,16 +436,6 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
       "id": "1cf422762e78",
       "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
@@ -434,16 +444,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "16fe33979805",
