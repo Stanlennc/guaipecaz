@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-13T16:54:45.936466+00:00",
+  "gerado_em": "2026-08-13T19:01:15.490381+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "e37d22daa6a2",
-      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-13T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
-    },
-    {
       "id": "8a9e8f04364e",
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
@@ -92,6 +82,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
+    {
+      "id": "e37d22daa6a2",
+      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-13T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
       "id": "328a4ef216b4",
@@ -114,14 +114,14 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "1cf422762e78",
@@ -134,14 +134,14 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "16fe33979805",
@@ -167,11 +167,11 @@
       "id": "6044876831d8",
       "titulo": "Rua Guaíba passa a ter sentido único no bairro Santana, em Varginha",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFRrNGFNcXFlakI4bEExM21hTWZIRkVHbk84TmtQMHpQN0lSemRwR2hKVHFDOHNuUDk1eGpES3JaNFdnaUc0NG42VFFLcXdpM1FSTmJpRUgxZndEYmJyTUF6QVM2Zm9mNktWUWF2c3NLWVVGWTFWR2x0N01TS1dNa1Y1OFhNS1FCalh0WXNZQ2NaRktvakpBajJ6NVI?oc=5",
-      "fonte": "blogdomadeira.com.br",
+      "fonte": "BLOG DO MADEIRA",
       "publicado_em": "2026-08-13T13:38:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Rua Guaíba passa a ter sentido único no bairro Santana, em Varginha blogdomadeira.com.br"
+      "resumo": "Rua Guaíba passa a ter sentido único no bairro Santana, em Varginha BLOG DO MADEIRA"
     },
     {
       "id": "28753d041133",
@@ -180,7 +180,7 @@
       "fonte": "Jornal O Sul",
       "publicado_em": "2026-08-13T12:39:10+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Polícia Rodoviária Federal apreende carga de iPhones avaliada em mais de R$ 5 milhões perto da ponte do Guaíba, em Porto Alegre Jornal O Sul"
     },
     {
@@ -217,11 +217,11 @@
       "id": "44a865fadcfa",
       "titulo": "Precariedade do Guaíba gera dúvidas sobre a nova fábrica da CMPC Celulose",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1czM25RTmhWMnc1al9TNTR6bXVZTDBhaEdJaTNISnhKbDhjT3NFVHhDbFF5czlmNGNVeVh4cXRyNHRJczZJRFgwN0VQc0pPSlRmQlk0MjlBVjRjRHYxMG54emtkY2prY2tHeHUybHlYOExTVFFacGZUN3lEeHIzaDkxcmZhdU9MTUduVVl0aGdHRWlCdlNKdkZlU1d6c0UwWEtjY0pSb2hJeTQ3bVI1TGFIamluSEVyLUJPbDFxdw?oc=5",
-      "fonte": "Extra Classe",
+      "fonte": "extraclasse.org.br",
       "publicado_em": "2026-08-11T18:56:26+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Precariedade do Guaíba gera dúvidas sobre a nova fábrica da CMPC Celulose Extra Classe"
+      "resumo": "Precariedade do Guaíba gera dúvidas sobre a nova fábrica da CMPC Celulose extraclasse.org.br"
     },
     {
       "id": "ff69aec933ab",
@@ -294,6 +294,16 @@
       "resumo": "Guaíba anuncia datas do Sarandeio Farroupilha 2026 expansao.co"
     },
     {
+      "id": "47929e317a03",
+      "titulo": "PRF prende 6 pessoas, incluindo 2 de Guaiba, apreende 500 canetas emagrecedoras, 700 cigarros eletrônicos e anabolizantes em Lajeado",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPaWw3VnVhYzZMY090dXp5U05KVE14cUtjQ0pSM1lzX3hSdXFmX2I0cmszMFJGMldvSFZjTnlWWjBHd0lHR1Z2SUlJUWM5OGtIa1NCZktpdno5X1dEdWRVYzF1N2ZVUDRWbWJMVlJIYUwzektHUWctWHpQSjlsUVF1MkhpS2d3Wm5SMFJlMnRMNmRTaEpQTGFINzh1aXY2dEFHd282RldxVnJ1RmxnRXUzWkhGMmtnaktiN3o5MDU2NmQ3Q25SaXdIRml2NURDaEpuZjhPQUlZbUgyWVExRlZPdVdzY1FLUzc2QTFwTVlPTTlULWNTYl9WNWpuZEdzTFFfQl8ydUJaSm9aQVVtYzZObEdVbw?oc=5",
+      "fonte": "Portal de Camaquã",
+      "publicado_em": "2026-08-10T17:04:38+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "PRF prende 6 pessoas, incluindo 2 de Guaiba, apreende 500 canetas emagrecedoras, 700 cigarros eletrônicos e anabolizantes em Lajeado Portal de Camaquã"
+    },
+    {
       "id": "1f315d93b32f",
       "titulo": "Embarcações no Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGRtUGZIZnRFZXhBbVlKQVk3SVhaQ2tBNEFORzVaZkRuSTI0aFlpZi1hdGdLY2ZydE9GTHdxWWJSdDlTa1VwM2VIak9FcDkzNlN6dWRjeTB5dlhpc0pkUGp3NmRhMkNtTlZDSHh2RFU3Q1ZYYU81UHBlSmozSllnTUF5M3ZZN2FwaWMxM2dZRWgyaWY0NGN1UGNScm1ZR3RYOGYw?oc=5",
@@ -354,37 +364,17 @@
       "resumo": "Vento do ciclone interrompe baixa e causa subida temporária do Guaíba metsul.com"
     },
     {
-      "id": "343999217cfd",
-      "titulo": "Guaíba realiza limpeza nas orlas com equipamentos do Programa Horas-Máquinas",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMzdJakMwWV83YXpqNkFqQmhFQUlYYzQ3TW8wTk5pc1FScmExYzViM0liNm4ySHdkOHBHNjF5cGVsc1dycHQwUjR6ZjhpVFJLWUNqYjJPTlpEUENJY0dCY1FVdGtmZFlxOE81WDFhUWNRVUdmYXBwRTNNN09aWjQzV09iSGdXQUdwUGJvdWRaLVhPbVR5V2tNOXBVZmVDdw?oc=5",
-      "fonte": "expansao.co",
-      "publicado_em": "2026-08-06T17:50:20+00:00",
+      "id": "7c26283cf184",
+      "titulo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVzV5RXpYOW9Ed1gwSU91SmRkOWwwX1A4Tm05X3l4RHNRTHl1SmN4Ny1vTGYxWUFvWFJMNmV6YkhHTVlpdGdHazdiYjZLMUVaR3kxZ2xuYVQzMnFLV1d5N3VGNXVIOENLdFU1VG9qNGZ1QWEzWU5DTF9mRk9FZFpQRFN4cmZKQzJzdXpWS1JlMXR6elEtVlBtUzU0YkxkYU1h?oc=5",
+      "fonte": "Agora RS",
+      "publicado_em": "2026-08-03T07:00:00+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba realiza limpeza nas orlas com equipamentos do Programa Horas-Máquinas expansao.co"
-    },
-    {
-      "id": "b8c567cbdfd1",
-      "titulo": "Interrupções no sistema de içamento da Ponte do Guaíba impactam tráfego fluvial e corredor logístico do RS",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTVhFa240bXJrOXZoRWRzVzZvQXRuQy1iX1VmdHNFTFp6N241U2JHN0lYWHA3TFRjUG9RYkNkS21jSW1nbENsUUZPMnF6WW9XUGgwYzk4OHJ1VGhzS0JYLTJIZTFRWHdKTVViMXhIV2UtQUNsNkdZcjhNOVIta19oZ0tGNnpyel9rdU9HUS1WWVFMYk55MzF4VktBY0p2OHIweTl1NTF0WFNBSjd5RHpBbUxBWFM4T19aWFlKOXp5M18tZmFIVDlLNEl0cW5IUklzSTZlTmlOSjhUUHZLNWc4R3pYaGxpTnBHOFNjZ2FNZU9reUJHU1lsXzJzb3E3amVW?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-08-06T17:26:36+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Interrupções no sistema de içamento da Ponte do Guaíba impactam tráfego fluvial e corredor logístico do RS Correio do Povo"
+      "feed": "google",
+      "resumo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba Agora RS"
     }
   ],
   "noticias_home": [
-    {
-      "id": "e37d22daa6a2",
-      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-13T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
-    },
     {
       "id": "8a9e8f04364e",
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
@@ -394,6 +384,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
+    {
+      "id": "e37d22daa6a2",
+      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-13T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
       "id": "328a4ef216b4",
@@ -416,14 +416,14 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "1cf422762e78",
@@ -436,14 +436,14 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "16fe33979805",
