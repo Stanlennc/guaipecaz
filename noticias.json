@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-13T13:06:07.618197+00:00",
+  "gerado_em": "2026-08-13T14:55:54.019106+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,34 +94,14 @@
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
-    },
-    {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "821a278c8680",
@@ -134,14 +114,34 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+    },
+    {
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "16fe33979805",
@@ -152,6 +152,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "6044876831d8",
+      "titulo": "Rua Guaíba passa a ter sentido único no bairro Santana, em Varginha",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFRrNGFNcXFlakI4bEExM21hTWZIRkVHbk84TmtQMHpQN0lSemRwR2hKVHFDOHNuUDk1eGpES3JaNFdnaUc0NG42VFFLcXdpM1FSTmJpRUgxZndEYmJyTUF6QVM2Zm9mNktWUWF2c3NLWVVGWTFWR2x0N01TS1dNa1Y1OFhNS1FCalh0WXNZQ2NaRktvakpBajJ6NVI?oc=5",
+      "fonte": "BLOG DO MADEIRA",
+      "publicado_em": "2026-08-13T13:38:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Rua Guaíba passa a ter sentido único no bairro Santana, em Varginha BLOG DO MADEIRA"
     },
     {
       "id": "28753d041133",
@@ -172,16 +182,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Do Caí ao Guaíba: Prova de que Desassoreamento pode agravar a próxima enchente luizmuller.com"
-    },
-    {
-      "id": "17396331a126",
-      "titulo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ReVBXeEh4cUNsMnp2cXFoZ0ZxTmxpRUFWN3FFWnBwSHBUbFFmSlBwZ0VlSUZ6bzJxUEpCcXZzd29wZ1d4a0N0eWZxLUo1Wk84R1FHMGwtSzlpamM?oc=5",
-      "fonte": "Mshale",
-      "publicado_em": "2026-08-12T04:49:32+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU) Mshale"
     },
     {
       "id": "6893df8a9e64",
@@ -227,11 +227,11 @@
       "id": "43518b75ba41",
       "titulo": "Domingues da Ponte do Guaíba (PODE) 20006: Candidato a Deputado Estadual no Rio Grande do Sul | Eleições 2026",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlhNUmZ2bldLd2ItMXpFOVc4cllRNHVzd2pXNmxmYmF6empPR25mSk9IX3I1aDgwYkpqSy1tMjVGNUtsVEloeEdJYTZSbDUwTE5Bc18yUEVLVHRPT0NTRkVVVmtLREpnRnN4RVhfTm9odnhYb01QWllNMklJaTNxOUlmNjVnTndhd2NzTEJUanlIYU0td0dQTG1sSlhSRXc2Mk1zOXloS0RCdlNmVklHdVVNZEttZw?oc=5",
-      "fonte": "Tribuna do Paraná",
+      "fonte": "tribunapr.com.br",
       "publicado_em": "2026-08-11T07:00:00+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Domingues da Ponte do Guaíba (PODE) 20006: Candidato a Deputado Estadual no Rio Grande do Sul | Eleições 2026 Tribuna do Paraná"
+      "resumo": "Domingues da Ponte do Guaíba (PODE) 20006: Candidato a Deputado Estadual no Rio Grande do Sul | Eleições 2026 tribunapr.com.br"
     },
     {
       "id": "917cd88306c2",
@@ -272,6 +272,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Guaíba promove a 1ª edição da Feira Itinerante do Agro para fortalecer a agricultura familiar expansao.co"
+    },
+    {
+      "id": "f394a1bebbb3",
+      "titulo": "Guaíba anuncia datas do Sarandeio Farroupilha 2026",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ia2k2UVRTU1VEYk1nX2xNUldHOFZTR3FCMUk2TnN6dUltS0tJYlZWTG1yRkctRTI2VlRlQ1JYVTh2S3JmN1FvZnN0dmJsU3Y3VlRrVUF2X3h3QWdwcnpmMjF1ME8tZWhpQzVZTUNvSVdJdFVOQ1VRR09Law?oc=5",
+      "fonte": "expansao.co",
+      "publicado_em": "2026-08-10T17:07:03+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba anuncia datas do Sarandeio Farroupilha 2026 expansao.co"
     },
     {
       "id": "1f315d93b32f",
@@ -354,24 +364,14 @@
       "resumo": "Interrupções no sistema de içamento da Ponte do Guaíba impactam tráfego fluvial e corredor logístico do RS Correio do Povo"
     },
     {
-      "id": "eb39759677b3",
-      "titulo": "Porto Alegre já recolheu mais de 440 toneladas de lixo deixado pela cheia do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZ05Fa3ZzeVlVeDdha2czX2pnTG1SU3BhMUhxSHdFVjlXclRiRkJQc2swQ2lDcVIzRm45OUlqd1I2MWh6bDY5RkJOczNaWUtGVzRnRVMxaThzOS1iQ19vZ2ltVHcwZi1mek1vVG01NTlKSjBHVzAwZDUzY1VfMjJBb1hadTVnSGU5TFg5MEVzeGM1YUdmWEVPUEVrTVV0MjBDTE5iZTJBci1MdDMyRkx5QkV3YW1laERqZWwxUVpoeWpicUR2bTRYaFBwWjZlZ1lrb2p2X2dncThBNDcyS2FSTXhoYUc1VDgydWNncDNsMnF6N2ZGdXc?oc=5",
-      "fonte": "terra.com.br",
-      "publicado_em": "2026-08-06T13:50:00+00:00",
+      "id": "a4ee42f726c3",
+      "titulo": "SESI/SENAI pode reforçar construção do ecossistema de inovação da Cidade Inteligente Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUmVFdWoteU1hdEhRN0R0OGZBcFU1YkJlOXVmelZjbXZJTVdrSXI0cXR0WjhuYnFiRmd1YlFGOWFjU01Gb2VkSU1oYTJqSWpIUnJVV0dBREhLMWVSZ0IwQzNsU09MY2Z1SVJyakZReW1FSmw1M2FwazJtWTN0ZVlGcEdXS2JjWXdMenhEX3c4eGdSYWhEVUFnZ2s0X19jVWp5d3NORmNhNWlHblBzdnNidFhCdXVmTWUzd0tjNFAyNXk2VUJzMTZwQnZhcTRBWVNrS2c?oc=5",
+      "fonte": "Portal Litoral Sul",
+      "publicado_em": "2026-08-03T17:14:56+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Porto Alegre já recolheu mais de 440 toneladas de lixo deixado pela cheia do Guaíba terra.com.br"
-    },
-    {
-      "id": "aa7feb05da20",
-      "titulo": "Guaíba: limpeza retira toneladas de resíduos trazidos pela chuva",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEI0X0I2NGlvZ3lTbGdsSDQtbGNjVG54TzJhMG1FV211QTJVRnRoUkZRbXJFQUpBV1ZwU2U4MHgwLW5VVFZTUjgyNEl3U0pJVS1STV8waUl2SlFVMWQ5OGZlOFdwYmRPZEtISjZ0N3FFWVRIaHZJTnhvWDlJZmtrRVc0SGVSY1JITjQ2Y3l0Y1YtNEQydXBGZlRnbkVwMWxNWXl3NWNFckRRbGFuOHdFZjBxVW1oVjV2UjJNdV9PWVlfMzR3Z3FMVnZRT2gtUQ?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-08-06T13:40:07+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba: limpeza retira toneladas de resíduos trazidos pela chuva R7"
+      "feed": "litoral",
+      "resumo": "SESI/SENAI pode reforçar construção do ecossistema de inovação da Cidade Inteligente Guaíba Portal Litoral Sul"
     }
   ],
   "noticias_home": [
@@ -396,34 +396,14 @@
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
-    },
-    {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "821a278c8680",
@@ -436,14 +416,34 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+    },
+    {
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "16fe33979805",
