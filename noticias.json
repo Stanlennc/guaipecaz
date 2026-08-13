@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-13T07:24:14.813033+00:00",
+  "gerado_em": "2026-08-13T09:10:08.378227+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -104,14 +104,14 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "777f86ec4825",
@@ -124,16 +124,6 @@
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
-    },
-    {
       "id": "328a4ef216b4",
       "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
@@ -142,6 +132,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "16fe33979805",
@@ -177,11 +177,11 @@
       "id": "6893df8a9e64",
       "titulo": "Audiência Pública debate impactos da ampliação da CMPC e alerta para poluição do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZVA2aEpjVXRJYlpaaVZlUHcxYVNwdEdMQ0hDa0ZORmdIdENFR0NTTVY3aHA2clBVdkRZTTJyUkpsUGUwYl9adzJwR3BzYjBVMWdpelRQNDFpOWkzbVQ2bnhETXk4ZGtjVWpJR0xBdjJPQnEwMHFtZE1xa1pLa2cwTlNWSDVCU2RXYS14LV94OFF6dkpLcWUyLXdPLTZmRDd2N2JKRzA3UFFYM0lrTFlUOEtzOTJ6XzFxOWNlX0l1ZVhUYUt6SjlNdw?oc=5",
-      "fonte": "PT Assembleia RS",
+      "fonte": "ptassembleiars.org.br",
       "publicado_em": "2026-08-12T00:01:48+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Audiência Pública debate impactos da ampliação da CMPC e alerta para poluição do Guaíba PT Assembleia RS"
+      "resumo": "Audiência Pública debate impactos da ampliação da CMPC e alerta para poluição do Guaíba ptassembleiars.org.br"
     },
     {
       "id": "44a865fadcfa",
@@ -212,16 +212,6 @@
       "categoria": null,
       "feed": "correio",
       "resumo": "Mesmo com assinatura de contrato, obras da Nova Ponte do Guaíba ainda não saíram do papel Correio do Povo"
-    },
-    {
-      "id": "43518b75ba41",
-      "titulo": "Domingues da Ponte do Guaíba (PODE) 20006: Candidato a Deputado Estadual no Rio Grande do Sul | Eleições 2026",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlhNUmZ2bldLd2ItMXpFOVc4cllRNHVzd2pXNmxmYmF6empPR25mSk9IX3I1aDgwYkpqSy1tMjVGNUtsVEloeEdJYTZSbDUwTE5Bc18yUEVLVHRPT0NTRkVVVmtLREpnRnN4RVhfTm9odnhYb01QWllNMklJaTNxOUlmNjVnTndhd2NzTEJUanlIYU0td0dQTG1sSlhSRXc2Mk1zOXloS0RCdlNmVklHdVVNZEttZw?oc=5",
-      "fonte": "Tribuna do Paraná",
-      "publicado_em": "2026-08-11T07:00:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Domingues da Ponte do Guaíba (PODE) 20006: Candidato a Deputado Estadual no Rio Grande do Sul | Eleições 2026 Tribuna do Paraná"
     },
     {
       "id": "917cd88306c2",
@@ -372,6 +362,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Guaíba: limpeza retira toneladas de resíduos trazidos pela chuva R7"
+    },
+    {
+      "id": "a4ee42f726c3",
+      "titulo": "SESI/SENAI pode reforçar construção do ecossistema de inovação da Cidade Inteligente Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUmVFdWoteU1hdEhRN0R0OGZBcFU1YkJlOXVmelZjbXZJTVdrSXI0cXR0WjhuYnFiRmd1YlFGOWFjU01Gb2VkSU1oYTJqSWpIUnJVV0dBREhLMWVSZ0IwQzNsU09MY2Z1SVJyakZReW1FSmw1M2FwazJtWTN0ZVlGcEdXS2JjWXdMenhEX3c4eGdSYWhEVUFnZ2s0X19jVWp5d3NORmNhNWlHblBzdnNidFhCdXVmTWUzd0tjNFAyNXk2VUJzMTZwQnZhcTRBWVNrS2c?oc=5",
+      "fonte": "Portal Litoral Sul",
+      "publicado_em": "2026-08-03T17:14:56+00:00",
+      "categoria": null,
+      "feed": "litoral",
+      "resumo": "SESI/SENAI pode reforçar construção do ecossistema de inovação da Cidade Inteligente Guaíba Portal Litoral Sul"
     }
   ],
   "noticias_home": [
@@ -406,14 +406,14 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "id": "1cf422762e78",
+      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "777f86ec4825",
@@ -426,16 +426,6 @@
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
-    },
-    {
       "id": "328a4ef216b4",
       "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
@@ -444,6 +434,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "16fe33979805",
