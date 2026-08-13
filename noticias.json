@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-13T10:59:50.659471+00:00",
+  "gerado_em": "2026-08-13T13:06:07.618197+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,16 +94,6 @@
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
-    },
-    {
       "id": "1cf422762e78",
       "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
@@ -124,14 +114,14 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "821a278c8680",
@@ -144,6 +134,16 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
       "id": "16fe33979805",
       "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
@@ -152,6 +152,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "28753d041133",
+      "titulo": "Polícia Rodoviária Federal apreende carga de iPhones avaliada em mais de R$ 5 milhões perto da ponte do Guaíba, em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaExXX2ZtVmJ4TUk3NXpkZUlZaG1YZEU2Q01xcExhYzhwRmVkN0JKZ3dYU0dWMU4wdkU5Zy1XZVdvYnNSRFRyWTQtMV9tUUtraVVPMGhGQ1FPeTRtRGtyYkZNMDBhNi1DRXgzRkVuSEdfSU85QmdGcnBCeV9OY2lMYVEtbXdNSk9CTHNoX0x1Sm14U3Y5M0FJdUZJZ0dhWnk0YlgtaDVFU3kyRlcySVBvTndKWFZjbHkxVFZ6eEREa3NtQWZVT2VrdzJwLUxhWUtvUkdvTXRadGlDTUtreHFjNnBnSTXSAeoBQVVfeXFMTU1URTRtNnBvQS1OOE44UVhWcU9jcnV2VWhjc044bkczMXhQMGM4bUVMRUtVS01GbW9pUmZxNHZRQmQ4ZVowRnJqU1FVRjdNYXpfc2J5MmticU9qV3JqS085MWF2SldJVXZGaUhqV09rQ1cxU3NuUFhJNTlBaVgzSEdETzBQM3VobnNmTnlPX1hRY0dlMUlNaG4yN0tKUERtTkZxamhsYXdZNTdpMkZTZHc1NkNjVXF3MlVvaUlkbW01VVhpTURxOVl4ZXdWNVlGQWtQcktJRE1OTVBNTU9pRHNpMlhtMF9mZHlR?oc=5",
+      "fonte": "Jornal O Sul",
+      "publicado_em": "2026-08-13T12:39:10+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Polícia Rodoviária Federal apreende carga de iPhones avaliada em mais de R$ 5 milhões perto da ponte do Guaíba, em Porto Alegre Jornal O Sul"
     },
     {
       "id": "007c56c48186",
@@ -264,16 +274,6 @@
       "resumo": "Guaíba promove a 1ª edição da Feira Itinerante do Agro para fortalecer a agricultura familiar expansao.co"
     },
     {
-      "id": "47929e317a03",
-      "titulo": "PRF prende 6 pessoas, incluindo 2 de Guaiba, apreende 500 canetas emagrecedoras, 700 cigarros eletrônicos e anabolizantes em Lajeado",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPaWw3VnVhYzZMY090dXp5U05KVE14cUtjQ0pSM1lzX3hSdXFmX2I0cmszMFJGMldvSFZjTnlWWjBHd0lHR1Z2SUlJUWM5OGtIa1NCZktpdno5X1dEdWRVYzF1N2ZVUDRWbWJMVlJIYUwzektHUWctWHpQSjlsUVF1MkhpS2d3Wm5SMFJlMnRMNmRTaEpQTGFINzh1aXY2dEFHd282RldxVnJ1RmxnRXUzWkhGMmtnaktiN3o5MDU2NmQ3Q25SaXdIRml2NURDaEpuZjhPQUlZbUgyWVExRlZPdVdzY1FLUzc2QTFwTVlPTTlULWNTYl9WNWpuZEdzTFFfQl8ydUJaSm9aQVVtYzZObEdVbw?oc=5",
-      "fonte": "Portal de Camaquã",
-      "publicado_em": "2026-08-10T17:04:38+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "PRF prende 6 pessoas, incluindo 2 de Guaiba, apreende 500 canetas emagrecedoras, 700 cigarros eletrônicos e anabolizantes em Lajeado Portal de Camaquã"
-    },
-    {
       "id": "1f315d93b32f",
       "titulo": "Embarcações no Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGRtUGZIZnRFZXhBbVlKQVk3SVhaQ2tBNEFORzVaZkRuSTI0aFlpZi1hdGdLY2ZydE9GTHdxWWJSdDlTa1VwM2VIak9FcDkzNlN6dWRjeTB5dlhpc0pkUGp3NmRhMkNtTlZDSHh2RFU3Q1ZYYU81UHBlSmozSllnTUF5M3ZZN2FwaWMxM2dZRWgyaWY0NGN1UGNScm1ZR3RYOGYw?oc=5",
@@ -307,11 +307,11 @@
       "id": "e216a2d5647f",
       "titulo": "Até churrasco a bordo: Itapuã, onde o Guaíba encontra a Lagoa dos Patos, torna-se reduto da pesca esportiva",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQUWNVOV9TMC1VcFpsbkZWdzEtdTBsaXljZ1hzUUppQ0prenNPMnUtNk12SEdTZHp2ZVJrTU9CS0Y3RXdzMU5zRjdyckhYRmd2TnBRenoxb1BCM2pyNEtoc19ieHN6WEloYjdNa3dsYzFNajNiSmJjMm1hNFoxNy1wYm1ObDh1WWtFS1ZmMUhrZGRmUlZvWXJ1R29aMDhxeVZkZXVEVFRvTi1wQUVZODdLNTdQWm53bFl0MmFEblZBbUljYkVUMG45VURxSS04bmNMQUxOVW9pUDJiRWVRWkFoblNHUGdfbmQyYUg1S3BtSzlqTlI1R0lRUFZyU3Z5R1hQR1dnU2o2anVzRzMxV2VFY01GcWRRTjNoOEVGanBqMS1CVE0?oc=5",
-      "fonte": "diariogaucho.clicrbs.com.br",
+      "fonte": "Diário Gaúcho",
       "publicado_em": "2026-08-09T14:07:52+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Até churrasco a bordo: Itapuã, onde o Guaíba encontra a Lagoa dos Patos, torna-se reduto da pesca esportiva diariogaucho.clicrbs.com.br"
+      "resumo": "Até churrasco a bordo: Itapuã, onde o Guaíba encontra a Lagoa dos Patos, torna-se reduto da pesca esportiva Diário Gaúcho"
     },
     {
       "id": "02a9ffe89672",
@@ -357,11 +357,11 @@
       "id": "eb39759677b3",
       "titulo": "Porto Alegre já recolheu mais de 440 toneladas de lixo deixado pela cheia do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZ05Fa3ZzeVlVeDdha2czX2pnTG1SU3BhMUhxSHdFVjlXclRiRkJQc2swQ2lDcVIzRm45OUlqd1I2MWh6bDY5RkJOczNaWUtGVzRnRVMxaThzOS1iQ19vZ2ltVHcwZi1mek1vVG01NTlKSjBHVzAwZDUzY1VfMjJBb1hadTVnSGU5TFg5MEVzeGM1YUdmWEVPUEVrTVV0MjBDTE5iZTJBci1MdDMyRkx5QkV3YW1laERqZWwxUVpoeWpicUR2bTRYaFBwWjZlZ1lrb2p2X2dncThBNDcyS2FSTXhoYUc1VDgydWNncDNsMnF6N2ZGdXc?oc=5",
-      "fonte": "Terra",
+      "fonte": "terra.com.br",
       "publicado_em": "2026-08-06T13:50:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Porto Alegre já recolheu mais de 440 toneladas de lixo deixado pela cheia do Guaíba Terra"
+      "resumo": "Porto Alegre já recolheu mais de 440 toneladas de lixo deixado pela cheia do Guaíba terra.com.br"
     },
     {
       "id": "aa7feb05da20",
@@ -396,16 +396,6 @@
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
-    },
-    {
       "id": "1cf422762e78",
       "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
@@ -426,14 +416,14 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "821a278c8680",
@@ -444,6 +434,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+    },
+    {
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "16fe33979805",
