@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-14T01:48:07.647435+00:00",
+  "gerado_em": "2026-08-14T04:07:04.393741+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -78,7 +78,7 @@
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-13T00:00:00+00:00",
+      "publicado_em": "2026-08-14T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
@@ -88,7 +88,7 @@
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-13T00:00:00+00:00",
+      "publicado_em": "2026-08-14T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
@@ -104,14 +104,14 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "328a4ef216b4",
@@ -124,16 +124,6 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
       "id": "df37597c9344",
       "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
       "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
@@ -142,6 +132,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "16fe33979805",
@@ -214,26 +214,6 @@
       "resumo": "Do Caí ao Guaíba: Prova de que Desassoreamento pode agravar a próxima enchente luizmuller.com"
     },
     {
-      "id": "43518b75ba41",
-      "titulo": "Domingues da Ponte do Guaíba (PODE) 20006: Candidato a Deputado Estadual no Rio Grande do Sul | Eleições 2026",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlhNUmZ2bldLd2ItMXpFOVc4cllRNHVzd2pXNmxmYmF6empPR25mSk9IX3I1aDgwYkpqSy1tMjVGNUtsVEloeEdJYTZSbDUwTE5Bc18yUEVLVHRPT0NTRkVVVmtLREpnRnN4RVhfTm9odnhYb01QWllNMklJaTNxOUlmNjVnTndhd2NzTEJUanlIYU0td0dQTG1sSlhSRXc2Mk1zOXloS0RCdlNmVklHdVVNZEttZw?oc=5",
-      "fonte": "tribunapr.com.br",
-      "publicado_em": "2026-08-12T14:09:50+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Domingues da Ponte do Guaíba (PODE) 20006: Candidato a Deputado Estadual no Rio Grande do Sul | Eleições 2026 tribunapr.com.br"
-    },
-    {
-      "id": "17396331a126",
-      "titulo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ReVBXeEh4cUNsMnp2cXFoZ0ZxTmxpRUFWN3FFWnBwSHBUbFFmSlBwZ0VlSUZ6bzJxUEpCcXZzd29wZ1d4a0N0eWZxLUo1Wk84R1FHMGwtSzlpamM?oc=5",
-      "fonte": "Mshale",
-      "publicado_em": "2026-08-12T04:49:32+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU) Mshale"
-    },
-    {
       "id": "6893df8a9e64",
       "titulo": "Audiência Pública debate impactos da ampliação da CMPC e alerta para poluição do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZVA2aEpjVXRJYlpaaVZlUHcxYVNwdEdMQ0hDa0ZORmdIdENFR0NTTVY3aHA2clBVdkRZTTJyUkpsUGUwYl9adzJwR3BzYjBVMWdpelRQNDFpOWkzbVQ2bnhETXk4ZGtjVWpJR0xBdjJPQnEwMHFtZE1xa1pLa2cwTlNWSDVCU2RXYS14LV94OFF6dkpLcWUyLXdPLTZmRDd2N2JKRzA3UFFYM0lrTFlUOEtzOTJ6XzFxOWNlX0l1ZVhUYUt6SjlNdw?oc=5",
@@ -264,6 +244,16 @@
       "resumo": "Mesmo com assinatura de contrato, obras da Nova Ponte do Guaíba ainda não saíram do papel Correio do Povo"
     },
     {
+      "id": "43518b75ba41",
+      "titulo": "Domingues da Ponte do Guaíba (PODE) 20006: Candidato a Deputado Estadual no Rio Grande do Sul | Eleições 2026",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlhNUmZ2bldLd2ItMXpFOVc4cllRNHVzd2pXNmxmYmF6empPR25mSk9IX3I1aDgwYkpqSy1tMjVGNUtsVEloeEdJYTZSbDUwTE5Bc18yUEVLVHRPT0NTRkVVVmtLREpnRnN4RVhfTm9odnhYb01QWllNMklJaTNxOUlmNjVnTndhd2NzTEJUanlIYU0td0dQTG1sSlhSRXc2Mk1zOXloS0RCdlNmVklHdVVNZEttZw?oc=5",
+      "fonte": "Tribuna do Paraná",
+      "publicado_em": "2026-08-11T07:00:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Domingues da Ponte do Guaíba (PODE) 20006: Candidato a Deputado Estadual no Rio Grande do Sul | Eleições 2026 Tribuna do Paraná"
+    },
+    {
       "id": "917cd88306c2",
       "titulo": "RECORD Guaíba coloca as eleições de 2026 no centro do debate com entrevistas com candidatos ao Governo do RS",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQOEZ6MW5zMUNpMEFDTU8xd214NnNDT3NrXzdxbml2V0hkX0N5S0lZN1g0NFlCOGdIN21PWTlRMEl0Rkc3RHNNMTllRlNvaEVfNE51Slk1d1ZPWG9jbVBrZEcxMExiQk13dHlJOFliQV93MkFxRFhRYVhJNktLcjFFRS1UdDRQMV9EZjFqUFBCcGVvNlE4MmlyX21wMEhZeHNZTVlQb1VBNmRTU1J3NUZtZDdra0JKX3BSdE9iZk0yeEF5OUJZYm5PZVptc0t6YnhMc2dkQWk3M1pERTBJR1lLRXAxMHdrMEJ4RUp4Uklvc3ZqUjh5OXZGMUVZZTNULUN1S01JUTN3?oc=5",
@@ -274,14 +264,14 @@
       "resumo": "RECORD Guaíba coloca as eleições de 2026 no centro do debate com entrevistas com candidatos ao Governo do RS R7"
     },
     {
-      "id": "7e498efc1bd9",
-      "titulo": "AO VIVO | UFSM X Guaíba Pela 2ª Rodada Da Copa Cláudio Braga Maxime Le Flaguais (j1DdrlOUW0)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15ZHd0ZmdjaTN5cC1FaGNsR3o1TnhnRktQLTJBS2JoQ1E2TXgzbk50d1RwdWxrYW8yWFYtWkRrRTlGUlhTTTBCRkpVVndaRjFPRURqcUdwN0tzRVE?oc=5",
+      "id": "3e966ba75d18",
+      "titulo": "ON LINE X GUAÍBA | Disputa Do 3º Lugar Da Copa Cláudio Braga De Voleibol Sub-16 Feminino 1º Divisão Al Nassar (0US89YUTUt)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlM1FHdXpiTDhrc2ZNWHBNSEpyZEVuYzVlb1dHTnpNSVJqRUhHa2g2ZFdvSERBbzBKcG1XVC1zbV8tV1gxcFRpQ2c3c1NYYXhMZElMTnR0ZU1yVk0?oc=5",
       "fonte": "Mshale",
-      "publicado_em": "2026-08-10T18:43:29+00:00",
+      "publicado_em": "2026-08-10T21:46:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "AO VIVO | UFSM X Guaíba Pela 2ª Rodada Da Copa Cláudio Braga Maxime Le Flaguais (j1DdrlOUW0) Mshale"
+      "resumo": "ON LINE X GUAÍBA | Disputa Do 3º Lugar Da Copa Cláudio Braga De Voleibol Sub-16 Feminino 1º Divisão Al Nassar (0US89YUTUt) Mshale"
     },
     {
       "id": "aa62942513a4",
@@ -372,6 +362,16 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba Agora RS"
+    },
+    {
+      "id": "b19e1f2814df",
+      "titulo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOekhWLTE1VHZxRHpMR0V3bDI2N19ENGtIZ0ZpNkYwaHlreWpzaldXcnVkcEIzRm51Yk8tRXNGNkZpRG1uWUwwRWl1VmFDVVRwcGloVV9qd3FSWktmMEtjb2JzWkhlTlliTGtISXBmTmUxT0M5N0pEWU9tSVRQMUZfOTZram5wMm5GMm1kVGNXY0xtcHhyOVlPWFl6Uy1iSW45X25fbERmbVFiRVdmcDB0TEtLbnMtaDQ3WVRQWmtUdHRaeFAyaXFzNkgyVzE2aVZMZGpZODZqQjRjeVUtTS1VZ0sxdTFLamRLMTdHVg?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-03T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias Correio do Povo"
     }
   ],
   "noticias_home": [
@@ -380,7 +380,7 @@
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-13T00:00:00+00:00",
+      "publicado_em": "2026-08-14T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
@@ -390,7 +390,7 @@
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-13T00:00:00+00:00",
+      "publicado_em": "2026-08-14T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
@@ -406,14 +406,14 @@
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "328a4ef216b4",
@@ -426,16 +426,6 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
       "id": "df37597c9344",
       "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
       "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
@@ -444,6 +434,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "16fe33979805",
