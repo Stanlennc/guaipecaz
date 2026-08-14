@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-14T20:28:42.458104+00:00",
+  "gerado_em": "2026-08-14T22:20:26.675621+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "e37d22daa6a2",
-      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-14T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
-    },
-    {
       "id": "8a9e8f04364e",
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
@@ -92,6 +82,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
+    {
+      "id": "e37d22daa6a2",
+      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-14T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
       "id": "328a4ef216b4",
@@ -104,14 +104,14 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "777f86ec4825",
@@ -124,14 +124,14 @@
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "1cf422762e78",
@@ -152,6 +152,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "bc217f7d9d3a",
+      "titulo": "Praça do Guaíba recebe o Circuito Hip Hop pelas Comunidades no domingo (23/08)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yN0JfalY3ZjVWQjNOb090OEREdERGMXNMOUJHQzJaOG1HWFdhZGNFMHJZUzNXUGpuOHNURjgxNkh5OEc2VkVNc1JnN2dkZlhQejd3WUFxdGV6QnNTSWprbXl5VHV0Tlg0V20tejFPV1J3RlFqdm5WWEctREFsQQ?oc=5",
+      "fonte": "Agenda Sorocaba",
+      "publicado_em": "2026-08-14T21:10:55+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Praça do Guaíba recebe o Circuito Hip Hop pelas Comunidades no domingo (23/08) Agenda Sorocaba"
     },
     {
       "id": "e20cb8308534",
@@ -187,11 +197,11 @@
       "id": "bee3557afec5",
       "titulo": "Rua Guaíba passa a ter sentido único no Bairro Santana em Varginha",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWUZWczQ4WWJmTU16Y0dweVhfMkg5eHZMT2tiUGZXbTFJRzZhdTZVYWdHbFBwSi1FZkgyUmgxMVpHOVUwYnBJaXNvbVhKWHRsblN4MkZES3RDU041UUU0M0hrZldXSFFlT2lzb01ZWnptUUF3RXhybG1lTFRieW14MEJFLWNHcTBLeEZqS19RUG0?oc=5",
-      "fonte": "varginhaonline.com.br",
+      "fonte": "Varginha Online",
       "publicado_em": "2026-08-13T19:43:56+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Rua Guaíba passa a ter sentido único no Bairro Santana em Varginha varginhaonline.com.br"
+      "resumo": "Rua Guaíba passa a ter sentido único no Bairro Santana em Varginha Varginha Online"
     },
     {
       "id": "977f3d0973dd",
@@ -247,11 +257,11 @@
       "id": "6893df8a9e64",
       "titulo": "Audiência Pública debate impactos da ampliação da CMPC e alerta para poluição do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZVA2aEpjVXRJYlpaaVZlUHcxYVNwdEdMQ0hDa0ZORmdIdENFR0NTTVY3aHA2clBVdkRZTTJyUkpsUGUwYl9adzJwR3BzYjBVMWdpelRQNDFpOWkzbVQ2bnhETXk4ZGtjVWpJR0xBdjJPQnEwMHFtZE1xa1pLa2cwTlNWSDVCU2RXYS14LV94OFF6dkpLcWUyLXdPLTZmRDd2N2JKRzA3UFFYM0lrTFlUOEtzOTJ6XzFxOWNlX0l1ZVhUYUt6SjlNdw?oc=5",
-      "fonte": "PT Assembleia RS",
+      "fonte": "ptassembleiars.org.br",
       "publicado_em": "2026-08-12T00:01:48+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Audiência Pública debate impactos da ampliação da CMPC e alerta para poluição do Guaíba PT Assembleia RS"
+      "resumo": "Audiência Pública debate impactos da ampliação da CMPC e alerta para poluição do Guaíba ptassembleiars.org.br"
     },
     {
       "id": "44a865fadcfa",
@@ -327,11 +337,21 @@
       "id": "92b572cfbcc6",
       "titulo": "Até churrasco a bordo: Itapuã, onde o Guaíba encontra a Lagoa dos Patos, torna-se reduto da pesca esportiva",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNTmFaR0liZ0JQeE13R3htUERtNXRHTW9XTG5YZlR3ODNPSXNucVRmWGt5WlBfSWIxa3Mtc3lrZkc1WjdtaVJtcEFHNVdlR1NFZFY0d21icVc0OURJM3RLNWpRQ3JGV1E5cFlaOWs0dG40bkdqMEh1WTdKcDNMazEzNTEybjl6MXVSVEUyOG12OEt3cTRyZU50Si1jTjVIM1VOcU1VRWVTdmw0b09qRGdKZ19HOVc5R1Q0MGdvcnd5STFObExiLUpqZktiOFg4NzJTNnFBcDduZHZzUWtmQVlVVnNiT3hEeU1RanIxZ1NWaWwxb1otUldmS3ZPYm9pa0p1bnNjVHNQQmR6OTJaMjI1YlhjVUJVMjRrMWV2Wmh4cHQ2RWs?oc=5",
-      "fonte": "gauchazh.clicrbs.com.br",
+      "fonte": "GZH",
       "publicado_em": "2026-08-08T09:47:32+00:00",
       "categoria": null,
-      "feed": "gzh_metro",
-      "resumo": "Até churrasco a bordo: Itapuã, onde o Guaíba encontra a Lagoa dos Patos, torna-se reduto da pesca esportiva gauchazh.clicrbs.com.br"
+      "feed": "recentes",
+      "resumo": "Até churrasco a bordo: Itapuã, onde o Guaíba encontra a Lagoa dos Patos, torna-se reduto da pesca esportiva GZH"
+    },
+    {
+      "id": "7c26283cf184",
+      "titulo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVzV5RXpYOW9Ed1gwSU91SmRkOWwwX1A4Tm05X3l4RHNRTHl1SmN4Ny1vTGYxWUFvWFJMNmV6YkhHTVlpdGdHazdiYjZLMUVaR3kxZ2xuYVQzMnFLV1d5N3VGNXVIOENLdFU1VG9qNGZ1QWEzWU5DTF9mRk9FZFpQRFN4cmZKQzJzdXpWS1JlMXR6elEtVlBtUzU0YkxkYU1h?oc=5",
+      "fonte": "Agora RS",
+      "publicado_em": "2026-08-03T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba Agora RS"
     },
     {
       "id": "b19e1f2814df",
@@ -352,39 +372,9 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS Diário Gaúcho"
-    },
-    {
-      "id": "57a31105eb68",
-      "titulo": "Veículos da Toyota colocam Guaíba na liderança das importações gaúchas",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMjlYb3RtYjctVW0yRW1vYkNCWFZPeTQzVjZPeVlkQTBwTGpvU1lWV2JUaW54VUJZZV9sUGh5Y3FucEtKRjBXOERCMzhybWJaTTRFQTdrUC1IYW1WLTNlSWlPVUZPVkNxeG5ZUVJqUXZDMWVJTnZmdlFPaHg1dGw2VHdNVVhyblpoSEpUdmh0X2IyNldYRXMxcEJnSGdMaFJLMlZrOUZrNDVSRUw3Q0ZvZFdyMnVqQkZjNmpneENSSF82R0Q1bUkyeV9QYl8wTDRZVG1IancyemZNT3RXNFBHWVJORjg?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-07-31T16:25:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Veículos da Toyota colocam Guaíba na liderança das importações gaúchas Jornal do Comércio"
-    },
-    {
-      "id": "9ebea552fc10",
-      "titulo": "Guaíba atinge cota de alerta em Porto Alegre, e seis rios permanecem em nível de inundação no RS",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQlg0MDY0ejQwR25fSFpIS0NtV3ZKaTVadVpMNFIxTDNrUFc5Z21uWHVSVzh4Tm9xOXJTd2plbFRQWDV4cHlrMnZwLTFDRFJCYXp6ZFFPZFV4R2lTNmpNZXdYWHNkajdoV3RnRnRXT2RoWm9UNDJib1FyY25mc0loWU80ZkJmemZYejZSTm1TV0lOc0FXRHc5eXF6b3hEbWRQT2U5OHlUUXl0cnc3aDhST0FKNjRmdGpfZVlYTnQyMEN0b3FRaFdkdm1HRklHOEF5QWxDVjAwRmlIbmVZZXNsUGRxTWFkSEtfUmxfdUljZXJzQS1uSWFpa2I1SW9MalFvQk5tSW82dE44T1JHYWtPVEV1UXdXREU?oc=5",
-      "fonte": "Diário Gaúcho",
-      "publicado_em": "2026-07-31T13:24:07+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Guaíba atinge cota de alerta em Porto Alegre, e seis rios permanecem em nível de inundação no RS Diário Gaúcho"
     }
   ],
   "noticias_home": [
-    {
-      "id": "e37d22daa6a2",
-      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-14T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
-    },
     {
       "id": "8a9e8f04364e",
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
@@ -394,6 +384,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
+    {
+      "id": "e37d22daa6a2",
+      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-14T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
       "id": "328a4ef216b4",
@@ -406,14 +406,14 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "777f86ec4825",
@@ -426,14 +426,14 @@
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "1cf422762e78",
