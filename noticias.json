@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-14T16:51:18.103706+00:00",
+  "gerado_em": "2026-08-14T18:51:24.238515+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,6 +94,16 @@
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+    },
+    {
       "id": "1cf422762e78",
       "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
@@ -102,16 +112,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
-    },
-    {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "df37597c9344",
@@ -134,14 +134,14 @@
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "16fe33979805",
@@ -157,11 +157,11 @@
       "id": "75221fb54c53",
       "titulo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa2c5Rm1ka1FHaDJHUzdLMWR4TjhTZGUxTlVpRFFoQTI3NUJtRko1Mng1Q2d4THFXTWxPQTdzWGVZazFzS1F1Qy1mZmN4LWZ6TXhlUW5Ka2lVVmlHUF9CTEZYNkZheGl5SEFEMVFXOTVtZTdZRWkyQmRxYk5SUElFQ0NjZGZsVHhibzAyNHQxb1ljSnZEY29wR0lMdFdPVmM3NndUOTNidkQwSUxCeG9MZGQtU3dYSC1VZDI3UllSX3ZfRGdnUV93?oc=5",
-      "fonte": "jornaldacapital.com.br",
+      "fonte": "Jornal da Capital",
       "publicado_em": "2026-08-14T16:22:52+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba jornaldacapital.com.br"
+      "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba Jornal da Capital"
     },
     {
       "id": "be9e93cfa7e8",
@@ -217,11 +217,11 @@
       "id": "28753d041133",
       "titulo": "Polícia Rodoviária Federal apreende carga de iPhones avaliada em mais de R$ 5 milhões perto da ponte do Guaíba, em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaExXX2ZtVmJ4TUk3NXpkZUlZaG1YZEU2Q01xcExhYzhwRmVkN0JKZ3dYU0dWMU4wdkU5Zy1XZVdvYnNSRFRyWTQtMV9tUUtraVVPMGhGQ1FPeTRtRGtyYkZNMDBhNi1DRXgzRkVuSEdfSU85QmdGcnBCeV9OY2lMYVEtbXdNSk9CTHNoX0x1Sm14U3Y5M0FJdUZJZ0dhWnk0YlgtaDVFU3kyRlcySVBvTndKWFZjbHkxVFZ6eEREa3NtQWZVT2VrdzJwLUxhWUtvUkdvTXRadGlDTUtreHFjNnBnSTXSAeoBQVVfeXFMTU1URTRtNnBvQS1OOE44UVhWcU9jcnV2VWhjc044bkczMXhQMGM4bUVMRUtVS01GbW9pUmZxNHZRQmQ4ZVowRnJqU1FVRjdNYXpfc2J5MmticU9qV3JqS085MWF2SldJVXZGaUhqV09rQ1cxU3NuUFhJNTlBaVgzSEdETzBQM3VobnNmTnlPX1hRY0dlMUlNaG4yN0tKUERtTkZxamhsYXdZNTdpMkZTZHc1NkNjVXF3MlVvaUlkbW01VVhpTURxOVl4ZXdWNVlGQWtQcktJRE1OTVBNTU9pRHNpMlhtMF9mZHlR?oc=5",
-      "fonte": "Jornal O Sul",
+      "fonte": "osul.com.br",
       "publicado_em": "2026-08-13T12:39:10+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Polícia Rodoviária Federal apreende carga de iPhones avaliada em mais de R$ 5 milhões perto da ponte do Guaíba, em Porto Alegre Jornal O Sul"
+      "feed": "vizinhos",
+      "resumo": "Polícia Rodoviária Federal apreende carga de iPhones avaliada em mais de R$ 5 milhões perto da ponte do Guaíba, em Porto Alegre osul.com.br"
     },
     {
       "id": "007c56c48186",
@@ -242,16 +242,6 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Domingues da Ponte do Guaíba (PODE) 20006: Candidato a Deputado Estadual no Rio Grande do Sul | Eleições 2026 Tribuna do Paraná"
-    },
-    {
-      "id": "17396331a126",
-      "titulo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ReVBXeEh4cUNsMnp2cXFoZ0ZxTmxpRUFWN3FFWnBwSHBUbFFmSlBwZ0VlSUZ6bzJxUEpCcXZzd29wZ1d4a0N0eWZxLUo1Wk84R1FHMGwtSzlpamM?oc=5",
-      "fonte": "mshale.com",
-      "publicado_em": "2026-08-12T04:49:32+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU) mshale.com"
     },
     {
       "id": "6893df8a9e64",
@@ -297,11 +287,11 @@
       "id": "7e498efc1bd9",
       "titulo": "AO VIVO | UFSM X Guaíba Pela 2ª Rodada Da Copa Cláudio Braga Maxime Le Flaguais (j1DdrlOUW0)",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15ZHd0ZmdjaTN5cC1FaGNsR3o1TnhnRktQLTJBS2JoQ1E2TXgzbk50d1RwdWxrYW8yWFYtWkRrRTlGUlhTTTBCRkpVVndaRjFPRURqcUdwN0tzRVE?oc=5",
-      "fonte": "mshale.com",
+      "fonte": "Mshale",
       "publicado_em": "2026-08-10T18:43:29+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "AO VIVO | UFSM X Guaíba Pela 2ª Rodada Da Copa Cláudio Braga Maxime Le Flaguais (j1DdrlOUW0) mshale.com"
+      "resumo": "AO VIVO | UFSM X Guaíba Pela 2ª Rodada Da Copa Cláudio Braga Maxime Le Flaguais (j1DdrlOUW0) Mshale"
     },
     {
       "id": "aa62942513a4",
@@ -354,24 +344,34 @@
       "resumo": "Até churrasco a bordo: Itapuã, onde o Guaíba encontra a Lagoa dos Patos, torna-se reduto da pesca esportiva GZH"
     },
     {
-      "id": "02a9ffe89672",
-      "titulo": "Prefeitura de Guaíba realiza seminário sobre a primeira infância",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZG9JVDRwTVBacE5PX3NqNGtYb2piSElqc2dWWkVFX0Vhb0V3U2VPdHZVMkk3Smk0ZXJwY1JtSkRfTXNVV1JQZi0tdDlRWTBOWENDVDJlb3hkXzg1WHRFT0NhZ2ZseHhVbEVKWUN1U3pUYXBvX29zTDNCTTIteWUzY2dLekM4NlVvOU9jenRR?oc=5",
-      "fonte": "expansao.co",
-      "publicado_em": "2026-08-07T17:31:08+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Prefeitura de Guaíba realiza seminário sobre a primeira infância expansao.co"
-    },
-    {
-      "id": "7c26283cf184",
-      "titulo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVzV5RXpYOW9Ed1gwSU91SmRkOWwwX1A4Tm05X3l4RHNRTHl1SmN4Ny1vTGYxWUFvWFJMNmV6YkhHTVlpdGdHazdiYjZLMUVaR3kxZ2xuYVQzMnFLV1d5N3VGNXVIOENLdFU1VG9qNGZ1QWEzWU5DTF9mRk9FZFpQRFN4cmZKQzJzdXpWS1JlMXR6elEtVlBtUzU0YkxkYU1h?oc=5",
-      "fonte": "Agora RS",
+      "id": "b19e1f2814df",
+      "titulo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOekhWLTE1VHZxRHpMR0V3bDI2N19ENGtIZ0ZpNkYwaHlreWpzaldXcnVkcEIzRm51Yk8tRXNGNkZpRG1uWUwwRWl1VmFDVVRwcGloVV9qd3FSWktmMEtjb2JzWkhlTlliTGtISXBmTmUxT0M5N0pEWU9tSVRQMUZfOTZram5wMm5GMm1kVGNXY0xtcHhyOVlPWFl6Uy1iSW45X25fbERmbVFiRVdmcDB0TEtLbnMtaDQ3WVRQWmtUdHRaeFAyaXFzNkgyVzE2aVZMZGpZODZqQjRjeVUtTS1VZ0sxdTFLamRLMTdHVg?oc=5",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-08-03T07:00:00+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba Agora RS"
+      "resumo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias Correio do Povo"
+    },
+    {
+      "id": "4728dfb2febf",
+      "titulo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQR1JSQWJkOXI4Z3l5OEFpdDVsaUlHalRvLVpJZHY1R1JOQVJ2QnVRQXNVdWtvUnF0TlNNLW15T1BpaF9oVVFNRm5EbnpwQnpZSEVxci1PQzhtU2l6UWVPOEdaN2NFUHdYMUZXY0lOMGJobHdBdnVrMldTcDgyY3MwUG1hYjhxb1VsdWhCcFRvbXExNXJsRmJkbU8wY0RFMkpVRVM0ODJhcnVLR0Y1T0pPMmd1REVUbmNndjZLZjI0NEtXZzNidlNnVXliTzZoWEFIYmsxeXg3dkMyLTNMQnlrNGlxWFYxR2V6N05QVUVscUZyaTFxVWs0dnlmY1NiQllmQUk5ZFVtMWFoZ3FSTTN2MnVDQ24yNE1hdW1Veg?oc=5",
+      "fonte": "Diário Gaúcho",
+      "publicado_em": "2026-08-01T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS Diário Gaúcho"
+    },
+    {
+      "id": "57a31105eb68",
+      "titulo": "Veículos da Toyota colocam Guaíba na liderança das importações gaúchas",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMjlYb3RtYjctVW0yRW1vYkNCWFZPeTQzVjZPeVlkQTBwTGpvU1lWV2JUaW54VUJZZV9sUGh5Y3FucEtKRjBXOERCMzhybWJaTTRFQTdrUC1IYW1WLTNlSWlPVUZPVkNxeG5ZUVJqUXZDMWVJTnZmdlFPaHg1dGw2VHdNVVhyblpoSEpUdmh0X2IyNldYRXMxcEJnSGdMaFJLMlZrOUZrNDVSRUw3Q0ZvZFdyMnVqQkZjNmpneENSSF82R0Q1bUkyeV9QYl8wTDRZVG1IancyemZNT3RXNFBHWVJORjg?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-07-31T16:25:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Veículos da Toyota colocam Guaíba na liderança das importações gaúchas Jornal do Comércio"
     }
   ],
   "noticias_home": [
@@ -396,6 +396,16 @@
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+    },
+    {
       "id": "1cf422762e78",
       "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
@@ -404,16 +414,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A vacinação está disponível em todas as unidades de saúde"
-    },
-    {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "df37597c9344",
@@ -436,14 +436,14 @@
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "16fe33979805",
