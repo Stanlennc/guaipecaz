@@ -1,13 +1,13 @@
 {
-  "gerado_em": "2026-08-14T20:38:18.606274+00:00",
+  "gerado_em": "2026-08-14T21:03:56.246738+00:00",
   "fonte": "Nível Guaíba",
   "rios": {
     "guaiba": {
       "nome": "Rio Guaíba",
       "local": "Cais Mauá, Porto Alegre",
-      "nivel_m": 1.58,
+      "nivel_m": 1.57,
       "cota_inundacao": 3.0,
-      "data_hora_medicao": "2026-08-14T16:15:00-03:00",
+      "data_hora_medicao": "2026-08-14T17:15:00-03:00",
       "status": "normal",
       "fonte": "Nível Guaíba",
       "fonte_url": "https://nivelguaiba.com.br/",
@@ -20,7 +20,7 @@
       "local": "Dona Francisca",
       "nivel_m": 7.57,
       "cota_inundacao": 7.5,
-      "data_hora_medicao": "2026-08-14T16:45:00-03:00",
+      "data_hora_medicao": "2026-08-14T17:45:00-03:00",
       "status": "alagado",
       "fonte": "Nível Guaíba",
       "fonte_url": "https://nivelguaiba.com.br/donafrancisca",
