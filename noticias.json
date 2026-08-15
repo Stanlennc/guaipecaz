@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-14T22:20:26.675621+00:00",
+  "gerado_em": "2026-08-15T01:07:22.039457+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-14T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
-    },
-    {
       "id": "e37d22daa6a2",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
@@ -94,14 +84,24 @@
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-14T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "df37597c9344",
@@ -114,14 +114,14 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "821a278c8680",
@@ -154,6 +154,16 @@
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
+      "id": "d420813bd307",
+      "titulo": "Mapa para o cinema Cult Cinemas Guaiba em Guaíba (92700-140)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KV3ZralliX2RQd04tWVAwaTc0NjdhejkyVFdkV1dTWDczWHpILU5pZHExSXpwTERIMEJIUXlZdEU0b1J6QWdWOXNsbjZEOUdnUHlZcUc4ZFpxUWV6SzFyaEt0S2N1c2x4T3c?oc=5",
+      "fonte": "AdoroCinema",
+      "publicado_em": "2026-08-14T22:13:42+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Mapa para o cinema Cult Cinemas Guaiba em Guaíba (92700-140) AdoroCinema"
+    },
+    {
       "id": "bc217f7d9d3a",
       "titulo": "Praça do Guaíba recebe o Circuito Hip Hop pelas Comunidades no domingo (23/08)",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yN0JfalY3ZjVWQjNOb090OEREdERGMXNMOUJHQzJaOG1HWFdhZGNFMHJZUzNXUGpuOHNURjgxNkh5OEc2VkVNc1JnN2dkZlhQejd3WUFxdGV6QnNTSWprbXl5VHV0Tlg0V20tejFPV1J3RlFqdm5WWEctREFsQQ?oc=5",
@@ -170,7 +180,7 @@
       "fonte": "Notícias da Aldeia",
       "publicado_em": "2026-08-14T15:18:41+00:00",
       "categoria": null,
-      "feed": "google",
+      "feed": "vizinhos",
       "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba Notícias da Aldeia"
     },
     {
@@ -184,9 +194,9 @@
       "resumo": "Sete pontos da bacia do Guaíba estão em cota de atenção na manhã desta sexta Correio do Povo"
     },
     {
-      "id": "fd5f2b1e5dc1",
+      "id": "2a6b24376e9f",
       "titulo": "Consórcio RioS mapeia risco climático na bacia do Guaíba para priorizar obras de resiliência",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOME9uMGdnMWVYcjczbV8zSnJhNWhBX2h3UjdPU1RaemhuWlFmUHpnMy1IMHE3cGxOUHVveUZBRmE2V0Q1VDROdWR6QzIyQ0pQZmZwb1FRVC1QR2FWOW8wSkxlY0FyelZaVXZCTHRSRlhWVV9ocGtyQ1kxSmpnaHhEMW5JU1JGZ212S0pxUThiZXUzMkdUaTY0eWw1MG50VzJoMlNJZmFBckdJOEMwTG5rV1JzYzN3WkNZajFSeEF2NE1IUnRoN0RGbkY1WGdpV1hCNjVmMUFSRWlpRWVTUElWNER6cmFSTjdBdllJYlJBSXZSb3JGbFHSAfYBQVVfeXFMTjBPbjBnZzFlWHI3M21fM0pyYTVoQV9od1I3T1NUWnpoblpRZlB6ZzMtSDBxN3BsTlB1b3lGQUZhNldENVQ0TnVkekMyMkNKUGZmcG9RUVQtUEdhVjlvMEpMZWNBcnpWWlV2Qkx0UkZYVlVfaHBrckNZMUpqZ2h4RDFuSVNSRmdtdktKcVE4YmV1MzJHVGk2NHlsNTBudFcyaDJTSWZhQXJHSThDMExua1dSc2Mzd1pDWWoxUnhBdjRNSFJ0aDdERm5GNVhnaVdYQjY1ZjFBUkVpaUVlU1BJVjREenJhUk43QXZZSWJSQUl2Um9yRmxR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZmpnVy0tX29LNlRmU1l3MnZjckxUbTBodHFhTGhTY3ZETXY5bW92bldlV3BHeEFFZ0l3YXcybUpEWElBZ25jWGZlblk3clBOQnR4bzItcjRBcnJzLVVmd0lSd1lHc3JfeXVCU2FuRnIyMHBqUFFiV0RCVkZab2M1S19sTGt1a0Qxb1Z0ZE8zN2Nkb1dwV0VfS1FMYUVsYlJzQUZsX0dZbW5JY0pIUVdTRW9QZUdGVWhhZXB2X2VSM1B6SWxYVzhROENtbHRhXzdRZ1NCVHZ4OWNZNDY3aldhRHFKcmo2Uk3SAfYBQVVfeXFMTjBPbjBnZzFlWHI3M21fM0pyYTVoQV9od1I3T1NUWnpoblpRZlB6ZzMtSDBxN3BsTlB1b3lGQUZhNldENVQ0TnVkekMyMkNKUGZmcG9RUVQtUEdhVjlvMEpMZWNBcnpWWlV2Qkx0UkZYVlVfaHBrckNZMUpqZ2h4RDFuSVNSRmdtdktKcVE4YmV1MzJHVGk2NHlsNTBudFcyaDJTSWZhQXJHSThDMExua1dSc2Mzd1pDWWoxUnhBdjRNSFJ0aDdERm5GNVhnaVdYQjY1ZjFBUkVpaUVlU1BJVjREenJhUk43QXZZSWJSQUl2Um9yRmxR?oc=5",
       "fonte": "Valor Econômico",
       "publicado_em": "2026-08-14T10:30:09+00:00",
       "categoria": null,
@@ -257,11 +267,11 @@
       "id": "6893df8a9e64",
       "titulo": "Audiência Pública debate impactos da ampliação da CMPC e alerta para poluição do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZVA2aEpjVXRJYlpaaVZlUHcxYVNwdEdMQ0hDa0ZORmdIdENFR0NTTVY3aHA2clBVdkRZTTJyUkpsUGUwYl9adzJwR3BzYjBVMWdpelRQNDFpOWkzbVQ2bnhETXk4ZGtjVWpJR0xBdjJPQnEwMHFtZE1xa1pLa2cwTlNWSDVCU2RXYS14LV94OFF6dkpLcWUyLXdPLTZmRDd2N2JKRzA3UFFYM0lrTFlUOEtzOTJ6XzFxOWNlX0l1ZVhUYUt6SjlNdw?oc=5",
-      "fonte": "ptassembleiars.org.br",
+      "fonte": "PT Assembleia RS",
       "publicado_em": "2026-08-12T00:01:48+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Audiência Pública debate impactos da ampliação da CMPC e alerta para poluição do Guaíba ptassembleiars.org.br"
+      "resumo": "Audiência Pública debate impactos da ampliação da CMPC e alerta para poluição do Guaíba PT Assembleia RS"
     },
     {
       "id": "44a865fadcfa",
@@ -340,18 +350,8 @@
       "fonte": "GZH",
       "publicado_em": "2026-08-08T09:47:32+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "gzh_metro",
       "resumo": "Até churrasco a bordo: Itapuã, onde o Guaíba encontra a Lagoa dos Patos, torna-se reduto da pesca esportiva GZH"
-    },
-    {
-      "id": "7c26283cf184",
-      "titulo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVzV5RXpYOW9Ed1gwSU91SmRkOWwwX1A4Tm05X3l4RHNRTHl1SmN4Ny1vTGYxWUFvWFJMNmV6YkhHTVlpdGdHazdiYjZLMUVaR3kxZ2xuYVQzMnFLV1d5N3VGNXVIOENLdFU1VG9qNGZ1QWEzWU5DTF9mRk9FZFpQRFN4cmZKQzJzdXpWS1JlMXR6elEtVlBtUzU0YkxkYU1h?oc=5",
-      "fonte": "Agora RS",
-      "publicado_em": "2026-08-03T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Porto Alegre retira 442 toneladas de resíduos da orla do Guaíba Agora RS"
     },
     {
       "id": "b19e1f2814df",
@@ -376,16 +376,6 @@
   ],
   "noticias_home": [
     {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-14T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
-    },
-    {
       "id": "e37d22daa6a2",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
@@ -396,14 +386,24 @@
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-14T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "df37597c9344",
@@ -416,14 +416,14 @@
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "id": "328a4ef216b4",
+      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
       "id": "821a278c8680",
