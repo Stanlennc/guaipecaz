@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-15T10:20:18.834721+00:00",
+  "gerado_em": "2026-08-15T12:33:40.776088+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,24 +94,14 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "328a4ef216b4",
@@ -124,14 +114,24 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+    },
+    {
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "1cf422762e78",
@@ -194,9 +194,9 @@
       "resumo": "Sete pontos da bacia do Guaíba estão em cota de atenção na manhã desta sexta Correio do Povo"
     },
     {
-      "id": "fd5f2b1e5dc1",
+      "id": "2a6b24376e9f",
       "titulo": "Consórcio RioS mapeia risco climático na bacia do Guaíba para priorizar obras de resiliência",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOME9uMGdnMWVYcjczbV8zSnJhNWhBX2h3UjdPU1RaemhuWlFmUHpnMy1IMHE3cGxOUHVveUZBRmE2V0Q1VDROdWR6QzIyQ0pQZmZwb1FRVC1QR2FWOW8wSkxlY0FyelZaVXZCTHRSRlhWVV9ocGtyQ1kxSmpnaHhEMW5JU1JGZ212S0pxUThiZXUzMkdUaTY0eWw1MG50VzJoMlNJZmFBckdJOEMwTG5rV1JzYzN3WkNZajFSeEF2NE1IUnRoN0RGbkY1WGdpV1hCNjVmMUFSRWlpRWVTUElWNER6cmFSTjdBdllJYlJBSXZSb3JGbFHSAfYBQVVfeXFMTjBPbjBnZzFlWHI3M21fM0pyYTVoQV9od1I3T1NUWnpoblpRZlB6ZzMtSDBxN3BsTlB1b3lGQUZhNldENVQ0TnVkekMyMkNKUGZmcG9RUVQtUEdhVjlvMEpMZWNBcnpWWlV2Qkx0UkZYVlVfaHBrckNZMUpqZ2h4RDFuSVNSRmdtdktKcVE4YmV1MzJHVGk2NHlsNTBudFcyaDJTSWZhQXJHSThDMExua1dSc2Mzd1pDWWoxUnhBdjRNSFJ0aDdERm5GNVhnaVdYQjY1ZjFBUkVpaUVlU1BJVjREenJhUk43QXZZSWJSQUl2Um9yRmxR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZmpnVy0tX29LNlRmU1l3MnZjckxUbTBodHFhTGhTY3ZETXY5bW92bldlV3BHeEFFZ0l3YXcybUpEWElBZ25jWGZlblk3clBOQnR4bzItcjRBcnJzLVVmd0lSd1lHc3JfeXVCU2FuRnIyMHBqUFFiV0RCVkZab2M1S19sTGt1a0Qxb1Z0ZE8zN2Nkb1dwV0VfS1FMYUVsYlJzQUZsX0dZbW5JY0pIUVdTRW9QZUdGVWhhZXB2X2VSM1B6SWxYVzhROENtbHRhXzdRZ1NCVHZ4OWNZNDY3aldhRHFKcmo2Uk3SAfYBQVVfeXFMTjBPbjBnZzFlWHI3M21fM0pyYTVoQV9od1I3T1NUWnpoblpRZlB6ZzMtSDBxN3BsTlB1b3lGQUZhNldENVQ0TnVkekMyMkNKUGZmcG9RUVQtUEdhVjlvMEpMZWNBcnpWWlV2Qkx0UkZYVlVfaHBrckNZMUpqZ2h4RDFuSVNSRmdtdktKcVE4YmV1MzJHVGk2NHlsNTBudFcyaDJTSWZhQXJHSThDMExua1dSc2Mzd1pDWWoxUnhBdjRNSFJ0aDdERm5GNVhnaVdYQjY1ZjFBUkVpaUVlU1BJVjREenJhUk43QXZZSWJSQUl2Um9yRmxR?oc=5",
       "fonte": "Valor Econômico",
       "publicado_em": "2026-08-14T10:30:09+00:00",
       "categoria": null,
@@ -214,6 +214,16 @@
       "resumo": "Rua Guaíba passa a ter sentido único no Bairro Santana em Varginha Varginha Online"
     },
     {
+      "id": "0a5ecb8e80a1",
+      "titulo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba - fecomercio-rs.org.br",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVndGYlU2dXBfQ3BsN04ycGRfU0NSMlBtZDY5bGhTTWNZdGhubnhHUUJ1UUkzcmdSWGVNdklHM0JWeUNiOGdUazlEYWVYN3hFUUVQNGY2cnBKSHpDSjNMTkt2RUpZVkRiS3EtNnd1dy1HQWJaVVp0U0xZUzM0TFdzYnFTa3JZVDlTN0EtQ0c2OXQ4UGhNLU42S1FpdjBPaFF6NnlyRG9hTk9nVHRndmV3THpkU1NmUUdKeG9mZ1BVRzNmR2xjNGtadS05cWtVNkZCYkZEUXZYU2hOOGdWTlNxbGE0dFdWWE5JQ3JTRlg3Zk1hXzFHYXdKYV9vU3luWENaRkxMTQ?oc=5",
+      "fonte": "fecomercio-rs.org.br",
+      "publicado_em": "2026-08-13T16:30:27+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba fecomercio-rs.org.br"
+    },
+    {
       "id": "977f3d0973dd",
       "titulo": "Manutenções no vão móvel da Ponte do Guaíba são concluídas e içamentos são retomados",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOE9PZS1sMk94NEpQemtJb0NfbnAzNFl2Ty00cFhnd3dnVU9zNk1tODBaWktGWFBuVmJpY1hRMlVkUFJ4WXdzVWRTZGFrWlRrWUpHdjVyZjZvVWswWXlXc1RKVFdnbzBGc1lsZC1uUnVBYm9NT3RCR1dlQVp4Q3JteUdqejBxX1dKcWJtUy03UmdkXzA2VV9HSWF5QmdwZTFzazVCV0Q4QzhTSkdsV25CeE9tR3oyMmVDSlcwRjBfOXoxZ09jNUI0X2Z3MTRlLThLYVVVZ1ZtaXpPRDN1VlBYd0ZDRQ?oc=5",
@@ -222,16 +232,6 @@
       "categoria": null,
       "feed": "correio",
       "resumo": "Manutenções no vão móvel da Ponte do Guaíba são concluídas e içamentos são retomados Correio do Povo"
-    },
-    {
-      "id": "5f2654ebbf6f",
-      "titulo": "Rua Guaíba, no bairro Santana, passa a ter sentido único em Varginha",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONGs2ZHJLRE9GTnVsRjdEUnZsN004Y2s4cGNaczllaVdMdDBuSkpGNW52SktwZ1JYcG95LUJTeFpScmppaVJtYVpqM0Z1TGhTVE41VEU4UlF5Y21OSm56dVVwaS1ETUVaVnZEOUdBeTlfZ0xZc293R0NNanlSNnp1TE5QYk1EZzVTQ1FxdmtrWU5yWEFLSjViLWU0cy1McXBtQjNlbjM2R0lCdktrY0NBM3kyZFNhYkgw?oc=5",
-      "fonte": "Gazeta De Varginha",
-      "publicado_em": "2026-08-13T13:19:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Rua Guaíba, no bairro Santana, passa a ter sentido único em Varginha Gazeta De Varginha"
     },
     {
       "id": "28753d041133",
@@ -250,7 +250,7 @@
       "fonte": "luizmuller.com",
       "publicado_em": "2026-08-13T06:31:43+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Do Caí ao Guaíba: Prova de que Desassoreamento pode agravar a próxima enchente luizmuller.com"
     },
     {
@@ -396,24 +396,14 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "328a4ef216b4",
@@ -426,14 +416,24 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+    },
+    {
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "1cf422762e78",
