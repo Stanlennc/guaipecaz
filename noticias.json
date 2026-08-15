@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-15T12:33:40.776088+00:00",
+  "gerado_em": "2026-08-15T14:19:49.007543+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,16 +94,6 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
       "id": "328a4ef216b4",
       "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
@@ -114,14 +104,14 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "df37597c9344",
@@ -132,6 +122,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "1cf422762e78",
@@ -152,6 +152,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "9f78d604e30c",
+      "titulo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba, em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTTZHWm40UHk5ZEdpSjRucFZuY3UwcVZTVXNXb1hSOE1YWnNIM3FkTU9naDk4d2FBX1YzUGtSZHU4RExCMElTelhoSWVMd2dubTJGWEtHb0cza1E2NTViU2ozQmgxeVZ0dnRZM3JyODJZQmt4R3pzMUZiX2Zla2JyT3NTeDN4T194UXhJREpSOWkyMVViQVVPSjd4anpkSnVPbEJBS1gzNVlvUDJaWW96WGhNVXd6TzVEMWI2SjRxNGtpMHlqejkxamlDWGVjcHpIV053LXdjMHJKeVVhZmpFTA?oc=5",
+      "fonte": "Super Transado",
+      "publicado_em": "2026-08-15T10:50:05+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba, em Porto Alegre Super Transado"
     },
     {
       "id": "d420813bd307",
@@ -214,16 +224,6 @@
       "resumo": "Rua Guaíba passa a ter sentido único no Bairro Santana em Varginha Varginha Online"
     },
     {
-      "id": "0a5ecb8e80a1",
-      "titulo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba - fecomercio-rs.org.br",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVndGYlU2dXBfQ3BsN04ycGRfU0NSMlBtZDY5bGhTTWNZdGhubnhHUUJ1UUkzcmdSWGVNdklHM0JWeUNiOGdUazlEYWVYN3hFUUVQNGY2cnBKSHpDSjNMTkt2RUpZVkRiS3EtNnd1dy1HQWJaVVp0U0xZUzM0TFdzYnFTa3JZVDlTN0EtQ0c2OXQ4UGhNLU42S1FpdjBPaFF6NnlyRG9hTk9nVHRndmV3THpkU1NmUUdKeG9mZ1BVRzNmR2xjNGtadS05cWtVNkZCYkZEUXZYU2hOOGdWTlNxbGE0dFdWWE5JQ3JTRlg3Zk1hXzFHYXdKYV9vU3luWENaRkxMTQ?oc=5",
-      "fonte": "fecomercio-rs.org.br",
-      "publicado_em": "2026-08-13T16:30:27+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba fecomercio-rs.org.br"
-    },
-    {
       "id": "977f3d0973dd",
       "titulo": "Manutenções no vão móvel da Ponte do Guaíba são concluídas e içamentos são retomados",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOE9PZS1sMk94NEpQemtJb0NfbnAzNFl2Ty00cFhnd3dnVU9zNk1tODBaWktGWFBuVmJpY1hRMlVkUFJ4WXdzVWRTZGFrWlRrWUpHdjVyZjZvVWswWXlXc1RKVFdnbzBGc1lsZC1uUnVBYm9NT3RCR1dlQVp4Q3JteUdqejBxX1dKcWJtUy03UmdkXzA2VV9HSWF5QmdwZTFzazVCV0Q4QzhTSkdsV25CeE9tR3oyMmVDSlcwRjBfOXoxZ09jNUI0X2Z3MTRlLThLYVVVZ1ZtaXpPRDN1VlBYd0ZDRQ?oc=5",
@@ -262,6 +262,16 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Domingues da Ponte do Guaíba (PODE) 20006: Candidato a Deputado Estadual no Rio Grande do Sul | Eleições 2026 Tribuna do Paraná"
+    },
+    {
+      "id": "17396331a126",
+      "titulo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ReVBXeEh4cUNsMnp2cXFoZ0ZxTmxpRUFWN3FFWnBwSHBUbFFmSlBwZ0VlSUZ6bzJxUEpCcXZzd29wZ1d4a0N0eWZxLUo1Wk84R1FHMGwtSzlpamM?oc=5",
+      "fonte": "Mshale",
+      "publicado_em": "2026-08-12T04:49:32+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "APV UCS X VÔLEI GUAÍBA | COPA CLÁUDIO BRAGA DE VOLEIBOL SUB-19 MASCULINO Amos Yee (krYYXADGFU) Mshale"
     },
     {
       "id": "6893df8a9e64",
@@ -362,16 +372,6 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS Diário Gaúcho"
-    },
-    {
-      "id": "57a31105eb68",
-      "titulo": "Veículos da Toyota colocam Guaíba na liderança das importações gaúchas",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMjlYb3RtYjctVW0yRW1vYkNCWFZPeTQzVjZPeVlkQTBwTGpvU1lWV2JUaW54VUJZZV9sUGh5Y3FucEtKRjBXOERCMzhybWJaTTRFQTdrUC1IYW1WLTNlSWlPVUZPVkNxeG5ZUVJqUXZDMWVJTnZmdlFPaHg1dGw2VHdNVVhyblpoSEpUdmh0X2IyNldYRXMxcEJnSGdMaFJLMlZrOUZrNDVSRUw3Q0ZvZFdyMnVqQkZjNmpneENSSF82R0Q1bUkyeV9QYl8wTDRZVG1IancyemZNT3RXNFBHWVJORjg?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-07-31T16:25:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Veículos da Toyota colocam Guaíba na liderança das importações gaúchas Jornal do Comércio"
     }
   ],
   "noticias_home": [
@@ -396,16 +396,6 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
       "id": "328a4ef216b4",
       "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
@@ -416,14 +406,14 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "df37597c9344",
@@ -434,6 +424,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
+      "id": "777f86ec4825",
+      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
+      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "1cf422762e78",
