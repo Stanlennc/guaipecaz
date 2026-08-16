@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-16T20:19:55.007408+00:00",
+  "gerado_em": "2026-08-16T22:18:55.417834+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,6 +94,16 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
       "id": "777f86ec4825",
       "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
       "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
@@ -112,16 +122,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "328a4ef216b4",
@@ -167,11 +167,11 @@
       "id": "9275dcb33aed",
       "titulo": "VÍDEO: carro fica submerso no Guaíba na orla de Ipanema, em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTlR6V0Z2NHdmbGZTRDF4R3IwQnkwTzR1M0dSczUway11QlIzTkQxMFo5VW80dmRVTnJEX2tHbVZScjVpdmtlTWM5NFE0NkVzQ3F1NzRoNXZvTmczZU5oNl94WTFPYVdPTnMzZ1FZNnBlTWx2TkViMjlLdmpPYml4Rkp2bFJhR2V6TmgtbUhxRjNvOW40UXBPQ1JJRGNvZnlsa1VlcF8zRGdrMnRINDZ3bU9kempPLWhQX2ctTTBpWXZKbGM1QnJXbnVvS2h5V1lGSjRaUzF2RlJmTFFEMU1yVlhnZWo?oc=5",
-      "fonte": "terra.com.br",
+      "fonte": "Terra",
       "publicado_em": "2026-08-16T11:32:00+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "VÍDEO: carro fica submerso no Guaíba na orla de Ipanema, em Porto Alegre terra.com.br"
+      "resumo": "VÍDEO: carro fica submerso no Guaíba na orla de Ipanema, em Porto Alegre Terra"
     },
     {
       "id": "b01e9ac72cbb",
@@ -227,11 +227,11 @@
       "id": "d420813bd307",
       "titulo": "Mapa para o cinema Cult Cinemas Guaiba em Guaíba (92700-140)",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KV3ZralliX2RQd04tWVAwaTc0NjdhejkyVFdkV1dTWDczWHpILU5pZHExSXpwTERIMEJIUXlZdEU0b1J6QWdWOXNsbjZEOUdnUHlZcUc4ZFpxUWV6SzFyaEt0S2N1c2x4T3c?oc=5",
-      "fonte": "adorocinema.com",
+      "fonte": "AdoroCinema",
       "publicado_em": "2026-08-14T22:13:42+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Mapa para o cinema Cult Cinemas Guaiba em Guaíba (92700-140) adorocinema.com"
+      "resumo": "Mapa para o cinema Cult Cinemas Guaiba em Guaíba (92700-140) AdoroCinema"
     },
     {
       "id": "bc217f7d9d3a",
@@ -340,7 +340,7 @@
       "fonte": "PT Assembleia RS",
       "publicado_em": "2026-08-12T00:01:48+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Audiência Pública debate impactos da ampliação da CMPC e alerta para poluição do Guaíba PT Assembleia RS"
     },
     {
@@ -396,6 +396,16 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
       "id": "777f86ec4825",
       "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
       "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
@@ -414,16 +424,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "328a4ef216b4",
