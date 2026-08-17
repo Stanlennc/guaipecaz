@@ -5,13 +5,6 @@
 <description>Notícias de Guaíba e da Região Metropolitana de Porto Alegre</description>
 <language>pt-BR</language>
 <item>
-<title>Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba</title>
-<link>https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba</link>
-<guid>e37d22daa6a2</guid>
-<pubDate>2026-08-16T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha</title>
 <link>https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha</link>
 <guid>8a9e8f04364e</guid>
@@ -19,15 +12,22 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
-<title>Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego</title>
-<link>https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego</link>
-<guid>df37597c9344</guid>
+<title>Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba</title>
+<link>https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba</link>
+<guid>e37d22daa6a2</guid>
+<pubDate>2026-08-16T00:00:00+00:00</pubDate>
 <source>Repórter Guaibense</source>
 </item>
 <item>
 <title>Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação</title>
 <link>https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude</link>
 <guid>777f86ec4825</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego</title>
+<link>https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego</link>
+<guid>df37597c9344</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -67,13 +67,6 @@
 <guid>9275dcb33aed</guid>
 <pubDate>2026-08-16T11:32:00+00:00</pubDate>
 <source>Terra</source>
-</item>
-<item>
-<title>Guaíba invade ruas e Defesa Civil alerta Porto Alegre</title>
-<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQLThvcThhNklhdV9KYU5aYnRhVHFQMlZiZHBBNUhwZ2lzUEkxaS1mc1hHUHlORnJjbUxPN3B1VmJPQTBVVDVfYjBJeXZRUzZGLThrVGJkTU5BOVhEbjZVblhtVVVmaGdPQ3dwRVpLVUZDckd1WDA3cUFycTJqenBSTlVqVW5ISWV6bE1RNFNPOFU2Zw?oc=5</link>
-<guid>b01e9ac72cbb</guid>
-<pubDate>2026-08-16T06:33:03+00:00</pubDate>
-<source>SpaceMoney</source>
 </item>
 <item>
 <title>Vento faz água do Guaíba invadir ruas da ilha da Pintada neste sábado</title>
@@ -137,5 +130,12 @@
 <guid>fd5f2b1e5dc1</guid>
 <pubDate>2026-08-14T10:30:09+00:00</pubDate>
 <source>Valor Econômico</source>
+</item>
+<item>
+<title>Rua Guaíba passa a ter sentido único no Bairro Santana em Varginha</title>
+<link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPWUZWczQ4WWJmTU16Y0dweVhfMkg5eHZMT2tiUGZXbTFJRzZhdTZVYWdHbFBwSi1FZkgyUmgxMVpHOVUwYnBJaXNvbVhKWHRsblN4MkZES3RDU041UUU0M0hrZldXSFFlT2lzb01ZWnptUUF3RXhybG1lTFRieW14MEJFLWNHcTBLeEZqS19RUG0?oc=5</link>
+<guid>bee3557afec5</guid>
+<pubDate>2026-08-13T19:43:56+00:00</pubDate>
+<source>Varginha Online</source>
 </item>
 </channel></rss>
