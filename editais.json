@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-17T01:07:54.506457+00:00",
+  "gerado_em": "2026-08-17T06:50:55.598395+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -34,7 +34,7 @@
       "id": "2af13ba036a9",
       "titulo": "Oratória e Emoção: Guaíba celebra os talentos do 4º Concurso Escolar na Câmara de Vereadores",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaDRDejcteUppeGdvODF5c1VsczZOR0hITkxMaFJnMS1ESmhyTHdPZWdPTnBnMTgyUkYwWjFLaHJjTlBXbENpVFVuQURpVFVpX0R0RjAtOHZJODRIRk05bV96ODhZbXJOU3Z5cGxXRktGLWt0dVpJeGV3eVdoeGFLLUV4N0d1YmNZd3l1Q004cU9GT1U2amgzSkNqX3ZTZU8xRlZqR1ZWYkM0WDEzTlAwNlFmSQ?oc=5",
-      "fonte": "clicr.com.br",
+      "fonte": "Portal ClicR",
       "tipo": "concurso",
       "publicado_em": "2026-06-27T07:00:00+00:00",
       "feed": "concurso"
@@ -94,21 +94,21 @@
       "feed": "concurso"
     },
     {
-      "id": "77a0ee2578b3",
-      "titulo": "Frentista, vendedor, auxiliar de cozinha e mais: Sine Guaíba tem 16 vagas de emprego nesta semana",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ3h0bFZtY2dTSEdnWVVXanVReTVpY2ZVclEtUGNKTWJYd2gtWlpUNzRlX01uakE0SHF3RWNZa3hqdks0NlVacVUtbmRnOVZOdjZ0T3RXNU9VbFlDLVJOY2ZGVU1iSTd4Z2pOZ0s0amNPaW1RZ3BDVTFKVGJNdUlkTnpiLUlWLXVna1BBczU1eDhjNDBpbE1PMGExSm9FMmdvLXNNcUhlQXRReHhYaWVWZUkwN3JCejY0VXVRX21NUXlXNHFDOHdsSEFrQUI0WndjVUVGaDh3?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-04-23T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
       "id": "8cf47856226c",
       "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego e realiza entrevistas para oportunidades em Eldorado do Sul",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTmtMNVFaY0RYYjlraklQYzhtRFgzV3B1M1hCQXVFUHpwNHU3ejJRT2Q0UWdJUll1UnJZQnBITmlscFdYRkNIX0RXYzAzWEVEZVVqblUxbTQ2MGg0aEt2Z0tWTFVIZzBmT2wwREFoYWlhRnRINWxfYm82eXNWRE5JdkdQenB6T3pRUGNIWGxZQ284Q1hvRzY1Vnh4UGFmNTlIRDlBQm8wb3RwaVpUVk9manVINHk3U1lGSzhmeEtlV0NWRzAwSFgyNXU5UFQzMzUwOE1rZlI0Z0w4Ymt3OWRqbm8zS0hFa2s?oc=5",
       "fonte": "Repórter Guaibense",
       "tipo": "vaga",
       "publicado_em": "2026-04-09T07:00:00+00:00",
+      "feed": "vagas"
+    },
+    {
+      "id": "ef7dc3ed3a53",
+      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego nesta semana; veja a lista",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFYtbTRQaFZPN3YyNEgzUEZHTWZCNXF0OHF5ekdNYzFrOEJSRkFlTjdCVElJeFM4d19BN051aFBneWRKTmRyVVdoc0NUUFcwZG84TV9DenhUdGh0ci1tVFJIWV9DYnp2UXhaRTRZbEdZSUZmTDBtTmR1SlV0S1BjTU01bjZYMWgzRkRFc1pnN3pMSXM0Ti1mNGJDTXQybFN6dUtGYUNJR2hQT1d1ZDlSdldvVHJpUlVUWHc?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-03-25T07:00:00+00:00",
       "feed": "vagas"
     }
   ]
