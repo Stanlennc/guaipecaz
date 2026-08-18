@@ -1,8 +1,17 @@
 {
-  "gerado_em": "2026-08-18T01:05:58.148487+00:00",
+  "gerado_em": "2026-08-18T06:39:04.838416+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
+    {
+      "id": "03de60ffa894",
+      "titulo": "Câmara de Vereadores de Guaíba, no RS, abre vaga de estágio com bolsa de R$ 1.898,38 e benefícios",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNHRYWmJJVG50akptODNmX3QyN2FRTUM0MjNSdWdOck9Rb1FXTFRQblhKMWlHTFFET251WlZZcDMtc3NNRm5YQnhnWl9tc05aRTNWbHVXeHZ1OGtJZDBXSlNEMk1LbktWdzVfRk4wRjhhN1RXRkVGOTdrNklfcmlKUjNsemNlRVhjWHMzcno2VEt4NW9qcjNxSFgtMHFZZDBaYUUxblJZM0JhcVlCdjVPVHRQNXJOeXduSlVWREJlcS1QejlOQW9sd1RsVG1OOWYxZlVZcS1ta0hCLWY2TUZybVY0YVU?oc=5",
+      "fonte": "Portal de Camaquã",
+      "tipo": "vaga",
+      "publicado_em": "2026-08-16T22:27:43+00:00",
+      "feed": "vagas"
+    },
     {
       "id": "222af359a8b8",
       "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
@@ -43,7 +52,7 @@
       "id": "efd910ae5dd5",
       "titulo": "Círculo Saúde abre 120 vagas para dar início às operações da unidade hospitalar de Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSklrb1o3WF93cG9GRlNsOVRyVWZzbnRPQllvSFh5UW8tNjRZX2pUdWJ0a0dCenJNa1hsdzJ1VlRJMDBSM0hBS2czSHZWRTFLXzR3YV9NS0J3UXFWVWpvT0RZTHFPVUFGR0h4c1UxaEU0MlhMQjJ3ak8xX093Sm0xSkV3VldJMEhfZlp0QVRxR3N5Q3I2U0tuU0RJMThGa3ZyRXdFRUtlU3VraVBzT2tJWUpjOTVsNjVkZnFQN3pHNkg5NnR0elkzTjdmR0RfRGZkaHNyMmVOb2NqSTJ0RjVPZzZFVE0zZzFJaUx1cVZB?oc=5",
-      "fonte": "Correio do Povo",
+      "fonte": "correiodopovo.com.br",
       "tipo": "vaga",
       "publicado_em": "2026-06-24T07:00:00+00:00",
       "feed": "vagas"
@@ -100,15 +109,6 @@
       "fonte": "Repórter Guaibense",
       "tipo": "vaga",
       "publicado_em": "2026-04-09T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "ef7dc3ed3a53",
-      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego nesta semana; veja a lista",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFYtbTRQaFZPN3YyNEgzUEZHTWZCNXF0OHF5ekdNYzFrOEJSRkFlTjdCVElJeFM4d19BN051aFBneWRKTmRyVVdoc0NUUFcwZG84TV9DenhUdGh0ci1tVFJIWV9DYnp2UXhaRTRZbEdZSUZmTDBtTmR1SlV0S1BjTU01bjZYMWgzRkRFc1pnN3pMSXM0Ti1mNGJDTXQybFN6dUtGYUNJR2hQT1d1ZDlSdldvVHJpUlVUWHc?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-03-25T07:00:00+00:00",
       "feed": "vagas"
     }
   ]
