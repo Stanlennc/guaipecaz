@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-18T14:32:40.618844+00:00",
+  "gerado_em": "2026-08-18T16:29:35.062297+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,16 @@
   ],
   "noticias": [
     {
+      "id": "e37d22daa6a2",
+      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-18T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
+    },
+    {
       "id": "8a9e8f04364e",
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
@@ -84,14 +94,14 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "e37d22daa6a2",
-      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-18T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "821a278c8680",
@@ -112,16 +122,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
-    },
-    {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "328a4ef216b4",
@@ -160,13 +160,13 @@
       "fonte": "radiocaicara.com.br",
       "publicado_em": "2026-08-18T12:33:49+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Quase 760 toneladas de resíduos são recolhidas da Orla do Guaíba, em Porto Alegre, após as fortes chuvas iniciadas em julho radiocaicara.com.br"
     },
     {
-      "id": "f8a0c2f8ae11",
+      "id": "bea17b445542",
       "titulo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQejFJUHY1MzRWVXdJNC1ya0JtMThWd0c5STZZbDVDY1d3bVhCZWNfMVlwSzlzTDRVTE41WkdneHM1Z3k4bVIyV3RJQWlTTVBXaGVhRjg3R0duVzJMQi1YLVZqVWQtNmVqakFUeHZFekd1RU13aHRCeGdCR3lfRlh1ZzU3TktxOUlqV1pBT1psTXdPanpUTE56ZWxJQXBBdlVmNEQ3TkEtM19tTF9lYk1mMDI4ZmRKZ2I0amotcjdDZHo3eFk4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1QxN2tyU3Rlc05ueEFxY21faG5qVzlqSjJCbTBYU1k3THpRNkIxOW5UaGVZZWhjRHdkNXk0TDlxMHFoZ2JHRHUzMEF3V01zU0hZbFNXdXprMGVwRFF2VUp2QnplMWxISFNFVkJzX3N3SzJUS2dHRXY2VXJiVXRWVFRkZTg4LVRqWC1xMWJEazBwTjJmZDZtZ3ptYkJENWxqRjdwMmxNVVphOVVhN3pVakppMTJadU9DOEZJUHZHZFY?oc=5",
       "fonte": "UOL Economia",
       "publicado_em": "2026-08-17T22:51:47+00:00",
       "categoria": null,
@@ -177,21 +177,11 @@
       "id": "4f28ba14ffe2",
       "titulo": "Parobé Futsal vence no Sub-13 e Sub-15 pelo Gauchão em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTUpHZGNuTUN6WmE5alBMZXpaaHdoMV90SHJ2eEdySlhCNnlzeV91V3BId2tyUW5YVFFxNmNzR1FqdDhTemdKS0lsaHhrbm5WYjhWYXl5TlJIemlXV0dDdWxvMGJScG1mYjYwZTlWZTByb09NQ1drSnZiTExuWTk5MDVydzMzNkdXbGR4bkNBaHZ5WHNpSXlMUFBmREJuLTg1?oc=5",
-      "fonte": "Rádio Taquara FM 105.9",
+      "fonte": "radiotaquara.com.br",
       "publicado_em": "2026-08-17T01:57:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Parobé Futsal vence no Sub-13 e Sub-15 pelo Gauchão em Guaíba Rádio Taquara FM 105.9"
-    },
-    {
-      "id": "01837c3a8bf2",
-      "titulo": "Exposição “Essência Negra” celebra força, cultura e identidade de mulheres negras em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVWVFNmJQb3Jic1hteDJFX251UzgwdUZzellHeTJ2Znp1bFI4RW9oV2dvOWo1cy1QY3pGcVNFTHNZTG9kRlB5aXM3NUp4LWxYSmc4Z0J1cEI4eTlfM3RQVFBQenpvUkc5OXRvNlBIeE9mWDZReHNBTmM2ZHlfR1N0OTEtR1JoZFVKdjRaaEpoQ3M0TFhuUERYUzJiQnFJSHBrWFBLVTdYWkQtOV91OFhybl9WZVRfb0FmVDU1N05qRkVFVEd6YS10RjlpQ05iNmlVM3QzR0VvQzRtLTcw?oc=5",
-      "fonte": "Portal de Camaquã",
-      "publicado_em": "2026-08-17T00:33:09+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Exposição “Essência Negra” celebra força, cultura e identidade de mulheres negras em Guaíba Portal de Camaquã"
+      "resumo": "Parobé Futsal vence no Sub-13 e Sub-15 pelo Gauchão em Guaíba radiotaquara.com.br"
     },
     {
       "id": "117cbfced8df",
@@ -277,11 +267,11 @@
       "id": "9f78d604e30c",
       "titulo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba, em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTTZHWm40UHk5ZEdpSjRucFZuY3UwcVZTVXNXb1hSOE1YWnNIM3FkTU9naDk4d2FBX1YzUGtSZHU4RExCMElTelhoSWVMd2dubTJGWEtHb0cza1E2NTViU2ozQmgxeVZ0dnRZM3JyODJZQmt4R3pzMUZiX2Zla2JyT3NTeDN4T194UXhJREpSOWkyMVViQVVPSjd4anpkSnVPbEJBS1gzNVlvUDJaWW96WGhNVXd6TzVEMWI2SjRxNGtpMHlqejkxamlDWGVjcHpIV053LXdjMHJKeVVhZmpFTA?oc=5",
-      "fonte": "supertransado.com.br",
+      "fonte": "Super Transado",
       "publicado_em": "2026-08-15T10:50:05+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba, em Porto Alegre supertransado.com.br"
+      "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba, em Porto Alegre Super Transado"
     },
     {
       "id": "d420813bd307",
@@ -297,11 +287,11 @@
       "id": "bc217f7d9d3a",
       "titulo": "Praça do Guaíba recebe o Circuito Hip Hop pelas Comunidades no domingo (23/08)",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yN0JfalY3ZjVWQjNOb090OEREdERGMXNMOUJHQzJaOG1HWFdhZGNFMHJZUzNXUGpuOHNURjgxNkh5OEc2VkVNc1JnN2dkZlhQejd3WUFxdGV6QnNTSWprbXl5VHV0Tlg0V20tejFPV1J3RlFqdm5WWEctREFsQQ?oc=5",
-      "fonte": "Agenda Sorocaba",
+      "fonte": "agendasorocaba.com.br",
       "publicado_em": "2026-08-14T21:10:55+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Praça do Guaíba recebe o Circuito Hip Hop pelas Comunidades no domingo (23/08) Agenda Sorocaba"
+      "resumo": "Praça do Guaíba recebe o Circuito Hip Hop pelas Comunidades no domingo (23/08) agendasorocaba.com.br"
     },
     {
       "id": "e20cb8308534",
@@ -360,7 +350,7 @@
       "fonte": "Jornal O Sul",
       "publicado_em": "2026-08-13T12:39:10+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Polícia Rodoviária Federal apreende carga de iPhones avaliada em mais de R$ 5 milhões perto da ponte do Guaíba, em Porto Alegre Jornal O Sul"
     },
     {
@@ -372,9 +362,29 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Do Caí ao Guaíba: Prova de que Desassoreamento pode agravar a próxima enchente luizmuller.com"
+    },
+    {
+      "id": "43518b75ba41",
+      "titulo": "Domingues da Ponte do Guaíba (PODE) 20006: Candidato a Deputado Estadual no Rio Grande do Sul | Eleições 2026",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlhNUmZ2bldLd2ItMXpFOVc4cllRNHVzd2pXNmxmYmF6empPR25mSk9IX3I1aDgwYkpqSy1tMjVGNUtsVEloeEdJYTZSbDUwTE5Bc18yUEVLVHRPT0NTRkVVVmtLREpnRnN4RVhfTm9odnhYb01QWllNMklJaTNxOUlmNjVnTndhd2NzTEJUanlIYU0td0dQTG1sSlhSRXc2Mk1zOXloS0RCdlNmVklHdVVNZEttZw?oc=5",
+      "fonte": "Tribuna do Paraná",
+      "publicado_em": "2026-08-12T14:09:50+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Domingues da Ponte do Guaíba (PODE) 20006: Candidato a Deputado Estadual no Rio Grande do Sul | Eleições 2026 Tribuna do Paraná"
     }
   ],
   "noticias_home": [
+    {
+      "id": "e37d22daa6a2",
+      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-18T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
+    },
     {
       "id": "8a9e8f04364e",
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
@@ -386,14 +396,14 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "e37d22daa6a2",
-      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-18T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "821a278c8680",
@@ -414,16 +424,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
-    },
-    {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "328a4ef216b4",
