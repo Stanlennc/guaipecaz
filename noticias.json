@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-18T08:34:34.618251+00:00",
+  "gerado_em": "2026-08-18T10:25:50.269102+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,16 @@
   ],
   "noticias": [
     {
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-18T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
+    {
       "id": "e37d22daa6a2",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
@@ -84,14 +94,14 @@
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-18T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "821a278c8680",
@@ -112,16 +122,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
-    },
-    {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "328a4ef216b4",
@@ -172,16 +172,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Parobé Futsal vence no Sub-13 e Sub-15 pelo Gauchão em Guaíba Rádio Taquara FM 105.9"
-    },
-    {
-      "id": "117cbfced8df",
-      "titulo": "6º Sarandeio Farroupilha em Guaíba terá Luiz Marenco e grande elenco de atrações em setembro",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTnNEdTMzYTJMal9oelBBSlNPanBjYmdmWXBqNFpPLTMtMk1OTGR1WThHTVRfNEtkUXlkdm5ZMTRJWmt5MzZTQktYS1FTa0d2eWM4N0FZcVJnMkx0V1VNS3JIbEZJNXNMTkNyQ1VpZ09XNU1PODZFbEFIOGRlSWVMOWtpZkxiQzdNMWZ3dFdOY0RCbm05cVJEdUlib2daMTZMSHFxbWpIQTBnZlV6dGJZYkt5dTVSdmVab2lUX05RYWhXTDRwWm9OWGxLa19LVENsUFk4MXBMczBvNGRxLVN2bA?oc=5",
-      "fonte": "Portal de Camaquã",
-      "publicado_em": "2026-08-16T22:21:17+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "6º Sarandeio Farroupilha em Guaíba terá Luiz Marenco e grande elenco de atrações em setembro Portal de Camaquã"
     },
     {
       "id": "5be37185fbc3",
@@ -337,11 +327,11 @@
       "id": "28753d041133",
       "titulo": "Polícia Rodoviária Federal apreende carga de iPhones avaliada em mais de R$ 5 milhões perto da ponte do Guaíba, em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaExXX2ZtVmJ4TUk3NXpkZUlZaG1YZEU2Q01xcExhYzhwRmVkN0JKZ3dYU0dWMU4wdkU5Zy1XZVdvYnNSRFRyWTQtMV9tUUtraVVPMGhGQ1FPeTRtRGtyYkZNMDBhNi1DRXgzRkVuSEdfSU85QmdGcnBCeV9OY2lMYVEtbXdNSk9CTHNoX0x1Sm14U3Y5M0FJdUZJZ0dhWnk0YlgtaDVFU3kyRlcySVBvTndKWFZjbHkxVFZ6eEREa3NtQWZVT2VrdzJwLUxhWUtvUkdvTXRadGlDTUtreHFjNnBnSTXSAeoBQVVfeXFMTU1URTRtNnBvQS1OOE44UVhWcU9jcnV2VWhjc044bkczMXhQMGM4bUVMRUtVS01GbW9pUmZxNHZRQmQ4ZVowRnJqU1FVRjdNYXpfc2J5MmticU9qV3JqS085MWF2SldJVXZGaUhqV09rQ1cxU3NuUFhJNTlBaVgzSEdETzBQM3VobnNmTnlPX1hRY0dlMUlNaG4yN0tKUERtTkZxamhsYXdZNTdpMkZTZHc1NkNjVXF3MlVvaUlkbW01VVhpTURxOVl4ZXdWNVlGQWtQcktJRE1OTVBNTU9pRHNpMlhtMF9mZHlR?oc=5",
-      "fonte": "osul.com.br",
+      "fonte": "Jornal O Sul",
       "publicado_em": "2026-08-13T12:39:10+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Polícia Rodoviária Federal apreende carga de iPhones avaliada em mais de R$ 5 milhões perto da ponte do Guaíba, em Porto Alegre osul.com.br"
+      "resumo": "Polícia Rodoviária Federal apreende carga de iPhones avaliada em mais de R$ 5 milhões perto da ponte do Guaíba, em Porto Alegre Jornal O Sul"
     },
     {
       "id": "007c56c48186",
@@ -372,9 +362,29 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Audiência Pública debate impactos da ampliação da CMPC e alerta para poluição do Guaíba PT Assembleia RS"
+    },
+    {
+      "id": "44a865fadcfa",
+      "titulo": "Precariedade do Guaíba gera dúvidas sobre a nova fábrica da CMPC Celulose",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1czM25RTmhWMnc1al9TNTR6bXVZTDBhaEdJaTNISnhKbDhjT3NFVHhDbFF5czlmNGNVeVh4cXRyNHRJczZJRFgwN0VQc0pPSlRmQlk0MjlBVjRjRHYxMG54emtkY2prY2tHeHUybHlYOExTVFFacGZUN3lEeHIzaDkxcmZhdU9MTUduVVl0aGdHRWlCdlNKdkZlU1d6c0UwWEtjY0pSb2hJeTQ3bVI1TGFIamluSEVyLUJPbDFxdw?oc=5",
+      "fonte": "Extra Classe",
+      "publicado_em": "2026-08-11T18:56:26+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Precariedade do Guaíba gera dúvidas sobre a nova fábrica da CMPC Celulose Extra Classe"
     }
   ],
   "noticias_home": [
+    {
+      "id": "8a9e8f04364e",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-18T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+    },
     {
       "id": "e37d22daa6a2",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
@@ -386,14 +396,14 @@
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
+      "id": "df37597c9344",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-18T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "821a278c8680",
@@ -414,16 +424,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
-    },
-    {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
     },
     {
       "id": "328a4ef216b4",
