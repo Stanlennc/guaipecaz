@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-18T12:41:15.895073+00:00",
+  "gerado_em": "2026-08-18T14:32:40.618844+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,6 +94,16 @@
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+    },
+    {
       "id": "777f86ec4825",
       "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
       "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
@@ -112,16 +122,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
-    },
-    {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "328a4ef216b4",
@@ -154,14 +154,14 @@
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
-      "id": "335bb6fd60ea",
+      "id": "2b4060031189",
       "titulo": "Quase 760 toneladas de resíduos são recolhidas da Orla do Guaíba, em Porto Alegre, após as fortes chuvas iniciadas em julho",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORFlIYngwZmJHWnpMWFVvcWxjR0tMQ0Ixei1MZElKWnR0VjJwRHRaU1J6M3VFaDVjcVlMWTlvRGloeXBaYVdFUkpJcjFiWnRyZVlCeXIxT2pUanNYMG9XUzhuOTAydElzT2tTdzhuZnJnNWx4aThPQ0NMMVRsYTRGTjNDdVM1NnZ1RWxhUXE2THVVSkJKaERDQkNoU044TFJMOFZFV1hEZ3paZnlCaDJscHhKQlo1X3U4ZUNYT09zUkR0cUJGYXo3cWVDVTktVWVDV0pqUlFrZWZFQnZOZlpCbzJhdUFjTlk?oc=5",
-      "fonte": "Rádio Pampa",
-      "publicado_em": "2026-08-18T12:33:06+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZnpkVmlxQklvVE9oWjhrYm9WWkxkTUpOaHNKQjU2Y2U5Ml9lV1dqOUdxOHBvczNJMmp6b3lVWEFLeGhVM0JOTU1RTDdmMkpXV3FTQkhEeHBTQTdEd3NKSlVRWENYNmk5RG5PaGhRR2dtVGNZSFpnX1NKMmRxZXQ0VzF6YnRSbjNwSFBHbEZVMzFjV0hGRzhFSUFURGFUSWhtbWtENUdnZDRGN2V2b3o1OGhlWDZRWHpWbHpJS2FLdm9JVlZmcllXb3JkNjcxVUlobmlqRkR0Smx3ZE1QRmRnTHVGaEJwY0FNN0E?oc=5",
+      "fonte": "radiocaicara.com.br",
+      "publicado_em": "2026-08-18T12:33:49+00:00",
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Quase 760 toneladas de resíduos são recolhidas da Orla do Guaíba, em Porto Alegre, após as fortes chuvas iniciadas em julho Rádio Pampa"
+      "feed": "recentes",
+      "resumo": "Quase 760 toneladas de resíduos são recolhidas da Orla do Guaíba, em Porto Alegre, após as fortes chuvas iniciadas em julho radiocaicara.com.br"
     },
     {
       "id": "f8a0c2f8ae11",
@@ -182,6 +182,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Parobé Futsal vence no Sub-13 e Sub-15 pelo Gauchão em Guaíba Rádio Taquara FM 105.9"
+    },
+    {
+      "id": "01837c3a8bf2",
+      "titulo": "Exposição “Essência Negra” celebra força, cultura e identidade de mulheres negras em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVWVFNmJQb3Jic1hteDJFX251UzgwdUZzellHeTJ2Znp1bFI4RW9oV2dvOWo1cy1QY3pGcVNFTHNZTG9kRlB5aXM3NUp4LWxYSmc4Z0J1cEI4eTlfM3RQVFBQenpvUkc5OXRvNlBIeE9mWDZReHNBTmM2ZHlfR1N0OTEtR1JoZFVKdjRaaEpoQ3M0TFhuUERYUzJiQnFJSHBrWFBLVTdYWkQtOV91OFhybl9WZVRfb0FmVDU1N05qRkVFVEd6YS10RjlpQ05iNmlVM3QzR0VvQzRtLTcw?oc=5",
+      "fonte": "Portal de Camaquã",
+      "publicado_em": "2026-08-17T00:33:09+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Exposição “Essência Negra” celebra força, cultura e identidade de mulheres negras em Guaíba Portal de Camaquã"
     },
     {
       "id": "117cbfced8df",
@@ -267,11 +277,11 @@
       "id": "9f78d604e30c",
       "titulo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba, em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTTZHWm40UHk5ZEdpSjRucFZuY3UwcVZTVXNXb1hSOE1YWnNIM3FkTU9naDk4d2FBX1YzUGtSZHU4RExCMElTelhoSWVMd2dubTJGWEtHb0cza1E2NTViU2ozQmgxeVZ0dnRZM3JyODJZQmt4R3pzMUZiX2Zla2JyT3NTeDN4T194UXhJREpSOWkyMVViQVVPSjd4anpkSnVPbEJBS1gzNVlvUDJaWW96WGhNVXd6TzVEMWI2SjRxNGtpMHlqejkxamlDWGVjcHpIV053LXdjMHJKeVVhZmpFTA?oc=5",
-      "fonte": "Super Transado",
+      "fonte": "supertransado.com.br",
       "publicado_em": "2026-08-15T10:50:05+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba, em Porto Alegre Super Transado"
+      "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba, em Porto Alegre supertransado.com.br"
     },
     {
       "id": "d420813bd307",
@@ -362,16 +372,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Do Caí ao Guaíba: Prova de que Desassoreamento pode agravar a próxima enchente luizmuller.com"
-    },
-    {
-      "id": "43518b75ba41",
-      "titulo": "Domingues da Ponte do Guaíba (PODE) 20006: Candidato a Deputado Estadual no Rio Grande do Sul | Eleições 2026",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlhNUmZ2bldLd2ItMXpFOVc4cllRNHVzd2pXNmxmYmF6empPR25mSk9IX3I1aDgwYkpqSy1tMjVGNUtsVEloeEdJYTZSbDUwTE5Bc18yUEVLVHRPT0NTRkVVVmtLREpnRnN4RVhfTm9odnhYb01QWllNMklJaTNxOUlmNjVnTndhd2NzTEJUanlIYU0td0dQTG1sSlhSRXc2Mk1zOXloS0RCdlNmVklHdVVNZEttZw?oc=5",
-      "fonte": "tribunapr.com.br",
-      "publicado_em": "2026-08-12T14:09:50+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Domingues da Ponte do Guaíba (PODE) 20006: Candidato a Deputado Estadual no Rio Grande do Sul | Eleições 2026 tribunapr.com.br"
     }
   ],
   "noticias_home": [
@@ -396,6 +396,16 @@
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
     },
     {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+    },
+    {
       "id": "777f86ec4825",
       "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
       "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
@@ -414,16 +424,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
-    },
-    {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "328a4ef216b4",
