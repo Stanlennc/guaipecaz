@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-18T18:35:26.711998+00:00",
+  "gerado_em": "2026-08-18T20:21:44.336301+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,16 +94,6 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
       "id": "df37597c9344",
       "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
       "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
@@ -112,6 +102,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "777f86ec4825",
@@ -168,7 +168,7 @@
       "titulo": "DMLU conclui limpeza da Orla do Guaíba com 757 toneladas de resíduos recolhidos",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHFxRVVyQmpUM0t4LXhCSnBLbm1JOGY2OUpfVVhqa091UFhCck0zVEpMbUxBUEJTYzl1QzdFd1pfT3otVGxHb2hXRW5nSHlHN1FtcFVYeWlVT19pUXcwTng3SHF6TlNtWnUxZWZmVC02bG9pSUREck5mVXR1Q3BrXzhQUFlRUjNUclJpT2lISlRlaE4wTGVoWTUyQ3lOdlZFMnhwNjJ5S2gzNXVMQ2NndVNwYVlkS0hMZFU3TjZTNnREQjFBcWNvWHk2a3ZfeXcxRkFaaHJYZEgtMHVf?oc=5",
       "fonte": "Correio do Povo",
-      "publicado_em": "2026-08-18T16:56:28+00:00",
+      "publicado_em": "2026-08-18T16:59:13+00:00",
       "categoria": null,
       "feed": "correio",
       "resumo": "DMLU conclui limpeza da Orla do Guaíba com 757 toneladas de resíduos recolhidos Correio do Povo"
@@ -180,7 +180,7 @@
       "fonte": "radiocaicara.com.br",
       "publicado_em": "2026-08-18T12:33:49+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Quase 760 toneladas de resíduos são recolhidas da Orla do Guaíba, em Porto Alegre, após as fortes chuvas iniciadas em julho radiocaicara.com.br"
     },
     {
@@ -202,26 +202,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Parobé Futsal vence no Sub-13 e Sub-15 pelo Gauchão em Guaíba Rádio Taquara FM 105.9"
-    },
-    {
-      "id": "01837c3a8bf2",
-      "titulo": "Exposição “Essência Negra” celebra força, cultura e identidade de mulheres negras em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVWVFNmJQb3Jic1hteDJFX251UzgwdUZzellHeTJ2Znp1bFI4RW9oV2dvOWo1cy1QY3pGcVNFTHNZTG9kRlB5aXM3NUp4LWxYSmc4Z0J1cEI4eTlfM3RQVFBQenpvUkc5OXRvNlBIeE9mWDZReHNBTmM2ZHlfR1N0OTEtR1JoZFVKdjRaaEpoQ3M0TFhuUERYUzJiQnFJSHBrWFBLVTdYWkQtOV91OFhybl9WZVRfb0FmVDU1N05qRkVFVEd6YS10RjlpQ05iNmlVM3QzR0VvQzRtLTcw?oc=5",
-      "fonte": "Portal de Camaquã",
-      "publicado_em": "2026-08-17T00:33:09+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Exposição “Essência Negra” celebra força, cultura e identidade de mulheres negras em Guaíba Portal de Camaquã"
-    },
-    {
-      "id": "03de60ffa894",
-      "titulo": "Câmara de Vereadores de Guaíba, no RS, abre vaga de estágio com bolsa de R$ 1.898,38 e benefícios",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNHRYWmJJVG50akptODNmX3QyN2FRTUM0MjNSdWdOck9Rb1FXTFRQblhKMWlHTFFET251WlZZcDMtc3NNRm5YQnhnWl9tc05aRTNWbHVXeHZ1OGtJZDBXSlNEMk1LbktWdzVfRk4wRjhhN1RXRkVGOTdrNklfcmlKUjNsemNlRVhjWHMzcno2VEt4NW9qcjNxSFgtMHFZZDBaYUUxblJZM0JhcVlCdjVPVHRQNXJOeXduSlVWREJlcS1QejlOQW9sd1RsVG1OOWYxZlVZcS1ta0hCLWY2TUZybVY0YVU?oc=5",
-      "fonte": "Portal de Camaquã",
-      "publicado_em": "2026-08-16T22:27:43+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Câmara de Vereadores de Guaíba, no RS, abre vaga de estágio com bolsa de R$ 1.898,38 e benefícios Portal de Camaquã"
     },
     {
       "id": "117cbfced8df",
@@ -357,11 +337,11 @@
       "id": "2a6b24376e9f",
       "titulo": "Consórcio RioS mapeia risco climático na bacia do Guaíba para priorizar obras de resiliência",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZmpnVy0tX29LNlRmU1l3MnZjckxUbTBodHFhTGhTY3ZETXY5bW92bldlV3BHeEFFZ0l3YXcybUpEWElBZ25jWGZlblk3clBOQnR4bzItcjRBcnJzLVVmd0lSd1lHc3JfeXVCU2FuRnIyMHBqUFFiV0RCVkZab2M1S19sTGt1a0Qxb1Z0ZE8zN2Nkb1dwV0VfS1FMYUVsYlJzQUZsX0dZbW5JY0pIUVdTRW9QZUdGVWhhZXB2X2VSM1B6SWxYVzhROENtbHRhXzdRZ1NCVHZ4OWNZNDY3aldhRHFKcmo2Uk3SAfYBQVVfeXFMTjBPbjBnZzFlWHI3M21fM0pyYTVoQV9od1I3T1NUWnpoblpRZlB6ZzMtSDBxN3BsTlB1b3lGQUZhNldENVQ0TnVkekMyMkNKUGZmcG9RUVQtUEdhVjlvMEpMZWNBcnpWWlV2Qkx0UkZYVlVfaHBrckNZMUpqZ2h4RDFuSVNSRmdtdktKcVE4YmV1MzJHVGk2NHlsNTBudFcyaDJTSWZhQXJHSThDMExua1dSc2Mzd1pDWWoxUnhBdjRNSFJ0aDdERm5GNVhnaVdYQjY1ZjFBUkVpaUVlU1BJVjREenJhUk43QXZZSWJSQUl2Um9yRmxR?oc=5",
-      "fonte": "valor.globo.com",
+      "fonte": "Valor Econômico",
       "publicado_em": "2026-08-14T10:30:09+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Consórcio RioS mapeia risco climático na bacia do Guaíba para priorizar obras de resiliência valor.globo.com"
+      "resumo": "Consórcio RioS mapeia risco climático na bacia do Guaíba para priorizar obras de resiliência Valor Econômico"
     },
     {
       "id": "bee3557afec5",
@@ -372,6 +352,26 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Rua Guaíba passa a ter sentido único no Bairro Santana em Varginha Varginha Online"
+    },
+    {
+      "id": "977f3d0973dd",
+      "titulo": "Manutenções no vão móvel da Ponte do Guaíba são concluídas e içamentos são retomados",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOE9PZS1sMk94NEpQemtJb0NfbnAzNFl2Ty00cFhnd3dnVU9zNk1tODBaWktGWFBuVmJpY1hRMlVkUFJ4WXdzVWRTZGFrWlRrWUpHdjVyZjZvVWswWXlXc1RKVFdnbzBGc1lsZC1uUnVBYm9NT3RCR1dlQVp4Q3JteUdqejBxX1dKcWJtUy03UmdkXzA2VV9HSWF5QmdwZTFzazVCV0Q4QzhTSkdsV25CeE9tR3oyMmVDSlcwRjBfOXoxZ09jNUI0X2Z3MTRlLThLYVVVZ1ZtaXpPRDN1VlBYd0ZDRQ?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-13T16:29:42+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Manutenções no vão móvel da Ponte do Guaíba são concluídas e içamentos são retomados Correio do Povo"
+    },
+    {
+      "id": "28753d041133",
+      "titulo": "Polícia Rodoviária Federal apreende carga de iPhones avaliada em mais de R$ 5 milhões perto da ponte do Guaíba, em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaExXX2ZtVmJ4TUk3NXpkZUlZaG1YZEU2Q01xcExhYzhwRmVkN0JKZ3dYU0dWMU4wdkU5Zy1XZVdvYnNSRFRyWTQtMV9tUUtraVVPMGhGQ1FPeTRtRGtyYkZNMDBhNi1DRXgzRkVuSEdfSU85QmdGcnBCeV9OY2lMYVEtbXdNSk9CTHNoX0x1Sm14U3Y5M0FJdUZJZ0dhWnk0YlgtaDVFU3kyRlcySVBvTndKWFZjbHkxVFZ6eEREa3NtQWZVT2VrdzJwLUxhWUtvUkdvTXRadGlDTUtreHFjNnBnSTXSAeoBQVVfeXFMTU1URTRtNnBvQS1OOE44UVhWcU9jcnV2VWhjc044bkczMXhQMGM4bUVMRUtVS01GbW9pUmZxNHZRQmQ4ZVowRnJqU1FVRjdNYXpfc2J5MmticU9qV3JqS085MWF2SldJVXZGaUhqV09rQ1cxU3NuUFhJNTlBaVgzSEdETzBQM3VobnNmTnlPX1hRY0dlMUlNaG4yN0tKUERtTkZxamhsYXdZNTdpMkZTZHc1NkNjVXF3MlVvaUlkbW01VVhpTURxOVl4ZXdWNVlGQWtQcktJRE1OTVBNTU9pRHNpMlhtMF9mZHlR?oc=5",
+      "fonte": "osul.com.br",
+      "publicado_em": "2026-08-13T12:39:10+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Polícia Rodoviária Federal apreende carga de iPhones avaliada em mais de R$ 5 milhões perto da ponte do Guaíba, em Porto Alegre osul.com.br"
     }
   ],
   "noticias_home": [
@@ -396,16 +396,6 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
       "id": "df37597c9344",
       "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
       "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
@@ -414,6 +404,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+    },
+    {
+      "id": "821a278c8680",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
       "id": "777f86ec4825",
