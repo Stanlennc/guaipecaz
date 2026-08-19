@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-19T06:39:35.621033+00:00",
+  "gerado_em": "2026-08-19T12:41:39.461057+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -94,6 +94,15 @@
       "feed": "edital"
     },
     {
+      "id": "01431e1e69d5",
+      "titulo": "Guaíba tem crescimento de 81,6% na geração de empregos",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWXNPX0V3VGlOUnN0NGQ1NnpweWFJVDRNSE9VdnJnRTVMSHppWS10NTY0WVF5bWdFcU4xcjVtWkZieURhd0NSbUstVjVIaGx4RGl4WWxhMHdUTDZvSExGR1YtSmQtUzVSNmJQVU1iMUZxYUlSRkZ0azdVMng4eTRvRg?oc=5",
+      "fonte": "Rádio Guaíba",
+      "tipo": "vaga",
+      "publicado_em": "2026-05-01T13:45:17+00:00",
+      "feed": "vagas"
+    },
+    {
       "id": "d3131a89b6d1",
       "titulo": "Rotary Guaíba e Secretaria de Educação divulgam o 4º Concurso Escolar de Oratória",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFhxakQwUmZLRzhCVGlEOGQtQmcyX2VlcjkwRVEzNXVWaFYzTkRjaUFFbEdVQTVlS25JQ2d3U0lDM0d6TUhZcUduX2c1SmVTSW9HY2U2R2tLZXN0SFpNUlA2VWVRRHVsV3p4SVE2bVkyYnBQeGhHeVF0OE5UclJkTXRGTUxQV0FwY0tuZXAzZEJ6cEZGUGJwRmJFWXEzQVdJaVJvcEFUb0N2WUFmbzdqbGp0ZFprUFFqdFZyLVRtTWZISGM?oc=5",
@@ -101,15 +110,6 @@
       "tipo": "concurso",
       "publicado_em": "2026-04-23T07:00:00+00:00",
       "feed": "concurso"
-    },
-    {
-      "id": "8cf47856226c",
-      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego e realiza entrevistas para oportunidades em Eldorado do Sul",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTmtMNVFaY0RYYjlraklQYzhtRFgzV3B1M1hCQXVFUHpwNHU3ejJRT2Q0UWdJUll1UnJZQnBITmlscFdYRkNIX0RXYzAzWEVEZVVqblUxbTQ2MGg0aEt2Z0tWTFVIZzBmT2wwREFoYWlhRnRINWxfYm82eXNWRE5JdkdQenB6T3pRUGNIWGxZQ284Q1hvRzY1Vnh4UGFmNTlIRDlBQm8wb3RwaVpUVk9manVINHk3U1lGSzhmeEtlV0NWRzAwSFgyNXU5UFQzMzUwOE1rZlI0Z0w4Ymt3OWRqbm8zS0hFa2s?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-04-09T07:00:00+00:00",
-      "feed": "vagas"
     }
   ]
 }
