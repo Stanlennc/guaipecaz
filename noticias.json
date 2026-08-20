@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-20T12:44:17.365284+00:00",
+  "gerado_em": "2026-08-20T14:34:22.804197+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -154,6 +154,26 @@
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
+      "id": "c944b5be79f8",
+      "titulo": "Guaíba recebe Mutirão de Documentação da Trabalhadora Rural",
+      "url": "https://expansao.co/guaiba-recebe-mutirao-de-documentacao-da-trabalhadora-rural/",
+      "fonte": "Expansão",
+      "publicado_em": "2026-08-20T13:12:38+00:00",
+      "categoria": "Cidades",
+      "feed": "expansao_direto",
+      "resumo": "Nesta sexta-feira, 21 de agosto, a Agência de Desenvolvimento Econômico e Social de Guaíba, receberá o Mutirão de Documentação da Trabalhadora Rural. O evento acontecerá em frente à Agência, localizada&#8230; O post Guaíba recebe Mutirão de Documentação da Trabalhadora Rural apareceu primeiro em…"
+    },
+    {
+      "id": "b147d1a65c07",
+      "titulo": "Corregedoria da Brigada Militar condecora repórter da Rádio Guaíba e troca de comando, em aniversário de 29 anos",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWlcwUzdmclJHQjRzYmhDMVVDeFQ1a1BNZll4VnV3eWwxRmFXOW1RNzF0bDNjdnVFTDJ6S1Z4b0hGOVNaY0RTRjVJVlZCSkxZWXJDRklJOGZwTmlRVERUUjhST2o2NnZvZnVwMlVYeFR6OS0yMHEycThfQ2lndHlHZTk1ZE53T2xfX181ZkNrVUNKZkV1a2Joeld5dktIUkRmLTluVXdRN3JQWjg0czFtZGlWaExiOVFKSjFWT2N2VktOclQ0eU5kZ3ZIWWtFX3c?oc=5",
+      "fonte": "Rádio Guaíba",
+      "publicado_em": "2026-08-20T13:44:17+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Corregedoria da Brigada Militar condecora repórter da Rádio Guaíba e troca de comando, em aniversário de 29 anos Rádio Guaíba"
+    },
+    {
       "id": "2a802db0499e",
       "titulo": "candidato domingues da ponte do guaíba | eleiçoes 2026",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMkxpSXJ1NkQ5MktWcnhBT1hwSDBFdGRlQVhvZUoxNlR2WGJsclhFVFAyRGZyYmZGODJGdm5YUjZJamRVX0lBWkJZNldQUm51b0ZkcktIb3hnNXduLUpwTHhocEJKLUpUV20xR1pfcmxxT3VBUmxiRV9rdGx5LW5PZEhwSWlwYUFFNTRHWjlmSjBUNkJRVmJZVTIxb0ZSR25FZEV3YmVkS2NBb1JZLUZ5NFM0andVdw?oc=5",
@@ -174,23 +194,13 @@
       "resumo": "Quem é Domingues da Ponte do Guaíba, candidato a deputado estadual do RS pelo PODE força do vale"
     },
     {
-      "id": "b147d1a65c07",
-      "titulo": "Corregedoria da Brigada Militar condecora repórter da Rádio Guaíba e troca de comando, em aniversário de 29 anos",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWlcwUzdmclJHQjRzYmhDMVVDeFQ1a1BNZll4VnV3eWwxRmFXOW1RNzF0bDNjdnVFTDJ6S1Z4b0hGOVNaY0RTRjVJVlZCSkxZWXJDRklJOGZwTmlRVERUUjhST2o2NnZvZnVwMlVYeFR6OS0yMHEycThfQ2lndHlHZTk1ZE53T2xfX181ZkNrVUNKZkV1a2Joeld5dktIUkRmLTluVXdRN3JQWjg0czFtZGlWaExiOVFKSjFWT2N2VktOclQ0eU5kZ3ZIWWtFX3c?oc=5",
-      "fonte": "Rádio Guaíba",
-      "publicado_em": "2026-08-18T23:25:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Corregedoria da Brigada Militar condecora repórter da Rádio Guaíba e troca de comando, em aniversário de 29 anos Rádio Guaíba"
-    },
-    {
       "id": "80d7989232d9",
       "titulo": "Após temporais de julho, 757 toneladas de resíduos são retiradas das margens do Guaíba, em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORy1rSmxiRkRCcHY0UUd4WVQ4RGJHV05HZm9mWDNiTXhaZ1gwUmhiRUxTRU5RT3U5S21yMU1uNUJ5SkZsLWxVUXpnbTVwLVhFOERnczR6cF8yVWQxOUtXZGh2VkVLSTFPQjVKOFhOLWVreUNWa2RQVDF1R1hsSEl5Q2tKa2k3dGNvTlBfY2plQTV0ZlFubW1nZTBNSWs2aTU1U2dSMkhYeTA4ZFE5WldPOGp5ZXo0YTVWN2c0QXotSXNWV0xFYTYxSlo0ckpVd3E3MmRyMngzU25yT0s5ZWQzai11RWdYTUxKVzM4NU1peXh2LUtNOWxTd2JOd1BscnJ5Vl8wX2xxTVZiRnJOb2lFY2ZMODR1clJa?oc=5",
       "fonte": "GZH",
       "publicado_em": "2026-08-18T22:19:35+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Após temporais de julho, 757 toneladas de resíduos são retiradas das margens do Guaíba, em Porto Alegre GZH"
     },
     {
@@ -362,16 +372,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba Jornal da Capital"
-    },
-    {
-      "id": "be9e93cfa7e8",
-      "titulo": "Sete pontos da bacia do Guaíba estão em cota de atenção na manhã desta sexta",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXZTeGJyS3JuWjhtWkszQzk5ZHc0ZGpmLUhpaFdwTHhTUjNMODFwTFMzRUl1R1lGWXhMTXhnRTd1UFhaSzNOQnFKaTdqY2hrVDY2WEIwaHlockd3RWs1MHlVUDdwb3Y2bGRCOGRnUk5NMFR3YldoTE5MMm1SVmpRUGZSN3J1aXhsQnFXaFd5bExwakpKS2ljUGp4U3Z1RDFaTENFM1BVYWx1d1JDUF9fZVY3bWRfQmVIQXdLLTd1dHFWVXFSRVozcmh4QlhfVDVUV1hXRVRYaE4?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-08-14T13:15:33+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Sete pontos da bacia do Guaíba estão em cota de atenção na manhã desta sexta Correio do Povo"
     }
   ],
   "noticias_home": [
