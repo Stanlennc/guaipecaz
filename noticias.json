@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-21T20:23:14.062896+00:00",
+  "gerado_em": "2026-08-21T22:22:13.705135+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -152,6 +152,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "1d228f8be8c7",
+      "titulo": "Acusado pelo MPRS por homicídio é condenado em Guaíba e preso em Santa Catarina cerca de uma hora após sessão do Júri - Ministério Público",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kT2tXWk5ObklhSlpsNFZyT3phZEg3VmpKT214MXliZFBwbmFOaTY1ekMwd2lkVE1mVlhIWWFqUjhiZVV4TjRURGxpOGFBU2M?oc=5",
+      "fonte": "Ministério Público - RS",
+      "publicado_em": "2026-08-21T21:36:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Acusado pelo MPRS por homicídio é condenado em Guaíba e preso em Santa Catarina cerca de uma hora após sessão do Júri Ministério Público - RS"
     },
     {
       "id": "77851e93d4c1",
@@ -362,16 +372,6 @@
       "categoria": null,
       "feed": "correio",
       "resumo": "Vento faz água do Guaíba invadir ruas da ilha da Pintada neste sábado Correio do Povo"
-    },
-    {
-      "id": "a440c44ea995",
-      "titulo": "Guaíba segue em cota de atenção em Porto Alegre, mas com nível decrescendo",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWUhoaDNBSFBRaFhJZGM3UnhkMDB5aER2cmltOEF6T2NXMlh2QmdsMnp0TEg3Ul9oNnNKQTk1YjUwbHVTUmdMemhicGtiWGFIc21UZnkzN3cyWmdnMldnM0dkMk5fUHk0V29PTEZLLWlhcjNfcmlKb3h6Z2xRN0JCaEF6MUdyWWp6S1lEbDc3Rk9tb0d6QU84TkNob2NJYjNKZzgxSkxGSGRaVjlGUHVVTkNObVR2dHRnWTBzUEpKQ01wejA1MG9nSEhaQXlvMUU4blhBbw?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-08-15T15:36:42+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Guaíba segue em cota de atenção em Porto Alegre, mas com nível decrescendo Correio do Povo"
     }
   ],
   "noticias_home": [
