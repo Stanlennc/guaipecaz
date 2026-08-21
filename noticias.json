@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-21T01:11:14.428432+00:00",
+  "gerado_em": "2026-08-21T03:00:43.776703+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,86 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "e37d22daa6a2",
-      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-20T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
-    },
-    {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-20T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
-    },
-    {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
-    },
-    {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
-    },
-    {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
-    },
-    {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
-    },
-    {
       "id": "7d35adcd370e",
       "titulo": "Viver o melhor de POA: sábado tem música, gastronomia e atrações na Orla do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSTRaRU9hcFlvNDRUX0JmZl90alFzT1dqc2FvcW9DWXFGWGtJRkpDWHVwZGs5OHVrNzBnM0pac290RldZd3YwZTlPT2Jpbmx1YXlZSUE4R2gzSFRkeE5MaVdlZTdDaEtzaXVseGFQbFY1dWEzODg0a0c5ZnJJTGZodG1IUk5KZHRYWFZsQmRHaXlvOGdtaTB5VjRNbDNucEdtRXlab1NzdXhtb1BFb19hSDhkT2dkY0xtQkJNVERtQV81N2x2bm1TS2tUV1JGOHRSazNVMkt5SDZDLTlEXzdPTEZoOFRlOVhHc192R0hLeDQwNFV3QWJLdDhVTllKb2llbjdzbWY1M1RIZw?oc=5",
@@ -194,14 +114,14 @@
       "resumo": "Brigada Militar resgata cinco filhotes de coruja durante operação em Guaíba#shorts R7"
     },
     {
-      "id": "7da8acc31646",
-      "titulo": "Guaíba recebe Mutirão de Documentação da Trabalhadora Rural",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWV0OVRsZWtmbnp4Z3IzeUI4NXcwRVI1MmZ1N21lelBsUmkxdVZQMTFqaFNrM2FQTjlwUVA5R3lyTUtRMy1pMGpGQVRZdTVOOUF1WEJrZTJHX19WYmh5S0ZYN05hZzRxLVFfdDd2eUhsVTFtaG5FQmdHaXBlcUdJWW15NTJCRWc?oc=5",
+      "id": "78bbfad4bc5d",
+      "titulo": "Arquivos Agência de Desenvolvimento Econômico e Social de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXRwNkdHejZNMXlUUExoODByVWhoN090a0dIYUlTNkpsRFRNSTNHWHVrNlhHS3BTOE4zbDM2UFJnb1pHRTA0UDZMUk10Q1hHSXZSd1NnTFBCdTFGaUZMT2JVc05zeFZMNVB0d3VEcHNXOXhldWN3T05MQ0FGbU1VZXJCSnFpR1B1?oc=5",
       "fonte": "expansao.co",
       "publicado_em": "2026-08-20T13:12:38+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Guaíba recebe Mutirão de Documentação da Trabalhadora Rural expansao.co"
+      "resumo": "Arquivos Agência de Desenvolvimento Econômico e Social de Guaíba expansao.co"
     },
     {
       "id": "2a802db0499e",
@@ -287,11 +207,11 @@
       "id": "bea17b445542",
       "titulo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1QxN2tyU3Rlc05ueEFxY21faG5qVzlqSjJCbTBYU1k3THpRNkIxOW5UaGVZZWhjRHdkNXk0TDlxMHFoZ2JHRHUzMEF3V01zU0hZbFNXdXprMGVwRFF2VUp2QnplMWxISFNFVkJzX3N3SzJUS2dHRXY2VXJiVXRWVFRkZTg4LVRqWC1xMWJEazBwTjJmZDZtZ3ptYkJENWxqRjdwMmxNVVphOVVhN3pVakppMTJadU9DOEZJUHZHZFY?oc=5",
-      "fonte": "UOL",
+      "fonte": "UOL Economia",
       "publicado_em": "2026-08-17T22:51:47+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana UOL"
+      "resumo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana UOL Economia"
     },
     {
       "id": "01837c3a8bf2",
@@ -372,88 +292,168 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba, em Porto Alegre Super Transado"
+    },
+    {
+      "id": "d420813bd307",
+      "titulo": "Mapa para o cinema Cult Cinemas Guaiba em Guaíba (92700-140)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KV3ZralliX2RQd04tWVAwaTc0NjdhejkyVFdkV1dTWDczWHpILU5pZHExSXpwTERIMEJIUXlZdEU0b1J6QWdWOXNsbjZEOUdnUHlZcUc4ZFpxUWV6SzFyaEt0S2N1c2x4T3c?oc=5",
+      "fonte": "AdoroCinema",
+      "publicado_em": "2026-08-14T22:13:42+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Mapa para o cinema Cult Cinemas Guaiba em Guaíba (92700-140) AdoroCinema"
+    },
+    {
+      "id": "bc217f7d9d3a",
+      "titulo": "Praça do Guaíba recebe o Circuito Hip Hop pelas Comunidades no domingo (23/08)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yN0JfalY3ZjVWQjNOb090OEREdERGMXNMOUJHQzJaOG1HWFdhZGNFMHJZUzNXUGpuOHNURjgxNkh5OEc2VkVNc1JnN2dkZlhQejd3WUFxdGV6QnNTSWprbXl5VHV0Tlg0V20tejFPV1J3RlFqdm5WWEctREFsQQ?oc=5",
+      "fonte": "Agenda Sorocaba",
+      "publicado_em": "2026-08-14T21:10:55+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Praça do Guaíba recebe o Circuito Hip Hop pelas Comunidades no domingo (23/08) Agenda Sorocaba"
+    },
+    {
+      "id": "75221fb54c53",
+      "titulo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa2c5Rm1ka1FHaDJHUzdLMWR4TjhTZGUxTlVpRFFoQTI3NUJtRko1Mng1Q2d4THFXTWxPQTdzWGVZazFzS1F1Qy1mZmN4LWZ6TXhlUW5Ka2lVVmlHUF9CTEZYNkZheGl5SEFEMVFXOTVtZTdZRWkyQmRxYk5SUElFQ0NjZGZsVHhibzAyNHQxb1ljSnZEY29wR0lMdFdPVmM3NndUOTNidkQwSUxCeG9MZGQtU3dYSC1VZDI3UllSX3ZfRGdnUV93?oc=5",
+      "fonte": "Jornal da Capital",
+      "publicado_em": "2026-08-14T16:22:52+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba Jornal da Capital"
+    },
+    {
+      "id": "be9e93cfa7e8",
+      "titulo": "Sete pontos da bacia do Guaíba estão em cota de atenção na manhã desta sexta",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXZTeGJyS3JuWjhtWkszQzk5ZHc0ZGpmLUhpaFdwTHhTUjNMODFwTFMzRUl1R1lGWXhMTXhnRTd1UFhaSzNOQnFKaTdqY2hrVDY2WEIwaHlockd3RWs1MHlVUDdwb3Y2bGRCOGRnUk5NMFR3YldoTE5MMm1SVmpRUGZSN3J1aXhsQnFXaFd5bExwakpKS2ljUGp4U3Z1RDFaTENFM1BVYWx1d1JDUF9fZVY3bWRfQmVIQXdLLTd1dHFWVXFSRVozcmh4QlhfVDVUV1hXRVRYaE4?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-14T13:15:33+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Sete pontos da bacia do Guaíba estão em cota de atenção na manhã desta sexta Correio do Povo"
+    },
+    {
+      "id": "2a6b24376e9f",
+      "titulo": "Consórcio RioS mapeia risco climático na bacia do Guaíba para priorizar obras de resiliência",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZmpnVy0tX29LNlRmU1l3MnZjckxUbTBodHFhTGhTY3ZETXY5bW92bldlV3BHeEFFZ0l3YXcybUpEWElBZ25jWGZlblk3clBOQnR4bzItcjRBcnJzLVVmd0lSd1lHc3JfeXVCU2FuRnIyMHBqUFFiV0RCVkZab2M1S19sTGt1a0Qxb1Z0ZE8zN2Nkb1dwV0VfS1FMYUVsYlJzQUZsX0dZbW5JY0pIUVdTRW9QZUdGVWhhZXB2X2VSM1B6SWxYVzhROENtbHRhXzdRZ1NCVHZ4OWNZNDY3aldhRHFKcmo2Uk3SAfYBQVVfeXFMTjBPbjBnZzFlWHI3M21fM0pyYTVoQV9od1I3T1NUWnpoblpRZlB6ZzMtSDBxN3BsTlB1b3lGQUZhNldENVQ0TnVkekMyMkNKUGZmcG9RUVQtUEdhVjlvMEpMZWNBcnpWWlV2Qkx0UkZYVlVfaHBrckNZMUpqZ2h4RDFuSVNSRmdtdktKcVE4YmV1MzJHVGk2NHlsNTBudFcyaDJTSWZhQXJHSThDMExua1dSc2Mzd1pDWWoxUnhBdjRNSFJ0aDdERm5GNVhnaVdYQjY1ZjFBUkVpaUVlU1BJVjREenJhUk43QXZZSWJSQUl2Um9yRmxR?oc=5",
+      "fonte": "Valor Econômico",
+      "publicado_em": "2026-08-14T10:30:09+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Consórcio RioS mapeia risco climático na bacia do Guaíba para priorizar obras de resiliência Valor Econômico"
+    },
+    {
+      "id": "c235a85ba366",
+      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNHc2bW5CSklCNlpwMDh1VkdDX2Vyd2UwNnFqVVp0N3VsWThaQU1hWENOSXRIcWVnQThscjFsZUx2T0szSUltdkpLNDlrWHI1SGRaVlNQU2RlVzFlMmJWSHFzUjB5OEJVeEZsMWFMOU93dC1TMWtWeEMtMHdHX293Z3BGQnd4bzZCc2haRnB3XzJ5WmlBeEFsVUZoVzltNzZna2l5WXJNcXE3SmZrZTV1YVBzTGNqRWc4Z1pySUtDOXp0M0hTZDVFd29kaG1lXzczWlA5R2RueS1NNU0?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-10T19:10:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba Repórter Guaibense"
+    },
+    {
+      "id": "222af359a8b8",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTURzNW01X2p1R2RIRjdKWDdhQnRQMnpoakNGckF0andQTEhjUWZTLXkxVzlBVF94bmp2VzB5bE5UQ0I0Nm1GSXNtampTOGtDTUp3SThLdGxybVRoVFNRNmJWZ0JCdnd3SFBaX213OVEtQVItbmI1TTFXSWI3ZUlSLU5BTXJGckE1OExjemxfWHN1RGZRTTBGS3hnX3dFdVRnQ1FjX3lRODlKTTJ4VjYtT04xdlh2YU1qUy1CMzlFUko2VnJfQWhFTkg5LUVZcnpTaFdXOUxPSzhYM1U?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-04T07:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego Repórter Guaibense"
+    },
+    {
+      "id": "37f40c701ca5",
+      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb0g3TzRsLVhVaGtFV09iUmhwaUV3YjNHWERZcGFTLU1SMTlQb1NpV194djlnTjhXVF82UGFERTA4MXBIUDFnbjUyZWtldkYydHdNY0ZVWXBiazIydUptY2hYbWRhUkwxejRVTTl0TDcwYWNxQ1M5SzNvQ29KejJkVjJyLW1POXVWRTJ6STlYOXV1N3V2RmhqekJuZDZCLWJVZ1VhRDdhS0Z5RGJmN09DbzN6MEN5WElMTG1ZMXJjLUFTc2FpUzRlMjRFSElTMkVVWjNr?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-03T21:57:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário Repórter Guaibense"
     }
   ],
   "noticias_home": [
     {
-      "id": "e37d22daa6a2",
-      "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-20T00:00:00+00:00",
+      "id": "7d35adcd370e",
+      "titulo": "Viver o melhor de POA: sábado tem música, gastronomia e atrações na Orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSTRaRU9hcFlvNDRUX0JmZl90alFzT1dqc2FvcW9DWXFGWGtJRkpDWHVwZGs5OHVrNzBnM0pac290RldZd3YwZTlPT2Jpbmx1YXlZSUE4R2gzSFRkeE5MaVdlZTdDaEtzaXVseGFQbFY1dWEzODg0a0c5ZnJJTGZodG1IUk5KZHRYWFZsQmRHaXlvOGdtaTB5VjRNbDNucEdtRXlab1NzdXhtb1BFb19hSDhkT2dkY0xtQkJNVERtQV81N2x2bm1TS2tUV1JGOHRSazNVMkt5SDZDLTlEXzdPTEZoOFRlOVhHc192R0hLeDQwNFV3QWJLdDhVTllKb2llbjdzbWY1M1RIZw?oc=5",
+      "fonte": "Rede Atlântida",
+      "publicado_em": "2026-08-20T22:12:46+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
+      "feed": "recentes",
+      "resumo": "Viver o melhor de POA: sábado tem música, gastronomia e atrações na Orla do Guaíba Rede Atlântida"
     },
     {
-      "id": "8a9e8f04364e",
-      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-20T00:00:00+00:00",
+      "id": "6686466e2b94",
+      "titulo": "Vettori comenta preparação para conduzir sabatinas eleitorais da Record Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXFobFo4VGUyMjVkSEpmdEsxSFV5UndQRkZxNk1vOWtLNERxR3J6MUViNDFhUFo1S3duelZtSHRUbFRmYnRqYnNwRlBKckN5QTZWYzZkWkJTNjVMU0NjMG52ZC1qOFc2RGZvcnV3UHF0b0RhSkg0bGNZTHE5UWF4enFSbXVDNHpBWV9RbzlBc2YxZUE5WGRuY3JSU3dzUlhrRWdNYTEzakxXR2djTGc?oc=5",
+      "fonte": "Coletiva.net",
+      "publicado_em": "2026-08-20T21:45:43+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
+      "feed": "recentes",
+      "resumo": "Vettori comenta preparação para conduzir sabatinas eleitorais da Record Guaíba Coletiva.net"
     },
     {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "b26c0f0af741",
+      "titulo": "Record Guaíba finaliza série de entrevistas com candidatos ao governo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaU1wOUxIb3VFdENxVGdDV0kxMnJraXoyRkJuUXpRY2tJOHdDQWF5NTBwdzJBUDA3WXFNODJRaW9kaDB0QTAtWTZ3R0dnMjZkYy13R3J1cWN0TnFzRlVFNUNKWjRNaWl4V3o4T3BKTEtBSlZSd0NyeGlULXUtT1FYYTNSWVFsR1p0UjJaX1o5UGJZcmswejNBTS05dHNEdndnckE?oc=5",
+      "fonte": "Coletiva.net",
+      "publicado_em": "2026-08-20T18:02:15+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
+      "feed": "recentes",
+      "resumo": "Record Guaíba finaliza série de entrevistas com candidatos ao governo Coletiva.net"
     },
     {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "43744afa3c9e",
+      "titulo": "Brigada Militar resgata cinco filhotes de coruja durante operação em Guaíba#shorts",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOby1teVJLZXM3bWxGM2lWbVVJcTQ0WWhmYnlQRkdpaWMwSFlmX2tMcl9Fcml4UmNIX2IyYkIxaEpMZVY1M2c5cHp6SDdiaTgybWJhVUpEQ1d3TzByMlR1ZlVhdXVqSW9rblBWQy1mbXh2OEFhMDVUeTZsV1NGdm15c29uQnNxaWhubjVqNUtUalhmQW9wNV95VldCQlhDNlJrV3N2Q1VOTldQRllOay1KWmNjRzg3SHAyVVBGVTNpQU5GT0xhbm9RM2E5bTF2Zw?oc=5",
+      "fonte": "R7",
+      "publicado_em": "2026-08-20T15:37:09+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "feed": "recentes",
+      "resumo": "Brigada Militar resgata cinco filhotes de coruja durante operação em Guaíba#shorts R7"
     },
     {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "78bbfad4bc5d",
+      "titulo": "Arquivos Agência de Desenvolvimento Econômico e Social de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXRwNkdHejZNMXlUUExoODByVWhoN090a0dIYUlTNkpsRFRNSTNHWHVrNlhHS3BTOE4zbDM2UFJnb1pHRTA0UDZMUk10Q1hHSXZSd1NnTFBCdTFGaUZMT2JVc05zeFZMNVB0d3VEcHNXOXhldWN3T05MQ0FGbU1VZXJCSnFpR1B1?oc=5",
+      "fonte": "expansao.co",
+      "publicado_em": "2026-08-20T13:12:38+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
+      "feed": "recentes",
+      "resumo": "Arquivos Agência de Desenvolvimento Econômico e Social de Guaíba expansao.co"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "2a802db0499e",
+      "titulo": "candidato domingues da ponte do guaíba | eleiçoes 2026",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMkxpSXJ1NkQ5MktWcnhBT1hwSDBFdGRlQVhvZUoxNlR2WGJsclhFVFAyRGZyYmZGODJGdm5YUjZJamRVX0lBWkJZNldQUm51b0ZkcktIb3hnNXduLUpwTHhocEJKLUpUV20xR1pfcmxxT3VBUmxiRV9rdGx5LW5PZEhwSWlwYUFFNTRHWjlmSjBUNkJRVmJZVTIxb0ZSR25FZEV3YmVkS2NBb1JZLUZ5NFM0andVdw?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-08-19T19:06:42+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+      "feed": "recentes",
+      "resumo": "candidato domingues da ponte do guaíba | eleiçoes 2026 GZH"
     },
     {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "b0c3d7861ddc",
+      "titulo": "Quem é Domingues da Ponte do Guaíba, candidato a deputado estadual do RS pelo PODE",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQU2NWMGlrRTdwVVFlY0p5cWNCUWQ0Sjc5TVBFekUyTGZXN09FUW9wR0N5eVRmLWwzMERxdktPMlIwcVhhb05SZ3JtM1lxMERLNE9OaU9kcUlYVUhUaFFKZ0ZTWS1qTUNTMjQ4b1FfRFA0NjNqclFsV1F4TkNJNXU1eHZWN1FkOXdEa1hJb1U2N0lodXE1a09ia1JwR21KS3JKVnFDMkctMlRLUG9yMDNjTEVXNnRERHZpczJjeHp6V2ludlVCTFAxS2dySUpRUExER3ZmQlZJNU92RmU2alA5V3A2cUd3c2xEdl9IMHUzcndPU3pVT0dLY2tSQ0hEVm84MmRrU0JIWFVHZWRNTjBId3lfcXVOdEpoM2ZfMXlEblI?oc=5",
+      "fonte": "força do vale",
+      "publicado_em": "2026-08-19T11:55:07+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
+      "feed": "vizinhos",
+      "resumo": "Quem é Domingues da Ponte do Guaíba, candidato a deputado estadual do RS pelo PODE força do vale"
     },
     {
-      "id": "16fe33979805",
-      "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "5be37185fbc3",
+      "titulo": "Quem é Domingues da Ponte do Guaíba, candidato a deputado estadual pelo Rio Grande do Sul nas eleições de 2026",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNM3VQbDgzd21PMmtncDFoV3RDdmRxYU5QQndiRFpQREpxeE1mNzZ1OUk3dFVkbG9hTGNLeV9wS0NIVWg0YlBoaE1oTVhucVpSM2lYMkE2U010SWZGQ19DZ3dzTE9hZWppWEFpZ09mTHRUcGw1eXAwREdRRU5DaFcyNG9UTExBa1Y3QUp3MUdnd0dwU0FNZ2Z2ZVBfYU1pMjBZMDdSa0Y5V1djZVdpdUE4T2wxbzg2Z2RISHgtZHozQW05MFZRSmxybURKQ2pYUElUSjcwRERwQlNiX1NVTmpfNEo1TUd1U2NHTFo1ckwyYzFRUWlTNDlaVGg2ZXBIZ1NKTmdfNDVINW1Tc2s4REdrVXBhU3RPTWJONmVPWG9wUUFETE1Nck9RS3AzU1F5d0E?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-08-19T07:00:00+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+      "feed": "vizinhos",
+      "resumo": "Quem é Domingues da Ponte do Guaíba, candidato a deputado estadual pelo Rio Grande do Sul nas eleições de 2026 GZH"
     }
   ]
 }
