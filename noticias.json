@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-22T08:26:49.887444+00:00",
+  "gerado_em": "2026-08-22T10:21:12.748422+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -254,16 +254,6 @@
       "resumo": "Quem é Domingues da Ponte do Guaíba, candidato a deputado estadual pelo Rio Grande do Sul nas eleições de 2026 GZH"
     },
     {
-      "id": "fa33963aed49",
-      "titulo": "Após temporais de julho, 757 toneladas de resíduos são retiradas das margens do Guaíba, em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOQTlwNVVybGY3cndjM0l3U0FKQ1I5ZmdPdFpmUzFtaThmZnJ2dUx3LXNSUEFCZWluQ2VVQndlckN5bS12THJMZ1paM3dKLWhRaGo4Vld1YjJITTJZUEtKWHZYMUVmQ3hCVmJQTGRwajdyVDlhQjZXRG9MeTV6YS1KRWtpdnpydW5kNGNRMDAxTUhXNGJSX0ZoVTNYQl85NlZuODdVcl94SUpCVHlTWUZBUndGcG5JcDNEd3RuTms3Q2pFUnNhQmNiU3Z0b0Y0Nm12enpNY2hkeHoxWmdJay1LeG9HdzFuT0ZNcGV2ZWdDWjlPcDJqOTlHWmVrcTNhNE9DOXlFVjFMOGFyWEZwTGR6YVhWQUwzR0dydWJWZ1dONA?oc=5",
-      "fonte": "Diário Gaúcho",
-      "publicado_em": "2026-08-19T14:53:02+00:00",
-      "categoria": null,
-      "feed": "metro_poars",
-      "resumo": "Após temporais de julho, 757 toneladas de resíduos são retiradas das margens do Guaíba, em Porto Alegre Diário Gaúcho"
-    },
-    {
       "id": "b0c3d7861ddc",
       "titulo": "Quem é Domingues da Ponte do Guaíba, candidato a deputado estadual do RS pelo PODE",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQU2NWMGlrRTdwVVFlY0p5cWNCUWQ0Sjc5TVBFekUyTGZXN09FUW9wR0N5eVRmLWwzMERxdktPMlIwcVhhb05SZ3JtM1lxMERLNE9OaU9kcUlYVUhUaFFKZ0ZTWS1qTUNTMjQ4b1FfRFA0NjNqclFsV1F4TkNJNXU1eHZWN1FkOXdEa1hJb1U2N0lodXE1a09ia1JwR21KS3JKVnFDMkctMlRLUG9yMDNjTEVXNnRERHZpczJjeHp6V2ludlVCTFAxS2dySUpRUExER3ZmQlZJNU92RmU2alA5V3A2cUd3c2xEdl9IMHUzcndPU3pVT0dLY2tSQ0hEVm84MmRrU0JIWFVHZWRNTjBId3lfcXVOdEpoM2ZfMXlEblI?oc=5",
@@ -282,6 +272,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Corregedoria da Brigada Militar condecora repórter da Rádio Guaíba e troca de comando, em aniversário de 29 anos Rádio Guaíba"
+    },
+    {
+      "id": "80d7989232d9",
+      "titulo": "Após temporais de julho, 757 toneladas de resíduos são retiradas das margens do Guaíba, em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORy1rSmxiRkRCcHY0UUd4WVQ4RGJHV05HZm9mWDNiTXhaZ1gwUmhiRUxTRU5RT3U5S21yMU1uNUJ5SkZsLWxVUXpnbTVwLVhFOERnczR6cF8yVWQxOUtXZGh2VkVLSTFPQjVKOFhOLWVreUNWa2RQVDF1R1hsSEl5Q2tKa2k3dGNvTlBfY2plQTV0ZlFubW1nZTBNSWs2aTU1U2dSMkhYeTA4ZFE5WldPOGp5ZXo0YTVWN2c0QXotSXNWV0xFYTYxSlo0ckpVd3E3MmRyMngzU25yT0s5ZWQzai11RWdYTUxKVzM4NU1peXh2LUtNOWxTd2JOd1BscnJ5Vl8wX2xxTVZiRnJOb2lFY2ZMODR1clJa?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-08-18T22:19:35+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Após temporais de julho, 757 toneladas de resíduos são retiradas das margens do Guaíba, em Porto Alegre GZH"
     },
     {
       "id": "220e3585555e",
