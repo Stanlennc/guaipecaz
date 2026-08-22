@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-21T11:32:56.012039+00:00",
+  "gerado_em": "2026-08-22T11:26:44.814209+00:00",
   "farmacia_plantao": {
     "titulo": "Farmácia de plantão",
     "descricao": "A escala oficial é publicada pela Prefeitura e pelo conselho regional. Confira o endereço da farmácia aberta hoje.",
@@ -39,6 +39,13 @@
       "id": "844e518cddb2",
       "titulo": "Cronograma de projetos sociais sec esportes e juventude",
       "url": "https://guaiba.atende.net/cidadao/noticia/cronograma-de-projetos-sociais-sec-esportes-e-juventude",
+      "fonte": "Prefeitura de Guaíba",
+      "tipo": "oficial"
+    },
+    {
+      "id": "19910605abb8",
+      "titulo": "Listagem oficial de conscritos convocados para a selecao geral",
+      "url": "https://guaiba.atende.net/cidadao/noticia/listagem-oficial-de-conscritos-convocados-para-a-selecao-geral",
       "fonte": "Prefeitura de Guaíba",
       "tipo": "oficial"
     },
