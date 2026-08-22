@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-22T01:05:59.810178+00:00",
+  "gerado_em": "2026-08-22T06:35:50.740763+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -37,6 +37,15 @@
       "fonte": "Repórter Guaibense",
       "tipo": "concurso",
       "publicado_em": "2026-07-16T07:00:00+00:00",
+      "feed": "concurso"
+    },
+    {
+      "id": "2af13ba036a9",
+      "titulo": "Oratória e Emoção: Guaíba celebra os talentos do 4º Concurso Escolar na Câmara de Vereadores",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaDRDejcteUppeGdvODF5c1VsczZOR0hITkxMaFJnMS1ESmhyTHdPZWdPTnBnMTgyUkYwWjFLaHJjTlBXbENpVFVuQURpVFVpX0R0RjAtOHZJODRIRk05bV96ODhZbXJOU3Z5cGxXRktGLWt0dVpJeGV3eVdoeGFLLUV4N0d1YmNZd3l1Q004cU9GT1U2amgzSkNqX3ZTZU8xRlZqR1ZWYkM0WDEzTlAwNlFmSQ?oc=5",
+      "fonte": "Portal ClicR",
+      "tipo": "concurso",
+      "publicado_em": "2026-06-27T07:00:00+00:00",
       "feed": "concurso"
     },
     {
@@ -101,15 +110,6 @@
       "tipo": "concurso",
       "publicado_em": "2026-04-23T07:00:00+00:00",
       "feed": "concurso"
-    },
-    {
-      "id": "77a0ee2578b3",
-      "titulo": "Frentista, vendedor, auxiliar de cozinha e mais: Sine Guaíba tem 16 vagas de emprego nesta semana",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ3h0bFZtY2dTSEdnWVVXanVReTVpY2ZVclEtUGNKTWJYd2gtWlpUNzRlX01uakE0SHF3RWNZa3hqdks0NlVacVUtbmRnOVZOdjZ0T3RXNU9VbFlDLVJOY2ZGVU1iSTd4Z2pOZ0s0amNPaW1RZ3BDVTFKVGJNdUlkTnpiLUlWLXVna1BBczU1eDhjNDBpbE1PMGExSm9FMmdvLXNNcUhlQXRReHhYaWVWZUkwN3JCejY0VXVRX21NUXlXNHFDOHdsSEFrQUI0WndjVUVGaDh3?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-04-23T07:00:00+00:00",
-      "feed": "vagas"
     }
   ]
 }
