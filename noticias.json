@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-22T20:20:02.225814+00:00",
+  "gerado_em": "2026-08-22T22:19:54.217468+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -152,6 +152,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "52a7d0c8cf46",
+      "titulo": "Economia da Orla do Guaíba muda conforme as estações, relatam comerciantes",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTGlfV3pfTWZxaWx0VmRPbkV5dm1oNGNDdmktOS11MmJfMGtObGhfNldpTFhBX1k0TTF0U01PQmxiN2RlNW5VUmJHRG8yS19BMDFFTDlDQmt2aVRTeWxMdEhxU2lZZGJZUy1FYTFnSUZ6bVFENEEwbnRobGYtUzNDMkxBcXhLRVQ5VVhqV1o5NFVERWtRNzB5bU9EVExpb0tzV2ZLejNBMzdhQjVfLXh1Nmx3eExLQVNmbmhmMHZYWEhRbVE2WWd0QlJ2Vkl6ZTdaSVE?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-08-22T20:49:38+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Economia da Orla do Guaíba muda conforme as estações, relatam comerciantes Jornal do Comércio"
     },
     {
       "id": "0b08a7cab1fa",
@@ -362,16 +372,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Exposição “Essência Negra” celebra força, cultura e identidade de mulheres negras em Guaíba Portal de Camaquã"
-    },
-    {
-      "id": "03de60ffa894",
-      "titulo": "Câmara de Vereadores de Guaíba, no RS, abre vaga de estágio com bolsa de R$ 1.898,38 e benefícios",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNHRYWmJJVG50akptODNmX3QyN2FRTUM0MjNSdWdOck9Rb1FXTFRQblhKMWlHTFFET251WlZZcDMtc3NNRm5YQnhnWl9tc05aRTNWbHVXeHZ1OGtJZDBXSlNEMk1LbktWdzVfRk4wRjhhN1RXRkVGOTdrNklfcmlKUjNsemNlRVhjWHMzcno2VEt4NW9qcjNxSFgtMHFZZDBaYUUxblJZM0JhcVlCdjVPVHRQNXJOeXduSlVWREJlcS1QejlOQW9sd1RsVG1OOWYxZlVZcS1ta0hCLWY2TUZybVY0YVU?oc=5",
-      "fonte": "Portal de Camaquã",
-      "publicado_em": "2026-08-16T22:27:43+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Câmara de Vereadores de Guaíba, no RS, abre vaga de estágio com bolsa de R$ 1.898,38 e benefícios Portal de Camaquã"
     }
   ],
   "noticias_home": [
