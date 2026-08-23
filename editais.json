@@ -1,8 +1,17 @@
 {
-  "gerado_em": "2026-08-22T18:26:46.328483+00:00",
+  "gerado_em": "2026-08-23T01:11:32.598921+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
+    {
+      "id": "03de60ffa894",
+      "titulo": "Câmara de Vereadores de Guaíba, no RS, abre vaga de estágio com bolsa de R$ 1.898,38 e benefícios",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNHRYWmJJVG50akptODNmX3QyN2FRTUM0MjNSdWdOck9Rb1FXTFRQblhKMWlHTFFET251WlZZcDMtc3NNRm5YQnhnWl9tc05aRTNWbHVXeHZ1OGtJZDBXSlNEMk1LbktWdzVfRk4wRjhhN1RXRkVGOTdrNklfcmlKUjNsemNlRVhjWHMzcno2VEt4NW9qcjNxSFgtMHFZZDBaYUUxblJZM0JhcVlCdjVPVHRQNXJOeXduSlVWREJlcS1QejlOQW9sd1RsVG1OOWYxZlVZcS1ta0hCLWY2TUZybVY0YVU?oc=5",
+      "fonte": "Portal de Camaquã",
+      "tipo": "vaga",
+      "publicado_em": "2026-08-16T22:27:43+00:00",
+      "feed": "vagas"
+    },
     {
       "id": "222af359a8b8",
       "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
@@ -11,6 +20,15 @@
       "tipo": "vaga",
       "publicado_em": "2026-08-04T07:00:00+00:00",
       "feed": "vagas"
+    },
+    {
+      "id": "49c16b5cee41",
+      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzlHblVqUXlZbUdfMWhiMXhQdV9NVnlFeXRjakNxbFQwem12LTkxcWlQSkdMcHBDZm5QR0hiY3Z0MFFxQ1RNMW1ZRFpxV1I1elNuX3J1OEtpLWJXQm9jNFVyT0c0YXRvV1dDTE1mdWVmYmJxOWlhZXhEOGdOdEhfMEs0aTJ5T0dXQ29zVEFPNzlmbXJ1S1ZBUTNDX1phS1hkOVBqT25qOHRvUWVsNUZoSE5lSkJOTWxmSllxZ2pxYUVueGJWSkVR?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "licitacao",
+      "publicado_em": "2026-07-20T07:00:00+00:00",
+      "feed": "licitacao"
     },
     {
       "id": "07945b98a1e5",
@@ -29,6 +47,15 @@
       "tipo": "concurso",
       "publicado_em": "2026-07-16T07:00:00+00:00",
       "feed": "concurso"
+    },
+    {
+      "id": "a549bed95947",
+      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLTRwSjRyMGRNYWdjci1rSUdRTXk4T1ZpekoxRDJCbFhoeGxDRGl4MXNWTWVQaE5sdjVOdjNlTU93UkpzVnlSSmdVTlJneTdRaE5OLUthajc4N3N1OEI1NmI1Vkh2amFQYWVFWkZIa01sMUh1X0xjSG1FaXdSMklIaDZBR3lna0F0SllmYllLZ0dXZ1JSMjV1aFlPeTlRVTBKalBYdjBEQUVsdk9Ic216QUhmZU11RWJLdjByUkNRUHhVcVZsQ25rWi13djN3ZWFibVhERmt3azYtaFltQVU0?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-07-14T07:00:00+00:00",
+      "feed": "vagas"
     },
     {
       "id": "efd910ae5dd5",
@@ -82,33 +109,6 @@
       "fonte": "Rádio Guaíba",
       "tipo": "vaga",
       "publicado_em": "2026-05-01T13:45:17+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "d3131a89b6d1",
-      "titulo": "Rotary Guaíba e Secretaria de Educação divulgam o 4º Concurso Escolar de Oratória",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFhxakQwUmZLRzhCVGlEOGQtQmcyX2VlcjkwRVEzNXVWaFYzTkRjaUFFbEdVQTVlS25JQ2d3U0lDM0d6TUhZcUduX2c1SmVTSW9HY2U2R2tLZXN0SFpNUlA2VWVRRHVsV3p4SVE2bVkyYnBQeGhHeVF0OE5UclJkTXRGTUxQV0FwY0tuZXAzZEJ6cEZGUGJwRmJFWXEzQVdJaVJvcEFUb0N2WUFmbzdqbGp0ZFprUFFqdFZyLVRtTWZISGM?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "concurso",
-      "publicado_em": "2026-04-23T07:00:00+00:00",
-      "feed": "concurso"
-    },
-    {
-      "id": "77a0ee2578b3",
-      "titulo": "Frentista, vendedor, auxiliar de cozinha e mais: Sine Guaíba tem 16 vagas de emprego nesta semana",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ3h0bFZtY2dTSEdnWVVXanVReTVpY2ZVclEtUGNKTWJYd2gtWlpUNzRlX01uakE0SHF3RWNZa3hqdks0NlVacVUtbmRnOVZOdjZ0T3RXNU9VbFlDLVJOY2ZGVU1iSTd4Z2pOZ0s0amNPaW1RZ3BDVTFKVGJNdUlkTnpiLUlWLXVna1BBczU1eDhjNDBpbE1PMGExSm9FMmdvLXNNcUhlQXRReHhYaWVWZUkwN3JCejY0VXVRX21NUXlXNHFDOHdsSEFrQUI0WndjVUVGaDh3?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-04-23T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "8cf47856226c",
-      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego e realiza entrevistas para oportunidades em Eldorado do Sul",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTmtMNVFaY0RYYjlraklQYzhtRFgzV3B1M1hCQXVFUHpwNHU3ejJRT2Q0UWdJUll1UnJZQnBITmlscFdYRkNIX0RXYzAzWEVEZVVqblUxbTQ2MGg0aEt2Z0tWTFVIZzBmT2wwREFoYWlhRnRINWxfYm82eXNWRE5JdkdQenB6T3pRUGNIWGxZQ284Q1hvRzY1Vnh4UGFmNTlIRDlBQm8wb3RwaVpUVk9manVINHk3U1lGSzhmeEtlV0NWRzAwSFgyNXU5UFQzMzUwOE1rZlI0Z0w4Ymt3OWRqbm8zS0hFa2s?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-04-09T07:00:00+00:00",
       "feed": "vagas"
     }
   ]
