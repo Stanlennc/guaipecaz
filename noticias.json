@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-23T20:20:26.000800+00:00",
+  "gerado_em": "2026-08-23T22:19:30.677664+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -152,6 +152,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "aaabfd9ec678",
+      "titulo": "Maranata vs Claudinha: extrato mostra que existe mais de R$ 100 milhões no caixa da Prefeitura de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSjBlMlExeDRQNXMxc2ZiU0JBanVqeTVTSDMxVDhWUkxXeGNIQmRKREZsc0lpQlR1ZHlxN3J5R1VxWmxaenpIQW1zdnpRTHJlUTJwQTBmSkhuSXlySzdUMWdObjJmdVVob2dDSFVlVU1Zb0xjTHZQUkl4NlhGM2FmUkR3Zzl6dFhjRk5GeC03aHpMZ3dFVzRoSnk3V25BYUlGNWV3cUlpTWFXd3pJN2JId3lEZHpqSTEyNnVXdUE2SXBqX3dlaXJRLVpJX09XbVVPMi1UMmJ3anFWVHVCTXlR?oc=5",
+      "fonte": "Notícias – Porto Alegre 24 Horas",
+      "publicado_em": "2026-08-23T22:00:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Maranata vs Claudinha: extrato mostra que existe mais de R$ 100 milhões no caixa da Prefeitura de Guaíba Notícias – Porto Alegre 24 Horas"
     },
     {
       "id": "81655642f982",
@@ -362,16 +372,6 @@
       "categoria": null,
       "feed": "correio",
       "resumo": "DMLU conclui limpeza da Orla do Guaíba com 757 toneladas de resíduos recolhidos Correio do Povo"
-    },
-    {
-      "id": "2b4060031189",
-      "titulo": "Quase 760 toneladas de resíduos são recolhidas da Orla do Guaíba, em Porto Alegre, após as fortes chuvas iniciadas em julho",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZnpkVmlxQklvVE9oWjhrYm9WWkxkTUpOaHNKQjU2Y2U5Ml9lV1dqOUdxOHBvczNJMmp6b3lVWEFLeGhVM0JOTU1RTDdmMkpXV3FTQkhEeHBTQTdEd3NKSlVRWENYNmk5RG5PaGhRR2dtVGNZSFpnX1NKMmRxZXQ0VzF6YnRSbjNwSFBHbEZVMzFjV0hGRzhFSUFURGFUSWhtbWtENUdnZDRGN2V2b3o1OGhlWDZRWHpWbHpJS2FLdm9JVlZmcllXb3JkNjcxVUlobmlqRkR0Smx3ZE1QRmRnTHVGaEJwY0FNN0E?oc=5",
-      "fonte": "radiocaicara.com.br",
-      "publicado_em": "2026-08-18T12:33:49+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Quase 760 toneladas de resíduos são recolhidas da Orla do Guaíba, em Porto Alegre, após as fortes chuvas iniciadas em julho radiocaicara.com.br"
     }
   ],
   "noticias_home": [
