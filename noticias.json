@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-23T14:20:57.386943+00:00",
+  "gerado_em": "2026-08-23T16:22:25.579624+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -154,6 +154,16 @@
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
+      "id": "81655642f982",
+      "titulo": "Acusado por homicídio é condenado em Guaíba e preso em Santa Catarina cerca de uma hora após sessão do Júri",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNV0RmVkNwTEdVb2p0TzQyZElDazkzaTV5M1R3cVpIQ2tRQjh2NjVaeEJWVjBQaGpoaWNRQzkxX3hvV1NSVlV6RDNjajZ3bnpYd2JtSkdFLTJIR3hzOE9ReUVGYjNHOWdpOG9TaXh6WmlTY0p1b0w5MXhyQmczZ1E2dDRxZ1l0Tm9UT1ZkWWx2MUNWUExlZHgyOXc0OVI3c1AxdTZxRjhHZW5JZXh0SUJwbFN0bVRvd0JSTWFxWkpxYktxc2hIWS1BSDhPbDlmVzJCSmRVdVRTaUZ2N0VHOFJ1dzhic0hIckRsRFZBVkMzTF9FbVNEMmRHa1pKcV9kYUtac2NkVmtqVEs?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-23T15:55:31+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Acusado por homicídio é condenado em Guaíba e preso em Santa Catarina cerca de uma hora após sessão do Júri Correio do Povo"
+    },
+    {
       "id": "42ae72ed6c1f",
       "titulo": "Acusado pelo MPRS por homicídio é condenado em Guaíba e preso em Santa Catarina cerca de uma hora após sessão do Júri",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc3lkbHd3N3JjS0ZLMEpKdm41NHRKaFk2OHYydS1MTTVyUElFSVNCbVo0NU5RX1ZNdkllTkQyeVl0RjBnNUpUQ0UtQklOaDk1VmdGVklYeThOQWFrYXBkTzBaMVc1d180TkN4SE9BRDZ2WHBJTFNia3VOY050cS1KZmdjZUw0XzRRRFM4ODhRdF9yVmZ3YXJNc3lmX1ZGREF2UVlkU1F6UXk2dERtbTl6eWotT29jS1NKeXptQk8ya3lUaGdjUVdVX1pxRVpVZmRHU3BkdjRNVmpzczdC?oc=5",
@@ -214,9 +224,9 @@
       "resumo": "Capitania Fluvial de Porto Alegre e entidades de engenharia estudam uso de batimetria por satélite no Lago Guaíba Defesa em Foco"
     },
     {
-      "id": "6d0bbbc1b3ee",
+      "id": "9391ee671b0b",
       "titulo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1BnbVhwcVk3YXJTYUFIQUNocS15Q3FSVEZtdEUyVlpkbUZlOWZYV2pLbnFjZlBMUWFHRWwzc1hEajdGbGRNNndHQzRvc3RGUmJPVGJGamEzV3JITGlkOEVmS0x1dzdHTzdyZ3JKekhhNXVaeVYtdVBPOEF0VktweDF6aXVMRXdtWDdxa0Frbl9CRWlrT2sxQTZXcnJnZjYtUzdKeVN2Z2NaSGtVS0Zpcmo5bE03V1REVFNCLWtFUWhnczNQby1pUUFZRkdzTERsQXVN?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSUpKR0ljVWFOSmxfVkFzYWM5NWtudGkyZTFLQTdiZkhsUmJGem9rakJtcWx6RWRUSVhsQVhDOTQ2a0tfRFVnTVYzYW5pUnFRQzdkeHBpQ1hsT2lyV2xzME9kdU9hUXNPWUVZaUZtaFVGbG1IaXc4VzlURXFXeFVtbkhPbVZZZGZ6aDRjb1NkLVFhbVZBT3hsSUV2X0RIYmZnXzhLVHhpU2tQQU0zdHFRSlExRVR1bGg0bmk5NFh1a2gyMTFaZ09iaXh0VzlfVDc3Y29UVnpVWQ?oc=5",
       "fonte": "UOL Economia",
       "publicado_em": "2026-08-22T09:13:24+00:00",
       "categoria": null,
@@ -362,16 +372,6 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Quase 760 toneladas de resíduos são recolhidas da Orla do Guaíba, em Porto Alegre, após as fortes chuvas iniciadas em julho radiocaicara.com.br"
-    },
-    {
-      "id": "bea17b445542",
-      "titulo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1QxN2tyU3Rlc05ueEFxY21faG5qVzlqSjJCbTBYU1k3THpRNkIxOW5UaGVZZWhjRHdkNXk0TDlxMHFoZ2JHRHUzMEF3V01zU0hZbFNXdXprMGVwRFF2VUp2QnplMWxISFNFVkJzX3N3SzJUS2dHRXY2VXJiVXRWVFRkZTg4LVRqWC1xMWJEazBwTjJmZDZtZ3ptYkJENWxqRjdwMmxNVVphOVVhN3pVakppMTJadU9DOEZJUHZHZFY?oc=5",
-      "fonte": "UOL Economia",
-      "publicado_em": "2026-08-17T22:51:47+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana UOL Economia"
     }
   ],
   "noticias_home": [
