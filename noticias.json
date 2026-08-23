@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-23T10:21:50.434503+00:00",
+  "gerado_em": "2026-08-23T12:35:56.920066+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -152,6 +152,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "42ae72ed6c1f",
+      "titulo": "Acusado pelo MPRS por homicídio é condenado em Guaíba e preso em Santa Catarina cerca de uma hora após sessão do Júri",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc3lkbHd3N3JjS0ZLMEpKdm41NHRKaFk2OHYydS1MTTVyUElFSVNCbVo0NU5RX1ZNdkllTkQyeVl0RjBnNUpUQ0UtQklOaDk1VmdGVklYeThOQWFrYXBkTzBaMVc1d180TkN4SE9BRDZ2WHBJTFNia3VOY050cS1KZmdjZUw0XzRRRFM4ODhRdF9yVmZ3YXJNc3lmX1ZGREF2UVlkU1F6UXk2dERtbTl6eWotT29jS1NKeXptQk8ya3lUaGdjUVdVX1pxRVpVZmRHU3BkdjRNVmpzczdC?oc=5",
+      "fonte": "bombabomba.com.br",
+      "publicado_em": "2026-08-23T10:47:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Acusado pelo MPRS por homicídio é condenado em Guaíba e preso em Santa Catarina cerca de uma hora após sessão do Júri bombabomba.com.br"
     },
     {
       "id": "2714997a6371",
@@ -362,16 +372,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana UOL Economia"
-    },
-    {
-      "id": "03de60ffa894",
-      "titulo": "Câmara de Vereadores de Guaíba, no RS, abre vaga de estágio com bolsa de R$ 1.898,38 e benefícios",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNHRYWmJJVG50akptODNmX3QyN2FRTUM0MjNSdWdOck9Rb1FXTFRQblhKMWlHTFFET251WlZZcDMtc3NNRm5YQnhnWl9tc05aRTNWbHVXeHZ1OGtJZDBXSlNEMk1LbktWdzVfRk4wRjhhN1RXRkVGOTdrNklfcmlKUjNsemNlRVhjWHMzcno2VEt4NW9qcjNxSFgtMHFZZDBaYUUxblJZM0JhcVlCdjVPVHRQNXJOeXduSlVWREJlcS1QejlOQW9sd1RsVG1OOWYxZlVZcS1ta0hCLWY2TUZybVY0YVU?oc=5",
-      "fonte": "Portal de Camaquã",
-      "publicado_em": "2026-08-16T22:27:43+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Câmara de Vereadores de Guaíba, no RS, abre vaga de estágio com bolsa de R$ 1.898,38 e benefícios Portal de Camaquã"
     }
   ],
   "noticias_home": [
