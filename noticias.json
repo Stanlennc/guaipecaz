@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-24T18:37:38.198229+00:00",
+  "gerado_em": "2026-08-24T20:27:58.496442+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,6 +94,16 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
+      "id": "6658bf088c2d",
+      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-sobrecarga-de-atendimentos-guaiba-podera-ter-o-segundo-conselho-tutelar-em-2028",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
+    },
+    {
       "id": "df37597c9344",
       "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
       "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
@@ -134,16 +144,6 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
-    },
-    {
       "id": "16fe33979805",
       "titulo": "Especialistas discutem tombamento conjunto da Gruta de Oxum, Pedra de Xangô e Assobecaty em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/especialistas-discutem-tombamento-conjunto-da-gruta-de-oxum-pedra-de-xango-e-assobecaty-em-guaiba",
@@ -154,11 +154,21 @@
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
+      "id": "89150c42cb40",
+      "titulo": "Record Guaíba fecha temporada com evento no Olivas de Gramado",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQejhxYlpkMF9pY2lwSVNJZ3E1aVpxRnpiQnJxVjF5WUMzai1YdHdkVnViZGt2LVBQZVBLd1NkcWk4am9pX3dsV2llUFhQNldzbTQ4OEtyV0EtWTBNZzZJM1lNQ3lGLW5nRU44R3dieTBLNEpfT2tXWGRYamxmR0YzSm9FWkVmczNRbXczU1FaalBOamdHY0Q3bEt6X2xCXzZDM0FBdXpXUkpEVVRtdW5Dem5sRDN5SXFmRm5BZnZYTHFXZGRXbGNLbU1n?oc=5",
+      "fonte": "R7",
+      "publicado_em": "2026-08-24T19:56:24+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Record Guaíba fecha temporada com evento no Olivas de Gramado R7"
+    },
+    {
       "id": "684ae4301a5f",
       "titulo": "Condenado a 13 anos por homicídio em Guaíba é preso uma hora após julgamento",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZjl5eXV5QTBWWnlzYTNqMUs1MGFVQm1IdkhCYkJjdm1pRU1uZHZrUGtEQTVPRi1SRXlueHNKelhrazVBTEtCMnRkaVhORzI2VGJ0Ri1nQk9KNFpKNGFhRlF6em51Q1cwaFd5MERuS09odXEtVEg3MnViUWk1Sm5jVk1FZlQ3S2ZHbGNNNTBYRzkwcHI5VkdSdl95VGdkdw?oc=5",
       "fonte": "Clic Camaquã",
-      "publicado_em": "2026-08-24T13:52:30+00:00",
+      "publicado_em": "2026-08-24T14:02:40+00:00",
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Condenado a 13 anos por homicídio em Guaíba é preso uma hora após julgamento Clic Camaquã"
@@ -284,16 +294,6 @@
       "resumo": "Viver o melhor de POA: sábado tem música, gastronomia e atrações na Orla do Guaíba Rede Atlântida"
     },
     {
-      "id": "6686466e2b94",
-      "titulo": "Vettori comenta preparação para conduzir sabatinas eleitorais da Record Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXFobFo4VGUyMjVkSEpmdEsxSFV5UndQRkZxNk1vOWtLNERxR3J6MUViNDFhUFo1S3duelZtSHRUbFRmYnRqYnNwRlBKckN5QTZWYzZkWkJTNjVMU0NjMG52ZC1qOFc2RGZvcnV3UHF0b0RhSkg0bGNZTHE5UWF4enFSbXVDNHpBWV9RbzlBc2YxZUE5WGRuY3JSU3dzUlhrRWdNYTEzakxXR2djTGc?oc=5",
-      "fonte": "Coletiva.net",
-      "publicado_em": "2026-08-20T21:45:43+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Vettori comenta preparação para conduzir sabatinas eleitorais da Record Guaíba Coletiva.net"
-    },
-    {
       "id": "b26c0f0af741",
       "titulo": "Record Guaíba finaliza série de entrevistas com candidatos ao governo",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaU1wOUxIb3VFdENxVGdDV0kxMnJraXoyRkJuUXpRY2tJOHdDQWF5NTBwdzJBUDA3WXFNODJRaW9kaDB0QTAtWTZ3R0dnMjZkYy13R3J1cWN0TnFzRlVFNUNKWjRNaWl4V3o4T3BKTEtBSlZSd0NyeGlULXUtT1FYYTNSWVFsR1p0UjJaX1o5UGJZcmswejNBTS05dHNEdndnckE?oc=5",
@@ -396,6 +396,16 @@
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
     },
     {
+      "id": "6658bf088c2d",
+      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-sobrecarga-de-atendimentos-guaiba-podera-ter-o-segundo-conselho-tutelar-em-2028",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
+    },
+    {
       "id": "df37597c9344",
       "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
       "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
@@ -434,16 +444,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
-    },
-    {
-      "id": "1cf422762e78",
-      "titulo": "Guaíba tem menos da metade das crianças imunizadas contra a gripe; vacina já está liberada para toda população",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-menos-da-metade-das-criancas-imunizadas-contra-a-gripe-vacina-ja-esta-liberada-para-toda-populacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A vacinação está disponível em todas as unidades de saúde"
     },
     {
       "id": "16fe33979805",
