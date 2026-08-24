@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-24T16:35:03.186970+00:00",
+  "gerado_em": "2026-08-24T18:37:38.198229+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -250,7 +250,7 @@
       "fonte": "Ministério Público - RS",
       "publicado_em": "2026-08-21T21:36:00+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Acusado pelo MPRS por homicídio é condenado em Guaíba e preso em Santa Catarina cerca de uma hora após sessão do Júri Ministério Público - RS"
     },
     {
@@ -292,6 +292,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Vettori comenta preparação para conduzir sabatinas eleitorais da Record Guaíba Coletiva.net"
+    },
+    {
+      "id": "b26c0f0af741",
+      "titulo": "Record Guaíba finaliza série de entrevistas com candidatos ao governo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaU1wOUxIb3VFdENxVGdDV0kxMnJraXoyRkJuUXpRY2tJOHdDQWF5NTBwdzJBUDA3WXFNODJRaW9kaDB0QTAtWTZ3R0dnMjZkYy13R3J1cWN0TnFzRlVFNUNKWjRNaWl4V3o4T3BKTEtBSlZSd0NyeGlULXUtT1FYYTNSWVFsR1p0UjJaX1o5UGJZcmswejNBTS05dHNEdndnckE?oc=5",
+      "fonte": "Coletiva.net",
+      "publicado_em": "2026-08-20T18:02:15+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Record Guaíba finaliza série de entrevistas com candidatos ao governo Coletiva.net"
     },
     {
       "id": "43744afa3c9e",
@@ -362,16 +372,6 @@
       "categoria": null,
       "feed": "correio",
       "resumo": "DMLU conclui limpeza da Orla do Guaíba com 757 toneladas de resíduos recolhidos Correio do Povo"
-    },
-    {
-      "id": "2b4060031189",
-      "titulo": "Quase 760 toneladas de resíduos são recolhidas da Orla do Guaíba, em Porto Alegre, após as fortes chuvas iniciadas em julho",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZnpkVmlxQklvVE9oWjhrYm9WWkxkTUpOaHNKQjU2Y2U5Ml9lV1dqOUdxOHBvczNJMmp6b3lVWEFLeGhVM0JOTU1RTDdmMkpXV3FTQkhEeHBTQTdEd3NKSlVRWENYNmk5RG5PaGhRR2dtVGNZSFpnX1NKMmRxZXQ0VzF6YnRSbjNwSFBHbEZVMzFjV0hGRzhFSUFURGFUSWhtbWtENUdnZDRGN2V2b3o1OGhlWDZRWHpWbHpJS2FLdm9JVlZmcllXb3JkNjcxVUlobmlqRkR0Smx3ZE1QRmRnTHVGaEJwY0FNN0E?oc=5",
-      "fonte": "radiocaicara.com.br",
-      "publicado_em": "2026-08-18T12:33:49+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Quase 760 toneladas de resíduos são recolhidas da Orla do Guaíba, em Porto Alegre, após as fortes chuvas iniciadas em julho radiocaicara.com.br"
     }
   ],
   "noticias_home": [
