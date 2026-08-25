@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-25T18:36:47.948212+00:00",
+  "gerado_em": "2026-08-25T20:26:31.133304+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -172,6 +172,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Brasil Beach Games estreia em Porto Alegre com três dias de competições gratuitas na Orla do Guaíba e no Parque Marinha do Brasil Jornal da Capital"
+    },
+    {
+      "id": "e16780b839f1",
+      "titulo": "Limpe o Lago Guaíba 2026 será lançado nesta quinta-feira (27 de agosto)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEt1R0NoS1RENUZreXVFeUp2UEJmbVJ2ekZ0QVBWa0VxenJaM1RmUGZKYVM3TnlPRkR4SThUWGs0WXJ6MnBwU0xJa0tQNTBRMG14cE5hMG4zcU1iWEdzMjVKVEtsS1N1TFhoeURldVhWNnZZbGdrZlhBSXJ5M3NVR0JwYWl5d2JDemdUeHhES2FXUEs2SWpvbmZQSWpwRUg4U1E?oc=5",
+      "fonte": "Jornalecão",
+      "publicado_em": "2026-08-25T17:34:39+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Limpe o Lago Guaíba 2026 será lançado nesta quinta-feira (27 de agosto) Jornalecão"
     },
     {
       "id": "0b63c6f8dd3f",
@@ -361,16 +371,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Acusado pelo MPRS por homicídio é condenado em Guaíba e preso em Santa Catarina cerca de uma hora após sessão do Júri Ministério Público - RS"
-    },
-    {
-      "id": "77851e93d4c1",
-      "titulo": "Vila gastronômica e show gratuito movimentam a Orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUGNfakJfal8zWmloLWk5dDlteXphRndUY25iX0JVWW9aS1Ewbk9LZFZITHVwZmhLOWlUck5YVVFMemF0dWUzS09lWlRkTWdiemdQbnNveGktSDFvWFZkLTVYWkd0MWpYck40WDZfWGVNMFo1RmFkYjdnZ0lNdER3ZFdieW54VXY5QjBoNzdKZ1R2aldkNERnRVlPZkxzdXNHZ1JGRVNnejNDeERMWm9pX3J5NVJLM3lyM2VrXzRwSDIyVy1GcDZJQXJIWVpfUHVfUFlUMGpWZ3REdy02RGlyNGJ1OVdyYXRTSzBRNUN2Uk8tTWhUV1pJ?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-08-21T17:15:35+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Vila gastronômica e show gratuito movimentam a Orla do Guaíba GZH"
     }
   ],
   "noticias_home": [
