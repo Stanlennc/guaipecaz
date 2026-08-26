@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-26T01:11:19.155886+00:00",
+  "gerado_em": "2026-08-26T03:03:01.326116+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -78,7 +78,7 @@
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-25T00:00:00+00:00",
+      "publicado_em": "2026-08-26T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
@@ -88,7 +88,7 @@
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-25T00:00:00+00:00",
+      "publicado_em": "2026-08-26T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
@@ -152,6 +152,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "2304fec9a518",
+      "titulo": "PRF prende homem de 76 anos com mandado por estupro na BR-116, em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnBYanZhbXlSQnZHbmZJSHdVanRDck9Wd08zWnlyNHRFc3RmVm41WTlxX2k2UmJBank2dG5iV3hsZkxTTkVTMFpqSFhmeDgxZFhubmJyTGNIdjZYamVzLWNjRE5CamtiSWVKcXVxU2tIc19WbjlzN2Znd1hKYkRPZ3llYUtDWXFFN0J3QmdXYVVXZ0ZQR0h0ZWExbGJ3YWttcjFfMFFhcFhfRlRwb3dKZUdTdmgxQ0hhc0hsSnZjV0NIWWxNc1E?oc=5",
+      "fonte": "Portal de Camaquã",
+      "publicado_em": "2026-08-26T01:50:29+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "PRF prende homem de 76 anos com mandado por estupro na BR-116, em Guaíba Portal de Camaquã"
     },
     {
       "id": "e9d73e448886",
@@ -361,16 +371,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço UOL Economia"
-    },
-    {
-      "id": "288d4fa541c5",
-      "titulo": "“Extrato de ontem da prefeitura de Guaíba tinha R$ 100 milhões”, diz Maranata em entrevista",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOFNMS3pEWVhmS3RIRDRBS3Y5LWlqRUJzeURUVXRTblo1ekhzTWUyQjZ5cTIzLS0tVjdWeUFwbE13V3AteDNTUFZLd3BIUUJRMGdLSGtrNUxEX1hFY2dSejVzYzNoODlRT2o1dnFJMG5XaGdNNVJ4SWVySC1EWTduaWMwalRlSVc4cXFPRTN1YVJBbXl4T1dpZEZJYzJHVjBIdHpWV1ZXM3AxQU1OWjRNQWJ2NzhDc242dW52aVNyYW1EUlg0amRpOUhObw?oc=5",
-      "fonte": "Notícias – Porto Alegre 24 Horas",
-      "publicado_em": "2026-08-22T01:14:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "“Extrato de ontem da prefeitura de Guaíba tinha R$ 100 milhões”, diz Maranata em entrevista Notícias – Porto Alegre 24 Horas"
     }
   ],
   "noticias_home": [
@@ -379,7 +379,7 @@
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-25T00:00:00+00:00",
+      "publicado_em": "2026-08-26T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
@@ -389,7 +389,7 @@
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-25T00:00:00+00:00",
+      "publicado_em": "2026-08-26T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
