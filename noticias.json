@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-26T12:48:07.559112+00:00",
+  "gerado_em": "2026-08-26T14:42:24.554447+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -154,6 +154,26 @@
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
     },
     {
+      "id": "174d9200b61e",
+      "titulo": "PRF prende homem condenado por estupro na BR-116, em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWFZabDhsMHhrRU5XdmdBNjNUZmtZc0d1WV9Pa2RGRzZwcWw1a05OTXJzZnNNaldQT1QyUnpOeHBEaXVjWDRBMUZEdXp4RGU4WW1GMzhDVkU1OURzdjdOamJFaUxnRDJDdU5UYnVOblExMDR0bVZ4VjFWSlNMUUk1b0RudkY3ZVFEV3VJeWVtUEQ4cGdqVlpSVXo1STNMQQ?oc=5",
+      "fonte": "Clic Camaquã",
+      "publicado_em": "2026-08-26T13:41:15+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "PRF prende homem condenado por estupro na BR-116, em Guaíba Clic Camaquã"
+    },
+    {
+      "id": "cfb908299a5c",
+      "titulo": "Homem de 76 anos condenado por estupro é preso pela PRF na BR-116, em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUURqYVZOTFppVjgtaEllYzV3MVowTWRtTzBBa3lJX2NXRjd5NXZaT0tlcXh3VUp4bWZNbjZpVDN1eHVoNHZmSFpnUG5jOWhwZllxdVBXZGcwNFhVaHM4N3gxNzlBOWhSZFdKMUltVlhqeE1WcFJEOFl4aDAxU1VMQ2dmV0VJOFV5YVVNZS1hU1Zyb0haUWdOOU5mLU05SXJPeTloak9XREpHNUJrenR6bi1LYUVxOXpkZlpJMG9ZaDNIc3lNM3fSAcYBQVVfeXFMTlFEamFWTkxaaVY4LWhJZWM1dzFaME1kbU8wQWt5SV9jV0Y3eTV2Wk9LZXF4d1VKeG1mTW42aVQzdXh1aDR2ZkhaZ1BuYzlocGZZcXVQV2RnMDRYVWhzODd4MTc5QTloUmRXSjFJbVZYanhNVnBSRDhZeGgwMVNVTENnZldFSThVeWFVTWUtYVNWcm9IWlFnTjlOZi1NOUlyT3k5aGpPV0RKRzVCa3p0em4tS2FFcTl6ZGZaSTBvWWgzSHN5TTN3?oc=5",
+      "fonte": "Blog do Juares",
+      "publicado_em": "2026-08-26T12:34:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Homem de 76 anos condenado por estupro é preso pela PRF na BR-116, em Guaíba Blog do Juares"
+    },
+    {
       "id": "2304fec9a518",
       "titulo": "PRF prende homem de 76 anos com mandado por estupro na BR-116, em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnBYanZhbXlSQnZHbmZJSHdVanRDck9Wd08zWnlyNHRFc3RmVm41WTlxX2k2UmJBank2dG5iV3hsZkxTTkVTMFpqSFhmeDgxZFhubmJyTGNIdjZYamVzLWNjRE5CamtiSWVKcXVxU2tIc19WbjlzN2Znd1hKYkRPZ3llYUtDWXFFN0J3QmdXYVVXZ0ZQR0h0ZWExbGJ3YWttcjFfMFFhcFhfRlRwb3dKZUdTdmgxQ0hhc0hsSnZjV0NIWWxNc1E?oc=5",
@@ -200,7 +220,7 @@
       "fonte": "Jornalecão",
       "publicado_em": "2026-08-25T17:34:39+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Limpe o Lago Guaíba 2026 será lançado nesta quinta-feira (27 de agosto) Jornalecão"
     },
     {
@@ -351,26 +371,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Celta invade pista contrária e colide com reboque na BR-116 em Guaíba Portal de Camaquã"
-    },
-    {
-      "id": "6d0bbbc1b3ee",
-      "titulo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1BnbVhwcVk3YXJTYUFIQUNocS15Q3FSVEZtdEUyVlpkbUZlOWZYV2pLbnFjZlBMUWFHRWwzc1hEajdGbGRNNndHQzRvc3RGUmJPVGJGamEzV3JITGlkOEVmS0x1dzdHTzdyZ3JKekhhNXVaeVYtdVBPOEF0VktweDF6aXVMRXdtWDdxa0Frbl9CRWlrT2sxQTZXcnJnZjYtUzdKeVN2Z2NaSGtVS0Zpcmo5bE03V1REVFNCLWtFUWhnczNQby1pUUFZRkdzTERsQXVN?oc=5",
-      "fonte": "UOL Economia",
-      "publicado_em": "2026-08-22T09:13:24+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço UOL Economia"
-    },
-    {
-      "id": "288d4fa541c5",
-      "titulo": "“Extrato de ontem da prefeitura de Guaíba tinha R$ 100 milhões”, diz Maranata em entrevista",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOFNMS3pEWVhmS3RIRDRBS3Y5LWlqRUJzeURUVXRTblo1ekhzTWUyQjZ5cTIzLS0tVjdWeUFwbE13V3AteDNTUFZLd3BIUUJRMGdLSGtrNUxEX1hFY2dSejVzYzNoODlRT2o1dnFJMG5XaGdNNVJ4SWVySC1EWTduaWMwalRlSVc4cXFPRTN1YVJBbXl4T1dpZEZJYzJHVjBIdHpWV1ZXM3AxQU1OWjRNQWJ2NzhDc242dW52aVNyYW1EUlg0amRpOUhObw?oc=5",
-      "fonte": "Notícias – Porto Alegre 24 Horas",
-      "publicado_em": "2026-08-22T01:14:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "“Extrato de ontem da prefeitura de Guaíba tinha R$ 100 milhões”, diz Maranata em entrevista Notícias – Porto Alegre 24 Horas"
     }
   ],
   "noticias_home": [
