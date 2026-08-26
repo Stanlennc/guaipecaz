@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-25T22:24:43.747886+00:00",
+  "gerado_em": "2026-08-26T01:11:19.155886+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -152,6 +152,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Análise técnica conduz ao entendimento de que há elementos suficientes para sustentar o reconhecimento como um conjunto patrimonial"
+    },
+    {
+      "id": "e9d73e448886",
+      "titulo": "PRF prende homem de 76 anos condenado por estupro em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbHNMMVVtcVVvUHB6UlhqeHNXZjVMRnpVd05IR2l3UVRDbFcyYkxQWHNldmVnSlJ3cXg4ZHJTckJtZDEwc2RfQWpHOTAyb3I5SEFnMDEzN2ZQU0tkYzBOSkhmQ0hRaEU1S09NeWVXODJPbHJyeTZ5T2xuVE5ZczhXTnZOeFhqN2RqMGJ2SjlhajFicWJKSmRCbEZwRE9VSDVPTXlSVU84VjN2QmlqT0Qzc1VRYWx6b3ZLSE14QUlCYjZ4Rlg3Q3B5TzlpbGJKemRmWEN1YjdOTFozNnUtSUJxRmhHdlV6OURPVlE?oc=5",
+      "fonte": "Terra",
+      "publicado_em": "2026-08-26T00:17:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "PRF prende homem de 76 anos condenado por estupro em Guaíba Terra"
     },
     {
       "id": "90222e9cd0a6",
@@ -361,16 +371,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "“Extrato de ontem da prefeitura de Guaíba tinha R$ 100 milhões”, diz Maranata em entrevista Notícias – Porto Alegre 24 Horas"
-    },
-    {
-      "id": "1d228f8be8c7",
-      "titulo": "Acusado pelo MPRS por homicídio é condenado em Guaíba e preso em Santa Catarina cerca de uma hora após sessão do Júri - Ministério Público",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kT2tXWk5ObklhSlpsNFZyT3phZEg3VmpKT214MXliZFBwbmFOaTY1ekMwd2lkVE1mVlhIWWFqUjhiZVV4TjRURGxpOGFBU2M?oc=5",
-      "fonte": "Ministério Público - RS",
-      "publicado_em": "2026-08-21T21:36:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Acusado pelo MPRS por homicídio é condenado em Guaíba e preso em Santa Catarina cerca de uma hora após sessão do Júri Ministério Público - RS"
     }
   ],
   "noticias_home": [
