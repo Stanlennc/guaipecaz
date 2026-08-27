@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-27T07:22:45.570515+00:00",
+  "gerado_em": "2026-08-27T18:50:44.500099+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -141,6 +141,15 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+    },
+    {
+      "id": "817c3b6e0be2",
+      "titulo": "- Rádio Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51SUxRRzV3bWtDWGFyVUY4SWJEZFJLby11Y2xIcUZEVGpqTENYV3I1a0M2MU05U3VBOWRNSE85QUlNNmUwdlE?oc=5",
+      "fonte": "Rádio Guaíba",
+      "publicado_em": "2026-08-27T12:45:00+00:00",
+      "categoria": null,
+      "feed": "recentes"
     },
     {
       "id": "a9158c23cc24",
@@ -298,7 +307,7 @@
       "fonte": "Clic Camaquã",
       "publicado_em": "2026-08-24T14:02:40+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Condenado a 13 anos por homicídio em Guaíba é preso uma hora após julgamento Clic Camaquã"
     },
     {
@@ -360,16 +369,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Celta invade pista contrária e colide com reboque na BR-116 em Guaíba Portal de Camaquã"
-    },
-    {
-      "id": "6d0bbbc1b3ee",
-      "titulo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1BnbVhwcVk3YXJTYUFIQUNocS15Q3FSVEZtdEUyVlpkbUZlOWZYV2pLbnFjZlBMUWFHRWwzc1hEajdGbGRNNndHQzRvc3RGUmJPVGJGamEzV3JITGlkOEVmS0x1dzdHTzdyZ3JKekhhNXVaeVYtdVBPOEF0VktweDF6aXVMRXdtWDdxa0Frbl9CRWlrT2sxQTZXcnJnZjYtUzdKeVN2Z2NaSGtVS0Zpcmo5bE03V1REVFNCLWtFUWhnczNQby1pUUFZRkdzTERsQXVN?oc=5",
-      "fonte": "UOL Economia",
-      "publicado_em": "2026-08-22T09:13:24+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço UOL Economia"
     }
   ],
   "noticias_home": [
@@ -443,14 +442,13 @@
       "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
     },
     {
-      "id": "a9158c23cc24",
-      "titulo": "Parque 35 em Guaíba recebe uma nova loja da Rede Farmácias São João",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWF0al9McGQxVmZ6a1N3S2hzLUcwM3Bmb1BBeVduNEpKMHExSlRFV3ZqbDdwWEVPR2NYMlNBQ25ROF83Uk84UkhnOXJOblhMcm1yUmlCamVqcHRGTm5Vdkk0LWdIX0sxQjBmSlIzQnR3M3E2NGxJUks0aDFidkRqb2QyREhPYjh2amQzRkJSSWxDZ1hz?oc=5",
+      "id": "817c3b6e0be2",
+      "titulo": "- Rádio Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51SUxRRzV3bWtDWGFyVUY4SWJEZFJLby11Y2xIcUZEVGpqTENYV3I1a0M2MU05U3VBOWRNSE85QUlNNmUwdlE?oc=5",
       "fonte": "Rádio Guaíba",
-      "publicado_em": "2026-08-26T14:16:30+00:00",
+      "publicado_em": "2026-08-27T12:45:00+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Parque 35 em Guaíba recebe uma nova loja da Rede Farmácias São João Rádio Guaíba"
+      "feed": "recentes"
     }
   ]
 }
