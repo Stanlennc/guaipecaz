@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-26T22:43:28.730588+00:00",
+  "gerado_em": "2026-08-27T07:22:45.570515+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,11 +74,20 @@
   ],
   "noticias": [
     {
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-27T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
       "id": "e37d22daa6a2",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-26T00:00:00+00:00",
+      "publicado_em": "2026-08-27T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
@@ -88,7 +97,7 @@
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-26T00:00:00+00:00",
+      "publicado_em": "2026-08-27T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
@@ -122,16 +131,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "328a4ef216b4",
@@ -168,7 +167,7 @@
       "titulo": "Homem de 76 anos condenado por estupro é preso pela PRF na BR-116, em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWFJIMm1weVppeHRsTGo1WUNKZU5mRlpHd1duSld2YnZqaEk4Y3VhUFdqMjhsZ0R4cVdsQlMyOG9ON3RLUDRodTYtX1RfWUFmRFpyNy1uYzhycUtDVTk5NV9LaF9rTGN2VUZ5aFVYNHQyWW4wbGpXRFBNa2h1QU5vQkRDUU13VXVLMTR4RmNSQTM4OE5PN0FpQTM1b1k3ekVoemt0VU1kbW9Ua1dYOEZnR1FZVGtac2puaHEtUVRibTbSAcYBQVVfeXFMTlFEamFWTkxaaVY4LWhJZWM1dzFaME1kbU8wQWt5SV9jV0Y3eTV2Wk9LZXF4d1VKeG1mTW42aVQzdXh1aDR2ZkhaZ1BuYzlocGZZcXVQV2RnMDRYVWhzODd4MTc5QTloUmRXSjFJbVZYanhNVnBSRDhZeGgwMVNVTENnZldFSThVeWFVTWUtYVNWcm9IWlFnTjlOZi1NOUlyT3k5aGpPV0RKRzVCa3p0em4tS2FFcTl6ZGZaSTBvWWgzSHN5TTN3?oc=5",
       "fonte": "Blog do Juares",
-      "publicado_em": "2026-08-26T12:40:10+00:00",
+      "publicado_em": "2026-08-26T13:00:29+00:00",
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Homem de 76 anos condenado por estupro é preso pela PRF na BR-116, em Guaíba Blog do Juares"
@@ -238,7 +237,7 @@
       "titulo": "Homem é condenado a 8 anos e 6 meses por estuprar cunhada embriagada em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTHlyTGpJVU53ZG01RWZvbXlYbm93WmtJeXZtdDczdEZLYVoxT2pQLWhMSjR0NFZoTHdERFlYZkJSakVLbkt0Q2hURTk0dEFqb2VWRlBsbW1LNWlLUmdnSTRjZ3dGd2k0ZXVFcUNmNTVrRy16bmxHbEV2NXBETFZUaW9hb3pwR3JJaERjSFhRMnptNDZaMGZPbXRVN3JaSWltVDRiTGx4eHZOaWtGXzUtWG5sek1uNG5qTUhCREhqeEwzb0ptWnhZcF96R1pzeUNPSk5YWDd1R1ZnMVVCSjZXRVFDbllxWE9KY3VBVVNpa3ZUMkwxTzFtREhBeV9rUjdjSVRJ?oc=5",
       "fonte": "Terra",
-      "publicado_em": "2026-08-25T14:44:21+00:00",
+      "publicado_em": "2026-08-25T14:44:00+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "Homem é condenado a 8 anos e 6 meses por estuprar cunhada embriagada em Guaíba Terra"
@@ -262,16 +261,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Eleições RS: Paulo Pimenta, candidato ao Senado, é sabatinado na Record Guaíba R7"
-    },
-    {
-      "id": "3f23e7236367",
-      "titulo": "CEEE Equatorial realiza 21% mais ações que o previsto na rede elétrica de Guaíba – Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclFaLUl3SWNKeWJTZEdwUUdFWkFGQ1AyWGN5anJ3V2s3cTJlV05DbnpFNDY4ZUJvVGM3TUtzX1Q3S3NYX0VoamdibUZ0NHVQWG5iME1ZWUd6b25YX1ZXT19ndTlMaS1oQnZJTkQ2NHVLdHRyeVpfTlY1QXdqSXFMbV9hNUkxY3ZXSXZ0eDJXS3JxYnFlVWF6elpGdFlIMFFhcjVuTTRYbWVLSGRsallKaHhhT1NPdnVNdmt6MW9EcVc?oc=5",
-      "fonte": "Notícias – Porto Alegre 24 Horas",
-      "publicado_em": "2026-08-24T21:55:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "CEEE Equatorial realiza 21% mais ações que o previsto na rede elétrica de Guaíba – Notícias Notícias – Porto Alegre 24 Horas"
     },
     {
       "id": "849945e18c13",
@@ -371,15 +360,34 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Celta invade pista contrária e colide com reboque na BR-116 em Guaíba Portal de Camaquã"
+    },
+    {
+      "id": "6d0bbbc1b3ee",
+      "titulo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1BnbVhwcVk3YXJTYUFIQUNocS15Q3FSVEZtdEUyVlpkbUZlOWZYV2pLbnFjZlBMUWFHRWwzc1hEajdGbGRNNndHQzRvc3RGUmJPVGJGamEzV3JITGlkOEVmS0x1dzdHTzdyZ3JKekhhNXVaeVYtdVBPOEF0VktweDF6aXVMRXdtWDdxa0Frbl9CRWlrT2sxQTZXcnJnZjYtUzdKeVN2Z2NaSGtVS0Zpcmo5bE03V1REVFNCLWtFUWhnczNQby1pUUFZRkdzTERsQXVN?oc=5",
+      "fonte": "UOL Economia",
+      "publicado_em": "2026-08-22T09:13:24+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço UOL Economia"
     }
   ],
   "noticias_home": [
+    {
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-27T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
     {
       "id": "e37d22daa6a2",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-26T00:00:00+00:00",
+      "publicado_em": "2026-08-27T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
@@ -389,7 +397,7 @@
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-26T00:00:00+00:00",
+      "publicado_em": "2026-08-27T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
@@ -423,16 +431,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
-      "id": "777f86ec4825",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://www.reporterguaibense.com.br/noticia/campanha-nacional-de-multivacinacao-comeca-nesta-segunda-em-todos-postos-de-saude",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Guaíba enfrenta baixa cobertura vacinal contra a gripe, segundo a Secretaria Municipal de Saúde"
     },
     {
       "id": "328a4ef216b4",
