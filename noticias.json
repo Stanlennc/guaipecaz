@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-27T18:50:44.500099+00:00",
+  "gerado_em": "2026-08-28T04:02:19.723668+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -78,7 +78,7 @@
       "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-27T00:00:00+00:00",
+      "publicado_em": "2026-08-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
     },
@@ -87,7 +87,7 @@
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-27T00:00:00+00:00",
+      "publicado_em": "2026-08-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
@@ -97,7 +97,7 @@
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-27T00:00:00+00:00",
+      "publicado_em": "2026-08-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
@@ -133,23 +133,34 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "d1abeed19772",
+      "titulo": "Acidente entre dois caminhões deixa motorista ferido e causa lentidão na BR-116, em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU2pBWVZrRDMxYlZCNnFzbFMteEUwNlJOal9xZklodS1vbFl5djhwX05wZ2ppMXlndndYNnp3UlRpX1h4dEdUTGpIdFVxN05xcHpwdDRBZno0d0ZhQm5lQi1La0hMeUFlMndUX09jWkFlX2hkdUVaQmNHM3dIdVVGZ0xwN2JJNkljcGpra01HOTVkakM4c1pfV2ZWNGc5RDkzUWpHOHphVW1qSEtYejJIVjZyNjAxMlNIUWlaaVFxVkdRUHdUMHVaRmo2VGx0Rnhabzl1aDVBTmM3clF6WEE?oc=5",
+      "fonte": "Portal de Camaquã",
+      "publicado_em": "2026-08-28T01:29:28+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+      "feed": "recentes",
+      "resumo": "Acidente entre dois caminhões deixa motorista ferido e causa lentidão na BR-116, em Guaíba Portal de Camaquã"
     },
     {
-      "id": "817c3b6e0be2",
-      "titulo": "- Rádio Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51SUxRRzV3bWtDWGFyVUY4SWJEZFJLby11Y2xIcUZEVGpqTENYV3I1a0M2MU05U3VBOWRNSE85QUlNNmUwdlE?oc=5",
-      "fonte": "Rádio Guaíba",
-      "publicado_em": "2026-08-27T12:45:00+00:00",
+      "id": "723ed60a1ba4",
+      "titulo": "Limpe o Lago Guaíba 2026 é lançado em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkhtTmtGUWJUNjhSVWJsSXRZZ3hVR21rZElna0dSMTdrTG96Z01LZFZJbWREWXVzS3d1QmMyNHRURVMtQ1NjUER5eTdEanZ5eExqZTAwQlZ5Y1RiODVoSW91R0YzQXFPUGJhQlowNXlkZHVBOU10LUl1ZDNKS29tTlE3NFZlX21pT2NCUHRxX01OY2UtRld0WExzVmFWdWVmRmFiQ1o5QW5NR3JjdDRNTmxzZ2xPdw?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-28T00:28:43+00:00",
       "categoria": null,
-      "feed": "recentes"
+      "feed": "correio",
+      "resumo": "Limpe o Lago Guaíba 2026 é lançado em Porto Alegre Correio do Povo"
+    },
+    {
+      "id": "030081355f45",
+      "titulo": "Expointer tem programação da Guaíba ao vivo e edições especiais do Correio do Povo",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNy1FN1Vra3F0YzlfNnNicElvWG1KVnlWaHBUQXBpVjQyR1lSMnd2aXhzVVdpUW5fYnJBR1JyX0x2Vm9vb0lNNzNKOU4teFBaQ1FQRllMd2hyRl9UN3ZPTjB1X3pGWnAzRzg5XzlRaXVnN09DSkFTRHRjdGg0YUVkTno1QzdLaWtpS19jVUpFNmZRbVp1djRfM05xT0ZidExOdFVVaEhRamFveE56RDNwSEFTQQ?oc=5",
+      "fonte": "Coletiva.net",
+      "publicado_em": "2026-08-27T20:01:13+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Expointer tem programação da Guaíba ao vivo e edições especiais do Correio do Povo Coletiva.net"
     },
     {
       "id": "a9158c23cc24",
@@ -168,7 +179,7 @@
       "fonte": "Clic Camaquã",
       "publicado_em": "2026-08-26T13:46:44+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "PRF prende homem condenado por estupro na BR-116, em Guaíba Clic Camaquã"
     },
     {
@@ -205,11 +216,11 @@
       "id": "90222e9cd0a6",
       "titulo": "CEEE Equatorial realiza 21% mais ações que o previsto em Guaíba e melhora em 57% indicadores de qualidade",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRVJscDBXd2cwTWZHVmJBTVVZU0stTnhORmh5Wmoyd1V6UnVKek9wYm1tUFdNN3pxOTVQWGo5WTdrTVNhUmhfUVE0MkZZUVd4QTBfa1NsZWJFVS01eGc5XzBTaWhZY0JjRVFWUk9kMEt0RnpKOXZsM1N6U3Nfd2xrYzNPQ3VQX3hFZkZBRnRtSGtkeDE0RUNzZmdRWndaYTU3WlloemFDZ19FWGdUWFByUmpkVVAwNHExeGxXSlpfVFpvdVhKT2huUFlNQlItZldaSmRaMHFfSGFNdWtOVlNSSQ?oc=5",
-      "fonte": "Notícias – Porto Alegre 24 Horas",
+      "fonte": "Porto Alegre 24 Horas",
       "publicado_em": "2026-08-25T18:26:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "CEEE Equatorial realiza 21% mais ações que o previsto em Guaíba e melhora em 57% indicadores de qualidade Notícias – Porto Alegre 24 Horas"
+      "resumo": "CEEE Equatorial realiza 21% mais ações que o previsto em Guaíba e melhora em 57% indicadores de qualidade Porto Alegre 24 Horas"
     },
     {
       "id": "9d90fa5c0ecd",
@@ -359,16 +370,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Acidente deixa uma pessoa ferida na BR-116, em Guaíba Rádio Acústica FM"
-    },
-    {
-      "id": "11d0a3f44895",
-      "titulo": "Celta invade pista contrária e colide com reboque na BR-116 em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWUZTTWdNNGJSWWdpT1BVeWloaENKbGV2MlBhUkVhLW9CSFZwZjdrUEo5M1FXX1BNUmZVYTllQVFqZjJWZWl5Q0FHTlA0LVJLR2dXc2tyOUhpYURZTUJzT2FTTVpLaGlJM0hJVUdlVS1HcTZ2eG4wcFJTcEx1SEFmcGl2NzA3cXlEX1ZfYXdaSFZtSzVUMHFGVG5MZW9SXzZwT0xFSW9WZmxYM1pTLWpfVUZ6MUZtZUl4OUpkY0FpUkRCZ2c?oc=5",
-      "fonte": "Portal de Camaquã",
-      "publicado_em": "2026-08-22T11:14:27+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Celta invade pista contrária e colide com reboque na BR-116 em Guaíba Portal de Camaquã"
     }
   ],
   "noticias_home": [
@@ -377,7 +378,7 @@
       "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-27T00:00:00+00:00",
+      "publicado_em": "2026-08-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
     },
@@ -386,7 +387,7 @@
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-27T00:00:00+00:00",
+      "publicado_em": "2026-08-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
@@ -396,7 +397,7 @@
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-27T00:00:00+00:00",
+      "publicado_em": "2026-08-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
@@ -432,23 +433,24 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
-      "id": "328a4ef216b4",
-      "titulo": "Guaíba volta a ter cinema: espectadora que frequentava o antigo cinema da cidade revive emoção na reabertura",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-volta-a-ter-cinema-espectadora-que-frequentava-o-antigo-cinema-da-cidade-vive-emocao-na-reabertura",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "d1abeed19772",
+      "titulo": "Acidente entre dois caminhões deixa motorista ferido e causa lentidão na BR-116, em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU2pBWVZrRDMxYlZCNnFzbFMteEUwNlJOal9xZklodS1vbFl5djhwX05wZ2ppMXlndndYNnp3UlRpX1h4dEdUTGpIdFVxN05xcHpwdDRBZno0d0ZhQm5lQi1La0hMeUFlMndUX09jWkFlX2hkdUVaQmNHM3dIdVVGZ0xwN2JJNkljcGpra01HOTVkakM4c1pfV2ZWNGc5RDkzUWpHOHphVW1qSEtYejJIVjZyNjAxMlNIUWlaaVFxVkdRUHdUMHVaRmo2VGx0Rnhabzl1aDVBTmM3clF6WEE?oc=5",
+      "fonte": "Portal de Camaquã",
+      "publicado_em": "2026-08-28T01:29:28+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ana Luiza Evangelista, de 79 anos, que fez questão de levar a neta Valentina na primeira sessão da Cult Cinema"
+      "feed": "recentes",
+      "resumo": "Acidente entre dois caminhões deixa motorista ferido e causa lentidão na BR-116, em Guaíba Portal de Camaquã"
     },
     {
-      "id": "817c3b6e0be2",
-      "titulo": "- Rádio Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51SUxRRzV3bWtDWGFyVUY4SWJEZFJLby11Y2xIcUZEVGpqTENYV3I1a0M2MU05U3VBOWRNSE85QUlNNmUwdlE?oc=5",
-      "fonte": "Rádio Guaíba",
-      "publicado_em": "2026-08-27T12:45:00+00:00",
+      "id": "723ed60a1ba4",
+      "titulo": "Limpe o Lago Guaíba 2026 é lançado em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkhtTmtGUWJUNjhSVWJsSXRZZ3hVR21rZElna0dSMTdrTG96Z01LZFZJbWREWXVzS3d1QmMyNHRURVMtQ1NjUER5eTdEanZ5eExqZTAwQlZ5Y1RiODVoSW91R0YzQXFPUGJhQlowNXlkZHVBOU10LUl1ZDNKS29tTlE3NFZlX21pT2NCUHRxX01OY2UtRld0WExzVmFWdWVmRmFiQ1o5QW5NR3JjdDRNTmxzZ2xPdw?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-28T00:28:43+00:00",
       "categoria": null,
-      "feed": "recentes"
+      "feed": "correio",
+      "resumo": "Limpe o Lago Guaíba 2026 é lançado em Porto Alegre Correio do Povo"
     }
   ]
 }
