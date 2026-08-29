@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-29T16:13:57.667231+00:00",
+  "gerado_em": "2026-08-29T20:25:55.101712+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -159,7 +159,7 @@
       "fonte": "Ministério Público - RS",
       "publicado_em": "2026-08-28T20:00:00+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "MPRS sedia capacitação sobre impactos das apostas on-line na saúde mental e na proteção do consumidor em Guaíba Ministério Público - RS"
     },
     {
@@ -292,6 +292,16 @@
       "resumo": "Homem é condenado por estupro de mulher vulnerável, em estado de embriaguez, em Guaíba Portal de Camaquã"
     },
     {
+      "id": "89150c42cb40",
+      "titulo": "Record Guaíba fecha temporada com evento no Olivas de Gramado",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQejhxYlpkMF9pY2lwSVNJZ3E1aVpxRnpiQnJxVjF5WUMzai1YdHdkVnViZGt2LVBQZVBLd1NkcWk4am9pX3dsV2llUFhQNldzbTQ4OEtyV0EtWTBNZzZJM1lNQ3lGLW5nRU44R3dieTBLNEpfT2tXWGRYamxmR0YzSm9FWkVmczNRbXczU1FaalBOamdHY0Q3bEt6X2xCXzZDM0FBdXpXUkpEVVRtdW5Dem5sRDN5SXFmRm5BZnZYTHFXZGRXbGNLbU1n?oc=5",
+      "fonte": "R7",
+      "publicado_em": "2026-08-24T19:53:55+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Record Guaíba fecha temporada com evento no Olivas de Gramado R7"
+    },
+    {
       "id": "684ae4301a5f",
       "titulo": "Condenado a 13 anos por homicídio em Guaíba é preso uma hora após julgamento",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZjl5eXV5QTBWWnlzYTNqMUs1MGFVQm1IdkhCYkJjdm1pRU1uZHZrUGtEQTVPRi1SRXlueHNKelhrazVBTEtCMnRkaVhORzI2VGJ0Ri1nQk9KNFpKNGFhRlF6em51Q1cwaFd5MERuS09odXEtVEg3MnViUWk1Sm5jVk1FZlQ3S2ZHbGNNNTBYRzkwcHI5VkdSdl95VGdkdw?oc=5",
@@ -360,16 +370,6 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana UOL Economia"
-    },
-    {
-      "id": "3fff1a058d6d",
-      "titulo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVXU0UURLWlF6VnFPLUYweHlFRnYtd3lQTWxLSE5FMUctY0RYa2lwTU9oWDczMkFtbThXQzFPYXZ2bWhmZFBzU2RRYnpLUUcwUmo2Nl9UMkRFOUJ2U01lWE1mRDh1czRPWS1PcWJpLVpQZTNsbHd5Rm5kNnBOWE9MVXFfZzRVZ0NQRDJaR2FkTU5saWdZaTRtX240QUtzYkdIcFp2ODAwazY0SlJTNGprQmZld3BZLW1mV1N5MFZlN0xjRXlf?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-03T07:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Com baixa cobertura contra a gripe, Guaíba participa da Campanha Nacional de Multivacinação Repórter Guaibense"
     }
   ],
   "noticias_home": [
