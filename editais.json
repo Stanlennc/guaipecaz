@@ -1,17 +1,8 @@
 {
-  "gerado_em": "2026-08-30T03:41:09.709526+00:00",
+  "gerado_em": "2026-08-30T11:16:42.458364+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
-    {
-      "id": "03de60ffa894",
-      "titulo": "Câmara de Vereadores de Guaíba, no RS, abre vaga de estágio com bolsa de R$ 1.898,38 e benefícios",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNHRYWmJJVG50akptODNmX3QyN2FRTUM0MjNSdWdOck9Rb1FXTFRQblhKMWlHTFFET251WlZZcDMtc3NNRm5YQnhnWl9tc05aRTNWbHVXeHZ1OGtJZDBXSlNEMk1LbktWdzVfRk4wRjhhN1RXRkVGOTdrNklfcmlKUjNsemNlRVhjWHMzcno2VEt4NW9qcjNxSFgtMHFZZDBaYUUxblJZM0JhcVlCdjVPVHRQNXJOeXduSlVWREJlcS1QejlOQW9sd1RsVG1OOWYxZlVZcS1ta0hCLWY2TUZybVY0YVU?oc=5",
-      "fonte": "Portal de Camaquã",
-      "tipo": "vaga",
-      "publicado_em": "2026-08-16T22:27:43+00:00",
-      "feed": "vagas"
-    },
     {
       "id": "222af359a8b8",
       "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
@@ -110,6 +101,15 @@
       "tipo": "concurso",
       "publicado_em": "2026-04-23T07:00:00+00:00",
       "feed": "concurso"
+    },
+    {
+      "id": "77a0ee2578b3",
+      "titulo": "Frentista, vendedor, auxiliar de cozinha e mais: Sine Guaíba tem 16 vagas de emprego nesta semana",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ3h0bFZtY2dTSEdnWVVXanVReTVpY2ZVclEtUGNKTWJYd2gtWlpUNzRlX01uakE0SHF3RWNZa3hqdks0NlVacVUtbmRnOVZOdjZ0T3RXNU9VbFlDLVJOY2ZGVU1iSTd4Z2pOZ0s0amNPaW1RZ3BDVTFKVGJNdUlkTnpiLUlWLXVna1BBczU1eDhjNDBpbE1PMGExSm9FMmdvLXNNcUhlQXRReHhYaWVWZUkwN3JCejY0VXVRX21NUXlXNHFDOHdsSEFrQUI0WndjVUVGaDh3?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-04-23T07:00:00+00:00",
+      "feed": "vagas"
     }
   ]
 }
