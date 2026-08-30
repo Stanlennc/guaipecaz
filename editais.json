@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-30T11:16:42.458364+00:00",
+  "gerado_em": "2026-08-30T16:03:10.861248+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -85,6 +85,15 @@
       "feed": "vagas"
     },
     {
+      "id": "419af0602b02",
+      "titulo": "Estudantes de Guaíba disputam primeira etapa do 4º Concurso Escolar de Oratória",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTkpzMmtOaGlIX0p0QXNqMERIby1NaEVDQ3lxbG9GTjhweWswQ3ZoTlJxaDllVnVUZjFDR1dYMUw2UnBKcU1CVTlPX2hyUnBUNHVqbFRZbzJ4LU4xQ0J1LXF3ZnM0Vm5ONmN3OGdnSTVxa2NYaU9nTmh6V3FPWkJFMmhJMnhFQ01CSEFYa21NWTdQalR4cmNoYURCaldMNlJQSFpucndHNFlnS1pkYzh6RzVHREZfUmtYZTVjbWNIVDE?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "concurso",
+      "publicado_em": "2026-06-11T07:00:00+00:00",
+      "feed": "concurso"
+    },
+    {
       "id": "0dbcc92cd927",
       "titulo": "Guaíba lança edital de R$ 1,5 milhão para projetos voltados a crianças e adolescentes",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3M5UXVob3JwbnczZU1fZ2xOYjNJakRUS2U4dG8xZW5PNUdzak5FOUxFRXRUYm93djRxQ2VwUGJfMzdfVVVucjM0ekMwNzNIeHFPbTZHSjJxU1BDUHFxM3RlRmFSMjdnZzZiMXM5RHBWSTNUaEo2d01nX2xQWG5mekllUjlhWU1US3h0WjZkTncxZGR6V0lPT3k2SGZhQzV5R1lVSGQ0WHFHU25aYk5XRmJLUXV5VDlvWnpTMUlaQmdLd3Y5RE1FVQ?oc=5",
@@ -101,15 +110,6 @@
       "tipo": "concurso",
       "publicado_em": "2026-04-23T07:00:00+00:00",
       "feed": "concurso"
-    },
-    {
-      "id": "77a0ee2578b3",
-      "titulo": "Frentista, vendedor, auxiliar de cozinha e mais: Sine Guaíba tem 16 vagas de emprego nesta semana",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ3h0bFZtY2dTSEdnWVVXanVReTVpY2ZVclEtUGNKTWJYd2gtWlpUNzRlX01uakE0SHF3RWNZa3hqdks0NlVacVUtbmRnOVZOdjZ0T3RXNU9VbFlDLVJOY2ZGVU1iSTd4Z2pOZ0s0amNPaW1RZ3BDVTFKVGJNdUlkTnpiLUlWLXVna1BBczU1eDhjNDBpbE1PMGExSm9FMmdvLXNNcUhlQXRReHhYaWVWZUkwN3JCejY0VXVRX21NUXlXNHFDOHdsSEFrQUI0WndjVUVGaDh3?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-04-23T07:00:00+00:00",
-      "feed": "vagas"
     }
   ]
 }
