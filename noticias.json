@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-30T03:43:33.730850+00:00",
+  "gerado_em": "2026-08-30T09:44:32.005940+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -159,7 +159,7 @@
       "fonte": "Ministério Público - RS",
       "publicado_em": "2026-08-28T20:00:00+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "MPRS sedia capacitação sobre impactos das apostas on-line na saúde mental e na proteção do consumidor em Guaíba Ministério Público - RS"
     },
     {
@@ -181,16 +181,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Homem é condenado a 13 anos de prisão por matar vítima atingida por engano em Guaíba Terra"
-    },
-    {
-      "id": "53e1cfbf9471",
-      "titulo": "Rádio Guaíba (Grupo Record): Entrevista com o presidente da Atricon, Cezar Miola",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTEtT1BrWXR3OXNhNzRhbDBlQ1h1Wnl5Z0hoc3JRTjRfNEduaUxkbVdPUUlwOTkzdldacVQ5bkZTYjgyVnBqLXljb1VJOFBiTk83dHlfV01TTUw3UGw2SFFDYlBsdzZZSlhQMHhmT2s4OE8wQzN0b2lqNWp6dkV1VEhBeVp3TG5vcEF3V1VfcW5QeTVLVy1yWU9YaUc5UlhndThFbWdxLU4?oc=5",
-      "fonte": "Atricon",
-      "publicado_em": "2026-08-28T07:00:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Rádio Guaíba (Grupo Record): Entrevista com o presidente da Atricon, Cezar Miola Atricon"
     },
     {
       "id": "d1abeed19772",
@@ -223,16 +213,6 @@
       "resumo": "Expointer tem programação da Guaíba ao vivo e edições especiais do Correio do Povo Coletiva.net"
     },
     {
-      "id": "d0299afcd5f6",
-      "titulo": "Acusado pelo MPRS por homicídio é condenado em Guaíba e preso em Santa Catarina cerca de uma hora após sessão do Júri",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWHBhWjRXRml5MWJXTHFMbGpPdkZ2RzZvV3hxQ1BBcGRLdUdYV1RvSDRBR1hHRUVtTjlxVW9iOUlsb3pQbW1lLVh0c2NzZ1J6T2tGbWs5dzdXS1FTajRqZjNmRzM2SjB4VTV2MW1XRlN0bXZHMXFudVFHZEp4Q1pPWkFndHUyVFY0Vmh6SEJLMzJjT0FienFhUXhWaVpkeXFuUVg0aFloLW1EYkxmem5lZVRjWEc0cUZJTmkyU1p1Zlk2bktwZ285YVY3RXJOTGRmbmNhOU80bVhqNjEtYlU5Z0FUbmpYeU1RTG13N1dDRjJyT3pH?oc=5",
-      "fonte": "RD Foco",
-      "publicado_em": "2026-08-26T11:13:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Acusado pelo MPRS por homicídio é condenado em Guaíba e preso em Santa Catarina cerca de uma hora após sessão do Júri RD Foco"
-    },
-    {
       "id": "e9d73e448886",
       "titulo": "PRF prende homem de 76 anos condenado por estupro em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbHNMMVVtcVVvUHB6UlhqeHNXZjVMRnpVd05IR2l3UVRDbFcyYkxQWHNldmVnSlJ3cXg4ZHJTckJtZDEwc2RfQWpHOTAyb3I5SEFnMDEzN2ZQU0tkYzBOSkhmQ0hRaEU1S09NeWVXODJPbHJyeTZ5T2xuVE5ZczhXTnZOeFhqN2RqMGJ2SjlhajFicWJKSmRCbEZwRE9VSDVPTXlSVU84VjN2QmlqT0Qzc1VRYWx6b3ZLSE14QUlCYjZ4Rlg3Q3B5TzlpbGJKemRmWEN1YjdOTFozNnUtSUJxRmhHdlV6OURPVlE?oc=5",
@@ -241,16 +221,6 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "PRF prende homem de 76 anos condenado por estupro em Guaíba Terra"
-    },
-    {
-      "id": "e16780b839f1",
-      "titulo": "Limpe o Lago Guaíba 2026 será lançado nesta quinta-feira (27 de agosto)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEt1R0NoS1RENUZreXVFeUp2UEJmbVJ2ekZ0QVBWa0VxenJaM1RmUGZKYVM3TnlPRkR4SThUWGs0WXJ6MnBwU0xJa0tQNTBRMG14cE5hMG4zcU1iWEdzMjVKVEtsS1N1TFhoeURldVhWNnZZbGdrZlhBSXJ5M3NVR0JwYWl5d2JDemdUeHhES2FXUEs2SWpvbmZQSWpwRUg4U1E?oc=5",
-      "fonte": "Jornalecão",
-      "publicado_em": "2026-08-25T17:34:39+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Limpe o Lago Guaíba 2026 será lançado nesta quinta-feira (27 de agosto) Jornalecão"
     },
     {
       "id": "0b63c6f8dd3f",
@@ -302,16 +272,6 @@
       "feed": "recentes"
     },
     {
-      "id": "4aed97da09e7",
-      "titulo": "Homem é condenado por estupro de mulher vulnerável, em estado de embriaguez, em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ21OaUlLSGhqVzJnT0pKdndIQW9SS1Q2TnhoR1psNVc0S1dhNHF4N3hmM2hhZkdmLVY1QXZjXzE5UWw0T0F5WHpNWHlwOWRzbGZEOVYwQjRKQU9idkxUM01GTEpLRG4xVXRIV2d5ZlBPa0RvbHVCTlY2bnJLZUJrdFZBajBQczlTR2xWX3l0cUE2OVJYbGY1eFpNZmFOSTJOeU9fQjgwYnpRdVpnbzVwbWZLbEFFT25JOFVTU0VoZUNuSFlLenZHMGp2cFJlTFFObHN6eWhTYw?oc=5",
-      "fonte": "Portal de Camaquã",
-      "publicado_em": "2026-08-24T21:32:19+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Homem é condenado por estupro de mulher vulnerável, em estado de embriaguez, em Guaíba Portal de Camaquã"
-    },
-    {
       "id": "89150c42cb40",
       "titulo": "Record Guaíba fecha temporada com evento no Olivas de Gramado",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQejhxYlpkMF9pY2lwSVNJZ3E1aVpxRnpiQnJxVjF5WUMzai1YdHdkVnViZGt2LVBQZVBLd1NkcWk4am9pX3dsV2llUFhQNldzbTQ4OEtyV0EtWTBNZzZJM1lNQ3lGLW5nRU44R3dieTBLNEpfT2tXWGRYamxmR0YzSm9FWkVmczNRbXczU1FaalBOamdHY0Q3bEt6X2xCXzZDM0FBdXpXUkpEVVRtdW5Dem5sRDN5SXFmRm5BZnZYTHFXZGRXbGNLbU1n?oc=5",
@@ -330,16 +290,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Maranata vs Claudinha: extrato mostra que existe mais de R$ 100 milhões no caixa da Prefeitura de Guaíba Terra"
-    },
-    {
-      "id": "347ef94f5e15",
-      "titulo": "Capitania Fluvial de Porto Alegre e entidades de engenharia estudam uso de batimetria por satélite no Lago Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRTVMM1Y0UzJTZVZweExsc05ZcmVaaFMtWm1IYVQzZm9FejZzQkRibVV6TUktZG1lZkQzZ19lYk9xMFBKUVNYa010YkZCZzJlT2JuUFZ2bnRuRWNXUEMtSUY1bk45WXpBc2MxYktXTzNtSkNISGtlZXNXOHlzY2hDWXBrdElBdmJ2TmdkeS1HMm5VMHZDN3Q2VlV3dkRIeWx2VV9jR1dkUzJDNFJuVXBlNWhlSmpESS14TDJkeTZTeDhuVTNzNTFzNEpBRFg5aHJGbWdDNERzUi1PRkJDUWoxN1lqVWo5QnNTcWJ2Z2d3?oc=5",
-      "fonte": "Defesa em Foco",
-      "publicado_em": "2026-08-24T00:01:22+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Capitania Fluvial de Porto Alegre e entidades de engenharia estudam uso de batimetria por satélite no Lago Guaíba Defesa em Foco"
     },
     {
       "id": "81655642f982",
@@ -370,6 +320,56 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias Correio do Povo"
+    },
+    {
+      "id": "f33d2e7f2329",
+      "titulo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNV0Fydk85Qllmb2VkZGQ5bkFOMjVZN1AwQ1VKaDNQVXg1ZWNBYl9EWkR1amJibmdoOFp1U0ZtY0FIQXVydzdwbWE0QkJid3MyVHhYSXA1WWxFYjBpTEttREtyeTNGVE5HWjVHS1dkRWtTNldIVEduc1NheGNBdUZ2WTVxeVk3d28xU0NMSURVTF84XzRCMHQtbTVCLVRFZlNQcVY1S2NvdDRyV1BDd1FjYWVCLU45X2daMTAzU0JCbzlZVWI0dUZ0OF9ZYmNfSGJycnEtdUZ5T1NRYUZYUFdrNFlJdVdGT21DS3g4ZjN0ckg0RjhKOGw4MEZReThHOU8ya2ZSaXNUWUFKdjFuOGJJY2hR?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-08-01T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS GZH"
+    },
+    {
+      "id": "57a31105eb68",
+      "titulo": "Veículos da Toyota colocam Guaíba na liderança das importações gaúchas",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMjlYb3RtYjctVW0yRW1vYkNCWFZPeTQzVjZPeVlkQTBwTGpvU1lWV2JUaW54VUJZZV9sUGh5Y3FucEtKRjBXOERCMzhybWJaTTRFQTdrUC1IYW1WLTNlSWlPVUZPVkNxeG5ZUVJqUXZDMWVJTnZmdlFPaHg1dGw2VHdNVVhyblpoSEpUdmh0X2IyNldYRXMxcEJnSGdMaFJLMlZrOUZrNDVSRUw3Q0ZvZFdyMnVqQkZjNmpneENSSF82R0Q1bUkyeV9QYl8wTDRZVG1IancyemZNT3RXNFBHWVJORjg?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-07-31T16:25:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Veículos da Toyota colocam Guaíba na liderança das importações gaúchas Jornal do Comércio"
+    },
+    {
+      "id": "afeb1935523e",
+      "titulo": "Guaíba sobe durante a madrugada e atinge cota de alerta em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMktlVmpkQTJtcGhReXFUVDhGWTdTbU5IOWNzWXhZTS14ZExUTmlma0M4UkNlOTdyYkJ6SnJHeXJUZUpUbzlwYVl4c2tsdG1MeGFld2hRb0doeUZoLXFiM1lYMk9STjZmZm8zbk13SFdWbURYbkVZdFNiUWtIVEN4ZGR0TDJ2UXJ0QURHOHdoMXJ3b3F1ZXRyaU9rQko1OWU2MnJ3aTBKZkJvZ0d6S05sM9IBvwFBVV95cUxOYXpMNEQ5a0tkN0k3X2xQNkNiQ1lMZmpDa0lwMk5ZakNONkw3T0tIdUFoVlV1U2NGS2xsNmdTS2J5MTR1VlpmSktwX0JDSkZnY29SS1FCcUMyc0FoN1VKb2Y2S3NjTDBneENpLXd5UnU2UXlJcWI3bWt4Ymc0QjY3dmo5Zll2ZTlULUIyc2xlOUVyQWFteEowTWlreGxWS2ZLdFlib1hSX2RzZXkzUExUN1lnNVA5djdNWDhTY2Vmaw?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-07-31T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Guaíba sobe durante a madrugada e atinge cota de alerta em Porto Alegre G1"
+    },
+    {
+      "id": "27ec153afa11",
+      "titulo": "Água invade rua na Zona Norte de Porto Alegre com elevação do Guaíba; veja a previsão do tempo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkhRYmRrVUNmY29JcVlvbXo1Qmlsc0k2OHlmbVdvOG5JTzhzVVAxZHJCUHR5MUhUR0xWc056UzNSRUtxRDhXY09tREgwOEVGcUZVR25MQ0RwVFRrdVVEajlzejNPY1Ztdkh4QUNEdEtDSVhwamxiRFZSWmJtLV9STU8teE90SG9jOFRUMUo0cVRJZ3RwN0xEOTlRMWltbWNDdzI1UHBQNNIBtgFBVV95cUxQM01xMFdTQTdoMUh1UVpDUEJRLWw2QmxCdTVwSWtadWZvTHNKOFE5SUg1Zjd5eG5xSlV4Tm9qV2puN014R3N1SVNPQkUtMHBuX3hRWGM1RW5wNGhPWFVBNFVVSDcwd3MxZndBQTFTa3luTk5KcW1CYWFQRFhuYzl6b1A2TnVjakpBQTUxckp6NWU5SmhQUmlBVEFBTUVPNi1UNGYxeGN5c0w1cmVpQktDX0NOcnJUZw?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-07-31T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Água invade rua na Zona Norte de Porto Alegre com elevação do Guaíba; veja a previsão do tempo G1"
+    },
+    {
+      "id": "dc53d9821513",
+      "titulo": "RS: Guaíba atinge cota de alerta e Porto Alegre tem risco alto de inundação",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFQ5QlE5RmNLLS1iNlplRHhQWEZnLVdNdnE1bW10ZWJucU9lblkwMGg3S2M5eWRNQVZZV0g1cEJLSjNjUjY1Z0d2VU5GX0JTbDA1Q2RtaHhwNllWTWd5WF9sbmhlbXA0Nk53cjFubVk3UTRlaXhNQWx1bVhONU1OYVJWd0wtUV9Scm1OTzdMbTlTQ2E3YlVqamtqdlJLb3M3MzZXNVd3?oc=5",
+      "fonte": "UOL Notícias",
+      "publicado_em": "2026-07-31T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "RS: Guaíba atinge cota de alerta e Porto Alegre tem risco alto de inundação UOL Notícias"
     }
   ],
   "noticias_home": [
