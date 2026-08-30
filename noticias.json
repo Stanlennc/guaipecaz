@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-29T23:53:16.055306+00:00",
+  "gerado_em": "2026-08-30T03:43:33.730850+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -78,7 +78,7 @@
       "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-29T00:00:00+00:00",
+      "publicado_em": "2026-08-30T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
     },
@@ -87,7 +87,7 @@
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-29T00:00:00+00:00",
+      "publicado_em": "2026-08-30T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
@@ -97,7 +97,7 @@
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-29T00:00:00+00:00",
+      "publicado_em": "2026-08-30T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
@@ -181,6 +181,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Homem é condenado a 13 anos de prisão por matar vítima atingida por engano em Guaíba Terra"
+    },
+    {
+      "id": "53e1cfbf9471",
+      "titulo": "Rádio Guaíba (Grupo Record): Entrevista com o presidente da Atricon, Cezar Miola",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTEtT1BrWXR3OXNhNzRhbDBlQ1h1Wnl5Z0hoc3JRTjRfNEduaUxkbVdPUUlwOTkzdldacVQ5bkZTYjgyVnBqLXljb1VJOFBiTk83dHlfV01TTUw3UGw2SFFDYlBsdzZZSlhQMHhmT2s4OE8wQzN0b2lqNWp6dkV1VEhBeVp3TG5vcEF3V1VfcW5QeTVLVy1yWU9YaUc5UlhndThFbWdxLU4?oc=5",
+      "fonte": "Atricon",
+      "publicado_em": "2026-08-28T07:00:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Rádio Guaíba (Grupo Record): Entrevista com o presidente da Atricon, Cezar Miola Atricon"
     },
     {
       "id": "d1abeed19772",
@@ -360,16 +370,6 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias Correio do Povo"
-    },
-    {
-      "id": "f33d2e7f2329",
-      "titulo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNV0Fydk85Qllmb2VkZGQ5bkFOMjVZN1AwQ1VKaDNQVXg1ZWNBYl9EWkR1amJibmdoOFp1U0ZtY0FIQXVydzdwbWE0QkJid3MyVHhYSXA1WWxFYjBpTEttREtyeTNGVE5HWjVHS1dkRWtTNldIVEduc1NheGNBdUZ2WTVxeVk3d28xU0NMSURVTF84XzRCMHQtbTVCLVRFZlNQcVY1S2NvdDRyV1BDd1FjYWVCLU45X2daMTAzU0JCbzlZVWI0dUZ0OF9ZYmNfSGJycnEtdUZ5T1NRYUZYUFdrNFlJdVdGT21DS3g4ZjN0ckg0RjhKOGw4MEZReThHOU8ya2ZSaXNUWUFKdjFuOGJJY2hR?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-08-01T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS GZH"
     }
   ],
   "noticias_home": [
@@ -378,7 +378,7 @@
       "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-29T00:00:00+00:00",
+      "publicado_em": "2026-08-30T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
     },
@@ -387,7 +387,7 @@
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-29T00:00:00+00:00",
+      "publicado_em": "2026-08-30T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
@@ -397,7 +397,7 @@
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-29T00:00:00+00:00",
+      "publicado_em": "2026-08-30T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
