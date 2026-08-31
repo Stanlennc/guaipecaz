@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-30T22:24:01.975203+00:00",
+  "gerado_em": "2026-08-31T03:44:50.959876+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -78,7 +78,7 @@
       "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-30T00:00:00+00:00",
+      "publicado_em": "2026-08-31T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
     },
@@ -87,7 +87,7 @@
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-30T00:00:00+00:00",
+      "publicado_em": "2026-08-31T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
@@ -97,7 +97,7 @@
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-30T00:00:00+00:00",
+      "publicado_em": "2026-08-31T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
@@ -342,16 +342,6 @@
       "resumo": "Maranata vs Claudinha: extrato mostra que existe mais de R$ 100 milhões no caixa da Prefeitura de Guaíba Terra"
     },
     {
-      "id": "347ef94f5e15",
-      "titulo": "Capitania Fluvial de Porto Alegre e entidades de engenharia estudam uso de batimetria por satélite no Lago Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRTVMM1Y0UzJTZVZweExsc05ZcmVaaFMtWm1IYVQzZm9FejZzQkRibVV6TUktZG1lZkQzZ19lYk9xMFBKUVNYa010YkZCZzJlT2JuUFZ2bnRuRWNXUEMtSUY1bk45WXpBc2MxYktXTzNtSkNISGtlZXNXOHlzY2hDWXBrdElBdmJ2TmdkeS1HMm5VMHZDN3Q2VlV3dkRIeWx2VV9jR1dkUzJDNFJuVXBlNWhlSmpESS14TDJkeTZTeDhuVTNzNTFzNEpBRFg5aHJGbWdDNERzUi1PRkJDUWoxN1lqVWo5QnNTcWJ2Z2d3?oc=5",
-      "fonte": "Defesa em Foco",
-      "publicado_em": "2026-08-24T00:01:22+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Capitania Fluvial de Porto Alegre e entidades de engenharia estudam uso de batimetria por satélite no Lago Guaíba Defesa em Foco"
-    },
-    {
       "id": "bea17b445542",
       "titulo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1QxN2tyU3Rlc05ueEFxY21faG5qVzlqSjJCbTBYU1k3THpRNkIxOW5UaGVZZWhjRHdkNXk0TDlxMHFoZ2JHRHUzMEF3V01zU0hZbFNXdXprMGVwRFF2VUp2QnplMWxISFNFVkJzX3N3SzJUS2dHRXY2VXJiVXRWVFRkZTg4LVRqWC1xMWJEazBwTjJmZDZtZ3ptYkJENWxqRjdwMmxNVVphOVVhN3pVakppMTJadU9DOEZJUHZHZFY?oc=5",
@@ -370,6 +360,16 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias Correio do Povo"
+    },
+    {
+      "id": "f33d2e7f2329",
+      "titulo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNV0Fydk85Qllmb2VkZGQ5bkFOMjVZN1AwQ1VKaDNQVXg1ZWNBYl9EWkR1amJibmdoOFp1U0ZtY0FIQXVydzdwbWE0QkJid3MyVHhYSXA1WWxFYjBpTEttREtyeTNGVE5HWjVHS1dkRWtTNldIVEduc1NheGNBdUZ2WTVxeVk3d28xU0NMSURVTF84XzRCMHQtbTVCLVRFZlNQcVY1S2NvdDRyV1BDd1FjYWVCLU45X2daMTAzU0JCbzlZVWI0dUZ0OF9ZYmNfSGJycnEtdUZ5T1NRYUZYUFdrNFlJdVdGT21DS3g4ZjN0ckg0RjhKOGw4MEZReThHOU8ya2ZSaXNUWUFKdjFuOGJJY2hR?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-08-01T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS GZH"
     }
   ],
   "noticias_home": [
@@ -378,7 +378,7 @@
       "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-30T00:00:00+00:00",
+      "publicado_em": "2026-08-31T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
     },
@@ -387,7 +387,7 @@
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-30T00:00:00+00:00",
+      "publicado_em": "2026-08-31T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
@@ -397,7 +397,7 @@
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-anuncia-o-novo-quadro-de-prendas-e-peoes-para-o-6-sarandeio-farroupilha",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-30T00:00:00+00:00",
+      "publicado_em": "2026-08-31T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O título de 1º Peão Farroupilha ficou com Aron Bitencourt Correia, e o de 1ª Prenda com Eduarda Ávila de Oliveira Teixeira"
