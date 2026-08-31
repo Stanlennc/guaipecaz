@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-31T18:47:22.978418+00:00",
+  "gerado_em": "2026-08-31T23:37:27.040609+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -133,6 +133,46 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
+      "id": "b586d8726cc4",
+      "titulo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcTAxM2xvUVlKWlBrSmliYVlEaW1HeUxuZW5JLVF5SFRBZnJSOGc2eHRnVkN2TUNjYmhORkRtZklrMU5Pd3paVEREbXJLamNUTUdvbVQwVk90dU9GRnJPM2dHN2hTdGFSTlF0MkVHQ25ybmREZWN6bUFHbjF0UzVWLVo3c3haSjdSR3pCalRSaXFQSGcwQ3Q4QzFxWnRHR28xVmF2QVYwNzdReHBDb29IQlUtOUp0SkJaUE54YTZONElpZ2lyaGFwSy1xWFFmVXdiT1pqYkNGM2ZiN2ZuNkItdHJnbUk?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-31T21:22:30+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026 Correio do Povo"
+    },
+    {
+      "id": "5c739cf40f36",
+      "titulo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb3FsM21OaXVFU0RzaF9lT250QURHOWJTZTBiYnduY1RIRGNMa2hYLTJJVENSdzBXUWRaVkh4M3lsWXRqUGhHUTZpTHVvbmRMV0MwLUZnbTFSQkRqTXF0SmJhSEtyTXBKWDRJcmVydF9zUzdrUEwzcWhLSTZMR2lPNEQwX1JBTVpBUDNRNmUyb2tJSm15cHZKLWNlekVoYWJaV2ZqaUpkV2FDQnpXM3BESXpXOTFMWVR1c2lFNFF3cEtVYVotUENGTzQ2eHRGamJoVEFCSnF5X0wxVE5ZVGlwNWJ3?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-08-31T20:37:52+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira Jornal do Comércio"
+    },
+    {
+      "id": "c0afc9bd5e51",
+      "titulo": "Porto Alegre instala barreira móvel contra cheias do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSXRhVW03RWFXNUtwRnRqdklQOHRuSkNnUGFVMGFSdkpxcVVnS3o2ZDZpeU1DMXp0My1CRWthWGJJSnhiQ0RqZW9pZkpPNmh5WWo3V1FvWTV0X0NHVjBiRHVTNkFzMWZrLWpjSlhkaEx5d1V6VS0zdXZUMEJRWkI5QjZNYzd4cnZzaE03XzBjYnFwcGpEN25WdG4xWWV2cVR1QnlyeV9TalpCVnBXcTd4aTIyamhzZw?oc=5",
+      "fonte": "R7",
+      "publicado_em": "2026-08-31T20:04:15+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Porto Alegre instala barreira móvel contra cheias do Guaíba R7"
+    },
+    {
+      "id": "eeed75b168e4",
+      "titulo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbWF0VmM5c3VLTUZVLU5mQmRMbFFBYk9lTVIxc1M5bmloZkNDS0pOR1h3Y3BENEM5bjZtSmRPNHZtNGIxSi1IVWJSS1lrRzJMaDU1QTlCWFFhaDZldTZuRWdaNFBTbURDYmliSER6anAwbGFrbDJaUjFhdUhqelR2aElXSGc3LWlVLVJXUlBSS1pGekFBVklfdjRKclhFTWltYWExVUJsUi1KdUVabU9nS1lnR0FxYk4tY1cweWR3?oc=5",
+      "fonte": "Brasil de Fato",
+      "publicado_em": "2026-08-31T19:43:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba Brasil de Fato"
+    },
+    {
       "id": "6743d7aa0f88",
       "titulo": "Porto Alegre instala barreiras móveis inéditas para proteger bairro contra cheias do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbXZranllNUpoZ1dmbXhVZkZJNWlybEQ4bjFBNGFBVFpseG9QLUZBSzR1SEJuVEI4MHl3bWpFUWZLbHd0RVVlMF9fZ1M5c2hMcWtkTjhRVzlLcF9UcFEwZFJKRUpQdTl0cnBVbzlVSnZESWkyeFU2djc4MC11ZXRXLXhDX0U2TEpJeVRTRUNXeXNTbHpiV2laS2ZnYVBRM2ZsN1Z3QWdPenpoRTNyZTFfcVFHVEVwYUpodmpMVjFjMXQwRzhacVM1dzNKcjdLTktrX1YzSEYyZFhtcTdQNTEta3pTdlBmYlZqUGsxYUd6MXFjN0RWeW44U1dqWDFUNTRP?oc=5",
@@ -216,11 +256,11 @@
       "id": "87201190ce8c",
       "titulo": "Limpe o Guaíba 2026 é lançado em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmdjUlhPNGQ2WFotU3FYQTVSTV9GVDU0QXprNUUxTlZmeFIzUWhSVlQtSXlCZi1lc3ZqRzYwMmxaWE01VXlDc3lROHo3bmVicWQ2SzBLd2lHSUlTbVduTUJxbkQtbVdvaUFmLW9ac1lRand4RlNHeS15UVA0Q01qamlaZzJKNGhTSk9pakZIQ2pSRjRIUmdIeC0xdTQ5TjdOelBxUUdOY2VXck43RHNv?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-08-28T00:28:28+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Limpe o Guaíba 2026 é lançado em Porto Alegre correiodopovo.com.br"
+      "resumo": "Limpe o Guaíba 2026 é lançado em Porto Alegre Correio do Povo"
     },
     {
       "id": "030081355f45",
@@ -266,21 +306,21 @@
       "id": "e16780b839f1",
       "titulo": "Limpe o Lago Guaíba 2026 será lançado nesta quinta-feira (27 de agosto)",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEt1R0NoS1RENUZreXVFeUp2UEJmbVJ2ekZ0QVBWa0VxenJaM1RmUGZKYVM3TnlPRkR4SThUWGs0WXJ6MnBwU0xJa0tQNTBRMG14cE5hMG4zcU1iWEdzMjVKVEtsS1N1TFhoeURldVhWNnZZbGdrZlhBSXJ5M3NVR0JwYWl5d2JDemdUeHhES2FXUEs2SWpvbmZQSWpwRUg4U1E?oc=5",
-      "fonte": "jornalecao.com.br",
+      "fonte": "Jornalecão",
       "publicado_em": "2026-08-25T17:34:39+00:00",
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Limpe o Lago Guaíba 2026 será lançado nesta quinta-feira (27 de agosto) jornalecao.com.br"
+      "feed": "recentes",
+      "resumo": "Limpe o Lago Guaíba 2026 será lançado nesta quinta-feira (27 de agosto) Jornalecão"
     },
     {
       "id": "0b63c6f8dd3f",
       "titulo": "Condenado homem por estupro de vulnerável de vítima em estado de embriaguez em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQODRlcGZIRnF0ME5uLVdfdnJXQVJsZEduX2FWQkg2RG1wdk1tMmJMY3RqZGZBU014anktMUUzQkpXelkxQzNtUGF1bHlDbEhzai1pYlJ2WmZkd013cHI0SmtGSkZlRS1UeFhSVTZ3SXFLSHFBcTFqazROSFpWdHFkb3BHdkpobU9QbVdnaWI0WnN1aEpjSXBMRV9VdlpsOC1EMXNYZUdTRFlBUi1lYWYtZDF2RnpfTkdTZDRWVzRjOElIVzlkWW1acU5KNnFscFBldVBsUWNmZlM5RFlLZkI3UzhETHpTamExdi1B?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-08-25T15:34:34+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Condenado homem por estupro de vulnerável de vítima em estado de embriaguez em Guaíba correiodopovo.com.br"
+      "resumo": "Condenado homem por estupro de vulnerável de vítima em estado de embriaguez em Guaíba Correio do Povo"
     },
     {
       "id": "1cac281bd2d3",
@@ -313,25 +353,6 @@
       "resumo": "Em Eldorado do Sul e Guaíba, Zucco propõe preparo contra enchentes grupo sepé"
     },
     {
-      "id": "849945e18c13",
-      "titulo": "Ponte do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnNQV2tuN1ducUVuVk1zaDRnM1ZndXA2YVgxMXRGaGdvYmxzNjBSY09OQVRhT2ZsUkJEYWl3REtMYldQem0wdzBMUGR4c1Z6M1F2LTI5X3JETG5UQWFaYTBnUUVYLWF0dGJTX2Q2SmNSX1cxMkZXOTNKSVZPTnpDM0RDU2RhVWZZZ0lkamxXQ0p4S1VEVlFkRHZ6aw?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-08-24T21:33:22+00:00",
-      "categoria": null,
-      "feed": "recentes"
-    },
-    {
-      "id": "89150c42cb40",
-      "titulo": "Record Guaíba fecha temporada com evento no Olivas de Gramado",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQejhxYlpkMF9pY2lwSVNJZ3E1aVpxRnpiQnJxVjF5WUMzai1YdHdkVnViZGt2LVBQZVBLd1NkcWk4am9pX3dsV2llUFhQNldzbTQ4OEtyV0EtWTBNZzZJM1lNQ3lGLW5nRU44R3dieTBLNEpfT2tXWGRYamxmR0YzSm9FWkVmczNRbXczU1FaalBOamdHY0Q3bEt6X2xCXzZDM0FBdXpXUkpEVVRtdW5Dem5sRDN5SXFmRm5BZnZYTHFXZGRXbGNLbU1n?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-08-24T19:53:55+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Record Guaíba fecha temporada com evento no Olivas de Gramado R7"
-    },
-    {
       "id": "bea17b445542",
       "titulo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1QxN2tyU3Rlc05ueEFxY21faG5qVzlqSjJCbTBYU1k3THpRNkIxOW5UaGVZZWhjRHdkNXk0TDlxMHFoZ2JHRHUzMEF3V01zU0hZbFNXdXprMGVwRFF2VUp2QnplMWxISFNFVkJzX3N3SzJUS2dHRXY2VXJiVXRWVFRkZTg4LVRqWC1xMWJEazBwTjJmZDZtZ3ptYkJENWxqRjdwMmxNVVphOVVhN3pVakppMTJadU9DOEZJUHZHZFY?oc=5",
@@ -350,26 +371,6 @@
       "categoria": null,
       "feed": "reporter",
       "resumo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha Repórter Guaibense"
-    },
-    {
-      "id": "f33d2e7f2329",
-      "titulo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNV0Fydk85Qllmb2VkZGQ5bkFOMjVZN1AwQ1VKaDNQVXg1ZWNBYl9EWkR1amJibmdoOFp1U0ZtY0FIQXVydzdwbWE0QkJid3MyVHhYSXA1WWxFYjBpTEttREtyeTNGVE5HWjVHS1dkRWtTNldIVEduc1NheGNBdUZ2WTVxeVk3d28xU0NMSURVTF84XzRCMHQtbTVCLVRFZlNQcVY1S2NvdDRyV1BDd1FjYWVCLU45X2daMTAzU0JCbzlZVWI0dUZ0OF9ZYmNfSGJycnEtdUZ5T1NRYUZYUFdrNFlJdVdGT21DS3g4ZjN0ckg0RjhKOGw4MEZReThHOU8ya2ZSaXNUWUFKdjFuOGJJY2hR?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-08-01T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS GZH"
-    },
-    {
-      "id": "57a31105eb68",
-      "titulo": "Veículos da Toyota colocam Guaíba na liderança das importações gaúchas",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMjlYb3RtYjctVW0yRW1vYkNCWFZPeTQzVjZPeVlkQTBwTGpvU1lWV2JUaW54VUJZZV9sUGh5Y3FucEtKRjBXOERCMzhybWJaTTRFQTdrUC1IYW1WLTNlSWlPVUZPVkNxeG5ZUVJqUXZDMWVJTnZmdlFPaHg1dGw2VHdNVVhyblpoSEpUdmh0X2IyNldYRXMxcEJnSGdMaFJLMlZrOUZrNDVSRUw3Q0ZvZFdyMnVqQkZjNmpneENSSF82R0Q1bUkyeV9QYl8wTDRZVG1IancyemZNT3RXNFBHWVJORjg?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-07-31T16:25:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Veículos da Toyota colocam Guaíba na liderança das importações gaúchas Jornal do Comércio"
     }
   ],
   "noticias_home": [
@@ -433,24 +434,24 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
-      "id": "6743d7aa0f88",
-      "titulo": "Porto Alegre instala barreiras móveis inéditas para proteger bairro contra cheias do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbXZranllNUpoZ1dmbXhVZkZJNWlybEQ4bjFBNGFBVFpseG9QLUZBSzR1SEJuVEI4MHl3bWpFUWZLbHd0RVVlMF9fZ1M5c2hMcWtkTjhRVzlLcF9UcFEwZFJKRUpQdTl0cnBVbzlVSnZESWkyeFU2djc4MC11ZXRXLXhDX0U2TEpJeVRTRUNXeXNTbHpiV2laS2ZnYVBRM2ZsN1Z3QWdPenpoRTNyZTFfcVFHVEVwYUpodmpMVjFjMXQwRzhacVM1dzNKcjdLTktrX1YzSEYyZFhtcTdQNTEta3pTdlBmYlZqUGsxYUd6MXFjN0RWeW44U1dqWDFUNTRP?oc=5",
-      "fonte": "Terra",
-      "publicado_em": "2026-08-31T18:05:00+00:00",
+      "id": "b586d8726cc4",
+      "titulo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcTAxM2xvUVlKWlBrSmliYVlEaW1HeUxuZW5JLVF5SFRBZnJSOGc2eHRnVkN2TUNjYmhORkRtZklrMU5Pd3paVEREbXJLamNUTUdvbVQwVk90dU9GRnJPM2dHN2hTdGFSTlF0MkVHQ25ybmREZWN6bUFHbjF0UzVWLVo3c3haSjdSR3pCalRSaXFQSGcwQ3Q4QzFxWnRHR28xVmF2QVYwNzdReHBDb29IQlUtOUp0SkJaUE54YTZONElpZ2lyaGFwSy1xWFFmVXdiT1pqYkNGM2ZiN2ZuNkItdHJnbUk?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-31T21:22:30+00:00",
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Porto Alegre instala barreiras móveis inéditas para proteger bairro contra cheias do Guaíba Terra"
+      "feed": "correio",
+      "resumo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026 Correio do Povo"
     },
     {
-      "id": "a4bb4b7e7690",
-      "titulo": "Guaíba convoca entidades socioassistenciais para o Programa de Aquisição de Alimentos",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMGhGNURMWkI4eDFTd2xqcnh5OHktVVUzTXhpMTktUm80VW1xVEVkUUExQ0VyQzB0aWdBR1QwbUhDUV9BeFJNVmpENUpzZWJtbGhiazdhMk11OVFDWHROYlhrcVhiV2NfWXpWdERxNFl1X19ULVRvQ0s5algwLXBMa3ZVQVF1VGdTNEtDRVA5M0NNMmRqMTRfV19nWGtBV2NGdFJTNGlTNHNKUQ?oc=5",
-      "fonte": "expansao.co",
-      "publicado_em": "2026-08-31T14:03:28+00:00",
+      "id": "5c739cf40f36",
+      "titulo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb3FsM21OaXVFU0RzaF9lT250QURHOWJTZTBiYnduY1RIRGNMa2hYLTJJVENSdzBXUWRaVkh4M3lsWXRqUGhHUTZpTHVvbmRMV0MwLUZnbTFSQkRqTXF0SmJhSEtyTXBKWDRJcmVydF9zUzdrUEwzcWhLSTZMR2lPNEQwX1JBTVpBUDNRNmUyb2tJSm15cHZKLWNlekVoYWJaV2ZqaUpkV2FDQnpXM3BESXpXOTFMWVR1c2lFNFF3cEtVYVotUENGTzQ2eHRGamJoVEFCSnF5X0wxVE5ZVGlwNWJ3?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-08-31T20:37:52+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Guaíba convoca entidades socioassistenciais para o Programa de Aquisição de Alimentos expansao.co"
+      "resumo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira Jornal do Comércio"
     }
   ]
 }
