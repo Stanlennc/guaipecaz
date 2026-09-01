@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-01T19:12:43.733631+00:00",
+  "gerado_em": "2026-09-01T22:23:01.437565+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,14 +74,14 @@
   ],
   "noticias": [
     {
-      "id": "bb279e02512f",
-      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
+      "id": "c324af66d4b4",
+      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-01T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
       "id": "0a160b69ba5b",
@@ -91,6 +91,16 @@
       "publicado_em": "2026-09-01T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
+    },
+    {
+      "id": "bb279e02512f",
+      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-01T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
     },
     {
       "id": "e37d22daa6a2",
@@ -113,16 +123,6 @@
       "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
     },
     {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
-    },
-    {
       "id": "821a278c8680",
       "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
       "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
@@ -131,16 +131,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
-    },
-    {
-      "id": "ccdd51f98255",
-      "titulo": "Mudança em Porto Alegre: fila na Guaíba, corredor e o baú que não pode errar o horário",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUXhsQjl4aGl2M29nVE9kRXhMdVJnRmFxYXMwMlBYNWxySm9PdWIweWdwU3d1Sm9vdWNvSjNuazJRbmx3UUlneXdrVmZmTU11LUJRQ3Q0a0lua3c1cllaTVpzcXJIY21SNWNkdU5nRU5zVmhwS3lUVW9NQmxGNFA2VkVqcmZQemQySWVzQ0JQSlBqTV9ReWpGa0RfQ1pZTmdvOXdYUy0wbUpMMjN5QmowTHQzSC15b1ljcWlTMWJVVQ?oc=5",
-      "fonte": "mobilidadeportoalegre.com.br",
-      "publicado_em": "2026-09-01T18:28:34+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Mudança em Porto Alegre: fila na Guaíba, corredor e o baú que não pode errar o horário mobilidadeportoalegre.com.br"
     },
     {
       "id": "16c7114bf9d0",
@@ -156,11 +146,11 @@
       "id": "1aa7285cf899",
       "titulo": "#LIMPEOLAGUAÍBA: Evento é lançado oficialmente em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVdoSmRTZ0ZLNDUxSWpsWnFFd3l2NmF5ZTBhZVlxSl9qMXBWQkYwc1FyNnZCMUlDMUZ4cHN0UXdKYUJIWTNGZGxEZmRuTWxSTzV5bXp1TWt1VUVCRmgxLW92VVlnZTVnWTBZWFBrako3bVJIYzcwWkpjQmRoWkszcDRrZ05Rd2ViWGF4cmFrSFhodkltMnZzMDdPWExYSXh0OTUw?oc=5",
-      "fonte": "Aloha Spirit Mídia",
+      "fonte": "alohaspiritmidia.com.br",
       "publicado_em": "2026-09-01T11:36:02+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "#LIMPEOLAGUAÍBA: Evento é lançado oficialmente em Porto Alegre Aloha Spirit Mídia"
+      "resumo": "#LIMPEOLAGUAÍBA: Evento é lançado oficialmente em Porto Alegre alohaspiritmidia.com.br"
     },
     {
       "id": "6a1c7c48b080",
@@ -176,21 +166,21 @@
       "id": "5c739cf40f36",
       "titulo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb3FsM21OaXVFU0RzaF9lT250QURHOWJTZTBiYnduY1RIRGNMa2hYLTJJVENSdzBXUWRaVkh4M3lsWXRqUGhHUTZpTHVvbmRMV0MwLUZnbTFSQkRqTXF0SmJhSEtyTXBKWDRJcmVydF9zUzdrUEwzcWhLSTZMR2lPNEQwX1JBTVpBUDNRNmUyb2tJSm15cHZKLWNlekVoYWJaV2ZqaUpkV2FDQnpXM3BESXpXOTFMWVR1c2lFNFF3cEtVYVotUENGTzQ2eHRGamJoVEFCSnF5X0wxVE5ZVGlwNWJ3?oc=5",
-      "fonte": "Jornal do Comércio",
+      "fonte": "jornaldocomercio.com",
       "publicado_em": "2026-08-31T23:14:41+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira Jornal do Comércio"
+      "resumo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira jornaldocomercio.com"
     },
     {
       "id": "b586d8726cc4",
       "titulo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcTAxM2xvUVlKWlBrSmliYVlEaW1HeUxuZW5JLVF5SFRBZnJSOGc2eHRnVkN2TUNjYmhORkRtZklrMU5Pd3paVEREbXJLamNUTUdvbVQwVk90dU9GRnJPM2dHN2hTdGFSTlF0MkVHQ25ybmREZWN6bUFHbjF0UzVWLVo3c3haSjdSR3pCalRSaXFQSGcwQ3Q4QzFxWnRHR28xVmF2QVYwNzdReHBDb29IQlUtOUp0SkJaUE54YTZONElpZ2lyaGFwSy1xWFFmVXdiT1pqYkNGM2ZiN2ZuNkItdHJnbUk?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-08-31T21:38:56+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026 correiodopovo.com.br"
+      "resumo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026 Correio do Povo"
     },
     {
       "id": "c0afc9bd5e51",
@@ -216,11 +206,11 @@
       "id": "6743d7aa0f88",
       "titulo": "Porto Alegre instala barreiras móveis inéditas para proteger bairro contra cheias do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbXZranllNUpoZ1dmbXhVZkZJNWlybEQ4bjFBNGFBVFpseG9QLUZBSzR1SEJuVEI4MHl3bWpFUWZLbHd0RVVlMF9fZ1M5c2hMcWtkTjhRVzlLcF9UcFEwZFJKRUpQdTl0cnBVbzlVSnZESWkyeFU2djc4MC11ZXRXLXhDX0U2TEpJeVRTRUNXeXNTbHpiV2laS2ZnYVBRM2ZsN1Z3QWdPenpoRTNyZTFfcVFHVEVwYUpodmpMVjFjMXQwRzhacVM1dzNKcjdLTktrX1YzSEYyZFhtcTdQNTEta3pTdlBmYlZqUGsxYUd6MXFjN0RWeW44U1dqWDFUNTRP?oc=5",
-      "fonte": "Terra",
+      "fonte": "terra.com.br",
       "publicado_em": "2026-08-31T18:05:00+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Porto Alegre instala barreiras móveis inéditas para proteger bairro contra cheias do Guaíba Terra"
+      "resumo": "Porto Alegre instala barreiras móveis inéditas para proteger bairro contra cheias do Guaíba terra.com.br"
     },
     {
       "id": "a4bb4b7e7690",
@@ -266,11 +256,11 @@
       "id": "df91024c8b42",
       "titulo": "Homem é condenado a 13 anos de prisão por matar vítima atingida por engano em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcDJ0Ynhhck82VTlzWmFyUmQ1Y0dSWVVUa2pTVTFzM1Y5UGdOOW92dUtkcDVzUXQzN0t1cU02ZDlLUmotMkVBemFDMG1VdmVraWdjNGR0R2dZN01PWlFONnN2SkRVc2lMMEYzV21vMm9kUEhWZWpJdGF5aVF3TWNFNTZZUU1vOURQdWNOZDlfYXhFSFgzOW5iV3NKcnRialdBSDk0U29KNlNXTnZ6TXBnczNmUlNzaF9tNGhxY0J0T0wtZ3Y0T2x6VjhpM0liQ3FyV2JuM0lXM3EyaXBheVVwaHRtMTBVckRzdkJnWVRORWtoOGVOLTNR?oc=5",
-      "fonte": "Terra",
+      "fonte": "terra.com.br",
       "publicado_em": "2026-08-28T13:37:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Homem é condenado a 13 anos de prisão por matar vítima atingida por engano em Guaíba Terra"
+      "resumo": "Homem é condenado a 13 anos de prisão por matar vítima atingida por engano em Guaíba terra.com.br"
     },
     {
       "id": "53e1cfbf9471",
@@ -283,24 +273,14 @@
       "resumo": "Rádio Guaíba (Grupo Record): Entrevista com o presidente da Atricon, Cezar Miola Atricon"
     },
     {
-      "id": "d1abeed19772",
-      "titulo": "Acidente entre dois caminhões deixa motorista ferido e causa lentidão na BR-116, em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU2pBWVZrRDMxYlZCNnFzbFMteEUwNlJOal9xZklodS1vbFl5djhwX05wZ2ppMXlndndYNnp3UlRpX1h4dEdUTGpIdFVxN05xcHpwdDRBZno0d0ZhQm5lQi1La0hMeUFlMndUX09jWkFlX2hkdUVaQmNHM3dIdVVGZ0xwN2JJNkljcGpra01HOTVkakM4c1pfV2ZWNGc5RDkzUWpHOHphVW1qSEtYejJIVjZyNjAxMlNIUWlaaVFxVkdRUHdUMHVaRmo2VGx0Rnhabzl1aDVBTmM3clF6WEE?oc=5",
-      "fonte": "Portal de Camaquã",
-      "publicado_em": "2026-08-28T01:29:28+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Acidente entre dois caminhões deixa motorista ferido e causa lentidão na BR-116, em Guaíba Portal de Camaquã"
-    },
-    {
       "id": "87201190ce8c",
       "titulo": "Limpe o Guaíba 2026 é lançado em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmdjUlhPNGQ2WFotU3FYQTVSTV9GVDU0QXprNUUxTlZmeFIzUWhSVlQtSXlCZi1lc3ZqRzYwMmxaWE01VXlDc3lROHo3bmVicWQ2SzBLd2lHSUlTbVduTUJxbkQtbVdvaUFmLW9ac1lRand4RlNHeS15UVA0Q01qamlaZzJKNGhTSk9pakZIQ2pSRjRIUmdIeC0xdTQ5TjdOelBxUUdOY2VXck43RHNv?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-08-28T00:28:28+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Limpe o Guaíba 2026 é lançado em Porto Alegre correiodopovo.com.br"
+      "resumo": "Limpe o Guaíba 2026 é lançado em Porto Alegre Correio do Povo"
     },
     {
       "id": "030081355f45",
@@ -326,21 +306,21 @@
       "id": "e9d73e448886",
       "titulo": "PRF prende homem de 76 anos condenado por estupro em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbHNMMVVtcVVvUHB6UlhqeHNXZjVMRnpVd05IR2l3UVRDbFcyYkxQWHNldmVnSlJ3cXg4ZHJTckJtZDEwc2RfQWpHOTAyb3I5SEFnMDEzN2ZQU0tkYzBOSkhmQ0hRaEU1S09NeWVXODJPbHJyeTZ5T2xuVE5ZczhXTnZOeFhqN2RqMGJ2SjlhajFicWJKSmRCbEZwRE9VSDVPTXlSVU84VjN2QmlqT0Qzc1VRYWx6b3ZLSE14QUlCYjZ4Rlg3Q3B5TzlpbGJKemRmWEN1YjdOTFozNnUtSUJxRmhHdlV6OURPVlE?oc=5",
-      "fonte": "Terra",
+      "fonte": "terra.com.br",
       "publicado_em": "2026-08-26T00:17:00+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "PRF prende homem de 76 anos condenado por estupro em Guaíba Terra"
+      "resumo": "PRF prende homem de 76 anos condenado por estupro em Guaíba terra.com.br"
     },
     {
       "id": "1cac281bd2d3",
       "titulo": "Homem é condenado a 8 anos e 6 meses por estuprar cunhada embriagada em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTHlyTGpJVU53ZG01RWZvbXlYbm93WmtJeXZtdDczdEZLYVoxT2pQLWhMSjR0NFZoTHdERFlYZkJSakVLbkt0Q2hURTk0dEFqb2VWRlBsbW1LNWlLUmdnSTRjZ3dGd2k0ZXVFcUNmNTVrRy16bmxHbEV2NXBETFZUaW9hb3pwR3JJaERjSFhRMnptNDZaMGZPbXRVN3JaSWltVDRiTGx4eHZOaWtGXzUtWG5sek1uNG5qTUhCREhqeEwzb0ptWnhZcF96R1pzeUNPSk5YWDd1R1ZnMVVCSjZXRVFDbllxWE9KY3VBVVNpa3ZUMkwxTzFtREhBeV9rUjdjSVRJ?oc=5",
-      "fonte": "Terra",
+      "fonte": "terra.com.br",
       "publicado_em": "2026-08-25T14:44:00+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "Homem é condenado a 8 anos e 6 meses por estuprar cunhada embriagada em Guaíba Terra"
+      "resumo": "Homem é condenado a 8 anos e 6 meses por estuprar cunhada embriagada em Guaíba terra.com.br"
     },
     {
       "id": "bea17b445542",
@@ -351,6 +331,16 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana UOL Economia"
+    },
+    {
+      "id": "222af359a8b8",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTURzNW01X2p1R2RIRjdKWDdhQnRQMnpoakNGckF0andQTEhjUWZTLXkxVzlBVF94bmp2VzB5bE5UQ0I0Nm1GSXNtampTOGtDTUp3SThLdGxybVRoVFNRNmJWZ0JCdnd3SFBaX213OVEtQVItbmI1TTFXSWI3ZUlSLU5BTXJGckE1OExjemxfWHN1RGZRTTBGS3hnX3dFdVRnQ1FjX3lRODlKTTJ4VjYtT04xdlh2YU1qUy1CMzlFUko2VnJfQWhFTkg5LUVZcnpTaFdXOUxPSzhYM1U?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-04T07:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego Repórter Guaibense"
     },
     {
       "id": "599abeda66fe",
@@ -366,23 +356,33 @@
       "id": "b19e1f2814df",
       "titulo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOekhWLTE1VHZxRHpMR0V3bDI2N19ENGtIZ0ZpNkYwaHlreWpzaldXcnVkcEIzRm51Yk8tRXNGNkZpRG1uWUwwRWl1VmFDVVRwcGloVV9qd3FSWktmMEtjb2JzWkhlTlliTGtISXBmTmUxT0M5N0pEWU9tSVRQMUZfOTZram5wMm5GMm1kVGNXY0xtcHhyOVlPWFl6Uy1iSW45X25fbERmbVFiRVdmcDB0TEtLbnMtaDQ3WVRQWmtUdHRaeFAyaXFzNkgyVzE2aVZMZGpZODZqQjRjeVUtTS1VZ0sxdTFLamRLMTdHVg?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-08-03T07:00:00+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias correiodopovo.com.br"
+      "resumo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias Correio do Povo"
+    },
+    {
+      "id": "f889202942a5",
+      "titulo": "Mais de 440 toneladas de resíduos foram recolhidas da orla do Guaíba em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdU5kZV8xZ1FnTjNoRlkxS0ZLOGlqb2pqOWpZUVVmNTcxTVZQX3dJbVY3UjVmUEFlVHYwdXNCSXVoSEY5NnRKTHEwWERvMEQxUFJKYkNxVlNHXzFTdHFoMDBYWU90OTFiZkhmT2JSMHVMbWhVUjZ1amQtbDVmMElXbXZCVll3LWRWZXFCUVpWa3B5NEpfbnlwdXJaU1ZSOFlRaGFmaWJpSXlUbTc5YkhicWVkZzR1M0pOSXdHc05FaGdVWVpkLWU3T0pIMGRrWTdNVURVckoxdUVPSUxseVdSN2xNQQ?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-03T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Mais de 440 toneladas de resíduos foram recolhidas da orla do Guaíba em Porto Alegre Correio do Povo"
     }
   ],
   "noticias_home": [
     {
-      "id": "bb279e02512f",
-      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
+      "id": "c324af66d4b4",
+      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-01T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
       "id": "0a160b69ba5b",
@@ -392,6 +392,16 @@
       "publicado_em": "2026-09-01T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
+    },
+    {
+      "id": "bb279e02512f",
+      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-01T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
     },
     {
       "id": "e37d22daa6a2",
@@ -414,16 +424,6 @@
       "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
     },
     {
-      "id": "df37597c9344",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://www.reporterguaibense.com.br/noticia/rede-de-milk-shakes-milky-moo-abrira-unidade-em-guaiba-veja-como-se-candidatar-as-vagas-de-emprego",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O processo de recrutamento e seleção deve começar na próxima semana"
-    },
-    {
       "id": "821a278c8680",
       "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
       "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
@@ -434,16 +434,6 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
-      "id": "ccdd51f98255",
-      "titulo": "Mudança em Porto Alegre: fila na Guaíba, corredor e o baú que não pode errar o horário",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUXhsQjl4aGl2M29nVE9kRXhMdVJnRmFxYXMwMlBYNWxySm9PdWIweWdwU3d1Sm9vdWNvSjNuazJRbmx3UUlneXdrVmZmTU11LUJRQ3Q0a0lua3c1cllaTVpzcXJIY21SNWNkdU5nRU5zVmhwS3lUVW9NQmxGNFA2VkVqcmZQemQySWVzQ0JQSlBqTV9ReWpGa0RfQ1pZTmdvOXdYUy0wbUpMMjN5QmowTHQzSC15b1ljcWlTMWJVVQ?oc=5",
-      "fonte": "mobilidadeportoalegre.com.br",
-      "publicado_em": "2026-09-01T18:28:34+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Mudança em Porto Alegre: fila na Guaíba, corredor e o baú que não pode errar o horário mobilidadeportoalegre.com.br"
-    },
-    {
       "id": "16c7114bf9d0",
       "titulo": "Marcado para 27 de setembro, #LimpeOLagoGuaíba 2026 é lançado em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2cyTTdDLXhUVVdBdHJjS3NkeGVEVlU2ZDZ3WTJNLXBZTlp6OG5ad1pFMHhvMmF0TGZQN2dodW1XQ1Z1TmpRYnZobWl3bFZxdGJ1NlNZbHZVaUpkNkZPZzkwV3J0cjctc3YydzFzTFJldlN2VUtBSEpyOHFTMUhWcEpFdFpqMG9RcVhUeGxoV096QjNWVkxfRFlLYnc?oc=5",
@@ -452,6 +442,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Marcado para 27 de setembro, #LimpeOLagoGuaíba 2026 é lançado em Porto Alegre expansao.co"
+    },
+    {
+      "id": "1aa7285cf899",
+      "titulo": "#LIMPEOLAGUAÍBA: Evento é lançado oficialmente em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVdoSmRTZ0ZLNDUxSWpsWnFFd3l2NmF5ZTBhZVlxSl9qMXBWQkYwc1FyNnZCMUlDMUZ4cHN0UXdKYUJIWTNGZGxEZmRuTWxSTzV5bXp1TWt1VUVCRmgxLW92VVlnZTVnWTBZWFBrako3bVJIYzcwWkpjQmRoWkszcDRrZ05Rd2ViWGF4cmFrSFhodkltMnZzMDdPWExYSXh0OTUw?oc=5",
+      "fonte": "alohaspiritmidia.com.br",
+      "publicado_em": "2026-09-01T11:36:02+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "#LIMPEOLAGUAÍBA: Evento é lançado oficialmente em Porto Alegre alohaspiritmidia.com.br"
     }
   ]
 }
