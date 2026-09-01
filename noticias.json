@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-31T23:37:27.040609+00:00",
+  "gerado_em": "2026-09-01T03:39:00.308047+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -78,7 +78,7 @@
       "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-31T00:00:00+00:00",
+      "publicado_em": "2026-09-01T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
@@ -88,7 +88,7 @@
       "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-31T00:00:00+00:00",
+      "publicado_em": "2026-09-01T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
     },
@@ -97,7 +97,7 @@
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-31T00:00:00+00:00",
+      "publicado_em": "2026-09-01T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
@@ -133,24 +133,24 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
-      "id": "b586d8726cc4",
-      "titulo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcTAxM2xvUVlKWlBrSmliYVlEaW1HeUxuZW5JLVF5SFRBZnJSOGc2eHRnVkN2TUNjYmhORkRtZklrMU5Pd3paVEREbXJLamNUTUdvbVQwVk90dU9GRnJPM2dHN2hTdGFSTlF0MkVHQ25ybmREZWN6bUFHbjF0UzVWLVo3c3haSjdSR3pCalRSaXFQSGcwQ3Q4QzFxWnRHR28xVmF2QVYwNzdReHBDb29IQlUtOUp0SkJaUE54YTZONElpZ2lyaGFwSy1xWFFmVXdiT1pqYkNGM2ZiN2ZuNkItdHJnbUk?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-08-31T21:22:30+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026 Correio do Povo"
-    },
-    {
       "id": "5c739cf40f36",
       "titulo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb3FsM21OaXVFU0RzaF9lT250QURHOWJTZTBiYnduY1RIRGNMa2hYLTJJVENSdzBXUWRaVkh4M3lsWXRqUGhHUTZpTHVvbmRMV0MwLUZnbTFSQkRqTXF0SmJhSEtyTXBKWDRJcmVydF9zUzdrUEwzcWhLSTZMR2lPNEQwX1JBTVpBUDNRNmUyb2tJSm15cHZKLWNlekVoYWJaV2ZqaUpkV2FDQnpXM3BESXpXOTFMWVR1c2lFNFF3cEtVYVotUENGTzQ2eHRGamJoVEFCSnF5X0wxVE5ZVGlwNWJ3?oc=5",
       "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-08-31T20:37:52+00:00",
+      "publicado_em": "2026-08-31T23:14:41+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira Jornal do Comércio"
+    },
+    {
+      "id": "b586d8726cc4",
+      "titulo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcTAxM2xvUVlKWlBrSmliYVlEaW1HeUxuZW5JLVF5SFRBZnJSOGc2eHRnVkN2TUNjYmhORkRtZklrMU5Pd3paVEREbXJLamNUTUdvbVQwVk90dU9GRnJPM2dHN2hTdGFSTlF0MkVHQ25ybmREZWN6bUFHbjF0UzVWLVo3c3haSjdSR3pCalRSaXFQSGcwQ3Q4QzFxWnRHR28xVmF2QVYwNzdReHBDb29IQlUtOUp0SkJaUE54YTZONElpZ2lyaGFwSy1xWFFmVXdiT1pqYkNGM2ZiN2ZuNkItdHJnbUk?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-31T21:38:56+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026 Correio do Povo"
     },
     {
       "id": "c0afc9bd5e51",
@@ -169,7 +169,7 @@
       "fonte": "Brasil de Fato",
       "publicado_em": "2026-08-31T19:43:00+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba Brasil de Fato"
     },
     {
@@ -306,21 +306,11 @@
       "id": "e16780b839f1",
       "titulo": "Limpe o Lago Guaíba 2026 será lançado nesta quinta-feira (27 de agosto)",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEt1R0NoS1RENUZreXVFeUp2UEJmbVJ2ekZ0QVBWa0VxenJaM1RmUGZKYVM3TnlPRkR4SThUWGs0WXJ6MnBwU0xJa0tQNTBRMG14cE5hMG4zcU1iWEdzMjVKVEtsS1N1TFhoeURldVhWNnZZbGdrZlhBSXJ5M3NVR0JwYWl5d2JDemdUeHhES2FXUEs2SWpvbmZQSWpwRUg4U1E?oc=5",
-      "fonte": "Jornalecão",
+      "fonte": "jornalecao.com.br",
       "publicado_em": "2026-08-25T17:34:39+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Limpe o Lago Guaíba 2026 será lançado nesta quinta-feira (27 de agosto) Jornalecão"
-    },
-    {
-      "id": "0b63c6f8dd3f",
-      "titulo": "Condenado homem por estupro de vulnerável de vítima em estado de embriaguez em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQODRlcGZIRnF0ME5uLVdfdnJXQVJsZEduX2FWQkg2RG1wdk1tMmJMY3RqZGZBU014anktMUUzQkpXelkxQzNtUGF1bHlDbEhzai1pYlJ2WmZkd013cHI0SmtGSkZlRS1UeFhSVTZ3SXFLSHFBcTFqazROSFpWdHFkb3BHdkpobU9QbVdnaWI0WnN1aEpjSXBMRV9VdlpsOC1EMXNYZUdTRFlBUi1lYWYtZDF2RnpfTkdTZDRWVzRjOElIVzlkWW1acU5KNnFscFBldVBsUWNmZlM5RFlLZkI3UzhETHpTamExdi1B?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-08-25T15:34:34+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Condenado homem por estupro de vulnerável de vítima em estado de embriaguez em Guaíba Correio do Povo"
+      "feed": "vizinhos",
+      "resumo": "Limpe o Lago Guaíba 2026 será lançado nesta quinta-feira (27 de agosto) jornalecao.com.br"
     },
     {
       "id": "1cac281bd2d3",
@@ -333,31 +323,11 @@
       "resumo": "Homem é condenado a 8 anos e 6 meses por estuprar cunhada embriagada em Guaíba Terra"
     },
     {
-      "id": "56a07095bc8e",
-      "titulo": "Eleições RS: Paulo Pimenta, candidato ao Senado, é sabatinado na Record Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORHJZVTZlSGJqUWJORFE0VUNyZENPWTVOMDgtYURPd19oY0o5bDlfWWdOVjJZMzFLSkQyeFgxbTZqUGo4dEFtdGpfaXJqWU9jNTFLa3lPQ2oyZUJMTzFrd1dUaWNNRXBUeUFNcExFWDJwaFFfWEQzVkpWLWpMTThuVzF3U3VDSlBLb1B5T09BUWFZTERzRWp6czFvNEZHRFZLR3BEZ2dQVDVHRk9KSGd0ZXV5bUNKS3BVaFdvM0JuM09ZNGl5ZzEyNHNranpKNV9sTHhKcF92cmY2ZElNU0E?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-08-25T12:23:48+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Eleições RS: Paulo Pimenta, candidato ao Senado, é sabatinado na Record Guaíba R7"
-    },
-    {
-      "id": "5a1456bbc92a",
-      "titulo": "Em Eldorado do Sul e Guaíba, Zucco propõe preparo contra enchentes",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CSTlQUVg1RXd4cV82Yl9HUE9qZ1hYcWV0ZkhtaE1Db2FIZnJzWnB5MGY4R3FaTGhqSk9CYUdNamo2RDg3OWpaQ1RFSWVRNlBMTVZIV1d0Z0hCY3BCaUNEVlFvbUV2cWFfMV9idjdaaw?oc=5",
-      "fonte": "grupo sepé",
-      "publicado_em": "2026-08-24T23:50:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Em Eldorado do Sul e Guaíba, Zucco propõe preparo contra enchentes grupo sepé"
-    },
-    {
       "id": "bea17b445542",
       "titulo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1QxN2tyU3Rlc05ueEFxY21faG5qVzlqSjJCbTBYU1k3THpRNkIxOW5UaGVZZWhjRHdkNXk0TDlxMHFoZ2JHRHUzMEF3V01zU0hZbFNXdXprMGVwRFF2VUp2QnplMWxISFNFVkJzX3N3SzJUS2dHRXY2VXJiVXRWVFRkZTg4LVRqWC1xMWJEazBwTjJmZDZtZ3ptYkJENWxqRjdwMmxNVVphOVVhN3pVakppMTJadU9DOEZJUHZHZFY?oc=5",
       "fonte": "UOL Economia",
-      "publicado_em": "2026-08-17T07:00:00+00:00",
+      "publicado_em": "2026-08-17T22:51:47+00:00",
       "categoria": null,
       "feed": "google",
       "resumo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana UOL Economia"
@@ -371,6 +341,36 @@
       "categoria": null,
       "feed": "reporter",
       "resumo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha Repórter Guaibense"
+    },
+    {
+      "id": "b19e1f2814df",
+      "titulo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOekhWLTE1VHZxRHpMR0V3bDI2N19ENGtIZ0ZpNkYwaHlreWpzaldXcnVkcEIzRm51Yk8tRXNGNkZpRG1uWUwwRWl1VmFDVVRwcGloVV9qd3FSWktmMEtjb2JzWkhlTlliTGtISXBmTmUxT0M5N0pEWU9tSVRQMUZfOTZram5wMm5GMm1kVGNXY0xtcHhyOVlPWFl6Uy1iSW45X25fbERmbVFiRVdmcDB0TEtLbnMtaDQ3WVRQWmtUdHRaeFAyaXFzNkgyVzE2aVZMZGpZODZqQjRjeVUtTS1VZ0sxdTFLamRLMTdHVg?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-03T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias Correio do Povo"
+    },
+    {
+      "id": "f33d2e7f2329",
+      "titulo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNV0Fydk85Qllmb2VkZGQ5bkFOMjVZN1AwQ1VKaDNQVXg1ZWNBYl9EWkR1amJibmdoOFp1U0ZtY0FIQXVydzdwbWE0QkJid3MyVHhYSXA1WWxFYjBpTEttREtyeTNGVE5HWjVHS1dkRWtTNldIVEduc1NheGNBdUZ2WTVxeVk3d28xU0NMSURVTF84XzRCMHQtbTVCLVRFZlNQcVY1S2NvdDRyV1BDd1FjYWVCLU45X2daMTAzU0JCbzlZVWI0dUZ0OF9ZYmNfSGJycnEtdUZ5T1NRYUZYUFdrNFlJdVdGT21DS3g4ZjN0ckg0RjhKOGw4MEZReThHOU8ya2ZSaXNUWUFKdjFuOGJJY2hR?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-08-01T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS GZH"
+    },
+    {
+      "id": "afeb1935523e",
+      "titulo": "Guaíba sobe durante a madrugada e atinge cota de alerta em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMktlVmpkQTJtcGhReXFUVDhGWTdTbU5IOWNzWXhZTS14ZExUTmlma0M4UkNlOTdyYkJ6SnJHeXJUZUpUbzlwYVl4c2tsdG1MeGFld2hRb0doeUZoLXFiM1lYMk9STjZmZm8zbk13SFdWbURYbkVZdFNiUWtIVEN4ZGR0TDJ2UXJ0QURHOHdoMXJ3b3F1ZXRyaU9rQko1OWU2MnJ3aTBKZkJvZ0d6S05sM9IBvwFBVV95cUxOYXpMNEQ5a0tkN0k3X2xQNkNiQ1lMZmpDa0lwMk5ZakNONkw3T0tIdUFoVlV1U2NGS2xsNmdTS2J5MTR1VlpmSktwX0JDSkZnY29SS1FCcUMyc0FoN1VKb2Y2S3NjTDBneENpLXd5UnU2UXlJcWI3bWt4Ymc0QjY3dmo5Zll2ZTlULUIyc2xlOUVyQWFteEowTWlreGxWS2ZLdFlib1hSX2RzZXkzUExUN1lnNVA5djdNWDhTY2Vmaw?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-07-31T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Guaíba sobe durante a madrugada e atinge cota de alerta em Porto Alegre G1"
     }
   ],
   "noticias_home": [
@@ -379,7 +379,7 @@
       "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-31T00:00:00+00:00",
+      "publicado_em": "2026-09-01T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
@@ -389,7 +389,7 @@
       "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-31T00:00:00+00:00",
+      "publicado_em": "2026-09-01T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
     },
@@ -398,7 +398,7 @@
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-08-31T00:00:00+00:00",
+      "publicado_em": "2026-09-01T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
@@ -434,24 +434,24 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
-      "id": "b586d8726cc4",
-      "titulo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcTAxM2xvUVlKWlBrSmliYVlEaW1HeUxuZW5JLVF5SFRBZnJSOGc2eHRnVkN2TUNjYmhORkRtZklrMU5Pd3paVEREbXJLamNUTUdvbVQwVk90dU9GRnJPM2dHN2hTdGFSTlF0MkVHQ25ybmREZWN6bUFHbjF0UzVWLVo3c3haSjdSR3pCalRSaXFQSGcwQ3Q4QzFxWnRHR28xVmF2QVYwNzdReHBDb29IQlUtOUp0SkJaUE54YTZONElpZ2lyaGFwSy1xWFFmVXdiT1pqYkNGM2ZiN2ZuNkItdHJnbUk?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-08-31T21:22:30+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026 Correio do Povo"
-    },
-    {
       "id": "5c739cf40f36",
       "titulo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb3FsM21OaXVFU0RzaF9lT250QURHOWJTZTBiYnduY1RIRGNMa2hYLTJJVENSdzBXUWRaVkh4M3lsWXRqUGhHUTZpTHVvbmRMV0MwLUZnbTFSQkRqTXF0SmJhSEtyTXBKWDRJcmVydF9zUzdrUEwzcWhLSTZMR2lPNEQwX1JBTVpBUDNRNmUyb2tJSm15cHZKLWNlekVoYWJaV2ZqaUpkV2FDQnpXM3BESXpXOTFMWVR1c2lFNFF3cEtVYVotUENGTzQ2eHRGamJoVEFCSnF5X0wxVE5ZVGlwNWJ3?oc=5",
       "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-08-31T20:37:52+00:00",
+      "publicado_em": "2026-08-31T23:14:41+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira Jornal do Comércio"
+    },
+    {
+      "id": "b586d8726cc4",
+      "titulo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcTAxM2xvUVlKWlBrSmliYVlEaW1HeUxuZW5JLVF5SFRBZnJSOGc2eHRnVkN2TUNjYmhORkRtZklrMU5Pd3paVEREbXJLamNUTUdvbVQwVk90dU9GRnJPM2dHN2hTdGFSTlF0MkVHQ25ybmREZWN6bUFHbjF0UzVWLVo3c3haSjdSR3pCalRSaXFQSGcwQ3Q4QzFxWnRHR28xVmF2QVYwNzdReHBDb29IQlUtOUp0SkJaUE54YTZONElpZ2lyaGFwSy1xWFFmVXdiT1pqYkNGM2ZiN2ZuNkItdHJnbUk?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-31T21:38:56+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026 Correio do Povo"
     }
   ]
 }
