@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-01T03:39:00.308047+00:00",
+  "gerado_em": "2026-09-01T09:10:37.723243+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,15 @@
   ],
   "noticias": [
     {
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-01T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
       "id": "bb279e02512f",
       "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
@@ -82,15 +91,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
-    },
-    {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-01T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
     },
     {
       "id": "e37d22daa6a2",
@@ -133,6 +133,16 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
+      "id": "6a1c7c48b080",
+      "titulo": "Coyote vs Acme: Programação e Sessões Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT3Azd1I3U01paGVHYlY5YTY0bmplTlZsb0tlazlMQWNkV3lsODdXekxhQjUyM2J3U0RjalVWMEhkcGNlQXMyTjIxS3p1aWNDMThYVDhFNTQ1SkpjekNISnRGSHhwT2FFNGpuSkJSejR0S1B1ZGFtcEVaOTJtUG5GR3dn?oc=5",
+      "fonte": "AdoroCinema",
+      "publicado_em": "2026-09-01T05:28:21+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Coyote vs Acme: Programação e Sessões Guaíba AdoroCinema"
+    },
+    {
       "id": "5c739cf40f36",
       "titulo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb3FsM21OaXVFU0RzaF9lT250QURHOWJTZTBiYnduY1RIRGNMa2hYLTJJVENSdzBXUWRaVkh4M3lsWXRqUGhHUTZpTHVvbmRMV0MwLUZnbTFSQkRqTXF0SmJhSEtyTXBKWDRJcmVydF9zUzdrUEwzcWhLSTZMR2lPNEQwX1JBTVpBUDNRNmUyb2tJSm15cHZKLWNlekVoYWJaV2ZqaUpkV2FDQnpXM3BESXpXOTFMWVR1c2lFNFF3cEtVYVotUENGTzQ2eHRGamJoVEFCSnF5X0wxVE5ZVGlwNWJ3?oc=5",
@@ -166,11 +176,11 @@
       "id": "eeed75b168e4",
       "titulo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbWF0VmM5c3VLTUZVLU5mQmRMbFFBYk9lTVIxc1M5bmloZkNDS0pOR1h3Y3BENEM5bjZtSmRPNHZtNGIxSi1IVWJSS1lrRzJMaDU1QTlCWFFhaDZldTZuRWdaNFBTbURDYmliSER6anAwbGFrbDJaUjFhdUhqelR2aElXSGc3LWlVLVJXUlBSS1pGekFBVklfdjRKclhFTWltYWExVUJsUi1KdUVabU9nS1lnR0FxYk4tY1cweWR3?oc=5",
-      "fonte": "Brasil de Fato",
+      "fonte": "brasildefato.com.br",
       "publicado_em": "2026-08-31T19:43:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba Brasil de Fato"
+      "resumo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba brasildefato.com.br"
     },
     {
       "id": "6743d7aa0f88",
@@ -196,11 +206,11 @@
       "id": "126fb1c2b43c",
       "titulo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSkdjRE1QdzdNcHowS1V4U0d6SEdGVkpQM2VzTWFIclBSMFBpNTB2cFJvNmJTX3BmUlBPbDMwRFRvZU1tT0FmS2N1R0ZLTVRZRUE1NnFiT3NxczhtaE50R3BjMWc1V0dMUTdUTUttd0lsUk5OcGFkQ19kWEs0a05pVm5yQ0dublBIMWNSUkJZOHVEbC04My1ZcFc5SnBaN2lCcm1QNV9OODl4Q245amFwenR5Smk5aTBjcHo0ZnRNb2ZBMHBkMEJIYW5JWFdCRUU5QlE0?oc=5",
-      "fonte": "UOL Economia",
+      "fonte": "economia.uol.com.br",
       "publicado_em": "2026-08-29T09:11:53+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço UOL Economia"
+      "resumo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço economia.uol.com.br"
     },
     {
       "id": "0266dc50897e",
@@ -211,16 +221,6 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Record Guaíba e Projeto \"Nós Entre Lugares\" visita General Câmara e distrito histórico R7"
-    },
-    {
-      "id": "f0b502894b17",
-      "titulo": "MPRS sedia capacitação sobre impactos das apostas on-line na saúde mental e na proteção do consumidor em Guaíba - Ministério Público",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45RVpSM0dBN3phVUtZZnY5dS1hWkQ2SFBmYS1rdG9uM2ZkNU9NZkt0VWs0T2ZUV09Qd25kNFBWUWdTUUFta0pUdi1XcjdmUmM?oc=5",
-      "fonte": "Ministério Público - RS",
-      "publicado_em": "2026-08-28T20:00:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "MPRS sedia capacitação sobre impactos das apostas on-line na saúde mental e na proteção do consumidor em Guaíba Ministério Público - RS"
     },
     {
       "id": "c249ef9dc502",
@@ -296,21 +296,31 @@
       "id": "9d90fa5c0ecd",
       "titulo": "Brasil Beach Games estreia em Porto Alegre com três dias de competições gratuitas na Orla do Guaíba e no Parque Marinha do Brasil",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOcnRxVUZlTUpaaF9oVVZ0VnhGU3h1bmt3TXBVZ2w0bmF2OUpmUEVic2phR1QyWEpYMDNUbWhQZDAyU0xmcGZvRjVoeTM3T1pvRnFGbGRpVzU2RFlVUS1mVmJLakw2YlgwaFNQdUVWcC1rbXUwc0Q1dkFDdGtMSXZuZ0NhbW5nenh2Q18tcy1NVUZ0VV96N0J3aU9EQV8zRGg5b3dRdDR6NkRIWGgtenFmMjhQdVI3SHZFQmE1Y0RSRmU4cmNFTl9UZXA1VlRRLXdyV2M4TS12SmU4cEJJVHpuYU83TmtSd2tLc3dJOHVYQVpvTWVzZ1JQaUp5djViOE1iVm93ZmhFc2E2X1U?oc=5",
-      "fonte": "Jornal da Capital",
+      "fonte": "jornaldacapital.com.br",
       "publicado_em": "2026-08-25T18:16:05+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Brasil Beach Games estreia em Porto Alegre com três dias de competições gratuitas na Orla do Guaíba e no Parque Marinha do Brasil Jornal da Capital"
+      "resumo": "Brasil Beach Games estreia em Porto Alegre com três dias de competições gratuitas na Orla do Guaíba e no Parque Marinha do Brasil jornaldacapital.com.br"
     },
     {
       "id": "e16780b839f1",
       "titulo": "Limpe o Lago Guaíba 2026 será lançado nesta quinta-feira (27 de agosto)",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEt1R0NoS1RENUZreXVFeUp2UEJmbVJ2ekZ0QVBWa0VxenJaM1RmUGZKYVM3TnlPRkR4SThUWGs0WXJ6MnBwU0xJa0tQNTBRMG14cE5hMG4zcU1iWEdzMjVKVEtsS1N1TFhoeURldVhWNnZZbGdrZlhBSXJ5M3NVR0JwYWl5d2JDemdUeHhES2FXUEs2SWpvbmZQSWpwRUg4U1E?oc=5",
-      "fonte": "jornalecao.com.br",
+      "fonte": "Jornalecão",
       "publicado_em": "2026-08-25T17:34:39+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Limpe o Lago Guaíba 2026 será lançado nesta quinta-feira (27 de agosto) jornalecao.com.br"
+      "resumo": "Limpe o Lago Guaíba 2026 será lançado nesta quinta-feira (27 de agosto) Jornalecão"
+    },
+    {
+      "id": "0b63c6f8dd3f",
+      "titulo": "Condenado homem por estupro de vulnerável de vítima em estado de embriaguez em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQODRlcGZIRnF0ME5uLVdfdnJXQVJsZEduX2FWQkg2RG1wdk1tMmJMY3RqZGZBU014anktMUUzQkpXelkxQzNtUGF1bHlDbEhzai1pYlJ2WmZkd013cHI0SmtGSkZlRS1UeFhSVTZ3SXFLSHFBcTFqazROSFpWdHFkb3BHdkpobU9QbVdnaWI0WnN1aEpjSXBMRV9VdlpsOC1EMXNYZUdTRFlBUi1lYWYtZDF2RnpfTkdTZDRWVzRjOElIVzlkWW1acU5KNnFscFBldVBsUWNmZlM5RFlLZkI3UzhETHpTamExdi1B?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-25T15:34:34+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Condenado homem por estupro de vulnerável de vítima em estado de embriaguez em Guaíba Correio do Povo"
     },
     {
       "id": "1cac281bd2d3",
@@ -326,11 +336,11 @@
       "id": "bea17b445542",
       "titulo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1QxN2tyU3Rlc05ueEFxY21faG5qVzlqSjJCbTBYU1k3THpRNkIxOW5UaGVZZWhjRHdkNXk0TDlxMHFoZ2JHRHUzMEF3V01zU0hZbFNXdXprMGVwRFF2VUp2QnplMWxISFNFVkJzX3N3SzJUS2dHRXY2VXJiVXRWVFRkZTg4LVRqWC1xMWJEazBwTjJmZDZtZ3ptYkJENWxqRjdwMmxNVVphOVVhN3pVakppMTJadU9DOEZJUHZHZFY?oc=5",
-      "fonte": "UOL Economia",
-      "publicado_em": "2026-08-17T22:51:47+00:00",
+      "fonte": "economia.uol.com.br",
+      "publicado_em": "2026-08-17T07:00:00+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana UOL Economia"
+      "resumo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana economia.uol.com.br"
     },
     {
       "id": "599abeda66fe",
@@ -361,19 +371,18 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS GZH"
-    },
-    {
-      "id": "afeb1935523e",
-      "titulo": "Guaíba sobe durante a madrugada e atinge cota de alerta em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMktlVmpkQTJtcGhReXFUVDhGWTdTbU5IOWNzWXhZTS14ZExUTmlma0M4UkNlOTdyYkJ6SnJHeXJUZUpUbzlwYVl4c2tsdG1MeGFld2hRb0doeUZoLXFiM1lYMk9STjZmZm8zbk13SFdWbURYbkVZdFNiUWtIVEN4ZGR0TDJ2UXJ0QURHOHdoMXJ3b3F1ZXRyaU9rQko1OWU2MnJ3aTBKZkJvZ0d6S05sM9IBvwFBVV95cUxOYXpMNEQ5a0tkN0k3X2xQNkNiQ1lMZmpDa0lwMk5ZakNONkw3T0tIdUFoVlV1U2NGS2xsNmdTS2J5MTR1VlpmSktwX0JDSkZnY29SS1FCcUMyc0FoN1VKb2Y2S3NjTDBneENpLXd5UnU2UXlJcWI3bWt4Ymc0QjY3dmo5Zll2ZTlULUIyc2xlOUVyQWFteEowTWlreGxWS2ZLdFlib1hSX2RzZXkzUExUN1lnNVA5djdNWDhTY2Vmaw?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-07-31T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Guaíba sobe durante a madrugada e atinge cota de alerta em Porto Alegre G1"
     }
   ],
   "noticias_home": [
+    {
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-01T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
     {
       "id": "bb279e02512f",
       "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
@@ -383,15 +392,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
-    },
-    {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-01T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
     },
     {
       "id": "e37d22daa6a2",
@@ -434,6 +434,16 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
+      "id": "6a1c7c48b080",
+      "titulo": "Coyote vs Acme: Programação e Sessões Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT3Azd1I3U01paGVHYlY5YTY0bmplTlZsb0tlazlMQWNkV3lsODdXekxhQjUyM2J3U0RjalVWMEhkcGNlQXMyTjIxS3p1aWNDMThYVDhFNTQ1SkpjekNISnRGSHhwT2FFNGpuSkJSejR0S1B1ZGFtcEVaOTJtUG5GR3dn?oc=5",
+      "fonte": "AdoroCinema",
+      "publicado_em": "2026-09-01T05:28:21+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Coyote vs Acme: Programação e Sessões Guaíba AdoroCinema"
+    },
+    {
       "id": "5c739cf40f36",
       "titulo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb3FsM21OaXVFU0RzaF9lT250QURHOWJTZTBiYnduY1RIRGNMa2hYLTJJVENSdzBXUWRaVkh4M3lsWXRqUGhHUTZpTHVvbmRMV0MwLUZnbTFSQkRqTXF0SmJhSEtyTXBKWDRJcmVydF9zUzdrUEwzcWhLSTZMR2lPNEQwX1JBTVpBUDNRNmUyb2tJSm15cHZKLWNlekVoYWJaV2ZqaUpkV2FDQnpXM3BESXpXOTFMWVR1c2lFNFF3cEtVYVotUENGTzQ2eHRGamJoVEFCSnF5X0wxVE5ZVGlwNWJ3?oc=5",
@@ -442,16 +452,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira Jornal do Comércio"
-    },
-    {
-      "id": "b586d8726cc4",
-      "titulo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcTAxM2xvUVlKWlBrSmliYVlEaW1HeUxuZW5JLVF5SFRBZnJSOGc2eHRnVkN2TUNjYmhORkRtZklrMU5Pd3paVEREbXJLamNUTUdvbVQwVk90dU9GRnJPM2dHN2hTdGFSTlF0MkVHQ25ybmREZWN6bUFHbjF0UzVWLVo3c3haSjdSR3pCalRSaXFQSGcwQ3Q4QzFxWnRHR28xVmF2QVYwNzdReHBDb29IQlUtOUp0SkJaUE54YTZONElpZ2lyaGFwSy1xWFFmVXdiT1pqYkNGM2ZiN2ZuNkItdHJnbUk?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-08-31T21:38:56+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026 Correio do Povo"
     }
   ]
 }
