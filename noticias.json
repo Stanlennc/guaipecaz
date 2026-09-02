@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-02T02:57:08.667368+00:00",
+  "gerado_em": "2026-09-02T08:23:53.440930+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,11 +74,20 @@
   ],
   "noticias": [
     {
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-02T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
       "id": "c324af66d4b4",
       "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
       "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-01T00:00:00+00:00",
+      "publicado_em": "2026-09-02T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
@@ -88,26 +97,17 @@
       "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-01T00:00:00+00:00",
+      "publicado_em": "2026-09-02T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
-    },
-    {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-01T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
     },
     {
       "id": "e37d22daa6a2",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-01T00:00:00+00:00",
+      "publicado_em": "2026-09-02T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
@@ -143,16 +143,6 @@
       "resumo": "Mudança em Porto Alegre: fila na Guaíba, corredor e o baú que não pode errar o horário mobilidadeportoalegre.com.br"
     },
     {
-      "id": "16c7114bf9d0",
-      "titulo": "Marcado para 27 de setembro, #LimpeOLagoGuaíba 2026 é lançado em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2cyTTdDLXhUVVdBdHJjS3NkeGVEVlU2ZDZ3WTJNLXBZTlp6OG5ad1pFMHhvMmF0TGZQN2dodW1XQ1Z1TmpRYnZobWl3bFZxdGJ1NlNZbHZVaUpkNkZPZzkwV3J0cjctc3YydzFzTFJldlN2VUtBSEpyOHFTMUhWcEpFdFpqMG9RcVhUeGxoV096QjNWVkxfRFlLYnc?oc=5",
-      "fonte": "expansao.co",
-      "publicado_em": "2026-09-01T13:51:05+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Marcado para 27 de setembro, #LimpeOLagoGuaíba 2026 é lançado em Porto Alegre expansao.co"
-    },
-    {
       "id": "1aa7285cf899",
       "titulo": "#LIMPEOLAGUAÍBA: Evento é lançado oficialmente em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVdoSmRTZ0ZLNDUxSWpsWnFFd3l2NmF5ZTBhZVlxSl9qMXBWQkYwc1FyNnZCMUlDMUZ4cHN0UXdKYUJIWTNGZGxEZmRuTWxSTzV5bXp1TWt1VUVCRmgxLW92VVlnZTVnWTBZWFBrako3bVJIYzcwWkpjQmRoWkszcDRrZ05Rd2ViWGF4cmFrSFhodkltMnZzMDdPWExYSXh0OTUw?oc=5",
@@ -166,11 +156,11 @@
       "id": "6a1c7c48b080",
       "titulo": "Coyote vs Acme: Programação e Sessões Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT3Azd1I3U01paGVHYlY5YTY0bmplTlZsb0tlazlMQWNkV3lsODdXekxhQjUyM2J3U0RjalVWMEhkcGNlQXMyTjIxS3p1aWNDMThYVDhFNTQ1SkpjekNISnRGSHhwT2FFNGpuSkJSejR0S1B1ZGFtcEVaOTJtUG5GR3dn?oc=5",
-      "fonte": "AdoroCinema",
+      "fonte": "adorocinema.com",
       "publicado_em": "2026-09-01T05:28:21+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Coyote vs Acme: Programação e Sessões Guaíba AdoroCinema"
+      "resumo": "Coyote vs Acme: Programação e Sessões Guaíba adorocinema.com"
     },
     {
       "id": "5c739cf40f36",
@@ -323,16 +313,6 @@
       "resumo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego Repórter Guaibense"
     },
     {
-      "id": "bc835cea92f8",
-      "titulo": "Guaíba volta a normalidade depois de uma semana",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWRySGlVb0MxS1hBTGJ1eWs3TlhtR2ZnQnF5MU5IRWdUOWFPTVNjSlBEQ2RZN1Q0UkFmeWp6Wlpqa0pkSEo5WFdLTTBpczRyaGY2V0FVRFNEc2FCN3h5RFBxUlVjRERaeUhiMEtvUTF4Sjlqb0FRdzFMRWFKNkhTWk9sSnRxR08wVFhlSS1lVGRMMzM0YnVuMC1XY2lOTmNhWFBDNXRTT04xVlVjRm1oVGJR?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-08-04T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Guaíba volta a normalidade depois de uma semana Correio do Povo"
-    },
-    {
       "id": "599abeda66fe",
       "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkZwTWVKR3VFNWxYS0ZPTmdDRlZwUGd6LXNPVERzNkFrZWoxa0N6cFl6T3ZvNmZJWG1RYUJMeWJ1TzVhQVA2TGRLc0piSjY2WGc1cWxnMGcyT1dvZHhVOHZBdUdvTl9oM2dDV2pMbzVCM0ZEdmZGRVhiNUZxczlLbDc0cWthZFY2OHBtTHZWYVZ6cTBvZnJmTkx6OWU4SGtmUG5zbWxmX0thUTl6N1ZwN0h2UVhHZUtzRHR4SXhValQ?oc=5",
@@ -351,6 +331,26 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Guaíba e RS assinam cooperação para limpeza de 28 mil metros cúbicos de entulhos das cheias Correio do Povo"
+    },
+    {
+      "id": "f889202942a5",
+      "titulo": "Mais de 440 toneladas de resíduos foram recolhidas da orla do Guaíba em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdU5kZV8xZ1FnTjNoRlkxS0ZLOGlqb2pqOWpZUVVmNTcxTVZQX3dJbVY3UjVmUEFlVHYwdXNCSXVoSEY5NnRKTHEwWERvMEQxUFJKYkNxVlNHXzFTdHFoMDBYWU90OTFiZkhmT2JSMHVMbWhVUjZ1amQtbDVmMElXbXZCVll3LWRWZXFCUVpWa3B5NEpfbnlwdXJaU1ZSOFlRaGFmaWJpSXlUbTc5YkhicWVkZzR1M0pOSXdHc05FaGdVWVpkLWU3T0pIMGRrWTdNVURVckoxdUVPSUxseVdSN2xNQQ?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-03T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Mais de 440 toneladas de resíduos foram recolhidas da orla do Guaíba em Porto Alegre Correio do Povo"
+    },
+    {
+      "id": "f33d2e7f2329",
+      "titulo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNV0Fydk85Qllmb2VkZGQ5bkFOMjVZN1AwQ1VKaDNQVXg1ZWNBYl9EWkR1amJibmdoOFp1U0ZtY0FIQXVydzdwbWE0QkJid3MyVHhYSXA1WWxFYjBpTEttREtyeTNGVE5HWjVHS1dkRWtTNldIVEduc1NheGNBdUZ2WTVxeVk3d28xU0NMSURVTF84XzRCMHQtbTVCLVRFZlNQcVY1S2NvdDRyV1BDd1FjYWVCLU45X2daMTAzU0JCbzlZVWI0dUZ0OF9ZYmNfSGJycnEtdUZ5T1NRYUZYUFdrNFlJdVdGT21DS3g4ZjN0ckg0RjhKOGw4MEZReThHOU8ya2ZSaXNUWUFKdjFuOGJJY2hR?oc=5",
+      "fonte": "gauchazh.clicrbs.com.br",
+      "publicado_em": "2026-08-01T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Guaíba sai da cota de alerta e passa a nível de atenção em Porto Alegre; veja situação dos rios no RS gauchazh.clicrbs.com.br"
     },
     {
       "id": "afeb1935523e",
@@ -375,11 +375,20 @@
   ],
   "noticias_home": [
     {
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-02T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
       "id": "c324af66d4b4",
       "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
       "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-01T00:00:00+00:00",
+      "publicado_em": "2026-09-02T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
@@ -389,26 +398,17 @@
       "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-01T00:00:00+00:00",
+      "publicado_em": "2026-09-02T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
-    },
-    {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-01T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
     },
     {
       "id": "e37d22daa6a2",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/hospital-moinhos-de-vento-promove-projeto-de-saude-mental-para-atingidos-pelas-enchentes-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-01T00:00:00+00:00",
+      "publicado_em": "2026-09-02T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A ação conta com o apoio do Rotary e, nesta primeira etapa, será destinada aos moradores atingidos de quatro bairros"
@@ -444,14 +444,14 @@
       "resumo": "Mudança em Porto Alegre: fila na Guaíba, corredor e o baú que não pode errar o horário mobilidadeportoalegre.com.br"
     },
     {
-      "id": "16c7114bf9d0",
-      "titulo": "Marcado para 27 de setembro, #LimpeOLagoGuaíba 2026 é lançado em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2cyTTdDLXhUVVdBdHJjS3NkeGVEVlU2ZDZ3WTJNLXBZTlp6OG5ad1pFMHhvMmF0TGZQN2dodW1XQ1Z1TmpRYnZobWl3bFZxdGJ1NlNZbHZVaUpkNkZPZzkwV3J0cjctc3YydzFzTFJldlN2VUtBSEpyOHFTMUhWcEpFdFpqMG9RcVhUeGxoV096QjNWVkxfRFlLYnc?oc=5",
-      "fonte": "expansao.co",
-      "publicado_em": "2026-09-01T13:51:05+00:00",
+      "id": "1aa7285cf899",
+      "titulo": "#LIMPEOLAGUAÍBA: Evento é lançado oficialmente em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVdoSmRTZ0ZLNDUxSWpsWnFFd3l2NmF5ZTBhZVlxSl9qMXBWQkYwc1FyNnZCMUlDMUZ4cHN0UXdKYUJIWTNGZGxEZmRuTWxSTzV5bXp1TWt1VUVCRmgxLW92VVlnZTVnWTBZWFBrako3bVJIYzcwWkpjQmRoWkszcDRrZ05Rd2ViWGF4cmFrSFhodkltMnZzMDdPWExYSXh0OTUw?oc=5",
+      "fonte": "Aloha Spirit Mídia",
+      "publicado_em": "2026-09-01T11:36:02+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Marcado para 27 de setembro, #LimpeOLagoGuaíba 2026 é lançado em Porto Alegre expansao.co"
+      "resumo": "#LIMPEOLAGUAÍBA: Evento é lançado oficialmente em Porto Alegre Aloha Spirit Mídia"
     }
   ]
 }
