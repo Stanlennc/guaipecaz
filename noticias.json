@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-02T19:13:28.885232+00:00",
+  "gerado_em": "2026-09-02T22:22:23.574371+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,63 +74,44 @@
   ],
   "noticias": [
     {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "id": "2b67bd487cd2",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZkljT09BLW9aTmdlbkMzZHRtWTg4b3BpS19iUndPZjJPY29qT0NrMEhYMUVDWWxUU1ZMSlZEQW1HWGNyTUFFU0phYXhBVzgzb3ZFZWdCSmRZcGd2cWJPNTAwWTVEU2gyUWZXMHVtd1lQcDl0R3BLNl9hajd0NU5Jb2VfSlBOVml1d3NuTlFtdGE2QkhaSnNkaUN1RkhRaWtUZUItSkNna2NjUW1sNzVST3RHNDByTEtqb3JDT3RPWm5WZ2VTd3ljS0NuWlE?oc=5",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-02T00:00:00+00:00",
+      "publicado_em": "2026-09-02T21:54:00+00:00",
       "categoria": null,
-      "feed": "reporter_direto"
+      "feed": "reporter",
+      "resumo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba Repórter Guaibense"
     },
     {
-      "id": "c324af66d4b4",
-      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-02T00:00:00+00:00",
+      "id": "8471bc6b8bc6",
+      "titulo": "Obras da nova Ponte do Guaíba serão retomadas após cinco anos de paralisação",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVmprNFRabnNYTzVna2MzTmtoVUNxdGNUMmM3dlZTYVZMeVF5bk5Rb1FlWXZHbzNrd3dRQ2U1RmgtdkVvS0pwSU9qSHpPcjdPRDVXVkIwNFZsRDQ1TERsUWU5c2tHWFlncmp0b05uSlR0a0VhME9zbm56VVZnTDA3by01T1VyeWlhczFtNmRkRVB0OUtUMnVYQ0I1T2lhejF2MXdqZDl3SEZBZE9oU1pr?oc=5",
+      "fonte": "Studio Notícias",
+      "publicado_em": "2026-09-02T21:28:46+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
+      "feed": "vizinhos",
+      "resumo": "Obras da nova Ponte do Guaíba serão retomadas após cinco anos de paralisação Studio Notícias"
     },
     {
-      "id": "bb279e02512f",
-      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
+      "id": "8159c3f8401a",
+      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjd5WlFvWEFNQV9EOXZWSl9oLThGR280czkyNjFVTVBBY2djb1cxc01wYzZHSjQtT1Q4S0xTRVdKa1plNDdvSHpmTXdYTnhNTnRZR1l2cUZ6bWZ0OE9HVDZYYkVXdHZmQXN6N3RnTHp5VnhwZXpPVjlYcVRmcGU1Z0N5cnBaaExtOFdnclZnckhsc3otdXNWOWgwYzhnMFNwaUtwU0dVRFVOemxkek9xQURCaWNDcnYya0o3MTJDQ2ZJT0VN?oc=5",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-02T00:00:00+00:00",
+      "publicado_em": "2026-09-02T21:21:00+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+      "feed": "reporter",
+      "resumo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro Repórter Guaibense"
     },
     {
-      "id": "4b0b194060fa",
-      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "9812d8f96c77",
+      "titulo": "Dois prêmios internacionais de arquitetura em um único prédio à beira do Guaíba: a capital gaúcha do pôr do sol mais fotografado do país",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVmRUZjhtMXF0TUtFSC13Vzh1THFXRm5MSGg0emlTVFZrdVo4SjQ2NGNuZXZLblVCbi11NTEtRkZGREctNTdRZnE1SHNsRlF4ZFZ6a0I2MnpEVU5HcmFRSEJkU08ydlhZSXhDWXdYeXgtSmtSVkVTVDczckhId2RiWlM2dU5Id21hSlFqREkyVGNEclJ0SEQzV0pROVJhNkx4aGRPazhrV1JfTkpILUJwd0sySnluRkh1bmxPdERGa0JOeVl1MWp6NEs4d0VjWC14UzNZRGNRVWVJVEN0S0NxLWwzTEhobXJFVjdkRElobzVMYzFvLU96N0NDS25PN1VLSmQzWEsxemVrUVRaejhqMHBn?oc=5",
+      "fonte": "Brasil 247",
+      "publicado_em": "2026-09-02T21:15:00+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
-    },
-    {
-      "id": "6658bf088c2d",
-      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-sobrecarga-de-atendimentos-guaiba-podera-ter-o-segundo-conselho-tutelar-em-2028",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
-    },
-    {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "feed": "vizinhos",
+      "resumo": "Dois prêmios internacionais de arquitetura em um único prédio à beira do Guaíba: a capital gaúcha do pôr do sol mais fotografado do país Brasil 247"
     },
     {
       "id": "f15a6a5d0963",
@@ -141,6 +122,36 @@
       "categoria": null,
       "feed": "correio",
       "resumo": "Governo federal destina R$ 26 milhões para conclusão da nova Ponte do Guaíba Correio do Povo"
+    },
+    {
+      "id": "8ff08dd597d6",
+      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0E2Ty1WMU5DeGxTM01CSWdFLWlsbHRUM1dLVFZLMExEb2lYb0hMN3U2MnMwMk5IZTc0dnd6NkJZLXI5Z3QwVlllQmlKdVV6NWdoS0o0MXFKYThPbmZWbWF2SWRub2dWTWM5U1J1OWNJb0pEanc5MlJBcWdiQV81SmV3OU1BSDZVRzR1WU4xVkotVTdQWE9WQ3hvYU9tTnVnTHBmLTlqalREWWwtZWxDUElTQkFLeDFrMkxiamNMMEhMdjhma0xLUVh3ZnBYRzkzbzBNQmZRbGN4ZjlQelJxRVBBOA?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-02T14:07:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba Repórter Guaibense"
+    },
+    {
+      "id": "4f6459d7774f",
+      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2hJc3lMYktsYXpTcHRpZWptLVVPQ1pSMXV5QkxjT1NMNkFjanVDbnNBbUc1OER0N2NsemV4MnQ2NElQVi0yaE93cXhZcE9OUDJ1b0h5aVJidUVCLVlrQXY0cnlZQkNVSDhYZVdZZC1yVU1MNlQ1Z01uZnRJTlp5aWFRRVpoUlNCVFQxNnJDWXFWYlRTN1lDLXBjenh1WlRwMlZMbTU3cXR6cE9LZEFJMWNWQldWcHBDYVR0YzFldXQ3ZmVUR0x3?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-01T19:41:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC Repórter Guaibense"
+    },
+    {
+      "id": "6a1c7c48b080",
+      "titulo": "Coyote vs Acme: Programação e Sessões Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT3Azd1I3U01paGVHYlY5YTY0bmplTlZsb0tlazlMQWNkV3lsODdXekxhQjUyM2J3U0RjalVWMEhkcGNlQXMyTjIxS3p1aWNDMThYVDhFNTQ1SkpjekNISnRGSHhwT2FFNGpuSkJSejR0S1B1ZGFtcEVaOTJtUG5GR3dn?oc=5",
+      "fonte": "AdoroCinema",
+      "publicado_em": "2026-09-01T05:28:21+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Coyote vs Acme: Programação e Sessões Guaíba AdoroCinema"
     },
     {
       "id": "5c739cf40f36",
@@ -166,11 +177,11 @@
       "id": "c0afc9bd5e51",
       "titulo": "Porto Alegre instala barreira móvel contra cheias do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSXRhVW03RWFXNUtwRnRqdklQOHRuSkNnUGFVMGFSdkpxcVVnS3o2ZDZpeU1DMXp0My1CRWthWGJJSnhiQ0RqZW9pZkpPNmh5WWo3V1FvWTV0X0NHVjBiRHVTNkFzMWZrLWpjSlhkaEx5d1V6VS0zdXZUMEJRWkI5QjZNYzd4cnZzaE03XzBjYnFwcGpEN25WdG4xWWV2cVR1QnlyeV9TalpCVnBXcTd4aTIyamhzZw?oc=5",
-      "fonte": "R7",
+      "fonte": "noticias.r7.com",
       "publicado_em": "2026-08-31T20:04:15+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Porto Alegre instala barreira móvel contra cheias do Guaíba R7"
+      "resumo": "Porto Alegre instala barreira móvel contra cheias do Guaíba noticias.r7.com"
     },
     {
       "id": "eeed75b168e4",
@@ -193,6 +204,16 @@
       "resumo": "Porto Alegre instala barreiras móveis inéditas para proteger bairro contra cheias do Guaíba – Notícias Porto Alegre 24 Horas"
     },
     {
+      "id": "acfe91c25a3f",
+      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHRGaHNOYW9KU1RkOHFUVi1xR01vTU01d0xkLXhQSnB3cHBQZW9sb1RwVV9IeUF4X0IycGNvRXBJSEsyOE02cGFvdFRGa3lCMUtuTHh5VlZhQnhlQnBSc2JfZjRKaGduQWdHZDROX2JLOU91NGtHcXRtQmpZUlpQdHdYT1ZZVnRmODlDSlcxY01LYWVUS2MwZzNUVV92c0thMW1CUlZCd0hqb3JFQV9wMTBHVFE5LVNIb0dqRXV6X0czVGFzd2FF?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-31T15:16:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade Repórter Guaibense"
+    },
+    {
       "id": "a4bb4b7e7690",
       "titulo": "Guaíba convoca entidades socioassistenciais para o Programa de Aquisição de Alimentos",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMGhGNURMWkI4eDFTd2xqcnh5OHktVVUzTXhpMTktUm80VW1xVEVkUUExQ0VyQzB0aWdBR1QwbUhDUV9BeFJNVmpENUpzZWJtbGhiazdhMk11OVFDWHROYlhrcVhiV2NfWXpWdERxNFl1X19ULVRvQ0s5algwLXBMa3ZVQVF1VGdTNEtDRVA5M0NNMmRqMTRfV19nWGtBV2NGdFJTNGlTNHNKUQ?oc=5",
@@ -213,24 +234,14 @@
       "resumo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço UOL Economia"
     },
     {
-      "id": "0266dc50897e",
-      "titulo": "Record Guaíba e Projeto \"Nós Entre Lugares\" visita General Câmara e distrito histórico",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVU9FNHl2OFNVRTU5OUpoRmpmMS1xS2dieDFsNDM5S2NJMm16Rl95elByNjBwSFZ5Z3BRNkVXYndzZl92VTFuenAwRENzR1J0VERTbEw0bkdxcEZ0V29YQk9jNEpHLXhCXzNVTGVZLV9LRmZxMDhzZUFyaktrRlVXMklZMU50RnZVc2FCZDZiZ1o3OFRRa3BSWFQ5Xy1CQ1g4TlRhNUhfLWlDMWZ0Q0ZxSnJ5UkhWNHBkc19EVmx3d2pLaURMR2NYUkc3NEpsSDNBcHkxQWtSUTBEeHNIdy1LMW9yNA?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-08-28T20:10:18+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Record Guaíba e Projeto \"Nós Entre Lugares\" visita General Câmara e distrito histórico R7"
-    },
-    {
       "id": "53e1cfbf9471",
       "titulo": "Rádio Guaíba (Grupo Record): Entrevista com o presidente da Atricon, Cezar Miola",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTEtT1BrWXR3OXNhNzRhbDBlQ1h1Wnl5Z0hoc3JRTjRfNEduaUxkbVdPUUlwOTkzdldacVQ5bkZTYjgyVnBqLXljb1VJOFBiTk83dHlfV01TTUw3UGw2SFFDYlBsdzZZSlhQMHhmT2s4OE8wQzN0b2lqNWp6dkV1VEhBeVp3TG5vcEF3V1VfcW5QeTVLVy1yWU9YaUc5UlhndThFbWdxLU4?oc=5",
-      "fonte": "atricon.org.br",
+      "fonte": "Atricon",
       "publicado_em": "2026-08-28T07:00:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Rádio Guaíba (Grupo Record): Entrevista com o presidente da Atricon, Cezar Miola atricon.org.br"
+      "resumo": "Rádio Guaíba (Grupo Record): Entrevista com o presidente da Atricon, Cezar Miola Atricon"
     },
     {
       "id": "87201190ce8c",
@@ -253,14 +264,24 @@
       "resumo": "Expointer tem programação da Guaíba ao vivo e edições especiais do Correio do Povo Coletiva.net"
     },
     {
-      "id": "1cac281bd2d3",
-      "titulo": "Homem é condenado a 8 anos e 6 meses por estuprar cunhada embriagada em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTHlyTGpJVU53ZG01RWZvbXlYbm93WmtJeXZtdDczdEZLYVoxT2pQLWhMSjR0NFZoTHdERFlYZkJSakVLbkt0Q2hURTk0dEFqb2VWRlBsbW1LNWlLUmdnSTRjZ3dGd2k0ZXVFcUNmNTVrRy16bmxHbEV2NXBETFZUaW9hb3pwR3JJaERjSFhRMnptNDZaMGZPbXRVN3JaSWltVDRiTGx4eHZOaWtGXzUtWG5sek1uNG5qTUhCREhqeEwzb0ptWnhZcF96R1pzeUNPSk5YWDd1R1ZnMVVCSjZXRVFDbllxWE9KY3VBVVNpa3ZUMkwxTzFtREhBeV9rUjdjSVRJ?oc=5",
-      "fonte": "Terra",
-      "publicado_em": "2026-08-25T07:00:00+00:00",
+      "id": "4c1354d25683",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQnBQbUc2dl9oYTNrSEd3Z3B6dWI5cEV1QkN5YXo5YnRRTVRTZ0Zpemo3ZGJmZV9Ja3czZWNpV2t3bk9xU2RBVlZ6b2dkanVNMTlxaUxnR0JkUHppNnNPMVc5UklONnpkYldIU0todEFXVHNlU3ZiNjVDdkdyQlpUOXdDMVctY2hMQlEyOEJGXzhoYlQtMVRSdGZQWEFGbHVuOG5SbndrUTRBNmpGTDNQXzVKUktYUTV2QUdHZmFBcjBSQzNQVWRxM2pYQ055TVhSdE9MbG9YUDNKU0pqRDI2VXFWeFhSRzg?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-27T00:27:00+00:00",
       "categoria": null,
-      "feed": "google",
-      "resumo": "Homem é condenado a 8 anos e 6 meses por estuprar cunhada embriagada em Guaíba Terra"
+      "feed": "reporter",
+      "resumo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba Repórter Guaibense"
+    },
+    {
+      "id": "ee0a30ff28d4",
+      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNjh2QjlocWtOeUtkeDVNcHg3dTZ6d09BM0g1aGpJMWM0bENiX0NzUVp0b0Znb2xrZ0djbHh3S2hGc3lwbWxwZjBzZ0p0U3JYR1N5YmwyWU9iNU5BQ3g1UzlQR3kzZExPdzN3MzlPNGx2d2ZrLXBsZG5mdllFeGh1dGZVelRGUzhid19jR0RHWUQtUm5tM2hqME5ZYnJoQ3dvYklhMHlzNE1lc1Y4dGNuZERqV1c4dXlHVnV4bHBlWVBPYUlmNWhF?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-24T07:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028 Repórter Guaibense"
     },
     {
       "id": "e20cb8308534",
@@ -351,87 +372,48 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Guaíba fica próximo da cota de alerta em Porto Alegre apesar de trégua da chuva Correio do Povo"
-    },
-    {
-      "id": "b99f1848ccc2",
-      "titulo": "Guaíba atinge cota de alerta em Porto Alegre, e seis rios permanecem em nível de inundação no RS",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPeHgtaWVCcmdlNVljaElySTRPVGFnWllRR2pzM2RhclplTjlOaGk4NjhhanhHZ3c5QkNoUkxxRXFTMXpJVklfejg0b2xRTm1hMUpDNHZsSzNIdmFCVDUzWHdjQ0NrRlhRemprQ2xqMXM0R0pYRTh3cjUwd29tRGh6eXRaMUlUZlRiTFh1MmhhSk5obHNGUFZDbURwbzY3bWY1UkNyak1lVUFYSnhRdTZIN2NTZHZvWnIwYzZiUE55T1VaQnhWR2t1UkZvQm1aLVBsTFplUEFWaEJCb1VXLUxVU2lUUFAzSW4wNVhYb2htTkRHZEhBdUJGR05EaGZaVTQ3SE5yejBWaXpidHgwSURBRUJXSzhOV1U?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-07-31T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Guaíba atinge cota de alerta em Porto Alegre, e seis rios permanecem em nível de inundação no RS GZH"
-    },
-    {
-      "id": "482dbbea2dd5",
-      "titulo": "Águas do Guaíba avançam sobre Porto Alegre e seis rios superam cotas de inundação no RS",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVEhiSHZsa2REQ3Q2RTh2U2ZMa1RSWG5heGs5ejFoZWZRSFdUaHY2bjQzM3dyWWt0RTNJWjRnRlNxdUV0MXU5OF9yc0lkTDl6VVFSRzRjV1diY2JEaWgzRkp6dU1NblRrU0RsdHVmbVhfNndCZVZ1X3lySlk5a1ZHN1kzYUNXcmJRTmhTR2FucG4tMzJveFNjNE1JVG5uRlNaeEhZQjNLLXFjRUdsUVF3SXBWU1M2MTN3elVOX3Q4VHBXMGlYS3pKdzJkMA?oc=5",
-      "fonte": "Brasil de Fato",
-      "publicado_em": "2026-07-31T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Águas do Guaíba avançam sobre Porto Alegre e seis rios superam cotas de inundação no RS Brasil de Fato"
     }
   ],
   "noticias_home": [
     {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "id": "2b67bd487cd2",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZkljT09BLW9aTmdlbkMzZHRtWTg4b3BpS19iUndPZjJPY29qT0NrMEhYMUVDWWxUU1ZMSlZEQW1HWGNyTUFFU0phYXhBVzgzb3ZFZWdCSmRZcGd2cWJPNTAwWTVEU2gyUWZXMHVtd1lQcDl0R3BLNl9hajd0NU5Jb2VfSlBOVml1d3NuTlFtdGE2QkhaSnNkaUN1RkhRaWtUZUItSkNna2NjUW1sNzVST3RHNDByTEtqb3JDT3RPWm5WZ2VTd3ljS0NuWlE?oc=5",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-02T00:00:00+00:00",
+      "publicado_em": "2026-09-02T21:54:00+00:00",
       "categoria": null,
-      "feed": "reporter_direto"
+      "feed": "reporter",
+      "resumo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba Repórter Guaibense"
     },
     {
-      "id": "c324af66d4b4",
-      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-02T00:00:00+00:00",
+      "id": "8471bc6b8bc6",
+      "titulo": "Obras da nova Ponte do Guaíba serão retomadas após cinco anos de paralisação",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVmprNFRabnNYTzVna2MzTmtoVUNxdGNUMmM3dlZTYVZMeVF5bk5Rb1FlWXZHbzNrd3dRQ2U1RmgtdkVvS0pwSU9qSHpPcjdPRDVXVkIwNFZsRDQ1TERsUWU5c2tHWFlncmp0b05uSlR0a0VhME9zbm56VVZnTDA3by01T1VyeWlhczFtNmRkRVB0OUtUMnVYQ0I1T2lhejF2MXdqZDl3SEZBZE9oU1pr?oc=5",
+      "fonte": "Studio Notícias",
+      "publicado_em": "2026-09-02T21:28:46+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
+      "feed": "vizinhos",
+      "resumo": "Obras da nova Ponte do Guaíba serão retomadas após cinco anos de paralisação Studio Notícias"
     },
     {
-      "id": "bb279e02512f",
-      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
+      "id": "8159c3f8401a",
+      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjd5WlFvWEFNQV9EOXZWSl9oLThGR280czkyNjFVTVBBY2djb1cxc01wYzZHSjQtT1Q4S0xTRVdKa1plNDdvSHpmTXdYTnhNTnRZR1l2cUZ6bWZ0OE9HVDZYYkVXdHZmQXN6N3RnTHp5VnhwZXpPVjlYcVRmcGU1Z0N5cnBaaExtOFdnclZnckhsc3otdXNWOWgwYzhnMFNwaUtwU0dVRFVOemxkek9xQURCaWNDcnYya0o3MTJDQ2ZJT0VN?oc=5",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-02T00:00:00+00:00",
+      "publicado_em": "2026-09-02T21:21:00+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+      "feed": "reporter",
+      "resumo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro Repórter Guaibense"
     },
     {
-      "id": "4b0b194060fa",
-      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "9812d8f96c77",
+      "titulo": "Dois prêmios internacionais de arquitetura em um único prédio à beira do Guaíba: a capital gaúcha do pôr do sol mais fotografado do país",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVmRUZjhtMXF0TUtFSC13Vzh1THFXRm5MSGg0emlTVFZrdVo4SjQ2NGNuZXZLblVCbi11NTEtRkZGREctNTdRZnE1SHNsRlF4ZFZ6a0I2MnpEVU5HcmFRSEJkU08ydlhZSXhDWXdYeXgtSmtSVkVTVDczckhId2RiWlM2dU5Id21hSlFqREkyVGNEclJ0SEQzV0pROVJhNkx4aGRPazhrV1JfTkpILUJwd0sySnluRkh1bmxPdERGa0JOeVl1MWp6NEs4d0VjWC14UzNZRGNRVWVJVEN0S0NxLWwzTEhobXJFVjdkRElobzVMYzFvLU96N0NDS25PN1VLSmQzWEsxemVrUVRaejhqMHBn?oc=5",
+      "fonte": "Brasil 247",
+      "publicado_em": "2026-09-02T21:15:00+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
-    },
-    {
-      "id": "6658bf088c2d",
-      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-sobrecarga-de-atendimentos-guaiba-podera-ter-o-segundo-conselho-tutelar-em-2028",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
-    },
-    {
-      "id": "821a278c8680",
-      "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
-      "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+      "feed": "vizinhos",
+      "resumo": "Dois prêmios internacionais de arquitetura em um único prédio à beira do Guaíba: a capital gaúcha do pôr do sol mais fotografado do país Brasil 247"
     },
     {
       "id": "f15a6a5d0963",
@@ -444,14 +426,34 @@
       "resumo": "Governo federal destina R$ 26 milhões para conclusão da nova Ponte do Guaíba Correio do Povo"
     },
     {
-      "id": "5c739cf40f36",
-      "titulo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb3FsM21OaXVFU0RzaF9lT250QURHOWJTZTBiYnduY1RIRGNMa2hYLTJJVENSdzBXUWRaVkh4M3lsWXRqUGhHUTZpTHVvbmRMV0MwLUZnbTFSQkRqTXF0SmJhSEtyTXBKWDRJcmVydF9zUzdrUEwzcWhLSTZMR2lPNEQwX1JBTVpBUDNRNmUyb2tJSm15cHZKLWNlekVoYWJaV2ZqaUpkV2FDQnpXM3BESXpXOTFMWVR1c2lFNFF3cEtVYVotUENGTzQ2eHRGamJoVEFCSnF5X0wxVE5ZVGlwNWJ3?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-08-31T23:14:41+00:00",
+      "id": "8ff08dd597d6",
+      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0E2Ty1WMU5DeGxTM01CSWdFLWlsbHRUM1dLVFZLMExEb2lYb0hMN3U2MnMwMk5IZTc0dnd6NkJZLXI5Z3QwVlllQmlKdVV6NWdoS0o0MXFKYThPbmZWbWF2SWRub2dWTWM5U1J1OWNJb0pEanc5MlJBcWdiQV81SmV3OU1BSDZVRzR1WU4xVkotVTdQWE9WQ3hvYU9tTnVnTHBmLTlqalREWWwtZWxDUElTQkFLeDFrMkxiamNMMEhMdjhma0xLUVh3ZnBYRzkzbzBNQmZRbGN4ZjlQelJxRVBBOA?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-02T14:07:00+00:00",
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira Jornal do Comércio"
+      "feed": "reporter",
+      "resumo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba Repórter Guaibense"
+    },
+    {
+      "id": "4f6459d7774f",
+      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2hJc3lMYktsYXpTcHRpZWptLVVPQ1pSMXV5QkxjT1NMNkFjanVDbnNBbUc1OER0N2NsemV4MnQ2NElQVi0yaE93cXhZcE9OUDJ1b0h5aVJidUVCLVlrQXY0cnlZQkNVSDhYZVdZZC1yVU1MNlQ1Z01uZnRJTlp5aWFRRVpoUlNCVFQxNnJDWXFWYlRTN1lDLXBjenh1WlRwMlZMbTU3cXR6cE9LZEFJMWNWQldWcHBDYVR0YzFldXQ3ZmVUR0x3?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-01T19:41:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC Repórter Guaibense"
+    },
+    {
+      "id": "6a1c7c48b080",
+      "titulo": "Coyote vs Acme: Programação e Sessões Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT3Azd1I3U01paGVHYlY5YTY0bmplTlZsb0tlazlMQWNkV3lsODdXekxhQjUyM2J3U0RjalVWMEhkcGNlQXMyTjIxS3p1aWNDMThYVDhFNTQ1SkpjekNISnRGSHhwT2FFNGpuSkJSejR0S1B1ZGFtcEVaOTJtUG5GR3dn?oc=5",
+      "fonte": "AdoroCinema",
+      "publicado_em": "2026-09-01T05:28:21+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Coyote vs Acme: Programação e Sessões Guaíba AdoroCinema"
     }
   ]
 }
