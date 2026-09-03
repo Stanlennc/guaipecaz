@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-03T15:47:24.943728+00:00",
+  "gerado_em": "2026-09-03T20:30:25.389318+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -13,15 +13,6 @@
       "feed": "vagas"
     },
     {
-      "id": "efd910ae5dd5",
-      "titulo": "Círculo Saúde abre 120 vagas para dar início às operações da unidade hospitalar de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSklrb1o3WF93cG9GRlNsOVRyVWZzbnRPQllvSFh5UW8tNjRZX2pUdWJ0a0dCenJNa1hsdzJ1VlRJMDBSM0hBS2czSHZWRTFLXzR3YV9NS0J3UXFWVWpvT0RZTHFPVUFGR0h4c1UxaEU0MlhMQjJ3ak8xX093Sm0xSkV3VldJMEhfZlp0QVRxR3N5Q3I2U0tuU0RJMThGa3ZyRXdFRUtlU3VraVBzT2tJWUpjOTVsNjVkZnFQN3pHNkg5NnR0elkzTjdmR0RfRGZkaHNyMmVOb2NqSTJ0RjVPZzZFVE0zZzFJaUx1cVZB?oc=5",
-      "fonte": "Correio do Povo",
-      "tipo": "vaga",
-      "publicado_em": "2026-06-24T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
       "id": "a6d75e6c7ff7",
       "titulo": "Nova gestora do hospital de Guaíba abre 120 vagas de emprego no local",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaUNVbzJHd3ZHZVhHNUVQdTZiZ2lKeE5HSWtVS1UtZ0NBVHV1eE9FZURPQkxvTVVPZW85ZlZvcjdPbFFHa1BGY0xuLVpMUW93Q2F1QmZDU0Vna2RQZGxkTV9zTGpoTndtaHdLSlVfY0Nrb1RkaC1vS290NXhEa21BREtoWVAwWHdBWGJVd3YxMHpfUV9IMzE4Rko2WU54OEtWVHdvWHRnZURzQUl2bEFTT1dkSFJmYmpUUi1nVFhmM09hSTdxaXExazJXX2V4XzlXaTZCRg?oc=5",
@@ -29,6 +20,24 @@
       "tipo": "vaga",
       "publicado_em": "2026-06-23T07:00:00+00:00",
       "feed": "vagas"
+    },
+    {
+      "id": "419af0602b02",
+      "titulo": "Estudantes de Guaíba disputam primeira etapa do 4º Concurso Escolar de Oratória",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTkpzMmtOaGlIX0p0QXNqMERIby1NaEVDQ3lxbG9GTjhweWswQ3ZoTlJxaDllVnVUZjFDR1dYMUw2UnBKcU1CVTlPX2hyUnBUNHVqbFRZbzJ4LU4xQ0J1LXF3ZnM0Vm5ONmN3OGdnSTVxa2NYaU9nTmh6V3FPWkJFMmhJMnhFQ01CSEFYa21NWTdQalR4cmNoYURCaldMNlJQSFpucndHNFlnS1pkYzh6RzVHREZfUmtYZTVjbWNIVDE?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "concurso",
+      "publicado_em": "2026-06-11T07:00:00+00:00",
+      "feed": "concurso"
+    },
+    {
+      "id": "d3131a89b6d1",
+      "titulo": "Rotary Guaíba e Secretaria de Educação divulgam o 4º Concurso Escolar de Oratória",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFhxakQwUmZLRzhCVGlEOGQtQmcyX2VlcjkwRVEzNXVWaFYzTkRjaUFFbEdVQTVlS25JQ2d3U0lDM0d6TUhZcUduX2c1SmVTSW9HY2U2R2tLZXN0SFpNUlA2VWVRRHVsV3p4SVE2bVkyYnBQeGhHeVF0OE5UclJkTXRGTUxQV0FwY0tuZXAzZEJ6cEZGUGJwRmJFWXEzQVdJaVJvcEFUb0N2WUFmbzdqbGp0ZFprUFFqdFZyLVRtTWZISGM?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "concurso",
+      "publicado_em": "2026-04-23T07:00:00+00:00",
+      "feed": "concurso"
     },
     {
       "id": "77a0ee2578b3",
@@ -76,40 +85,31 @@
       "feed": "vagas"
     },
     {
-      "id": "73e4176cd930",
-      "titulo": "Sine oferece mais de 160 vagas de emprego para Guaíba e região; maioria é para o supermercado Zaffari",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd0hzdzdFRkRSZzQ2ZGQ2cGFIS0FWUHpyb3l6Wkg3V2IyVklibC1DanFWV3lkOFZ5RnBDYU1Db3RfWWFnOHVMSlZ6d05mNENMaGNLYlY1dDVOOGVMRXA0X3RvVE5YUV9XLU90NWdJLWcwSTJlMkx0WWFCTXlYckFjSVJxdHJxQUtCYzVtZG5TWVhoa2oyRUU5OUI4WjhxN0d6SWRLTHVvMHJHdWVQNFZoUzQ2Yi16Znd4UXAxb29BRTk4NEtKdHVIZTF5ZktSSXNva3FaZTUwT29IM3Vna3c?oc=5",
+      "id": "9473ae321025",
+      "titulo": "Sine Guaíba oferece 35 vagas de emprego nesta semana, com maioria para o supermercado Zaffari",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNUd5NzFuZlZOSkpfTngtaTBDSTlFTTU2aWFoVHlhdzZYRVN5a1hyZG5kZVlpSXlCbURiWFM2c3dSVUhwZmROdzF5ZHlCSExFU0xQUEhud1J6SHB5TS1aanFfM0VLS0Q2emxvbDNNRTNwR0xqT3ZibGVKbkl2ZWVpTTk3RG5PQy15Uk9MYXZnZFRBd1laS0xQV0VuQXlUZ2xvT2x0UldvaU4wSUVaal9yQW5pcG9Fb0lrQlpGYkJBN2Zna05OWFp4b2dNVHpaRy1jY0Nr?oc=5",
       "fonte": "Repórter Guaibense",
       "tipo": "vaga",
-      "publicado_em": "2026-02-05T08:00:00+00:00",
+      "publicado_em": "2026-01-20T08:00:00+00:00",
       "feed": "vagas"
     },
     {
-      "id": "c890a22175a0",
-      "titulo": "Sine Guaíba oferece mais de 50 vagas de emprego nesta semana; maioria é para auxiliar de logística",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd2huVldoMmlNMVh1dXFmY21uY1lLTHFYejJNZUZaeVVwZ2Z1TmhMLVlJOF9MWF9rZkdvdlhXWjI0MUhCRFBLMzFVVmdWQ0xCb0ZpdU1PSmdMamFDWllxT3RQZUZjckJHcVAwTVJvNHJhclRsM0sxZlV3NjZsbHdtUHNqLU8xVUc5T21CTElQTjRhMGdHSTZkQzJhVF9sRHhBQTlhSDR4TWNsNm13TWQ4Yi03ajlZRXJ1RnVzU0FVNE1VWW5RMV9lYzczQWhydGNPQmVHVXY2NjRtUQ?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2025-12-09T08:00:00+00:00",
-      "feed": "vagas"
+      "id": "dabd514fef28",
+      "titulo": "Dnit lança edital que prevê mais três anos para concluir obras da nova ponte do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX1J1RUNpSW82OFA0OGhpRDlxcjRoOVhsUHhXTnhQN3FTU2FjY2lqVmVtNDYwbUhyNkxXTWVuY1RJWmNLNllMOUZnNkF3WGI2dW9QbzFMWGJXa3I5R1k3Qk1YVnBfbzZXWFJWRnlTTFh0UzBjdTZUdS1EVUZUN2I0czJkZjlkRS16WkxOYnF6TmM0TTI1MDVvREhOVHZTelZ1aTF2emtTUmFhU1NQUno5OGVUR0FEYzBIUTZ2NTRuV3pzak13Q2xfVEVOaFYwWHJLWE5iaWtTRGh3eVNrNS1hVEZkUTlnZw?oc=5",
+      "fonte": "Correio do Povo",
+      "tipo": "edital",
+      "publicado_em": "2025-12-30T08:00:00+00:00",
+      "feed": "edital"
     },
     {
-      "id": "4f8528a9d028",
-      "titulo": "Sine Guaíba oferece 40 vagas de emprego em diversas áreas; veja a lista",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNzFKd1ltRWFCc0tJUktpVEpxQUJka01wdExJdmQ3Z2Q4SGktaHd5UFVGOWpQWExZeHltVU5NZTJFemo4VVBaZEQxcXZRY0FZVGpfWm5UOEhGa0p2OG92eTlxTXNxZEtVbGNjUzZhZlFsVTFkX082aGtLTHVkdmFyQk45cWdGZ1NMMnRTaHhsTFNJb1JyOGkzdHJmRGFJR2w1SGVwLTIyYzdFTUwybXlMY3YzYTFzdw?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2025-10-30T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "f05db1da6aaa",
-      "titulo": "Vendedor, pedreiro, cozinheiro e mais: Sine Guaíba oferece cerca de 20 vagas de emprego nesta semana",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdWdRTkJzd2VrVGlpdmZqSm5ERnRVTWtQRU5rNXh0TzExanA0R29sdXg4VHpPSFNfZkl3TjVJSDI4Z3VpcDlRNnl1RUdLVnV4eG1Ba3hPdFdvM0xzem5IOWUxTC1JV1F5X1loUmhEbHpTQWdFaHR4alUzN0R3LTltYXZNc3FGNzEzRHRfNmEzTXBoVXk1RkpRSkpJT1JCVTdsY2habjhrSVZmNTlWYXlENXRoNlF3eGJST1pHTDVDeWo3Z041azdzTkxhUENDS0pIMUoyRnBhUTQyUQ?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2025-09-30T07:00:00+00:00",
-      "feed": "vagas"
+      "id": "bf4604f4d82c",
+      "titulo": "Edital para alças de acesso da nova ponte do Guaíba deve sair neste ano, diz DNIT",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTDU2TGJqQVI5Nk5xMUdrNHhpaUFaRGZlQ0NSV1VYMFM1MzFtY0JQRkNGT1hqNVNzbHY1Q2lkdHh4V3ZCN3BFUFRMS2ZXVVNvQjd1ZTA1c3d6b1lxRDMwSlJDcEhNQ1ZwLUJEVXNuMTNTMUowc2dPMjRXbi1RQnM5YmRUWEJfVTdjV19Ta0R4dF9HdnJPTml4dGZNbU1ib3hyck9UVDduRk9ZUGo1OW0wMHRRNGh6aFdhRFFScUNEV3piNE5QU2NMaXlRaWR5ZVhHRGxPUWF6U1pZN3NyTWxXWmpQdG9JQQ?oc=5",
+      "fonte": "Correio do Povo",
+      "tipo": "licitacao",
+      "publicado_em": "2025-11-12T08:00:00+00:00",
+      "feed": "licitacao"
     }
   ]
 }
