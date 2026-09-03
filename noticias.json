@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-03T19:06:15.485501+00:00",
+  "gerado_em": "2026-09-03T22:17:13.792784+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,14 +74,14 @@
   ],
   "noticias": [
     {
-      "id": "bb279e02512f",
-      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
+      "id": "c324af66d4b4",
+      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-03T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
       "id": "07441335e9fb",
@@ -103,14 +103,24 @@
       "feed": "reporter_direto"
     },
     {
-      "id": "c324af66d4b4",
-      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
+      "id": "bb279e02512f",
+      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-03T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
+      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+    },
+    {
+      "id": "6658bf088c2d",
+      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-sobrecarga-de-atendimentos-guaiba-podera-ter-o-segundo-conselho-tutelar-em-2028",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
     },
     {
       "id": "818bac95001f",
@@ -133,19 +143,19 @@
       "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
     },
     {
-      "id": "6658bf088c2d",
-      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-sobrecarga-de-atendimentos-guaiba-podera-ter-o-segundo-conselho-tutelar-em-2028",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "9ba83b947f93",
+      "titulo": "Duplicação da BR-116 entre Guaíba e Pelotas será retomada após liberação de R$ 96 milhões",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVl9XTmpnUlBJZjN3U2s5YTlqdGs0dklrd3ZKOFBXalJyd2NuQ0VldU9TUDVPLXQxZm1LN0JmNGF0aXVYTmttY2x4OGNPaVp2RHV4b19nelZQeWRYTUtFc3ozRnBtRl9DT0ttY0J2bDFDeXU2LThueFUydjdpWlk2ZEVYVG8wRTJ1ZFlJV0h3WTdseE1GM0tSSW4xZmJTLWZyUnJQMGhDbjZIaVVwejVxX1I2ODY3M3IzOWVQRmRDdUk0c01UNFhBbUFJV01Xc01ZbGc?oc=5",
+      "fonte": "A Hora do Sul",
+      "publicado_em": "2026-09-03T21:23:00+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
+      "feed": "vizinhos",
+      "resumo": "Duplicação da BR-116 entre Guaíba e Pelotas será retomada após liberação de R$ 96 milhões A Hora do Sul"
     },
     {
-      "id": "ec856442ad8d",
+      "id": "2ff3ab4feeee",
       "titulo": "Dmae instala estação de monitoramento do Guaíba em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZUtibDF5eXRlX1BSY2VIam5XVnluVWw5WVd5SE5ZQWFfUzlXdFVvUE5JeUlyclFSQmgzdE00MVl0UzZYRWNZZG1VMzN0S0xuRWwzeXdzelFyaXFZSlFBLVBjU1ZWMFhOeGFjbDFHdkxiMkVsNmluSGt3ZzlVVGRIcHV1ZlBqb1h5NlFCS0pVSUJuVVZtU3FUS3cyUnZ5TVVMWDFxWVVYd0RWLUZ0QWd5OVg0M1pxTGp1U01Lb1Y1RTJJSzRGVFFESFNXS0ZwTW9qa3Q5Qm1mYkFzU1Q1enR1OE8tSy3SAfMBQVVfeXFMT0ZjTjFYN01Ibk1CVDdxQ2xGYThoZmsxcjE0VVlLUlJXMkdhMjVsb2hRUVNKaGlSVFlqYVc2cXVBVEhzQml0cDAxeEpER1FJNXlLd2J2a2JJQ2Fvbl85cWVWNzRsTFFvMDh5V3YxcGt4UU9lQUlWeWpPN2tRR05fbHpVa2ZEWDhrRjBQT2tsYzVqVzZKbXBSU2xGcnZuOHgwMW5sNjQ0ZFdrVDhzYmtxYXAzWjhyV20xZ1h3eHZWaEVHX0xRcDhqN3hrZEtrejgySWFWWW9rbndJT0dUOXF5cFJXcUY4R0N5MjNzUWhUNWZvRlBN?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRmNOMVg3TUhuTUJUN3FDbEZhOGhmazFyMTRVWUtSUlcyR2EyNWxvaFFRU0poaVJUWWphVzZxdUFUSHNCaXRwMDF4SkRHUUk1eUt3YnZrYklDYW9uXzlxZVY3NGxMUW8wOHlXdjFwa3hRT2VBSVZ5ak83a1FHTl9selVrZkRYOGtGMFBPa2xjNWpXNkptcFJTbEZydm44eDAxbmw2NDRkV2tUOHNia3FhcDNaOHJXbTFnWHd4dlZoRUdfTFFwOGo3eGtkS2t6ODJJYVZZb2tud0lPR1Q5cXlwUldxRjhHQ3kyM3NRaFQ1Zm9GUE3SAfMBQVVfeXFMT0ZjTjFYN01Ibk1CVDdxQ2xGYThoZmsxcjE0VVlLUlJXMkdhMjVsb2hRUVNKaGlSVFlqYVc2cXVBVEhzQml0cDAxeEpER1FJNXlLd2J2a2JJQ2Fvbl85cWVWNzRsTFFvMDh5V3YxcGt4UU9lQUlWeWpPN2tRR05fbHpVa2ZEWDhrRjBQT2tsYzVqVzZKbXBSU2xGcnZuOHgwMW5sNjQ0ZFdrVDhzYmtxYXAzWjhyV20xZ1h3eHZWaEVHX0xRcDhqN3hrZEtrejgySWFWWW9rbndJT0dUOXF5cFJXcUY4R0N5MjNzUWhUNWZvRlBN?oc=5",
       "fonte": "G1",
       "publicado_em": "2026-09-03T17:47:38+00:00",
       "categoria": null,
@@ -157,7 +167,7 @@
       "titulo": "Sesc/RS e Senac-RS celebram 80 anos com megaprogramação gratuita na Orla do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeEFzOURteWpsX0EzVGN1VUhhN2VCeFFzbjdHWUhSUVlRbGFaSkZXc0RLR2ZLNzBNWVlMdjRnNEMtbmYzZVh3ZjNsQzJJR3BkNGVxdnBPRG5kX0VGMFlLYXcyZ2VTMVhadnNZbXgxZjNtWjdaZUlZQXl5LURvekJqZHdyWEVFMWFOaTk3RzlkLTljZGZ2U3VxQzJ2UE0zdWRYQW5odTNnTDM4cF80cTJtNEx2NHJvTXFsT1E?oc=5",
       "fonte": "Sesc/RS",
-      "publicado_em": "2026-09-03T14:15:25+00:00",
+      "publicado_em": "2026-09-03T14:29:21+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "Sesc/RS e Senac-RS celebram 80 anos com megaprogramação gratuita na Orla do Guaíba Sesc/RS"
@@ -203,6 +213,16 @@
       "resumo": "Obras da nova Ponte do Guaíba serão retomadas após cinco anos de paralisação Studio Notícias"
     },
     {
+      "id": "c00cc50dcaca",
+      "titulo": "Obra da nova Ponte do Guaíba será retomada após cinco anos de paralisação – Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRVYtSE5NaU4tRkVEdHhHdkdmN29HU3RyNUM0di1DNW9kc0UxQ1QyZU16ajhSN0lSbk9GRXB6NHBCbkVkUGc2a2g4dUJkOUQ2aDF3cEpNTFprTUhURzNBV3RUVGFxcGVjeTc2TEd0RUhoOVBFa0JjT2ZxamhLNHJuYXVMV0F3NTNNemY5a3hlbDBacWJrcVdaOEtUT3RiRlpxOXRjVlZIaGxwdWxCUW9DRVNSSmhYbG45?oc=5",
+      "fonte": "Porto Alegre 24 Horas",
+      "publicado_em": "2026-09-02T19:25:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Obra da nova Ponte do Guaíba será retomada após cinco anos de paralisação – Notícias Porto Alegre 24 Horas"
+    },
+    {
       "id": "40141b1ee0ce",
       "titulo": "Governo federal destina R$ 26 milhões para conclusão da nova Ponte do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1ZPelQtMkE0S2NCOG41NWFlaEtPVUFVMTQ4aHU4R2RmZWJRbkdTR19XS2s3dGhaVjJBUnFCdmhsd2hQTUZjemx0QmVteTlkQUNWbk1EbnlvSUw0c0JLRHBOdU1xNU1LZ1AyamdQLURLdGZzRlJZajdqb0dKSnNpaDJkRVhubnNLZElzOUtGMV9oTzVFYkl3MGxqNXp2RDQ?oc=5",
@@ -216,31 +236,21 @@
       "id": "561434887bfa",
       "titulo": "Evento gratuito celebra 80 anos de Sesc e Senac com Rock de Galpão, Frank Jorge e mais de 50 atividades na Orla do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVnhkYVFoc2hWMzcwTVF4a0RpeG80WEhvS0x6VThfelVJeE9MR1kwcnVrc1JJbkF2Q2QyRHFHVXRyb0kzc2ZIZU5hMFZ5Q2FZeEZqM3NOLTA0cVFJVTFMbXBhYTE1NWEtQ0FORTBGbHk4TGR6T182ZjVRcGF0dDlrTS16clF6V2x2bHBLZkVmcnVPZkI3N3BHVDZJc2tKVC1vZkFOdjdSZ1FaS1BhQ2k0bWNlTmxwYmpIeEtYYkNPOUdyWHpXWEt2dE44ZmNEY1hqZFFHYVJ0eTBxVDZ2TjRFSTFvTmxOZUs5a3ZiYnlsQVl2ZTZKdDFhV1hRMGtaZndjTVpfRA?oc=5",
-      "fonte": "supertransado.com.br",
+      "fonte": "Super Transado",
       "publicado_em": "2026-09-02T12:50:35+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Evento gratuito celebra 80 anos de Sesc e Senac com Rock de Galpão, Frank Jorge e mais de 50 atividades na Orla do Guaíba supertransado.com.br"
-    },
-    {
-      "id": "ccdd51f98255",
-      "titulo": "Mudança em Porto Alegre: fila na Guaíba, corredor e o baú que não pode errar o horário",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUXhsQjl4aGl2M29nVE9kRXhMdVJnRmFxYXMwMlBYNWxySm9PdWIweWdwU3d1Sm9vdWNvSjNuazJRbmx3UUlneXdrVmZmTU11LUJRQ3Q0a0lua3c1cllaTVpzcXJIY21SNWNkdU5nRU5zVmhwS3lUVW9NQmxGNFA2VkVqcmZQemQySWVzQ0JQSlBqTV9ReWpGa0RfQ1pZTmdvOXdYUy0wbUpMMjN5QmowTHQzSC15b1ljcWlTMWJVVQ?oc=5",
-      "fonte": "mobilidadeportoalegre.com.br",
-      "publicado_em": "2026-09-01T18:28:34+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Mudança em Porto Alegre: fila na Guaíba, corredor e o baú que não pode errar o horário mobilidadeportoalegre.com.br"
+      "resumo": "Evento gratuito celebra 80 anos de Sesc e Senac com Rock de Galpão, Frank Jorge e mais de 50 atividades na Orla do Guaíba Super Transado"
     },
     {
       "id": "aaa8a58c6b4e",
       "titulo": "Projeto de empresa catarinense entra na reta final em Guaíba e mira novo ciclo de desenvolvimento",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOblBIUy1EejhXVS1abDUzQVVpeDhON0tXS3JyakhONjE0eEFHR3hNdlVJMHlhbEU3OHAtQWxNVGRsbXNTUHk5MGRxSnUxX3JKeVh5QzFPTTI3SFZxc21Id2NYOGhnNzJ3a3Nyb2dBWFpjUm1VRHl0Z2NfZmQ4djltYzVlWDVWSlVwaDB3UkdCU3pWVFZqTGM5RXozWHlkbHZfWlQtckF6bWs0TGxnb0dnMVdsZkhaYkx4Smg1R0ZoR09Qdw?oc=5",
-      "fonte": "portallitoralsul.com.br",
+      "fonte": "Portal Litoral Sul",
       "publicado_em": "2026-09-01T12:28:30+00:00",
       "categoria": null,
       "feed": "litoral",
-      "resumo": "Projeto de empresa catarinense entra na reta final em Guaíba e mira novo ciclo de desenvolvimento portallitoralsul.com.br"
+      "resumo": "Projeto de empresa catarinense entra na reta final em Guaíba e mira novo ciclo de desenvolvimento Portal Litoral Sul"
     },
     {
       "id": "1aa7285cf899",
@@ -313,26 +323,6 @@
       "resumo": "Record Guaíba e Projeto \"Nós Entre Lugares\" visita General Câmara e distrito histórico R7"
     },
     {
-      "id": "53e1cfbf9471",
-      "titulo": "Rádio Guaíba (Grupo Record): Entrevista com o presidente da Atricon, Cezar Miola",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTEtT1BrWXR3OXNhNzRhbDBlQ1h1Wnl5Z0hoc3JRTjRfNEduaUxkbVdPUUlwOTkzdldacVQ5bkZTYjgyVnBqLXljb1VJOFBiTk83dHlfV01TTUw3UGw2SFFDYlBsdzZZSlhQMHhmT2s4OE8wQzN0b2lqNWp6dkV1VEhBeVp3TG5vcEF3V1VfcW5QeTVLVy1yWU9YaUc5UlhndThFbWdxLU4?oc=5",
-      "fonte": "Atricon",
-      "publicado_em": "2026-08-28T07:00:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Rádio Guaíba (Grupo Record): Entrevista com o presidente da Atricon, Cezar Miola Atricon"
-    },
-    {
-      "id": "d1abeed19772",
-      "titulo": "Acidente entre dois caminhões deixa motorista ferido e causa lentidão na BR-116, em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU2pBWVZrRDMxYlZCNnFzbFMteEUwNlJOal9xZklodS1vbFl5djhwX05wZ2ppMXlndndYNnp3UlRpX1h4dEdUTGpIdFVxN05xcHpwdDRBZno0d0ZhQm5lQi1La0hMeUFlMndUX09jWkFlX2hkdUVaQmNHM3dIdVVGZ0xwN2JJNkljcGpra01HOTVkakM4c1pfV2ZWNGc5RDkzUWpHOHphVW1qSEtYejJIVjZyNjAxMlNIUWlaaVFxVkdRUHdUMHVaRmo2VGx0Rnhabzl1aDVBTmM3clF6WEE?oc=5",
-      "fonte": "Portal de Camaquã",
-      "publicado_em": "2026-08-28T01:29:28+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Acidente entre dois caminhões deixa motorista ferido e causa lentidão na BR-116, em Guaíba Portal de Camaquã"
-    },
-    {
       "id": "87201190ce8c",
       "titulo": "Limpe o Guaíba 2026 é lançado em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmdjUlhPNGQ2WFotU3FYQTVSTV9GVDU0QXprNUUxTlZmeFIzUWhSVlQtSXlCZi1lc3ZqRzYwMmxaWE01VXlDc3lROHo3bmVicWQ2SzBLd2lHSUlTbVduTUJxbkQtbVdvaUFmLW9ac1lRand4RlNHeS15UVA0Q01qamlaZzJKNGhTSk9pakZIQ2pSRjRIUmdIeC0xdTQ5TjdOelBxUUdOY2VXck43RHNv?oc=5",
@@ -341,16 +331,6 @@
       "categoria": null,
       "feed": "correio",
       "resumo": "Limpe o Guaíba 2026 é lançado em Porto Alegre Correio do Povo"
-    },
-    {
-      "id": "030081355f45",
-      "titulo": "Expointer tem programação da Guaíba ao vivo e edições especiais do Correio do Povo",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNy1FN1Vra3F0YzlfNnNicElvWG1KVnlWaHBUQXBpVjQyR1lSMnd2aXhzVVdpUW5fYnJBR1JyX0x2Vm9vb0lNNzNKOU4teFBaQ1FQRllMd2hyRl9UN3ZPTjB1X3pGWnAzRzg5XzlRaXVnN09DSkFTRHRjdGg0YUVkTno1QzdLaWtpS19jVUpFNmZRbVp1djRfM05xT0ZidExOdFVVaEhRamFveE56RDNwSEFTQQ?oc=5",
-      "fonte": "Coletiva.net",
-      "publicado_em": "2026-08-27T20:01:13+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Expointer tem programação da Guaíba ao vivo e edições especiais do Correio do Povo Coletiva.net"
     },
     {
       "id": "e20cb8308534",
@@ -371,18 +351,38 @@
       "categoria": null,
       "feed": "reporter",
       "resumo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba Repórter Guaibense"
+    },
+    {
+      "id": "222af359a8b8",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTURzNW01X2p1R2RIRjdKWDdhQnRQMnpoakNGckF0andQTEhjUWZTLXkxVzlBVF94bmp2VzB5bE5UQ0I0Nm1GSXNtampTOGtDTUp3SThLdGxybVRoVFNRNmJWZ0JCdnd3SFBaX213OVEtQVItbmI1TTFXSWI3ZUlSLU5BTXJGckE1OExjemxfWHN1RGZRTTBGS3hnX3dFdVRnQ1FjX3lRODlKTTJ4VjYtT04xdlh2YU1qUy1CMzlFUko2VnJfQWhFTkg5LUVZcnpTaFdXOUxPSzhYM1U?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-04T07:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego Repórter Guaibense"
+    },
+    {
+      "id": "bc835cea92f8",
+      "titulo": "Guaíba volta a normalidade depois de uma semana",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWRySGlVb0MxS1hBTGJ1eWs3TlhtR2ZnQnF5MU5IRWdUOWFPTVNjSlBEQ2RZN1Q0UkFmeWp6Wlpqa0pkSEo5WFdLTTBpczRyaGY2V0FVRFNEc2FCN3h5RFBxUlVjRERaeUhiMEtvUTF4Sjlqb0FRdzFMRWFKNkhTWk9sSnRxR08wVFhlSS1lVGRMMzM0YnVuMC1XY2lOTmNhWFBDNXRTT04xVlVjRm1oVGJR?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-08-04T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Guaíba volta a normalidade depois de uma semana Correio do Povo"
     }
   ],
   "noticias_home": [
     {
-      "id": "bb279e02512f",
-      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
+      "id": "c324af66d4b4",
+      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-03T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
       "id": "07441335e9fb",
@@ -404,14 +404,24 @@
       "feed": "reporter_direto"
     },
     {
-      "id": "c324af66d4b4",
-      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
+      "id": "bb279e02512f",
+      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-03T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
+      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+    },
+    {
+      "id": "6658bf088c2d",
+      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-sobrecarga-de-atendimentos-guaiba-podera-ter-o-segundo-conselho-tutelar-em-2028",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
     },
     {
       "id": "818bac95001f",
@@ -434,24 +444,14 @@
       "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
     },
     {
-      "id": "6658bf088c2d",
-      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-sobrecarga-de-atendimentos-guaiba-podera-ter-o-segundo-conselho-tutelar-em-2028",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
-    },
-    {
-      "id": "ec856442ad8d",
-      "titulo": "Dmae instala estação de monitoramento do Guaíba em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZUtibDF5eXRlX1BSY2VIam5XVnluVWw5WVd5SE5ZQWFfUzlXdFVvUE5JeUlyclFSQmgzdE00MVl0UzZYRWNZZG1VMzN0S0xuRWwzeXdzelFyaXFZSlFBLVBjU1ZWMFhOeGFjbDFHdkxiMkVsNmluSGt3ZzlVVGRIcHV1ZlBqb1h5NlFCS0pVSUJuVVZtU3FUS3cyUnZ5TVVMWDFxWVVYd0RWLUZ0QWd5OVg0M1pxTGp1U01Lb1Y1RTJJSzRGVFFESFNXS0ZwTW9qa3Q5Qm1mYkFzU1Q1enR1OE8tSy3SAfMBQVVfeXFMT0ZjTjFYN01Ibk1CVDdxQ2xGYThoZmsxcjE0VVlLUlJXMkdhMjVsb2hRUVNKaGlSVFlqYVc2cXVBVEhzQml0cDAxeEpER1FJNXlLd2J2a2JJQ2Fvbl85cWVWNzRsTFFvMDh5V3YxcGt4UU9lQUlWeWpPN2tRR05fbHpVa2ZEWDhrRjBQT2tsYzVqVzZKbXBSU2xGcnZuOHgwMW5sNjQ0ZFdrVDhzYmtxYXAzWjhyV20xZ1h3eHZWaEVHX0xRcDhqN3hrZEtrejgySWFWWW9rbndJT0dUOXF5cFJXcUY4R0N5MjNzUWhUNWZvRlBN?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-09-03T17:47:38+00:00",
+      "id": "9ba83b947f93",
+      "titulo": "Duplicação da BR-116 entre Guaíba e Pelotas será retomada após liberação de R$ 96 milhões",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVl9XTmpnUlBJZjN3U2s5YTlqdGs0dklrd3ZKOFBXalJyd2NuQ0VldU9TUDVPLXQxZm1LN0JmNGF0aXVYTmttY2x4OGNPaVp2RHV4b19nelZQeWRYTUtFc3ozRnBtRl9DT0ttY0J2bDFDeXU2LThueFUydjdpWlk2ZEVYVG8wRTJ1ZFlJV0h3WTdseE1GM0tSSW4xZmJTLWZyUnJQMGhDbjZIaVVwejVxX1I2ODY3M3IzOWVQRmRDdUk0c01UNFhBbUFJV01Xc01ZbGc?oc=5",
+      "fonte": "A Hora do Sul",
+      "publicado_em": "2026-09-03T21:23:00+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Dmae instala estação de monitoramento do Guaíba em Porto Alegre G1"
+      "resumo": "Duplicação da BR-116 entre Guaíba e Pelotas será retomada após liberação de R$ 96 milhões A Hora do Sul"
     }
   ]
 }
