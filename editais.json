@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-03T10:40:51.867842+00:00",
+  "gerado_em": "2026-09-03T15:47:24.943728+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -16,7 +16,7 @@
       "id": "efd910ae5dd5",
       "titulo": "Círculo Saúde abre 120 vagas para dar início às operações da unidade hospitalar de Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSklrb1o3WF93cG9GRlNsOVRyVWZzbnRPQllvSFh5UW8tNjRZX2pUdWJ0a0dCenJNa1hsdzJ1VlRJMDBSM0hBS2czSHZWRTFLXzR3YV9NS0J3UXFWVWpvT0RZTHFPVUFGR0h4c1UxaEU0MlhMQjJ3ak8xX093Sm0xSkV3VldJMEhfZlp0QVRxR3N5Q3I2U0tuU0RJMThGa3ZyRXdFRUtlU3VraVBzT2tJWUpjOTVsNjVkZnFQN3pHNkg5NnR0elkzTjdmR0RfRGZkaHNyMmVOb2NqSTJ0RjVPZzZFVE0zZzFJaUx1cVZB?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "tipo": "vaga",
       "publicado_em": "2026-06-24T07:00:00+00:00",
       "feed": "vagas"
@@ -29,24 +29,6 @@
       "tipo": "vaga",
       "publicado_em": "2026-06-23T07:00:00+00:00",
       "feed": "vagas"
-    },
-    {
-      "id": "419af0602b02",
-      "titulo": "Estudantes de Guaíba disputam primeira etapa do 4º Concurso Escolar de Oratória",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTkpzMmtOaGlIX0p0QXNqMERIby1NaEVDQ3lxbG9GTjhweWswQ3ZoTlJxaDllVnVUZjFDR1dYMUw2UnBKcU1CVTlPX2hyUnBUNHVqbFRZbzJ4LU4xQ0J1LXF3ZnM0Vm5ONmN3OGdnSTVxa2NYaU9nTmh6V3FPWkJFMmhJMnhFQ01CSEFYa21NWTdQalR4cmNoYURCaldMNlJQSFpucndHNFlnS1pkYzh6RzVHREZfUmtYZTVjbWNIVDE?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "concurso",
-      "publicado_em": "2026-06-11T07:00:00+00:00",
-      "feed": "concurso"
-    },
-    {
-      "id": "d3131a89b6d1",
-      "titulo": "Rotary Guaíba e Secretaria de Educação divulgam o 4º Concurso Escolar de Oratória",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFhxakQwUmZLRzhCVGlEOGQtQmcyX2VlcjkwRVEzNXVWaFYzTkRjaUFFbEdVQTVlS25JQ2d3U0lDM0d6TUhZcUduX2c1SmVTSW9HY2U2R2tLZXN0SFpNUlA2VWVRRHVsV3p4SVE2bVkyYnBQeGhHeVF0OE5UclJkTXRGTUxQV0FwY0tuZXAzZEJ6cEZGUGJwRmJFWXEzQVdJaVJvcEFUb0N2WUFmbzdqbGp0ZFprUFFqdFZyLVRtTWZISGM?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "concurso",
-      "publicado_em": "2026-04-23T07:00:00+00:00",
-      "feed": "concurso"
     },
     {
       "id": "77a0ee2578b3",
@@ -85,15 +67,6 @@
       "feed": "vagas"
     },
     {
-      "id": "6b25ae4e3892",
-      "titulo": "Prefeitura publica edital para reurbanização da Orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNU1lTTAwUEhxYk8ydlVybmhrOGRETzdoLUlUdGRmcUUyMkN1UmFCOXJ0UFN0YVhPR1BTc1Ixdko5dFd3SWRkWnBtZ3Z6dVZQQl9iNU9CWXFzM0dFeC1EQ2JLM1VCZU5uNnZFTFM2R2pmcG0tMk1vUGpYVDNteTVYUkJWN25HTlVySFplU3ZVM256bU1Ra3dDNQ?oc=5",
-      "fonte": "Coletiva.net",
-      "tipo": "edital",
-      "publicado_em": "2026-03-07T05:48:51+00:00",
-      "feed": "edital"
-    },
-    {
       "id": "63d66b5f2d53",
       "titulo": "Sine Guaíba tem mais de 20 vagas de emprego nesta semana; veja a lista",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaURxMXktUjdoeXMtczBtX1QydWVaUTJxcTJaTzVCUFVmbk9OLTRNRmx6dURrMFFIdTZBZnFuVVBCbjFBUjVPYWZIUzNOS29CTzJNR3Z1NUp3S2ZKN2ZsSzNSRUJRSl9vTmV0OFBhZVdIdGNFQjRMSzRBLTZXemN1aUNfR01NaHBYcmlwZklCcmN1QTdUMW04WEs4R25rZ09ub3NvaHIxYXJYRGR5NXg4VXBFUFI?oc=5",
@@ -109,6 +82,33 @@
       "fonte": "Repórter Guaibense",
       "tipo": "vaga",
       "publicado_em": "2026-02-05T08:00:00+00:00",
+      "feed": "vagas"
+    },
+    {
+      "id": "c890a22175a0",
+      "titulo": "Sine Guaíba oferece mais de 50 vagas de emprego nesta semana; maioria é para auxiliar de logística",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd2huVldoMmlNMVh1dXFmY21uY1lLTHFYejJNZUZaeVVwZ2Z1TmhMLVlJOF9MWF9rZkdvdlhXWjI0MUhCRFBLMzFVVmdWQ0xCb0ZpdU1PSmdMamFDWllxT3RQZUZjckJHcVAwTVJvNHJhclRsM0sxZlV3NjZsbHdtUHNqLU8xVUc5T21CTElQTjRhMGdHSTZkQzJhVF9sRHhBQTlhSDR4TWNsNm13TWQ4Yi03ajlZRXJ1RnVzU0FVNE1VWW5RMV9lYzczQWhydGNPQmVHVXY2NjRtUQ?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2025-12-09T08:00:00+00:00",
+      "feed": "vagas"
+    },
+    {
+      "id": "4f8528a9d028",
+      "titulo": "Sine Guaíba oferece 40 vagas de emprego em diversas áreas; veja a lista",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNzFKd1ltRWFCc0tJUktpVEpxQUJka01wdExJdmQ3Z2Q4SGktaHd5UFVGOWpQWExZeHltVU5NZTJFemo4VVBaZEQxcXZRY0FZVGpfWm5UOEhGa0p2OG92eTlxTXNxZEtVbGNjUzZhZlFsVTFkX082aGtLTHVkdmFyQk45cWdGZ1NMMnRTaHhsTFNJb1JyOGkzdHJmRGFJR2w1SGVwLTIyYzdFTUwybXlMY3YzYTFzdw?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2025-10-30T07:00:00+00:00",
+      "feed": "vagas"
+    },
+    {
+      "id": "f05db1da6aaa",
+      "titulo": "Vendedor, pedreiro, cozinheiro e mais: Sine Guaíba oferece cerca de 20 vagas de emprego nesta semana",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdWdRTkJzd2VrVGlpdmZqSm5ERnRVTWtQRU5rNXh0TzExanA0R29sdXg4VHpPSFNfZkl3TjVJSDI4Z3VpcDlRNnl1RUdLVnV4eG1Ba3hPdFdvM0xzem5IOWUxTC1JV1F5X1loUmhEbHpTQWdFaHR4alUzN0R3LTltYXZNc3FGNzEzRHRfNmEzTXBoVXk1RkpRSkpJT1JCVTdsY2habjhrSVZmNTlWYXlENXRoNlF3eGJST1pHTDVDeWo3Z041azdzTkxhUENDS0pIMUoyRnBhUTQyUQ?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2025-09-30T07:00:00+00:00",
       "feed": "vagas"
     }
   ]
