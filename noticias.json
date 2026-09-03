@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-03T03:00:20.777377+00:00",
+  "gerado_em": "2026-09-03T08:33:22.612573+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,26 @@
   ],
   "noticias": [
     {
+      "id": "07441335e9fb",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-03T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
+    },
+    {
+      "id": "c324af66d4b4",
+      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-03T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
+    },
+    {
       "id": "0a160b69ba5b",
       "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
@@ -93,24 +113,14 @@
       "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
     },
     {
-      "id": "c324af66d4b4",
-      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
+      "id": "4b0b194060fa",
+      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-03T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
-    },
-    {
-      "id": "07441335e9fb",
-      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-02T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
+      "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
     },
     {
       "id": "818bac95001f",
@@ -121,16 +131,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
-    },
-    {
-      "id": "4b0b194060fa",
-      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
     },
     {
       "id": "8471bc6b8bc6",
@@ -153,6 +153,16 @@
       "resumo": "Dois prêmios internacionais de arquitetura em um único prédio à beira do Guaíba: a capital gaúcha do pôr do sol mais fotografado do país Brasil 247"
     },
     {
+      "id": "c00cc50dcaca",
+      "titulo": "Obra da nova Ponte do Guaíba será retomada após cinco anos de paralisação – Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRVYtSE5NaU4tRkVEdHhHdkdmN29HU3RyNUM0di1DNW9kc0UxQ1QyZU16ajhSN0lSbk9GRXB6NHBCbkVkUGc2a2g4dUJkOUQ2aDF3cEpNTFprTUhURzNBV3RUVGFxcGVjeTc2TEd0RUhoOVBFa0JjT2ZxamhLNHJuYXVMV0F3NTNNemY5a3hlbDBacWJrcVdaOEtUT3RiRlpxOXRjVlZIaGxwdWxCUW9DRVNSSmhYbG45?oc=5",
+      "fonte": "Porto Alegre 24 Horas",
+      "publicado_em": "2026-09-02T19:25:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Obra da nova Ponte do Guaíba será retomada após cinco anos de paralisação – Notícias Porto Alegre 24 Horas"
+    },
+    {
       "id": "2487856166b0",
       "titulo": "Governo federal destina R$ 26 milhões para conclusão da nova Ponte do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLVZxaW1Rd0Fod0JoaHQyY0NtZjE1aGhyOGtnMVB1QXVIOTNvYmVxU3NFOTd2U1NhcUFjUzdCUVFOdVFtbHlDZnZoRHBxeFg3bEV6WF9QMGNiNlZZQy1xMHloNlYyaFB3QkExRjdoVy1GV2ctQTJXb3d5dWtyQTBBZjVoMVZPOWM0RE9vd2NadWVER2FhOGpxTkVwMXdIOGlhNWR3NTZSNDk0XzZlTV8zdHNKVHB2Z2ZOQ0RlUVR3Zw?oc=5",
@@ -163,16 +173,6 @@
       "resumo": "Governo federal destina R$ 26 milhões para conclusão da nova Ponte do Guaíba Acontece no RS"
     },
     {
-      "id": "7419ac8e2c3d",
-      "titulo": "Governo federal destina R$ 26,15 milhões para retomada das obras da nova ponte do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQ1lZdEJ3dlU5cUtyRHFVTGd0ZVBaNTFoa1Z2Vl9jZDdyMmZNOGRmWTlGNFlrQnJlWVhKNmFtSWlLUVpUSzJBYURRLU1LendEWlNMUUZkdU1TUHF6Vk44LU50dG9XaVpuY0xZeGhsV2FNZ2t3UEZ5U2xDajQxeGlpV0xUYzRnSWtwRE1sbEV6YmNpc0ppcEVHblJOZmZjSjhzc3VkOE14b285NGtkYmMxRW8zVHU0LVlwRFNFS3pON3JfVW9ESXNnYW1fWTVLSFpYbW8tV2xfQ3I2czY2cDk1Mzh6bG5zZlN1RVNLaFFXaTlEM1BxSTI4?oc=5",
-      "fonte": "portaldenoticias.com.br",
-      "publicado_em": "2026-09-02T13:08:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Governo federal destina R$ 26,15 milhões para retomada das obras da nova ponte do Guaíba portaldenoticias.com.br"
-    },
-    {
       "id": "561434887bfa",
       "titulo": "Evento gratuito celebra 80 anos de Sesc e Senac com Rock de Galpão, Frank Jorge e mais de 50 atividades na Orla do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVnhkYVFoc2hWMzcwTVF4a0RpeG80WEhvS0x6VThfelVJeE9MR1kwcnVrc1JJbkF2Q2QyRHFHVXRyb0kzc2ZIZU5hMFZ5Q2FZeEZqM3NOLTA0cVFJVTFMbXBhYTE1NWEtQ0FORTBGbHk4TGR6T182ZjVRcGF0dDlrTS16clF6V2x2bHBLZkVmcnVPZkI3N3BHVDZJc2tKVC1vZkFOdjdSZ1FaS1BhQ2k0bWNlTmxwYmpIeEtYYkNPOUdyWHpXWEt2dE44ZmNEY1hqZFFHYVJ0eTBxVDZ2TjRFSTFvTmxOZUs5a3ZiYnlsQVl2ZTZKdDFhV1hRMGtaZndjTVpfRA?oc=5",
@@ -181,6 +181,16 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Evento gratuito celebra 80 anos de Sesc e Senac com Rock de Galpão, Frank Jorge e mais de 50 atividades na Orla do Guaíba Super Transado"
+    },
+    {
+      "id": "aaa8a58c6b4e",
+      "titulo": "Projeto de empresa catarinense entra na reta final em Guaíba e mira novo ciclo de desenvolvimento",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOblBIUy1EejhXVS1abDUzQVVpeDhON0tXS3JyakhONjE0eEFHR3hNdlVJMHlhbEU3OHAtQWxNVGRsbXNTUHk5MGRxSnUxX3JKeVh5QzFPTTI3SFZxc21Id2NYOGhnNzJ3a3Nyb2dBWFpjUm1VRHl0Z2NfZmQ4djltYzVlWDVWSlVwaDB3UkdCU3pWVFZqTGM5RXozWHlkbHZfWlQtckF6bWs0TGxnb0dnMVdsZkhaYkx4Smg1R0ZoR09Qdw?oc=5",
+      "fonte": "Portal Litoral Sul",
+      "publicado_em": "2026-09-01T12:28:30+00:00",
+      "categoria": null,
+      "feed": "litoral",
+      "resumo": "Projeto de empresa catarinense entra na reta final em Guaíba e mira novo ciclo de desenvolvimento Portal Litoral Sul"
     },
     {
       "id": "1aa7285cf899",
@@ -196,21 +206,21 @@
       "id": "6a1c7c48b080",
       "titulo": "Coyote vs Acme: Programação e Sessões Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT3Azd1I3U01paGVHYlY5YTY0bmplTlZsb0tlazlMQWNkV3lsODdXekxhQjUyM2J3U0RjalVWMEhkcGNlQXMyTjIxS3p1aWNDMThYVDhFNTQ1SkpjekNISnRGSHhwT2FFNGpuSkJSejR0S1B1ZGFtcEVaOTJtUG5GR3dn?oc=5",
-      "fonte": "adorocinema.com",
+      "fonte": "AdoroCinema",
       "publicado_em": "2026-09-01T05:28:21+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Coyote vs Acme: Programação e Sessões Guaíba adorocinema.com"
+      "resumo": "Coyote vs Acme: Programação e Sessões Guaíba AdoroCinema"
     },
     {
       "id": "5c739cf40f36",
       "titulo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb3FsM21OaXVFU0RzaF9lT250QURHOWJTZTBiYnduY1RIRGNMa2hYLTJJVENSdzBXUWRaVkh4M3lsWXRqUGhHUTZpTHVvbmRMV0MwLUZnbTFSQkRqTXF0SmJhSEtyTXBKWDRJcmVydF9zUzdrUEwzcWhLSTZMR2lPNEQwX1JBTVpBUDNRNmUyb2tJSm15cHZKLWNlekVoYWJaV2ZqaUpkV2FDQnpXM3BESXpXOTFMWVR1c2lFNFF3cEtVYVotUENGTzQ2eHRGamJoVEFCSnF5X0wxVE5ZVGlwNWJ3?oc=5",
-      "fonte": "Jornal do Comércio",
+      "fonte": "jornaldocomercio.com",
       "publicado_em": "2026-08-31T23:14:41+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira Jornal do Comércio"
+      "resumo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira jornaldocomercio.com"
     },
     {
       "id": "b586d8726cc4",
@@ -231,16 +241,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Porto Alegre instala barreira móvel contra cheias do Guaíba R7"
-    },
-    {
-      "id": "eeed75b168e4",
-      "titulo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbWF0VmM5c3VLTUZVLU5mQmRMbFFBYk9lTVIxc1M5bmloZkNDS0pOR1h3Y3BENEM5bjZtSmRPNHZtNGIxSi1IVWJSS1lrRzJMaDU1QTlCWFFhaDZldTZuRWdaNFBTbURDYmliSER6anAwbGFrbDJaUjFhdUhqelR2aElXSGc3LWlVLVJXUlBSS1pGekFBVklfdjRKclhFTWltYWExVUJsUi1KdUVabU9nS1lnR0FxYk4tY1cweWR3?oc=5",
-      "fonte": "Brasil de Fato",
-      "publicado_em": "2026-08-31T19:43:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba Brasil de Fato"
     },
     {
       "id": "82856e13eff6",
@@ -375,6 +375,26 @@
   ],
   "noticias_home": [
     {
+      "id": "07441335e9fb",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-03T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
+    },
+    {
+      "id": "c324af66d4b4",
+      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-03T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
+    },
+    {
       "id": "0a160b69ba5b",
       "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
@@ -394,24 +414,14 @@
       "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
     },
     {
-      "id": "c324af66d4b4",
-      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
+      "id": "4b0b194060fa",
+      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-03T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
-    },
-    {
-      "id": "07441335e9fb",
-      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-02T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
+      "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
     },
     {
       "id": "818bac95001f",
@@ -422,16 +432,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
-    },
-    {
-      "id": "4b0b194060fa",
-      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
     },
     {
       "id": "8471bc6b8bc6",
