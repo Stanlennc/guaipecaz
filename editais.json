@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-04T02:57:19.823970+00:00",
+  "gerado_em": "2026-09-04T10:36:29.080598+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -26,9 +26,18 @@
       "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzlHblVqUXlZbUdfMWhiMXhQdV9NVnlFeXRjakNxbFQwem12LTkxcWlQSkdMcHBDZm5QR0hiY3Z0MFFxQ1RNMW1ZRFpxV1I1elNuX3J1OEtpLWJXQm9jNFVyT0c0YXRvV1dDTE1mdWVmYmJxOWlhZXhEOGdOdEhfMEs0aTJ5T0dXQ29zVEFPNzlmbXJ1S1ZBUTNDX1phS1hkOVBqT25qOHRvUWVsNUZoSE5lSkJOTWxmSllxZ2pxYUVueGJWSkVR?oc=5",
       "fonte": "Repórter Guaibense",
-      "tipo": "edital",
+      "tipo": "licitacao",
       "publicado_em": "2026-07-20T07:00:00+00:00",
-      "feed": "edital"
+      "feed": "licitacao"
+    },
+    {
+      "id": "07945b98a1e5",
+      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQVB6UENxS2otRmFFM2NpR1hGa2JsNzFpMU1RNUxNeVFPdGR1TmZVak1IdWRVbXRZYWVDU2M3TWx5U20zLWFHTnRUeFdzZElQS1VHNmE3aVhuT0lpS0ZPUndPRzlhRlpVQ1J3S2hNazBQTjgxXzZ4LWM1VU5Nb255LWc5TGszV1Z3cVZVWnFyY2ZHdV82Q0x3LWFSNERBVU05aHR4ZS00TXNURmtYbF9ZSlJYTzJQaW9oc2U5T1NYUkt0ZlVmOGZSbEJrQ2N5QzlCMmtEUW9CN3l0RkltdUZyUk9raHE2S3RmTnZEWG9FRQ?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-07-17T07:00:00+00:00",
+      "feed": "vagas"
     },
     {
       "id": "d3c2091518bd",
@@ -55,6 +64,15 @@
       "fonte": "Jornal do Comércio",
       "tipo": "vaga",
       "publicado_em": "2026-06-23T07:00:00+00:00",
+      "feed": "vagas"
+    },
+    {
+      "id": "9215686b765c",
+      "titulo": "Círculo Saúde abre 120 vagas de emprego para a instalação do novo hospital de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQWktdE5rcGhleE9kSHRYa1RqbzFQc3JHLWhYcnBXdFlBdFFQWDhtY2VoM1FNWExuTDVCUzRvYVpYSFpyTTNqb3BPVjNXQ0Qyb3Z6R0hkcVdLUEE1UWIxajhCQmM2RGlQM2ZjeENzUERQWFJIZHFPeVE2STBnWXBWdWhJRnBLSTlkOHZKVU00d3BMYTlEeUNOUnZfbElVY0xXdkpvU2IyVi1YMExMN0RiTk4zNF9SQmMxYjBJaDlHNWszY3VnWXB2cg?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-06-22T07:00:00+00:00",
       "feed": "vagas"
     },
     {
@@ -91,24 +109,6 @@
       "fonte": "Repórter Guaibense",
       "tipo": "vaga",
       "publicado_em": "2026-04-09T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "ef7dc3ed3a53",
-      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego nesta semana; veja a lista",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFYtbTRQaFZPN3YyNEgzUEZHTWZCNXF0OHF5ekdNYzFrOEJSRkFlTjdCVElJeFM4d19BN051aFBneWRKTmRyVVdoc0NUUFcwZG84TV9DenhUdGh0ci1tVFJIWV9DYnp2UXhaRTRZbEdZSUZmTDBtTmR1SlV0S1BjTU01bjZYMWgzRkRFc1pnN3pMSXM0Ti1mNGJDTXQybFN6dUtGYUNJR2hQT1d1ZDlSdldvVHJpUlVUWHc?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-03-25T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "b24e52e6cbd9",
-      "titulo": "Sine oferece mais de 250 vagas de emprego em Guaíba e região; veja a lista",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmVURkNjVTFXRTM3RHo3RDdCYS1nQkZaR2RDSW82TDlQVS1ZM1V1cXcwcHNKNkpSX1owcFFDX1lVMnEwNUZkblFIdFM0TlI4bFFpcEZsNDRmVjZqMHpNMmVaa0lXQk9NbkNPODFLbF84OHlxUkhHUFVnVHdELXc1VDhCY3hGeHp5V25MRzVQVC1jWmhfOWV2SEtsM2VCaEFESHlyNHlhTG5rTEI5UE95QnNkaFh0T1VvYUE?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-03-10T07:00:00+00:00",
       "feed": "vagas"
     }
   ]
