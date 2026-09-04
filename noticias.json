@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-04T18:49:00.818212+00:00",
+  "gerado_em": "2026-09-04T22:07:00.853384+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "07441335e9fb",
-      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-04T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
-    },
-    {
       "id": "bb279e02512f",
       "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
@@ -94,14 +84,14 @@
       "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
     },
     {
-      "id": "c324af66d4b4",
-      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
+      "id": "07441335e9fb",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-04T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
+      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
       "id": "0a160b69ba5b",
@@ -113,14 +103,14 @@
       "feed": "reporter_direto"
     },
     {
-      "id": "818bac95001f",
-      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
+      "id": "c324af66d4b4",
+      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-09-04T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
+      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
       "id": "6658bf088c2d",
@@ -141,6 +131,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
+    },
+    {
+      "id": "818bac95001f",
+      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
+      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
     },
     {
       "id": "821a278c8680",
@@ -179,17 +179,17 @@
       "fonte": "A Hora do Sul",
       "publicado_em": "2026-09-03T21:23:00+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Duplicação da BR-116 entre Guaíba e Pelotas será retomada após liberação de R$ 96 milhões A Hora do Sul"
     },
     {
-      "id": "ec856442ad8d",
+      "id": "2ff3ab4feeee",
       "titulo": "Dmae instala estação de monitoramento do Guaíba em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZUtibDF5eXRlX1BSY2VIam5XVnluVWw5WVd5SE5ZQWFfUzlXdFVvUE5JeUlyclFSQmgzdE00MVl0UzZYRWNZZG1VMzN0S0xuRWwzeXdzelFyaXFZSlFBLVBjU1ZWMFhOeGFjbDFHdkxiMkVsNmluSGt3ZzlVVGRIcHV1ZlBqb1h5NlFCS0pVSUJuVVZtU3FUS3cyUnZ5TVVMWDFxWVVYd0RWLUZ0QWd5OVg0M1pxTGp1U01Lb1Y1RTJJSzRGVFFESFNXS0ZwTW9qa3Q5Qm1mYkFzU1Q1enR1OE8tSy3SAfMBQVVfeXFMT0ZjTjFYN01Ibk1CVDdxQ2xGYThoZmsxcjE0VVlLUlJXMkdhMjVsb2hRUVNKaGlSVFlqYVc2cXVBVEhzQml0cDAxeEpER1FJNXlLd2J2a2JJQ2Fvbl85cWVWNzRsTFFvMDh5V3YxcGt4UU9lQUlWeWpPN2tRR05fbHpVa2ZEWDhrRjBQT2tsYzVqVzZKbXBSU2xGcnZuOHgwMW5sNjQ0ZFdrVDhzYmtxYXAzWjhyV20xZ1h3eHZWaEVHX0xRcDhqN3hrZEtrejgySWFWWW9rbndJT0dUOXF5cFJXcUY4R0N5MjNzUWhUNWZvRlBN?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRmNOMVg3TUhuTUJUN3FDbEZhOGhmazFyMTRVWUtSUlcyR2EyNWxvaFFRU0poaVJUWWphVzZxdUFUSHNCaXRwMDF4SkRHUUk1eUt3YnZrYklDYW9uXzlxZVY3NGxMUW8wOHlXdjFwa3hRT2VBSVZ5ak83a1FHTl9selVrZkRYOGtGMFBPa2xjNWpXNkptcFJTbEZydm44eDAxbmw2NDRkV2tUOHNia3FhcDNaOHJXbTFnWHd4dlZoRUdfTFFwOGo3eGtkS2t6ODJJYVZZb2tud0lPR1Q5cXlwUldxRjhHQ3kyM3NRaFQ1Zm9GUE3SAfMBQVVfeXFMT0ZjTjFYN01Ibk1CVDdxQ2xGYThoZmsxcjE0VVlLUlJXMkdhMjVsb2hRUVNKaGlSVFlqYVc2cXVBVEhzQml0cDAxeEpER1FJNXlLd2J2a2JJQ2Fvbl85cWVWNzRsTFFvMDh5V3YxcGt4UU9lQUlWeWpPN2tRR05fbHpVa2ZEWDhrRjBQT2tsYzVqVzZKbXBSU2xGcnZuOHgwMW5sNjQ0ZFdrVDhzYmtxYXAzWjhyV20xZ1h3eHZWaEVHX0xRcDhqN3hrZEtrejgySWFWWW9rbndJT0dUOXF5cFJXcUY4R0N5MjNzUWhUNWZvRlBN?oc=5",
       "fonte": "G1",
       "publicado_em": "2026-09-03T17:47:38+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Dmae instala estação de monitoramento do Guaíba em Porto Alegre G1"
     },
     {
@@ -223,6 +223,16 @@
       "resumo": "Governo federal destina R$ 26,15 milhões para retomada das obras da nova ponte do Guaíba Rádio Independente"
     },
     {
+      "id": "cec84d559dc2",
+      "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 26",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQT1hRa1gxSmo1X2o5SENpOHlDdWtQd19zMW9QbEREeTU5bjRValdkM0tLbm9SNy1LNTU0RlFNLWk2NkQ3ZWVyYTNtbVEwZGxCeWN2UDVCMkF4S2FEZXU0Z2d5cHB5dWVvQm80dUh3cG9Ec3YwSGNzNmc0RXNxRzRvY1ZQRUlsTDZ6cTFhdEpxR19iaHBKLWktblVoVy1zSUc4SFc0RTFuTWxxQ0YtSi1DcDhzVTNaaTN4TzdJOXhCWmo1VVlWNWFMdWVUbFlPd3poQ1ZSVGZGWTd3U3Fpc2t1VnpRR3NnWDBPNGpReng4U1F5VUhXSGsxWU5pV3RiczM3VjlVbzJIc0s3aWdvV0hTVlV5SlB6aFpVUEhmb0dKamZtdzF2Vnc?oc=5",
+      "fonte": "ArchDaily",
+      "publicado_em": "2026-09-03T05:25:24+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 26 ArchDaily"
+    },
+    {
       "id": "f864ca11d0fa",
       "titulo": "Brasil Beach Games estreia em Porto Alegre com três dias de competições gratuitas na Orla do Guaíba e no Parque Marinha do Brasil",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPOUQzMGlaT0FCajlSNVpVQmJ3ZkZTYlJLXzQzRVZXRmZhd1NGZzRFY1F3QU1rTEhlMGRqbm5TNWgzX0drcEJkbkI5dzhOdmVxVFAxRjRTVlhPZE5faC11bHQ2SGJDa1NaTUNEVXhTUGtPbnI5OTZTd0pfSFpORjN6N2ZXV3lwME1IR2MwMTdzU2s0VEtyM2xabTIyLU9OREtpcHVyM3llaENBM1FubjQxY2Zqb1FTbEtwSm9LY2dPS3ZNZjVZWENwRTIwYUNqQmp1OWhpR2loTGIybEpnU19hakw5NXFzYW9QQktTcDI0RUcxcEdsRUJMcURGYmRJSUxFNWZJZzBMZ1JWbHVpbXc?oc=5",
@@ -231,26 +241,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Brasil Beach Games estreia em Porto Alegre com três dias de competições gratuitas na Orla do Guaíba e no Parque Marinha do Brasil Jornal da Capital"
-    },
-    {
-      "id": "8471bc6b8bc6",
-      "titulo": "Obras da nova Ponte do Guaíba serão retomadas após cinco anos de paralisação",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVmprNFRabnNYTzVna2MzTmtoVUNxdGNUMmM3dlZTYVZMeVF5bk5Rb1FlWXZHbzNrd3dRQ2U1RmgtdkVvS0pwSU9qSHpPcjdPRDVXVkIwNFZsRDQ1TERsUWU5c2tHWFlncmp0b05uSlR0a0VhME9zbm56VVZnTDA3by01T1VyeWlhczFtNmRkRVB0OUtUMnVYQ0I1T2lhejF2MXdqZDl3SEZBZE9oU1pr?oc=5",
-      "fonte": "Studio Notícias",
-      "publicado_em": "2026-09-02T21:28:46+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Obras da nova Ponte do Guaíba serão retomadas após cinco anos de paralisação Studio Notícias"
-    },
-    {
-      "id": "c00cc50dcaca",
-      "titulo": "Obra da nova Ponte do Guaíba será retomada após cinco anos de paralisação – Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRVYtSE5NaU4tRkVEdHhHdkdmN29HU3RyNUM0di1DNW9kc0UxQ1QyZU16ajhSN0lSbk9GRXB6NHBCbkVkUGc2a2g4dUJkOUQ2aDF3cEpNTFprTUhURzNBV3RUVGFxcGVjeTc2TEd0RUhoOVBFa0JjT2ZxamhLNHJuYXVMV0F3NTNNemY5a3hlbDBacWJrcVdaOEtUT3RiRlpxOXRjVlZIaGxwdWxCUW9DRVNSSmhYbG45?oc=5",
-      "fonte": "Porto Alegre 24 Horas",
-      "publicado_em": "2026-09-02T19:25:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Obra da nova Ponte do Guaíba será retomada após cinco anos de paralisação – Notícias Porto Alegre 24 Horas"
     },
     {
       "id": "40141b1ee0ce",
@@ -276,11 +266,11 @@
       "id": "1aa7285cf899",
       "titulo": "#LIMPEOLAGUAÍBA: Evento é lançado oficialmente em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVdoSmRTZ0ZLNDUxSWpsWnFFd3l2NmF5ZTBhZVlxSl9qMXBWQkYwc1FyNnZCMUlDMUZ4cHN0UXdKYUJIWTNGZGxEZmRuTWxSTzV5bXp1TWt1VUVCRmgxLW92VVlnZTVnWTBZWFBrako3bVJIYzcwWkpjQmRoWkszcDRrZ05Rd2ViWGF4cmFrSFhodkltMnZzMDdPWExYSXh0OTUw?oc=5",
-      "fonte": "alohaspiritmidia.com.br",
+      "fonte": "Aloha Spirit Mídia",
       "publicado_em": "2026-09-01T11:36:02+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "#LIMPEOLAGUAÍBA: Evento é lançado oficialmente em Porto Alegre alohaspiritmidia.com.br"
+      "resumo": "#LIMPEOLAGUAÍBA: Evento é lançado oficialmente em Porto Alegre Aloha Spirit Mídia"
     },
     {
       "id": "5c739cf40f36",
@@ -299,7 +289,7 @@
       "fonte": "Correio do Povo",
       "publicado_em": "2026-08-31T21:38:56+00:00",
       "categoria": null,
-      "feed": "correio",
+      "feed": "recentes",
       "resumo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026 Correio do Povo"
     },
     {
@@ -316,11 +306,11 @@
       "id": "eeed75b168e4",
       "titulo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbWF0VmM5c3VLTUZVLU5mQmRMbFFBYk9lTVIxc1M5bmloZkNDS0pOR1h3Y3BENEM5bjZtSmRPNHZtNGIxSi1IVWJSS1lrRzJMaDU1QTlCWFFhaDZldTZuRWdaNFBTbURDYmliSER6anAwbGFrbDJaUjFhdUhqelR2aElXSGc3LWlVLVJXUlBSS1pGekFBVklfdjRKclhFTWltYWExVUJsUi1KdUVabU9nS1lnR0FxYk4tY1cweWR3?oc=5",
-      "fonte": "brasildefato.com.br",
+      "fonte": "Brasil de Fato",
       "publicado_em": "2026-08-31T19:43:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba brasildefato.com.br"
+      "resumo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba Brasil de Fato"
     },
     {
       "id": "6743d7aa0f88",
@@ -343,26 +333,6 @@
       "resumo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço UOL Economia"
     },
     {
-      "id": "0266dc50897e",
-      "titulo": "Record Guaíba e Projeto \"Nós Entre Lugares\" visita General Câmara e distrito histórico",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVU9FNHl2OFNVRTU5OUpoRmpmMS1xS2dieDFsNDM5S2NJMm16Rl95elByNjBwSFZ5Z3BRNkVXYndzZl92VTFuenAwRENzR1J0VERTbEw0bkdxcEZ0V29YQk9jNEpHLXhCXzNVTGVZLV9LRmZxMDhzZUFyaktrRlVXMklZMU50RnZVc2FCZDZiZ1o3OFRRa3BSWFQ5Xy1CQ1g4TlRhNUhfLWlDMWZ0Q0ZxSnJ5UkhWNHBkc19EVmx3d2pLaURMR2NYUkc3NEpsSDNBcHkxQWtSUTBEeHNIdy1LMW9yNA?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-08-28T20:10:18+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Record Guaíba e Projeto \"Nós Entre Lugares\" visita General Câmara e distrito histórico R7"
-    },
-    {
-      "id": "1cac281bd2d3",
-      "titulo": "Homem é condenado a 8 anos e 6 meses por estuprar cunhada embriagada em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTHlyTGpJVU53ZG01RWZvbXlYbm93WmtJeXZtdDczdEZLYVoxT2pQLWhMSjR0NFZoTHdERFlYZkJSakVLbkt0Q2hURTk0dEFqb2VWRlBsbW1LNWlLUmdnSTRjZ3dGd2k0ZXVFcUNmNTVrRy16bmxHbEV2NXBETFZUaW9hb3pwR3JJaERjSFhRMnptNDZaMGZPbXRVN3JaSWltVDRiTGx4eHZOaWtGXzUtWG5sek1uNG5qTUhCREhqeEwzb0ptWnhZcF96R1pzeUNPSk5YWDd1R1ZnMVVCSjZXRVFDbllxWE9KY3VBVVNpa3ZUMkwxTzFtREhBeV9rUjdjSVRJ?oc=5",
-      "fonte": "Terra",
-      "publicado_em": "2026-08-25T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Homem é condenado a 8 anos e 6 meses por estuprar cunhada embriagada em Guaíba Terra"
-    },
-    {
       "id": "c235a85ba366",
       "titulo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNHc2bW5CSklCNlpwMDh1VkdDX2Vyd2UwNnFqVVp0N3VsWThaQU1hWENOSXRIcWVnQThscjFsZUx2T0szSUltdkpLNDlrWHI1SGRaVlNQU2RlVzFlMmJWSHFzUjB5OEJVeEZsMWFMOU93dC1TMWtWeEMtMHdHX293Z3BGQnd4bzZCc2haRnB3XzJ5WmlBeEFsVUZoVzltNzZna2l5WXJNcXE3SmZrZTV1YVBzTGNqRWc4Z1pySUtDOXp0M0hTZDVFd29kaG1lXzczWlA5R2RueS1NNU0?oc=5",
@@ -371,19 +341,39 @@
       "categoria": null,
       "feed": "reporter",
       "resumo": "Hospital Moinhos de Vento promove projeto de saúde mental para atingidos pelas enchentes em Guaíba Repórter Guaibense"
+    },
+    {
+      "id": "222af359a8b8",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTURzNW01X2p1R2RIRjdKWDdhQnRQMnpoakNGckF0andQTEhjUWZTLXkxVzlBVF94bmp2VzB5bE5UQ0I0Nm1GSXNtampTOGtDTUp3SThLdGxybVRoVFNRNmJWZ0JCdnd3SFBaX213OVEtQVItbmI1TTFXSWI3ZUlSLU5BTXJGckE1OExjemxfWHN1RGZRTTBGS3hnX3dFdVRnQ1FjX3lRODlKTTJ4VjYtT04xdlh2YU1qUy1CMzlFUko2VnJfQWhFTkg5LUVZcnpTaFdXOUxPSzhYM1U?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-04T07:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego Repórter Guaibense"
+    },
+    {
+      "id": "599abeda66fe",
+      "titulo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkZwTWVKR3VFNWxYS0ZPTmdDRlZwUGd6LXNPVERzNkFrZWoxa0N6cFl6T3ZvNmZJWG1RYUJMeWJ1TzVhQVA2TGRLc0piSjY2WGc1cWxnMGcyT1dvZHhVOHZBdUdvTl9oM2dDV2pMbzVCM0ZEdmZGRVhiNUZxczlLbDc0cWthZFY2OHBtTHZWYVZ6cTBvZnJmTkx6OWU4SGtmUG5zbWxmX0thUTl6N1ZwN0h2UVhHZUtzRHR4SXhValQ?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-03T07:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Guaíba anuncia o novo quadro de prendas e peões para o 6º Sarandeio Farroupilha Repórter Guaibense"
+    },
+    {
+      "id": "c328ef437e5f",
+      "titulo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM3ZLQmxUdS1jT0o5T095RFE5cjhpLXdnUERhakp2ZGJTdkdxZGpFYWowSWlmdkg2RTZ5cW5zX0pMdEtHbmthMGZnSVN4bFgzTklVUUFxT3RMSXdFXzAtMTkzRXBxWTQyejcwT0lvejFGRldEVzloM0tUWnFxSXRScWhla2NzaXJPTU11SDNwODRnd1AybVlFdGVPUmFJOUlNbDFvQkxiR3A0WS03VnVfTGt6V2xVQzB6djBDQkNjWDU4bGZqTVBrUg?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-07-23T07:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Em situação de alerta, Guaíba divulga site para monitoramento climático em tempo real Repórter Guaibense"
     }
   ],
   "noticias_home": [
-    {
-      "id": "07441335e9fb",
-      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-04T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
-    },
     {
       "id": "bb279e02512f",
       "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
@@ -395,14 +385,14 @@
       "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
     },
     {
-      "id": "c324af66d4b4",
-      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
+      "id": "07441335e9fb",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-04T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
+      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
       "id": "0a160b69ba5b",
@@ -414,14 +404,14 @@
       "feed": "reporter_direto"
     },
     {
-      "id": "818bac95001f",
-      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
+      "id": "c324af66d4b4",
+      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-09-04T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
+      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
       "id": "6658bf088c2d",
@@ -442,6 +432,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
+    },
+    {
+      "id": "818bac95001f",
+      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
+      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
     },
     {
       "id": "821a278c8680",
