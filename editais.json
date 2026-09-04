@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-04T10:36:29.080598+00:00",
+  "gerado_em": "2026-09-04T15:46:04.841026+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -13,22 +13,13 @@
       "feed": "vagas"
     },
     {
-      "id": "66a7f7bdb864",
-      "titulo": "Mercado Livre abre vaga de Auxiliar de Logística em Guaíba com salário de até R$ 2.149 e benefícios",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV00tMGZoeUtZMEJDZzE3OWxIMFlpMUxvbHhUZENsRW5XMUxxX0VvSmZQeWZ1aFJ3REZmenJpUm1NaEpsNV9KTGRwVTlUbzh6WEV2eEZCcE5SdFozUFBac2ZsN1VNam9uOFRkSk83V0pkLWhMQXhJZi1fUUVxSTZFNzhZNXdwX3lEZmV1eGNGVkxWWnZYLTlXZTlXRVdxQUlkUXRBZHJodTNsSzVreG1qdmRUQlE4X2RQNmV0Q0NENzRlZURlclFtSWUzTFREb1J0Zk45WkdCaGtEeXlLX3cxU3RlS3lWci1Tc2c?oc=5",
-      "fonte": "Portal de Camaquã",
-      "tipo": "vaga",
-      "publicado_em": "2026-07-25T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
       "id": "49c16b5cee41",
       "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzlHblVqUXlZbUdfMWhiMXhQdV9NVnlFeXRjakNxbFQwem12LTkxcWlQSkdMcHBDZm5QR0hiY3Z0MFFxQ1RNMW1ZRFpxV1I1elNuX3J1OEtpLWJXQm9jNFVyT0c0YXRvV1dDTE1mdWVmYmJxOWlhZXhEOGdOdEhfMEs0aTJ5T0dXQ29zVEFPNzlmbXJ1S1ZBUTNDX1phS1hkOVBqT25qOHRvUWVsNUZoSE5lSkJOTWxmSllxZ2pxYUVueGJWSkVR?oc=5",
       "fonte": "Repórter Guaibense",
-      "tipo": "licitacao",
+      "tipo": "edital",
       "publicado_em": "2026-07-20T07:00:00+00:00",
-      "feed": "licitacao"
+      "feed": "edital"
     },
     {
       "id": "07945b98a1e5",
@@ -49,12 +40,12 @@
       "feed": "concurso"
     },
     {
-      "id": "efd910ae5dd5",
-      "titulo": "Círculo Saúde abre 120 vagas para dar início às operações da unidade hospitalar de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSklrb1o3WF93cG9GRlNsOVRyVWZzbnRPQllvSFh5UW8tNjRZX2pUdWJ0a0dCenJNa1hsdzJ1VlRJMDBSM0hBS2czSHZWRTFLXzR3YV9NS0J3UXFWVWpvT0RZTHFPVUFGR0h4c1UxaEU0MlhMQjJ3ak8xX093Sm0xSkV3VldJMEhfZlp0QVRxR3N5Q3I2U0tuU0RJMThGa3ZyRXdFRUtlU3VraVBzT2tJWUpjOTVsNjVkZnFQN3pHNkg5NnR0elkzTjdmR0RfRGZkaHNyMmVOb2NqSTJ0RjVPZzZFVE0zZzFJaUx1cVZB?oc=5",
-      "fonte": "Correio do Povo",
+      "id": "a549bed95947",
+      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLTRwSjRyMGRNYWdjci1rSUdRTXk4T1ZpekoxRDJCbFhoeGxDRGl4MXNWTWVQaE5sdjVOdjNlTU93UkpzVnlSSmdVTlJneTdRaE5OLUthajc4N3N1OEI1NmI1Vkh2amFQYWVFWkZIa01sMUh1X0xjSG1FaXdSMklIaDZBR3lna0F0SllmYllLZ0dXZ1JSMjV1aFlPeTlRVTBKalBYdjBEQUVsdk9Ic216QUhmZU11RWJLdjByUkNRUHhVcVZsQ25rWi13djN3ZWFibVhERmt3azYtaFltQVU0?oc=5",
+      "fonte": "Repórter Guaibense",
       "tipo": "vaga",
-      "publicado_em": "2026-06-24T07:00:00+00:00",
+      "publicado_em": "2026-07-14T07:00:00+00:00",
       "feed": "vagas"
     },
     {
@@ -62,6 +53,15 @@
       "titulo": "Nova gestora do hospital de Guaíba abre 120 vagas de emprego no local",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaUNVbzJHd3ZHZVhHNUVQdTZiZ2lKeE5HSWtVS1UtZ0NBVHV1eE9FZURPQkxvTVVPZW85ZlZvcjdPbFFHa1BGY0xuLVpMUW93Q2F1QmZDU0Vna2RQZGxkTV9zTGpoTndtaHdLSlVfY0Nrb1RkaC1vS290NXhEa21BREtoWVAwWHdBWGJVd3YxMHpfUV9IMzE4Rko2WU54OEtWVHdvWHRnZURzQUl2bEFTT1dkSFJmYmpUUi1nVFhmM09hSTdxaXExazJXX2V4XzlXaTZCRg?oc=5",
       "fonte": "Jornal do Comércio",
+      "tipo": "vaga",
+      "publicado_em": "2026-06-23T07:00:00+00:00",
+      "feed": "vagas"
+    },
+    {
+      "id": "99ac890d6af6",
+      "titulo": "Círculo Saúde abre 120 vagas para Hospital de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX1NaMUppQ1pSYWl2OVlCN3BIck1LZ1l6a21mNW45N0szNF9ING1NOW0xZFVjaXQ5U1ZISUxoU0xvUnhWVk1CQzVMRDVXOVJtWElkeWs3WnI3aFdGMXRfS2QzZHlsRlpPXzZ2WWlkVURyMDgzcUhuODRhQWw0aGtkS3dfYkR0S3hDaE1vckU5cy00bHFYa0w4VWdVVU9rNWZWY2tZZjBlLW56TjR2UHR5cXp5T0dhalo0b2k2N2pYeHlRODA1b18tUQ?oc=5",
+      "fonte": "portaldenoticias.com.br",
       "tipo": "vaga",
       "publicado_em": "2026-06-23T07:00:00+00:00",
       "feed": "vagas"
@@ -85,6 +85,15 @@
       "feed": "concurso"
     },
     {
+      "id": "0dbcc92cd927",
+      "titulo": "Guaíba lança edital de R$ 1,5 milhão para projetos voltados a crianças e adolescentes",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3M5UXVob3JwbnczZU1fZ2xOYjNJakRUS2U4dG8xZW5PNUdzak5FOUxFRXRUYm93djRxQ2VwUGJfMzdfVVVucjM0ekMwNzNIeHFPbTZHSjJxU1BDUHFxM3RlRmFSMjdnZzZiMXM5RHBWSTNUaEo2d01nX2xQWG5mekllUjlhWU1US3h0WjZkTncxZGR6V0lPT3k2SGZhQzV5R1lVSGQ0WHFHU25aYk5XRmJLUXV5VDlvWnpTMUlaQmdLd3Y5RE1FVQ?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "licitacao",
+      "publicado_em": "2026-05-15T07:00:00+00:00",
+      "feed": "licitacao"
+    },
+    {
       "id": "d3131a89b6d1",
       "titulo": "Rotary Guaíba e Secretaria de Educação divulgam o 4º Concurso Escolar de Oratória",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFhxakQwUmZLRzhCVGlEOGQtQmcyX2VlcjkwRVEzNXVWaFYzTkRjaUFFbEdVQTVlS25JQ2d3U0lDM0d6TUhZcUduX2c1SmVTSW9HY2U2R2tLZXN0SFpNUlA2VWVRRHVsV3p4SVE2bVkyYnBQeGhHeVF0OE5UclJkTXRGTUxQV0FwY0tuZXAzZEJ6cEZGUGJwRmJFWXEzQVdJaVJvcEFUb0N2WUFmbzdqbGp0ZFprUFFqdFZyLVRtTWZISGM?oc=5",
@@ -100,15 +109,6 @@
       "fonte": "Repórter Guaibense",
       "tipo": "vaga",
       "publicado_em": "2026-04-23T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "8cf47856226c",
-      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego e realiza entrevistas para oportunidades em Eldorado do Sul",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTmtMNVFaY0RYYjlraklQYzhtRFgzV3B1M1hCQXVFUHpwNHU3ejJRT2Q0UWdJUll1UnJZQnBITmlscFdYRkNIX0RXYzAzWEVEZVVqblUxbTQ2MGg0aEt2Z0tWTFVIZzBmT2wwREFoYWlhRnRINWxfYm82eXNWRE5JdkdQenB6T3pRUGNIWGxZQ284Q1hvRzY1Vnh4UGFmNTlIRDlBQm8wb3RwaVpUVk9manVINHk3U1lGSzhmeEtlV0NWRzAwSFgyNXU5UFQzMzUwOE1rZlI0Z0w4Ymt3OWRqbm8zS0hFa2s?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-04-09T07:00:00+00:00",
       "feed": "vagas"
     }
   ]
