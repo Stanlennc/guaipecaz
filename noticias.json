@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-05T13:15:14.137851+00:00",
+  "gerado_em": "2026-09-05T16:32:40.465660+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,16 @@
   ],
   "noticias": [
     {
+      "id": "07441335e9fb",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-05T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
+    },
+    {
       "id": "0a160b69ba5b",
       "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
@@ -91,16 +101,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
-    },
-    {
-      "id": "07441335e9fb",
-      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-05T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
       "id": "c324af66d4b4",
@@ -153,6 +153,16 @@
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
     },
     {
+      "id": "5542bc91c39f",
+      "titulo": "Gasolina sobe em Guaíba (RS) nesta semana; veja preço do litro",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMDVtc1BHSGh2OFdhMFNkNm8wMy13cmhmaDF0OEN5RUZvQWN4WDBpMk9YdkQxS0hjZHlKVmlnLW5ob3ZLVGRGSXMxc2dOSlI2ZDFVV2hNYmVxVk1vLVNWWmw0Mm40TGhVb3lmelpLMVF1R2NqZ2tvT0RlZS1BYndIODNOZkZfbVFHVHdEUlNKc1dnU1NwMkNoTEcwVXVrRmtOc3M1bnZ6TndPNGJiY1B4dm9uVE10c1REYkxRWQ?oc=5",
+      "fonte": "UOL Economia",
+      "publicado_em": "2026-09-05T10:46:33+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Gasolina sobe em Guaíba (RS) nesta semana; veja preço do litro UOL Economia"
+    },
+    {
       "id": "a84c9f28f00d",
       "titulo": "Já ouviu falar no monstro do Guaíba?",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QQnhpYmtTbXhZODN0NkpmSjFON0tOd1ZlZGZmNzlJTnk0ZV94Wk1ubS0wQ0VTdjNORGowTzloVnlBckROUjVndUE5N216aDRSOWthZWdWZWNHVzdDV2hXZ3VCNkJMZVVCU3U2a2g2TWVDMVhE?oc=5",
@@ -176,11 +186,11 @@
       "id": "c9c233c6ee35",
       "titulo": "Homem é preso com drogas, arma e equipamentos usados no tráfico em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRllPclFEd0huUGpJOVBrRVJyUmotckZLQWxMY1JZTGhZQ2E3SEhaZjdvYjZYWkxCWkEyb0hGeWZ0WEgtSWw1YTFLazZqeWF1cl9YbHBCd3RsWm9ZOVRkbEQ4bUlDZEJVNnpwMUhmZWVjbFZ6ODdwZk9rNXFlQTBLWkFaX2RTOERBX011eTJOeFJQYXpLOGJYNEFveGtCUEdZdXNUMkdFRXk4ei1mNjMyYk04eFd3ZVY3VVMzajZWTmRhREJiSW43Y0hXa2hFVEJoUTBGaUV2NnMyQ1Z5SlJ5TExDS0ZSMlFic19xVkJVWWNKVUx3YlpWejlsWQ?oc=5",
-      "fonte": "Terra",
+      "fonte": "terra.com.br",
       "publicado_em": "2026-09-04T11:58:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Homem é preso com drogas, arma e equipamentos usados no tráfico em Guaíba Terra"
+      "resumo": "Homem é preso com drogas, arma e equipamentos usados no tráfico em Guaíba terra.com.br"
     },
     {
       "id": "9ba83b947f93",
@@ -193,13 +203,13 @@
       "resumo": "Duplicação da BR-116 entre Guaíba e Pelotas será retomada após liberação de R$ 96 milhões A Hora do Sul"
     },
     {
-      "id": "2ff3ab4feeee",
+      "id": "ec856442ad8d",
       "titulo": "Dmae instala estação de monitoramento do Guaíba em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRmNOMVg3TUhuTUJUN3FDbEZhOGhmazFyMTRVWUtSUlcyR2EyNWxvaFFRU0poaVJUWWphVzZxdUFUSHNCaXRwMDF4SkRHUUk1eUt3YnZrYklDYW9uXzlxZVY3NGxMUW8wOHlXdjFwa3hRT2VBSVZ5ak83a1FHTl9selVrZkRYOGtGMFBPa2xjNWpXNkptcFJTbEZydm44eDAxbmw2NDRkV2tUOHNia3FhcDNaOHJXbTFnWHd4dlZoRUdfTFFwOGo3eGtkS2t6ODJJYVZZb2tud0lPR1Q5cXlwUldxRjhHQ3kyM3NRaFQ1Zm9GUE3SAfMBQVVfeXFMT0ZjTjFYN01Ibk1CVDdxQ2xGYThoZmsxcjE0VVlLUlJXMkdhMjVsb2hRUVNKaGlSVFlqYVc2cXVBVEhzQml0cDAxeEpER1FJNXlLd2J2a2JJQ2Fvbl85cWVWNzRsTFFvMDh5V3YxcGt4UU9lQUlWeWpPN2tRR05fbHpVa2ZEWDhrRjBQT2tsYzVqVzZKbXBSU2xGcnZuOHgwMW5sNjQ0ZFdrVDhzYmtxYXAzWjhyV20xZ1h3eHZWaEVHX0xRcDhqN3hrZEtrejgySWFWWW9rbndJT0dUOXF5cFJXcUY4R0N5MjNzUWhUNWZvRlBN?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZUtibDF5eXRlX1BSY2VIam5XVnluVWw5WVd5SE5ZQWFfUzlXdFVvUE5JeUlyclFSQmgzdE00MVl0UzZYRWNZZG1VMzN0S0xuRWwzeXdzelFyaXFZSlFBLVBjU1ZWMFhOeGFjbDFHdkxiMkVsNmluSGt3ZzlVVGRIcHV1ZlBqb1h5NlFCS0pVSUJuVVZtU3FUS3cyUnZ5TVVMWDFxWVVYd0RWLUZ0QWd5OVg0M1pxTGp1U01Lb1Y1RTJJSzRGVFFESFNXS0ZwTW9qa3Q5Qm1mYkFzU1Q1enR1OE8tSy3SAfMBQVVfeXFMT0ZjTjFYN01Ibk1CVDdxQ2xGYThoZmsxcjE0VVlLUlJXMkdhMjVsb2hRUVNKaGlSVFlqYVc2cXVBVEhzQml0cDAxeEpER1FJNXlLd2J2a2JJQ2Fvbl85cWVWNzRsTFFvMDh5V3YxcGt4UU9lQUlWeWpPN2tRR05fbHpVa2ZEWDhrRjBQT2tsYzVqVzZKbXBSU2xGcnZuOHgwMW5sNjQ0ZFdrVDhzYmtxYXAzWjhyV20xZ1h3eHZWaEVHX0xRcDhqN3hrZEtrejgySWFWWW9rbndJT0dUOXF5cFJXcUY4R0N5MjNzUWhUNWZvRlBN?oc=5",
       "fonte": "G1",
       "publicado_em": "2026-09-03T17:47:38+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Dmae instala estação de monitoramento do Guaíba em Porto Alegre G1"
     },
     {
@@ -233,6 +243,16 @@
       "resumo": "Governo federal destina R$ 26,15 milhões para retomada das obras da nova ponte do Guaíba Rádio Independente"
     },
     {
+      "id": "cec84d559dc2",
+      "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 26",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQT1hRa1gxSmo1X2o5SENpOHlDdWtQd19zMW9QbEREeTU5bjRValdkM0tLbm9SNy1LNTU0RlFNLWk2NkQ3ZWVyYTNtbVEwZGxCeWN2UDVCMkF4S2FEZXU0Z2d5cHB5dWVvQm80dUh3cG9Ec3YwSGNzNmc0RXNxRzRvY1ZQRUlsTDZ6cTFhdEpxR19iaHBKLWktblVoVy1zSUc4SFc0RTFuTWxxQ0YtSi1DcDhzVTNaaTN4TzdJOXhCWmo1VVlWNWFMdWVUbFlPd3poQ1ZSVGZGWTd3U3Fpc2t1VnpRR3NnWDBPNGpReng4U1F5VUhXSGsxWU5pV3RiczM3VjlVbzJIc0s3aWdvV0hTVlV5SlB6aFpVUEhmb0dKamZtdzF2Vnc?oc=5",
+      "fonte": "archdaily.com",
+      "publicado_em": "2026-09-03T05:25:24+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 26 archdaily.com"
+    },
+    {
       "id": "f864ca11d0fa",
       "titulo": "Brasil Beach Games estreia em Porto Alegre com três dias de competições gratuitas na Orla do Guaíba e no Parque Marinha do Brasil",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPOUQzMGlaT0FCajlSNVpVQmJ3ZkZTYlJLXzQzRVZXRmZhd1NGZzRFY1F3QU1rTEhlMGRqbm5TNWgzX0drcEJkbkI5dzhOdmVxVFAxRjRTVlhPZE5faC11bHQ2SGJDa1NaTUNEVXhTUGtPbnI5OTZTd0pfSFpORjN6N2ZXV3lwME1IR2MwMTdzU2s0VEtyM2xabTIyLU9OREtpcHVyM3llaENBM1FubjQxY2Zqb1FTbEtwSm9LY2dPS3ZNZjVZWENwRTIwYUNqQmp1OWhpR2loTGIybEpnU19hakw5NXFzYW9QQktTcDI0RUcxcEdsRUJMcURGYmRJSUxFNWZJZzBMZ1JWbHVpbXc?oc=5",
@@ -241,16 +261,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Brasil Beach Games estreia em Porto Alegre com três dias de competições gratuitas na Orla do Guaíba e no Parque Marinha do Brasil Jornal da Capital"
-    },
-    {
-      "id": "1604b50aa11c",
-      "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 5",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOV254NXlXR21COG5EUUM2c3ZDbGRMNmNuR1JmNVdYbVV5TVBxTGhXcm9fMXd6cm5zY0NBTHhsQkdEa2RiU01FQUtLZnREQldqLU5ZM04xWkpqRDdQYW1pVnRFWEFNMXl1ZUtRNjFQWGRpcHYta0FMVXlXSXdyS3JuN1BIYlg0cnZ3ZG9DN3RULXpyOGUxd2M1UjZJWjI1Ykx3N19FdlJPRTZXY2FVZWI3dVlscGdDaHF5U0N3MXdzbktLUHNJeUthOTVaSXo4M2hLTzdad2dJcng5bkRtSEhWVTN1ckRQWkdSS1NZZHlyS3NTS1hqMmotSE9XX3VFVmJQRTFBZmc2cWNfaGpnb3VrOEoyYWxQYVlWdjJwOFZaWnVYT0FxbGc?oc=5",
-      "fonte": "ArchDaily",
-      "publicado_em": "2026-09-02T22:09:43+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 5 ArchDaily"
     },
     {
       "id": "8471bc6b8bc6",
@@ -293,14 +303,24 @@
       "resumo": "Governo federal destina R$ 26 milhões para conclusão da nova Ponte do Guaíba Rádio Guaíba"
     },
     {
+      "id": "f89f230d7111",
+      "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 28",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNdUg2bkVMT3ZNTF9XZmsxVWIxMl9BSHUwZXd4SFg1d0NsNWFPSkV6WkVaekNlUzFSTlY3X2xnUlRkQ0EwaGpmYktoek5xYkh4NDZJVEotOXJJdExDbEhiVzZFVTFJU1VTZGNGdVdjZjlxMkFGTkJ6U21hLWlTMnpMVzU2X2tMaDZlanpjN0x2ZVd5aFhCa1lpOGZoN1A2U05JOTNHQTNjR051YWc5d2dkdk1rRTlUclhKLVAySVRqVmM2aV9tSEVlQjJURlk3a1cyM3NJMG90eGQ3dF8zeHduWUNfQkxDZlpyMFpoM2pfXzFJMkgzUjVpUmVVN0dDVzNLV0FtcGtRNTV5d0xtVWM3OTRzYkhLNHF2eWpuQkJlYldXNDBXa2FjZ0hlMTd1dTA?oc=5",
+      "fonte": "archdaily.com",
+      "publicado_em": "2026-09-01T19:32:57+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 28 archdaily.com"
+    },
+    {
       "id": "aaa8a58c6b4e",
       "titulo": "Projeto de empresa catarinense entra na reta final em Guaíba e mira novo ciclo de desenvolvimento",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOblBIUy1EejhXVS1abDUzQVVpeDhON0tXS3JyakhONjE0eEFHR3hNdlVJMHlhbEU3OHAtQWxNVGRsbXNTUHk5MGRxSnUxX3JKeVh5QzFPTTI3SFZxc21Id2NYOGhnNzJ3a3Nyb2dBWFpjUm1VRHl0Z2NfZmQ4djltYzVlWDVWSlVwaDB3UkdCU3pWVFZqTGM5RXozWHlkbHZfWlQtckF6bWs0TGxnb0dnMVdsZkhaYkx4Smg1R0ZoR09Qdw?oc=5",
-      "fonte": "portallitoralsul.com.br",
+      "fonte": "Portal Litoral Sul",
       "publicado_em": "2026-09-01T12:28:30+00:00",
       "categoria": null,
       "feed": "litoral",
-      "resumo": "Projeto de empresa catarinense entra na reta final em Guaíba e mira novo ciclo de desenvolvimento portallitoralsul.com.br"
+      "resumo": "Projeto de empresa catarinense entra na reta final em Guaíba e mira novo ciclo de desenvolvimento Portal Litoral Sul"
     },
     {
       "id": "1aa7285cf899",
@@ -351,29 +371,19 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba Brasil de Fato"
-    },
-    {
-      "id": "6743d7aa0f88",
-      "titulo": "Porto Alegre instala barreiras móveis inéditas para proteger bairro contra cheias do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbXZranllNUpoZ1dmbXhVZkZJNWlybEQ4bjFBNGFBVFpseG9QLUZBSzR1SEJuVEI4MHl3bWpFUWZLbHd0RVVlMF9fZ1M5c2hMcWtkTjhRVzlLcF9UcFEwZFJKRUpQdTl0cnBVbzlVSnZESWkyeFU2djc4MC11ZXRXLXhDX0U2TEpJeVRTRUNXeXNTbHpiV2laS2ZnYVBRM2ZsN1Z3QWdPenpoRTNyZTFfcVFHVEVwYUpodmpMVjFjMXQwRzhacVM1dzNKcjdLTktrX1YzSEYyZFhtcTdQNTEta3pTdlBmYlZqUGsxYUd6MXFjN0RWeW44U1dqWDFUNTRP?oc=5",
-      "fonte": "Terra",
-      "publicado_em": "2026-08-31T18:05:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Porto Alegre instala barreiras móveis inéditas para proteger bairro contra cheias do Guaíba Terra"
-    },
-    {
-      "id": "126fb1c2b43c",
-      "titulo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSkdjRE1QdzdNcHowS1V4U0d6SEdGVkpQM2VzTWFIclBSMFBpNTB2cFJvNmJTX3BmUlBPbDMwRFRvZU1tT0FmS2N1R0ZLTVRZRUE1NnFiT3NxczhtaE50R3BjMWc1V0dMUTdUTUttd0lsUk5OcGFkQ19kWEs0a05pVm5yQ0dublBIMWNSUkJZOHVEbC04My1ZcFc5SnBaN2lCcm1QNV9OODl4Q245amFwenR5Smk5aTBjcHo0ZnRNb2ZBMHBkMEJIYW5JWFdCRUU5QlE0?oc=5",
-      "fonte": "UOL Economia",
-      "publicado_em": "2026-08-29T09:11:53+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço UOL Economia"
     }
   ],
   "noticias_home": [
+    {
+      "id": "07441335e9fb",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-05T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
+    },
     {
       "id": "0a160b69ba5b",
       "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
@@ -392,16 +402,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
-    },
-    {
-      "id": "07441335e9fb",
-      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-05T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
       "id": "c324af66d4b4",
