@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-05T21:58:19.561941+00:00",
+  "gerado_em": "2026-09-05T23:42:40.801115+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,15 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-05T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
       "id": "bb279e02512f",
       "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
@@ -103,6 +94,15 @@
       "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-05T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
       "id": "07441335e9fb",
       "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
@@ -111,16 +111,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A atividade faz parte da nova fase do Visão Solidária"
-    },
-    {
-      "id": "6658bf088c2d",
-      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-sobrecarga-de-atendimentos-guaiba-podera-ter-o-segundo-conselho-tutelar-em-2028",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
     },
     {
       "id": "4b0b194060fa",
@@ -141,6 +131,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
+    },
+    {
+      "id": "6658bf088c2d",
+      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-sobrecarga-de-atendimentos-guaiba-podera-ter-o-segundo-conselho-tutelar-em-2028",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
     },
     {
       "id": "821a278c8680",
@@ -166,11 +166,11 @@
       "id": "a84c9f28f00d",
       "titulo": "Já ouviu falar no monstro do Guaíba?",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QQnhpYmtTbXhZODN0NkpmSjFON0tOd1ZlZGZmNzlJTnk0ZV94Wk1ubS0wQ0VTdjNORGowTzloVnlBckROUjVndUE5N216aDRSOWthZWdWZWNHVzdDV2hXZ3VCNkJMZVVCU3U2a2g2TWVDMVhE?oc=5",
-      "fonte": "radiopampa.com.br",
+      "fonte": "Rádio Pampa",
       "publicado_em": "2026-09-05T03:33:34+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Já ouviu falar no monstro do Guaíba? radiopampa.com.br"
+      "resumo": "Já ouviu falar no monstro do Guaíba? Rádio Pampa"
     },
     {
       "id": "78f6d04d6a43",
@@ -263,14 +263,24 @@
       "resumo": "Brasil Beach Games estreia em Porto Alegre com três dias de competições gratuitas na Orla do Guaíba e no Parque Marinha do Brasil Jornal da Capital"
     },
     {
+      "id": "1604b50aa11c",
+      "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 5",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOV254NXlXR21COG5EUUM2c3ZDbGRMNmNuR1JmNVdYbVV5TVBxTGhXcm9fMXd6cm5zY0NBTHhsQkdEa2RiU01FQUtLZnREQldqLU5ZM04xWkpqRDdQYW1pVnRFWEFNMXl1ZUtRNjFQWGRpcHYta0FMVXlXSXdyS3JuN1BIYlg0cnZ3ZG9DN3RULXpyOGUxd2M1UjZJWjI1Ykx3N19FdlJPRTZXY2FVZWI3dVlscGdDaHF5U0N3MXdzbktLUHNJeUthOTVaSXo4M2hLTzdad2dJcng5bkRtSEhWVTN1ckRQWkdSS1NZZHlyS3NTS1hqMmotSE9XX3VFVmJQRTFBZmc2cWNfaGpnb3VrOEoyYWxQYVlWdjJwOFZaWnVYT0FxbGc?oc=5",
+      "fonte": "ArchDaily",
+      "publicado_em": "2026-09-02T22:09:43+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 5 ArchDaily"
+    },
+    {
       "id": "9812d8f96c77",
       "titulo": "Dois prêmios internacionais de arquitetura em um único prédio à beira do Guaíba: a capital gaúcha do pôr do sol mais fotografado do país",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVmRUZjhtMXF0TUtFSC13Vzh1THFXRm5MSGg0emlTVFZrdVo4SjQ2NGNuZXZLblVCbi11NTEtRkZGREctNTdRZnE1SHNsRlF4ZFZ6a0I2MnpEVU5HcmFRSEJkU08ydlhZSXhDWXdYeXgtSmtSVkVTVDczckhId2RiWlM2dU5Id21hSlFqREkyVGNEclJ0SEQzV0pROVJhNkx4aGRPazhrV1JfTkpILUJwd0sySnluRkh1bmxPdERGa0JOeVl1MWp6NEs4d0VjWC14UzNZRGNRVWVJVEN0S0NxLWwzTEhobXJFVjdkRElobzVMYzFvLU96N0NDS25PN1VLSmQzWEsxemVrUVRaejhqMHBn?oc=5",
-      "fonte": "Brasil 247",
+      "fonte": "brasil247.com",
       "publicado_em": "2026-09-02T21:15:00+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Dois prêmios internacionais de arquitetura em um único prédio à beira do Guaíba: a capital gaúcha do pôr do sol mais fotografado do país Brasil 247"
+      "resumo": "Dois prêmios internacionais de arquitetura em um único prédio à beira do Guaíba: a capital gaúcha do pôr do sol mais fotografado do país brasil247.com"
     },
     {
       "id": "40141b1ee0ce",
@@ -293,14 +303,14 @@
       "resumo": "Evento gratuito celebra 80 anos de Sesc e Senac com Rock de Galpão, Frank Jorge e mais de 50 atividades na Orla do Guaíba Super Transado"
     },
     {
-      "id": "f89f230d7111",
-      "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 28",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNdUg2bkVMT3ZNTF9XZmsxVWIxMl9BSHUwZXd4SFg1d0NsNWFPSkV6WkVaekNlUzFSTlY3X2xnUlRkQ0EwaGpmYktoek5xYkh4NDZJVEotOXJJdExDbEhiVzZFVTFJU1VTZGNGdVdjZjlxMkFGTkJ6U21hLWlTMnpMVzU2X2tMaDZlanpjN0x2ZVd5aFhCa1lpOGZoN1A2U05JOTNHQTNjR051YWc5d2dkdk1rRTlUclhKLVAySVRqVmM2aV9tSEVlQjJURlk3a1cyM3NJMG90eGQ3dF8zeHduWUNfQkxDZlpyMFpoM2pfXzFJMkgzUjVpUmVVN0dDVzNLV0FtcGtRNTV5d0xtVWM3OTRzYkhLNHF2eWpuQkJlYldXNDBXa2FjZ0hlMTd1dTA?oc=5",
-      "fonte": "ArchDaily",
-      "publicado_em": "2026-09-01T19:32:57+00:00",
+      "id": "ccdd51f98255",
+      "titulo": "Mudança em Porto Alegre: fila na Guaíba, corredor e o baú que não pode errar o horário",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUXhsQjl4aGl2M29nVE9kRXhMdVJnRmFxYXMwMlBYNWxySm9PdWIweWdwU3d1Sm9vdWNvSjNuazJRbmx3UUlneXdrVmZmTU11LUJRQ3Q0a0lua3c1cllaTVpzcXJIY21SNWNkdU5nRU5zVmhwS3lUVW9NQmxGNFA2VkVqcmZQemQySWVzQ0JQSlBqTV9ReWpGa0RfQ1pZTmdvOXdYUy0wbUpMMjN5QmowTHQzSC15b1ljcWlTMWJVVQ?oc=5",
+      "fonte": "mobilidadeportoalegre.com.br",
+      "publicado_em": "2026-09-01T18:28:34+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 28 ArchDaily"
+      "resumo": "Mudança em Porto Alegre: fila na Guaíba, corredor e o baú que não pode errar o horário mobilidadeportoalegre.com.br"
     },
     {
       "id": "aaa8a58c6b4e",
@@ -361,28 +371,9 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba Brasil de Fato"
-    },
-    {
-      "id": "6743d7aa0f88",
-      "titulo": "Porto Alegre instala barreiras móveis inéditas para proteger bairro contra cheias do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbXZranllNUpoZ1dmbXhVZkZJNWlybEQ4bjFBNGFBVFpseG9QLUZBSzR1SEJuVEI4MHl3bWpFUWZLbHd0RVVlMF9fZ1M5c2hMcWtkTjhRVzlLcF9UcFEwZFJKRUpQdTl0cnBVbzlVSnZESWkyeFU2djc4MC11ZXRXLXhDX0U2TEpJeVRTRUNXeXNTbHpiV2laS2ZnYVBRM2ZsN1Z3QWdPenpoRTNyZTFfcVFHVEVwYUpodmpMVjFjMXQwRzhacVM1dzNKcjdLTktrX1YzSEYyZFhtcTdQNTEta3pTdlBmYlZqUGsxYUd6MXFjN0RWeW44U1dqWDFUNTRP?oc=5",
-      "fonte": "Terra",
-      "publicado_em": "2026-08-31T18:05:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Porto Alegre instala barreiras móveis inéditas para proteger bairro contra cheias do Guaíba Terra"
     }
   ],
   "noticias_home": [
-    {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-05T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
     {
       "id": "bb279e02512f",
       "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
@@ -404,6 +395,15 @@
       "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-05T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
       "id": "07441335e9fb",
       "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
@@ -412,16 +412,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A atividade faz parte da nova fase do Visão Solidária"
-    },
-    {
-      "id": "6658bf088c2d",
-      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-sobrecarga-de-atendimentos-guaiba-podera-ter-o-segundo-conselho-tutelar-em-2028",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
     },
     {
       "id": "4b0b194060fa",
@@ -442,6 +432,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
+    },
+    {
+      "id": "6658bf088c2d",
+      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-sobrecarga-de-atendimentos-guaiba-podera-ter-o-segundo-conselho-tutelar-em-2028",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
     },
     {
       "id": "821a278c8680",
