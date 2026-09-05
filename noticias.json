@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-05T16:32:40.465660+00:00",
+  "gerado_em": "2026-09-05T19:56:58.720808+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,25 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "07441335e9fb",
-      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-05T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
-    },
-    {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-05T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
       "id": "bb279e02512f",
       "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
@@ -101,6 +82,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+    },
+    {
+      "id": "07441335e9fb",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-05T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
       "id": "c324af66d4b4",
@@ -113,14 +104,23 @@
       "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
-      "id": "6658bf088c2d",
-      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-sobrecarga-de-atendimentos-guaiba-podera-ter-o-segundo-conselho-tutelar-em-2028",
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-05T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
+      "id": "4b0b194060fa",
+      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
+      "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
     },
     {
       "id": "818bac95001f",
@@ -133,14 +133,14 @@
       "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
     },
     {
-      "id": "4b0b194060fa",
-      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
+      "id": "6658bf088c2d",
+      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-sobrecarga-de-atendimentos-guaiba-podera-ter-o-segundo-conselho-tutelar-em-2028",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
+      "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
     },
     {
       "id": "821a278c8680",
@@ -186,11 +186,11 @@
       "id": "c9c233c6ee35",
       "titulo": "Homem é preso com drogas, arma e equipamentos usados no tráfico em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRllPclFEd0huUGpJOVBrRVJyUmotckZLQWxMY1JZTGhZQ2E3SEhaZjdvYjZYWkxCWkEyb0hGeWZ0WEgtSWw1YTFLazZqeWF1cl9YbHBCd3RsWm9ZOVRkbEQ4bUlDZEJVNnpwMUhmZWVjbFZ6ODdwZk9rNXFlQTBLWkFaX2RTOERBX011eTJOeFJQYXpLOGJYNEFveGtCUEdZdXNUMkdFRXk4ei1mNjMyYk04eFd3ZVY3VVMzajZWTmRhREJiSW43Y0hXa2hFVEJoUTBGaUV2NnMyQ1Z5SlJ5TExDS0ZSMlFic19xVkJVWWNKVUx3YlpWejlsWQ?oc=5",
-      "fonte": "terra.com.br",
+      "fonte": "Terra",
       "publicado_em": "2026-09-04T11:58:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Homem é preso com drogas, arma e equipamentos usados no tráfico em Guaíba terra.com.br"
+      "resumo": "Homem é preso com drogas, arma e equipamentos usados no tráfico em Guaíba Terra"
     },
     {
       "id": "9ba83b947f93",
@@ -246,11 +246,11 @@
       "id": "cec84d559dc2",
       "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 26",
       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQT1hRa1gxSmo1X2o5SENpOHlDdWtQd19zMW9QbEREeTU5bjRValdkM0tLbm9SNy1LNTU0RlFNLWk2NkQ3ZWVyYTNtbVEwZGxCeWN2UDVCMkF4S2FEZXU0Z2d5cHB5dWVvQm80dUh3cG9Ec3YwSGNzNmc0RXNxRzRvY1ZQRUlsTDZ6cTFhdEpxR19iaHBKLWktblVoVy1zSUc4SFc0RTFuTWxxQ0YtSi1DcDhzVTNaaTN4TzdJOXhCWmo1VVlWNWFMdWVUbFlPd3poQ1ZSVGZGWTd3U3Fpc2t1VnpRR3NnWDBPNGpReng4U1F5VUhXSGsxWU5pV3RiczM3VjlVbzJIc0s3aWdvV0hTVlV5SlB6aFpVUEhmb0dKamZtdzF2Vnc?oc=5",
-      "fonte": "archdaily.com",
+      "fonte": "ArchDaily",
       "publicado_em": "2026-09-03T05:25:24+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 26 archdaily.com"
+      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 26 ArchDaily"
     },
     {
       "id": "f864ca11d0fa",
@@ -261,16 +261,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Brasil Beach Games estreia em Porto Alegre com três dias de competições gratuitas na Orla do Guaíba e no Parque Marinha do Brasil Jornal da Capital"
-    },
-    {
-      "id": "8471bc6b8bc6",
-      "titulo": "Obras da nova Ponte do Guaíba serão retomadas após cinco anos de paralisação",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVmprNFRabnNYTzVna2MzTmtoVUNxdGNUMmM3dlZTYVZMeVF5bk5Rb1FlWXZHbzNrd3dRQ2U1RmgtdkVvS0pwSU9qSHpPcjdPRDVXVkIwNFZsRDQ1TERsUWU5c2tHWFlncmp0b05uSlR0a0VhME9zbm56VVZnTDA3by01T1VyeWlhczFtNmRkRVB0OUtUMnVYQ0I1T2lhejF2MXdqZDl3SEZBZE9oU1pr?oc=5",
-      "fonte": "studio.tv.br",
-      "publicado_em": "2026-09-02T21:28:46+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Obras da nova Ponte do Guaíba serão retomadas após cinco anos de paralisação studio.tv.br"
     },
     {
       "id": "9812d8f96c77",
@@ -303,14 +293,24 @@
       "resumo": "Governo federal destina R$ 26 milhões para conclusão da nova Ponte do Guaíba Rádio Guaíba"
     },
     {
+      "id": "561434887bfa",
+      "titulo": "Evento gratuito celebra 80 anos de Sesc e Senac com Rock de Galpão, Frank Jorge e mais de 50 atividades na Orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVnhkYVFoc2hWMzcwTVF4a0RpeG80WEhvS0x6VThfelVJeE9MR1kwcnVrc1JJbkF2Q2QyRHFHVXRyb0kzc2ZIZU5hMFZ5Q2FZeEZqM3NOLTA0cVFJVTFMbXBhYTE1NWEtQ0FORTBGbHk4TGR6T182ZjVRcGF0dDlrTS16clF6V2x2bHBLZkVmcnVPZkI3N3BHVDZJc2tKVC1vZkFOdjdSZ1FaS1BhQ2k0bWNlTmxwYmpIeEtYYkNPOUdyWHpXWEt2dE44ZmNEY1hqZFFHYVJ0eTBxVDZ2TjRFSTFvTmxOZUs5a3ZiYnlsQVl2ZTZKdDFhV1hRMGtaZndjTVpfRA?oc=5",
+      "fonte": "supertransado.com.br",
+      "publicado_em": "2026-09-02T12:50:35+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Evento gratuito celebra 80 anos de Sesc e Senac com Rock de Galpão, Frank Jorge e mais de 50 atividades na Orla do Guaíba supertransado.com.br"
+    },
+    {
       "id": "f89f230d7111",
       "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 28",
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNdUg2bkVMT3ZNTF9XZmsxVWIxMl9BSHUwZXd4SFg1d0NsNWFPSkV6WkVaekNlUzFSTlY3X2xnUlRkQ0EwaGpmYktoek5xYkh4NDZJVEotOXJJdExDbEhiVzZFVTFJU1VTZGNGdVdjZjlxMkFGTkJ6U21hLWlTMnpMVzU2X2tMaDZlanpjN0x2ZVd5aFhCa1lpOGZoN1A2U05JOTNHQTNjR051YWc5d2dkdk1rRTlUclhKLVAySVRqVmM2aV9tSEVlQjJURlk3a1cyM3NJMG90eGQ3dF8zeHduWUNfQkxDZlpyMFpoM2pfXzFJMkgzUjVpUmVVN0dDVzNLV0FtcGtRNTV5d0xtVWM3OTRzYkhLNHF2eWpuQkJlYldXNDBXa2FjZ0hlMTd1dTA?oc=5",
-      "fonte": "archdaily.com",
+      "fonte": "ArchDaily",
       "publicado_em": "2026-09-01T19:32:57+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 28 archdaily.com"
+      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 28 ArchDaily"
     },
     {
       "id": "aaa8a58c6b4e",
@@ -366,33 +366,14 @@
       "id": "eeed75b168e4",
       "titulo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbWF0VmM5c3VLTUZVLU5mQmRMbFFBYk9lTVIxc1M5bmloZkNDS0pOR1h3Y3BENEM5bjZtSmRPNHZtNGIxSi1IVWJSS1lrRzJMaDU1QTlCWFFhaDZldTZuRWdaNFBTbURDYmliSER6anAwbGFrbDJaUjFhdUhqelR2aElXSGc3LWlVLVJXUlBSS1pGekFBVklfdjRKclhFTWltYWExVUJsUi1KdUVabU9nS1lnR0FxYk4tY1cweWR3?oc=5",
-      "fonte": "Brasil de Fato",
+      "fonte": "brasildefato.com.br",
       "publicado_em": "2026-08-31T19:43:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba Brasil de Fato"
+      "resumo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba brasildefato.com.br"
     }
   ],
   "noticias_home": [
-    {
-      "id": "07441335e9fb",
-      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-05T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
-    },
-    {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-05T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
     {
       "id": "bb279e02512f",
       "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
@@ -402,6 +383,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+    },
+    {
+      "id": "07441335e9fb",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-05T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
       "id": "c324af66d4b4",
@@ -414,14 +405,23 @@
       "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
-      "id": "6658bf088c2d",
-      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-sobrecarga-de-atendimentos-guaiba-podera-ter-o-segundo-conselho-tutelar-em-2028",
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-05T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
+      "id": "4b0b194060fa",
+      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
+      "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
     },
     {
       "id": "818bac95001f",
@@ -434,14 +434,14 @@
       "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
     },
     {
-      "id": "4b0b194060fa",
-      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
+      "id": "6658bf088c2d",
+      "titulo": "Com sobrecarga de atendimentos, Guaíba poderá ter o segundo Conselho Tutelar em 2028",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-sobrecarga-de-atendimentos-guaiba-podera-ter-o-segundo-conselho-tutelar-em-2028",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
+      "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
     },
     {
       "id": "821a278c8680",
