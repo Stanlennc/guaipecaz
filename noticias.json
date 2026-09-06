@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-06T20:00:35.334392+00:00",
+  "gerado_em": "2026-09-06T23:29:21.125058+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,23 +74,14 @@
   ],
   "noticias": [
     {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-06T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
-      "id": "bb279e02512f",
-      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
+      "id": "07441335e9fb",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-06T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
       "id": "c324af66d4b4",
@@ -103,14 +94,23 @@
       "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
-      "id": "07441335e9fb",
-      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
+      "id": "bb279e02512f",
+      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-06T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
+      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+    },
+    {
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-06T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
     },
     {
       "id": "6658bf088c2d",
@@ -366,32 +366,23 @@
       "id": "eeed75b168e4",
       "titulo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbWF0VmM5c3VLTUZVLU5mQmRMbFFBYk9lTVIxc1M5bmloZkNDS0pOR1h3Y3BENEM5bjZtSmRPNHZtNGIxSi1IVWJSS1lrRzJMaDU1QTlCWFFhaDZldTZuRWdaNFBTbURDYmliSER6anAwbGFrbDJaUjFhdUhqelR2aElXSGc3LWlVLVJXUlBSS1pGekFBVklfdjRKclhFTWltYWExVUJsUi1KdUVabU9nS1lnR0FxYk4tY1cweWR3?oc=5",
-      "fonte": "brasildefato.com.br",
+      "fonte": "Brasil de Fato",
       "publicado_em": "2026-08-31T19:43:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba brasildefato.com.br"
+      "resumo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba Brasil de Fato"
     }
   ],
   "noticias_home": [
     {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-06T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
-      "id": "bb279e02512f",
-      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
+      "id": "07441335e9fb",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-06T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
       "id": "c324af66d4b4",
@@ -404,14 +395,23 @@
       "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
-      "id": "07441335e9fb",
-      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
+      "id": "bb279e02512f",
+      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-06T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
+      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+    },
+    {
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-06T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
     },
     {
       "id": "6658bf088c2d",
