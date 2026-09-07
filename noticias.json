@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-07T19:35:43.692955+00:00",
+  "gerado_em": "2026-09-07T22:30:23.777971+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,14 +74,23 @@
   ],
   "noticias": [
     {
-      "id": "bb279e02512f",
-      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
+      "id": "c324af66d4b4",
+      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
+    },
+    {
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-07T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
     },
     {
       "id": "07441335e9fb",
@@ -94,33 +103,14 @@
       "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-07T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
-      "id": "c324af66d4b4",
-      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
+      "id": "bb279e02512f",
+      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
-    },
-    {
-      "id": "818bac95001f",
-      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
+      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
     },
     {
       "id": "4b0b194060fa",
@@ -131,6 +121,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
+    },
+    {
+      "id": "818bac95001f",
+      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
+      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
     },
     {
       "id": "6658bf088c2d",
@@ -156,31 +156,31 @@
       "id": "8c9bc80b5d71",
       "titulo": "Desfile de 7 de Setembro registra mais de 6,2 mil pessoas na orla do Guaíba, em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbE1PWmZNU3kzVDFYNEJhdDFRMnY4ZkxMWURLVTJrYnVOeElGREswVFNGT1o3RUsxU3pRQVhrOW9DUnRqbXFBMWNxcnBHNDNjbkUyT3VDd2FCalRsazROZnBDZW1mQzZfVEdYWG5uTk44bWM4cHg3dXZFWUxBZmRvT0dsSE1KTTJQRG83RzdENXpKUHI5T2I5R0s3MXBxZE1HMThrWG5xejlGb01sTFZJWVdlVzJSZ9IBuwFBVV95cUxPT3BsczVkbjV4dlBTQTMtUGRNNkJOMEpWQTdEdlV0TnM3a29BTVRFYm93Tk1DYnVKNlBhZlZaYkp1dkt0TU40VXdWc09kUjdBVDEteXpKczJhU3hSR1pCTkpuOVVQNWluYkhmd0dzWnR0My0wY2gyZk9IR0xWZm42TG43ekxUamduY19CN0I4UUdzWlVfdHNHaW56NXZWRUsta296RE1RTjU3NmVESnVEQnZKMjNKMHBIY1Fr?oc=5",
-      "fonte": "osul.com.br",
+      "fonte": "Jornal O Sul",
       "publicado_em": "2026-09-07T18:13:14+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Desfile de 7 de Setembro registra mais de 6,2 mil pessoas na orla do Guaíba, em Porto Alegre osul.com.br"
+      "resumo": "Desfile de 7 de Setembro registra mais de 6,2 mil pessoas na orla do Guaíba, em Porto Alegre Jornal O Sul"
     },
     {
       "id": "929760ab7643",
       "titulo": "Desfile de 7 de Setembro leva milhares de pessoas à orla do Guaíba, em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUlgyOHRyUzlWb0tBR1lWS0N6cXNxRkNSUm5jQ2VVOU02Z2kzMUtQVXV6YnBpOTQzc2dfazFtbHpsTlFVYlFRaGMtYmh5SlEwWE10cHR6aVVXdDRTTWloYS1xSUE1aW5YNk5GYU1nbElkUlVJUXc0RF9sX3hMdE1sZno2eGtWSnA2eHVTUkotSER5SWFiU2lHV2Q2YXZQeHpXSmhiN0p1d0lJU3BMT2NydHYyUUo2OUZYdl90VkJTVEQxNE9sS1JUd2h1Z3pFTHJsUEhiYVZqZDZsOEF4RG1IYw?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-09-07T16:32:20+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Desfile de 7 de Setembro leva milhares de pessoas à orla do Guaíba, em Porto Alegre correiodopovo.com.br"
+      "resumo": "Desfile de 7 de Setembro leva milhares de pessoas à orla do Guaíba, em Porto Alegre Correio do Povo"
     },
     {
       "id": "26dca947e65a",
       "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 45",
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQSFpJME9aQ2tIRUUtcWlyaWptcXlSZE9xT1pqelpIRm1HMEFiRkQzSXRic1JVYW00dEFTd0RjbldLdWduMUdvOTkzX1hGcU12Q1VPRGhyVGtBLXF1cFJHbXFfekhyYzlDYzhHSjZ3ckNLTy0xSjFNNXBqd2hiaDBWMTU2cEYySHdtbHA1TldYMXhYUEJqWTF4SWdfS09ZczZkcmtWMWx6YU9YcU5wSXNReFdwdGNRX25rcGRfem1ZdlJ2eVd0M3Z6OFFweUUtaENqX2huRjBMVVBkbGdEa25ZNmV4VHpKUkZJQmlVRXE2N2xEdWh6SUJZaUFKYUJoMjNOUVpyYTFPeXpfVkFRanllanpQYmNsX1VIZG02WkQxQm1tYmVYc2RRX1NRRGdVOHM?oc=5",
-      "fonte": "ArchDaily",
+      "fonte": "archdaily.com",
       "publicado_em": "2026-09-07T03:35:22+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 45 ArchDaily"
+      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 45 archdaily.com"
     },
     {
       "id": "eaeb4da580a7",
@@ -206,41 +206,41 @@
       "id": "16ef2c1b93c8",
       "titulo": "Já ouviu falar no monstro do Guaíba?",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSUGprWTQ1Y1cyYlF3bGl4bzUxZDRyRFpEdzk1S3Z6T3ktUmoyY3BNRlRRR0hFb2MxeE1TSnlLcDlERzByZjR2VHB1dktXMlpncEtkeUFJaFdjR3dEZlFFNGZXaGNYeDNualFVedIBckFVX3lxTE1waVVRYjVGX0xpajh2d2stQllBM1VZNkdnX2xoeEh6aDMyWTNSSUtXVC1yVGt0RTFHbWhmamhIYkFUdjgxS3hyWEd3YU4wM1lKTEdPMmhqck5KTmtzcmRlSHN5MEpTd0hIRzdkdzJrRTJlUQ?oc=5",
-      "fonte": "osul.com.br",
+      "fonte": "Jornal O Sul",
       "publicado_em": "2026-09-05T03:19:50+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Já ouviu falar no monstro do Guaíba? osul.com.br"
+      "resumo": "Já ouviu falar no monstro do Guaíba? Jornal O Sul"
     },
     {
       "id": "78f6d04d6a43",
       "titulo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMFl0akppaGk2ZWZKaFFaQ3RIbEtYa0JVSklUSkxHTTBNUmdZZVVwdVFWQUkwOGc0dEdNRGwzLUd3cXB0SmU1bl9tNDJLOHZpeERfamMyTjJfV3A5YkdkZ0dQZHRUb2JLZTR2MlZCTHZQby1paUlpb2U3TW42OUI1Z093UHY2SGhPS2RGOWE5ZlN0ajl2LWc1QVZHMnF6MkpjbkFuLU1WNkluV3FfOUc4QUlWSXN6RGg1dEc5aHBra3Y4Y0RXRjNBXzdFQjlXcW0zWWpZNQ?oc=5",
-      "fonte": "Jornal do Comércio",
+      "fonte": "jornaldocomercio.com",
       "publicado_em": "2026-09-04T18:21:59+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba Jornal do Comércio"
+      "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba jornaldocomercio.com"
     },
     {
       "id": "c9c233c6ee35",
       "titulo": "Homem é preso com drogas, arma e equipamentos usados no tráfico em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRllPclFEd0huUGpJOVBrRVJyUmotckZLQWxMY1JZTGhZQ2E3SEhaZjdvYjZYWkxCWkEyb0hGeWZ0WEgtSWw1YTFLazZqeWF1cl9YbHBCd3RsWm9ZOVRkbEQ4bUlDZEJVNnpwMUhmZWVjbFZ6ODdwZk9rNXFlQTBLWkFaX2RTOERBX011eTJOeFJQYXpLOGJYNEFveGtCUEdZdXNUMkdFRXk4ei1mNjMyYk04eFd3ZVY3VVMzajZWTmRhREJiSW43Y0hXa2hFVEJoUTBGaUV2NnMyQ1Z5SlJ5TExDS0ZSMlFic19xVkJVWWNKVUx3YlpWejlsWQ?oc=5",
-      "fonte": "terra.com.br",
+      "fonte": "Terra",
       "publicado_em": "2026-09-04T11:58:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Homem é preso com drogas, arma e equipamentos usados no tráfico em Guaíba terra.com.br"
+      "resumo": "Homem é preso com drogas, arma e equipamentos usados no tráfico em Guaíba Terra"
     },
     {
       "id": "9ba83b947f93",
       "titulo": "Duplicação da BR-116 entre Guaíba e Pelotas será retomada após liberação de R$ 96 milhões",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVl9XTmpnUlBJZjN3U2s5YTlqdGs0dklrd3ZKOFBXalJyd2NuQ0VldU9TUDVPLXQxZm1LN0JmNGF0aXVYTmttY2x4OGNPaVp2RHV4b19nelZQeWRYTUtFc3ozRnBtRl9DT0ttY0J2bDFDeXU2LThueFUydjdpWlk2ZEVYVG8wRTJ1ZFlJV0h3WTdseE1GM0tSSW4xZmJTLWZyUnJQMGhDbjZIaVVwejVxX1I2ODY3M3IzOWVQRmRDdUk0c01UNFhBbUFJV01Xc01ZbGc?oc=5",
-      "fonte": "ahoradosul.com.br",
+      "fonte": "A Hora do Sul",
       "publicado_em": "2026-09-03T21:23:00+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Duplicação da BR-116 entre Guaíba e Pelotas será retomada após liberação de R$ 96 milhões ahoradosul.com.br"
+      "resumo": "Duplicação da BR-116 entre Guaíba e Pelotas será retomada após liberação de R$ 96 milhões A Hora do Sul"
     },
     {
       "id": "ec856442ad8d",
@@ -263,16 +263,6 @@
       "resumo": "Sesc/RS e Senac-RS celebram 80 anos com megaprogramação gratuita na Orla do Guaíba Sesc/RS"
     },
     {
-      "id": "79111e2dc35d",
-      "titulo": "Governo federal destina R$ 26,15 milhões para retomada das obras da nova ponte do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR3dVVWZYWHYxVmp0OEpYVEhHUjh5anJ5Y04xdnBJQ0tEUk82TU1OQkNycHZQRUlSWHhzOTlPX3VvUjlvN1B3b0dIaGJqT2V2OEZXVkVTMlFOeWhxcS1zTWpiZjFKbW50NVJpbG9zeE9DZ0M1emdLQnROd0l0a0t2MFBGOFA3djVjbGZsMHA1cm1aSm9BQkMtOGtod2VNRWxkVmN5MVdxQnFOSi13ZnhheHI2S2I1LUZmWW05Yjd6OE5vanM?oc=5",
-      "fonte": "Rádio Independente",
-      "publicado_em": "2026-09-03T11:13:38+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Governo federal destina R$ 26,15 milhões para retomada das obras da nova ponte do Guaíba Rádio Independente"
-    },
-    {
       "id": "9812d8f96c77",
       "titulo": "Dois prêmios internacionais de arquitetura em um único prédio à beira do Guaíba: a capital gaúcha do pôr do sol mais fotografado do país",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVmRUZjhtMXF0TUtFSC13Vzh1THFXRm5MSGg0emlTVFZrdVo4SjQ2NGNuZXZLblVCbi11NTEtRkZGREctNTdRZnE1SHNsRlF4ZFZ6a0I2MnpEVU5HcmFRSEJkU08ydlhZSXhDWXdYeXgtSmtSVkVTVDczckhId2RiWlM2dU5Id21hSlFqREkyVGNEclJ0SEQzV0pROVJhNkx4aGRPazhrV1JfTkpILUJwd0sySnluRkh1bmxPdERGa0JOeVl1MWp6NEs4d0VjWC14UzNZRGNRVWVJVEN0S0NxLWwzTEhobXJFVjdkRElobzVMYzFvLU96N0NDS25PN1VLSmQzWEsxemVrUVRaejhqMHBn?oc=5",
@@ -293,6 +283,16 @@
       "resumo": "Governo federal destina R$ 26 milhões para conclusão da nova Ponte do Guaíba Rádio Guaíba"
     },
     {
+      "id": "7419ac8e2c3d",
+      "titulo": "Governo federal destina R$ 26,15 milhões para retomada das obras da nova ponte do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQ1lZdEJ3dlU5cUtyRHFVTGd0ZVBaNTFoa1Z2Vl9jZDdyMmZNOGRmWTlGNFlrQnJlWVhKNmFtSWlLUVpUSzJBYURRLU1LendEWlNMUUZkdU1TUHF6Vk44LU50dG9XaVpuY0xZeGhsV2FNZ2t3UEZ5U2xDajQxeGlpV0xUYzRnSWtwRE1sbEV6YmNpc0ppcEVHblJOZmZjSjhzc3VkOE14b285NGtkYmMxRW8zVHU0LVlwRFNFS3pON3JfVW9ESXNnYW1fWTVLSFpYbW8tV2xfQ3I2czY2cDk1Mzh6bG5zZlN1RVNLaFFXaTlEM1BxSTI4?oc=5",
+      "fonte": "portaldenoticias.com.br",
+      "publicado_em": "2026-09-02T13:08:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Governo federal destina R$ 26,15 milhões para retomada das obras da nova ponte do Guaíba portaldenoticias.com.br"
+    },
+    {
       "id": "561434887bfa",
       "titulo": "Evento gratuito celebra 80 anos de Sesc e Senac com Rock de Galpão, Frank Jorge e mais de 50 atividades na Orla do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVnhkYVFoc2hWMzcwTVF4a0RpeG80WEhvS0x6VThfelVJeE9MR1kwcnVrc1JJbkF2Q2QyRHFHVXRyb0kzc2ZIZU5hMFZ5Q2FZeEZqM3NOLTA0cVFJVTFMbXBhYTE1NWEtQ0FORTBGbHk4TGR6T182ZjVRcGF0dDlrTS16clF6V2x2bHBLZkVmcnVPZkI3N3BHVDZJc2tKVC1vZkFOdjdSZ1FaS1BhQ2k0bWNlTmxwYmpIeEtYYkNPOUdyWHpXWEt2dE44ZmNEY1hqZFFHYVJ0eTBxVDZ2TjRFSTFvTmxOZUs5a3ZiYnlsQVl2ZTZKdDFhV1hRMGtaZndjTVpfRA?oc=5",
@@ -306,11 +306,11 @@
       "id": "f89f230d7111",
       "titulo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 28",
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNdUg2bkVMT3ZNTF9XZmsxVWIxMl9BSHUwZXd4SFg1d0NsNWFPSkV6WkVaekNlUzFSTlY3X2xnUlRkQ0EwaGpmYktoek5xYkh4NDZJVEotOXJJdExDbEhiVzZFVTFJU1VTZGNGdVdjZjlxMkFGTkJ6U21hLWlTMnpMVzU2X2tMaDZlanpjN0x2ZVd5aFhCa1lpOGZoN1A2U05JOTNHQTNjR051YWc5d2dkdk1rRTlUclhKLVAySVRqVmM2aV9tSEVlQjJURlk3a1cyM3NJMG90eGQ3dF8zeHduWUNfQkxDZlpyMFpoM2pfXzFJMkgzUjVpUmVVN0dDVzNLV0FtcGtRNTV5d0xtVWM3OTRzYkhLNHF2eWpuQkJlYldXNDBXa2FjZ0hlMTd1dTA?oc=5",
-      "fonte": "ArchDaily",
+      "fonte": "archdaily.com",
       "publicado_em": "2026-09-01T19:32:57+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 28 ArchDaily"
+      "resumo": "Galeria de Parque Urbano da Orla do Guaíba / Jaime Lerner Arquitetos Associados - 28 archdaily.com"
     },
     {
       "id": "ccdd51f98255",
@@ -356,33 +356,42 @@
       "id": "5c739cf40f36",
       "titulo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb3FsM21OaXVFU0RzaF9lT250QURHOWJTZTBiYnduY1RIRGNMa2hYLTJJVENSdzBXUWRaVkh4M3lsWXRqUGhHUTZpTHVvbmRMV0MwLUZnbTFSQkRqTXF0SmJhSEtyTXBKWDRJcmVydF9zUzdrUEwzcWhLSTZMR2lPNEQwX1JBTVpBUDNRNmUyb2tJSm15cHZKLWNlekVoYWJaV2ZqaUpkV2FDQnpXM3BESXpXOTFMWVR1c2lFNFF3cEtVYVotUENGTzQ2eHRGamJoVEFCSnF5X0wxVE5ZVGlwNWJ3?oc=5",
-      "fonte": "Jornal do Comércio",
+      "fonte": "jornaldocomercio.com",
       "publicado_em": "2026-08-31T23:14:41+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira Jornal do Comércio"
+      "resumo": "Projeto social leva 40 atendimentos oftalmológicos gratuitos a Guaíba nesta quarta-feira jornaldocomercio.com"
     },
     {
-      "id": "b586d8726cc4",
-      "titulo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcTAxM2xvUVlKWlBrSmliYVlEaW1HeUxuZW5JLVF5SFRBZnJSOGc2eHRnVkN2TUNjYmhORkRtZklrMU5Pd3paVEREbXJLamNUTUdvbVQwVk90dU9GRnJPM2dHN2hTdGFSTlF0MkVHQ25ybmREZWN6bUFHbjF0UzVWLVo3c3haSjdSR3pCalRSaXFQSGcwQ3Q4QzFxWnRHR28xVmF2QVYwNzdReHBDb29IQlUtOUp0SkJaUE54YTZONElpZ2lyaGFwSy1xWFFmVXdiT1pqYkNGM2ZiN2ZuNkItdHJnbUk?oc=5",
-      "fonte": "correiodopovo.com.br",
-      "publicado_em": "2026-08-31T21:38:56+00:00",
+      "id": "126fb1c2b43c",
+      "titulo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSkdjRE1QdzdNcHowS1V4U0d6SEdGVkpQM2VzTWFIclBSMFBpNTB2cFJvNmJTX3BmUlBPbDMwRFRvZU1tT0FmS2N1R0ZLTVRZRUE1NnFiT3NxczhtaE50R3BjMWc1V0dMUTdUTUttd0lsUk5OcGFkQ19kWEs0a05pVm5yQ0dublBIMWNSUkJZOHVEbC04My1ZcFc5SnBaN2lCcm1QNV9OODl4Q245amFwenR5Smk5aTBjcHo0ZnRNb2ZBMHBkMEJIYW5JWFdCRUU5QlE0?oc=5",
+      "fonte": "UOL Economia",
+      "publicado_em": "2026-08-29T09:11:53+00:00",
       "categoria": null,
-      "feed": "correio",
-      "resumo": "Rádio Guaíba promove Fórum de Desenvolvimento Gaúcho durante a Expointer 2026 correiodopovo.com.br"
+      "feed": "google",
+      "resumo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço UOL Economia"
     }
   ],
   "noticias_home": [
     {
-      "id": "bb279e02512f",
-      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
+      "id": "c324af66d4b4",
+      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
+    },
+    {
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-07T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
     },
     {
       "id": "07441335e9fb",
@@ -395,33 +404,14 @@
       "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-07T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
-      "id": "c324af66d4b4",
-      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
+      "id": "bb279e02512f",
+      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
-    },
-    {
-      "id": "818bac95001f",
-      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
+      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
     },
     {
       "id": "4b0b194060fa",
@@ -432,6 +422,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
+    },
+    {
+      "id": "818bac95001f",
+      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
+      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
     },
     {
       "id": "6658bf088c2d",
