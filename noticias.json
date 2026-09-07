@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-06T23:29:21.125058+00:00",
+  "gerado_em": "2026-09-07T02:59:17.925043+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,14 +74,14 @@
   ],
   "noticias": [
     {
-      "id": "07441335e9fb",
-      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
+      "id": "bb279e02512f",
+      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-06T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
+      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
     },
     {
       "id": "c324af66d4b4",
@@ -94,16 +94,6 @@
       "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
-      "id": "bb279e02512f",
-      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-06T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
-    },
-    {
       "id": "0a160b69ba5b",
       "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
@@ -111,6 +101,16 @@
       "publicado_em": "2026-09-06T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
+    },
+    {
+      "id": "07441335e9fb",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-06T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
       "id": "6658bf088c2d",
@@ -123,16 +123,6 @@
       "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
     },
     {
-      "id": "818bac95001f",
-      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
-    },
-    {
       "id": "4b0b194060fa",
       "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
@@ -143,6 +133,16 @@
       "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
     },
     {
+      "id": "818bac95001f",
+      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
+      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
+    },
+    {
       "id": "821a278c8680",
       "titulo": "Corais se reúnem em preparação para as gravações do Hino de Guaíba e da música do centenário",
       "url": "https://www.reporterguaibense.com.br/noticia/corais-se-reunem-em-preparacao-para-as-gravacoes-do-hino-de-guaiba-e-da-musica-do-centenario",
@@ -151,6 +151,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A música “Guaíba Solar” foi composta por Victória Elsner e Rafael Sonic, com arranjo musical de Silas Mendes"
+    },
+    {
+      "id": "eaeb4da580a7",
+      "titulo": "Guaíba amplia projeto Horta do Bem, que chega a 29 escolas da rede municipal em 2026",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZkZlZExBTTRZQVEzY3M5TkROd1o4RGJqaElvbDYtSF9NSDJlYUh1UVZkUkJ2SnpnZms4Nm1STDJhUGF0S2ZCZ1FqQm94cWhYNUtfazNJTkhBbFktVXpvNTg2VzZ1SnExTGU0ZFo5TUFTbmtnN3NYMmkwQ2FvUDFjZGI5ZUZLbmhyczZid3d2SXBmd0k3djVlS1FoSHVHa25TdzdUamtweEpnRC16Q2x0eG9rVTU5czBlNFFQVkktYnQ2QjRvdGhEZFJaUGExQkc3QnExTHZ3?oc=5",
+      "fonte": "portaldecamaqua.com.br",
+      "publicado_em": "2026-09-07T02:06:32+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba amplia projeto Horta do Bem, que chega a 29 escolas da rede municipal em 2026 portaldecamaqua.com.br"
     },
     {
       "id": "6a1c7c48b080",
@@ -206,11 +216,11 @@
       "id": "9ba83b947f93",
       "titulo": "Duplicação da BR-116 entre Guaíba e Pelotas será retomada após liberação de R$ 96 milhões",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVl9XTmpnUlBJZjN3U2s5YTlqdGs0dklrd3ZKOFBXalJyd2NuQ0VldU9TUDVPLXQxZm1LN0JmNGF0aXVYTmttY2x4OGNPaVp2RHV4b19nelZQeWRYTUtFc3ozRnBtRl9DT0ttY0J2bDFDeXU2LThueFUydjdpWlk2ZEVYVG8wRTJ1ZFlJV0h3WTdseE1GM0tSSW4xZmJTLWZyUnJQMGhDbjZIaVVwejVxX1I2ODY3M3IzOWVQRmRDdUk0c01UNFhBbUFJV01Xc01ZbGc?oc=5",
-      "fonte": "A Hora do Sul",
+      "fonte": "ahoradosul.com.br",
       "publicado_em": "2026-09-03T21:23:00+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Duplicação da BR-116 entre Guaíba e Pelotas será retomada após liberação de R$ 96 milhões A Hora do Sul"
+      "resumo": "Duplicação da BR-116 entre Guaíba e Pelotas será retomada após liberação de R$ 96 milhões ahoradosul.com.br"
     },
     {
       "id": "ec856442ad8d",
@@ -289,7 +299,7 @@
       "fonte": "Super Transado",
       "publicado_em": "2026-09-02T12:50:35+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Evento gratuito celebra 80 anos de Sesc e Senac com Rock de Galpão, Frank Jorge e mais de 50 atividades na Orla do Guaíba Super Transado"
     },
     {
@@ -361,28 +371,18 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Porto Alegre instala barreira móvel contra cheias do Guaíba R7"
-    },
-    {
-      "id": "eeed75b168e4",
-      "titulo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbWF0VmM5c3VLTUZVLU5mQmRMbFFBYk9lTVIxc1M5bmloZkNDS0pOR1h3Y3BENEM5bjZtSmRPNHZtNGIxSi1IVWJSS1lrRzJMaDU1QTlCWFFhaDZldTZuRWdaNFBTbURDYmliSER6anAwbGFrbDJaUjFhdUhqelR2aElXSGc3LWlVLVJXUlBSS1pGekFBVklfdjRKclhFTWltYWExVUJsUi1KdUVabU9nS1lnR0FxYk4tY1cweWR3?oc=5",
-      "fonte": "Brasil de Fato",
-      "publicado_em": "2026-08-31T19:43:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Câmara de Porto Alegre debate transporte hidroviário de passageiros no Guaíba Brasil de Fato"
     }
   ],
   "noticias_home": [
     {
-      "id": "07441335e9fb",
-      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
+      "id": "bb279e02512f",
+      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-06T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
+      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
     },
     {
       "id": "c324af66d4b4",
@@ -395,16 +395,6 @@
       "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
-      "id": "bb279e02512f",
-      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-06T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
-    },
-    {
       "id": "0a160b69ba5b",
       "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
@@ -412,6 +402,16 @@
       "publicado_em": "2026-09-06T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
+    },
+    {
+      "id": "07441335e9fb",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-06T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
       "id": "6658bf088c2d",
@@ -424,16 +424,6 @@
       "resumo": "A proposta é que a cidade tenha dez conselheiros tutelares, sendo divididos em dois grupos, em 2028"
     },
     {
-      "id": "818bac95001f",
-      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
-    },
-    {
       "id": "4b0b194060fa",
       "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
@@ -442,6 +432,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
+    },
+    {
+      "id": "818bac95001f",
+      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
+      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
     },
     {
       "id": "821a278c8680",
