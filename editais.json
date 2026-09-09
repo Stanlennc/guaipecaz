@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-09T03:07:41.119469+00:00",
+  "gerado_em": "2026-09-09T10:46:29.202152+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -20,6 +20,15 @@
       "tipo": "edital",
       "publicado_em": "2026-07-27T04:38:27+00:00",
       "feed": "edital"
+    },
+    {
+      "id": "66a7f7bdb864",
+      "titulo": "Mercado Livre abre vaga de Auxiliar de Logística em Guaíba com salário de até R$ 2.149 e benefícios",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV00tMGZoeUtZMEJDZzE3OWxIMFlpMUxvbHhUZENsRW5XMUxxX0VvSmZQeWZ1aFJ3REZmenJpUm1NaEpsNV9KTGRwVTlUbzh6WEV2eEZCcE5SdFozUFBac2ZsN1VNam9uOFRkSk83V0pkLWhMQXhJZi1fUUVxSTZFNzhZNXdwX3lEZmV1eGNGVkxWWnZYLTlXZTlXRVdxQUlkUXRBZHJodTNsSzVreG1qdmRUQlE4X2RQNmV0Q0NENzRlZURlclFtSWUzTFREb1J0Zk45WkdCaGtEeXlLX3cxU3RlS3lWci1Tc2c?oc=5",
+      "fonte": "portaldecamaqua.com.br",
+      "tipo": "vaga",
+      "publicado_em": "2026-07-25T07:00:00+00:00",
+      "feed": "vagas"
     },
     {
       "id": "49c16b5cee41",
@@ -61,7 +70,7 @@
       "id": "efd910ae5dd5",
       "titulo": "Círculo Saúde abre 120 vagas para dar início às operações da unidade hospitalar de Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSklrb1o3WF93cG9GRlNsOVRyVWZzbnRPQllvSFh5UW8tNjRZX2pUdWJ0a0dCenJNa1hsdzJ1VlRJMDBSM0hBS2czSHZWRTFLXzR3YV9NS0J3UXFWVWpvT0RZTHFPVUFGR0h4c1UxaEU0MlhMQjJ3ak8xX093Sm0xSkV3VldJMEhfZlp0QVRxR3N5Q3I2U0tuU0RJMThGa3ZyRXdFRUtlU3VraVBzT2tJWUpjOTVsNjVkZnFQN3pHNkg5NnR0elkzTjdmR0RfRGZkaHNyMmVOb2NqSTJ0RjVPZzZFVE0zZzFJaUx1cVZB?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "tipo": "vaga",
       "publicado_em": "2026-06-24T07:00:00+00:00",
       "feed": "vagas"
@@ -101,15 +110,6 @@
       "tipo": "edital",
       "publicado_em": "2026-05-15T07:00:00+00:00",
       "feed": "edital"
-    },
-    {
-      "id": "d3131a89b6d1",
-      "titulo": "Rotary Guaíba e Secretaria de Educação divulgam o 4º Concurso Escolar de Oratória",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFhxakQwUmZLRzhCVGlEOGQtQmcyX2VlcjkwRVEzNXVWaFYzTkRjaUFFbEdVQTVlS25JQ2d3U0lDM0d6TUhZcUduX2c1SmVTSW9HY2U2R2tLZXN0SFpNUlA2VWVRRHVsV3p4SVE2bVkyYnBQeGhHeVF0OE5UclJkTXRGTUxQV0FwY0tuZXAzZEJ6cEZGUGJwRmJFWXEzQVdJaVJvcEFUb0N2WUFmbzdqbGp0ZFprUFFqdFZyLVRtTWZISGM?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "concurso",
-      "publicado_em": "2026-04-23T07:00:00+00:00",
-      "feed": "concurso"
     }
   ]
 }
