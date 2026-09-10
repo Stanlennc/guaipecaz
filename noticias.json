@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-10T14:03:47.450878+00:00",
+  "gerado_em": "2026-09-10T18:57:03.479533+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,14 +74,14 @@
   ],
   "noticias": [
     {
-      "id": "bb279e02512f",
-      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
+      "id": "07441335e9fb",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-10T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
       "id": "b754c6ea2b2b",
@@ -94,6 +94,25 @@
       "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-10T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
+      "id": "bb279e02512f",
+      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-10T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+    },
+    {
       "id": "c324af66d4b4",
       "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
       "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
@@ -102,25 +121,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
-    },
-    {
-      "id": "07441335e9fb",
-      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-10T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
-    },
-    {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-10T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
     },
     {
       "id": "1b2120203197",
@@ -133,14 +133,14 @@
       "resumo": "O prazo estimado total para conclusão dos trabalhos é de 60 dias"
     },
     {
-      "id": "818bac95001f",
-      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
+      "id": "4b0b194060fa",
+      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
+      "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
     },
     {
       "id": "9053a4a2b3f4",
@@ -153,44 +153,74 @@
       "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
     },
     {
-      "id": "4b0b194060fa",
-      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
+      "id": "818bac95001f",
+      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
+      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
+      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
     },
     {
-      "id": "5a51ce25d131",
-      "titulo": "6º Sarandeio Farroupilha começa em Guaíba na próxima quarta-feira",
-      "url": "https://expansao.co/6o-sarandeio-farroupilha-comeca-em-guaiba-na-proxima-quarta-feira/",
-      "fonte": "Expansão",
-      "publicado_em": "2026-09-09T18:51:28+00:00",
-      "categoria": "Cultura",
-      "feed": "expansao_direto",
-      "resumo": "O 6º Sarandeio Farroupilha de Guaíba terá início na próxima quarta-feira, 16 de setembro, no CTG Gomes Jardim, e segue até domingo, dia 20, com mais de 30 horas de&#8230; O post 6º Sarandeio Farroupilha começa em Guaíba na próxima quarta-feira apareceu primeiro em Expansão ."
+      "id": "d3237881830f",
+      "titulo": "Guaíba entrega 12 mil pares de tênis para alunos da rede municipal de ensino",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSi1WbTFTN0dZT1hZNnVuM3RiS1lvVTFoeEs4ZU9faGhDZFdtSktEdl9iRV9NekQ1SjB4cUFDbGdWWEhQYmpNcHI0dldOakF6a1F1Q0V4cVdxYUpFNERYLUJlWERkOGt1Uy13Q3NSZjNUbWNybmt6eDN0NDRmUUFnLWlKT1c4YkdQNVlmUVpsREhlMjkyOUxlczZLTUtzdw?oc=5",
+      "fonte": "expansao.co",
+      "publicado_em": "2026-09-10T17:24:50+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba entrega 12 mil pares de tênis para alunos da rede municipal de ensino expansao.co"
     },
     {
-      "id": "52fc192f232a",
-      "titulo": "Guaíba aposta em ciência e inovação",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMGhxVUZySURFZVNTai1yM083Q19rVF9OSEVYUVp1ajI5VG1xSWYzN2Y5UjA5Y2tTOU1FNXZJSnJJd0tmd2FCQi1ycVZlRl9iRjFZZXdaamUxaG54b2FBMldjOTJzVjREWUt1YtIBckFVX3lxTE5URzNhTzZiYU9oWVg2MmdzcFY4Yno5WlB0MVRtVThTM19XdEdwMGhqU2hjWGxobHpudnl3d2JEc1g5eHBfdDUwSjZMVWV5eF9OX3VpVGNEdUx2VThpXzNUQjJ6eTRKTlFHclE5bW9wd05VUQ?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-09-10T01:44:15+00:00",
+      "id": "0908320ba2cc",
+      "titulo": "Círculo Saúde inaugura novo complexo hospitalar em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX2t2QXdHTzlQMW5MSG90eFhkcG1xcTM0SDgzTVhOMmJuNmhNZ1Y4d29wa1dWZld5VkM3blNEUzNwak9BVEdHcXVMZF9NazJoRDMzNEJKUlpVNzlIeDl6R2xPLVNfV3czdno3YTVMcWJXdzVuWUZfSkNTQUdpbG0tQVVyTHpnbF9jRjU1cHFNcnROdGlmZk9LN3NldWs1NlBnTVA3Y1ZzVzdxUzZ1ZTlNa3d3aVROMmxmNktKaC1JWDhIZTVIVFRwbk8tRXBPZGxJQTZhdGEwS1FHX2NpMU40?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-09-10T15:38:15+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Guaíba aposta em ciência e inovação Jornal O Sul"
+      "resumo": "Círculo Saúde inaugura novo complexo hospitalar em Guaíba Jornal do Comércio"
+    },
+    {
+      "id": "ead2cb1bac53",
+      "titulo": "AGERGS aumenta tarifa da Catsul para R$ 19,15 entre Porto Alegre (RS) e Guaíba (RS) e dá 60 dias à Metroplan para analisar reequilíbrio",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMXVuRU1LdGlDcDlEaF8zY0NCbWZNWmdNNXFoNFg0YkxCWjBVY0JqRHduZ1JSUUdmbmJjYWFzbUtCOHFsWVBLR3RmdkhveE4tQlIyRmZHZ1hGM2lSM2hNZ3FEZGUtN3R4Y25CcEFhdWlYeU53Tm9xTHlrdHdPMW9nX1g3eWJqOEhpSGYyekdjU0Nhd1JJVlhsQkRrbXlUWkJ5V3NHWEJ4RHJOZ2ZvRW16Q0V4SEhkYTVpM1EyLTVKR0RkQ0Y2WnRoT3hzSDFGNVM1dGo5OG9GNHZBZHdqeXZCN1JuM1ZHajFDeUdybmdpakJiZTBDYnJ6bzNtOFlUZzEtSjhZZm5R0gGLAkFVX3lxTFBmZnBuSndJbUo0eFczaFo0QlYwVmFsT0VxTkYwS01Hc3RESHhXRWxZOWpPeTBkV2xDb0laWjgzNWI4c1l2UVJtN05MU1ZsVWRtRjNJYk5ubElzZkpWd3VLWEhiVy1SQWxvT2xvWjFtdzdSQW1Bbnc2aUhTamdNbUZzYzJkZVo5SGJXQXFielE4Y1J6Z182OWNJVmVuMFVwOG9mQ1NvYkNxVk9xeFZnbDBTd0pZcEY0T3JBY3RKaWJOeEt1RkdnX05XQ2RtWGFVOVMxN0F0Q0loQTNBNGhwblRxT24zN0ZSZVpLZmNPV2Vsd19aXzBhNi01UjJLWkdqSnJOeFFJLXB6UXAzcw?oc=5",
+      "fonte": "Diário do Transporte",
+      "publicado_em": "2026-09-10T15:07:03+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "AGERGS aumenta tarifa da Catsul para R$ 19,15 entre Porto Alegre (RS) e Guaíba (RS) e dá 60 dias à Metroplan para analisar reequilíbrio Diário do Transporte"
+    },
+    {
+      "id": "d46c7fb534ad",
+      "titulo": "Guaíba aposta em ciência e inovação",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yYmRKdWdtZW1YbWRfZlRfQWhoOElVYUhZanBkYzkzcnRrUG9Od3RUUlMyWXFZWWZqSXpHZkx0akstTmF5bktNQzhKaXoyc0xfdDZHSFBUenVTRUlqM3lqSTRqRlRwR1Nrc01aYmNSUTU4SktvNEh3?oc=5",
+      "fonte": "Rádio Pampa",
+      "publicado_em": "2026-09-10T02:33:46+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Guaíba aposta em ciência e inovação Rádio Pampa"
     },
     {
       "id": "35f851fed22b",
       "titulo": "No RS, Lula estará em Canoas e Porto Alegre; visitas em Guaíba e NH são discutidas",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaktfX2xDal8xTHVVNkpJRndZYVJrcTZPWm5udzZPMDVCNHRudVN0dHpYMVFybDI3SGxraGVqbDAzR2pBRHF2NDVmYmdwcktaWHdoVC1zUVhqbVVrMkRWanYxV2Y2OTgtUm5sMGhEOElDamw5OFFPWWNFTUR2SGJQdmNTanI3M3dXVTNUejRCTlF2akZIZUpyOEJOamp2b0RHZWhxX0N0SXh6RGRaRG5IOUdhd21oQXpTZFNyVElfWTltNkEta3hTQ1Jyam56Y21rZDRIbS1wRDk5dWRMUnRiMzd1YVlaR1pvZTFDTG52Mi0tbUJ0aDdXWElVM3FCRFE?oc=5",
-      "fonte": "Correio do Povo",
+      "fonte": "correiodopovo.com.br",
       "publicado_em": "2026-09-09T20:57:20+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "No RS, Lula estará em Canoas e Porto Alegre; visitas em Guaíba e NH são discutidas Correio do Povo"
+      "resumo": "No RS, Lula estará em Canoas e Porto Alegre; visitas em Guaíba e NH são discutidas correiodopovo.com.br"
+    },
+    {
+      "id": "ed5e882617e5",
+      "titulo": "6º Sarandeio Farroupilha começa em Guaíba na próxima quarta-feira",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa1MtY2M4MzdDWGxlc3QtaVc0VDhraU5hYjE3Z1FOWjI4OU1abDRjZ3U1dEZ6Ukh6NE9NWkxYc1lDT1FpNVNwNVZLcFNNa1JpTjhOV2gyNmxWQjBwUzhZem5KTWpfVVVkRTgxUUN3NTJUZ09seGFKTEktSVl0NDRlSFRyNlRDTUlyZGRpa0oydw?oc=5",
+      "fonte": "expansao.co",
+      "publicado_em": "2026-09-09T18:51:28+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "6º Sarandeio Farroupilha começa em Guaíba na próxima quarta-feira expansao.co"
     },
     {
       "id": "7eeb55b61b2a",
@@ -209,7 +239,7 @@
       "fonte": "radiocaicara.com.br",
       "publicado_em": "2026-09-09T14:33:47+00:00",
       "categoria": null,
-      "feed": "google",
+      "feed": "recentes",
       "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba, em Porto Alegre radiocaicara.com.br"
     },
     {
@@ -256,11 +286,11 @@
       "id": "d960b4b9b9e6",
       "titulo": "Novo hospital da Círculo Saúde será inaugurado neste mês de setembro em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaWtkMmdkWVVlQjJ1SEUyakpycGpKU183Z1djLUJCTjcxU240dEhnbHB2b0VZN25NczlnTXI3Q3p2S1pXRzVsWW51R0pNS1hzLXg0d2VodURvd3BQNjY4aWVyX1U3bURNNm5rUG5ELVR6d2VHc2l0RVA2ZEdkUFNaOFZybklESF9oTDZPNzFzWWRzQV9xbU5QTlNPeWJTS1o5dEc1Vm1MZHBIeVdSNkFEV3JZeXNMRmJtZndSSG9wWk9jRktoYkN0SnU5aUhhQkZyQVVIZk1RelFubmFKRFNj?oc=5",
-      "fonte": "Correio do Povo",
+      "fonte": "correiodopovo.com.br",
       "publicado_em": "2026-09-08T21:57:15+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Novo hospital da Círculo Saúde será inaugurado neste mês de setembro em Guaíba Correio do Povo"
+      "feed": "correio",
+      "resumo": "Novo hospital da Círculo Saúde será inaugurado neste mês de setembro em Guaíba correiodopovo.com.br"
     },
     {
       "id": "85fa38b03ad0",
@@ -271,16 +301,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Círculo Saúde confirma data para abertura do hospital de Guaíba Jornal do Comércio"
-    },
-    {
-      "id": "41f77fdb2a29",
-      "titulo": "Círculo Saúde inaugura hospital em Guaíba com investimento de R$ 10 milhões",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXQtemstdWd6YWoySThxWGVKOWNJNDFqUmdqYkIzQUxCQjZ1MmNySzRmTGJlUHBEQmRWeHU4SHp3Y1RSYnlWVmJIa2puY3BseHhiLVVEOXh5aU53SWw1MHNVbkpHUG93ZUhaSDVoTmpmX2hwVFpxY09KTjFCRkpqOVRDbUFMNmRrNnVDZk5WTXhnMVNRZEpscTcwTDhETG1sZFVGRVhDcndmcUxRd0R6UDFGRlVxUFQ2ZVVSZGlXTVVsSWVMRjlTRFk2SWszcndIZEhMSmtpYmEwUQ?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-09-08T21:50:25+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Círculo Saúde inaugura hospital em Guaíba com investimento de R$ 10 milhões Correio do Povo"
     },
     {
       "id": "be04a4e0f605",
@@ -351,38 +371,18 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Prefeita de Guaíba participa de seminário sobre resiliência climática expansao.co"
-    },
-    {
-      "id": "e00f6b6a0947",
-      "titulo": "Com mais de 6 mil participantes, desfile do 7 de Setembro atrai grande público à orla do Guaíba em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczdSbGpnLTFlb3hDYzZJUnl1X0xxV0Z5OTFnenBrandqRU9rSGplMnZFNDZkd1hmQzI2RXhoWUVFb29OdkFoOTVRM0ZONElUMlV0cUF5NXloZEhrS1dNV0JaZHVDeDl2LVBtV0JiQ1pHNnY4OU1DSl9YamhkWE5ZdlJ4cUxUT3NHYkxPWmcxdzFCek9wZWtveGNYSG16eFFTVERETFUwb0VlSDJ3S0FyWXNyVk11b0FGNXczVXduck8tODZDTE5hWWZwcXR4Z2dU0gHWAUFVX3lxTE45SFBOOUdOSnA4cTdBNnFhLXR4Q05zNTZ3eG5aUjROSVA0Um9NWVFKbXc0Q3M0aC1uaDlwZXNCenpsU1dMamVfVlg2WWstczhXa1hhT0ZYNlk1QkM2bEFzSERvY0EyTU9JeFlOU2g2aHF4VlBsek9Gd0U0NDdXOGtNZlJheF9oZTQxWFRpRlRiLVhRZVlwb2JxMDZtNl9CZkFSLXEtSktSTjVEVlFwSEpTTHdxaWdLVkxCNGR5aTRZY2VSYkU0UEN0WXZXVHAwY0VnN3hFcHc?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-09-08T01:30:35+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Com mais de 6 mil participantes, desfile do 7 de Setembro atrai grande público à orla do Guaíba em Porto Alegre Jornal O Sul"
-    },
-    {
-      "id": "8c9bc80b5d71",
-      "titulo": "Desfile de 7 de Setembro registra mais de 6,2 mil pessoas na orla do Guaíba, em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbE1PWmZNU3kzVDFYNEJhdDFRMnY4ZkxMWURLVTJrYnVOeElGREswVFNGT1o3RUsxU3pRQVhrOW9DUnRqbXFBMWNxcnBHNDNjbkUyT3VDd2FCalRsazROZnBDZW1mQzZfVEdYWG5uTk44bWM4cHg3dXZFWUxBZmRvT0dsSE1KTTJQRG83RzdENXpKUHI5T2I5R0s3MXBxZE1HMThrWG5xejlGb01sTFZJWVdlVzJSZ9IBuwFBVV95cUxPT3BsczVkbjV4dlBTQTMtUGRNNkJOMEpWQTdEdlV0TnM3a29BTVRFYm93Tk1DYnVKNlBhZlZaYkp1dkt0TU40VXdWc09kUjdBVDEteXpKczJhU3hSR1pCTkpuOVVQNWluYkhmd0dzWnR0My0wY2gyZk9IR0xWZm42TG43ekxUamduY19CN0I4UUdzWlVfdHNHaW56NXZWRUsta296RE1RTjU3NmVESnVEQnZKMjNKMHBIY1Fr?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-09-07T18:13:14+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Desfile de 7 de Setembro registra mais de 6,2 mil pessoas na orla do Guaíba, em Porto Alegre Jornal O Sul"
     }
   ],
   "noticias_home": [
     {
-      "id": "bb279e02512f",
-      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
+      "id": "07441335e9fb",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-10T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
       "id": "b754c6ea2b2b",
@@ -395,6 +395,25 @@
       "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-10T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
+      "id": "bb279e02512f",
+      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-10T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Imagem da santa marcou a missa presidida pelo Dom Odair Miguel Gonsalves dos Santos, de Porto Alegre"
+    },
+    {
       "id": "c324af66d4b4",
       "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
       "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
@@ -403,25 +422,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
-    },
-    {
-      "id": "07441335e9fb",
-      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-10T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
-    },
-    {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-10T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
     },
     {
       "id": "1b2120203197",
@@ -434,14 +434,14 @@
       "resumo": "O prazo estimado total para conclusão dos trabalhos é de 60 dias"
     },
     {
-      "id": "818bac95001f",
-      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
+      "id": "4b0b194060fa",
+      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
+      "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
     },
     {
       "id": "9053a4a2b3f4",
