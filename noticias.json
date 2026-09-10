@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-10T18:57:03.479533+00:00",
+  "gerado_em": "2026-09-10T22:15:54.833332+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,16 @@
   ],
   "noticias": [
     {
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-10T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
+    },
+    {
       "id": "07441335e9fb",
       "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
@@ -84,6 +94,15 @@
       "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-10T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
       "id": "b754c6ea2b2b",
       "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
       "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
@@ -92,15 +111,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
-    },
-    {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-10T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
     },
     {
       "id": "bb279e02512f",
@@ -123,14 +133,14 @@
       "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
-      "id": "1b2120203197",
-      "titulo": "Programa Horas-Máquina completa um mês de serviço em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/programa-horas-maquina-completa-um-mes-de-servico-eme-guaiba",
+      "id": "818bac95001f",
+      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
+      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O prazo estimado total para conclusão dos trabalhos é de 60 dias"
+      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
     },
     {
       "id": "4b0b194060fa",
@@ -153,14 +163,14 @@
       "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
     },
     {
-      "id": "818bac95001f",
-      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
+      "id": "1b2120203197",
+      "titulo": "Programa Horas-Máquina completa um mês de serviço em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/programa-horas-maquina-completa-um-mes-de-servico-eme-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
+      "resumo": "O prazo estimado total para conclusão dos trabalhos é de 60 dias"
     },
     {
       "id": "d3237881830f",
@@ -177,7 +187,7 @@
       "titulo": "Círculo Saúde inaugura novo complexo hospitalar em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX2t2QXdHTzlQMW5MSG90eFhkcG1xcTM0SDgzTVhOMmJuNmhNZ1Y4d29wa1dWZld5VkM3blNEUzNwak9BVEdHcXVMZF9NazJoRDMzNEJKUlpVNzlIeDl6R2xPLVNfV3czdno3YTVMcWJXdzVuWUZfSkNTQUdpbG0tQVVyTHpnbF9jRjU1cHFNcnROdGlmZk9LN3NldWs1NlBnTVA3Y1ZzVzdxUzZ1ZTlNa3d3aVROMmxmNktKaC1JWDhIZTVIVFRwbk8tRXBPZGxJQTZhdGEwS1FHX2NpMU40?oc=5",
       "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-09-10T15:38:15+00:00",
+      "publicado_em": "2026-09-10T15:37:10+00:00",
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Círculo Saúde inaugura novo complexo hospitalar em Guaíba Jornal do Comércio"
@@ -206,11 +216,11 @@
       "id": "35f851fed22b",
       "titulo": "No RS, Lula estará em Canoas e Porto Alegre; visitas em Guaíba e NH são discutidas",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaktfX2xDal8xTHVVNkpJRndZYVJrcTZPWm5udzZPMDVCNHRudVN0dHpYMVFybDI3SGxraGVqbDAzR2pBRHF2NDVmYmdwcktaWHdoVC1zUVhqbVVrMkRWanYxV2Y2OTgtUm5sMGhEOElDamw5OFFPWWNFTUR2SGJQdmNTanI3M3dXVTNUejRCTlF2akZIZUpyOEJOamp2b0RHZWhxX0N0SXh6RGRaRG5IOUdhd21oQXpTZFNyVElfWTltNkEta3hTQ1Jyam56Y21rZDRIbS1wRDk5dWRMUnRiMzd1YVlaR1pvZTFDTG52Mi0tbUJ0aDdXWElVM3FCRFE?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-09-09T20:57:20+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "No RS, Lula estará em Canoas e Porto Alegre; visitas em Guaíba e NH são discutidas correiodopovo.com.br"
+      "resumo": "No RS, Lula estará em Canoas e Porto Alegre; visitas em Guaíba e NH são discutidas Correio do Povo"
     },
     {
       "id": "ed5e882617e5",
@@ -286,11 +296,11 @@
       "id": "d960b4b9b9e6",
       "titulo": "Novo hospital da Círculo Saúde será inaugurado neste mês de setembro em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaWtkMmdkWVVlQjJ1SEUyakpycGpKU183Z1djLUJCTjcxU240dEhnbHB2b0VZN25NczlnTXI3Q3p2S1pXRzVsWW51R0pNS1hzLXg0d2VodURvd3BQNjY4aWVyX1U3bURNNm5rUG5ELVR6d2VHc2l0RVA2ZEdkUFNaOFZybklESF9oTDZPNzFzWWRzQV9xbU5QTlNPeWJTS1o5dEc1Vm1MZHBIeVdSNkFEV3JZeXNMRmJtZndSSG9wWk9jRktoYkN0SnU5aUhhQkZyQVVIZk1RelFubmFKRFNj?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-09-08T21:57:15+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Novo hospital da Círculo Saúde será inaugurado neste mês de setembro em Guaíba correiodopovo.com.br"
+      "resumo": "Novo hospital da Círculo Saúde será inaugurado neste mês de setembro em Guaíba Correio do Povo"
     },
     {
       "id": "85fa38b03ad0",
@@ -361,19 +371,19 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Hospital do Círculo Saúde em Guaíba abre em setembro com investimento inicial de R$ 10 milhões Radio Caxias FM"
-    },
-    {
-      "id": "63fe6f62925b",
-      "titulo": "Prefeita de Guaíba participa de seminário sobre resiliência climática",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMW0tV1doaVNHVVpyZDM0MEs1UV8yc1pnY0V4blRKNlVrX0dBckdQYWg1UDU5ck5FZ3ZFX1FTRmw2UzI1b3RDZVd1ZUxCdldxVXVBQVpwSEE0TWZ2NkRweXVMSzFPYVZCZS1oMUM2Vl9uX0stYW5ueGdpekVsUmM3YmVPc0o5Y1lNbnJpY1BsN3FWdVZo?oc=5",
-      "fonte": "expansao.co",
-      "publicado_em": "2026-09-08T17:15:06+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Prefeita de Guaíba participa de seminário sobre resiliência climática expansao.co"
     }
   ],
   "noticias_home": [
+    {
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-10T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
+    },
     {
       "id": "07441335e9fb",
       "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
@@ -385,6 +395,15 @@
       "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
+      "id": "0a160b69ba5b",
+      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-10T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
       "id": "b754c6ea2b2b",
       "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
       "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
@@ -393,15 +412,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
-    },
-    {
-      "id": "0a160b69ba5b",
-      "titulo": "Sesc realiza cursos e oficinas de artesanato e capacitação profissional na Penitenciária Feminina de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/sesc-realiza-cursos-e-oficinas-de-artesanato-e-capacitacao-profissional-na-penitenciaria-feminina-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-10T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
     },
     {
       "id": "bb279e02512f",
@@ -424,14 +434,14 @@
       "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
-      "id": "1b2120203197",
-      "titulo": "Programa Horas-Máquina completa um mês de serviço em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/programa-horas-maquina-completa-um-mes-de-servico-eme-guaiba",
+      "id": "818bac95001f",
+      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
+      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O prazo estimado total para conclusão dos trabalhos é de 60 dias"
+      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
     },
     {
       "id": "4b0b194060fa",
@@ -442,16 +452,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
-    },
-    {
-      "id": "9053a4a2b3f4",
-      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
     }
   ]
 }
