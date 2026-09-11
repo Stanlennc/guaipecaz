@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-11T03:05:14.180705+00:00",
+  "gerado_em": "2026-09-11T08:34:34.372734+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,26 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "b754c6ea2b2b",
-      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-11T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
-    },
-    {
-      "id": "3e9269dd892d",
-      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-11T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
-    },
-    {
       "id": "bb279e02512f",
       "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
@@ -112,6 +92,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A atividade faz parte da nova fase do Visão Solidária"
+    },
+    {
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-11T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
+    },
+    {
+      "id": "b754c6ea2b2b",
+      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-11T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
       "id": "c324af66d4b4",
@@ -144,16 +144,6 @@
       "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
     },
     {
-      "id": "9053a4a2b3f4",
-      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
-    },
-    {
       "id": "1b2120203197",
       "titulo": "Programa Horas-Máquina completa um mês de serviço em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/programa-horas-maquina-completa-um-mes-de-servico-eme-guaiba",
@@ -162,6 +152,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O prazo estimado total para conclusão dos trabalhos é de 60 dias"
+    },
+    {
+      "id": "9053a4a2b3f4",
+      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
     },
     {
       "id": "821a278c8680",
@@ -264,14 +264,14 @@
       "resumo": "Guaíba realiza torneio de robótica e mostra científica expansao.co"
     },
     {
-      "id": "8d76dfae6146",
+      "id": "e61b40295e08",
       "titulo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba, em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT2E3TlItYnNNaWJzbmRzclBDWFF4NTVCSmd6VlhPVldDbmRITThJLWtZRXB3WVFkN2RlM1V0b1k1QXE1QjdjRlpuUFpobGZxT0h2X2U4ZFdBa2s5V0xWWTVrVkt2ZWhGNTZFMVZxQkZnaXl6QXE4ZDVBQkVQUTdjVmpjRFJYT0VzbDktQW1TOEE3NEtkVFdOdWEyd25RNTNyem9kanp2R3hEYl84a1QwVUw3ZTR4ZFl0NTZWUmI1dEVRdlM3TkE?oc=5",
-      "fonte": "radiocaicara.com.br",
-      "publicado_em": "2026-09-09T14:33:47+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV1lGY1FFV0taVTUtXzM2WWhwY1E2b1lGVkpzTnlJaHNjODNBZzlvT1hCbHdfRGhoQnlSTEFPM3czd1ZhTHVNajFpdkh1b2djQmlvdUlSb0ZRM1dCdDZET2pObll0LThzVEZDbC14OTRCeHdrM3pUaHEtd0NfTW9fclAzVkZ1TWxhYTIyeW5UcFRHbkZOQ3E3Z3l5RDNRcFRIZjB3WGY0ZFBVRkRkYUhCR0tsbklRNVVjZERRakF3aGNkeGc?oc=5",
+      "fonte": "Rádio Pampa",
+      "publicado_em": "2026-09-09T14:33:43+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba, em Porto Alegre radiocaicara.com.br"
+      "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba, em Porto Alegre Rádio Pampa"
     },
     {
       "id": "ba5b99ef15a0",
@@ -337,21 +337,21 @@
       "id": "77a6e8daa485",
       "titulo": "Hospital de Guaíba abre as portas sob gestão do Círculo Saúde no dia 28; veja mais destaques de economia",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORDgyNnRJSzJDZzhyOGlraHhEc2M2VVBwNHZDVWJyRWNZbkMzMjB0RWpUWnJHWkNKU2NvMEtsUWFqbHdadXN5eHR4YVlSbF8tb2NYdlpYQzNJTGhIRGcyLVV4VGVFc2l0ZElaY1NMXzR1ZGpsRjBCaDZTZl9oV090YXcyZUFGMGlRMFV2Z2FPRDQ3ZVNLU3RaaUR4S2duYnJXc1dHRDd2RUhQRGhrTHVWZWgwYTRiUmEtazI4LWU2VW5LTFRLel9acDU5VUdtWkE4WGZjdnd0Rnd0Y2NoQWE3ZXBNOE1Lb25xd21hVW1SeEpfZmlSdVVjcXdpV2o3WXJUWDY2cWw2WHV3dThKekNZU2hFb1VDcy14YkN5TWhwVG5yWEJRbjdHREtJdTJMZ2h5Q3Bsa0dISXNnaFpzYVZvLWN3?oc=5",
-      "fonte": "gauchazh.clicrbs.com.br",
+      "fonte": "GZH",
       "publicado_em": "2026-09-08T20:48:56+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Hospital de Guaíba abre as portas sob gestão do Círculo Saúde no dia 28; veja mais destaques de economia gauchazh.clicrbs.com.br"
+      "resumo": "Hospital de Guaíba abre as portas sob gestão do Círculo Saúde no dia 28; veja mais destaques de economia GZH"
     },
     {
       "id": "055de5106850",
       "titulo": "Catamarã Porto Alegre-Guaíba vai subir: Confira o novo valor da passagem",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc0tVNUF3YllHVlE1NkcyLTZtYlByTW42X25JOG9meFpiaFJfNTY1WWhVOER0RUpOS05vQkx5bjV5UEZmdFpSc1dLMWo4Ykt1QlZLN3dSWUVYSTFxMlU0MDVoaXVabV9PaHpaME96QWJMS19BOVp2Qzd0LVA3LXdHRjhNWEJkTWV3cHZnWW1uejg4bEg5d3ROaHdzZ3dTTGJnekNKMFg0TmljMjhvdEo3ODdLUzV6cDFubFJGUExqWno4Z2NWOFJVV1dQSWZvUmNGbTZwM29GT2VrZlVHOVFLdXVwQmwwUQ?oc=5",
-      "fonte": "terra.com.br",
+      "fonte": "Terra",
       "publicado_em": "2026-09-08T20:46:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Catamarã Porto Alegre-Guaíba vai subir: Confira o novo valor da passagem terra.com.br"
+      "resumo": "Catamarã Porto Alegre-Guaíba vai subir: Confira o novo valor da passagem Terra"
     },
     {
       "id": "f1add658a353",
@@ -376,26 +376,6 @@
   ],
   "noticias_home": [
     {
-      "id": "b754c6ea2b2b",
-      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-11T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
-    },
-    {
-      "id": "3e9269dd892d",
-      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-11T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
-    },
-    {
       "id": "bb279e02512f",
       "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-replicas-da-imagem-de-nossa-senhora-do-livramento-padroeira-da-cidade",
@@ -414,6 +394,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A atividade faz parte da nova fase do Visão Solidária"
+    },
+    {
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-11T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
+    },
+    {
+      "id": "b754c6ea2b2b",
+      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-11T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
       "id": "c324af66d4b4",
@@ -446,14 +446,14 @@
       "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
     },
     {
-      "id": "9053a4a2b3f4",
-      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
+      "id": "1b2120203197",
+      "titulo": "Programa Horas-Máquina completa um mês de serviço em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/programa-horas-maquina-completa-um-mes-de-servico-eme-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
+      "resumo": "O prazo estimado total para conclusão dos trabalhos é de 60 dias"
     }
   ]
 }
