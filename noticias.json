@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-15T20:54:29.066028+00:00",
+  "gerado_em": "2026-09-15T23:57:57.037121+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,46 @@
   ],
   "noticias": [
     {
+      "id": "1aa6f31caeca",
+      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-15T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
+    },
+    {
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-15T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
+    },
+    {
+      "id": "c324af66d4b4",
+      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-15T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
+    },
+    {
+      "id": "b754c6ea2b2b",
+      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-15T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
+    },
+    {
       "id": "4b993df4f7e4",
       "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
@@ -92,56 +132,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A atividade faz parte da nova fase do Visão Solidária"
-    },
-    {
-      "id": "c324af66d4b4",
-      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-15T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
-    },
-    {
-      "id": "3e9269dd892d",
-      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-15T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
-    },
-    {
-      "id": "1aa6f31caeca",
-      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-15T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
-    },
-    {
-      "id": "b754c6ea2b2b",
-      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-15T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
-    },
-    {
-      "id": "818bac95001f",
-      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
     },
     {
       "id": "1b2120203197",
@@ -164,6 +154,16 @@
       "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
     },
     {
+      "id": "818bac95001f",
+      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
+      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
+    },
+    {
       "id": "4b0b194060fa",
       "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
@@ -178,20 +178,30 @@
       "titulo": "Prefeitura de Guaíba divulga resultados da IV Mostra Científica e Tecnológica e do 1º Torneio Municipal de Robótica",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rZjhaTjVwcjgtNklRS19lTmw2cHh0SXVhUTE5c21kZnYzSU1LZ05mR2tyaF9LSnZ0ajhfVUtOeWo5Vno0M2JEUk5aenV5bmpsdGRLUUVIZjh5UWlnU3pqSUtLMTRTNkxTTzdZQTgzUnMtdVpqMWgwNDQ2VmZiQdIBgwFBVV95cUxPVDFGbDk2ZjZlZW9TcE1iQWMwMEphckV6N1B5eHl4NGwtNWdKbDU2UzZvU3FDWTIyeEFCcU1jblNocWFxb1pJUUE5ZnZrdVJvZjBBOGZiRDdJZG4wc3Z6cVdlUW5HT0tYUk0wbHRSMDJ1dG4tNWd6Wk4tdG9wclVkZktSbw?oc=5",
       "fonte": "Jornal O Sul",
-      "publicado_em": "2026-09-15T13:43:18+00:00",
+      "publicado_em": "2026-09-15T13:50:45+00:00",
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Prefeitura de Guaíba divulga resultados da IV Mostra Científica e Tecnológica e do 1º Torneio Municipal de Robótica Jornal O Sul"
     },
     {
+      "id": "ddeecff11859",
+      "titulo": "Arquivos IV Mostra Científica e Tecnológica de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSVTBsM3dLcE9WNXE2QUwyb1p4SS1XRkI3ZUhDU2J0UWRaOUJteFZidFVGSGVHR1diRHVaWmgwc05MRmlGZ2c0aW1KSWlDMmx2N2NqSXQ2blpIYzRWcW13RnVld1pkLUFXR0lXZmFGLS1wY1NkMFBjVXpn?oc=5",
+      "fonte": "expansao.co",
+      "publicado_em": "2026-09-15T13:30:03+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Arquivos IV Mostra Científica e Tecnológica de Guaíba expansao.co"
+    },
+    {
       "id": "adc7a5140d3d",
       "titulo": "Circuito da Longevidade Bradesco Seguros reuniu corredores às margens do Guaíba, em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcWFDakt2MHlkZ0xZR0xWN0tXalBJSWJRYTB6M0hDRG5FX2FCQ3lqVVVMVC1INVlHaS1tekNWZlhPalBwNHBzTi1wTjZpb3h0aVBlMGRPTmxxMWZ5RVE3cHYyT0UwSjZteUo1ckg3SGxxZ1pCUHI0Q2p2NTFVSERmV2N3TXdzT19TWmVYZUJtYzk2R2c5WTR4dnVIQWdfYkZPYWZHdjFCNkN3SXB4MFNUMmplVHFpN093NmlOQ3hkb04xWTU3d1VaVTFRS3M?oc=5",
-      "fonte": "Jornal O candeeiro",
+      "fonte": "jornalocandeeiro.com.br",
       "publicado_em": "2026-09-15T12:14:03+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Circuito da Longevidade Bradesco Seguros reuniu corredores às margens do Guaíba, em Porto Alegre Jornal O candeeiro"
+      "resumo": "Circuito da Longevidade Bradesco Seguros reuniu corredores às margens do Guaíba, em Porto Alegre jornalocandeeiro.com.br"
     },
     {
       "id": "e82fdab480a7",
@@ -242,6 +252,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Orla do Guaíba recebe show da Orquestra de Sopros de NH e banda The Dogs Portal Martin Behrend"
+    },
+    {
+      "id": "e4d31019ebfa",
+      "titulo": "Repórter da Rádio Guaíba é condecorado em aniversário de 62 anos do 1º Batalhão de Choque da Brigada Militar",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNmxXclhNa3J3Wjg3c3psN2hqVWotaWp2bHVsYzRNT05odC1Mcy1xT1pldGZ1VEdKNW9fUDN2blMzV2xaUjgtaHpRU0puWldKZk03LUVUR3MyWFZqLWtZNjhGblh3YlpUeHZjaHFJUHNmMFhHWEJGZlBTb0xWWTJQSG9XRUlLN1drbG5jZVc3WkhwVmpDaFNJOV96UnVTR1ExSDFpTl9GMWl5Ny1GSUV2bXJ1OU1hdTlacGluQnZFbndpRDNrNW4tNDNJRQ?oc=5",
+      "fonte": "guaiba.com.br",
+      "publicado_em": "2026-09-11T19:51:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Repórter da Rádio Guaíba é condecorado em aniversário de 62 anos do 1º Batalhão de Choque da Brigada Militar guaiba.com.br"
     },
     {
       "id": "3cbf9f2483de",
@@ -352,29 +372,49 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Válvulas redutoras de pressão na rede de água vão ampliar controle do abastecimento em Guaíba CORSAN"
-    },
-    {
-      "id": "ae2b8926fa54",
-      "titulo": "Atravessar o Guaíba a bordo do catamarã ficará 13% mais caro",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcGk1Z0hFVmtzQ09ueEVDNloxM2VNVXJxeC1fQUFNQy1fTWVlZ2ZFZFJyRUJMUGR5Z1I2b3dtOUxYcjhDZEdpSlMwXzQ3TTYweWFkRkxZS0dJYlU2LVhGMUpzVnJJTzJLNVExOHBhcVg3Zk5pc01wT3BYb1BTVk9XWlBaVXlQYk82Sy05WHNGWUV4emUz?oc=5",
-      "fonte": "Rádio Pampa",
-      "publicado_em": "2026-09-09T00:34:39+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Atravessar o Guaíba a bordo do catamarã ficará 13% mais caro Rádio Pampa"
-    },
-    {
-      "id": "d960b4b9b9e6",
-      "titulo": "Novo hospital da Círculo Saúde será inaugurado neste mês de setembro em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaWtkMmdkWVVlQjJ1SEUyakpycGpKU183Z1djLUJCTjcxU240dEhnbHB2b0VZN25NczlnTXI3Q3p2S1pXRzVsWW51R0pNS1hzLXg0d2VodURvd3BQNjY4aWVyX1U3bURNNm5rUG5ELVR6d2VHc2l0RVA2ZEdkUFNaOFZybklESF9oTDZPNzFzWWRzQV9xbU5QTlNPeWJTS1o5dEc1Vm1MZHBIeVdSNkFEV3JZeXNMRmJtZndSSG9wWk9jRktoYkN0SnU5aUhhQkZyQVVIZk1RelFubmFKRFNj?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-09-08T21:57:15+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Novo hospital da Círculo Saúde será inaugurado neste mês de setembro em Guaíba Correio do Povo"
     }
   ],
   "noticias_home": [
+    {
+      "id": "1aa6f31caeca",
+      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-15T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
+    },
+    {
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-15T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
+    },
+    {
+      "id": "c324af66d4b4",
+      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-15T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
+    },
+    {
+      "id": "b754c6ea2b2b",
+      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-15T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
+    },
     {
       "id": "4b993df4f7e4",
       "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
@@ -396,56 +436,6 @@
       "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
-      "id": "c324af66d4b4",
-      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-15T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
-    },
-    {
-      "id": "3e9269dd892d",
-      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-15T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
-    },
-    {
-      "id": "1aa6f31caeca",
-      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-15T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
-    },
-    {
-      "id": "b754c6ea2b2b",
-      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-15T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
-    },
-    {
-      "id": "818bac95001f",
-      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
-    },
-    {
       "id": "1b2120203197",
       "titulo": "Programa Horas-Máquina completa um mês de serviço em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/programa-horas-maquina-completa-um-mes-de-servico-eme-guaiba",
@@ -454,6 +444,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O prazo estimado total para conclusão dos trabalhos é de 60 dias"
+    },
+    {
+      "id": "9053a4a2b3f4",
+      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
     }
   ]
 }
