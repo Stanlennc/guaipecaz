@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-15T03:26:37.702119+00:00",
+  "gerado_em": "2026-09-15T11:05:32.444996+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -22,15 +22,6 @@
       "feed": "vagas"
     },
     {
-      "id": "66a7f7bdb864",
-      "titulo": "Mercado Livre abre vaga de Auxiliar de Logística em Guaíba com salário de até R$ 2.149 e benefícios",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV00tMGZoeUtZMEJDZzE3OWxIMFlpMUxvbHhUZENsRW5XMUxxX0VvSmZQeWZ1aFJ3REZmenJpUm1NaEpsNV9KTGRwVTlUbzh6WEV2eEZCcE5SdFozUFBac2ZsN1VNam9uOFRkSk83V0pkLWhMQXhJZi1fUUVxSTZFNzhZNXdwX3lEZmV1eGNGVkxWWnZYLTlXZTlXRVdxQUlkUXRBZHJodTNsSzVreG1qdmRUQlE4X2RQNmV0Q0NENzRlZURlclFtSWUzTFREb1J0Zk45WkdCaGtEeXlLX3cxU3RlS3lWci1Tc2c?oc=5",
-      "fonte": "portaldecamaqua.com.br",
-      "tipo": "vaga",
-      "publicado_em": "2026-07-25T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
       "id": "49c16b5cee41",
       "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzlHblVqUXlZbUdfMWhiMXhQdV9NVnlFeXRjakNxbFQwem12LTkxcWlQSkdMcHBDZm5QR0hiY3Z0MFFxQ1RNMW1ZRFpxV1I1elNuX3J1OEtpLWJXQm9jNFVyT0c0YXRvV1dDTE1mdWVmYmJxOWlhZXhEOGdOdEhfMEs0aTJ5T0dXQ29zVEFPNzlmbXJ1S1ZBUTNDX1phS1hkOVBqT25qOHRvUWVsNUZoSE5lSkJOTWxmSllxZ2pxYUVueGJWSkVR?oc=5",
@@ -47,15 +38,6 @@
       "tipo": "vaga",
       "publicado_em": "2026-07-17T07:00:00+00:00",
       "feed": "vagas"
-    },
-    {
-      "id": "d3c2091518bd",
-      "titulo": "Estão abertas as inscrições para a segunda edição do concurso de fotografia \"Olhares de Guaíba\"",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0JDLU5oLXJTSkctTGtFZXgxLXZnUkh6bjBBSWlYSnJ6YTlzTkFrcDJJbGZyWko3aVZJQlJKZ1QxbjdMVUYxNU1hMElrSlZnY180cTlfNHpuUEhzTjVVQlFRQzFXd0szN2JYOC1UazhxbWlMWm15VU8tUmw4Z1V6ZFZQbTVtMFNqajVpcERDNFZyYkpVWGtqYkNoVTBPcndDWGZ6RGJ6SWZBSk9sR0NQalFBNEdLblFnWi1JNHNwSkpYREg3eWt6Z2cyUFRKd0FCMU1naQ?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "concurso",
-      "publicado_em": "2026-07-16T07:00:00+00:00",
-      "feed": "concurso"
     },
     {
       "id": "a549bed95947",
@@ -79,7 +61,7 @@
       "id": "a6d75e6c7ff7",
       "titulo": "Nova gestora do hospital de Guaíba abre 120 vagas de emprego no local",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaUNVbzJHd3ZHZVhHNUVQdTZiZ2lKeE5HSWtVS1UtZ0NBVHV1eE9FZURPQkxvTVVPZW85ZlZvcjdPbFFHa1BGY0xuLVpMUW93Q2F1QmZDU0Vna2RQZGxkTV9zTGpoTndtaHdLSlVfY0Nrb1RkaC1vS290NXhEa21BREtoWVAwWHdBWGJVd3YxMHpfUV9IMzE4Rko2WU54OEtWVHdvWHRnZURzQUl2bEFTT1dkSFJmYmpUUi1nVFhmM09hSTdxaXExazJXX2V4XzlXaTZCRg?oc=5",
-      "fonte": "Jornal do Comércio",
+      "fonte": "jornaldocomercio.com",
       "tipo": "vaga",
       "publicado_em": "2026-06-23T07:00:00+00:00",
       "feed": "vagas"
@@ -110,6 +92,24 @@
       "tipo": "edital",
       "publicado_em": "2026-05-15T07:00:00+00:00",
       "feed": "edital"
+    },
+    {
+      "id": "d3131a89b6d1",
+      "titulo": "Rotary Guaíba e Secretaria de Educação divulgam o 4º Concurso Escolar de Oratória",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFhxakQwUmZLRzhCVGlEOGQtQmcyX2VlcjkwRVEzNXVWaFYzTkRjaUFFbEdVQTVlS25JQ2d3U0lDM0d6TUhZcUduX2c1SmVTSW9HY2U2R2tLZXN0SFpNUlA2VWVRRHVsV3p4SVE2bVkyYnBQeGhHeVF0OE5UclJkTXRGTUxQV0FwY0tuZXAzZEJ6cEZGUGJwRmJFWXEzQVdJaVJvcEFUb0N2WUFmbzdqbGp0ZFprUFFqdFZyLVRtTWZISGM?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "concurso",
+      "publicado_em": "2026-04-23T07:00:00+00:00",
+      "feed": "concurso"
+    },
+    {
+      "id": "77a0ee2578b3",
+      "titulo": "Frentista, vendedor, auxiliar de cozinha e mais: Sine Guaíba tem 16 vagas de emprego nesta semana",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ3h0bFZtY2dTSEdnWVVXanVReTVpY2ZVclEtUGNKTWJYd2gtWlpUNzRlX01uakE0SHF3RWNZa3hqdks0NlVacVUtbmRnOVZOdjZ0T3RXNU9VbFlDLVJOY2ZGVU1iSTd4Z2pOZ0s0amNPaW1RZ3BDVTFKVGJNdUlkTnpiLUlWLXVna1BBczU1eDhjNDBpbE1PMGExSm9FMmdvLXNNcUhlQXRReHhYaWVWZUkwN3JCejY0VXVRX21NUXlXNHFDOHdsSEFrQUI0WndjVUVGaDh3?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-04-23T07:00:00+00:00",
+      "feed": "vagas"
     }
   ]
 }
