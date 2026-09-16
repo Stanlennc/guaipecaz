@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-16T04:15:47.897841+00:00",
+  "gerado_em": "2026-09-16T10:52:26.478403+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,16 +84,6 @@
       "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
-      "id": "c324af66d4b4",
-      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-16T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
-    },
-    {
       "id": "3e9269dd892d",
       "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
@@ -104,14 +94,14 @@
       "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
     },
     {
-      "id": "4b993df4f7e4",
-      "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
+      "id": "c324af66d4b4",
+      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-16T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
+      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
       "id": "1aa6f31caeca",
@@ -134,6 +124,16 @@
       "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
+      "id": "4b993df4f7e4",
+      "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-16T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
+    },
+    {
       "id": "9053a4a2b3f4",
       "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
@@ -154,16 +154,6 @@
       "resumo": "O prazo estimado total para conclusão dos trabalhos é de 60 dias"
     },
     {
-      "id": "4b0b194060fa",
-      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
-    },
-    {
       "id": "818bac95001f",
       "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
       "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
@@ -172,6 +162,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
+    },
+    {
+      "id": "4b0b194060fa",
+      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/por-12-a-4-camara-aprova-projeto-que-altera-gratificacao-de-profissionais-da-educacao-especial-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposta da prefeita Claudinha Jardim muda as regras para o pagamento da Gratificação pelo Exercício em Classe Especial"
     },
     {
       "id": "85e5715af3a6",
@@ -215,13 +215,13 @@
     },
     {
       "id": "23b8441dea0e",
-      "titulo": "Mais de 10 mil pessoas celebram os 80 anos de Sesc/RS e Senac-RS na Orla do Guaíba - sesc-rs.com.br",
+      "titulo": "Mais de 10 mil pessoas celebram os 80 anos de Sesc/RS e Senac-RS na Orla do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWZLY0R5RVRNLTM1OE9qeHRlUmFmVURHUFQ4eW05ZGZGakw4bFRMS1BXRXBVcm5BMjV6QXNwV2dXRE0wMlR6ZW0wSE9aMUFjYkpXamZGal82aFhoQVVRQWtmaWtxYmNFejNLQVZDNFNQXzI3TWFOS3lSYXQtWGlsZkVBdXd2cjA4Q0Nxc2VBbnJkUlQ2N2Z2RmRjSnhQUl9qRUZoZHVneUVmOGxSMVI1a09YNEIzREhydGc?oc=5",
-      "fonte": "sesc-rs.com.br",
+      "fonte": "Sesc/RS",
       "publicado_em": "2026-09-14T12:36:42+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Mais de 10 mil pessoas celebram os 80 anos de Sesc/RS e Senac-RS na Orla do Guaíba sesc-rs.com.br"
+      "resumo": "Mais de 10 mil pessoas celebram os 80 anos de Sesc/RS e Senac-RS na Orla do Guaíba Sesc/RS"
     },
     {
       "id": "433c623b5d72",
@@ -254,6 +254,16 @@
       "resumo": "Orla do Guaíba recebe show da Orquestra de Sopros de NH e banda The Dogs Portal Martin Behrend"
     },
     {
+      "id": "e4d31019ebfa",
+      "titulo": "Repórter da Rádio Guaíba é condecorado em aniversário de 62 anos do 1º Batalhão de Choque da Brigada Militar",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNmxXclhNa3J3Wjg3c3psN2hqVWotaWp2bHVsYzRNT05odC1Mcy1xT1pldGZ1VEdKNW9fUDN2blMzV2xaUjgtaHpRU0puWldKZk03LUVUR3MyWFZqLWtZNjhGblh3YlpUeHZjaHFJUHNmMFhHWEJGZlBTb0xWWTJQSG9XRUlLN1drbG5jZVc3WkhwVmpDaFNJOV96UnVTR1ExSDFpTl9GMWl5Ny1GSUV2bXJ1OU1hdTlacGluQnZFbndpRDNrNW4tNDNJRQ?oc=5",
+      "fonte": "Rádio Guaíba",
+      "publicado_em": "2026-09-11T19:51:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Repórter da Rádio Guaíba é condecorado em aniversário de 62 anos do 1º Batalhão de Choque da Brigada Militar Rádio Guaíba"
+    },
+    {
       "id": "3cbf9f2483de",
       "titulo": "Orla do Guaíba terá shows e atrações gratuitas neste domingo",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOHMyUy1aSHgyN1R2eGFPNzBoM0txSjBHRmNDSHdJbDJxVkJYMDdGVDdLYWRJeDdaMzB0NURmMk5ocUFyWkVQdzE5elBlbks1OUVFaEZYZVNUcXllZlJCdU1ZQ25zV2dDemZzSE83WFFvX1lONHNULXZrN1J5UnBCSlNqUmI1WW44OG9yeFdHNGdmaHp5N0F6VGM5Mll1WHZNWm91ekhvTHNaYmZrU2JjNmxvUjc?oc=5",
@@ -267,21 +277,21 @@
       "id": "4390a1243906",
       "titulo": "Brasil Beach Games estreia no final de semana em Porto Alegre com três dias de competições gratuitas na Orla do Guaíba e no Parque Marinha do Brasil",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QZmtoUXRvNUxQM1p1U3A2cm1nakhwb3NZTG9KWkdka04tZmxVZDlkNE1rbXpPaEJ0alVVMHc1ekp6cVlyN3BtQ1JlYllGVzNFdV80QlpXWFNhRS1SREp5VTNpRjJ4VGV2eW9jNjdXNA?oc=5",
-      "fonte": "consumidorrs.com.br",
+      "fonte": "Consumidor RS",
       "publicado_em": "2026-09-11T17:07:15+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Brasil Beach Games estreia no final de semana em Porto Alegre com três dias de competições gratuitas na Orla do Guaíba e no Parque Marinha do Brasil consumidorrs.com.br"
+      "resumo": "Brasil Beach Games estreia no final de semana em Porto Alegre com três dias de competições gratuitas na Orla do Guaíba e no Parque Marinha do Brasil Consumidor RS"
     },
     {
       "id": "ef355d096f8e",
       "titulo": "Orla do Guaíba terá shows e atividades gratuitas neste domingo",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPemVJMVlOQ2k4dVFDLWVwWDBqTFpCLU9JZ295VWh5Nk5HdUk4STR2QS1CV2tqXzZxZmxaa2ItQjduWDFaSkR6Y1hRRnJQSWV3ZjM0VEFJMDJrRlFGeTB4YWRKT2hicndOQ0g5UUZ2Ny1jZGJiTnJ1SEJZRlQ5dGdtQzNMZUNDQWY3XzJ1MmdzY0wxNFdwdmc4Y3N6R1paV2dF?oc=5",
-      "fonte": "Agora RS",
+      "fonte": "agorars.com",
       "publicado_em": "2026-09-11T16:28:02+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Orla do Guaíba terá shows e atividades gratuitas neste domingo Agora RS"
+      "resumo": "Orla do Guaíba terá shows e atividades gratuitas neste domingo agorars.com"
     },
     {
       "id": "1f213d313539",
@@ -317,11 +327,11 @@
       "id": "ead2cb1bac53",
       "titulo": "AGERGS aumenta tarifa da Catsul para R$ 19,15 entre Porto Alegre (RS) e Guaíba (RS) e dá 60 dias à Metroplan para analisar reequilíbrio",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMXVuRU1LdGlDcDlEaF8zY0NCbWZNWmdNNXFoNFg0YkxCWjBVY0JqRHduZ1JSUUdmbmJjYWFzbUtCOHFsWVBLR3RmdkhveE4tQlIyRmZHZ1hGM2lSM2hNZ3FEZGUtN3R4Y25CcEFhdWlYeU53Tm9xTHlrdHdPMW9nX1g3eWJqOEhpSGYyekdjU0Nhd1JJVlhsQkRrbXlUWkJ5V3NHWEJ4RHJOZ2ZvRW16Q0V4SEhkYTVpM1EyLTVKR0RkQ0Y2WnRoT3hzSDFGNVM1dGo5OG9GNHZBZHdqeXZCN1JuM1ZHajFDeUdybmdpakJiZTBDYnJ6bzNtOFlUZzEtSjhZZm5R0gGLAkFVX3lxTFBmZnBuSndJbUo0eFczaFo0QlYwVmFsT0VxTkYwS01Hc3RESHhXRWxZOWpPeTBkV2xDb0laWjgzNWI4c1l2UVJtN05MU1ZsVWRtRjNJYk5ubElzZkpWd3VLWEhiVy1SQWxvT2xvWjFtdzdSQW1Bbnc2aUhTamdNbUZzYzJkZVo5SGJXQXFielE4Y1J6Z182OWNJVmVuMFVwOG9mQ1NvYkNxVk9xeFZnbDBTd0pZcEY0T3JBY3RKaWJOeEt1RkdnX05XQ2RtWGFVOVMxN0F0Q0loQTNBNGhwblRxT24zN0ZSZVpLZmNPV2Vsd19aXzBhNi01UjJLWkdqSnJOeFFJLXB6UXAzcw?oc=5",
-      "fonte": "Diário do Transporte",
+      "fonte": "diariodotransporte.com.br",
       "publicado_em": "2026-09-10T15:07:03+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "AGERGS aumenta tarifa da Catsul para R$ 19,15 entre Porto Alegre (RS) e Guaíba (RS) e dá 60 dias à Metroplan para analisar reequilíbrio Diário do Transporte"
+      "resumo": "AGERGS aumenta tarifa da Catsul para R$ 19,15 entre Porto Alegre (RS) e Guaíba (RS) e dá 60 dias à Metroplan para analisar reequilíbrio diariodotransporte.com.br"
     },
     {
       "id": "52fc192f232a",
@@ -344,6 +354,16 @@
       "resumo": "Sesc/RS e Senac-RS celebram 80 anos com programação gratuita na Orla do Guaíba, em Porto Alegre radiocaicara.com.br"
     },
     {
+      "id": "ba5b99ef15a0",
+      "titulo": "Passagem do Catamarã sobe 13,29% na travessia entre Porto Alegre e Guaíba; veja quanto fica o novo preço",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNkVJN2tSeUt4RVdiRl9FQVdzZC1IUllXZzBiUk5rOGgzUHlPZTdmZnB4TVJOa2t6QzRrQXNOSmpuZkZGaGFIN2VSU2NVVkU2LWp3Uzc4X1AyR0JxSE9HMVFaQU1UdXNWSVd3NWEwa3IweU9IeVpMUTBRZGVmZTBQY2ZmNUdGcEZPdTZ4ZFlWZ2d5MjRLeGoway1iczBMRmVzSW03NWZ4dHRBOVVuM3YxZTdaS2RlTmNibnI0NDNfbFh6dHk4VUZtU2ZaQnVrVUh0WnVWU2N3d3dfa085Q1UwQ19xTU1xZw?oc=5",
+      "fonte": "abcmais.com",
+      "publicado_em": "2026-09-09T14:04:47+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Passagem do Catamarã sobe 13,29% na travessia entre Porto Alegre e Guaíba; veja quanto fica o novo preço abcmais.com"
+    },
+    {
       "id": "dc0c7d300d86",
       "titulo": "Válvulas redutoras de pressão na rede de água vão ampliar controle do abastecimento em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNek80OHZ5QjYteHc1ZXZ5aF82cV95YWdDT280cUpmVFZialowOXBnUUhxSDdRQ21TRDl6NHhZT2R5MjdEN0lFakNHaGlDM1VRd3V3UGhLN0VzT2xXUk9lY3JFS0Rka0tTVVJ2dzE2RlRaTUFBTjhxRDdTRmNvSGdacHFBTmg4R2pEbWliS2xfRUlqUWF1S3RmQW1ROWt5V2JEbk5QeWswM1A4cmxLc3l3YkJVOGxfT1NLNEhuZQ?oc=5",
@@ -352,26 +372,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Válvulas redutoras de pressão na rede de água vão ampliar controle do abastecimento em Guaíba CORSAN"
-    },
-    {
-      "id": "be6f79fb1933",
-      "titulo": "Empresa de Guaíba apresenta melhor proposta para construção do CAPS AD III em Santa Cruz",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa05BbGVCcGMzZ1EwWnZ5MnZFejVFNnJLRnJWS3E0dWlwNDZvZ2ZKRmsweDh5dF8tbFNJTVQ3VWdrMUV1OHV4Qk1pV3FNUnhsa0dCbkVNQ0RoWGlwRjM5VGVmby1mVjV0aUlid1lrclBfb3ZqckR6dG5kcjJJMHdFNjNfSFRPQmNXMW1HeTloSVZSdHMtZnFlQjhSNld6SklKWjJJblBFVTJGV19wTDJFTEJ3dGxsN1d5VFJubkd0cU1FOVVJREE?oc=5",
-      "fonte": "Portal Arauto",
-      "publicado_em": "2026-09-09T12:29:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Empresa de Guaíba apresenta melhor proposta para construção do CAPS AD III em Santa Cruz Portal Arauto"
-    },
-    {
-      "id": "be04a4e0f605",
-      "titulo": "Tarifa do catamarã entre Porto Alegre e Guaíba tem reajuste de 13% aprovado",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkNBUjJBeUFiQ1dEWmwwNnpqRnRxRkFPcHB5b1A3SnVUU2VkLW9HXzBwMGRWVTVQbC0wNmhmc1ROdHROTXRFTk1Ec0VUaVViaW1XbW5MZ1V2d1g2UllvQ21DSDhVQWREd3pjTHZyS3lZMDNxWFdrR2NadEpOMmQ0dFhWV0lqb0Z6M0E?oc=5",
-      "fonte": "Agora RS",
-      "publicado_em": "2026-09-08T21:10:51+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Tarifa do catamarã entre Porto Alegre e Guaíba tem reajuste de 13% aprovado Agora RS"
     }
   ],
   "noticias_home": [
@@ -386,16 +386,6 @@
       "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
-      "id": "c324af66d4b4",
-      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-16T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
-    },
-    {
       "id": "3e9269dd892d",
       "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
@@ -406,14 +396,14 @@
       "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
     },
     {
-      "id": "4b993df4f7e4",
-      "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
+      "id": "c324af66d4b4",
+      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-vagalumes-da-esperanca-de-guaiba-e-contemplado-pelo-fundo-valor-local-da-cmpc",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-16T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
+      "resumo": "Ao todo, serão distribuídos mais de R$ 500 mil para iniciativas selecionadas no Rio Grande do Sul e no Paraná"
     },
     {
       "id": "1aa6f31caeca",
@@ -434,6 +424,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A atividade faz parte da nova fase do Visão Solidária"
+    },
+    {
+      "id": "4b993df4f7e4",
+      "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-16T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
     },
     {
       "id": "9053a4a2b3f4",
