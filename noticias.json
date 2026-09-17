@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-17T21:00:35.326124+00:00",
+  "gerado_em": "2026-09-17T23:54:44.609880+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,16 @@
   ],
   "noticias": [
     {
+      "id": "1aa6f31caeca",
+      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-17T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
+    },
+    {
       "id": "3e9269dd892d",
       "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
@@ -82,6 +92,15 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
+    },
+    {
+      "id": "8402ea905dc4",
+      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
+      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-17T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
     },
     {
       "id": "b754c6ea2b2b",
@@ -94,35 +113,6 @@
       "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
-      "id": "07441335e9fb",
-      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-17T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
-    },
-    {
-      "id": "1aa6f31caeca",
-      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-17T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
-    },
-    {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-17T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
       "id": "4b993df4f7e4",
       "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
@@ -133,14 +123,14 @@
       "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
     },
     {
-      "id": "9053a4a2b3f4",
-      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
+      "id": "07441335e9fb",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-09-17T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
+      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
       "id": "1b2120203197",
@@ -151,6 +141,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O prazo estimado total para conclusão dos trabalhos é de 60 dias"
+    },
+    {
+      "id": "9053a4a2b3f4",
+      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
     },
     {
       "id": "818bac95001f",
@@ -303,16 +303,6 @@
       "resumo": "Vivian Leal retorna à Record Guaíba como chefe de Reportagem Coletiva.net"
     },
     {
-      "id": "f8aa825ab5d3",
-      "titulo": "Rádio Guaíba realiza sabatinas com candidatos ao Senado durante o ‘Esfera Pública’",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3A1Z2NaS1ZBNG4yRnZ1bUNxSUtPMl9ER1pOd3dUckI0UWJJN2Q2OFRRcWdsdzBpTml5azMxZk9OQ0xpWTZIZWhtOHV4N0g4cWpNOXN6cWZ1VzBFVVVuUFM2N2I4QlZ2RllGZHZDU09XdzJzbG9ubDkxWmRXQm9qUjVFRWV3TExKQzRfRlMzUmNaU2NQVVFIaFdWbHFpMTFIeVdHUGJYbEJCbmRJTnJIQg?oc=5",
-      "fonte": "Coletiva.net",
-      "publicado_em": "2026-09-10T21:04:13+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Rádio Guaíba realiza sabatinas com candidatos ao Senado durante o ‘Esfera Pública’ Coletiva.net"
-    },
-    {
       "id": "ead2cb1bac53",
       "titulo": "AGERGS aumenta tarifa da Catsul para R$ 19,15 entre Porto Alegre (RS) e Guaíba (RS) e dá 60 dias à Metroplan para analisar reequilíbrio",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMXVuRU1LdGlDcDlEaF8zY0NCbWZNWmdNNXFoNFg0YkxCWjBVY0JqRHduZ1JSUUdmbmJjYWFzbUtCOHFsWVBLR3RmdkhveE4tQlIyRmZHZ1hGM2lSM2hNZ3FEZGUtN3R4Y25CcEFhdWlYeU53Tm9xTHlrdHdPMW9nX1g3eWJqOEhpSGYyekdjU0Nhd1JJVlhsQkRrbXlUWkJ5V3NHWEJ4RHJOZ2ZvRW16Q0V4SEhkYTVpM1EyLTVKR0RkQ0Y2WnRoT3hzSDFGNVM1dGo5OG9GNHZBZHdqeXZCN1JuM1ZHajFDeUdybmdpakJiZTBDYnJ6bzNtOFlUZzEtSjhZZm5R0gGLAkFVX3lxTFBmZnBuSndJbUo0eFczaFo0QlYwVmFsT0VxTkYwS01Hc3RESHhXRWxZOWpPeTBkV2xDb0laWjgzNWI4c1l2UVJtN05MU1ZsVWRtRjNJYk5ubElzZkpWd3VLWEhiVy1SQWxvT2xvWjFtdzdSQW1Bbnc2aUhTamdNbUZzYzJkZVo5SGJXQXFielE4Y1J6Z182OWNJVmVuMFVwOG9mQ1NvYkNxVk9xeFZnbDBTd0pZcEY0T3JBY3RKaWJOeEt1RkdnX05XQ2RtWGFVOVMxN0F0Q0loQTNBNGhwblRxT24zN0ZSZVpLZmNPV2Vsd19aXzBhNi01UjJLWkdqSnJOeFFJLXB6UXAzcw?oc=5",
@@ -321,6 +311,16 @@
       "categoria": null,
       "feed": "google",
       "resumo": "AGERGS aumenta tarifa da Catsul para R$ 19,15 entre Porto Alegre (RS) e Guaíba (RS) e dá 60 dias à Metroplan para analisar reequilíbrio Diário do Transporte"
+    },
+    {
+      "id": "35f851fed22b",
+      "titulo": "No RS, Lula estará em Canoas e Porto Alegre; visitas em Guaíba e NH são discutidas",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaktfX2xDal8xTHVVNkpJRndZYVJrcTZPWm5udzZPMDVCNHRudVN0dHpYMVFybDI3SGxraGVqbDAzR2pBRHF2NDVmYmdwcktaWHdoVC1zUVhqbVVrMkRWanYxV2Y2OTgtUm5sMGhEOElDamw5OFFPWWNFTUR2SGJQdmNTanI3M3dXVTNUejRCTlF2akZIZUpyOEJOamp2b0RHZWhxX0N0SXh6RGRaRG5IOUdhd21oQXpTZFNyVElfWTltNkEta3hTQ1Jyam56Y21rZDRIbS1wRDk5dWRMUnRiMzd1YVlaR1pvZTFDTG52Mi0tbUJ0aDdXWElVM3FCRFE?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-09-09T20:57:20+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "No RS, Lula estará em Canoas e Porto Alegre; visitas em Guaíba e NH são discutidas Correio do Povo"
     },
     {
       "id": "be04a4e0f605",
@@ -336,11 +336,11 @@
       "id": "5542bc91c39f",
       "titulo": "Gasolina sobe em Guaíba (RS) nesta semana; veja preço do litro",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMDVtc1BHSGh2OFdhMFNkNm8wMy13cmhmaDF0OEN5RUZvQWN4WDBpMk9YdkQxS0hjZHlKVmlnLW5ob3ZLVGRGSXMxc2dOSlI2ZDFVV2hNYmVxVk1vLVNWWmw0Mm40TGhVb3lmelpLMVF1R2NqZ2tvT0RlZS1BYndIODNOZkZfbVFHVHdEUlNKc1dnU1NwMkNoTEcwVXVrRmtOc3M1bnZ6TndPNGJiY1B4dm9uVE10c1REYkxRWQ?oc=5",
-      "fonte": "UOL Economia",
+      "fonte": "economia.uol.com.br",
       "publicado_em": "2026-09-05T07:00:00+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "Gasolina sobe em Guaíba (RS) nesta semana; veja preço do litro UOL Economia"
+      "resumo": "Gasolina sobe em Guaíba (RS) nesta semana; veja preço do litro economia.uol.com.br"
     },
     {
       "id": "f8af57d69c9e",
@@ -375,6 +375,16 @@
   ],
   "noticias_home": [
     {
+      "id": "1aa6f31caeca",
+      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-17T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
+    },
+    {
       "id": "3e9269dd892d",
       "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
@@ -383,6 +393,15 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
+    },
+    {
+      "id": "8402ea905dc4",
+      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
+      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-17T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
     },
     {
       "id": "b754c6ea2b2b",
@@ -395,35 +414,6 @@
       "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
-      "id": "07441335e9fb",
-      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-17T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
-    },
-    {
-      "id": "1aa6f31caeca",
-      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-17T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
-    },
-    {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-17T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
       "id": "4b993df4f7e4",
       "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
@@ -434,14 +424,14 @@
       "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
     },
     {
-      "id": "9053a4a2b3f4",
-      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
+      "id": "07441335e9fb",
+      "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-09-17T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
+      "resumo": "A atividade faz parte da nova fase do Visão Solidária"
     },
     {
       "id": "1b2120203197",
@@ -452,6 +442,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O prazo estimado total para conclusão dos trabalhos é de 60 dias"
+    },
+    {
+      "id": "9053a4a2b3f4",
+      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
     }
   ]
 }
