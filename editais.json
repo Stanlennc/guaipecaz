@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-17T10:58:37.691224+00:00",
+  "gerado_em": "2026-09-17T16:15:18.942111+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -10,6 +10,15 @@
       "fonte": "Repórter Guaibense",
       "tipo": "vaga",
       "publicado_em": "2026-09-10T18:56:00+00:00",
+      "feed": "vagas"
+    },
+    {
+      "id": "222af359a8b8",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTURzNW01X2p1R2RIRjdKWDdhQnRQMnpoakNGckF0andQTEhjUWZTLXkxVzlBVF94bmp2VzB5bE5UQ0I0Nm1GSXNtampTOGtDTUp3SThLdGxybVRoVFNRNmJWZ0JCdnd3SFBaX213OVEtQVItbmI1TTFXSWI3ZUlSLU5BTXJGckE1OExjemxfWHN1RGZRTTBGS3hnX3dFdVRnQ1FjX3lRODlKTTJ4VjYtT04xdlh2YU1qUy1CMzlFUko2VnJfQWhFTkg5LUVZcnpTaFdXOUxPSzhYM1U?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-08-04T07:00:00+00:00",
       "feed": "vagas"
     },
     {
@@ -101,15 +110,6 @@
       "tipo": "edital",
       "publicado_em": "2026-05-15T07:00:00+00:00",
       "feed": "edital"
-    },
-    {
-      "id": "d3131a89b6d1",
-      "titulo": "Rotary Guaíba e Secretaria de Educação divulgam o 4º Concurso Escolar de Oratória",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFhxakQwUmZLRzhCVGlEOGQtQmcyX2VlcjkwRVEzNXVWaFYzTkRjaUFFbEdVQTVlS25JQ2d3U0lDM0d6TUhZcUduX2c1SmVTSW9HY2U2R2tLZXN0SFpNUlA2VWVRRHVsV3p4SVE2bVkyYnBQeGhHeVF0OE5UclJkTXRGTUxQV0FwY0tuZXAzZEJ6cEZGUGJwRmJFWXEzQVdJaVJvcEFUb0N2WUFmbzdqbGp0ZFprUFFqdFZyLVRtTWZISGM?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "concurso",
-      "publicado_em": "2026-04-23T07:00:00+00:00",
-      "feed": "concurso"
     }
   ]
 }
