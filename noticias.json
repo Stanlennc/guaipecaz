@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-18T14:06:26.229493+00:00",
+  "gerado_em": "2026-09-18T18:52:43.709565+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,25 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "4b993df4f7e4",
-      "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-18T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
-    },
-    {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-18T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
       "id": "b754c6ea2b2b",
       "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
       "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
@@ -113,6 +94,15 @@
       "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
     },
     {
+      "id": "8402ea905dc4",
+      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
+      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-18T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
       "id": "1aa6f31caeca",
       "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
@@ -121,6 +111,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
+    },
+    {
+      "id": "4b993df4f7e4",
+      "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-18T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
     },
     {
       "id": "07441335e9fb",
@@ -163,14 +163,24 @@
       "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
     },
     {
+      "id": "6c3320135cae",
+      "titulo": "Maranata aposta na experiência como empresário e prefeito de Guaíba para governar o RS",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSXJRMml4b2g0ZEdENjFWWFRYVFBtOEZQS3NMUkoyZ3A4QUhjRzU2OGhsWmpXYURXTHlrNnZyMFlCd1o5VkVTeVozRVNzSldnVnpNS25paU1xY0duNUdHN0RrRGxHQXN0Z2J2ZmZwMlRYTXZyY2l4c2tXdzNMMmk1M2VnRWZ6U21zUnhzLTMxU2w5b1hoT2V2cTI2bldrTzFQRmNKazllZFU1OHozQXpQNVk3UTRJRFFXb1JfZkpXZFVUN3Nob21wRHFLNlRfZ3YtOER2d0RnLTJhaDh1TUJSYjNvcFhsV0h2c3JpRTZ6UDJIMU1vTjJTR0l2X3d6Q2psS1FGQnZGNA?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-09-18T16:17:25+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Maranata aposta na experiência como empresário e prefeito de Guaíba para governar o RS Correio do Povo"
+    },
+    {
       "id": "52046e6a98f5",
       "titulo": "Record Guaíba: notícia que não termina",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDMUJuSXh1Q2x4cERpRmdLeEF3QWJyQnZHQUhjbXNjVUFFS25EXzFjSVJRNHUzSHJXLTBESms2eUtVdTRreE9adVI4ZFRDOUxmWUlOcVdtdU5pX2h0SDg1ZUlhOTlEVVZDNWhWOGFHWEZQcXBZSjRobkFB?oc=5",
-      "fonte": "Coletiva.net",
+      "fonte": "coletiva.net",
       "publicado_em": "2026-09-16T21:32:32+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Record Guaíba: notícia que não termina Coletiva.net"
+      "resumo": "Record Guaíba: notícia que não termina coletiva.net"
     },
     {
       "id": "ad5a57d38567",
@@ -186,11 +196,11 @@
       "id": "ff462bd0549e",
       "titulo": "Guaíba recebe o Festival Paralímpico Brasileiro pela primeira vez",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6TGwwODRySWU0a1Q4NXVUWTZZOE5XNUp1RXo2RlVzbFBkV2VWSm96dFhvMzZ1XzV4dHNMYmE4bzE0M2RoYlo1cDBXbFJmUjAtVENXaUJSNzFqeGFQR3V0Sy1ZNFNwS3NXUmJVREtHYUxqeWh3aUlDVE1EUFfSAYIBQVVfeXFMT0R6Y29pMERLTkZscWd0OVJCM3o5R1YyQmZ5QWVpMnV6YUxoV0EyY21OQjZaZ2pVRGVvZDBZdmFBcmtpNzlyX2I3ZFd1eVVpblZXOGtqYklaQnZWUWwzN2NMNFhHdFN4Rk1tZlBZSVFkVnpRaVlzUndKZlJBQmNhTmUzUQ?oc=5",
-      "fonte": "osul.com.br",
+      "fonte": "Jornal O Sul",
       "publicado_em": "2026-09-16T20:42:19+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Guaíba recebe o Festival Paralímpico Brasileiro pela primeira vez osul.com.br"
+      "resumo": "Guaíba recebe o Festival Paralímpico Brasileiro pela primeira vez Jornal O Sul"
     },
     {
       "id": "efe26d10d242",
@@ -246,51 +256,21 @@
       "id": "ab428dd3471a",
       "titulo": "Orla do Guaíba recebe show da Orquestra de Sopros de NH e banda The Dogs",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0lrYjNnd1ZpbW5mODlMUDZoLTNwdEVMbE8tcnpLcXpiYTBBWXFhc2dJckF5VUJBb2J6Vjh2R3p3ODA3X0JiS1hyTkd4RndaTklqbndiWnlTLVJSZkM3Q1N1RGVucjJLUEIxU05GVU16SFpNZUYzN1l2eXpoLS1tenRfQjRUN1RfTmE5ZktfWk1fR3pYTFhzMjk2Qkp3MzVka2gzY2ZTMzhzbzdJ0gGyAUFVX3lxTE1TMTVQWEM0TU1rMnRCclJLZTk1UWRhS2VVUTRjTjdCekxpM2MtU01mbGEyMTU5bHpKQTlpdnVxOU9jVHB4Wks2NlVGTzJocXR1NUdkdTd5Y3NYUWthakdSSmlwejhESTJzbjJremU3ckdmc2N3cnJwWUttUG9uMkJlMFI3V1ViV05CZjNfdko0UHdkUzRBYWp6TGxZVUxVZUk5TEMyTVVTYUdTdnZaNzcxVVE?oc=5",
-      "fonte": "martinbehrend.com.br",
+      "fonte": "Portal Martin Behrend",
       "publicado_em": "2026-09-12T11:25:15+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Orla do Guaíba recebe show da Orquestra de Sopros de NH e banda The Dogs martinbehrend.com.br"
+      "resumo": "Orla do Guaíba recebe show da Orquestra de Sopros de NH e banda The Dogs Portal Martin Behrend"
     },
     {
       "id": "e4d31019ebfa",
       "titulo": "Repórter da Rádio Guaíba é condecorado em aniversário de 62 anos do 1º Batalhão de Choque da Brigada Militar",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNmxXclhNa3J3Wjg3c3psN2hqVWotaWp2bHVsYzRNT05odC1Mcy1xT1pldGZ1VEdKNW9fUDN2blMzV2xaUjgtaHpRU0puWldKZk03LUVUR3MyWFZqLWtZNjhGblh3YlpUeHZjaHFJUHNmMFhHWEJGZlBTb0xWWTJQSG9XRUlLN1drbG5jZVc3WkhwVmpDaFNJOV96UnVTR1ExSDFpTl9GMWl5Ny1GSUV2bXJ1OU1hdTlacGluQnZFbndpRDNrNW4tNDNJRQ?oc=5",
-      "fonte": "Rádio Guaíba",
+      "fonte": "guaiba.com.br",
       "publicado_em": "2026-09-11T19:51:00+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Repórter da Rádio Guaíba é condecorado em aniversário de 62 anos do 1º Batalhão de Choque da Brigada Militar Rádio Guaíba"
-    },
-    {
-      "id": "3cbf9f2483de",
-      "titulo": "Orla do Guaíba terá shows e atrações gratuitas neste domingo",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOHMyUy1aSHgyN1R2eGFPNzBoM0txSjBHRmNDSHdJbDJxVkJYMDdGVDdLYWRJeDdaMzB0NURmMk5ocUFyWkVQdzE5elBlbks1OUVFaEZYZVNUcXllZlJCdU1ZQ25zV2dDemZzSE83WFFvX1lONHNULXZrN1J5UnBCSlNqUmI1WW44OG9yeFdHNGdmaHp5N0F6VGM5Mll1WHZNWm91ekhvTHNaYmZrU2JjNmxvUjc?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-09-11T18:30:05+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Orla do Guaíba terá shows e atrações gratuitas neste domingo Correio do Povo"
-    },
-    {
-      "id": "4390a1243906",
-      "titulo": "Brasil Beach Games estreia no final de semana em Porto Alegre com três dias de competições gratuitas na Orla do Guaíba e no Parque Marinha do Brasil",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QZmtoUXRvNUxQM1p1U3A2cm1nakhwb3NZTG9KWkdka04tZmxVZDlkNE1rbXpPaEJ0alVVMHc1ekp6cVlyN3BtQ1JlYllGVzNFdV80QlpXWFNhRS1SREp5VTNpRjJ4VGV2eW9jNjdXNA?oc=5",
-      "fonte": "Consumidor RS",
-      "publicado_em": "2026-09-11T17:07:15+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Brasil Beach Games estreia no final de semana em Porto Alegre com três dias de competições gratuitas na Orla do Guaíba e no Parque Marinha do Brasil Consumidor RS"
-    },
-    {
-      "id": "ef355d096f8e",
-      "titulo": "Orla do Guaíba terá shows e atividades gratuitas neste domingo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPemVJMVlOQ2k4dVFDLWVwWDBqTFpCLU9JZ295VWh5Nk5HdUk4STR2QS1CV2tqXzZxZmxaa2ItQjduWDFaSkR6Y1hRRnJQSWV3ZjM0VEFJMDJrRlFGeTB4YWRKT2hicndOQ0g5UUZ2Ny1jZGJiTnJ1SEJZRlQ5dGdtQzNMZUNDQWY3XzJ1MmdzY0wxNFdwdmc4Y3N6R1paV2dF?oc=5",
-      "fonte": "Agora RS",
-      "publicado_em": "2026-09-11T16:28:02+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Orla do Guaíba terá shows e atividades gratuitas neste domingo Agora RS"
+      "resumo": "Repórter da Rádio Guaíba é condecorado em aniversário de 62 anos do 1º Batalhão de Choque da Brigada Militar guaiba.com.br"
     },
     {
       "id": "ead2cb1bac53",
@@ -307,7 +287,7 @@
       "titulo": "No RS, Lula estará em Canoas e Porto Alegre; visitas em Guaíba e NH são discutidas",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaktfX2xDal8xTHVVNkpJRndZYVJrcTZPWm5udzZPMDVCNHRudVN0dHpYMVFybDI3SGxraGVqbDAzR2pBRHF2NDVmYmdwcktaWHdoVC1zUVhqbVVrMkRWanYxV2Y2OTgtUm5sMGhEOElDamw5OFFPWWNFTUR2SGJQdmNTanI3M3dXVTNUejRCTlF2akZIZUpyOEJOamp2b0RHZWhxX0N0SXh6RGRaRG5IOUdhd21oQXpTZFNyVElfWTltNkEta3hTQ1Jyam56Y21rZDRIbS1wRDk5dWRMUnRiMzd1YVlaR1pvZTFDTG52Mi0tbUJ0aDdXWElVM3FCRFE?oc=5",
       "fonte": "Correio do Povo",
-      "publicado_em": "2026-09-09T20:57:20+00:00",
+      "publicado_em": "2026-09-09T07:00:00+00:00",
       "categoria": null,
       "feed": "google",
       "resumo": "No RS, Lula estará em Canoas e Porto Alegre; visitas em Guaíba e NH são discutidas Correio do Povo"
@@ -316,11 +296,11 @@
       "id": "be04a4e0f605",
       "titulo": "Tarifa do catamarã entre Porto Alegre e Guaíba tem reajuste de 13% aprovado",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkNBUjJBeUFiQ1dEWmwwNnpqRnRxRkFPcHB5b1A3SnVUU2VkLW9HXzBwMGRWVTVQbC0wNmhmc1ROdHROTXRFTk1Ec0VUaVViaW1XbW5MZ1V2d1g2UllvQ21DSDhVQWREd3pjTHZyS3lZMDNxWFdrR2NadEpOMmQ0dFhWV0lqb0Z6M0E?oc=5",
-      "fonte": "Agora RS",
+      "fonte": "agorars.com",
       "publicado_em": "2026-09-08T07:00:00+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "Tarifa do catamarã entre Porto Alegre e Guaíba tem reajuste de 13% aprovado Agora RS"
+      "resumo": "Tarifa do catamarã entre Porto Alegre e Guaíba tem reajuste de 13% aprovado agorars.com"
     },
     {
       "id": "5542bc91c39f",
@@ -353,6 +333,16 @@
       "resumo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba Repórter Guaibense"
     },
     {
+      "id": "aaa8a58c6b4e",
+      "titulo": "Projeto de empresa catarinense entra na reta final em Guaíba e mira novo ciclo de desenvolvimento",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOblBIUy1EejhXVS1abDUzQVVpeDhON0tXS3JyakhONjE0eEFHR3hNdlVJMHlhbEU3OHAtQWxNVGRsbXNTUHk5MGRxSnUxX3JKeVh5QzFPTTI3SFZxc21Id2NYOGhnNzJ3a3Nyb2dBWFpjUm1VRHl0Z2NfZmQ4djltYzVlWDVWSlVwaDB3UkdCU3pWVFZqTGM5RXozWHlkbHZfWlQtckF6bWs0TGxnb0dnMVdsZkhaYkx4Smg1R0ZoR09Qdw?oc=5",
+      "fonte": "Portal Litoral Sul",
+      "publicado_em": "2026-09-01T12:28:30+00:00",
+      "categoria": null,
+      "feed": "litoral",
+      "resumo": "Projeto de empresa catarinense entra na reta final em Guaíba e mira novo ciclo de desenvolvimento Portal Litoral Sul"
+    },
+    {
       "id": "4f6459d7774f",
       "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2hJc3lMYktsYXpTcHRpZWptLVVPQ1pSMXV5QkxjT1NMNkFjanVDbnNBbUc1OER0N2NsemV4MnQ2NElQVi0yaE93cXhZcE9OUDJ1b0h5aVJidUVCLVlrQXY0cnlZQkNVSDhYZVdZZC1yVU1MNlQ1Z01uZnRJTlp5aWFRRVpoUlNCVFQxNnJDWXFWYlRTN1lDLXBjenh1WlRwMlZMbTU3cXR6cE9LZEFJMWNWQldWcHBDYVR0YzFldXQ3ZmVUR0x3?oc=5",
@@ -361,6 +351,16 @@
       "categoria": null,
       "feed": "reporter",
       "resumo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC Repórter Guaibense"
+    },
+    {
+      "id": "acfe91c25a3f",
+      "titulo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHRGaHNOYW9KU1RkOHFUVi1xR01vTU01d0xkLXhQSnB3cHBQZW9sb1RwVV9IeUF4X0IycGNvRXBJSEsyOE02cGFvdFRGa3lCMUtuTHh5VlZhQnhlQnBSc2JfZjRKaGduQWdHZDROX2JLOU91NGtHcXRtQmpZUlpQdHdYT1ZZVnRmODlDSlcxY01LYWVUS2MwZzNUVV92c0thMW1CUlZCd0hqb3JFQV9wMTBHVFE5LVNIb0dqRXV6X0czVGFzd2FF?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-08-31T15:16:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Guaíba recebe réplicas da imagem de Nossa Senhora do Livramento, padroeira da cidade Repórter Guaibense"
     },
     {
       "id": "126fb1c2b43c",
@@ -374,25 +374,6 @@
     }
   ],
   "noticias_home": [
-    {
-      "id": "4b993df4f7e4",
-      "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-18T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
-    },
-    {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-18T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
     {
       "id": "b754c6ea2b2b",
       "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
@@ -414,6 +395,15 @@
       "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
     },
     {
+      "id": "8402ea905dc4",
+      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
+      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-18T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
       "id": "1aa6f31caeca",
       "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
@@ -422,6 +412,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
+    },
+    {
+      "id": "4b993df4f7e4",
+      "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-18T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
     },
     {
       "id": "07441335e9fb",

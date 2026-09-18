@@ -5,20 +5,6 @@
 <description>Notícias de Guaíba e da Região Metropolitana de Porto Alegre</description>
 <language>pt-BR</language>
 <item>
-<title>Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica</title>
-<link>https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica</link>
-<guid>4b993df4f7e4</guid>
-<pubDate>2026-09-18T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos</title>
-<link>https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos</link>
-<guid>8402ea905dc4</guid>
-<pubDate>2026-09-18T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027</title>
 <link>https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027</link>
 <guid>b754c6ea2b2b</guid>
@@ -33,9 +19,23 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
+<title>De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos</title>
+<link>https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos</link>
+<guid>8402ea905dc4</guid>
+<pubDate>2026-09-18T00:00:00+00:00</pubDate>
+<source>Repórter Guaibense</source>
+</item>
+<item>
 <title>Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba</title>
 <link>https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba</link>
 <guid>1aa6f31caeca</guid>
+<pubDate>2026-09-18T00:00:00+00:00</pubDate>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica</title>
+<link>https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica</link>
+<guid>4b993df4f7e4</guid>
 <pubDate>2026-09-18T00:00:00+00:00</pubDate>
 <source>Repórter Guaibense</source>
 </item>
@@ -65,11 +65,18 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
+<title>Maranata aposta na experiência como empresário e prefeito de Guaíba para governar o RS</title>
+<link>https://news.google.com/rss/articles/CBMihwJBVV95cUxNSXJRMml4b2g0ZEdENjFWWFRYVFBtOEZQS3NMUkoyZ3A4QUhjRzU2OGhsWmpXYURXTHlrNnZyMFlCd1o5VkVTeVozRVNzSldnVnpNS25paU1xY0duNUdHN0RrRGxHQXN0Z2J2ZmZwMlRYTXZyY2l4c2tXdzNMMmk1M2VnRWZ6U21zUnhzLTMxU2w5b1hoT2V2cTI2bldrTzFQRmNKazllZFU1OHozQXpQNVk3UTRJRFFXb1JfZkpXZFVUN3Nob21wRHFLNlRfZ3YtOER2d0RnLTJhaDh1TUJSYjNvcFhsV0h2c3JpRTZ6UDJIMU1vTjJTR0l2X3d6Q2psS1FGQnZGNA?oc=5</link>
+<guid>6c3320135cae</guid>
+<pubDate>2026-09-18T16:17:25+00:00</pubDate>
+<source>Correio do Povo</source>
+</item>
+<item>
 <title>Record Guaíba: notícia que não termina</title>
 <link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBDMUJuSXh1Q2x4cERpRmdLeEF3QWJyQnZHQUhjbXNjVUFFS25EXzFjSVJRNHUzSHJXLTBESms2eUtVdTRreE9adVI4ZFRDOUxmWUlOcVdtdU5pX2h0SDg1ZUlhOTlEVVZDNWhWOGFHWEZQcXBZSjRobkFB?oc=5</link>
 <guid>52046e6a98f5</guid>
 <pubDate>2026-09-16T21:32:32+00:00</pubDate>
-<source>Coletiva.net</source>
+<source>coletiva.net</source>
 </item>
 <item>
 <title>Desafio da Comida Campeira: Record Guaíba visita Piquete Monte Xirú, no Acampamento</title>
@@ -83,7 +90,7 @@
 <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFB6TGwwODRySWU0a1Q4NXVUWTZZOE5XNUp1RXo2RlVzbFBkV2VWSm96dFhvMzZ1XzV4dHNMYmE4bzE0M2RoYlo1cDBXbFJmUjAtVENXaUJSNzFqeGFQR3V0Sy1ZNFNwS3NXUmJVREtHYUxqeWh3aUlDVE1EUFfSAYIBQVVfeXFMT0R6Y29pMERLTkZscWd0OVJCM3o5R1YyQmZ5QWVpMnV6YUxoV0EyY21OQjZaZ2pVRGVvZDBZdmFBcmtpNzlyX2I3ZFd1eVVpblZXOGtqYklaQnZWUWwzN2NMNFhHdFN4Rk1tZlBZSVFkVnpRaVlzUndKZlJBQmNhTmUzUQ?oc=5</link>
 <guid>ff462bd0549e</guid>
 <pubDate>2026-09-16T20:42:19+00:00</pubDate>
-<source>osul.com.br</source>
+<source>Jornal O Sul</source>
 </item>
 <item>
 <title>Prefeitura de Guaíba divulga resultados da IV Mostra Científica e Tecnológica e do 1º Torneio Municipal de Robótica</title>
@@ -125,20 +132,13 @@
 <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0lrYjNnd1ZpbW5mODlMUDZoLTNwdEVMbE8tcnpLcXpiYTBBWXFhc2dJckF5VUJBb2J6Vjh2R3p3ODA3X0JiS1hyTkd4RndaTklqbndiWnlTLVJSZkM3Q1N1RGVucjJLUEIxU05GVU16SFpNZUYzN1l2eXpoLS1tenRfQjRUN1RfTmE5ZktfWk1fR3pYTFhzMjk2Qkp3MzVka2gzY2ZTMzhzbzdJ0gGyAUFVX3lxTE1TMTVQWEM0TU1rMnRCclJLZTk1UWRhS2VVUTRjTjdCekxpM2MtU01mbGEyMTU5bHpKQTlpdnVxOU9jVHB4Wks2NlVGTzJocXR1NUdkdTd5Y3NYUWthakdSSmlwejhESTJzbjJremU3ckdmc2N3cnJwWUttUG9uMkJlMFI3V1ViV05CZjNfdko0UHdkUzRBYWp6TGxZVUxVZUk5TEMyTVVTYUdTdnZaNzcxVVE?oc=5</link>
 <guid>ab428dd3471a</guid>
 <pubDate>2026-09-12T11:25:15+00:00</pubDate>
-<source>martinbehrend.com.br</source>
+<source>Portal Martin Behrend</source>
 </item>
 <item>
 <title>Repórter da Rádio Guaíba é condecorado em aniversário de 62 anos do 1º Batalhão de Choque da Brigada Militar</title>
 <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNNmxXclhNa3J3Wjg3c3psN2hqVWotaWp2bHVsYzRNT05odC1Mcy1xT1pldGZ1VEdKNW9fUDN2blMzV2xaUjgtaHpRU0puWldKZk03LUVUR3MyWFZqLWtZNjhGblh3YlpUeHZjaHFJUHNmMFhHWEJGZlBTb0xWWTJQSG9XRUlLN1drbG5jZVc3WkhwVmpDaFNJOV96UnVTR1ExSDFpTl9GMWl5Ny1GSUV2bXJ1OU1hdTlacGluQnZFbndpRDNrNW4tNDNJRQ?oc=5</link>
 <guid>e4d31019ebfa</guid>
 <pubDate>2026-09-11T19:51:00+00:00</pubDate>
-<source>Rádio Guaíba</source>
-</item>
-<item>
-<title>Orla do Guaíba terá shows e atrações gratuitas neste domingo</title>
-<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQOHMyUy1aSHgyN1R2eGFPNzBoM0txSjBHRmNDSHdJbDJxVkJYMDdGVDdLYWRJeDdaMzB0NURmMk5ocUFyWkVQdzE5elBlbks1OUVFaEZYZVNUcXllZlJCdU1ZQ25zV2dDemZzSE83WFFvX1lONHNULXZrN1J5UnBCSlNqUmI1WW44OG9yeFdHNGdmaHp5N0F6VGM5Mll1WHZNWm91ekhvTHNaYmZrU2JjNmxvUjc?oc=5</link>
-<guid>3cbf9f2483de</guid>
-<pubDate>2026-09-11T18:30:05+00:00</pubDate>
-<source>Correio do Povo</source>
+<source>guaiba.com.br</source>
 </item>
 </channel></rss>
