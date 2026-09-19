@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-19T17:00:27.465459+00:00",
+  "gerado_em": "2026-09-19T20:04:03.906496+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,13 +74,14 @@
   ],
   "noticias": [
     {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-19T00:00:00+00:00",
       "categoria": null,
-      "feed": "reporter_direto"
+      "feed": "reporter_direto",
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
     },
     {
       "id": "1aa6f31caeca",
@@ -91,16 +92,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
-    },
-    {
-      "id": "3e9269dd892d",
-      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-19T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
     },
     {
       "id": "4b993df4f7e4",
@@ -121,6 +112,15 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
+    },
+    {
+      "id": "8402ea905dc4",
+      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
+      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-19T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
     },
     {
       "id": "07441335e9fb",
@@ -163,6 +163,16 @@
       "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
     },
     {
+      "id": "9361c388ef80",
+      "titulo": "Orla do Lami sediará quinta edição do mutirão de limpeza Limpe o Lago Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGM4Wkk1WldpT2RCODlCSkxvaEtYWjR4amN4SEFpdm1pcVlBX19LWmt1cmVzbTJmQmRQNWFkb1BYNEx6LTlUcVlzRmtNajhLMDhvcURyNGJrOTBrSUxjWlNFRlNZcHN0ZkE1MWRMTXVxQlJTNnNRYUZzSTRRQkI4VEpiN1N4WGswWTl6Mk1ONFVSNE0zMkJCbWotVmtnSmViU21LQjVCTkRNTE0?oc=5",
+      "fonte": "Jornalecão",
+      "publicado_em": "2026-09-19T19:14:17+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Orla do Lami sediará quinta edição do mutirão de limpeza Limpe o Lago Guaíba Jornalecão"
+    },
+    {
       "id": "a5ecd61a99b3",
       "titulo": "Da Magia à Sedução: Feitiço de Amor: Programação e Sessões Guaíba",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVmlfQ2t1Z0RMU2xXd0MxY1ItSV9DMDA1Y2tzU3BVTVUtZS1qSzVOMW1UcDhIMXh2SlAtZDZNSEU3NTExS3F4ekl2S1VNQS1EZ2FpTWhRTjZIM0NkQkgyQTRXZGYtMjJQUDVyTGg2dVhvX0h3bWQ2NGsxR1VfVFZzX3ItbnlBVXc?oc=5",
@@ -196,11 +206,11 @@
       "id": "610bbd2771f5",
       "titulo": "Médicos da rede municipal de Guaíba participam de evento sobre educação financeira",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2dwVTJEcFY2aFEyU0pQLVg5aGl0WmV1UDRzb25Yd2lLNjRCWVdCOWU5SHRrRjU3UWYxWk5pM255eV92SWNYMF95STQyM0otTzdIQ1NSSDhsQ3hSamtHV2YxZVBTNjhPaEhmRVJuNlZRbmRPeGppWVN1YlRYd2JPMmdwYTRwSU1Fb25Rd2ZuN24xX01Wd21JZ21xMElfSXVIaUtGNDYyMTg3ZlNJdTJCU3paUHR5VTdOa2xKZWRuQ25nWm9HOC1qbEljQQ?oc=5",
-      "fonte": "gazetadasemana.com.br",
+      "fonte": "Gazeta da Semana",
       "publicado_em": "2026-09-16T22:21:46+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Médicos da rede municipal de Guaíba participam de evento sobre educação financeira gazetadasemana.com.br"
+      "resumo": "Médicos da rede municipal de Guaíba participam de evento sobre educação financeira Gazeta da Semana"
     },
     {
       "id": "52046e6a98f5",
@@ -216,11 +226,11 @@
       "id": "ad5a57d38567",
       "titulo": "Desafio da Comida Campeira: Record Guaíba visita Piquete Monte Xirú, no Acampamento",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNEl4dkgzVjNTc2JJYXlSNnhjcFNoUHpiUTFqRGxCRy16WGRnV3ZxRmlFREl3MlBJUmtNdjJaakthUjFDU0JiOTRxQTlIYlpTcXMxVkR3OWdCT3lFOHF4OXVkcTRwdHk2Q19rbjFsNUpYNVdVY2JvUDF6SVZQbU5wMTJ4Q2JpT2J6dXY0V0pvN3gtOGtuaDFvT1lSQ2FhU05rcmtXTTVZQ0VLb1FXMkFWVHRmcVMyUkpBT01TMTZVb2wzWkR4alFRVDZFM3R3VU16eXlvNW1vRWtoYlEyLVM3anNuTXM?oc=5",
-      "fonte": "R7",
+      "fonte": "noticias.r7.com",
       "publicado_em": "2026-09-16T20:47:41+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Desafio da Comida Campeira: Record Guaíba visita Piquete Monte Xirú, no Acampamento R7"
+      "resumo": "Desafio da Comida Campeira: Record Guaíba visita Piquete Monte Xirú, no Acampamento noticias.r7.com"
     },
     {
       "id": "ff462bd0549e",
@@ -233,14 +243,24 @@
       "resumo": "Guaíba recebe o Festival Paralímpico Brasileiro pela primeira vez Jornal O Sul"
     },
     {
+      "id": "dab945f75650",
+      "titulo": "Flex soma 575 apartamentos em obras e mais de R$ 200 milhões em VGV entre Canoas e Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOam9VOERBbnE0TFVXcmxsWGlzMFJaV1htWHRDdzhjalN4MUN1eUo3dFIxMDlaTGswaXZlZV9BSmdmQUVUUEEzcXFPTGxHZi1zZEJWcnBjaEhyMGZrMFViaGFqMDJXTmVKaFJuUFZPc2NQdFFpWTdGbl9CYXVzb3hfSDJsVjRhd1lOQnRjdWV3Sm1CUmZYVlRrV2MxVV8weXBUQWc?oc=5",
+      "fonte": "jornaltimoneiro.com.br",
+      "publicado_em": "2026-09-16T18:06:34+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Flex soma 575 apartamentos em obras e mais de R$ 200 milhões em VGV entre Canoas e Guaíba jornaltimoneiro.com.br"
+    },
+    {
       "id": "efe26d10d242",
       "titulo": "Prefeitura de Guaíba divulga resultados da IV Mostra Científica e Tecnológica e do 1º Torneio Municipal de Robótica",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWW1zbWRmdkg3YWdWNVJnODIzTmQ3cm1Ya1lEMlBfVkJlUFZYMzNmOHoxVHo4NDNVNUg5R3dIbzdiVUNqeVY4Zm5veDA4VWtUT1lFVnlaajlER1ZHOC1Sc0xfM2lkN01uVl84ZFhVWTRyVUpfczAzMHFTeV93VG00anl4WEVWRHhaYXQ3NllpLWNNWGRFNWlaWkNpWjNyb2x1NlNJZVVZaUluZGdPZm81VFJ6MjRnZHB6UmhER3Ayd19GV0pXV1NLeHZFbXR2SUhsMTRHb1diMUV1UTNFaEg4?oc=5",
-      "fonte": "Rádio Pampa",
+      "fonte": "radiopampa.com.br",
       "publicado_em": "2026-09-15T14:30:35+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Prefeitura de Guaíba divulga resultados da IV Mostra Científica e Tecnológica e do 1º Torneio Municipal de Robótica Rádio Pampa"
+      "resumo": "Prefeitura de Guaíba divulga resultados da IV Mostra Científica e Tecnológica e do 1º Torneio Municipal de Robótica radiopampa.com.br"
     },
     {
       "id": "1a1de6bda575",
@@ -351,37 +371,18 @@
       "categoria": null,
       "feed": "reporter",
       "resumo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba Repórter Guaibense"
-    },
-    {
-      "id": "aaa8a58c6b4e",
-      "titulo": "Projeto de empresa catarinense entra na reta final em Guaíba e mira novo ciclo de desenvolvimento",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOblBIUy1EejhXVS1abDUzQVVpeDhON0tXS3JyakhONjE0eEFHR3hNdlVJMHlhbEU3OHAtQWxNVGRsbXNTUHk5MGRxSnUxX3JKeVh5QzFPTTI3SFZxc21Id2NYOGhnNzJ3a3Nyb2dBWFpjUm1VRHl0Z2NfZmQ4djltYzVlWDVWSlVwaDB3UkdCU3pWVFZqTGM5RXozWHlkbHZfWlQtckF6bWs0TGxnb0dnMVdsZkhaYkx4Smg1R0ZoR09Qdw?oc=5",
-      "fonte": "Portal Litoral Sul",
-      "publicado_em": "2026-09-01T12:28:30+00:00",
-      "categoria": null,
-      "feed": "litoral",
-      "resumo": "Projeto de empresa catarinense entra na reta final em Guaíba e mira novo ciclo de desenvolvimento Portal Litoral Sul"
-    },
-    {
-      "id": "4f6459d7774f",
-      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2hJc3lMYktsYXpTcHRpZWptLVVPQ1pSMXV5QkxjT1NMNkFjanVDbnNBbUc1OER0N2NsemV4MnQ2NElQVi0yaE93cXhZcE9OUDJ1b0h5aVJidUVCLVlrQXY0cnlZQkNVSDhYZVdZZC1yVU1MNlQ1Z01uZnRJTlp5aWFRRVpoUlNCVFQxNnJDWXFWYlRTN1lDLXBjenh1WlRwMlZMbTU3cXR6cE9LZEFJMWNWQldWcHBDYVR0YzFldXQ3ZmVUR0x3?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-01T07:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC Repórter Guaibense"
     }
   ],
   "noticias_home": [
     {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-19T00:00:00+00:00",
       "categoria": null,
-      "feed": "reporter_direto"
+      "feed": "reporter_direto",
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
     },
     {
       "id": "1aa6f31caeca",
@@ -392,16 +393,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
-    },
-    {
-      "id": "3e9269dd892d",
-      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-19T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
     },
     {
       "id": "4b993df4f7e4",
@@ -422,6 +413,15 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
+    },
+    {
+      "id": "8402ea905dc4",
+      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
+      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-19T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
     },
     {
       "id": "07441335e9fb",
