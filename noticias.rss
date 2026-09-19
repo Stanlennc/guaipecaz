@@ -5,23 +5,9 @@
 <description>Notícias de Guaíba e da Região Metropolitana de Porto Alegre</description>
 <language>pt-BR</language>
 <item>
-<title>Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba</title>
-<link>https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba</link>
-<guid>1aa6f31caeca</guid>
-<pubDate>2026-09-19T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica</title>
 <link>https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica</link>
 <guid>4b993df4f7e4</guid>
-<pubDate>2026-09-19T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos</title>
-<link>https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos</link>
-<guid>8402ea905dc4</guid>
 <pubDate>2026-09-19T00:00:00+00:00</pubDate>
 <source>Repórter Guaibense</source>
 </item>
@@ -40,6 +26,20 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
+<title>Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba</title>
+<link>https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba</link>
+<guid>1aa6f31caeca</guid>
+<pubDate>2026-09-19T00:00:00+00:00</pubDate>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos</title>
+<link>https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos</link>
+<guid>8402ea905dc4</guid>
+<pubDate>2026-09-19T00:00:00+00:00</pubDate>
+<source>Repórter Guaibense</source>
+</item>
+<item>
 <title>Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba</title>
 <link>https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba</link>
 <guid>07441335e9fb</guid>
@@ -47,15 +47,15 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
-<title>Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio</title>
-<link>https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio</link>
-<guid>9053a4a2b3f4</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>Programa Horas-Máquina completa um mês de serviço em Guaíba</title>
 <link>https://www.reporterguaibense.com.br/noticia/programa-horas-maquina-completa-um-mes-de-servico-eme-guaiba</link>
 <guid>1b2120203197</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio</title>
+<link>https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio</link>
+<guid>9053a4a2b3f4</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -90,7 +90,7 @@
 <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2dwVTJEcFY2aFEyU0pQLVg5aGl0WmV1UDRzb25Yd2lLNjRCWVdCOWU5SHRrRjU3UWYxWk5pM255eV92SWNYMF95STQyM0otTzdIQ1NSSDhsQ3hSamtHV2YxZVBTNjhPaEhmRVJuNlZRbmRPeGppWVN1YlRYd2JPMmdwYTRwSU1Fb25Rd2ZuN24xX01Wd21JZ21xMElfSXVIaUtGNDYyMTg3ZlNJdTJCU3paUHR5VTdOa2xKZWRuQ25nWm9HOC1qbEljQQ?oc=5</link>
 <guid>610bbd2771f5</guid>
 <pubDate>2026-09-16T22:21:46+00:00</pubDate>
-<source>gazetadasemana.com.br</source>
+<source>Gazeta da Semana</source>
 </item>
 <item>
 <title>Record Guaíba: notícia que não termina</title>
