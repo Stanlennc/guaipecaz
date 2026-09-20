@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-20T20:21:01.192569+00:00",
+  "gerado_em": "2026-09-20T23:51:26.616053+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,14 +74,23 @@
   ],
   "noticias": [
     {
-      "id": "4b993df4f7e4",
-      "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-20T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
+    },
+    {
+      "id": "8402ea905dc4",
+      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
+      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-20T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
     },
     {
       "id": "1aa6f31caeca",
@@ -104,23 +113,14 @@
       "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
-      "id": "3e9269dd892d",
-      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
+      "id": "4b993df4f7e4",
+      "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-20T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
-    },
-    {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-20T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
+      "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
     },
     {
       "id": "07441335e9fb",
@@ -163,6 +163,16 @@
       "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
     },
     {
+      "id": "a9765f61dc34",
+      "titulo": "Maranata cumpre agenda do 20 de setembro em Guaíba, Eldorado e Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZT1Q0MFR3TnlMczFRYmRNbWRzM2w2RkFnWllNeHZTRlVwSktYY196X0JRSlBNX3ZyZ0drODRUdXhEdUM2Wmhod3pFTlNGSUxQYm9kY2ZveEhDMEFfM2pmbnI1QnhyOFdzVHJnVHdBZw?oc=5",
+      "fonte": "gruposepe.com.br",
+      "publicado_em": "2026-09-20T22:05:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Maranata cumpre agenda do 20 de setembro em Guaíba, Eldorado e Porto Alegre gruposepe.com.br"
+    },
+    {
       "id": "9361c388ef80",
       "titulo": "Orla do Lami sediará quinta edição do mutirão de limpeza Limpe o Lago Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGM4Wkk1WldpT2RCODlCSkxvaEtYWjR4amN4SEFpdm1pcVlBX19LWmt1cmVzbTJmQmRQNWFkb1BYNEx6LTlUcVlzRmtNajhLMDhvcURyNGJrOTBrSUxjWlNFRlNZcHN0ZkE1MWRMTXVxQlJTNnNRYUZzSTRRQkI4VEpiN1N4WGswWTl6Mk1ONFVSNE0zMkJCbWotVmtnSmViU21LQjVCTkRNTE0?oc=5",
@@ -176,31 +186,31 @@
       "id": "a5ecd61a99b3",
       "titulo": "Da Magia à Sedução: Feitiço de Amor: Programação e Sessões Guaíba",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVmlfQ2t1Z0RMU2xXd0MxY1ItSV9DMDA1Y2tzU3BVTVUtZS1qSzVOMW1UcDhIMXh2SlAtZDZNSEU3NTExS3F4ekl2S1VNQS1EZ2FpTWhRTjZIM0NkQkgyQTRXZGYtMjJQUDVyTGg2dVhvX0h3bWQ2NGsxR1VfVFZzX3ItbnlBVXc?oc=5",
-      "fonte": "AdoroCinema",
+      "fonte": "adorocinema.com",
       "publicado_em": "2026-09-19T02:54:13+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Da Magia à Sedução: Feitiço de Amor: Programação e Sessões Guaíba AdoroCinema"
+      "resumo": "Da Magia à Sedução: Feitiço de Amor: Programação e Sessões Guaíba adorocinema.com"
     },
     {
       "id": "ac438c3b1720",
       "titulo": "Marcelo Maranata cumpre agenda de campanha em Canoas e Guaíba",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUck8wMDdjb3Zsbm5WZ08zYjY2ejBjNk1kSnRSaUpiOXc0ZUpaWG4zVXJEZnVwZU1jWlBnR2xqSkFrLVdzWjhHLWs3WmZNemVPSFJGSmN6VlVyUFlIVTFVdnV4NjFEempXaVpFN0gycw?oc=5",
-      "fonte": "grupo sepé",
+      "fonte": "gruposepe.com.br",
       "publicado_em": "2026-09-19T00:20:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Marcelo Maranata cumpre agenda de campanha em Canoas e Guaíba grupo sepé"
+      "resumo": "Marcelo Maranata cumpre agenda de campanha em Canoas e Guaíba gruposepe.com.br"
     },
     {
       "id": "6c3320135cae",
       "titulo": "Maranata aposta na experiência como empresário e prefeito de Guaíba para governar o RS",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSXJRMml4b2g0ZEdENjFWWFRYVFBtOEZQS3NMUkoyZ3A4QUhjRzU2OGhsWmpXYURXTHlrNnZyMFlCd1o5VkVTeVozRVNzSldnVnpNS25paU1xY0duNUdHN0RrRGxHQXN0Z2J2ZmZwMlRYTXZyY2l4c2tXdzNMMmk1M2VnRWZ6U21zUnhzLTMxU2w5b1hoT2V2cTI2bldrTzFQRmNKazllZFU1OHozQXpQNVk3UTRJRFFXb1JfZkpXZFVUN3Nob21wRHFLNlRfZ3YtOER2d0RnLTJhaDh1TUJSYjNvcFhsV0h2c3JpRTZ6UDJIMU1vTjJTR0l2X3d6Q2psS1FGQnZGNA?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-09-18T16:17:25+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Maranata aposta na experiência como empresário e prefeito de Guaíba para governar o RS correiodopovo.com.br"
+      "resumo": "Maranata aposta na experiência como empresário e prefeito de Guaíba para governar o RS Correio do Povo"
     },
     {
       "id": "026df0dbf8bd",
@@ -284,13 +294,13 @@
     },
     {
       "id": "23b8441dea0e",
-      "titulo": "Mais de 10 mil pessoas celebram os 80 anos de Sesc/RS e Senac-RS na Orla do Guaíba - sesc-rs.com.br",
+      "titulo": "Mais de 10 mil pessoas celebram os 80 anos de Sesc/RS e Senac-RS na Orla do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWZLY0R5RVRNLTM1OE9qeHRlUmFmVURHUFQ4eW05ZGZGakw4bFRMS1BXRXBVcm5BMjV6QXNwV2dXRE0wMlR6ZW0wSE9aMUFjYkpXamZGal82aFhoQVVRQWtmaWtxYmNFejNLQVZDNFNQXzI3TWFOS3lSYXQtWGlsZkVBdXd2cjA4Q0Nxc2VBbnJkUlQ2N2Z2RmRjSnhQUl9qRUZoZHVneUVmOGxSMVI1a09YNEIzREhydGc?oc=5",
-      "fonte": "sesc-rs.com.br",
+      "fonte": "Sesc/RS",
       "publicado_em": "2026-09-14T12:36:42+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Mais de 10 mil pessoas celebram os 80 anos de Sesc/RS e Senac-RS na Orla do Guaíba sesc-rs.com.br"
+      "resumo": "Mais de 10 mil pessoas celebram os 80 anos de Sesc/RS e Senac-RS na Orla do Guaíba Sesc/RS"
     },
     {
       "id": "ead2cb1bac53",
@@ -306,11 +316,11 @@
       "id": "35f851fed22b",
       "titulo": "No RS, Lula estará em Canoas e Porto Alegre; visitas em Guaíba e NH são discutidas",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaktfX2xDal8xTHVVNkpJRndZYVJrcTZPWm5udzZPMDVCNHRudVN0dHpYMVFybDI3SGxraGVqbDAzR2pBRHF2NDVmYmdwcktaWHdoVC1zUVhqbVVrMkRWanYxV2Y2OTgtUm5sMGhEOElDamw5OFFPWWNFTUR2SGJQdmNTanI3M3dXVTNUejRCTlF2akZIZUpyOEJOamp2b0RHZWhxX0N0SXh6RGRaRG5IOUdhd21oQXpTZFNyVElfWTltNkEta3hTQ1Jyam56Y21rZDRIbS1wRDk5dWRMUnRiMzd1YVlaR1pvZTFDTG52Mi0tbUJ0aDdXWElVM3FCRFE?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-09-09T07:00:00+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "No RS, Lula estará em Canoas e Porto Alegre; visitas em Guaíba e NH são discutidas correiodopovo.com.br"
+      "resumo": "No RS, Lula estará em Canoas e Porto Alegre; visitas em Guaíba e NH são discutidas Correio do Povo"
     },
     {
       "id": "ea9a7f777f82",
@@ -334,13 +344,13 @@
     },
     {
       "id": "f8af57d69c9e",
-      "titulo": "Sesc/RS e Senac-RS celebram 80 anos com megaprogramação gratuita na Orla do Guaíba - sesc-rs.com.br",
+      "titulo": "Sesc/RS e Senac-RS celebram 80 anos com megaprogramação gratuita na Orla do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeEFzOURteWpsX0EzVGN1VUhhN2VCeFFzbjdHWUhSUVlRbGFaSkZXc0RLR2ZLNzBNWVlMdjRnNEMtbmYzZVh3ZjNsQzJJR3BkNGVxdnBPRG5kX0VGMFlLYXcyZ2VTMVhadnNZbXgxZjNtWjdaZUlZQXl5LURvekJqZHdyWEVFMWFOaTk3RzlkLTljZGZ2U3VxQzJ2UE0zdWRYQW5odTNnTDM4cF80cTJtNEx2NHJvTXFsT1E?oc=5",
-      "fonte": "sesc-rs.com.br",
+      "fonte": "Sesc/RS",
       "publicado_em": "2026-09-03T14:29:21+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "Sesc/RS e Senac-RS celebram 80 anos com megaprogramação gratuita na Orla do Guaíba sesc-rs.com.br"
+      "resumo": "Sesc/RS e Senac-RS celebram 80 anos com megaprogramação gratuita na Orla do Guaíba Sesc/RS"
     },
     {
       "id": "8ff08dd597d6",
@@ -361,28 +371,27 @@
       "categoria": null,
       "feed": "reporter",
       "resumo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC Repórter Guaibense"
-    },
-    {
-      "id": "126fb1c2b43c",
-      "titulo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSkdjRE1QdzdNcHowS1V4U0d6SEdGVkpQM2VzTWFIclBSMFBpNTB2cFJvNmJTX3BmUlBPbDMwRFRvZU1tT0FmS2N1R0ZLTVRZRUE1NnFiT3NxczhtaE50R3BjMWc1V0dMUTdUTUttd0lsUk5OcGFkQ19kWEs0a05pVm5yQ0dublBIMWNSUkJZOHVEbC04My1ZcFc5SnBaN2lCcm1QNV9OODl4Q245amFwenR5Smk5aTBjcHo0ZnRNb2ZBMHBkMEJIYW5JWFdCRUU5QlE0?oc=5",
-      "fonte": "UOL Economia",
-      "publicado_em": "2026-08-29T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço UOL Economia"
     }
   ],
   "noticias_home": [
     {
-      "id": "4b993df4f7e4",
-      "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-20T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
+    },
+    {
+      "id": "8402ea905dc4",
+      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
+      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-20T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
     },
     {
       "id": "1aa6f31caeca",
@@ -405,23 +414,14 @@
       "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
-      "id": "3e9269dd892d",
-      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
+      "id": "4b993df4f7e4",
+      "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-20T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
-    },
-    {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-20T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
+      "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
     },
     {
       "id": "07441335e9fb",
