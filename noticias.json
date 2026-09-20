@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-20T13:57:13.374438+00:00",
+  "gerado_em": "2026-09-20T17:20:40.335636+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "b754c6ea2b2b",
-      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-20T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
-    },
-    {
       "id": "3e9269dd892d",
       "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
@@ -102,6 +92,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
+    },
+    {
+      "id": "b754c6ea2b2b",
+      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-20T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
       "id": "1aa6f31caeca",
@@ -216,11 +216,11 @@
       "id": "52046e6a98f5",
       "titulo": "Record Guaíba: notícia que não termina",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDMUJuSXh1Q2x4cERpRmdLeEF3QWJyQnZHQUhjbXNjVUFFS25EXzFjSVJRNHUzSHJXLTBESms2eUtVdTRreE9adVI4ZFRDOUxmWUlOcVdtdU5pX2h0SDg1ZUlhOTlEVVZDNWhWOGFHWEZQcXBZSjRobkFB?oc=5",
-      "fonte": "coletiva.net",
+      "fonte": "Coletiva.net",
       "publicado_em": "2026-09-16T21:32:32+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Record Guaíba: notícia que não termina coletiva.net"
+      "resumo": "Record Guaíba: notícia que não termina Coletiva.net"
     },
     {
       "id": "ad5a57d38567",
@@ -263,14 +263,14 @@
       "resumo": "Prefeitura de Guaíba divulga resultados da IV Mostra Científica e Tecnológica e do 1º Torneio Municipal de Robótica Jornal O Sul"
     },
     {
-      "id": "1a1de6bda575",
+      "id": "adc7a5140d3d",
       "titulo": "Circuito da Longevidade Bradesco Seguros reuniu corredores às margens do Guaíba, em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRnFBYzZQX3lrOEJDelFYYlc0TFptMUVxeE0tRHMyZEVfNXlyWjVvb3FvbGY0NEw0dW5odXV3SlhteERidzdjZjdheW13cXZyUnZTZFNOY0R3QWhQMkh0X2M4SGxScGloU1k1djB2dlJCc2FocDhWRnRuOVp5ejIzNTdYMDRSekRyUF9DTWZoUUVYeFZiaWZLaWt2aTVzb09DclZIaHR0NHl4YVRsWEQ0ZTJ6OFBQd2tUUlFGcU5LaGZ1UQ?oc=5",
-      "fonte": "CQCS",
-      "publicado_em": "2026-09-15T12:19:30+00:00",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcWFDakt2MHlkZ0xZR0xWN0tXalBJSWJRYTB6M0hDRG5FX2FCQ3lqVVVMVC1INVlHaS1tekNWZlhPalBwNHBzTi1wTjZpb3h0aVBlMGRPTmxxMWZ5RVE3cHYyT0UwSjZteUo1ckg3SGxxZ1pCUHI0Q2p2NTFVSERmV2N3TXdzT19TWmVYZUJtYzk2R2c5WTR4dnVIQWdfYkZPYWZHdjFCNkN3SXB4MFNUMmplVHFpN093NmlOQ3hkb04xWTU3d1VaVTFRS3M?oc=5",
+      "fonte": "jornalocandeeiro.com.br",
+      "publicado_em": "2026-09-15T12:14:03+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Circuito da Longevidade Bradesco Seguros reuniu corredores às margens do Guaíba, em Porto Alegre CQCS"
+      "resumo": "Circuito da Longevidade Bradesco Seguros reuniu corredores às margens do Guaíba, em Porto Alegre jornalocandeeiro.com.br"
     },
     {
       "id": "e82fdab480a7",
@@ -291,16 +291,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Mais de 10 mil pessoas celebram os 80 anos de Sesc/RS e Senac-RS na Orla do Guaíba Sesc/RS"
-    },
-    {
-      "id": "6d5c30d06ffb",
-      "titulo": "2ª Liga Run leva dois mil participantes à orla do Guaíba, em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeUtSZ0dBdGVGSWQ5bkhEZV9PVEpEVEJfLWlCbW5WNlcyeXlCVDhuVFpEZGwtMW5kY0doQUtBWVVQNV92bGxKLWhNWFpWTlNpSllOVVRVVFNqaWVPTE9RYThkN05yZnR1Q3U3NFNaVktSNHVQaDNCYWZEWWZrbTlwelcxYmNYd3U3dFp2RXJhdWMweHZGMDBFcnVUVGtIcjZLbU04M3hVVk5temNLTU5xck9WdkVWMGt0dnVPSGQyaTBnMmlqcnBHUlN3MThvdjZ3d1dWRXVR?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-09-13T15:18:42+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "2ª Liga Run leva dois mil participantes à orla do Guaíba, em Porto Alegre Correio do Povo"
     },
     {
       "id": "ead2cb1bac53",
@@ -356,34 +346,34 @@
       "id": "8ff08dd597d6",
       "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0E2Ty1WMU5DeGxTM01CSWdFLWlsbHRUM1dLVFZLMExEb2lYb0hMN3U2MnMwMk5IZTc0dnd6NkJZLXI5Z3QwVlllQmlKdVV6NWdoS0o0MXFKYThPbmZWbWF2SWRub2dWTWM5U1J1OWNJb0pEanc5MlJBcWdiQV81SmV3OU1BSDZVRzR1WU4xVkotVTdQWE9WQ3hvYU9tTnVnTHBmLTlqalREWWwtZWxDUElTQkFLeDFrMkxiamNMMEhMdjhma0xLUVh3ZnBYRzkzbzBNQmZRbGN4ZjlQelJxRVBBOA?oc=5",
-      "fonte": "reporterguaibense.com.br",
+      "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-02T14:14:14+00:00",
       "categoria": null,
       "feed": "reporter",
-      "resumo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba reporterguaibense.com.br"
+      "resumo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba Repórter Guaibense"
     },
     {
       "id": "4f6459d7774f",
       "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2hJc3lMYktsYXpTcHRpZWptLVVPQ1pSMXV5QkxjT1NMNkFjanVDbnNBbUc1OER0N2NsemV4MnQ2NElQVi0yaE93cXhZcE9OUDJ1b0h5aVJidUVCLVlrQXY0cnlZQkNVSDhYZVdZZC1yVU1MNlQ1Z01uZnRJTlp5aWFRRVpoUlNCVFQxNnJDWXFWYlRTN1lDLXBjenh1WlRwMlZMbTU3cXR6cE9LZEFJMWNWQldWcHBDYVR0YzFldXQ3ZmVUR0x3?oc=5",
-      "fonte": "reporterguaibense.com.br",
+      "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-01T07:00:00+00:00",
       "categoria": null,
       "feed": "reporter",
-      "resumo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC reporterguaibense.com.br"
+      "resumo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC Repórter Guaibense"
+    },
+    {
+      "id": "126fb1c2b43c",
+      "titulo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSkdjRE1QdzdNcHowS1V4U0d6SEdGVkpQM2VzTWFIclBSMFBpNTB2cFJvNmJTX3BmUlBPbDMwRFRvZU1tT0FmS2N1R0ZLTVRZRUE1NnFiT3NxczhtaE50R3BjMWc1V0dMUTdUTUttd0lsUk5OcGFkQ19kWEs0a05pVm5yQ0dublBIMWNSUkJZOHVEbC04My1ZcFc5SnBaN2lCcm1QNV9OODl4Q245amFwenR5Smk5aTBjcHo0ZnRNb2ZBMHBkMEJIYW5JWFdCRUU5QlE0?oc=5",
+      "fonte": "UOL Economia",
+      "publicado_em": "2026-08-29T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço UOL Economia"
     }
   ],
   "noticias_home": [
-    {
-      "id": "b754c6ea2b2b",
-      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-20T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
-    },
     {
       "id": "3e9269dd892d",
       "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
@@ -403,6 +393,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
+    },
+    {
+      "id": "b754c6ea2b2b",
+      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-20T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
       "id": "1aa6f31caeca",
