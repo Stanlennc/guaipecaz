@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-20T23:51:26.616053+00:00",
+  "gerado_em": "2026-09-21T03:24:14.031911+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,11 +74,21 @@
   ],
   "noticias": [
     {
+      "id": "b754c6ea2b2b",
+      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
+    },
+    {
       "id": "3e9269dd892d",
       "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-20T00:00:00+00:00",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
@@ -88,7 +98,7 @@
       "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
       "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-20T00:00:00+00:00",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
     },
@@ -97,27 +107,17 @@
       "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-20T00:00:00+00:00",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
-    },
-    {
-      "id": "b754c6ea2b2b",
-      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-20T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
       "id": "4b993df4f7e4",
       "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-20T00:00:00+00:00",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
@@ -127,20 +127,10 @@
       "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-20T00:00:00+00:00",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A atividade faz parte da nova fase do Visão Solidária"
-    },
-    {
-      "id": "9053a4a2b3f4",
-      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
     },
     {
       "id": "1b2120203197",
@@ -153,6 +143,16 @@
       "resumo": "O prazo estimado total para conclusão dos trabalhos é de 60 dias"
     },
     {
+      "id": "9053a4a2b3f4",
+      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
+    },
+    {
       "id": "818bac95001f",
       "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
       "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
@@ -163,44 +163,54 @@
       "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
     },
     {
+      "id": "4f40e6bf89f6",
+      "titulo": "Disputa entre Guaíba e Barra do Ribeiro é decidida em votação",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdnFfSU5FbERhZkJBc1hNOU9FZHNMN3UtT3VyQVpBVF9yOXRSRDFCNWZOVm5MTmdZLVpjT19BaktUUnZvZElQWXlYZ05obkVFYUdHbXBXR01nWVZkZTR1LW9ydlFwWTYxYmQyR0FXY1dNOEJvRmRiS1N6a2VCTjNvVURTLThGbDR1XzZVVERHbzVqUUNCWUx5bGx3NmJfWnVaejhUQ1BCUDE0ZDFBVEhmalZGS2F0R3Y5T3BVMVhjdVFUWjdFN0pGZ2NCV0RHaG1Zci0wZnN3?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-09-21T03:11:15+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Disputa entre Guaíba e Barra do Ribeiro é decidida em votação Correio do Povo"
+    },
+    {
       "id": "a9765f61dc34",
       "titulo": "Maranata cumpre agenda do 20 de setembro em Guaíba, Eldorado e Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZT1Q0MFR3TnlMczFRYmRNbWRzM2w2RkFnWllNeHZTRlVwSktYY196X0JRSlBNX3ZyZ0drODRUdXhEdUM2Wmhod3pFTlNGSUxQYm9kY2ZveEhDMEFfM2pmbnI1QnhyOFdzVHJnVHdBZw?oc=5",
-      "fonte": "gruposepe.com.br",
+      "fonte": "grupo sepé",
       "publicado_em": "2026-09-20T22:05:00+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Maranata cumpre agenda do 20 de setembro em Guaíba, Eldorado e Porto Alegre gruposepe.com.br"
+      "resumo": "Maranata cumpre agenda do 20 de setembro em Guaíba, Eldorado e Porto Alegre grupo sepé"
     },
     {
       "id": "9361c388ef80",
       "titulo": "Orla do Lami sediará quinta edição do mutirão de limpeza Limpe o Lago Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGM4Wkk1WldpT2RCODlCSkxvaEtYWjR4amN4SEFpdm1pcVlBX19LWmt1cmVzbTJmQmRQNWFkb1BYNEx6LTlUcVlzRmtNajhLMDhvcURyNGJrOTBrSUxjWlNFRlNZcHN0ZkE1MWRMTXVxQlJTNnNRYUZzSTRRQkI4VEpiN1N4WGswWTl6Mk1ONFVSNE0zMkJCbWotVmtnSmViU21LQjVCTkRNTE0?oc=5",
-      "fonte": "Jornalecão",
+      "fonte": "jornalecao.com.br",
       "publicado_em": "2026-09-19T19:14:17+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Orla do Lami sediará quinta edição do mutirão de limpeza Limpe o Lago Guaíba Jornalecão"
+      "resumo": "Orla do Lami sediará quinta edição do mutirão de limpeza Limpe o Lago Guaíba jornalecao.com.br"
     },
     {
       "id": "a5ecd61a99b3",
       "titulo": "Da Magia à Sedução: Feitiço de Amor: Programação e Sessões Guaíba",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVmlfQ2t1Z0RMU2xXd0MxY1ItSV9DMDA1Y2tzU3BVTVUtZS1qSzVOMW1UcDhIMXh2SlAtZDZNSEU3NTExS3F4ekl2S1VNQS1EZ2FpTWhRTjZIM0NkQkgyQTRXZGYtMjJQUDVyTGg2dVhvX0h3bWQ2NGsxR1VfVFZzX3ItbnlBVXc?oc=5",
-      "fonte": "adorocinema.com",
+      "fonte": "AdoroCinema",
       "publicado_em": "2026-09-19T02:54:13+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Da Magia à Sedução: Feitiço de Amor: Programação e Sessões Guaíba adorocinema.com"
+      "resumo": "Da Magia à Sedução: Feitiço de Amor: Programação e Sessões Guaíba AdoroCinema"
     },
     {
       "id": "ac438c3b1720",
       "titulo": "Marcelo Maranata cumpre agenda de campanha em Canoas e Guaíba",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUck8wMDdjb3Zsbm5WZ08zYjY2ejBjNk1kSnRSaUpiOXc0ZUpaWG4zVXJEZnVwZU1jWlBnR2xqSkFrLVdzWjhHLWs3WmZNemVPSFJGSmN6VlVyUFlIVTFVdnV4NjFEempXaVpFN0gycw?oc=5",
-      "fonte": "gruposepe.com.br",
+      "fonte": "grupo sepé",
       "publicado_em": "2026-09-19T00:20:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Marcelo Maranata cumpre agenda de campanha em Canoas e Guaíba gruposepe.com.br"
+      "resumo": "Marcelo Maranata cumpre agenda de campanha em Canoas e Guaíba grupo sepé"
     },
     {
       "id": "6c3320135cae",
@@ -216,11 +226,11 @@
       "id": "026df0dbf8bd",
       "titulo": "Médicos da rede municipal de Guaíba participam de evento sobre educação financeira",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVmswcGpPZ0I3VVc5OEZlM3N3OHR4ZHNWRk9IZ2VrSDVwdjVzSV9iVnIwcHBwQ0ltZkpNdGctTm8wRktobFZfcWk5WGIzS2dDYmZPTDBXWjRRN0tpcDVXOUVrSVlLdUNWRnk4dHJfV2UwZm5VUW5LeVcwbWIyNVZ6dGdWaGV3aER3cFE0WXo1SEtOeExpTFhTd3c4QkpuNGtsNGlFVGY0Qzh5NjNMWXRRcTh4MEFBb0c5N1ZnTENKQ095TVk4?oc=5",
-      "fonte": "Portal Revista Kdea 360",
+      "fonte": "revistakdea360.com.br",
       "publicado_em": "2026-09-16T22:21:46+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Médicos da rede municipal de Guaíba participam de evento sobre educação financeira Portal Revista Kdea 360"
+      "resumo": "Médicos da rede municipal de Guaíba participam de evento sobre educação financeira revistakdea360.com.br"
     },
     {
       "id": "52046e6a98f5",
@@ -306,11 +316,11 @@
       "id": "ead2cb1bac53",
       "titulo": "AGERGS aumenta tarifa da Catsul para R$ 19,15 entre Porto Alegre (RS) e Guaíba (RS) e dá 60 dias à Metroplan para analisar reequilíbrio",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMXVuRU1LdGlDcDlEaF8zY0NCbWZNWmdNNXFoNFg0YkxCWjBVY0JqRHduZ1JSUUdmbmJjYWFzbUtCOHFsWVBLR3RmdkhveE4tQlIyRmZHZ1hGM2lSM2hNZ3FEZGUtN3R4Y25CcEFhdWlYeU53Tm9xTHlrdHdPMW9nX1g3eWJqOEhpSGYyekdjU0Nhd1JJVlhsQkRrbXlUWkJ5V3NHWEJ4RHJOZ2ZvRW16Q0V4SEhkYTVpM1EyLTVKR0RkQ0Y2WnRoT3hzSDFGNVM1dGo5OG9GNHZBZHdqeXZCN1JuM1ZHajFDeUdybmdpakJiZTBDYnJ6bzNtOFlUZzEtSjhZZm5R0gGLAkFVX3lxTFBmZnBuSndJbUo0eFczaFo0QlYwVmFsT0VxTkYwS01Hc3RESHhXRWxZOWpPeTBkV2xDb0laWjgzNWI4c1l2UVJtN05MU1ZsVWRtRjNJYk5ubElzZkpWd3VLWEhiVy1SQWxvT2xvWjFtdzdSQW1Bbnc2aUhTamdNbUZzYzJkZVo5SGJXQXFielE4Y1J6Z182OWNJVmVuMFVwOG9mQ1NvYkNxVk9xeFZnbDBTd0pZcEY0T3JBY3RKaWJOeEt1RkdnX05XQ2RtWGFVOVMxN0F0Q0loQTNBNGhwblRxT24zN0ZSZVpLZmNPV2Vsd19aXzBhNi01UjJLWkdqSnJOeFFJLXB6UXAzcw?oc=5",
-      "fonte": "Diário do Transporte",
+      "fonte": "diariodotransporte.com.br",
       "publicado_em": "2026-09-10T15:07:03+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "AGERGS aumenta tarifa da Catsul para R$ 19,15 entre Porto Alegre (RS) e Guaíba (RS) e dá 60 dias à Metroplan para analisar reequilíbrio Diário do Transporte"
+      "resumo": "AGERGS aumenta tarifa da Catsul para R$ 19,15 entre Porto Alegre (RS) e Guaíba (RS) e dá 60 dias à Metroplan para analisar reequilíbrio diariodotransporte.com.br"
     },
     {
       "id": "35f851fed22b",
@@ -361,25 +371,25 @@
       "categoria": null,
       "feed": "reporter",
       "resumo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba Repórter Guaibense"
-    },
-    {
-      "id": "4f6459d7774f",
-      "titulo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2hJc3lMYktsYXpTcHRpZWptLVVPQ1pSMXV5QkxjT1NMNkFjanVDbnNBbUc1OER0N2NsemV4MnQ2NElQVi0yaE93cXhZcE9OUDJ1b0h5aVJidUVCLVlrQXY0cnlZQkNVSDhYZVdZZC1yVU1MNlQ1Z01uZnRJTlp5aWFRRVpoUlNCVFQxNnJDWXFWYlRTN1lDLXBjenh1WlRwMlZMbTU3cXR6cE9LZEFJMWNWQldWcHBDYVR0YzFldXQ3ZmVUR0x3?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-01T07:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Grupo Vagalumes da Esperança, de Guaíba, é contemplado pelo Fundo Valor Local da CMPC Repórter Guaibense"
     }
   ],
   "noticias_home": [
+    {
+      "id": "b754c6ea2b2b",
+      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
+    },
     {
       "id": "3e9269dd892d",
       "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-20T00:00:00+00:00",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
@@ -389,7 +399,7 @@
       "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
       "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-20T00:00:00+00:00",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
     },
@@ -398,27 +408,17 @@
       "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-20T00:00:00+00:00",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
-    },
-    {
-      "id": "b754c6ea2b2b",
-      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-20T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
       "id": "4b993df4f7e4",
       "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-20T00:00:00+00:00",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
@@ -428,20 +428,10 @@
       "titulo": "Projeto do Lions e Tri Legal oferece 40 atendimentos oftalmológicos gratuitos em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/projeto-do-lions-e-tri-legal-oferece-40-atendimentos-oftalmologicos-gratuitos-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-20T00:00:00+00:00",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A atividade faz parte da nova fase do Visão Solidária"
-    },
-    {
-      "id": "9053a4a2b3f4",
-      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
     },
     {
       "id": "1b2120203197",
@@ -452,6 +442,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O prazo estimado total para conclusão dos trabalhos é de 60 dias"
+    },
+    {
+      "id": "9053a4a2b3f4",
+      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
     }
   ]
 }
