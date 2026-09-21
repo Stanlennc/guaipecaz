@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-21T03:24:14.031911+00:00",
+  "gerado_em": "2026-09-21T09:36:37.385126+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,35 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "b754c6ea2b2b",
-      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-21T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
-    },
-    {
-      "id": "3e9269dd892d",
-      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-21T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
-    },
-    {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-21T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
       "id": "1aa6f31caeca",
       "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
@@ -121,6 +92,35 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
+    },
+    {
+      "id": "b754c6ea2b2b",
+      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
+    },
+    {
+      "id": "8402ea905dc4",
+      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
+      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
     },
     {
       "id": "07441335e9fb",
@@ -167,7 +167,7 @@
       "titulo": "Disputa entre Guaíba e Barra do Ribeiro é decidida em votação",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdnFfSU5FbERhZkJBc1hNOU9FZHNMN3UtT3VyQVpBVF9yOXRSRDFCNWZOVm5MTmdZLVpjT19BaktUUnZvZElQWXlYZ05obkVFYUdHbXBXR01nWVZkZTR1LW9ydlFwWTYxYmQyR0FXY1dNOEJvRmRiS1N6a2VCTjNvVURTLThGbDR1XzZVVERHbzVqUUNCWUx5bGx3NmJfWnVaejhUQ1BCUDE0ZDFBVEhmalZGS2F0R3Y5T3BVMVhjdVFUWjdFN0pGZ2NCV0RHaG1Zci0wZnN3?oc=5",
       "fonte": "Correio do Povo",
-      "publicado_em": "2026-09-21T03:11:15+00:00",
+      "publicado_em": "2026-09-21T03:13:37+00:00",
       "categoria": null,
       "feed": "correio",
       "resumo": "Disputa entre Guaíba e Barra do Ribeiro é decidida em votação Correio do Povo"
@@ -186,11 +186,11 @@
       "id": "9361c388ef80",
       "titulo": "Orla do Lami sediará quinta edição do mutirão de limpeza Limpe o Lago Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGM4Wkk1WldpT2RCODlCSkxvaEtYWjR4amN4SEFpdm1pcVlBX19LWmt1cmVzbTJmQmRQNWFkb1BYNEx6LTlUcVlzRmtNajhLMDhvcURyNGJrOTBrSUxjWlNFRlNZcHN0ZkE1MWRMTXVxQlJTNnNRYUZzSTRRQkI4VEpiN1N4WGswWTl6Mk1ONFVSNE0zMkJCbWotVmtnSmViU21LQjVCTkRNTE0?oc=5",
-      "fonte": "jornalecao.com.br",
+      "fonte": "Jornalecão",
       "publicado_em": "2026-09-19T19:14:17+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Orla do Lami sediará quinta edição do mutirão de limpeza Limpe o Lago Guaíba jornalecao.com.br"
+      "resumo": "Orla do Lami sediará quinta edição do mutirão de limpeza Limpe o Lago Guaíba Jornalecão"
     },
     {
       "id": "a5ecd61a99b3",
@@ -223,24 +223,34 @@
       "resumo": "Maranata aposta na experiência como empresário e prefeito de Guaíba para governar o RS Correio do Povo"
     },
     {
+      "id": "fc31a68c6859",
+      "titulo": "Domingues Da Ponte Do Guaíba Candidato a Deputado Estadual no Rio Grande do Sul nas eleições 2026",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2pkN2dsdjFNRllFUjJxeGZQSDJmU3Y3UVFYVjZQYm9kRU55WjlrS3BWMlBrV25pXzdQS1VzbDhnZTVVWGV3aVlfLTR1Z3c3MXR4MzV2TTJiRU5xZVJrd0FRWDdmZE95NktZb1I5di1EczBWQUp6Q19wWVlTTGo2b0pxTnU2YW1fUXJQSm1feTRkMUplSHV6cE0yMnNMY1BBeWJoMHI0dXBLZw?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-09-18T07:00:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Domingues Da Ponte Do Guaíba Candidato a Deputado Estadual no Rio Grande do Sul nas eleições 2026 G1"
+    },
+    {
       "id": "026df0dbf8bd",
       "titulo": "Médicos da rede municipal de Guaíba participam de evento sobre educação financeira",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVmswcGpPZ0I3VVc5OEZlM3N3OHR4ZHNWRk9IZ2VrSDVwdjVzSV9iVnIwcHBwQ0ltZkpNdGctTm8wRktobFZfcWk5WGIzS2dDYmZPTDBXWjRRN0tpcDVXOUVrSVlLdUNWRnk4dHJfV2UwZm5VUW5LeVcwbWIyNVZ6dGdWaGV3aER3cFE0WXo1SEtOeExpTFhTd3c4QkpuNGtsNGlFVGY0Qzh5NjNMWXRRcTh4MEFBb0c5N1ZnTENKQ095TVk4?oc=5",
-      "fonte": "revistakdea360.com.br",
+      "fonte": "Portal Revista Kdea 360",
       "publicado_em": "2026-09-16T22:21:46+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Médicos da rede municipal de Guaíba participam de evento sobre educação financeira revistakdea360.com.br"
+      "resumo": "Médicos da rede municipal de Guaíba participam de evento sobre educação financeira Portal Revista Kdea 360"
     },
     {
       "id": "52046e6a98f5",
       "titulo": "Record Guaíba: notícia que não termina",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDMUJuSXh1Q2x4cERpRmdLeEF3QWJyQnZHQUhjbXNjVUFFS25EXzFjSVJRNHUzSHJXLTBESms2eUtVdTRreE9adVI4ZFRDOUxmWUlOcVdtdU5pX2h0SDg1ZUlhOTlEVVZDNWhWOGFHWEZQcXBZSjRobkFB?oc=5",
-      "fonte": "Coletiva.net",
+      "fonte": "coletiva.net",
       "publicado_em": "2026-09-16T21:32:32+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Record Guaíba: notícia que não termina Coletiva.net"
+      "resumo": "Record Guaíba: notícia que não termina coletiva.net"
     },
     {
       "id": "ad5a57d38567",
@@ -316,11 +326,11 @@
       "id": "ead2cb1bac53",
       "titulo": "AGERGS aumenta tarifa da Catsul para R$ 19,15 entre Porto Alegre (RS) e Guaíba (RS) e dá 60 dias à Metroplan para analisar reequilíbrio",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMXVuRU1LdGlDcDlEaF8zY0NCbWZNWmdNNXFoNFg0YkxCWjBVY0JqRHduZ1JSUUdmbmJjYWFzbUtCOHFsWVBLR3RmdkhveE4tQlIyRmZHZ1hGM2lSM2hNZ3FEZGUtN3R4Y25CcEFhdWlYeU53Tm9xTHlrdHdPMW9nX1g3eWJqOEhpSGYyekdjU0Nhd1JJVlhsQkRrbXlUWkJ5V3NHWEJ4RHJOZ2ZvRW16Q0V4SEhkYTVpM1EyLTVKR0RkQ0Y2WnRoT3hzSDFGNVM1dGo5OG9GNHZBZHdqeXZCN1JuM1ZHajFDeUdybmdpakJiZTBDYnJ6bzNtOFlUZzEtSjhZZm5R0gGLAkFVX3lxTFBmZnBuSndJbUo0eFczaFo0QlYwVmFsT0VxTkYwS01Hc3RESHhXRWxZOWpPeTBkV2xDb0laWjgzNWI4c1l2UVJtN05MU1ZsVWRtRjNJYk5ubElzZkpWd3VLWEhiVy1SQWxvT2xvWjFtdzdSQW1Bbnc2aUhTamdNbUZzYzJkZVo5SGJXQXFielE4Y1J6Z182OWNJVmVuMFVwOG9mQ1NvYkNxVk9xeFZnbDBTd0pZcEY0T3JBY3RKaWJOeEt1RkdnX05XQ2RtWGFVOVMxN0F0Q0loQTNBNGhwblRxT24zN0ZSZVpLZmNPV2Vsd19aXzBhNi01UjJLWkdqSnJOeFFJLXB6UXAzcw?oc=5",
-      "fonte": "diariodotransporte.com.br",
+      "fonte": "Diário do Transporte",
       "publicado_em": "2026-09-10T15:07:03+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "AGERGS aumenta tarifa da Catsul para R$ 19,15 entre Porto Alegre (RS) e Guaíba (RS) e dá 60 dias à Metroplan para analisar reequilíbrio diariodotransporte.com.br"
+      "resumo": "AGERGS aumenta tarifa da Catsul para R$ 19,15 entre Porto Alegre (RS) e Guaíba (RS) e dá 60 dias à Metroplan para analisar reequilíbrio Diário do Transporte"
     },
     {
       "id": "35f851fed22b",
@@ -361,48 +371,9 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Sesc/RS e Senac-RS celebram 80 anos com megaprogramação gratuita na Orla do Guaíba Sesc/RS"
-    },
-    {
-      "id": "8ff08dd597d6",
-      "titulo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0E2Ty1WMU5DeGxTM01CSWdFLWlsbHRUM1dLVFZLMExEb2lYb0hMN3U2MnMwMk5IZTc0dnd6NkJZLXI5Z3QwVlllQmlKdVV6NWdoS0o0MXFKYThPbmZWbWF2SWRub2dWTWM5U1J1OWNJb0pEanc5MlJBcWdiQV81SmV3OU1BSDZVRzR1WU4xVkotVTdQWE9WQ3hvYU9tTnVnTHBmLTlqalREWWwtZWxDUElTQkFLeDFrMkxiamNMMEhMdjhma0xLUVh3ZnBYRzkzbzBNQmZRbGN4ZjlQelJxRVBBOA?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-02T14:14:14+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Por 12 a 4, Câmara aprova projeto que altera gratificação de profissionais da educação especial em Guaíba Repórter Guaibense"
     }
   ],
   "noticias_home": [
-    {
-      "id": "b754c6ea2b2b",
-      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-21T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
-    },
-    {
-      "id": "3e9269dd892d",
-      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-21T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
-    },
-    {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-21T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
     {
       "id": "1aa6f31caeca",
       "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
@@ -422,6 +393,35 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
+    },
+    {
+      "id": "b754c6ea2b2b",
+      "titulo": "Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
+    },
+    {
+      "id": "8402ea905dc4",
+      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
+      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-21T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
     },
     {
       "id": "07441335e9fb",
