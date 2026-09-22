@@ -5,23 +5,9 @@
 <description>Notícias de Guaíba e da Região Metropolitana de Porto Alegre</description>
 <language>pt-BR</language>
 <item>
-<title>Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027</title>
-<link>https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027</link>
-<guid>b754c6ea2b2b</guid>
-<pubDate>2026-09-22T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos</title>
-<link>https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos</link>
-<guid>8402ea905dc4</guid>
-<pubDate>2026-09-22T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba</title>
-<link>https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba</link>
-<guid>3e9269dd892d</guid>
+<title>Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba</title>
+<link>https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba</link>
+<guid>1aa6f31caeca</guid>
 <pubDate>2026-09-22T00:00:00+00:00</pubDate>
 <source>Repórter Guaibense</source>
 </item>
@@ -33,9 +19,16 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
-<title>Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba</title>
-<link>https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba</link>
-<guid>1aa6f31caeca</guid>
+<title>De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos</title>
+<link>https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos</link>
+<guid>8402ea905dc4</guid>
+<pubDate>2026-09-22T00:00:00+00:00</pubDate>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Círculo Saúde inaugura hospital em Guaíba neste mês e prevê maternidade para março de 2027</title>
+<link>https://www.reporterguaibense.com.br/noticia/circulo-saude-inaugura-hospital-em-guaiba-neste-mes-e-preve-maternidade-para-marco-de-2027</link>
+<guid>b754c6ea2b2b</guid>
 <pubDate>2026-09-22T00:00:00+00:00</pubDate>
 <source>Repórter Guaibense</source>
 </item>
@@ -46,15 +39,15 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
-<title>Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba</title>
-<link>https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba</link>
-<guid>a583b37fadbe</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio</title>
 <link>https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio</link>
 <guid>9053a4a2b3f4</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba</title>
+<link>https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba</link>
+<guid>a583b37fadbe</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -62,6 +55,20 @@
 <link>https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro</link>
 <guid>818bac95001f</guid>
 <source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Record Guaíba promove debate com os quatro principais candidatos ao governo do RS</title>
+<link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWJnZWdwRnhqbVI4N3pzYW9vbWRfWURqbUMwZWJkSkk4SU1IUWFFMVByUGxPZS1fSHBndk9EYjVSWFBYc0ZoUjhkek9Ndkx5Q1lmWjRGcHI4bGE3dGxpVTRlTVdmLWN0bmVMZm9CNEFzbThVWGZDWjdBNThRY2k3MXE3eTJPZnZJeGtBSzR5UHMzbG5VeXNJZXQ1b1RUUmpxXzNjcnZrZEVLeFFYazE4SV9OU3BYX3dTTXB4SUhXWWxXMGd5UF9WQ3pzcFg2Q3NyUkFtRXN5Zkl0Nzdic1lHaFlpOTQ?oc=5</link>
+<guid>60f3433adc2a</guid>
+<pubDate>2026-09-22T12:42:11+00:00</pubDate>
+<source>R7</source>
+</item>
+<item>
+<title>Acampamento Farroupilha 2026: Record Guaíba reúne mercado publicitário</title>
+<link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbmdkdEw1eHJRdXlzdFR4azg4QkdBdm83R1BvUWRod09WX3NIYzNfRHJTaTlmN2VXOHczNFM3MTh1cDljNFNqbFZ4SDQwWGlDZEJDQVBZbndkV0tJTU9xd3N5OGFtUk04aElKdmhyb0NHR0pObVRsQXR0R0llVmw1aGNCLWhUVkdwSjdBQ1R2RWNEZXdjSVNHamdHZWlaaEdDaUV2VElVUmhjVHkyM1ZtMlJ3c1diVkFBMUR6V3RkVXZWVDh1Y0FINGVhWVg4NVBabHFXbDhn?oc=5</link>
+<guid>2cce1d4a2340</guid>
+<pubDate>2026-09-22T11:50:22+00:00</pubDate>
+<source>R7</source>
 </item>
 <item>
 <title>Monitoramentos mostram que o Guaíba ainda sofre efeitos da enchente de 2024</title>
@@ -78,6 +85,13 @@
 <source>abcmais.com</source>
 </item>
 <item>
+<title>Sicredi reinaugura agência em Guaíba</title>
+<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxORkFHaUNJeWZBb0xGTC12SDIwLUJDV0hqVzVFV1pqREJGeUhFVU5NNk9DYWlZLVpOREotT1NvRkNlUTdlVEprc0V3amFPZWphZFNnOVhiQU45Z0VGVkJ4RkNiZWVWdzlndjE3aTVtZ3hKNG9lcTBlOU9CVGVfN1k1RVlPUXhXWkNZbTNfc1o2eEFFVXZGSG1pRjNSYjE?oc=5</link>
+<guid>dbeba71777da</guid>
+<pubDate>2026-09-21T14:47:57+00:00</pubDate>
+<source>sicredi.com.br</source>
+</item>
+<item>
 <title>Record Guaíba promove debate entre candidatos ao governo do RS</title>
 <link>https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YZ3dzQTJTNTZsdVRCNkdDOE9pazhJWnZwRmJ5RlhFRk9YeWwwUm1PTlNHa2NrMzRYVC15N0sxZkJScFBlMnc?oc=5</link>
 <guid>e1a9413c3112</guid>
@@ -89,7 +103,7 @@
 <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMHRQc0Z1SkJtaERVdFBBN1lXaF8tRWlibGFpRUl3SHhwNWd5d1Q4c29ZQXFmQjlZRVBNX2NiZ1VLcWxUUkxVc0ZMeTBhaDJfakdiNlpLdDN4M082RVlfRno3QVpvQUkxbGg4N0JCcDRWNFRUNTZ4NkZ5QWRzdlVFODBFN0lGMmZGeHVRZzZQT2ZEaFVENWVDRFhLQ3FmWGhMR2p3Q1lUN0QxcWNYekFHZ1U1OWRaMENFdm1QT0FINjNDY2s?oc=5</link>
 <guid>eff20e64b075</guid>
 <pubDate>2026-09-21T11:10:00+00:00</pubDate>
-<source>corsan.com.br</source>
+<source>CORSAN</source>
 </item>
 <item>
 <title>Disputa entre Guaíba e Barra do Ribeiro é decidida em votação</title>
@@ -103,7 +117,7 @@
 <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZT1Q0MFR3TnlMczFRYmRNbWRzM2w2RkFnWllNeHZTRlVwSktYY196X0JRSlBNX3ZyZ0drODRUdXhEdUM2Wmhod3pFTlNGSUxQYm9kY2ZveEhDMEFfM2pmbnI1QnhyOFdzVHJnVHdBZw?oc=5</link>
 <guid>a9765f61dc34</guid>
 <pubDate>2026-09-20T22:05:00+00:00</pubDate>
-<source>grupo sepé</source>
+<source>gruposepe.com.br</source>
 </item>
 <item>
 <title>Da Magia à Sedução: Feitiço de Amor: Programação e Sessões Guaíba</title>
@@ -117,7 +131,7 @@
 <link>https://news.google.com/rss/articles/CBMib0FVX3lxTFBUck8wMDdjb3Zsbm5WZ08zYjY2ejBjNk1kSnRSaUpiOXc0ZUpaWG4zVXJEZnVwZU1jWlBnR2xqSkFrLVdzWjhHLWs3WmZNemVPSFJGSmN6VlVyUFlIVTFVdnV4NjFEempXaVpFN0gycw?oc=5</link>
 <guid>ac438c3b1720</guid>
 <pubDate>2026-09-19T00:20:00+00:00</pubDate>
-<source>grupo sepé</source>
+<source>gruposepe.com.br</source>
 </item>
 <item>
 <title>Maranata aposta na experiência como empresário e prefeito de Guaíba para governar o RS</title>
@@ -125,19 +139,5 @@
 <guid>6c3320135cae</guid>
 <pubDate>2026-09-18T16:17:25+00:00</pubDate>
 <source>Correio do Povo</source>
-</item>
-<item>
-<title>Domingues Da Ponte Do Guaíba Candidato a Deputado Estadual no Rio Grande do Sul nas eleições 2026</title>
-<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2pkN2dsdjFNRllFUjJxeGZQSDJmU3Y3UVFYVjZQYm9kRU55WjlrS3BWMlBrV25pXzdQS1VzbDhnZTVVWGV3aVlfLTR1Z3c3MXR4MzV2TTJiRU5xZVJrd0FRWDdmZE95NktZb1I5di1EczBWQUp6Q19wWVlTTGo2b0pxTnU2YW1fUXJQSm1feTRkMUplSHV6cE0yMnNMY1BBeWJoMHI0dXBLZw?oc=5</link>
-<guid>fc31a68c6859</guid>
-<pubDate>2026-09-18T07:00:00+00:00</pubDate>
-<source>G1</source>
-</item>
-<item>
-<title>Médicos da rede municipal de Guaíba participam de evento sobre educação financeira</title>
-<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPVmswcGpPZ0I3VVc5OEZlM3N3OHR4ZHNWRk9IZ2VrSDVwdjVzSV9iVnIwcHBwQ0ltZkpNdGctTm8wRktobFZfcWk5WGIzS2dDYmZPTDBXWjRRN0tpcDVXOUVrSVlLdUNWRnk4dHJfV2UwZm5VUW5LeVcwbWIyNVZ6dGdWaGV3aER3cFE0WXo1SEtOeExpTFhTd3c4QkpuNGtsNGlFVGY0Qzh5NjNMWXRRcTh4MEFBb0c5N1ZnTENKQ095TVk4?oc=5</link>
-<guid>026df0dbf8bd</guid>
-<pubDate>2026-09-16T22:21:46+00:00</pubDate>
-<source>revistakdea360.com.br</source>
 </item>
 </channel></rss>
