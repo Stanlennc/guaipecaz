@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-23T16:08:39.828349+00:00",
+  "gerado_em": "2026-09-23T21:06:07.779594+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,6 +84,16 @@
       "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
     },
     {
+      "id": "0c103e9d857b",
+      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
+      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-23T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+    },
+    {
       "id": "8402ea905dc4",
       "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
       "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
@@ -91,16 +101,6 @@
       "publicado_em": "2026-09-23T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
-    },
-    {
-      "id": "4b993df4f7e4",
-      "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
     },
     {
       "id": "b754c6ea2b2b",
@@ -113,14 +113,14 @@
       "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
-      "id": "0c103e9d857b",
-      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
-      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "id": "4b993df4f7e4",
+      "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-23T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+      "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
     },
     {
       "id": "3e9269dd892d",
@@ -133,14 +133,14 @@
       "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
     },
     {
-      "id": "9053a4a2b3f4",
-      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
+      "id": "04f08750afc3",
+      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
+      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
+      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
     },
     {
       "id": "a583b37fadbe",
@@ -153,24 +153,84 @@
       "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
     },
     {
-      "id": "04f08750afc3",
-      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
-      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
+      "id": "9053a4a2b3f4",
+      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
+      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
     },
     {
-      "id": "818bac95001f",
-      "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
+      "id": "1b2120203197",
+      "titulo": "Programa Horas-Máquina completa um mês de serviço em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/programa-horas-maquina-completa-um-mes-de-servico-eme-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
+      "resumo": "O prazo estimado total para conclusão dos trabalhos é de 60 dias"
+    },
+    {
+      "id": "e605de486f6a",
+      "titulo": "Defesa Civil emite alerta de risco alto para subida do Guaíba em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORHN5QlVjSHdpOUVfUVpkVDEtNXIwblVHQ3RVVHg2VGtWb2E5NDdvUEtULVNmWXlwZnB5RWl3N3dRbUx1aVJlTjNvMEJ4dGxIS1ZzOUlMTGVLRFF3c0l2UFowSHhkdkRKdGdPc2VmaXJrTjA2M0pTUG82OU1sdVNYX1lHanZQaThr?oc=5",
+      "fonte": "ncnews.com.br",
+      "publicado_em": "2026-09-23T19:00:35+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Defesa Civil emite alerta de risco alto para subida do Guaíba em Porto Alegre ncnews.com.br"
+    },
+    {
+      "id": "c833c9df270a",
+      "titulo": "Guaíba sobe e alaga ruas na Ilha da Pintada",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ055TWVzcF8yUEFGNDJwOTgtQWUybUhjQWZnUXB3dU5wejE5THpycDQ1eE5sR3ZtRld5ckRsek01MzBydm1fUS1qMVIwZmJmWXVjSEFVRl83NmJEc1VKZWlTMUZSVUFJUktXeXV1Sjk4WFFYMVd5R2lVQ2dJajJFN0owSFhxc1dVcDFrdFRaUzU4NXFqakxmSXhvcnZFMjBvRmpfVVVHU2xPS1RHRVZHbkE3NGlvNmhsa0tHTWVJbHJCWDZHRUxUSm95UkdYbW1QQ1VXZnRBV1c?oc=5",
+      "fonte": "Terra",
+      "publicado_em": "2026-09-23T18:53:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba sobe e alaga ruas na Ilha da Pintada Terra"
+    },
+    {
+      "id": "7c6811011ad2",
+      "titulo": "Defesa Civil de Porto Alegre acompanha situação do Guaíba e mantém equipes no Arquipélago",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTNLWnQ5Nnc5Q1E3MUlqa3I1RXRucEJfWTJqa2RXVGM5RXAzNHdkWFBkR01FdkF1YlZCMGpSSE5mNHRqQ1NmSjRaQjdQdlp5QWxEcGJ4dzNEWXo0NE85ckhORG5LZUZDWThsSUtCZVlDM0NUN2dtN0ExazdsZnhXUzJJem5qMk5lQmszMkhiUE5zb0NCMDFPNHFYeFV3UDU4dUZublBHN1NOejBkeU5nZjNCWDFWRTBQVVHSAboBQVVfeXFMTVEzS1p0OTZ3OUNRNzFJamtyNUV0bnBCX1kyamtkV1RjOUVwMzR3ZFhQZEdNRXZBdWJWQjBqUkhOZjR0akNTZko0WkI3UHZaeUFsRHBieHczRFl6NDRPOXJITkRuS2VGQ1k4bElLQmVZQzNDVDdnbTdBMWs3bGZ4V1MySXpuajJOZUJrMzJIYlBOc29DQjAxTzRxWHhVd1A1OHVGbm5QRzdTTnowZHlOZ2YzQlgxVkUwUFVR?oc=5",
+      "fonte": "Jornal O Sul",
+      "publicado_em": "2026-09-23T17:33:43+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Defesa Civil de Porto Alegre acompanha situação do Guaíba e mantém equipes no Arquipélago Jornal O Sul"
+    },
+    {
+      "id": "a276d506a673",
+      "titulo": "Catamarã entre Porto Alegre e Guaíba terá horários reduzidos nesta quarta e quinta",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFhIRkw1MmNBTkFMTV9Va2VjdE0zWXdzdG5DX3RUZjBjNUcwV29LQTRMMzAyTGx0WVdVRS1ucEpmQ3dFR3lFZ3p0YWREMldVRG03cndkNl9SWXJRZUFLTnZkYmNvNFNmRDc2ZGlyYkhjY2NabThGelFxRVZaZXhodjFaS2xIS0tkNXBCSDVHTGNGOWxoeVBEYQ?oc=5",
+      "fonte": "Agora RS",
+      "publicado_em": "2026-09-23T16:45:22+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Catamarã entre Porto Alegre e Guaíba terá horários reduzidos nesta quarta e quinta Agora RS"
+    },
+    {
+      "id": "b0d1fda82b7b",
+      "titulo": "Prefeitura de Guaíba entrega Comenda do Centenário no palco do Sarandeio Farroupilha",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdWNLTEZ6c3RHNmVjbnNkeXoyZ0NOUWY3T0cwYnExQ2xrQWh3LUh4bnRXNGdmNVNaN0FwNjNqZE1jeURROEhneUFfbW44anhfakNqSC1ZU2syaWwydGlyNmJDZ2xJZGpYNFIwTEFydjVwMUNIUG9PS2RIemZnaTl2TFNrYkVqcmtEeXdMaU9ZdXpNczRvQXItSUZ6MGNjc2ZNQWFNZXMzMi0?oc=5",
+      "fonte": "expansao.co",
+      "publicado_em": "2026-09-23T16:41:07+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Prefeitura de Guaíba entrega Comenda do Centenário no palco do Sarandeio Farroupilha expansao.co"
+    },
+    {
+      "id": "2ea7ddaf63c2",
+      "titulo": "Alta do Jacuí e Guaíba põe moradores das ilhas de Porto Alegre em alerta",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTDFFX3c5bWRXc3FyemRfdEZnRzZmUHFHMXhDd2xWXzVaWnVZb3FCSS1iMHVHbjM5VkhQNXJ3UGE3aGhqLTBraXczY1pyb0p2OFVjX2xfelBBTkZKbGplUEM0QlpNWGtOVmlNWFAwYWlzbWplcUZtc3VLMXhMNjhLMjV0bDhXLWZ0ellTSDN5RXVUUkpmSVJBaFAtWkFkdUpZeVo0LWk0ZkoyTTIzZlF0RzMtZzdaNWMwVmFrV1pLRnp2NlhlVjFfd2x1VTdDeFItNUNV?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-09-23T16:36:26+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Alta do Jacuí e Guaíba põe moradores das ilhas de Porto Alegre em alerta Correio do Povo"
     },
     {
       "id": "9a6c7a631ec0",
@@ -206,11 +266,11 @@
       "id": "1cbff1203362",
       "titulo": "Cheia do Guaíba e rios em nível crítico colocam RS em alerta",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ydFgxM0d0VG9DWjJDVWtYWWw2OFZVV2tWVFBremQtRXhSbmxkU1psLWFwNVQxeXRWRzUtLUNXWWhZM1FKTkl2Z2NMOXRoRGRkMVdaNHc2ZzhJajJJNENwN05FTU84UE5wYm9tNEJ0cGFoa2NJTHhDT0hBYlotQQ?oc=5",
-      "fonte": "Rádio Acústica FM",
+      "fonte": "acusticafm.com.br",
       "publicado_em": "2026-09-23T13:18:03+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Cheia do Guaíba e rios em nível crítico colocam RS em alerta Rádio Acústica FM"
+      "feed": "vizinhos",
+      "resumo": "Cheia do Guaíba e rios em nível crítico colocam RS em alerta acusticafm.com.br"
     },
     {
       "id": "3273e7593472",
@@ -243,6 +303,16 @@
       "resumo": "SGB aponta tendência de que Guaíba fique abaixo da cota de alerta em Porto Alegre Agora RS"
     },
     {
+      "id": "b1342c7fb9eb",
+      "titulo": "Defesa Civil emite alerta de risco muito alto para inundação no Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXJHWVUwOFl3RW5yaEM5UzhlTUtfR3hCTmVnMHNiYnptdDMxaW1xamdtU3NfLThCQTNEaXNqVG1tOW1yWGNPVFJpRkFPRTdmd1BQTzlCWlItcnVOeG5yemRhZlB6MkFQeU5INlc2dkplM0QxWFZXeDd0Z1hlamxUZDhOWEo1S3lXa0hfTjRreUNvbllRam9uT2dUdUMtLTdwWVhvUFBQSXpYUmljR3N3QQ?oc=5",
+      "fonte": "Clic Camaquã",
+      "publicado_em": "2026-09-23T11:59:03+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Defesa Civil emite alerta de risco muito alto para inundação no Guaíba Clic Camaquã"
+    },
+    {
       "id": "9f64cdbe0262",
       "titulo": "Guaíba supera os 2 metros e ultrapassa cota de atenção",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSERxSG9TN004Y1VzTkdYaWVpQ1RJMktGcE5Sa3g1b3VVZ1VRdmFSRWdBYURNQ183a3o0US1zZGtLcGZQX1dSYlVOQThDSmRVay10QVFTcThTMkVIaHhQM2hOeTRHWHozTFBRWC1td0J2RVBqNFJ6WUZWNEZPY1d6dUJ0elkzdVhfbjlSYzQ5QVJ6UmhSZjJ4NWJwTnpwTUNmdVNoSDkySmg1dVVhR094WTJpZXJXQkgzeTVZ?oc=5",
@@ -251,16 +321,6 @@
       "categoria": null,
       "feed": "correio",
       "resumo": "Guaíba supera os 2 metros e ultrapassa cota de atenção Correio do Povo"
-    },
-    {
-      "id": "b1342c7fb9eb",
-      "titulo": "Defesa Civil emite alerta de risco muito alto para inundação no Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXJHWVUwOFl3RW5yaEM5UzhlTUtfR3hCTmVnMHNiYnptdDMxaW1xamdtU3NfLThCQTNEaXNqVG1tOW1yWGNPVFJpRkFPRTdmd1BQTzlCWlItcnVOeG5yemRhZlB6MkFQeU5INlc2dkplM0QxWFZXeDd0Z1hlamxUZDhOWEo1S3lXa0hfTjRreUNvbllRam9uT2dUdUMtLTdwWVhvUFBQSXpYUmljR3N3QQ?oc=5",
-      "fonte": "Clic Camaquã",
-      "publicado_em": "2026-09-23T11:48:45+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Defesa Civil emite alerta de risco muito alto para inundação no Guaíba Clic Camaquã"
     },
     {
       "id": "f30a9607d742",
@@ -299,7 +359,7 @@
       "fonte": "MetSul Meteorologia",
       "publicado_em": "2026-09-23T00:27:07+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Guaíba entra em cheia na primeira noite da primavera MetSul Meteorologia"
     },
     {
@@ -311,66 +371,6 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Defesa Civil de Porto Alegre alerta para risco de transbordamento do Guaíba na Zona Sul e região das ilhas Jornal O Sul"
-    },
-    {
-      "id": "fa4349f40e86",
-      "titulo": "Guaíba pode atingir cota de inundação em áreas de Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZUdSY1lvYXlhb19NUVo3bk1KTkQwaUhjOFJMRi11YTNQQUxaWC1GZmliZGhLbERseHladWdHZENoSW4xSnA4V3oxX210UjNEUVZGSEdqNnJLR1E5U0VOMS1sUnZvNlpTNTVxNndybzlrVVRxNXBhOXZ3TDFCX0xLaHhZWTlqZkFqVzRiMFNn?oc=5",
-      "fonte": "Agora RS",
-      "publicado_em": "2026-09-22T22:34:35+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba pode atingir cota de inundação em áreas de Porto Alegre Agora RS"
-    },
-    {
-      "id": "d10082cd3ee2",
-      "titulo": "Dmae atua preventivamente no bairro Guarujá em razão da cheia nos afluentes do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY2NLUFZxeDZINldIMmxUaDBWUFFFbzBwSTFpZXpHZjEtUWFHbm8wTnI5aXFZUW84d3A0c1NTVkpybUE2azcwWDZuOVRtYTVCLTNka1MyRHZBT01YQU5tU2QyU3lDSFRua3M5Mk12eE5wY2Y2SXVPZ21WQzlEZC1DSWFudFR2VUM4V3U4TFVJSmtWRDR3RXY0VU1GSlZ2QWI1VmNXT05FNGJQQnk5aGRTUTBFeklxZjFKbFZUS3hOOVFlZUk?oc=5",
-      "fonte": "Prefeitura de Porto Alegre",
-      "publicado_em": "2026-09-22T21:51:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Dmae atua preventivamente no bairro Guarujá em razão da cheia nos afluentes do Guaíba Prefeitura de Porto Alegre"
-    },
-    {
-      "id": "93792f35faa0",
-      "titulo": "Defesa Civil de Porto Alegre emite alerta para possível elevação do Guaíba em áreas ribeirinhas",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdjBCeGlVZXJZbGVZbHI0YXlheGN6TVhHellQdGp1aW9tOW8wTE5mSUN3UFhSN25EQmhNd2l1WXh4dEpzdGhsM1RoSjdBU042NTVWcGdyUkx6Z3lxVW1MdzdGMkRTcmk1cDRYWXhQbUF1VUVocS1PTnFpamxOZlBhQ3MzNl9WRHo5dGwtVElLYmNTbFl4eTZhaTlrUS1yYUV1MTEzRDRqZWNkbUxhOUM3Z1BBbTBkNEhreU16ZURlM0VOZkpSQnFNTTZVaWhJYjR2aWRNSnZTRQ?oc=5",
-      "fonte": "Sul 21",
-      "publicado_em": "2026-09-22T18:55:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Defesa Civil de Porto Alegre emite alerta para possível elevação do Guaíba em áreas ribeirinhas Sul 21"
-    },
-    {
-      "id": "b4f168ca2e26",
-      "titulo": "Alerta Máximo: Defesa Civil decreta aviso de inundação para o Guaíba em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdW9DYW9JSFFRcFVYV1NCTjdHQTdYc05NaW42cjhJSS1sRk5lMjQ3dlZCNG41NzhuaFV0NWhVQjV0UEFMR0czQldrVlF6TG5fWkFRRDhhSFBZQU9LZ1paQ1JyQ21OekdRV1hxQTc5YUJxOE05dFB3ekRFd0IwY2FRaDROM0QxOGlEYzdQU01xWTBjY2pmeS0tdThmajh5dFZLTHVjcjJWYXotNldNc1dwOGdaRTdaRWNOeTdTSUE5NFpUeFlmTnNGV3NWU1U0T0lsQnJNYjlVaXlheFhOSW9HYlYyUENaejRTamNzanEzclBya3Bxb0E?oc=5",
-      "fonte": "Terra",
-      "publicado_em": "2026-09-22T18:49:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Alerta Máximo: Defesa Civil decreta aviso de inundação para o Guaíba em Porto Alegre Terra"
-    },
-    {
-      "id": "debe8f0b4002",
-      "titulo": "Defesa Civil de Porto Alegre emite alerta hidrológico para possível elevação do Guaíba em áreas ribeirinhas",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU29jV01tcXU1RG8yX29LVEsybFZkN1BYU1hNRUFkZ3c1R09XbDdGa0JpcThmak5FWFVoTXVyWkswNVNRSVJva2JRaUVHNlRjVndQVVU0dkk5YTg2bVFtcmdQOUx1d3E1SzJqbWFfb0xDdWRJYTliWjhEWVFXVnRiTUxZbkxYRHA3dUlVREpoeHpVMWc5dzktbFVxeHRQWG5nZmV6cWItVUVCQkFkaHVjZl80VmNGMGVKcnZBLXkxMDJDaVpRVm5haGFidndIR0NpQWtSNVlpWQ?oc=5",
-      "fonte": "Rádio Pampa",
-      "publicado_em": "2026-09-22T17:34:13+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Defesa Civil de Porto Alegre emite alerta hidrológico para possível elevação do Guaíba em áreas ribeirinhas Rádio Pampa"
-    },
-    {
-      "id": "07953fe89ada",
-      "titulo": "Defesa Civil emite alerta hidrológico para possível elevação do Guaíba em áreas ribeirinhas",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd2RxWC1IbWtneEoxRWdJY0RnZFVnRTVhT2hiV2Z6dDFyTUVUMTY5MGdRTDdYZzF2eThZX1hlWmF5ZWUtempXMFBGTVlpT2JtUEVPcDZCc1hWMU9PR3F5REhDdDM2SUk1QWlDMmZBUk12NEs3VGFxdVN3ZjdPT3JxVHZYcWFJYy1qMkJodWtXM1h0UTdUVFNqeE92MkdSdm9YckZyTGVHMS0yMF92eHdDVkNlekpEVGgzYnRhaGhB?oc=5",
-      "fonte": "Prefeitura de Porto Alegre",
-      "publicado_em": "2026-09-22T16:56:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Defesa Civil emite alerta hidrológico para possível elevação do Guaíba em áreas ribeirinhas Prefeitura de Porto Alegre"
     }
   ],
   "noticias_home": [
@@ -385,6 +385,16 @@
       "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
     },
     {
+      "id": "0c103e9d857b",
+      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
+      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-23T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+    },
+    {
       "id": "8402ea905dc4",
       "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
       "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
@@ -392,16 +402,6 @@
       "publicado_em": "2026-09-23T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
-    },
-    {
-      "id": "4b993df4f7e4",
-      "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
     },
     {
       "id": "b754c6ea2b2b",
@@ -414,14 +414,14 @@
       "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
-      "id": "0c103e9d857b",
-      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
-      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "id": "4b993df4f7e4",
+      "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-23T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+      "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
     },
     {
       "id": "3e9269dd892d",
@@ -434,14 +434,14 @@
       "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
     },
     {
-      "id": "9053a4a2b3f4",
-      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
+      "id": "04f08750afc3",
+      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
+      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
+      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
     },
     {
       "id": "a583b37fadbe",
