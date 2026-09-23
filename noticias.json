@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-22T21:01:00.365475+00:00",
+  "gerado_em": "2026-09-23T00:00:00.165264+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,16 +84,6 @@
       "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
     },
     {
-      "id": "3e9269dd892d",
-      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-22T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
-    },
-    {
       "id": "4b993df4f7e4",
       "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
@@ -133,14 +123,24 @@
       "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
     },
     {
-      "id": "9053a4a2b3f4",
-      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-22T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
+    },
+    {
+      "id": "a583b37fadbe",
+      "titulo": "Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
+      "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
     },
     {
       "id": "1b2120203197",
@@ -153,14 +153,14 @@
       "resumo": "O prazo estimado total para conclusão dos trabalhos é de 60 dias"
     },
     {
-      "id": "a583b37fadbe",
-      "titulo": "Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba",
+      "id": "9053a4a2b3f4",
+      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
+      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
     },
     {
       "id": "818bac95001f",
@@ -193,11 +193,31 @@
       "resumo": "A quinta edição do #LimpeOLagoGuaíba será realizada no próximo domingo, dia 27 de setembro, na Orla do Lami, em Porto Alegre, com a participação prevista de cerca de 300 voluntários,&#8230; O post #LimpeOLagoGuaíba reunirá voluntários para limpeza da Orla do Lami no domingo apareceu primeiro em…"
     },
     {
+      "id": "fa4349f40e86",
+      "titulo": "Guaíba pode atingir cota de inundação em áreas de Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZUdSY1lvYXlhb19NUVo3bk1KTkQwaUhjOFJMRi11YTNQQUxaWC1GZmliZGhLbERseHladWdHZENoSW4xSnA4V3oxX210UjNEUVZGSEdqNnJLR1E5U0VOMS1sUnZvNlpTNTVxNndybzlrVVRxNXBhOXZ3TDFCX0xLaHhZWTlqZkFqVzRiMFNn?oc=5",
+      "fonte": "Agora RS",
+      "publicado_em": "2026-09-22T22:34:35+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Guaíba pode atingir cota de inundação em áreas de Porto Alegre Agora RS"
+    },
+    {
+      "id": "ccdf69142503",
+      "titulo": "Chuva para em todo o RS, mas Estado ainda tem rios em elevação e alerta no Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUW11cTRLWm42U3gweWN2Unp1THJ3VHQ4Zmk1NUVDb2w1QlVJTVpQcDNKcFJxUDllLUxPUW1YSWpLTzF4eEhWRUpTN1g1aW0zdzBOZTQ3eHExVXRJTGpyMVlSbUhnN2J6Wk15R3RsTEd4dUVPSDN2cEJhYjNQY0NvSkowZGZNS3pibzZmVEtYSU9NY0h5U2lONHJsdXZWMUMtRFpZc3ZUQ2ZsdUVtUGVrU0VlaEpzTVlWblZBMWtORUFxMmF3Mncwdks4ZF9EZUFHcmZYMThVbHJPRmZjZVdFY3lwTnBNclRBNXRBUjN0WklkelotTWV1dQ?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-09-22T22:26:28+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Chuva para em todo o RS, mas Estado ainda tem rios em elevação e alerta no Guaíba GZH"
+    },
+    {
       "id": "00090b10dd81",
       "titulo": "Defesa Civil emite alerta para possível elevação do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRER0WUZtWXJvOWdienRHMUFsNmpQRy1aRnBRYXJmb3ZXNGYwcW1YekpTakhxSFM0S3Z0Und3cXFtcWxhSTFYSmp0NHR3elhlMVp1RDFYRFJpWjlaXzA0eDlBZ0RzNFlsQWhlWGxObEtNaDIxcEk5dkxyX2tUcko3VVhzRDlVZlhvS2plWGRCQ0gyeEliQWI5OFh0RVU2cy05d1R4WWcxaC1sVkE4M0lEb1NCcHBQSUJzUUM5T2cyU1NaRFY1WThsaHhtcGU4RzFaRGtIV3IwWExqNm9lM0M5SllHbFo?oc=5",
       "fonte": "GZH",
-      "publicado_em": "2026-09-22T20:47:08+00:00",
+      "publicado_em": "2026-09-22T20:49:13+00:00",
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Defesa Civil emite alerta para possível elevação do Guaíba GZH"
@@ -206,11 +226,11 @@
       "id": "b4f168ca2e26",
       "titulo": "Alerta Máximo: Defesa Civil decreta aviso de inundação para o Guaíba em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdW9DYW9JSFFRcFVYV1NCTjdHQTdYc05NaW42cjhJSS1sRk5lMjQ3dlZCNG41NzhuaFV0NWhVQjV0UEFMR0czQldrVlF6TG5fWkFRRDhhSFBZQU9LZ1paQ1JyQ21OekdRV1hxQTc5YUJxOE05dFB3ekRFd0IwY2FRaDROM0QxOGlEYzdQU01xWTBjY2pmeS0tdThmajh5dFZLTHVjcjJWYXotNldNc1dwOGdaRTdaRWNOeTdTSUE5NFpUeFlmTnNGV3NWU1U0T0lsQnJNYjlVaXlheFhOSW9HYlYyUENaejRTamNzanEzclBya3Bxb0E?oc=5",
-      "fonte": "terra.com.br",
-      "publicado_em": "2026-09-22T18:49:37+00:00",
+      "fonte": "Terra",
+      "publicado_em": "2026-09-22T18:49:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Alerta Máximo: Defesa Civil decreta aviso de inundação para o Guaíba em Porto Alegre terra.com.br"
+      "resumo": "Alerta Máximo: Defesa Civil decreta aviso de inundação para o Guaíba em Porto Alegre Terra"
     },
     {
       "id": "f91a4da196bf",
@@ -289,7 +309,7 @@
       "fonte": "Sicredi",
       "publicado_em": "2026-09-21T14:47:57+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "google",
       "resumo": "Sicredi reinaugura agência em Guaíba Sicredi"
     },
     {
@@ -351,26 +371,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Da Magia à Sedução: Feitiço de Amor: Programação e Sessões Guaíba AdoroCinema"
-    },
-    {
-      "id": "ac438c3b1720",
-      "titulo": "Marcelo Maranata cumpre agenda de campanha em Canoas e Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUck8wMDdjb3Zsbm5WZ08zYjY2ejBjNk1kSnRSaUpiOXc0ZUpaWG4zVXJEZnVwZU1jWlBnR2xqSkFrLVdzWjhHLWs3WmZNemVPSFJGSmN6VlVyUFlIVTFVdnV4NjFEempXaVpFN0gycw?oc=5",
-      "fonte": "grupo sepé",
-      "publicado_em": "2026-09-19T00:20:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Marcelo Maranata cumpre agenda de campanha em Canoas e Guaíba grupo sepé"
-    },
-    {
-      "id": "6c3320135cae",
-      "titulo": "Maranata aposta na experiência como empresário e prefeito de Guaíba para governar o RS",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSXJRMml4b2g0ZEdENjFWWFRYVFBtOEZQS3NMUkoyZ3A4QUhjRzU2OGhsWmpXYURXTHlrNnZyMFlCd1o5VkVTeVozRVNzSldnVnpNS25paU1xY0duNUdHN0RrRGxHQXN0Z2J2ZmZwMlRYTXZyY2l4c2tXdzNMMmk1M2VnRWZ6U21zUnhzLTMxU2w5b1hoT2V2cTI2bldrTzFQRmNKazllZFU1OHozQXpQNVk3UTRJRFFXb1JfZkpXZFVUN3Nob21wRHFLNlRfZ3YtOER2d0RnLTJhaDh1TUJSYjNvcFhsV0h2c3JpRTZ6UDJIMU1vTjJTR0l2X3d6Q2psS1FGQnZGNA?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-09-18T16:17:25+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Maranata aposta na experiência como empresário e prefeito de Guaíba para governar o RS Correio do Povo"
     }
   ],
   "noticias_home": [
@@ -383,16 +383,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "“Já ouvi que não nasce mais guaibense em Guaíba"
-    },
-    {
-      "id": "3e9269dd892d",
-      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-22T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
     },
     {
       "id": "4b993df4f7e4",
@@ -434,14 +424,24 @@
       "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
     },
     {
-      "id": "9053a4a2b3f4",
-      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-22T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
+    },
+    {
+      "id": "a583b37fadbe",
+      "titulo": "Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
+      "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
     },
     {
       "id": "1b2120203197",
