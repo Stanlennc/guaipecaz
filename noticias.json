@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-24T18:12:05.599462+00:00",
+  "gerado_em": "2026-09-24T23:00:42.220656+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "1aa6f31caeca",
-      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-24T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
-    },
-    {
       "id": "4b993df4f7e4",
       "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
@@ -92,16 +82,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
-    },
-    {
-      "id": "3e9269dd892d",
-      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-24T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
     },
     {
       "id": "8402ea905dc4",
@@ -113,14 +93,14 @@
       "feed": "reporter_direto"
     },
     {
-      "id": "0c103e9d857b",
-      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
-      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "id": "1aa6f31caeca",
+      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-24T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
     },
     {
       "id": "20ea4fe0d8af",
@@ -133,14 +113,24 @@
       "resumo": "169 consumidores permanecem sem energia."
     },
     {
-      "id": "9053a4a2b3f4",
-      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-09-24T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
+    },
+    {
+      "id": "0c103e9d857b",
+      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
+      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-24T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
     },
     {
       "id": "a583b37fadbe",
@@ -163,6 +153,16 @@
       "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
     },
     {
+      "id": "9053a4a2b3f4",
+      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
+    },
+    {
       "id": "818bac95001f",
       "titulo": "Humorista gaúcha Carol Delgado traz a turnê “Energia Feminina” a Guaíba em setembro",
       "url": "https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro",
@@ -177,10 +177,20 @@
       "titulo": "Temporal arrasta mar de galhos para a orla de Guaíba, na região Metropolitana",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMmlnb3AtMlY1aDg4aTJzdXo1UHFOLXNBZWJFYTlxVm9VTThvZXptRjJ2bmRIRC1rUnRRS1h5Qmg0TDFhdU5GMG9hXzgtbGZBbmF6Z1JRZF9VRExKdnpzcE9HX3NVVlhjWWY5YTNSTk1UOF8tY2hRZG0wUDZRQkNJWXRsZnctN0ZEMEJVR01kZlZyYnU5NmQtcUd2cTlkVlVIQ0dhZEFRSkhybUd0cFpiMEhTLUJHbGx0eUx4WDVpVnp0Z1lDNl82VjkyWFdCc0pQVDdnNHdVcUk?oc=5",
       "fonte": "Correio do Povo",
-      "publicado_em": "2026-09-24T15:46:05+00:00",
+      "publicado_em": "2026-09-24T21:00:21+00:00",
       "categoria": null,
       "feed": "correio",
       "resumo": "Temporal arrasta mar de galhos para a orla de Guaíba, na região Metropolitana Correio do Povo"
+    },
+    {
+      "id": "0d812b2a49f7",
+      "titulo": "Hospital reabre em Guaíba e atendimentos iniciam na segunda-feira",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWVBKRkU4cEhyZ28zaU56WDRIS2t1aEtleTNpSkQxUTVHeUdXY196c1dkTGNINTR2aFc1X1lFWE0yT2FZeGxZN1dmaUdGb3lnOEZYSkViMURDb2lJdjJTYm1oWEMyb0dZaWc4Yk14VlhFMnlqR1l5Y3JlNWRnSVliSlpwSklFSFpuMVZ4ajJNN2c0YjhMTjlqcXhYRE9kQmRTQWc5bTNxUzRBOUJwVncwU251QmZxeVZtR1lYb0N4OThuRjZxdjBHMVVmNWRJS00?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-09-24T18:25:30+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Hospital reabre em Guaíba e atendimentos iniciam na segunda-feira Jornal do Comércio"
     },
     {
       "id": "d554a54f6310",
@@ -216,11 +226,11 @@
       "id": "3ab61b6cf3c8",
       "titulo": "Defesa Civil do RS prorroga alerta de inundação no Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbTRvZEhzZUtVUlIwS2tDc2haZkJ2bTVMd3EyNzFpc0hnSmJTZjRPb1NhOU1PMWhEZ1RYUHVZeUtwZjFnb2J0cnhaMDRFS2RZTU01a2tFUWRDenFzR2U4eG1FN1pNM05EV0RTWmlzejQ1Y0dieUt5S2d3eU5JeU1leVVJd1ZaWUp4dUEtX3dTWVJNRDNYQlVlbXVsMmFxQWhnVS02VXZqWnFUOWxMei1TUkVmU3MzeE1QdTBHU3VkTGdIcUxRUk1NQkduV2V6Y3pNaGhiOUVwcFYtdVdZVkZDWWhZckI?oc=5",
-      "fonte": "Diário Gaúcho",
+      "fonte": "diariogaucho.clicrbs.com.br",
       "publicado_em": "2026-09-24T13:03:25+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Defesa Civil do RS prorroga alerta de inundação no Guaíba Diário Gaúcho"
+      "resumo": "Defesa Civil do RS prorroga alerta de inundação no Guaíba diariogaucho.clicrbs.com.br"
     },
     {
       "id": "b82bbce62687",
@@ -361,29 +371,9 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Catamarã altera horários de viagens entre Porto Alegre e Guaíba devido ao excesso de resíduos GZH"
-    },
-    {
-      "id": "1d7d724a163d",
-      "titulo": "Guaíba pode atingir cota de inundação em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQczVIQ1VlaGNtVkppdUxldEkyRHY2V0g0eXVkVmgzUWJQU0VVVlQ1SV9Db1lEeDRmMm5ZVlMzWWN5Ti1MbF8zYjQ3blZSdTlnbVYxM2NGblVSRlR6czdWZWtPdzlqQ3lBU01fWk9mUW4zaUFTTmtfbU51NTZDOUZ0NG5CcjdSc0l5R1B1Zm1YVXMyUDBiUWxURnJncklSZHhMMUQ4SGRPWU5XSVhhZWZXTFVGU3ZYRHRaU0FDTFI5R2lheHlJejJkSndST2d4Wi1RS3FsQkVYRm1Ld9IB6AFBVV95cUxNZGhDd1hkLVJsb1Y1QmN5R1pjelZmU0xDSTNIVFNQQkZNY1RtOVowZXpXdXZ2dUt3dk52VUtPbDRnMFdwQ2ZWdGoxaVFlZGJxYkFxU21EUGFvZGxGZW1YZW1sZ1hKd1Y4WktzUnhlVEF1eS1KR3pCd0hPQjBWUDdKb1ktNk9uQTl1UjRiMkdrMlBQem9ya1lYNVRvNmNOMDE5dGtJN1JDUGdzMmQtOTYyYmg4ZGd0ak53bUpPZzZIMUUzcHgwWWxVZTMtcTlQbFVrOHYySG1iY3hPRzI4bkhlWFlSajVzSnZp?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-09-23T15:00:03+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Guaíba pode atingir cota de inundação em Porto Alegre G1"
     }
   ],
   "noticias_home": [
-    {
-      "id": "1aa6f31caeca",
-      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-24T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
-    },
     {
       "id": "4b993df4f7e4",
       "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
@@ -395,16 +385,6 @@
       "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
     },
     {
-      "id": "3e9269dd892d",
-      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-24T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
-    },
-    {
       "id": "8402ea905dc4",
       "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
       "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
@@ -414,14 +394,14 @@
       "feed": "reporter_direto"
     },
     {
-      "id": "0c103e9d857b",
-      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
-      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "id": "1aa6f31caeca",
+      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-09-24T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
     },
     {
       "id": "20ea4fe0d8af",
@@ -434,14 +414,24 @@
       "resumo": "169 consumidores permanecem sem energia."
     },
     {
-      "id": "9053a4a2b3f4",
-      "titulo": "Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio",
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-09-24T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os cavaleiros e amazonas do Grupo Referencial receberam troféus pelas provas da etapa final do concurso Domados do Pampa"
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
+    },
+    {
+      "id": "0c103e9d857b",
+      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
+      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-24T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
     },
     {
       "id": "a583b37fadbe",
@@ -452,6 +442,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
+    },
+    {
+      "id": "04f08750afc3",
+      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
+      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
     }
   ]
 }
