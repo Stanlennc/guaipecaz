@@ -5,20 +5,6 @@
 <description>Notícias de Guaíba e da Região Metropolitana de Porto Alegre</description>
 <language>pt-BR</language>
 <item>
-<title>Sicredi reinaugura agência em Guaíba com mais de 9 mil associados</title>
-<link>https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados</link>
-<guid>0c103e9d857b</guid>
-<pubDate>2026-09-24T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica</title>
-<link>https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica</link>
-<guid>4b993df4f7e4</guid>
-<pubDate>2026-09-24T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba</title>
 <link>https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba</link>
 <guid>1aa6f31caeca</guid>
@@ -29,6 +15,20 @@
 <title>De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos</title>
 <link>https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos</link>
 <guid>8402ea905dc4</guid>
+<pubDate>2026-09-24T00:00:00+00:00</pubDate>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Sicredi reinaugura agência em Guaíba com mais de 9 mil associados</title>
+<link>https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados</link>
+<guid>0c103e9d857b</guid>
+<pubDate>2026-09-24T00:00:00+00:00</pubDate>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica</title>
+<link>https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica</link>
+<guid>4b993df4f7e4</guid>
 <pubDate>2026-09-24T00:00:00+00:00</pubDate>
 <source>Repórter Guaibense</source>
 </item>
@@ -47,15 +47,15 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
-<title>Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba</title>
-<link>https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba</link>
-<guid>a583b37fadbe</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>Guaíba se destaca em provas de cavalos árabes da Expointer, em Esteio</title>
 <link>https://www.reporterguaibense.com.br/noticia/guaiba-se-destaca-em-provas-de-cavalos-arabes-da-expointer-em-esteio</link>
 <guid>9053a4a2b3f4</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba</title>
+<link>https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba</link>
+<guid>a583b37fadbe</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -71,18 +71,46 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
-<title>Defesa Civil renova alerta de risco “muito alto” de inundação do Guaíba para região das Ilhas</title>
-<link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY0hjQjU1T1F6N2x1WW1pQWZrMkNYSzBoUGx4WFk1VzhubGdjS2xYNy1WVERJZWYxTVRJcURzS2c3R2d6ZDJ3emo0Z05yWnFHRENfVnRmOHNibHpkRmJJT1ZETmZxeTlnM21wVjd1c3gydnQxVVE0Zy1NLWdoOFNSSGk2d3hKUGhiM3FBUHBncURQNXljOEVidTVWbkYtaFZRUmN5dFFrWDlQamJpMHBzQTVscm13SVpmNEFPZUJGaGJ5OF9UUHBDNGFGZ3pkRUhkR2laUUNEWE5xRThVV09abkVaaUhXdjhla1Q2Uw?oc=5</link>
-<guid>56f27c4a3be8</guid>
-<pubDate>2026-09-24T02:19:35+00:00</pubDate>
-<source>correiodopovo.com.br</source>
+<title>Defesa Civil do RS prorroga alerta de inundação no Guaíba</title>
+<link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbTRvZEhzZUtVUlIwS2tDc2haZkJ2bTVMd3EyNzFpc0hnSmJTZjRPb1NhOU1PMWhEZ1RYUHVZeUtwZjFnb2J0cnhaMDRFS2RZTU01a2tFUWRDenFzR2U4eG1FN1pNM05EV0RTWmlzejQ1Y0dieUt5S2d3eU5JeU1leVVJd1ZaWUp4dUEtX3dTWVJNRDNYQlVlbXVsMmFxQWhnVS02VXZqWnFUOWxMei1TUkVmU3MzeE1QdTBHU3VkTGdIcUxRUk1NQkduV2V6Y3pNaGhiOUVwcFYtdVdZVkZDWWhZckI?oc=5</link>
+<guid>3ab61b6cf3c8</guid>
+<pubDate>2026-09-24T13:03:25+00:00</pubDate>
+<source>Diário Gaúcho</source>
+</item>
+<item>
+<title>Defesa Civil prorroga alerta de risco muito alto para inundação no Guaíba</title>
+<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXp2TEJ1WlVTWEVVQ1ZIWjRnaDZaNDRCeWFzZVJTbmN1OGEyM084N0l0dFZWeFZIRXZDWk1fNEF2emhXWktPVXh2YjV3eTRUbDFPVXB4YmNmczMzY01TZDh2dzV4amFPR2FhczhwMUlwZGZfd1p3T3RRZzh2SlQ1bi04ckFicWFtYnFGaER5blRIYWFTSEdMbnBqbi1hX1RY?oc=5</link>
+<guid>c074e4c463b2</guid>
+<pubDate>2026-09-24T12:01:56+00:00</pubDate>
+<source>Clic Camaquã</source>
+</item>
+<item>
+<title>Defesa Civil Estadual alerta para risco muito alto de inundação do Guaíba nas ilhas de Porto Alegre</title>
+<link>https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzVCSkpZU0x4YmJhZDVkZzY2T0t3cENyYmpnOG00TkhUM1RweFpkb2REdHJ0cThZc1JoQU0wZGR5cWdhU0NGT2Y1TkRjWDVlR3I5Q3J2TlVrc2ExQkVnajVUTHdjb25MU3NQblFLVzJkeEZKb2FhWTlTNk5fMHp4SVZMUEg2TDI3RW5KdVJNVGFCMDFVOGpaWlRiYzduX3BYOTl6YlZVY0pEMWwyUUQ5dXJVU2JmSkJPcjQwOHh0dC1SQVVDR3NWRzVn?oc=5</link>
+<guid>a1c508116ab1</guid>
+<pubDate>2026-09-24T11:33:12+00:00</pubDate>
+<source>Rádio Pampa</source>
+</item>
+<item>
+<title>Mega Help 2026 levará milhares de pessoas para a Orla do Guaíba neste domingo</title>
+<link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcnZMbG5vRllual9RZHJXZzZRWnBlVlp3Y0M0NUh3YzdWOGJXLVpOUUZrNnlHcEpjSVg0QmxTOHdPUzdCSzZfcXIzSmQzOU10ZXE1N2NyOUtIZGxhQl9oSXVHUWVjQUN6U3RHTUExU2xydThKSXI0czhvcThmZ19UU3pxeU1Zbi1WZ1FkX0h0UC1aczZUNlFXNy10bzRIOV9Rdk9uQzA0UW50VmNna1VTQzhDS0wtMGxXSFBnU0JxM2EzUTZpOGZYem9abjlMelZrLUxKVzh2RUI5UQ?oc=5</link>
+<guid>7e5429971cd3</guid>
+<pubDate>2026-09-24T10:09:53+00:00</pubDate>
+<source>Correio do Povo</source>
 </item>
 <item>
 <title>Guaíba: Defesa Civil de Porto Alegre alerta para risco de inundação</title>
-<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQTXZrXzhYakpEbFc5TFpIZWphc1FxaWFYYy1kd3Exb0ZJTDBhSi1FWkgtb0pqVndvVlZaZGJuVHdUdkdzSVdsVi00d3dCVEdhQUllNU1qbVRfUGxDbWdwZTJBd3lvY3huN29GR1dTVUt1eFpEX2JLOXZSVHVlczUzZXI5QV83YUhKNmt1b1dwR2VtNnRHdENtRHQxbGlvYlVCZHFZNUo3OTI5WkpzSDlvTmNSWHp0V3E1dUNNNEZIazV3bllV?oc=5</link>
-<guid>a7cc6d574629</guid>
-<pubDate>2026-09-24T00:23:22+00:00</pubDate>
-<source>Canguçu Online</source>
+<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOSG1zUVpTalJFcXNXQ3JwZnFSTEdsN0ZBY190UUExMTl1MjhPdVhVNzkzZWFNaTVYSWs3TlhHbktaTC1KMmNMZWNLcW1vV1JzMEhfZlBFdUtyWDJHOUpwdWZPUDk5dVJGZFRWaTRydlhlWmRMckN1RGJIWmFQeTltVV9IWW9SbjNmTVNyajQ1blZ3MXFyOEdjbHhWYWI2dldrd3UxTzQxTXJOWS1JSXl4cndWR0ZHM1VINzFGY3NYONIBvwFBVV95cUxOSG1zUVpTalJFcXNXQ3JwZnFSTEdsN0ZBY190UUExMTl1MjhPdVhVNzkzZWFNaTVYSWs3TlhHbktaTC1KMmNMZWNLcW1vV1JzMEhfZlBFdUtyWDJHOUpwdWZPUDk5dVJGZFRWaTRydlhlWmRMckN1RGJIWmFQeTltVV9IWW9SbjNmTVNyajQ1blZ3MXFyOEdjbHhWYWI2dldrd3UxTzQxTXJOWS1JSXl4cndWR0ZHM1VINzFGY3NYOA?oc=5</link>
+<guid>5cb0bbf402fc</guid>
+<pubDate>2026-09-24T02:43:47+00:00</pubDate>
+<source>Acessa.com</source>
+</item>
+<item>
+<title>Defesa Civil renova alerta de risco “muito alto” de inundação do Guaíba para região das Ilhas</title>
+<link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY0hjQjU1T1F6N2x1WW1pQWZrMkNYSzBoUGx4WFk1VzhubGdjS2xYNy1WVERJZWYxTVRJcURzS2c3R2d6ZDJ3emo0Z05yWnFHRENfVnRmOHNibHpkRmJJT1ZETmZxeTlnM21wVjd1c3gydnQxVVE0Zy1NLWdoOFNSSGk2d3hKUGhiM3FBUHBncURQNXljOEVidTVWbkYtaFZRUmN5dFFrWDlQamJpMHBzQTVscm13SVpmNEFPZUJGaGJ5OF9UUHBDNGFGZ3pkRUhkR2laUUNEWE5xRThVV09abkVaaUhXdjhla1Q2Uw?oc=5</link>
+<guid>56f27c4a3be8</guid>
+<pubDate>2026-09-24T02:19:51+00:00</pubDate>
+<source>Correio do Povo</source>
 </item>
 <item>
 <title>Alerta de cheia no Guaíba é prorrogado</title>
@@ -92,25 +120,11 @@
 <source>Terra</source>
 </item>
 <item>
-<title>Defesa Civil do RS prorroga alerta de inundação no Guaíba</title>
-<link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRDRYNHFtdEJSZGlGd0lRb01vWFlUX0JvbjlxQVJaUDJpWU1QNjZ5bWlUdkVseFVVTHA4TG5GaW5PWGlUb1JpRFd3dEJabzNVUGwxaktNNmdKZUczeFhkUS0xNVFqT004N2RsZjFtN1BsVi1sZnpnaTlQcmtzZ3JudjRaVy1KcGwtNTBlX0dqTndUUEI1MXUyUmdXODhWaEs4XzcwTHFzX1lHdWZBWlpFUFJkeHlVb1hrem9wYm54NmE2WWZsNFZuREh2cnZfSlB1ZWlYOVpUX2hXZjJaR0F6Zl9Eaw?oc=5</link>
-<guid>72a61b5cb07d</guid>
-<pubDate>2026-09-23T23:11:35+00:00</pubDate>
-<source>GZH</source>
-</item>
-<item>
 <title>INUNDAÇÃO no Guaíba. Risco MUITO ALTO nas Ilhas de Porto Alegre.</title>
 <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHotR3E4N3Z1NFR1a0lEdzRUbWlDWTFuY2JKTnZMWS1ZX1A0Y0xzZExEem5UUVdzNmVES0RlNi0xNmNBYzg5aDVkajUxeXpRWks1S0VsQzVQa1owaTVKVENGZzNFdlM1RnRzeGw0eF92YmVQVzlDSXpoRnBsVmpSVWJETkhEcWl1ZzNHelVLbFMwWGFnSGNiWl9rVUtPTlNRWjFZVW1WaFdkYjY4Z1lWOXU3dmtLOG8?oc=5</link>
 <guid>b88da89be758</guid>
 <pubDate>2026-09-23T23:00:29+00:00</pubDate>
 <source>Defesa Civil do Rio Grande do Sul</source>
-</item>
-<item>
-<title>Defesa Civil estadual alerta para risco muito alto de inundação do Guaíba nas Ilhas de Porto Alegre</title>
-<link>https://news.google.com/rss/articles/CBMixwFBVV95cUxORXJFQkFhbFpfS0JKVVg2bXFyaUUwVjlaa3VWM3U1aHJfVzlLNnlvQXF3M3o3ZFBoVnlKWVJFZkZ1MkpENHlHT29GLVljZUtRS0xFVGw0bHBLdk52b3NLWWdVYXdkOWNORmNvbm5MNlBRa2hDd3hHSkdNaUVxRk9Jekc5a3hjZmpxUFVkS3NXVUowLUt2WWJURkdSNGJLLTRTdVBBUnpkN0hSWHN4Mkk3SUZqbWRKYk9XQ0p4dkhjWHg3Q0gtREVF?oc=5</link>
-<guid>cc174bd14bb8</guid>
-<pubDate>2026-09-23T23:00:00+00:00</pubDate>
-<source>Portal do Estado do Rio Grande do Sul</source>
 </item>
 <item>
 <title>Defesa Civil alerta para risco de inundação no Guaíba em Porto Alegre</title>
@@ -120,24 +134,10 @@
 <source>Jornal de Brasília</source>
 </item>
 <item>
-<title>Defesa Civil emite alerta de risco alto para subida do Guaíba em Porto Alegre</title>
-<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxORHN5QlVjSHdpOUVfUVpkVDEtNXIwblVHQ3RVVHg2VGtWb2E5NDdvUEtULVNmWXlwZnB5RWl3N3dRbUx1aVJlTjNvMEJ4dGxIS1ZzOUlMTGVLRFF3c0l2UFowSHhkdkRKdGdPc2VmaXJrTjA2M0pTUG82OU1sdVNYX1lHanZQaThr?oc=5</link>
-<guid>e605de486f6a</guid>
-<pubDate>2026-09-23T19:00:35+00:00</pubDate>
-<source>ncnews.com.br</source>
-</item>
-<item>
-<title>Guaíba sobe e alaga ruas na Ilha da Pintada</title>
-<link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ055TWVzcF8yUEFGNDJwOTgtQWUybUhjQWZnUXB3dU5wejE5THpycDQ1eE5sR3ZtRld5ckRsek01MzBydm1fUS1qMVIwZmJmWXVjSEFVRl83NmJEc1VKZWlTMUZSVUFJUktXeXV1Sjk4WFFYMVd5R2lVQ2dJajJFN0owSFhxc1dVcDFrdFRaUzU4NXFqakxmSXhvcnZFMjBvRmpfVVVHU2xPS1RHRVZHbkE3NGlvNmhsa0tHTWVJbHJCWDZHRUxUSm95UkdYbW1QQ1VXZnRBV1c?oc=5</link>
-<guid>c833c9df270a</guid>
-<pubDate>2026-09-23T18:53:00+00:00</pubDate>
-<source>Terra</source>
-</item>
-<item>
-<title>Defesa Civil de Porto Alegre acompanha situação do Guaíba e mantém equipes no Arquipélago</title>
-<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTNLWnQ5Nnc5Q1E3MUlqa3I1RXRucEJfWTJqa2RXVGM5RXAzNHdkWFBkR01FdkF1YlZCMGpSSE5mNHRqQ1NmSjRaQjdQdlp5QWxEcGJ4dzNEWXo0NE85ckhORG5LZUZDWThsSUtCZVlDM0NUN2dtN0ExazdsZnhXUzJJem5qMk5lQmszMkhiUE5zb0NCMDFPNHFYeFV3UDU4dUZublBHN1NOejBkeU5nZjNCWDFWRTBQVVHSAboBQVVfeXFMTVEzS1p0OTZ3OUNRNzFJamtyNUV0bnBCX1kyamtkV1RjOUVwMzR3ZFhQZEdNRXZBdWJWQjBqUkhOZjR0akNTZko0WkI3UHZaeUFsRHBieHczRFl6NDRPOXJITkRuS2VGQ1k4bElLQmVZQzNDVDdnbTdBMWs3bGZ4V1MySXpuajJOZUJrMzJIYlBOc29DQjAxTzRxWHhVd1A1OHVGbm5QRzdTTnowZHlOZ2YzQlgxVkUwUFVR?oc=5</link>
-<guid>7c6811011ad2</guid>
-<pubDate>2026-09-23T17:33:43+00:00</pubDate>
+<title>Prefeitura de Guaíba entrega Comenda do Centenário no palco do Sarandeio Farroupilha</title>
+<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQckJPZnBfbjVqNnlRNWRhZWxUZm1uQ01CNEEtdlJwM0FvMlhYV25WQXl6Tlc3dWxNN21sdXpDaXZtdlk4YnNsQ0JCMTV0MHk2R2xiYkFaeWNpbXJ5V3JvMU5iQm5ybEpKMnFiYTlXUmJ0RTJJLUlWUmg3emQwT2I0aS12LUR5QdIBhgFBVV95cUxQckJPZnBfbjVqNnlRNWRhZWxUZm1uQ01CNEEtdlJwM0FvMlhYV25WQXl6Tlc3dWxNN21sdXpDaXZtdlk4YnNsQ0JCMTV0MHk2R2xiYkFaeWNpbXJ5V3JvMU5iQm5ybEpKMnFiYTlXUmJ0RTJJLUlWUmg3emQwT2I0aS12LUR5QQ?oc=5</link>
+<guid>c311e81c378b</guid>
+<pubDate>2026-09-23T20:22:36+00:00</pubDate>
 <source>Jornal O Sul</source>
 </item>
 </channel></rss>
