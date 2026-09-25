@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-25T03:31:13.175061+00:00",
+  "gerado_em": "2026-09-25T09:23:17.854412+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,35 +84,6 @@
       "resumo": "169 consumidores permanecem sem energia."
     },
     {
-      "id": "0c103e9d857b",
-      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
-      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-25T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
-    },
-    {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-25T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
-      "id": "3e9269dd892d",
-      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-25T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
-    },
-    {
       "id": "1aa6f31caeca",
       "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
@@ -133,14 +104,33 @@
       "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
     },
     {
-      "id": "04f08750afc3",
-      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
-      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
+      "id": "0c103e9d857b",
+      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
+      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-09-25T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
+      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+    },
+    {
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-25T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
+    },
+    {
+      "id": "8402ea905dc4",
+      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
+      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-25T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
     },
     {
       "id": "a583b37fadbe",
@@ -151,6 +141,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
+    },
+    {
+      "id": "04f08750afc3",
+      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
+      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
     },
     {
       "id": "9053a4a2b3f4",
@@ -256,11 +256,11 @@
       "id": "b82bbce62687",
       "titulo": "Defesa Civil Estadual alerta para risco muito alto de inundação do Guaíba nas ilhas de Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaTJzS1Z6R1kzZ0tPUXYyOTZDSHFUQXhDOVFlcS13VlpxeDlzUG1HaWFfbldBdEZTekdiYjU1RzA5aXBvRHF3YU9yUDlsbkpPSG5lbXQyc2hoYlpUQ0dmTkpxSEtZOUJ3ZE9kT2dRb29wc0pkYjlxem4zMlNzQzBlMGJ5dGt4QVhuLWUwTlRNWXpscXJLUlBteWxFbXNVempKd2NIdzRQV2N5dE9kWFFKT2l0dFY5ZUliYWtZYjhsQU0yUdIBxwFBVV95cUxPd28yYWxkbnNnUXRZWkN1YjRaRHRTZkgyX2RwS3dlVWd2RnBaWjFkQklzSmxDVHFQYzBqZkVMNmwxUnNFa0hCVVJkNmRYMnVVSmtJTGRNbGNSNWxaOGJPaFVmM19HbzJLZHZqQXBuY3ZXR3VGYjFPSnU3Y2M2QnM2R2VlNk9HNDh6akpQejFEcTBFejJtdnVPMXJBZkVHM2FNNl9vWm1QWEZDb3NEcWo2eGlPWTZDbkp3UktOS2VXU1JjS1pLcWNv?oc=5",
-      "fonte": "osul.com.br",
+      "fonte": "Jornal O Sul",
       "publicado_em": "2026-09-24T10:39:23+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Defesa Civil Estadual alerta para risco muito alto de inundação do Guaíba nas ilhas de Porto Alegre osul.com.br"
+      "resumo": "Defesa Civil Estadual alerta para risco muito alto de inundação do Guaíba nas ilhas de Porto Alegre Jornal O Sul"
     },
     {
       "id": "7e5429971cd3",
@@ -346,11 +346,11 @@
       "id": "7c6811011ad2",
       "titulo": "Defesa Civil de Porto Alegre acompanha situação do Guaíba e mantém equipes no Arquipélago",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTNLWnQ5Nnc5Q1E3MUlqa3I1RXRucEJfWTJqa2RXVGM5RXAzNHdkWFBkR01FdkF1YlZCMGpSSE5mNHRqQ1NmSjRaQjdQdlp5QWxEcGJ4dzNEWXo0NE85ckhORG5LZUZDWThsSUtCZVlDM0NUN2dtN0ExazdsZnhXUzJJem5qMk5lQmszMkhiUE5zb0NCMDFPNHFYeFV3UDU4dUZublBHN1NOejBkeU5nZjNCWDFWRTBQVVHSAboBQVVfeXFMTVEzS1p0OTZ3OUNRNzFJamtyNUV0bnBCX1kyamtkV1RjOUVwMzR3ZFhQZEdNRXZBdWJWQjBqUkhOZjR0akNTZko0WkI3UHZaeUFsRHBieHczRFl6NDRPOXJITkRuS2VGQ1k4bElLQmVZQzNDVDdnbTdBMWs3bGZ4V1MySXpuajJOZUJrMzJIYlBOc29DQjAxTzRxWHhVd1A1OHVGbm5QRzdTTnowZHlOZ2YzQlgxVkUwUFVR?oc=5",
-      "fonte": "osul.com.br",
+      "fonte": "Jornal O Sul",
       "publicado_em": "2026-09-23T17:33:43+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Defesa Civil de Porto Alegre acompanha situação do Guaíba e mantém equipes no Arquipélago osul.com.br"
+      "resumo": "Defesa Civil de Porto Alegre acompanha situação do Guaíba e mantém equipes no Arquipélago Jornal O Sul"
     },
     {
       "id": "a276d506a673",
@@ -385,35 +385,6 @@
       "resumo": "169 consumidores permanecem sem energia."
     },
     {
-      "id": "0c103e9d857b",
-      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
-      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-25T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
-    },
-    {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-25T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
-      "id": "3e9269dd892d",
-      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-25T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
-    },
-    {
       "id": "1aa6f31caeca",
       "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
@@ -434,14 +405,33 @@
       "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
     },
     {
-      "id": "04f08750afc3",
-      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
-      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
+      "id": "0c103e9d857b",
+      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
+      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-09-25T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
+      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+    },
+    {
+      "id": "3e9269dd892d",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-25T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
+    },
+    {
+      "id": "8402ea905dc4",
+      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
+      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-25T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
     },
     {
       "id": "a583b37fadbe",
@@ -452,6 +442,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
+    },
+    {
+      "id": "04f08750afc3",
+      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
+      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
     }
   ]
 }
