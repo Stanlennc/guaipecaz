@@ -5,20 +5,6 @@
 <description>Notícias de Guaíba e da Região Metropolitana de Porto Alegre</description>
 <language>pt-BR</language>
 <item>
-<title>CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo</title>
-<link>https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo</link>
-<guid>20ea4fe0d8af</guid>
-<pubDate>2026-09-26T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba</title>
-<link>https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba</link>
-<guid>1aa6f31caeca</guid>
-<pubDate>2026-09-26T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos</title>
 <link>https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos</link>
 <guid>8402ea905dc4</guid>
@@ -26,9 +12,9 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
-<title>Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica</title>
-<link>https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica</link>
-<guid>4b993df4f7e4</guid>
+<title>CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo</title>
+<link>https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo</link>
+<guid>20ea4fe0d8af</guid>
 <pubDate>2026-09-26T00:00:00+00:00</pubDate>
 <source>Repórter Guaibense</source>
 </item>
@@ -40,6 +26,20 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
+<title>Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba</title>
+<link>https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba</link>
+<guid>1aa6f31caeca</guid>
+<pubDate>2026-09-26T00:00:00+00:00</pubDate>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica</title>
+<link>https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica</link>
+<guid>4b993df4f7e4</guid>
+<pubDate>2026-09-26T00:00:00+00:00</pubDate>
+<source>Repórter Guaibense</source>
+</item>
+<item>
 <title>Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba</title>
 <link>https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba</link>
 <guid>3e9269dd892d</guid>
@@ -47,15 +47,15 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
-<title>Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba</title>
-<link>https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba</link>
-<guid>a583b37fadbe</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação</title>
 <link>https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao</link>
 <guid>04f08750afc3</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba</title>
+<link>https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba</link>
+<guid>a583b37fadbe</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -69,6 +69,13 @@
 <link>https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro</link>
 <guid>818bac95001f</guid>
 <source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Batalhão de Aviação da Brigada Militar faz 37 anos e condecora repórter da Rádio Guaíba</title>
+<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPdXVVRS1ZNXBpRDlHaXVEeGdfTjh0cnVQYzJtZHltNW5kQVhkRS1rN29pOXpqeHhPOGx5aWZjUExTOW1nMHk2bHhoV2NxOURNT3Jwc1BnQXF6dGdwMEtwQVhocjgtbDBORnNOWmZYQ1hNWUl2VG5QQnd3R0l2MUFCMjY3OWJNanJSZ2JsMDY4SWNKRC1oQlR4Ym5DZERTTUlPVjRIbE41dGo4MmRvWm1Z?oc=5</link>
+<guid>57c12002e20a</guid>
+<pubDate>2026-09-25T23:47:00+00:00</pubDate>
+<source>Rádio Guaíba</source>
 </item>
 <item>
 <title>Prefeitura de Guaíba decreta situação de emergência no município</title>
@@ -96,14 +103,14 @@
 <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPalN6SW5nQmc5ajFRLUxTRjZ5WWNlbFVHVG9FeXB2NnJ4S0g2MEdtcE5FYnN0bks0TTdoVkNYSlF1cUVSVVo0QkZ5WWtJSGlDdEUzdHZzUmkxVHBiLWp3SjNHMUVINkQ1XzhvVW9fN3JBMFU0ejBWcUxtMnhGc3Rob0tHWEk1aXpMR2wwZTNuWmJvVjVteW1VdmQ4UHdFZ3pFVnJaVFJIV3JaUmUzN2NCYVo0X1g2NWswRzRmMzh4Q3R2ZHByN2swTDlocmxRRXowcEctTEl3?oc=5</link>
 <guid>07a0269ac6f0</guid>
 <pubDate>2026-09-25T16:51:02+00:00</pubDate>
-<source>Correio do Povo</source>
+<source>correiodopovo.com.br</source>
 </item>
 <item>
 <title>Guaíba no CP Memória e promessas.</title>
 <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3NTemlHUW1nblVic0oweFVlRURwUjVTazhRTFNfYVMzNlR5ZTBQcXAycjctZGlVc0htMmZ3UmVEU1dYM3pmRGRtZXZES0EwblZVaVF3RHpoZnlrWlc4VWlZUkdtSmdUdVpIM3YzWTgyT1FueXh4X1RHN3E4MWFLRXZEdGFyVThkTG96emVXT1hxSVZzWjBr?oc=5</link>
 <guid>9727a81496dd</guid>
 <pubDate>2026-09-25T03:10:53+00:00</pubDate>
-<source>Correio do Povo</source>
+<source>correiodopovo.com.br</source>
 </item>
 <item>
 <title>Catamarã suspende viagens nesta quinta-feira devido a resíduos no Guaíba; serviço retorna na sexta</title>
@@ -124,14 +131,7 @@
 <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMmlnb3AtMlY1aDg4aTJzdXo1UHFOLXNBZWJFYTlxVm9VTThvZXptRjJ2bmRIRC1rUnRRS1h5Qmg0TDFhdU5GMG9hXzgtbGZBbmF6Z1JRZF9VRExKdnpzcE9HX3NVVlhjWWY5YTNSTk1UOF8tY2hRZG0wUDZRQkNJWXRsZnctN0ZEMEJVR01kZlZyYnU5NmQtcUd2cTlkVlVIQ0dhZEFRSkhybUd0cFpiMEhTLUJHbGx0eUx4WDVpVnp0Z1lDNl82VjkyWFdCc0pQVDdnNHdVcUk?oc=5</link>
 <guid>af0034995173</guid>
 <pubDate>2026-09-24T21:00:21+00:00</pubDate>
-<source>Correio do Povo</source>
-</item>
-<item>
-<title>RECORD Guaíba divulga relatório de transparência salarial elaborado pelo Ministério do Trabalho</title>
-<link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS2JERFN2cU5DR3JuTGpRQnFVUVR5TTBOc0NGVGpPR0dBTFRHR1Q0ZXpJajd2X1V5ZVBJSXBVNjg4eXc3R1hvUVFEaDNKMHVjR1VrSDNzMnFhR0N6cHI1ZS1IbnFlOUVadzBsdnYxM1pvNlVHUTBDcVVJbEJzRHpoc0dJcnE2Tk0yVzQyYUVZeEtMZTNubzdVOXYyS2MtMDFKTVI0cXR1RmVhbDZBX1Fob2ZpUmt2MjdWUXI4UTExalRYaE0tZzhVZ1oyVG1KSnY3aGtKT0Q3MkZrc0hZMTEyVw?oc=5</link>
-<guid>555f6f4ec31a</guid>
-<pubDate>2026-09-24T20:53:51+00:00</pubDate>
-<source>R7</source>
+<source>correiodopovo.com.br</source>
 </item>
 <item>
 <title>Hospital reabre em Guaíba e atendimentos iniciam na segunda-feira</title>
