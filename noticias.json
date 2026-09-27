@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-27T09:49:19.600534+00:00",
+  "gerado_em": "2026-09-27T14:59:30.718809+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,35 @@
   ],
   "noticias": [
     {
+      "id": "1aa6f31caeca",
+      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-27T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
+    },
+    {
+      "id": "8402ea905dc4",
+      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
+      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-27T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
+      "id": "0c103e9d857b",
+      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
+      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-27T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+    },
+    {
       "id": "4b993df4f7e4",
       "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
@@ -92,35 +121,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "169 consumidores permanecem sem energia."
-    },
-    {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
-      "id": "1aa6f31caeca",
-      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
-    },
-    {
-      "id": "0c103e9d857b",
-      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
-      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
     },
     {
       "id": "3e9269dd892d",
@@ -203,24 +203,14 @@
       "resumo": "Batalhão de Aviação da Brigada Militar faz 37 anos e condecora repórter da Rádio Guaíba Rádio Guaíba"
     },
     {
-      "id": "7618108d8791",
-      "titulo": "Prefeitura de Guaíba decreta situação de emergência no município",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeFNRMWY4NVpsanVKc3RoQmlDb2x0OHRaV2FhaEdETkcxSzJvSmhlcnZJbTJaRjdOTW01QmdNRGxDMXlHWGp4UjVjVHV5ei11MjFaNUhhTHpoMzJyTlVVbEttVklmVGlRMVpXOUJxUHplRUdDeGRuWVVHQ1BtZk5TNEFTZkFCTlotOFNDOW5HRDRFUzc5a0JmdThvRQ?oc=5",
-      "fonte": "Rádio Pampa",
-      "publicado_em": "2026-09-25T22:32:55+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Prefeitura de Guaíba decreta situação de emergência no município Rádio Pampa"
-    },
-    {
       "id": "5459414c26a7",
       "titulo": "Equipe de Guaíba sagra-se campeão do 1º Aberto de Vôlei Misto de Barão do Triunfo",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMkpiSzhBN0ZoSkdnTU8teVpwbUp5RjlMM25mcGVwbG00VGFvVGtNbFNYcTZWR2F4T0RMbi1Dd1ctVl9tcXZXZ1ZQMi1hY21pbENjTU1fSDFYNzdYSDlBVi1Ld1Rqd1hHaUN5QnZwMUdNcGdpUDZ5RHN2VnR2NUM4WXZoZkI2SU1yTlhqd25mMXdLY3Bra0ZzM2tRSE9lcnlTeHAxMnR3?oc=5",
-      "fonte": "clicr.com.br",
+      "fonte": "Portal ClicR",
       "publicado_em": "2026-09-25T17:53:37+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Equipe de Guaíba sagra-se campeão do 1º Aberto de Vôlei Misto de Barão do Triunfo clicr.com.br"
+      "resumo": "Equipe de Guaíba sagra-se campeão do 1º Aberto de Vôlei Misto de Barão do Triunfo Portal ClicR"
     },
     {
       "id": "c1d742d18ce0",
@@ -236,11 +226,11 @@
       "id": "07a0269ac6f0",
       "titulo": "Alças da nova ponte do Guaíba podem ficar prontas no final de maio de 2028",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPalN6SW5nQmc5ajFRLUxTRjZ5WWNlbFVHVG9FeXB2NnJ4S0g2MEdtcE5FYnN0bks0TTdoVkNYSlF1cUVSVVo0QkZ5WWtJSGlDdEUzdHZzUmkxVHBiLWp3SjNHMUVINkQ1XzhvVW9fN3JBMFU0ejBWcUxtMnhGc3Rob0tHWEk1aXpMR2wwZTNuWmJvVjVteW1VdmQ4UHdFZ3pFVnJaVFJIV3JaUmUzN2NCYVo0X1g2NWswRzRmMzh4Q3R2ZHByN2swTDlocmxRRXowcEctTEl3?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-09-25T16:51:02+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Alças da nova ponte do Guaíba podem ficar prontas no final de maio de 2028 correiodopovo.com.br"
+      "resumo": "Alças da nova ponte do Guaíba podem ficar prontas no final de maio de 2028 Correio do Povo"
     },
     {
       "id": "3e9728b80174",
@@ -256,21 +246,21 @@
       "id": "4fb3db930ade",
       "titulo": "ViaSul mobiliza voluntários em ação de limpeza às margens do Lago Guaíba",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPal9uaml1ZWJnZjFuMWRkcHVzSnBOM1llTUZVV2dzZGhBeGgySnJFdGYtZ2RwYjhuajhxNmpzLVdiT0tHMUFhN0o2UmNzY1ZUSXZqSzFacHlob2dzbktZLUQteEszdF82cFRhek1CLTFvZ3kzWXVXRTA4azJRNWRFYWsyRUViMmRZMFNneDN3QkpKTWhaSGpEUmdFNDk2V0s4YWV6dVJPaUFmZTQxdWEtSUtQRzVlLUpnSE5PcU1wb3JxTnRN?oc=5",
-      "fonte": "rodovias.motiva.com.br",
+      "fonte": "Motiva Rodovias",
       "publicado_em": "2026-09-25T07:00:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "ViaSul mobiliza voluntários em ação de limpeza às margens do Lago Guaíba rodovias.motiva.com.br"
+      "resumo": "ViaSul mobiliza voluntários em ação de limpeza às margens do Lago Guaíba Motiva Rodovias"
     },
     {
       "id": "9727a81496dd",
       "titulo": "Guaíba no CP Memória e promessas.",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3NTemlHUW1nblVic0oweFVlRURwUjVTazhRTFNfYVMzNlR5ZTBQcXAycjctZGlVc0htMmZ3UmVEU1dYM3pmRGRtZXZES0EwblZVaVF3RHpoZnlrWlc4VWlZUkdtSmdUdVpIM3YzWTgyT1FueXh4X1RHN3E4MWFLRXZEdGFyVThkTG96emVXT1hxSVZzWjBr?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-09-25T03:10:53+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Guaíba no CP Memória e promessas. correiodopovo.com.br"
+      "resumo": "Guaíba no CP Memória e promessas. Correio do Povo"
     },
     {
       "id": "09c00b543c1b",
@@ -296,11 +286,11 @@
       "id": "af0034995173",
       "titulo": "Temporal arrasta mar de galhos para a orla de Guaíba, na região Metropolitana",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMmlnb3AtMlY1aDg4aTJzdXo1UHFOLXNBZWJFYTlxVm9VTThvZXptRjJ2bmRIRC1rUnRRS1h5Qmg0TDFhdU5GMG9hXzgtbGZBbmF6Z1JRZF9VRExKdnpzcE9HX3NVVlhjWWY5YTNSTk1UOF8tY2hRZG0wUDZRQkNJWXRsZnctN0ZEMEJVR01kZlZyYnU5NmQtcUd2cTlkVlVIQ0dhZEFRSkhybUd0cFpiMEhTLUJHbGx0eUx4WDVpVnp0Z1lDNl82VjkyWFdCc0pQVDdnNHdVcUk?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-09-24T21:00:21+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Temporal arrasta mar de galhos para a orla de Guaíba, na região Metropolitana correiodopovo.com.br"
+      "resumo": "Temporal arrasta mar de galhos para a orla de Guaíba, na região Metropolitana Correio do Povo"
     },
     {
       "id": "0d812b2a49f7",
@@ -356,11 +346,11 @@
       "id": "7e5429971cd3",
       "titulo": "Mega Help 2026 levará milhares de pessoas para a Orla do Guaíba neste domingo",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcnZMbG5vRllual9RZHJXZzZRWnBlVlp3Y0M0NUh3YzdWOGJXLVpOUUZrNnlHcEpjSVg0QmxTOHdPUzdCSzZfcXIzSmQzOU10ZXE1N2NyOUtIZGxhQl9oSXVHUWVjQUN6U3RHTUExU2xydThKSXI0czhvcThmZ19UU3pxeU1Zbi1WZ1FkX0h0UC1aczZUNlFXNy10bzRIOV9Rdk9uQzA0UW50VmNna1VTQzhDS0wtMGxXSFBnU0JxM2EzUTZpOGZYem9abjlMelZrLUxKVzh2RUI5UQ?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-09-24T10:09:53+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Mega Help 2026 levará milhares de pessoas para a Orla do Guaíba neste domingo correiodopovo.com.br"
+      "resumo": "Mega Help 2026 levará milhares de pessoas para a Orla do Guaíba neste domingo Correio do Povo"
     },
     {
       "id": "6f6ba5410071",
@@ -371,9 +361,48 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Médicos da rede municipal de Guaíba participam de evento sobre educação financeira Gazeta da Semana"
+    },
+    {
+      "id": "5cb0bbf402fc",
+      "titulo": "Guaíba: Defesa Civil de Porto Alegre alerta para risco de inundação",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSG1zUVpTalJFcXNXQ3JwZnFSTEdsN0ZBY190UUExMTl1MjhPdVhVNzkzZWFNaTVYSWs3TlhHbktaTC1KMmNMZWNLcW1vV1JzMEhfZlBFdUtyWDJHOUpwdWZPUDk5dVJGZFRWaTRydlhlWmRMckN1RGJIWmFQeTltVV9IWW9SbjNmTVNyajQ1blZ3MXFyOEdjbHhWYWI2dldrd3UxTzQxTXJOWS1JSXl4cndWR0ZHM1VINzFGY3NYONIBvwFBVV95cUxOSG1zUVpTalJFcXNXQ3JwZnFSTEdsN0ZBY190UUExMTl1MjhPdVhVNzkzZWFNaTVYSWs3TlhHbktaTC1KMmNMZWNLcW1vV1JzMEhfZlBFdUtyWDJHOUpwdWZPUDk5dVJGZFRWaTRydlhlWmRMckN1RGJIWmFQeTltVV9IWW9SbjNmTVNyajQ1blZ3MXFyOEdjbHhWYWI2dldrd3UxTzQxTXJOWS1JSXl4cndWR0ZHM1VINzFGY3NYOA?oc=5",
+      "fonte": "Acessa.com",
+      "publicado_em": "2026-09-24T02:43:47+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba: Defesa Civil de Porto Alegre alerta para risco de inundação Acessa.com"
     }
   ],
   "noticias_home": [
+    {
+      "id": "1aa6f31caeca",
+      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-27T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
+    },
+    {
+      "id": "8402ea905dc4",
+      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
+      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-27T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
+      "id": "0c103e9d857b",
+      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
+      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-27T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+    },
     {
       "id": "4b993df4f7e4",
       "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
@@ -393,35 +422,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "169 consumidores permanecem sem energia."
-    },
-    {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
-      "id": "1aa6f31caeca",
-      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
-    },
-    {
-      "id": "0c103e9d857b",
-      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
-      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
     },
     {
       "id": "3e9269dd892d",
