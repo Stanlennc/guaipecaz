@@ -5,27 +5,6 @@
 <description>Notícias de Guaíba e da Região Metropolitana de Porto Alegre</description>
 <language>pt-BR</language>
 <item>
-<title>Sicredi reinaugura agência em Guaíba com mais de 9 mil associados</title>
-<link>https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados</link>
-<guid>0c103e9d857b</guid>
-<pubDate>2026-09-28T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo</title>
-<link>https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo</link>
-<guid>20ea4fe0d8af</guid>
-<pubDate>2026-09-28T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica</title>
-<link>https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica</link>
-<guid>4b993df4f7e4</guid>
-<pubDate>2026-09-28T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba</title>
 <link>https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba</link>
 <guid>1aa6f31caeca</guid>
@@ -40,6 +19,27 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
+<title>Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica</title>
+<link>https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica</link>
+<guid>4b993df4f7e4</guid>
+<pubDate>2026-09-28T00:00:00+00:00</pubDate>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Sicredi reinaugura agência em Guaíba com mais de 9 mil associados</title>
+<link>https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados</link>
+<guid>0c103e9d857b</guid>
+<pubDate>2026-09-28T00:00:00+00:00</pubDate>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo</title>
+<link>https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo</link>
+<guid>20ea4fe0d8af</guid>
+<pubDate>2026-09-28T00:00:00+00:00</pubDate>
+<source>Repórter Guaibense</source>
+</item>
+<item>
 <title>Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba</title>
 <link>https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba</link>
 <guid>3e9269dd892d</guid>
@@ -47,15 +47,15 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
-<title>Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba</title>
-<link>https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba</link>
-<guid>a583b37fadbe</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação</title>
 <link>https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao</link>
 <guid>04f08750afc3</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba</title>
+<link>https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba</link>
+<guid>a583b37fadbe</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -69,6 +69,13 @@
 <link>https://www.reporterguaibense.com.br/noticia/humorista-gaucha-carol-delgado-traz-a-turne-energia-feminina-a-guaiba-em-setembro</link>
 <guid>818bac95001f</guid>
 <source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Desassorear o Guaíba é solução para prevenir novas enchentes?</title>
+<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTVZbjc5dWRDbS03RUNzazlMNF83VmlraW9FVmhaZ1l2SDZrUFM4T1cxaUpyVlVMLW5zaTRWdFRoY0RnY2gtbldDVE44WDdjQ2RWeWUtaWFXTEhfM1pQU25NSUpacHNMU0NfX1JVQ1hwODI0ajFWa1Z1UWRJVGFRZkVzSVFSLWtjR3Q5bDc5R2VqWWtlSW5FRTgyVTM?oc=5</link>
+<guid>e0ebc5ad7e42</guid>
+<pubDate>2026-09-28T09:01:26+00:00</pubDate>
+<source>matinal.org</source>
 </item>
 <item>
 <title>Vítimas de acidente na nova ponte do Guaíba eram homens e estavam em caminhão de Osório</title>
@@ -85,11 +92,18 @@
 <source>Correio do Povo</source>
 </item>
 <item>
+<title>Acidente em alça da nova ponte do Guaíba deixa duas pessoas mortas na freeway, em Porto Alegre</title>
+<link>https://news.google.com/rss/articles/CBMijgJBVV95cUxOYXhKRmNlUmo0RGtmdFllNFJxOWVERndVRXBSS2poNkxjWnF1alM3Z1g1c1JCdi1wNWo2UlBza0JXd2VjU0hPTXNhZEVESXVzbW16OFk2YlNUemRPSmpVLU9MWWpPc3NPM0lZU1JGWmM4X3VyMkNlY1o0d2hodk9GX1JzNkxrUDNnd3p1RGdyUkhsUmhIRTJHaWF1SmZuXzZ5QWIxSXB3a3pRRE5RY1JMei1DYVJ5WUtMYW9QZTVpS2FPcVlRNVRnT3ZETkJSeUFPNk5KckVsWERZRkFqMi0wV2MwdnpLUDVpZFR6ZU9RYklTb05sODJkWm8zMDFQdUd1NkR6VHl5dk5oVVFoeFE?oc=5</link>
+<guid>e28f1a7bfed5</guid>
+<pubDate>2026-09-27T22:55:01+00:00</pubDate>
+<source>gauchazh.clicrbs.com.br</source>
+</item>
+<item>
 <title>Guaíba poderá ter teleférico em escadaria</title>
 <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNVXJVSW1wdjlWUFVQWjF4WWFFZDdxNm5DR0Z0c1UzbXRaRTMtLUs1amF1NHVfS25fYjI1RE9FQktyb013U3JfcW1Pdy0tVi13QVRzdWRtdDVLY3BGM3FrazNoenluaXZieHFSekdzSjFRQ2NyaTFTY0RoMFQ5SHA3bWZBeXRLellxcWRNMWNkZTU5bFdvUjJLOHJfMlctOXQtRVdhLThCYjh4T2JPbmJJZURYM2NCWV9ZbTYwcU9JYw?oc=5</link>
 <guid>79655f57206b</guid>
 <pubDate>2026-09-27T22:14:13+00:00</pubDate>
-<source>Jornal do Comércio</source>
+<source>jornaldocomercio.com</source>
 </item>
 <item>
 <title>Duas pessoas morrem após caminhão despencar da Ponte Nova do Guaíba, em Porto Alegre</title>
@@ -125,19 +139,5 @@
 <guid>9465080f2900</guid>
 <pubDate>2026-09-27T20:35:31+00:00</pubDate>
 <source>Correio do Povo</source>
-</item>
-<item>
-<title>Duas pessoas morrem em acidente em alça da nova ponte do Guaíba, em Porto Alegre</title>
-<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOekd3TTFTRlF4RW15ZTZSRm5sT0pZNDJCeHdkSkMzcWFqQXlNcjFpU29qemVoNkcyTHR4bERoZnBTZGtyZ1cyTkdReUVhbG15UWlJcHQtWmY2THdzLWdJVHNQQW45bll0OGhpcUpkaVMySk84S0sxVU5lU0QwS25NYlpuNmdxalFKcUN3VjFWTVBySHVjTHgwQmdIak1sZDA5aDl5dHczT3ctUHZhZEtFakVn?oc=5</link>
-<guid>be6f8b9b64d2</guid>
-<pubDate>2026-09-27T20:33:46+00:00</pubDate>
-<source>radiocaicara.com.br</source>
-</item>
-<item>
-<title>Acidente em alça da nova ponte do Guaíba deixa duas pessoas mortas na freeway, em Porto Alegre</title>
-<link>https://news.google.com/rss/articles/CBMijgJBVV95cUxOYXhKRmNlUmo0RGtmdFllNFJxOWVERndVRXBSS2poNkxjWnF1alM3Z1g1c1JCdi1wNWo2UlBza0JXd2VjU0hPTXNhZEVESXVzbW16OFk2YlNUemRPSmpVLU9MWWpPc3NPM0lZU1JGWmM4X3VyMkNlY1o0d2hodk9GX1JzNkxrUDNnd3p1RGdyUkhsUmhIRTJHaWF1SmZuXzZ5QWIxSXB3a3pRRE5RY1JMei1DYVJ5WUtMYW9QZTVpS2FPcVlRNVRnT3ZETkJSeUFPNk5KckVsWERZRkFqMi0wV2MwdnpLUDVpZFR6ZU9RYklTb05sODJkWm8zMDFQdUd1NkR6VHl5dk5oVVFoeFE?oc=5</link>
-<guid>e28f1a7bfed5</guid>
-<pubDate>2026-09-27T19:40:20+00:00</pubDate>
-<source>GZH</source>
 </item>
 </channel></rss>
