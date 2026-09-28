@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-27T22:49:23.121458+00:00",
+  "gerado_em": "2026-09-28T03:44:57.499057+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,20 +74,11 @@
   ],
   "noticias": [
     {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
       "id": "0c103e9d857b",
       "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
       "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
+      "publicado_em": "2026-09-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
@@ -97,7 +88,7 @@
       "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
       "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
+      "publicado_em": "2026-09-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "169 consumidores permanecem sem energia."
@@ -107,7 +98,7 @@
       "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
+      "publicado_em": "2026-09-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
@@ -117,17 +108,26 @@
       "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
+      "publicado_em": "2026-09-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
+    },
+    {
+      "id": "8402ea905dc4",
+      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
+      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-28T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
     },
     {
       "id": "3e9269dd892d",
       "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
+      "publicado_em": "2026-09-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
@@ -173,6 +173,26 @@
       "resumo": "Ao longo de setembro, Carol apresenta o espetáculo em diferentes regiões do estado"
     },
     {
+      "id": "03aeff356862",
+      "titulo": "Vítimas de acidente na nova ponte do Guaíba eram homens e estavam em caminhão de Osório",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObEY5V011SVpjWVVubDVCRm1OdUp1UVlfQ1JSOVhKampEQmZpRHk1VjBqZ1hSWFgyckFTdXgzb3ZuU0N1ZmQzMDJaWXppTjAzbVZDM09vdVZqRzI0ajdrZEVoMnV5N2tSYmtoTEpwbnBPbXBOX2Z1dUY1VlVrbmpkRGVsN0g4dkRFV1Q5RVhaeHhFZ184UFV6ZVl1dTVlaExLOFpVenAyQ3dfTEdrVGhkZ3k4MGNMc3dhZmh3Q0hsZ3BWd0xOTXRadzlUQ2tUZmlXcDZTMVA2dGJPeXoyZEliZTJzbTF3bDA?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-09-28T01:00:13+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Vítimas de acidente na nova ponte do Guaíba eram homens e estavam em caminhão de Osório Correio do Povo"
+    },
+    {
+      "id": "0fe49d29f18f",
+      "titulo": "Caminhão que despencou da Ponte Nova do Guaíba estava a mais de 80 km/h",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa3Y0dWhLbF94WVd0ek1OVjBHUkl3OGhMbVktaWRxdFJhZHEwM1k3a2NCY1JJakl3aTRhZGh6NE5LR29uQzlwV1dCelFoNzBqUDlYcXVnVnZLY2o2WGRobVpXZGRKaDhPaVFuTTRrSVd1MDlVWEs3bFdBbDhKeV82SVdxekhQU2J5LWY0WUU0aXdVakJ2Uk1iUExtNHVRMDBuV053VlNMME84QWNBdFRTX2ZGRWJEaVp5MG9BU1Y4bVUwaHJOMjMwT1VuY0tqSWZn?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-09-28T01:00:13+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Caminhão que despencou da Ponte Nova do Guaíba estava a mais de 80 km/h Correio do Povo"
+    },
+    {
       "id": "79655f57206b",
       "titulo": "Guaíba poderá ter teleférico em escadaria",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVXJVSW1wdjlWUFVQWjF4WWFFZDdxNm5DR0Z0c1UzbXRaRTMtLUs1amF1NHVfS25fYjI1RE9FQktyb013U3JfcW1Pdy0tVi13QVRzdWRtdDVLY3BGM3FrazNoenluaXZieHFSekdzSjFRQ2NyaTFTY0RoMFQ5SHA3bWZBeXRLellxcWRNMWNkZTU5bFdvUjJLOHJfMlctOXQtRVdhLThCYjh4T2JPbmJJZURYM2NCWV9ZbTYwcU9JYw?oc=5",
@@ -187,30 +207,10 @@
       "titulo": "Duas pessoas morrem após caminhão despencar da Ponte Nova do Guaíba, em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVkFPaUEyTmRNMDFkNFBaR3VtWVNGSU5ScU51Y0g1d2lHaG4xNXQ0cjhZUHJKNGFpR1IxOVc4RHNoZW5JeDVrQzExX2lTZEtycHRldml5N0had1ZMdXhGd0M5UWo3bHRZUWdLaGNRMXJ4S3RWUk8wdkJZZTR2b0Q5WGlBN2xLNDNxTUpyTzNjRTVYczhlTmVRbVlpQzBqZi1mTWRGQjludUlRdnlnM2kxLTJxTDFKeVhGRzBSU2VVQkFKQnN6UUR3NnkweU1DX2o0RjBlaTF3M3NuZWkxRTJBTVpoMlhQN3E0NUxlZ29pVzlsTENMczNhSmZOZGNFNms?oc=5",
       "fonte": "Terra",
-      "publicado_em": "2026-09-27T21:33:00+00:00",
+      "publicado_em": "2026-09-27T21:33:22+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "Duas pessoas morrem após caminhão despencar da Ponte Nova do Guaíba, em Porto Alegre Terra"
-    },
-    {
-      "id": "e28f1a7bfed5",
-      "titulo": "Acidente em alça da nova ponte do Guaíba deixa duas pessoas mortas na freeway, em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOYXhKRmNlUmo0RGtmdFllNFJxOWVERndVRXBSS2poNkxjWnF1alM3Z1g1c1JCdi1wNWo2UlBza0JXd2VjU0hPTXNhZEVESXVzbW16OFk2YlNUemRPSmpVLU9MWWpPc3NPM0lZU1JGWmM4X3VyMkNlY1o0d2hodk9GX1JzNkxrUDNnd3p1RGdyUkhsUmhIRTJHaWF1SmZuXzZ5QWIxSXB3a3pRRE5RY1JMei1DYVJ5WUtMYW9QZTVpS2FPcVlRNVRnT3ZETkJSeUFPNk5KckVsWERZRkFqMi0wV2MwdnpLUDVpZFR6ZU9RYklTb05sODJkWm8zMDFQdUd1NkR6VHl5dk5oVVFoeFE?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-09-27T21:22:30+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Acidente em alça da nova ponte do Guaíba deixa duas pessoas mortas na freeway, em Porto Alegre GZH"
-    },
-    {
-      "id": "c3dca0e3d5d9",
-      "titulo": "Vítimas de acidente na nova ponte do Guaíba eram homens e estavam em caminhão de Osório",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOElQOGNLV1NfbFhhenJRVDU3WnprVnFfNzZHdFNwdExwemc2OURQQWlXTS04ZUFzbVpVT3hBREszNzhCa1JQV2kyc0FfQUxXMjFEV2VLV3VNaG5DRzhmRllZd29LNEVDc1JELUxkdm15d0FiNmpaRk10NFFxeXprc1Jzam1YcFNSZkRLVVBXd1NVQ0ZpSUM1aFVRMzJSeXpvcVdzOWZWdGpIQUpFOFlqLVVQY05MTG9oNi10TWdxVjAzQjJPSllSa290aFlmVU14UkhYS3ZsNnZ3VUJ2TS0xQXBwZmZiWjBXaTZlU3ZB?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-09-27T21:22:21+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Vítimas de acidente na nova ponte do Guaíba eram homens e estavam em caminhão de Osório Correio do Povo"
     },
     {
       "id": "92605178e9c1",
@@ -261,6 +261,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Duas pessoas morrem em acidente em alça da nova ponte do Guaíba, em Porto Alegre radiocaicara.com.br"
+    },
+    {
+      "id": "e28f1a7bfed5",
+      "titulo": "Acidente em alça da nova ponte do Guaíba deixa duas pessoas mortas na freeway, em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOYXhKRmNlUmo0RGtmdFllNFJxOWVERndVRXBSS2poNkxjWnF1alM3Z1g1c1JCdi1wNWo2UlBza0JXd2VjU0hPTXNhZEVESXVzbW16OFk2YlNUemRPSmpVLU9MWWpPc3NPM0lZU1JGWmM4X3VyMkNlY1o0d2hodk9GX1JzNkxrUDNnd3p1RGdyUkhsUmhIRTJHaWF1SmZuXzZ5QWIxSXB3a3pRRE5RY1JMei1DYVJ5WUtMYW9QZTVpS2FPcVlRNVRnT3ZETkJSeUFPNk5KckVsWERZRkFqMi0wV2MwdnpLUDVpZFR6ZU9RYklTb05sODJkWm8zMDFQdUd1NkR6VHl5dk5oVVFoeFE?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-09-27T19:40:20+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Acidente em alça da nova ponte do Guaíba deixa duas pessoas mortas na freeway, em Porto Alegre GZH"
     },
     {
       "id": "3344fae7712f",
@@ -336,11 +346,11 @@
       "id": "c1d742d18ce0",
       "titulo": "Voluntários limpam o Lago Guaíba, em Porto Alegre, em ação do Dia Mundial da Limpeza",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeXdhczBCd3FsUmxZX2pIc0FFYzlLVGJwRHdjbUhLNlVJUUlaSW5haG9kbi1fWlpoU2xEY2pNSEdqcG1fcFFuMGFRSVcwc3otdGRwSDZfeG5Ud2NCYTlxVmdGaUN5ZjY2c2VrS2VNWW00eWsxWDVDMzRSSGNDNGpYVTNqTTB4Tm1YQ241WVVQNjQ0T1R5N3hrY3I2NNIBmwFBVV95cUxOeXdhczBCd3FsUmxZX2pIc0FFYzlLVGJwRHdjbUhLNlVJUUlaSW5haG9kbi1fWlpoU2xEY2pNSEdqcG1fcFFuMGFRSVcwc3otdGRwSDZfeG5Ud2NCYTlxVmdGaUN5ZjY2c2VrS2VNWW00eWsxWDVDMzRSSGNDNGpYVTNqTTB4Tm1YQ241WVVQNjQ0T1R5N3hrY3I2NA?oc=5",
-      "fonte": "Jornal O Sul",
+      "fonte": "osul.com.br",
       "publicado_em": "2026-09-25T17:11:50+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Voluntários limpam o Lago Guaíba, em Porto Alegre, em ação do Dia Mundial da Limpeza Jornal O Sul"
+      "resumo": "Voluntários limpam o Lago Guaíba, em Porto Alegre, em ação do Dia Mundial da Limpeza osul.com.br"
     },
     {
       "id": "07a0269ac6f0",
@@ -361,34 +371,15 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Círculo Saúde inaugura Hospital de Guaíba e amplia atuação na região Portal Revista Kdea 360"
-    },
-    {
-      "id": "4fb3db930ade",
-      "titulo": "ViaSul mobiliza voluntários em ação de limpeza às margens do Lago Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPal9uaml1ZWJnZjFuMWRkcHVzSnBOM1llTUZVV2dzZGhBeGgySnJFdGYtZ2RwYjhuajhxNmpzLVdiT0tHMUFhN0o2UmNzY1ZUSXZqSzFacHlob2dzbktZLUQteEszdF82cFRhek1CLTFvZ3kzWXVXRTA4azJRNWRFYWsyRUViMmRZMFNneDN3QkpKTWhaSGpEUmdFNDk2V0s4YWV6dVJPaUFmZTQxdWEtSUtQRzVlLUpnSE5PcU1wb3JxTnRN?oc=5",
-      "fonte": "Motiva Rodovias",
-      "publicado_em": "2026-09-25T07:00:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "ViaSul mobiliza voluntários em ação de limpeza às margens do Lago Guaíba Motiva Rodovias"
     }
   ],
   "noticias_home": [
-    {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
     {
       "id": "0c103e9d857b",
       "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
       "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
+      "publicado_em": "2026-09-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
@@ -398,7 +389,7 @@
       "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
       "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
+      "publicado_em": "2026-09-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "169 consumidores permanecem sem energia."
@@ -408,7 +399,7 @@
       "titulo": "Guaíba premia estudantes e professores na 4ª Mostra Científica e Tecnológica e no 1º Torneio Municipal de Robótica",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-premia-estudantes-e-professores-na-4-mostra-cientifica-e-tecnologica-e-no-1-torneio-municipal-de-robotica",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
+      "publicado_em": "2026-09-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O tema deste ano foi “Popularizando a Ciência no Ano do Centenário de Guaíba”"
@@ -418,17 +409,26 @@
       "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
+      "publicado_em": "2026-09-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
+    },
+    {
+      "id": "8402ea905dc4",
+      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
+      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-28T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
     },
     {
       "id": "3e9269dd892d",
       "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/mercado-livre-abre-33-vagas-para-pcds-no-novo-centro-de-distribuicao-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-27T00:00:00+00:00",
+      "publicado_em": "2026-09-28T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados devem participar do processo seletivo presencial, que será realizado na Ulbra Guaíba"
