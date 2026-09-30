@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-29T20:27:15.152872+00:00",
+  "gerado_em": "2026-09-30T01:04:39.858505+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,16 @@
   ],
   "noticias": [
     {
+      "id": "ad11fea47e8c",
+      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-29T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
+    },
+    {
       "id": "20ea4fe0d8af",
       "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
       "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
@@ -94,26 +104,6 @@
       "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
     },
     {
-      "id": "1aa6f31caeca",
-      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-29T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
-    },
-    {
-      "id": "ad11fea47e8c",
-      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-29T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
-    },
-    {
       "id": "8402ea905dc4",
       "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
       "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
@@ -121,26 +111,6 @@
       "publicado_em": "2026-09-29T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
-    },
-    {
-      "id": "b06d127f4e0e",
-      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
-    },
-    {
-      "id": "04f08750afc3",
-      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
-      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
     },
     {
       "id": "a583b37fadbe",
@@ -153,6 +123,76 @@
       "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
     },
     {
+      "id": "04f08750afc3",
+      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
+      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
+    },
+    {
+      "id": "b06d127f4e0e",
+      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
+    },
+    {
+      "id": "4a63831dcc1d",
+      "titulo": "Defesa Civil de Porto Alegre emite alerta de elevação do Guaíba nas Ilhas e áreas ribeirinhas do Sul e Extremo Sul",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPSkZ4b2JNbE1TZXFNVVhsS2JRcGx5R240cm1lOEhoZF9na2FKNTdRRm9IUWd2NDR5dXZqMUdFblVEbTZIRGhaZ3F0V1A4NFpCNXlZZC1GQ0xvSzd3eWtVVjYwRzBvajFwMEhMa0JKeV9MYXp4WktybXB3RFVyMW1uTER5VWNNNVl2RUV1OXRVUjg3M3gzeFBoeTVveU5sd01oTXlGcENUbTNlMTVYbThPSmVSbTR0dUEwMUVwVExsVDB5bXYyQzZwSGRnWXl2azNBaHJVMm55aHgtZGR0a0RQSzZMcDJlZkFlZE9ORFpIVHRQOUtWalVSRnpGejBnMU1sRzlfcUpES01sd2lYRnRDNTBnQkhYcGFZMW9pakt3eG01eXhoX0o0UXZwQkNpWXM?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-09-30T00:45:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Defesa Civil de Porto Alegre emite alerta de elevação do Guaíba nas Ilhas e áreas ribeirinhas do Sul e Extremo Sul GZH"
+    },
+    {
+      "id": "fc17e5af3626",
+      "titulo": "Defesa Civil alerta para risco de elevação do Guaíba, em Porto Alegre, e de outros quatro rios do RS",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUC0wZWk1T3pwRjRqUm91ZUZtSHlGdm0zUHo4endhSFh4R1RnQmh0akVNRW9nUG4tY1RzS2YtZDNBNk03b3FKN04wSTVzWGNQRkdCNEppN2twVEhKQWlFLXdvaXV1UzlmT1hXQ19ycmNyRUtBNy14TC1La3pjanJWZW9oQWxwQ1RZVG1ydVVVMGxyR2xxNDVxR05SbmtzQ0tNTTdwY3JfZm52aGR6UHgyVzlXdWVYZlJiWURhZ3RB?oc=5",
+      "fonte": "Rádio Guaíba",
+      "publicado_em": "2026-09-29T22:13:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Defesa Civil alerta para risco de elevação do Guaíba, em Porto Alegre, e de outros quatro rios do RS Rádio Guaíba"
+    },
+    {
+      "id": "b509d098b40d",
+      "titulo": "Novo Centro de Operações da Brigada Militar é inaugurado em Guaíba para atender 22 municípios",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdy03RU1CQ0wxS1NoRDU0aUNPSlRBaFZnMVFsTHdlY3llendGTlQyMEQ0NGlPMk8yVTNiYkJ0NV9uRUR3RDg4YkNvZmlHSFdOanFpYWhmZzNCeUtOS042MHBJa1E2QjdBbnh6eEJMaHNHZGRyOEdLQ2luZXZLUm5ZbTVLeE4zWjdHLXZXZUgydS10T1hnZlJSRzlJUEpKZ29OWURIZy1fRHFsNEFMUFF6MWdqY1pOY1hReDdvNGdkOWFOWk42Q3A0eUJYQWVuM1pMaDBvd2NvRmZQellhU3drMDlBN1FMaWdXVXZScHdJSmJWQkh5S3c?oc=5",
+      "fonte": "correiodopovo.com.br",
+      "publicado_em": "2026-09-29T21:51:09+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Novo Centro de Operações da Brigada Militar é inaugurado em Guaíba para atender 22 municípios correiodopovo.com.br"
+    },
+    {
+      "id": "a2d5d3bd794b",
+      "titulo": "Duas pessoas morrem atropeladas por carretas em Guaíba e Barra do Ribeiro, em intervalo de duas horas",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNFRZcGowY3pxTkdUTU0xR2x0Wml3eGVJME5kM19mczhKb2FzRWlSWXRjVlBTVG03MzZmX2tUT3hBSXltUmpKNDl5clZYS0dCV01ybkVnZzRqY29vT3FnM2VBR2tad21uTUFjV3pvMzdhTjVzSFMybzBJVUNHZjhwaDYxM3JLbWdJVllWN05JYkpTdktYOGIyVExkbDFlWFdHWW5wNC1pRDczeG96dnJwQU5YNGlHMlk0bkJTbG1aVFJDMWtISmRZMDlKNXdDTmZaQlVwT1dxazg4N1ktSnIxcnNGQ19OXzlseEhGag?oc=5",
+      "fonte": "Portal de Camaquã",
+      "publicado_em": "2026-09-29T21:41:23+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Duas pessoas morrem atropeladas por carretas em Guaíba e Barra do Ribeiro, em intervalo de duas horas Portal de Camaquã"
+    },
+    {
+      "id": "143a91433530",
+      "titulo": "Defesa Civil emite alerta para possível elevação do Guaíba na região das Ilhas e Sul de Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSnZqTlZxQ0tOWmRySms2Tk0tZ1phMzdyY3MxNmVFLUhHXzRWRGxfWmhNbDBPYnA2VVg0RkFMQVQ1djVmQ25acmp0NlJZVkxKbEZIMFdXUEdIRjVHd0xCQjRpNW9RYjlFdDdvNlpIaUxyemczOG1CZXF4M3VPZGZDRGxpMGxxZ2VMVXZLR1dOSDBzcXFqWVNMYkNmQ1FNbUJrYVFPR3lhdnhUZXpyNjc4Rkp1SGUwU3c2NjlseFdLclJDMmtneE5JbHp0aDZQQzN4b0Y4UWZjMW9uOEU2Wk84UU1fV3lfQjZpTFdycFZ3RUl2QQ?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-09-29T20:26:56+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Defesa Civil emite alerta para possível elevação do Guaíba na região das Ilhas e Sul de Porto Alegre Jornal do Comércio"
+    },
+    {
       "id": "de829b82cc8b",
       "titulo": "Porto Alegre é reconhecida como \"Cidade da Natação em Águas Abertas\", mas qualidade do Guaíba ainda limita prática",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWEE1aU9hak5NbGJsZDZXZ01OWFdabk1ENndrVFhURmdOc3BuYU5PcFhSMTlzQzdCRHRIYTJ4OUhkRnRlV3RrczJHNDNCdXUxQk04QmRwQlg2TmN0TzZwOUU2SXpxaXEwNkY4bE1GcFhFNHNmZ0lEWE5kMmgxUzJMMzdoZ0pHaEFTcTFuUGswT1VaTnEtakpPMVJyTkk4MTlkWW5Xazd5WUZrQzFoMzBiYzZWdzFnRnNiX0NtR01vQ3dHNUs5ZkJIV2h6akRuRFVJZ2JGMERLMExzLW10ckxvOGNFa3ZqY2xqSnYxMVB1R19PQVlELVl4Xy00YVB3b0RB?oc=5",
@@ -163,24 +203,24 @@
       "resumo": "Porto Alegre é reconhecida como \"Cidade da Natação em Águas Abertas\", mas qualidade do Guaíba ainda limita prática Jornal do Comércio"
     },
     {
-      "id": "d64ce748ee30",
-      "titulo": "Freeway terá bloqueio total para retirada de caminhão que ficou preso em alça da nova ponte do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNSnhvMU82cXE4MXVYZFN4Qlo2ZTI2Z3p5dmVzbVA1VGpOazd1c1BmWE51Um9WTnQ1aHN6Z2Z6enVNY2o1WnBIUGxBYi1ZY1pqcG5NRG9EVS1YM0VHSmwzNVFlOEsxcU1nWXNHUXp3QjFwZUJzNGpPZVJwYTMwQWZkY0Y5WUJhcFl2VHo0WGFOUUlCVG1HcE9TR013MTBBbFZqT2hQUXdoZ3pGT2pFdk9kazBmMkZfcl9lR3JuNDFid2RHcFhKaU1JMWZidVFrR3JTR1AxVHREd000em5ndlBOOERSSHN6Rk5NTi1DRmZ4SEEwRUlCVEI2a01penUydUdpUFpWZ2dxUkl4TktHS0NXRVJsRnFudjFE?oc=5",
-      "fonte": "gauchazh.clicrbs.com.br",
-      "publicado_em": "2026-09-29T18:09:01+00:00",
+      "id": "00b2f129aca5",
+      "titulo": "ERNANI CHACRINHA — Vereador 2008 em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FMTVpck5nVFpyQUZ5ZHRkMVFzZUM2M1p4bFJ4bDVLR0t0Sm9POUwtbjFwa1hYYkhNd05RQ0huaFFYXzJVRWc3bFhOQVVlMWhqbDZYVG5BWlBjRGcxMjRwLWk1ZTdjNnhVdV90S2JXMjBFTVF3YVFZVVh3QnM?oc=5",
+      "fonte": "CBN Amazônia",
+      "publicado_em": "2026-09-29T19:50:38+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Freeway terá bloqueio total para retirada de caminhão que ficou preso em alça da nova ponte do Guaíba gauchazh.clicrbs.com.br"
+      "resumo": "ERNANI CHACRINHA — Vereador 2008 em Guaíba CBN Amazônia"
     },
     {
       "id": "35b5c7d83b79",
       "titulo": "Confira as regras do Debate Correio do Povo, Rádio Guaíba e Amrigs ao Senado Federal",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObzZyejJuNzQ5N3FDNlNxQ3dzYUNIWUVSUThpaFFaVlpxaTdHcW05SkFTZmVlN2RVeFBTdmM0eGoxaVpnMG1qaUliT0N0RjVxMHVIOTllSTE3TW5NeExqREs3Y2x0NkJ5bU95Yy1BY3MxRnQ0TDM3R1pJQ2NtV0NRVE1xTElCQVJQYXl1ZVR6ZU0tWnN1MnBLUDhJZFh3UFh0VG5CcWhWX25HR3pPaV9zZE5qTkdHVzVLU2lNX3ZadmFTRnc5Ynh1S0dIUkZDZGowQmdFSF9CVEJYLVBrYjVBZW5yTFM2WDdjNEdnV295RTJHSmdxYVR2OXhfN0NkWHBUNTlN?oc=5",
-      "fonte": "Correio do Povo",
+      "fonte": "correiodopovo.com.br",
       "publicado_em": "2026-09-29T10:28:07+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Confira as regras do Debate Correio do Povo, Rádio Guaíba e Amrigs ao Senado Federal Correio do Povo"
+      "resumo": "Confira as regras do Debate Correio do Povo, Rádio Guaíba e Amrigs ao Senado Federal correiodopovo.com.br"
     },
     {
       "id": "e942b7dae6fa",
@@ -196,11 +236,11 @@
       "id": "39686f88394e",
       "titulo": "Quinta edição do Limpe o Guaíba recolhe duas toneladas de resíduos",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaFFwZm1XWVppMWFuNi03WDZBU1J0d09xbjdNLVZkcmFTaXZGYmtCUXE0Z1FCQll1aWQ0djVXZGhRZ2gzNG5iTkc0SjdjcGNrVDNoZjVLdHJpdG1RcGFkV0ZndnA1bnlLQlpMbEM1TW4wR3VhaUVmdnlmeGNrZlhMT2xZeU9sQmY3bWhjNW1sVzloRUlKNVA1dHJTSk9Ddw?oc=5",
-      "fonte": "Rádio Pampa",
+      "fonte": "radiopampa.com.br",
       "publicado_em": "2026-09-28T19:33:39+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "Quinta edição do Limpe o Guaíba recolhe duas toneladas de resíduos Rádio Pampa"
+      "resumo": "Quinta edição do Limpe o Guaíba recolhe duas toneladas de resíduos radiopampa.com.br"
     },
     {
       "id": "f845d7744d4b",
@@ -233,34 +273,24 @@
       "resumo": "Guaíba recebe mobilização que une natação, limpeza e educação ambiental no Lami | SEGS Portal Nacional de... SEGS Portal Nacional"
     },
     {
-      "id": "007fac0fbf69",
-      "titulo": "Aumento de mais de 13% na tarifa do catamarã entre Porto Alegre e Guaíba passa a valer nesta terça",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZXpJOFcycW4yeF9UemYyZGFNUTlJTl9OLWVBem9PTHlDcWE4eFJXTENzdU5QdHYwajFNamU3V2tBQVNSYWhONTBweW1LeTZZNFI3YVhOS1NtYm1CLTc0dXZjTUFhcEVDTkhyYTJvLWNlSDE5d2pMTTZGNFB0WEZnaXBsZ0RSQnpPd0dybmlxSkE0ZmZiX2lJbTlDZm9OQUFnMi1TYzBLYkhSZlpLVVdTSXlGdnlYM0M0MmRpTGxvcDBGbkc5Zk1yM0lTcGo3SlBJQTN6VEZFc09YY2VnRHNOYjRVWDZzNm84WFNpMWpaN2J2VzZF?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-09-28T15:37:37+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Aumento de mais de 13% na tarifa do catamarã entre Porto Alegre e Guaíba passa a valer nesta terça Correio do Povo"
-    },
-    {
-      "id": "0306d569018f",
-      "titulo": "Prefeitura de Guaíba decreta situação de emergência no município",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNERwYUl4ZzEwNVFTbTQ0cklmc1A0ZnZPQUlBaHU5eTJDNlpveU04T00tTGFuem1xUU95dGwxTDd4TThVQzlxVW1DNzktRW1yQ2FndUctTFVZcFkzQzFhcVRLdHJoRl82YUxOY1pvSDE1UmdmR0czZTZ3YTVsM09xUVRDenBVZm8xUkFZTnJB?oc=5",
-      "fonte": "expansao.co",
-      "publicado_em": "2026-09-28T13:24:43+00:00",
+      "id": "d590ff4b3ec8",
+      "titulo": "Busca por vazamentos ocultos reforça combate às perdas de água em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOEw5SjVrSV8xOC1Xdks4dTFnU2phM1h3c1JMa1JYQ0Q4MHFaQjczcUxMYy1oVTZyRzhnRHhTTWt6a3ZrVVdNX1lBQm5KV2dIZXMwOVRFOW1Idm15VWk0TWxFOXJfVlVzOXd4dUxFV2tzUHNOeXljREM4d005djRKOGd6N1lPRUR2MEVrSEdwelNtNTk1MmtES3lJODBacjQw?oc=5",
+      "fonte": "CORSAN",
+      "publicado_em": "2026-09-28T14:42:27+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Prefeitura de Guaíba decreta situação de emergência no município expansao.co"
+      "resumo": "Busca por vazamentos ocultos reforça combate às perdas de água em Guaíba CORSAN"
     },
     {
       "id": "5f54c1b9e590",
       "titulo": "Após abandono, obra da nova ponte do Guaíba é retomada",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdmpSYUluc2c5YWZzOUkySFpadks1ZHNtTGJCWnJSYnplQVlZX0NWc0E3eGU1eWR5VDRab2w5OHpsYUpzclhiR3dTWWhoVmdZYmhnQzlFc3JqbjdqMThzQ2FXWFNZNl8wZnNmSGxEU3g4R3kxc3BsNFRPUEVNN0lYMkRhbkVkQWt0U2Y4RGtPN2NRWXY4cFZkZEI2U1RVT1ZBWFdYTTdFZUtuTmtwd21XTVo1VGFjZl9hbTJDTGpaSEJha1ExZ29tZzNpVFd4S2V6LU1TOGQyN3dWaFRBRkdfRUd0N3NDSUlLdlQ3WXk2dw?oc=5",
-      "fonte": "gauchazh.clicrbs.com.br",
+      "fonte": "GZH",
       "publicado_em": "2026-09-28T13:12:57+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Após abandono, obra da nova ponte do Guaíba é retomada gauchazh.clicrbs.com.br"
+      "resumo": "Após abandono, obra da nova ponte do Guaíba é retomada GZH"
     },
     {
       "id": "ec9d105a5e31",
@@ -306,21 +336,21 @@
       "id": "03aeff356862",
       "titulo": "Vítimas de acidente na nova ponte do Guaíba eram homens e estavam em caminhão de Osório",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObEY5V011SVpjWVVubDVCRm1OdUp1UVlfQ1JSOVhKampEQmZpRHk1VjBqZ1hSWFgyckFTdXgzb3ZuU0N1ZmQzMDJaWXppTjAzbVZDM09vdVZqRzI0ajdrZEVoMnV5N2tSYmtoTEpwbnBPbXBOX2Z1dUY1VlVrbmpkRGVsN0g4dkRFV1Q5RVhaeHhFZ184UFV6ZVl1dTVlaExLOFpVenAyQ3dfTEdrVGhkZ3k4MGNMc3dhZmh3Q0hsZ3BWd0xOTXRadzlUQ2tUZmlXcDZTMVA2dGJPeXoyZEliZTJzbTF3bDA?oc=5",
-      "fonte": "Correio do Povo",
+      "fonte": "correiodopovo.com.br",
       "publicado_em": "2026-09-28T01:00:13+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Vítimas de acidente na nova ponte do Guaíba eram homens e estavam em caminhão de Osório Correio do Povo"
+      "resumo": "Vítimas de acidente na nova ponte do Guaíba eram homens e estavam em caminhão de Osório correiodopovo.com.br"
     },
     {
       "id": "0fe49d29f18f",
       "titulo": "Caminhão que despencou da Ponte Nova do Guaíba estava a mais de 80 km/h",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa3Y0dWhLbF94WVd0ek1OVjBHUkl3OGhMbVktaWRxdFJhZHEwM1k3a2NCY1JJakl3aTRhZGh6NE5LR29uQzlwV1dCelFoNzBqUDlYcXVnVnZLY2o2WGRobVpXZGRKaDhPaVFuTTRrSVd1MDlVWEs3bFdBbDhKeV82SVdxekhQU2J5LWY0WUU0aXdVakJ2Uk1iUExtNHVRMDBuV053VlNMME84QWNBdFRTX2ZGRWJEaVp5MG9BU1Y4bVUwaHJOMjMwT1VuY0tqSWZn?oc=5",
-      "fonte": "Correio do Povo",
+      "fonte": "correiodopovo.com.br",
       "publicado_em": "2026-09-28T01:00:13+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Caminhão que despencou da Ponte Nova do Guaíba estava a mais de 80 km/h Correio do Povo"
+      "resumo": "Caminhão que despencou da Ponte Nova do Guaíba estava a mais de 80 km/h correiodopovo.com.br"
     },
     {
       "id": "79655f57206b",
@@ -341,39 +371,19 @@
       "categoria": null,
       "feed": "metro_poars",
       "resumo": "Acidente em alça da nova ponte do Guaíba deixa duas pessoas mortas na freeway, em Porto Alegre Diário Gaúcho"
-    },
-    {
-      "id": "3d6acd386b40",
-      "titulo": "Duas pessoas morrem após caminhão despencar da Ponte Nova do Guaíba, em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVkFPaUEyTmRNMDFkNFBaR3VtWVNGSU5ScU51Y0g1d2lHaG4xNXQ0cjhZUHJKNGFpR1IxOVc4RHNoZW5JeDVrQzExX2lTZEtycHRldml5N0had1ZMdXhGd0M5UWo3bHRZUWdLaGNRMXJ4S3RWUk8wdkJZZTR2b0Q5WGlBN2xLNDNxTUpyTzNjRTVYczhlTmVRbVlpQzBqZi1mTWRGQjludUlRdnlnM2kxLTJxTDFKeVhGRzBSU2VVQkFKQnN6UUR3NnkweU1DX2o0RjBlaTF3M3NuZWkxRTJBTVpoMlhQN3E0NUxlZ29pVzlsTENMczNhSmZOZGNFNms?oc=5",
-      "fonte": "Terra",
-      "publicado_em": "2026-09-27T21:33:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Duas pessoas morrem após caminhão despencar da Ponte Nova do Guaíba, em Porto Alegre Terra"
-    },
-    {
-      "id": "92605178e9c1",
-      "titulo": "Caminhão cai da nova ponte do Guaíba e dois morrem",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3dmSk1VdDBYLWFSMmFwdkNMRGl5U1NGbS1DOUc2Z20wQmF2OUw0LTB2UU04WGdmcTlFblI4SFVxWUFZNm45cWtPMUZyRjlyRVZzdm9SdklNUzVSNE9iS052QUFaS1dvS1NGR1BSaDgxTkRKSmluRjdtZXprUTdDN0VRV2hZVEhOWTFUVGJxR1AzNVc4SUwzR1dNS1htNzA?oc=5",
-      "fonte": "grupoahora.net.br",
-      "publicado_em": "2026-09-27T21:12:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Caminhão cai da nova ponte do Guaíba e dois morrem grupoahora.net.br"
-    },
-    {
-      "id": "19f2d5c06f41",
-      "titulo": "Caminhão cai da nova Ponte do Guaíba e deixa dois mortos em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbDVqNy1zdjFKcWlITk5wYUl0eFJLYmVtN1lubmw3bEE3N1ZtNjJjbE43U1owaC1IaG50T2g1b08tM2ZnRVhyZUpsbmNQSkR3WEpiY1Z2SE5DNklaRWZhTzhiVDdNdkdtWl9ZS0lnb2dtSElIMVdfWFVCdktWZlhZaEJ0OUNyOVZORnFsOWFtTDVyb1lEQk5lVkIwWDRUc0YxMmlvT2QyWFlya2xBOThvRDBxUnBrR28?oc=5",
-      "fonte": "leouve.com.br",
-      "publicado_em": "2026-09-27T21:00:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Caminhão cai da nova Ponte do Guaíba e deixa dois mortos em Porto Alegre leouve.com.br"
     }
   ],
   "noticias_home": [
+    {
+      "id": "ad11fea47e8c",
+      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-29T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
+    },
     {
       "id": "20ea4fe0d8af",
       "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
@@ -395,26 +405,6 @@
       "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
     },
     {
-      "id": "1aa6f31caeca",
-      "titulo": "Justiça Eleitoral manda retirar wind banners de candidatos na entrada de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/justica-eleitoral-manda-retirar-wind-banners-de-candidatos-na-entrada-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-29T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A legislação eleitoral permite a utilização de bandeiras móveis em vias públicas, desde que sejam respeitadas determinadas condições"
-    },
-    {
-      "id": "ad11fea47e8c",
-      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-29T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
-    },
-    {
       "id": "8402ea905dc4",
       "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
       "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
@@ -424,14 +414,14 @@
       "feed": "reporter_direto"
     },
     {
-      "id": "b06d127f4e0e",
-      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
+      "id": "a583b37fadbe",
+      "titulo": "Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
+      "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
     },
     {
       "id": "04f08750afc3",
@@ -444,14 +434,24 @@
       "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
     },
     {
-      "id": "a583b37fadbe",
-      "titulo": "Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba",
+      "id": "b06d127f4e0e",
+      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
+      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
+    },
+    {
+      "id": "4a63831dcc1d",
+      "titulo": "Defesa Civil de Porto Alegre emite alerta de elevação do Guaíba nas Ilhas e áreas ribeirinhas do Sul e Extremo Sul",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPSkZ4b2JNbE1TZXFNVVhsS2JRcGx5R240cm1lOEhoZF9na2FKNTdRRm9IUWd2NDR5dXZqMUdFblVEbTZIRGhaZ3F0V1A4NFpCNXlZZC1GQ0xvSzd3eWtVVjYwRzBvajFwMEhMa0JKeV9MYXp4WktybXB3RFVyMW1uTER5VWNNNVl2RUV1OXRVUjg3M3gzeFBoeTVveU5sd01oTXlGcENUbTNlMTVYbThPSmVSbTR0dUEwMUVwVExsVDB5bXYyQzZwSGRnWXl2azNBaHJVMm55aHgtZGR0a0RQSzZMcDJlZkFlZE9ORFpIVHRQOUtWalVSRnpGejBnMU1sRzlfcUpES01sd2lYRnRDNTBnQkhYcGFZMW9pakt3eG01eXhoX0o0UXZwQkNpWXM?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-09-30T00:45:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Defesa Civil de Porto Alegre emite alerta de elevação do Guaíba nas Ilhas e áreas ribeirinhas do Sul e Extremo Sul GZH"
     }
   ]
 }
