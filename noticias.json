@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-30T08:00:10.245211+00:00",
+  "gerado_em": "2026-09-30T14:51:57.364664+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,26 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "0c103e9d857b",
-      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
-      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-30T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
-    },
-    {
-      "id": "ad11fea47e8c",
-      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-30T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
-    },
-    {
       "id": "20ea4fe0d8af",
       "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
       "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
@@ -113,14 +93,24 @@
       "feed": "reporter_direto"
     },
     {
-      "id": "04f08750afc3",
-      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
-      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
+      "id": "ad11fea47e8c",
+      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-09-30T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
+      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
+    },
+    {
+      "id": "0c103e9d857b",
+      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
+      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-30T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
     },
     {
       "id": "b06d127f4e0e",
@@ -143,6 +133,106 @@
       "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
     },
     {
+      "id": "04f08750afc3",
+      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
+      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
+    },
+    {
+      "id": "986add96f059",
+      "titulo": "Defesa Civil emite alerta sobre elevação do Guaíba e monitora quatro rios acima da cota de inundação no RS",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/30/elevacao-do-guaiba-e-rios-acima-da-cota-de-inundacao-no-rs.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-09-30T11:07:59+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Saiba o que fazer em caso de tempo extremo de acordo com a Defesa Civil A Defesa Civil de Porto Alegre emitiu um alerta, válido das 9h desta quarta-feira (30) até as 12h de domingo (4), para o risco de elevação do nível do Guaíba. Ele poderá atingir a cota de inundação no bairro Arquipélago e áreas…"
+    },
+    {
+      "id": "e7a1cc5d3144",
+      "titulo": "Defesa Civil de Porto Alegre emite alerta para possível elevação do Guaíba nas ilhas e nas áreas ribeirinhas",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVXhqUzRMcWxlRHQ3RzdMVjNaLTh1R0VqamlTRG9KYmQxcGZkTEwzM3kxY1JRcGRKVGpIdkliY3JHRnRWbUdvVjZKNzJHYTJodVJHVlE5ZldrLWFMYnRlaUFmRHp4TTI5SmhrU2xtYXRiSnJ2WkVEVS1Gems5LUtSczA5amJHZVNMZUhuOVRnUjdZRWRvTzZkRThhVXJFZEFPaFUxYU5sd0ZkUzNMUlBZMWREbC1hbWpGQXBDaXlGS0xVMjVaNzZVWXN4NTBtWHpzQk9MWjZB?oc=5",
+      "fonte": "radiopampa.com.br",
+      "publicado_em": "2026-09-30T14:33:42+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Defesa Civil de Porto Alegre emite alerta para possível elevação do Guaíba nas ilhas e nas áreas ribeirinhas radiopampa.com.br"
+    },
+    {
+      "id": "b0ffedb702f5",
+      "titulo": "Quatro rios superam cota de inundação no RS e Defesa Civil alerta para elevação do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQjVnX2sxMUdsd0lYNThaS3M1NWtjbXNBWVZVWEVuVm9rSHQxVm5vVmxwZzRlV2xsUDdwc3N3WENXVlVXM2ZzdnloZVQxNVJjZnR2ekhiZFNLZEljajBKemtPcGlQRGtfTEZDdVNTTU1UWE9VLW8wTzhaOWRGU3lyTGpqUTEwV3d1a2NaNWU3cThxVGN3TzhHTW0yZXlXdURHNEVXclZ6MlhfdEltcHI0RmtaZzFoc1A2aFJRWHltQUhMNUlULUxKSDdWeld3dw?oc=5",
+      "fonte": "Brasil de Fato",
+      "publicado_em": "2026-09-30T14:07:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Quatro rios superam cota de inundação no RS e Defesa Civil alerta para elevação do Guaíba Brasil de Fato"
+    },
+    {
+      "id": "1b41274d82a7",
+      "titulo": "Defesa Civil de Porto Alegre emite alerta de elevação do Guaíba nas Ilhas e áreas ribeirinhas do Sul e Extremo Sul",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPQUxvVjJsaFdpWUotQzZXN2hMUVN1MUo1c3lJOUhwWFdGTHZiWFN4SjRFUm5DRDk2Q2F5eWtZeTdOY29YcmpvdnV1ODN0elc0SDMxYVRWdmRQZFljTDZ1MjF6WmczU04tSlN4UjVvaGhnT3ppMkRLN0JIdUtEVVY3dzluZ3MxSTAtckw0V09rSmNyRFpKQXZPTVhWaHp1TWtsTGd4UFlEQm50MF9NUDdkNl9zVzdCYlNiSHZBYzdqY1pKRFdNUV84ekZHRUVZd1FUMnVrZkw5clQ1cXhFS1FzR0UtOUpqMHpLSzVJZGluS1FiVWhrVmVHUV9wSFhtRFI3czJCX0Q0NTVWU0Z1UFFVUDA5V1NKcXR2X00yMzlxLXZJd1VBaTExVl9JbHJ6Qi1x?oc=5",
+      "fonte": "Diário Gaúcho",
+      "publicado_em": "2026-09-30T13:06:22+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Defesa Civil de Porto Alegre emite alerta de elevação do Guaíba nas Ilhas e áreas ribeirinhas do Sul e Extremo Sul Diário Gaúcho"
+    },
+    {
+      "id": "7277fd7364aa",
+      "titulo": "Guaíba entra em nova cheia e deve subir mais com grande vazão do Jacuí",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYl9fUV9sdkZwWVQ1Zmw5c083NkdnSlB2YzZKdXp6M3cwTHM1RWZkbDhLd0hMZC00aGJRZkZVLTROdDRmc1ZEMzVYSERFZ1FJd3lmQndpVjZrSG1BeU5lendGUWJoZlRyWlczYWpmRmZ3NUJJTE9PNjFCOEhjQUxRd0FPa2N3ZGVOUHJTWTlwVlYzRmtlaWhVcGJwQ1NlcXU3REdySERhTkM1U2tRR1JmMXlsTHZvdnVtd0dnQw?oc=5",
+      "fonte": "abcmais.com",
+      "publicado_em": "2026-09-30T12:45:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Guaíba entra em nova cheia e deve subir mais com grande vazão do Jacuí abcmais.com"
+    },
+    {
+      "id": "1d19abca37f4",
+      "titulo": "Com Guaíba sob alerta, quatro rios do RS seguem acima da cota de inundação",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVkRwd2M1WXUwYUNuLUZuaktudTJ0aEE1b1Eyd1pFT291TGRtc284TkpUQURKbnEzbzVCVW1oU3UyTXFMd0NfeDR5TlNxRmFNLVNfcS0wLWlfVlBWQ0lDczZfQ3BSRlNORFF6N2xBUWc4SGlsZ2FNVWVpMEZhaE8zdUt5OGxod2pybXFQRHpHT0I4Qm5vekFoNlpsN3Q5UnFNcGZKZmNLb3lSZE5paXJCM0s5eTlmVFlBdUc1TXU1R3lteXoxQmU4cXVnU20tc09QaHN3ZmNVeVREbm9ia3BBQnFvUmEzSFV1UVZtMUFYWQ?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-09-30T12:24:12+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Com Guaíba sob alerta, quatro rios do RS seguem acima da cota de inundação GZH"
+    },
+    {
+      "id": "37ea145ec70b",
+      "titulo": "Defesa Civil alerta: elevação do lago Guaíba. Risco ALTO de inundação em Eldorado do Sul",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLW9hZXQzRlplQnFZcXJZcFk4c3FiblpSWUROc3pLTk1DbWNPRVlFUjgtY3d6Qkc5VUhCN2R1cDFDSnF4V2lrTURZYjlxejdZR0ZVRnQ1RUNwX2lYN1hYdmdkWloyVUdhZVQ2WDhjZFVGRjJCM0ZLZk5uMV9LaXpNMHdaNHl1TGM1dTlVYTlScF9PUFZGYUNsMUdrZXVHaVJoTHRpRGVwRUx2RllUZjVTdXVPVHV6b2VqUU5hZQ?oc=5",
+      "fonte": "Defesa Civil do Rio Grande do Sul",
+      "publicado_em": "2026-09-30T11:51:03+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Defesa Civil alerta: elevação do lago Guaíba. Risco ALTO de inundação em Eldorado do Sul Defesa Civil do Rio Grande do Sul"
+    },
+    {
+      "id": "3b1e19ecfb9b",
+      "titulo": "Guaíba tem nova cheia e deve subir mais com vazão do Jacuí",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeXhnZ1hHSFgzeDVhNjl6YjhOWWx6bUhBRlZCVmtDQ1p2Zk8yX25mMEI0UVpqTFg4SklXU1YyUElUYUJfcWZfLTdleWpxYzlFbmluN205UlM0YlZvNU1ZaWVwQ2huZUc4bHktR25lLU14SmJUV1hDQzV2T0lIQnl4M01qa0tTaDFJSEhWbG1leEd0MG9ocE5YY1QxaEh1WGZ4MUFPLThGTUJwQXd6QVM4SHVVR2dkR29LaG8wMjktaDg?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-09-30T11:38:34+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Guaíba tem nova cheia e deve subir mais com vazão do Jacuí Correio do Povo"
+    },
+    {
+      "id": "376a86b308d8",
+      "titulo": "Freeway é liberada após bloqueio para retirada de caminhão envolvido em acidente na alça da nova ponte do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNTM4M1BMNWdUdU0tX3luRXJjNW5CTE1OaFVnT2lDWXNWaVJLbFM0ZWNFa25hNlhYTl9ub0ZVMm5ndXUxbHZUMlpWQnRzbTk0dGJuamhOOGk2VGJmVmRmM3hsOWt5aXc5Tkh4YWlRd2RNYzVPbmJDTFpfZGZiTTFWWHB6Z01NSVNhUVFiRFV5Vk9jMzc3TXlTak9BNFlNYVFyb04xZjBQajVCdE94ZjY0UHhEY3VOa084d1BKX2Z5bWw4T3NVOUhlcmx5MDVoZ3JySHdnbElZS2dCXzZjM0trRU1DTlFxQl9UWkhmSmdvZU5zN2pISmkyUGN4ZXpuLWxQc1FMZndOQ1VaTWhkZF8wMmRLSnZ0WWxsUHdMT2UwRktHSFhLanI4?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-09-30T07:01:46+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Freeway é liberada após bloqueio para retirada de caminhão envolvido em acidente na alça da nova ponte do Guaíba GZH"
+    },
+    {
       "id": "dff0c08eec99",
       "titulo": "Miss Universe Rio Grande do Sul terá transmissão oficial pela RECORD Guaíba",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaUQ2YTVsTC1Nc3hmdzdMdHc1QTVwWDlVdGU0c2J0QkN1WlBHNTNVWjZka0VMZ1FobFY5VzdRVHN5U2JNcXRKazVSajFzQ25XTDdaU0pvYndLM1Fudm5kQmRXWWZObHNpXzNkOFA4TFpvUUpjeEhKdll4eHZzdUpUR3poT25nUjBYaFRMVDBYcWR6ckU1SEY5Sm9qTjVJWGtZR2RjdnM2Z1FEVFp3MTVwM0VISlRXRzM4blJjTzZOY3FyU2xxTHBR?oc=5",
@@ -154,33 +244,13 @@
     },
     {
       "id": "b0b10e330954",
-      "titulo": "elevação no Guaíba. Risco ALTO de inundação nas Ilhas de Porto Alegre",
+      "titulo": "Defesa Civil alerta: elevação no Guaíba. Risco ALTO de inundação nas Ilhas de Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUZwQXM4NjF1TkxYUzdxZzN6alNKTEJEYUd3TjJfRk1zTUUwWU43RHdNaGxXSENNZjVCT011RVEzU0t5eWF4eGpILXpxUFFaRDFTQl9EVlpqWFRCeHVMLURlY2dROXE1Z241RlhRaWZnX3pyTTNrZ2ZZaWpQN3lRUjlGSjhFTnZ1U0VGODFvQm04Tk5Ubm1DdFJjOXdVamx3aXhoV05Mc29VWTVNWDMzNTRLTDA0X2tESGprbzNKQQ?oc=5",
       "fonte": "Defesa Civil do Rio Grande do Sul",
       "publicado_em": "2026-09-30T01:46:18+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "elevação no Guaíba. Risco ALTO de inundação nas Ilhas de Porto Alegre Defesa Civil do Rio Grande do Sul"
-    },
-    {
-      "id": "a9b40bcccff1",
-      "titulo": "Emitido alerta para possível elevação do Guaíba nas Ilhas e áreas ribeirinhas Sul e Extremo Sul",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLV9ldXdlYTJZYmVjNnY3aWV1d3BDM0c0SWZENmwzNE0tMmh5RHltenJieGxVSXR5eExlU19aWGtLeWQ2azZHZ2ZlX1JpTjZDRHNMUUdyNnA1MWpTdkhMaTI3SldjRmdELVZtZTFDLUtRaWI2Q3Y4OTlsZFBnVVV3bTdURDNOQ1c3V3JraC10OHNsMGpJckRMZ3ExTXZ1a21Ccm1SS1Q2MnlOZzZRMHZYdFp0NDJGc2FjOWdpZUpyVXF5V2M3c0dabFhkS0x5ZGlMWm55VW5B?oc=5",
-      "fonte": "Porto Alegre 24 Horas",
-      "publicado_em": "2026-09-30T01:18:17+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Emitido alerta para possível elevação do Guaíba nas Ilhas e áreas ribeirinhas Sul e Extremo Sul Porto Alegre 24 Horas"
-    },
-    {
-      "id": "4a63831dcc1d",
-      "titulo": "Defesa Civil de Porto Alegre emite alerta de elevação do Guaíba nas Ilhas e áreas ribeirinhas do Sul e Extremo Sul",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPSkZ4b2JNbE1TZXFNVVhsS2JRcGx5R240cm1lOEhoZF9na2FKNTdRRm9IUWd2NDR5dXZqMUdFblVEbTZIRGhaZ3F0V1A4NFpCNXlZZC1GQ0xvSzd3eWtVVjYwRzBvajFwMEhMa0JKeV9MYXp4WktybXB3RFVyMW1uTER5VWNNNVl2RUV1OXRVUjg3M3gzeFBoeTVveU5sd01oTXlGcENUbTNlMTVYbThPSmVSbTR0dUEwMUVwVExsVDB5bXYyQzZwSGRnWXl2azNBaHJVMm55aHgtZGR0a0RQSzZMcDJlZkFlZE9ORFpIVHRQOUtWalVSRnpGejBnMU1sRzlfcUpES01sd2lYRnRDNTBnQkhYcGFZMW9pakt3eG01eXhoX0o0UXZwQkNpWXM?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-09-30T00:53:59+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Defesa Civil de Porto Alegre emite alerta de elevação do Guaíba nas Ilhas e áreas ribeirinhas do Sul e Extremo Sul GZH"
+      "resumo": "Defesa Civil alerta: elevação no Guaíba. Risco ALTO de inundação nas Ilhas de Porto Alegre Defesa Civil do Rio Grande do Sul"
     },
     {
       "id": "160a3b1da374",
@@ -193,14 +263,14 @@
       "resumo": "Freeway terá bloqueio parcial para retirada de caminhão que ficou preso em alça da nova ponte do Guaíba GZH"
     },
     {
-      "id": "fc17e5af3626",
+      "id": "d8a4268e0748",
       "titulo": "Defesa Civil alerta para risco de elevação do Guaíba, em Porto Alegre, e de outros quatro rios do RS",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUC0wZWk1T3pwRjRqUm91ZUZtSHlGdm0zUHo4endhSFh4R1RnQmh0akVNRW9nUG4tY1RzS2YtZDNBNk03b3FKN04wSTVzWGNQRkdCNEppN2twVEhKQWlFLXdvaXV1UzlmT1hXQ19ycmNyRUtBNy14TC1La3pjanJWZW9oQWxwQ1RZVG1ydVVVMGxyR2xxNDVxR05SbmtzQ0tNTTdwY3JfZm52aGR6UHgyVzlXdWVYZlJiWURhZ3RB?oc=5",
-      "fonte": "Rádio Guaíba",
-      "publicado_em": "2026-09-29T22:13:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUHB6ZG05Z19QQVRLLWZOdllVQV91ZENrTzV5U2tXVG5NRTkzOVlqbmpPdVRmY1hZLVNWNXpjZTdqWFhHTXNIblhJVWJESVVObFR6azFPc2FITXVXamtvUFBKNUhZcGtlUDVQREtPcHMyc2FubHhXVW9mZ0tKSnhPbmpPSXZqLWVxSW5sa1lLWG5XOHpTLTJIVzE5cTNmUDFQM1FrX1Y0Zm9pT0JLbWxZRS1MSWJkTjU3b3pmZVYwQ09XVHVNQ0NJY3NpQjZhbU5FUWZQdmJmWTV6ZjRTZWpfdG9GdjMwbjNZMUY1anVXS3JWS0JsZUE?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-09-29T22:07:56+00:00",
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Defesa Civil alerta para risco de elevação do Guaíba, em Porto Alegre, e de outros quatro rios do RS Rádio Guaíba"
+      "feed": "correio",
+      "resumo": "Defesa Civil alerta para risco de elevação do Guaíba, em Porto Alegre, e de outros quatro rios do RS Correio do Povo"
     },
     {
       "id": "b509d098b40d",
@@ -246,11 +316,11 @@
       "id": "00b2f129aca5",
       "titulo": "ERNANI CHACRINHA — Vereador 2008 em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FMTVpck5nVFpyQUZ5ZHRkMVFzZUM2M1p4bFJ4bDVLR0t0Sm9POUwtbjFwa1hYYkhNd05RQ0huaFFYXzJVRWc3bFhOQVVlMWhqbDZYVG5BWlBjRGcxMjRwLWk1ZTdjNnhVdV90S2JXMjBFTVF3YVFZVVh3QnM?oc=5",
-      "fonte": "CBN Amazônia",
+      "fonte": "cbnamazonia.com",
       "publicado_em": "2026-09-29T19:50:38+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "ERNANI CHACRINHA — Vereador 2008 em Guaíba CBN Amazônia"
+      "resumo": "ERNANI CHACRINHA — Vereador 2008 em Guaíba cbnamazonia.com"
     },
     {
       "id": "35b5c7d83b79",
@@ -276,11 +346,21 @@
       "id": "39686f88394e",
       "titulo": "Quinta edição do Limpe o Guaíba recolhe duas toneladas de resíduos",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaFFwZm1XWVppMWFuNi03WDZBU1J0d09xbjdNLVZkcmFTaXZGYmtCUXE0Z1FCQll1aWQ0djVXZGhRZ2gzNG5iTkc0SjdjcGNrVDNoZjVLdHJpdG1RcGFkV0ZndnA1bnlLQlpMbEM1TW4wR3VhaUVmdnlmeGNrZlhMT2xZeU9sQmY3bWhjNW1sVzloRUlKNVA1dHJTSk9Ddw?oc=5",
-      "fonte": "Rádio Pampa",
+      "fonte": "radiopampa.com.br",
       "publicado_em": "2026-09-28T19:33:39+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "Quinta edição do Limpe o Guaíba recolhe duas toneladas de resíduos Rádio Pampa"
+      "resumo": "Quinta edição do Limpe o Guaíba recolhe duas toneladas de resíduos radiopampa.com.br"
+    },
+    {
+      "id": "f845d7744d4b",
+      "titulo": "Quadro de Turismo, do Guaíba no Ar, visita Glorinha e conhece criação de búfalos",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbC1NY0VQbFN1NWVjQXlQb0tWaE10T1FYbzYtVkprdzljYlM1WHZzUGlCS3FzQXZZZE45MXVWYU0xTEJwWGMwZFJWbmxFbFgyc25WazV4STBqZ2I2N2ZBRWpHSkN0dnBsXzBkNmw0TTJueUN4cHBvM0x3UUhzSGVvdm85VGM4NGNTTHdTdHZSOXV6MW16a2M3WnBjRWlsRElEd0ZWeGJmVGhNazUyZWtPWlFRaW5BMDdwZWhOdFA0aXJpNzluOEh6OHNLTnR4MmZMU3B5SXI0NXo5Qzg?oc=5",
+      "fonte": "R7",
+      "publicado_em": "2026-09-28T18:20:35+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Quadro de Turismo, do Guaíba no Ar, visita Glorinha e conhece criação de búfalos R7"
     },
     {
       "id": "e55d067672ea",
@@ -291,109 +371,9 @@
       "categoria": null,
       "feed": "metro_recentes",
       "resumo": "Caminhão despenca da Ponte Nova do Guaíba, cai sobre a Freeway e deixa dois mortos em Porto Alegre Portal Dia Dia News"
-    },
-    {
-      "id": "8ba3788d3ea3",
-      "titulo": "Guaíba recebe mobilização que une natação, limpeza e educação ambiental no Lami | SEGS Portal Nacional de...",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObW5GSVduRjJSeG5VcXRram83ckdDNHVUbndRUzExZ0E2YW4xT1dhbVBIYS0zOGx2YV9xUnVMMm9nQ1BTY0x0TEtXTkdidTc2UjRtVF9KVGN2cVU2MkxZQ21ORUthMF92UEFyb1BHMEdyeGNBUUUwU2MtMnlndk5LR25oY3lYcF93VG5hWGF5RGlaNUt6WFVEd3hWQ1Yzb2tyX0x4X2M1cGJoWjZITXhYcE1KZDV0MWpBV0Q5S9IBvAFBVV95cUxObW5GSVduRjJSeG5VcXRram83ckdDNHVUbndRUzExZ0E2YW4xT1dhbVBIYS0zOGx2YV9xUnVMMm9nQ1BTY0x0TEtXTkdidTc2UjRtVF9KVGN2cVU2MkxZQ21ORUthMF92UEFyb1BHMEdyeGNBUUUwU2MtMnlndk5LR25oY3lYcF93VG5hWGF5RGlaNUt6WFVEd3hWQ1Yzb2tyX0x4X2M1cGJoWjZITXhYcE1KZDV0MWpBV0Q5Sw?oc=5",
-      "fonte": "SEGS Portal Nacional",
-      "publicado_em": "2026-09-28T16:52:01+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba recebe mobilização que une natação, limpeza e educação ambiental no Lami | SEGS Portal Nacional de... SEGS Portal Nacional"
-    },
-    {
-      "id": "d590ff4b3ec8",
-      "titulo": "Busca por vazamentos ocultos reforça combate às perdas de água em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOEw5SjVrSV8xOC1Xdks4dTFnU2phM1h3c1JMa1JYQ0Q4MHFaQjczcUxMYy1oVTZyRzhnRHhTTWt6a3ZrVVdNX1lBQm5KV2dIZXMwOVRFOW1Idm15VWk0TWxFOXJfVlVzOXd4dUxFV2tzUHNOeXljREM4d005djRKOGd6N1lPRUR2MEVrSEdwelNtNTk1MmtES3lJODBacjQw?oc=5",
-      "fonte": "CORSAN",
-      "publicado_em": "2026-09-28T14:42:27+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Busca por vazamentos ocultos reforça combate às perdas de água em Guaíba CORSAN"
-    },
-    {
-      "id": "0306d569018f",
-      "titulo": "Prefeitura de Guaíba decreta situação de emergência no município",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNERwYUl4ZzEwNVFTbTQ0cklmc1A0ZnZPQUlBaHU5eTJDNlpveU04T00tTGFuem1xUU95dGwxTDd4TThVQzlxVW1DNzktRW1yQ2FndUctTFVZcFkzQzFhcVRLdHJoRl82YUxOY1pvSDE1UmdmR0czZTZ3YTVsM09xUVRDenBVZm8xUkFZTnJB?oc=5",
-      "fonte": "expansao.co",
-      "publicado_em": "2026-09-28T13:24:43+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Prefeitura de Guaíba decreta situação de emergência no município expansao.co"
-    },
-    {
-      "id": "5f54c1b9e590",
-      "titulo": "Após abandono, obra da nova ponte do Guaíba é retomada",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdmpSYUluc2c5YWZzOUkySFpadks1ZHNtTGJCWnJSYnplQVlZX0NWc0E3eGU1eWR5VDRab2w5OHpsYUpzclhiR3dTWWhoVmdZYmhnQzlFc3JqbjdqMThzQ2FXWFNZNl8wZnNmSGxEU3g4R3kxc3BsNFRPUEVNN0lYMkRhbkVkQWt0U2Y4RGtPN2NRWXY4cFZkZEI2U1RVT1ZBWFdYTTdFZUtuTmtwd21XTVo1VGFjZl9hbTJDTGpaSEJha1ExZ29tZzNpVFd4S2V6LU1TOGQyN3dWaFRBRkdfRUd0N3NDSUlLdlQ3WXk2dw?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-09-28T13:12:31+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Após abandono, obra da nova ponte do Guaíba é retomada GZH"
-    },
-    {
-      "id": "ec9d105a5e31",
-      "titulo": "Círculo Saúde inaugura Hospital de Guaíba e amplia atuação na região",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2xma0oycWx6c2MwVFRvV2dFU0pfWkk1RUktVlpjd29nYmR3TEVNYTdjVVJIQnRnbVRPNHQtYzhEVEczVUpuTFRnaUFQazRzVUZIc2NGQk85OEZES0kwTmdKS2otQ2tDNERNakhFeWgtTXoxWTlBNzl6UnVPMzJpNG5TNHgtZHota2lnUEI3UV8xZTJmOGMweW1IcGpoOEIycVE?oc=5",
-      "fonte": "Radio Caxias FM",
-      "publicado_em": "2026-09-28T12:55:11+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Círculo Saúde inaugura Hospital de Guaíba e amplia atuação na região Radio Caxias FM"
-    },
-    {
-      "id": "ddeec6c63640",
-      "titulo": "✉️ O que a ciência aponta sobre o desassoreamento do Guaíba, agricultura familiar gaúcha se adapta aos extremos do clima e outras notícias desta segunda-feira",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdHpmWExIRUVKVTljS1FtM2F0TXZEYURIM3I2UFVrMHZTZ29KdWZmbDhXZ1NSOFBxaHJTbC10ak51UkFDU0RqMkpaNnE1bHhtZ2ZxNC1BMzFzaEdTbHp4NTUya2RyT0tmNnB0ZExkbENXWTNFVW51S1FRMVVlY2hkSDd1Nm1rMWJMUzFQaXpUeER6QjdYVlV0U3htajhycGJ6a3FFM0RMbktkVWdrRzh5MFk0T3R2N0tpYmRYOUlEMjhRX2Y4elJQcUVCVjJOWjVocmFWbU5JZ2xnSHVUN094RlNWdUxQTHM1RHBZSElvSi0yOWdnRk5iTlVRZ1BZNjN1THFlYXM3WlFhZ1E?oc=5",
-      "fonte": "Matinal",
-      "publicado_em": "2026-09-28T11:52:06+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "✉️ O que a ciência aponta sobre o desassoreamento do Guaíba, agricultura familiar gaúcha se adapta aos extremos do clima e outras notícias desta segunda-feira Matinal"
-    },
-    {
-      "id": "e0ebc5ad7e42",
-      "titulo": "Desassorear o Guaíba é solução para prevenir novas enchentes?",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTVZbjc5dWRDbS03RUNzazlMNF83VmlraW9FVmhaZ1l2SDZrUFM4T1cxaUpyVlVMLW5zaTRWdFRoY0RnY2gtbldDVE44WDdjQ2RWeWUtaWFXTEhfM1pQU25NSUpacHNMU0NfX1JVQ1hwODI0ajFWa1Z1UWRJVGFRZkVzSVFSLWtjR3Q5bDc5R2VqWWtlSW5FRTgyVTM?oc=5",
-      "fonte": "Matinal",
-      "publicado_em": "2026-09-28T09:01:26+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Desassorear o Guaíba é solução para prevenir novas enchentes? Matinal"
-    },
-    {
-      "id": "e9212e4ace8e",
-      "titulo": "Círculo Saúde inaugura hospital de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZcVo2TU1GVDk0VTlyNmc1cURUVTBhZC1NNWlTWjhrcmpqMlhJanVTa3N6ako2TFRXc0VvbEZfSVYwbDI0VlFRQlpzLUNKQ0FpQldDSzBjUWlFaW1CVzFlZ2d1Ry04eFdrMk9OYlFVdGtIMzNFVVJkbVpvMA?oc=5",
-      "fonte": "Grupo AMANHÃ",
-      "publicado_em": "2026-09-28T08:05:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Círculo Saúde inaugura hospital de Guaíba Grupo AMANHÃ"
     }
   ],
   "noticias_home": [
-    {
-      "id": "0c103e9d857b",
-      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
-      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-30T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
-    },
-    {
-      "id": "ad11fea47e8c",
-      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-30T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
-    },
     {
       "id": "20ea4fe0d8af",
       "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
@@ -414,14 +394,24 @@
       "feed": "reporter_direto"
     },
     {
-      "id": "04f08750afc3",
-      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
-      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
+      "id": "ad11fea47e8c",
+      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-09-30T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
+      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
+    },
+    {
+      "id": "0c103e9d857b",
+      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
+      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-30T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
     },
     {
       "id": "b06d127f4e0e",
@@ -444,14 +434,24 @@
       "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
     },
     {
-      "id": "dff0c08eec99",
-      "titulo": "Miss Universe Rio Grande do Sul terá transmissão oficial pela RECORD Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaUQ2YTVsTC1Nc3hmdzdMdHc1QTVwWDlVdGU0c2J0QkN1WlBHNTNVWjZka0VMZ1FobFY5VzdRVHN5U2JNcXRKazVSajFzQ25XTDdaU0pvYndLM1Fudm5kQmRXWWZObHNpXzNkOFA4TFpvUUpjeEhKdll4eHZzdUpUR3poT25nUjBYaFRMVDBYcWR6ckU1SEY5Sm9qTjVJWGtZR2RjdnM2Z1FEVFp3MTVwM0VISlRXRzM4blJjTzZOY3FyU2xxTHBR?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-09-30T05:00:01+00:00",
+      "id": "04f08750afc3",
+      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
+      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Miss Universe Rio Grande do Sul terá transmissão oficial pela RECORD Guaíba R7"
+      "feed": "reporter_direto",
+      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
+    },
+    {
+      "id": "986add96f059",
+      "titulo": "Defesa Civil emite alerta sobre elevação do Guaíba e monitora quatro rios acima da cota de inundação no RS",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/30/elevacao-do-guaiba-e-rios-acima-da-cota-de-inundacao-no-rs.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-09-30T11:07:59+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Saiba o que fazer em caso de tempo extremo de acordo com a Defesa Civil A Defesa Civil de Porto Alegre emitiu um alerta, válido das 9h desta quarta-feira (30) até as 12h de domingo (4), para o risco de elevação do nível do Guaíba. Ele poderá atingir a cota de inundação no bairro Arquipélago e áreas…"
     }
   ]
 }

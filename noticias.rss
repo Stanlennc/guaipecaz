@@ -5,20 +5,6 @@
 <description>Notícias de Guaíba e da Região Metropolitana de Porto Alegre</description>
 <language>pt-BR</language>
 <item>
-<title>Sicredi reinaugura agência em Guaíba com mais de 9 mil associados</title>
-<link>https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados</link>
-<guid>0c103e9d857b</guid>
-<pubDate>2026-09-30T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba</title>
-<link>https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba</link>
-<guid>ad11fea47e8c</guid>
-<pubDate>2026-09-30T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo</title>
 <link>https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo</link>
 <guid>20ea4fe0d8af</guid>
@@ -33,9 +19,17 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
-<title>Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação</title>
-<link>https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao</link>
-<guid>04f08750afc3</guid>
+<title>Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba</title>
+<link>https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba</link>
+<guid>ad11fea47e8c</guid>
+<pubDate>2026-09-30T00:00:00+00:00</pubDate>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Sicredi reinaugura agência em Guaíba com mais de 9 mil associados</title>
+<link>https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados</link>
+<guid>0c103e9d857b</guid>
+<pubDate>2026-09-30T00:00:00+00:00</pubDate>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -51,6 +45,75 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
+<title>Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação</title>
+<link>https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao</link>
+<guid>04f08750afc3</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Defesa Civil emite alerta sobre elevação do Guaíba e monitora quatro rios acima da cota de inundação no RS</title>
+<link>https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/30/elevacao-do-guaiba-e-rios-acima-da-cota-de-inundacao-no-rs.ghtml</link>
+<guid>986add96f059</guid>
+<pubDate>2026-09-30T11:07:59+00:00</pubDate>
+<source>G1 RS</source>
+</item>
+<item>
+<title>Defesa Civil de Porto Alegre emite alerta para possível elevação do Guaíba nas ilhas e nas áreas ribeirinhas</title>
+<link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVXhqUzRMcWxlRHQ3RzdMVjNaLTh1R0VqamlTRG9KYmQxcGZkTEwzM3kxY1JRcGRKVGpIdkliY3JHRnRWbUdvVjZKNzJHYTJodVJHVlE5ZldrLWFMYnRlaUFmRHp4TTI5SmhrU2xtYXRiSnJ2WkVEVS1Gems5LUtSczA5amJHZVNMZUhuOVRnUjdZRWRvTzZkRThhVXJFZEFPaFUxYU5sd0ZkUzNMUlBZMWREbC1hbWpGQXBDaXlGS0xVMjVaNzZVWXN4NTBtWHpzQk9MWjZB?oc=5</link>
+<guid>e7a1cc5d3144</guid>
+<pubDate>2026-09-30T14:33:42+00:00</pubDate>
+<source>radiopampa.com.br</source>
+</item>
+<item>
+<title>Quatro rios superam cota de inundação no RS e Defesa Civil alerta para elevação do Guaíba</title>
+<link>https://news.google.com/rss/articles/CBMizgFBVV95cUxNQjVnX2sxMUdsd0lYNThaS3M1NWtjbXNBWVZVWEVuVm9rSHQxVm5vVmxwZzRlV2xsUDdwc3N3WENXVlVXM2ZzdnloZVQxNVJjZnR2ekhiZFNLZEljajBKemtPcGlQRGtfTEZDdVNTTU1UWE9VLW8wTzhaOWRGU3lyTGpqUTEwV3d1a2NaNWU3cThxVGN3TzhHTW0yZXlXdURHNEVXclZ6MlhfdEltcHI0RmtaZzFoc1A2aFJRWHltQUhMNUlULUxKSDdWeld3dw?oc=5</link>
+<guid>b0ffedb702f5</guid>
+<pubDate>2026-09-30T14:07:00+00:00</pubDate>
+<source>Brasil de Fato</source>
+</item>
+<item>
+<title>Defesa Civil de Porto Alegre emite alerta de elevação do Guaíba nas Ilhas e áreas ribeirinhas do Sul e Extremo Sul</title>
+<link>https://news.google.com/rss/articles/CBMisAJBVV95cUxPQUxvVjJsaFdpWUotQzZXN2hMUVN1MUo1c3lJOUhwWFdGTHZiWFN4SjRFUm5DRDk2Q2F5eWtZeTdOY29YcmpvdnV1ODN0elc0SDMxYVRWdmRQZFljTDZ1MjF6WmczU04tSlN4UjVvaGhnT3ppMkRLN0JIdUtEVVY3dzluZ3MxSTAtckw0V09rSmNyRFpKQXZPTVhWaHp1TWtsTGd4UFlEQm50MF9NUDdkNl9zVzdCYlNiSHZBYzdqY1pKRFdNUV84ekZHRUVZd1FUMnVrZkw5clQ1cXhFS1FzR0UtOUpqMHpLSzVJZGluS1FiVWhrVmVHUV9wSFhtRFI3czJCX0Q0NTVWU0Z1UFFVUDA5V1NKcXR2X00yMzlxLXZJd1VBaTExVl9JbHJ6Qi1x?oc=5</link>
+<guid>1b41274d82a7</guid>
+<pubDate>2026-09-30T13:06:22+00:00</pubDate>
+<source>Diário Gaúcho</source>
+</item>
+<item>
+<title>Guaíba entra em nova cheia e deve subir mais com grande vazão do Jacuí</title>
+<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNYl9fUV9sdkZwWVQ1Zmw5c083NkdnSlB2YzZKdXp6M3cwTHM1RWZkbDhLd0hMZC00aGJRZkZVLTROdDRmc1ZEMzVYSERFZ1FJd3lmQndpVjZrSG1BeU5lendGUWJoZlRyWlczYWpmRmZ3NUJJTE9PNjFCOEhjQUxRd0FPa2N3ZGVOUHJTWTlwVlYzRmtlaWhVcGJwQ1NlcXU3REdySERhTkM1U2tRR1JmMXlsTHZvdnVtd0dnQw?oc=5</link>
+<guid>7277fd7364aa</guid>
+<pubDate>2026-09-30T12:45:00+00:00</pubDate>
+<source>abcmais.com</source>
+</item>
+<item>
+<title>Com Guaíba sob alerta, quatro rios do RS seguem acima da cota de inundação</title>
+<link>https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVkRwd2M1WXUwYUNuLUZuaktudTJ0aEE1b1Eyd1pFT291TGRtc284TkpUQURKbnEzbzVCVW1oU3UyTXFMd0NfeDR5TlNxRmFNLVNfcS0wLWlfVlBWQ0lDczZfQ3BSRlNORFF6N2xBUWc4SGlsZ2FNVWVpMEZhaE8zdUt5OGxod2pybXFQRHpHT0I4Qm5vekFoNlpsN3Q5UnFNcGZKZmNLb3lSZE5paXJCM0s5eTlmVFlBdUc1TXU1R3lteXoxQmU4cXVnU20tc09QaHN3ZmNVeVREbm9ia3BBQnFvUmEzSFV1UVZtMUFYWQ?oc=5</link>
+<guid>1d19abca37f4</guid>
+<pubDate>2026-09-30T12:24:12+00:00</pubDate>
+<source>GZH</source>
+</item>
+<item>
+<title>Defesa Civil alerta: elevação do lago Guaíba. Risco ALTO de inundação em Eldorado do Sul</title>
+<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNLW9hZXQzRlplQnFZcXJZcFk4c3FiblpSWUROc3pLTk1DbWNPRVlFUjgtY3d6Qkc5VUhCN2R1cDFDSnF4V2lrTURZYjlxejdZR0ZVRnQ1RUNwX2lYN1hYdmdkWloyVUdhZVQ2WDhjZFVGRjJCM0ZLZk5uMV9LaXpNMHdaNHl1TGM1dTlVYTlScF9PUFZGYUNsMUdrZXVHaVJoTHRpRGVwRUx2RllUZjVTdXVPVHV6b2VqUU5hZQ?oc=5</link>
+<guid>37ea145ec70b</guid>
+<pubDate>2026-09-30T11:51:03+00:00</pubDate>
+<source>Defesa Civil do Rio Grande do Sul</source>
+</item>
+<item>
+<title>Guaíba tem nova cheia e deve subir mais com vazão do Jacuí</title>
+<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeXhnZ1hHSFgzeDVhNjl6YjhOWWx6bUhBRlZCVmtDQ1p2Zk8yX25mMEI0UVpqTFg4SklXU1YyUElUYUJfcWZfLTdleWpxYzlFbmluN205UlM0YlZvNU1ZaWVwQ2huZUc4bHktR25lLU14SmJUV1hDQzV2T0lIQnl4M01qa0tTaDFJSEhWbG1leEd0MG9ocE5YY1QxaEh1WGZ4MUFPLThGTUJwQXd6QVM4SHVVR2dkR29LaG8wMjktaDg?oc=5</link>
+<guid>3b1e19ecfb9b</guid>
+<pubDate>2026-09-30T11:38:34+00:00</pubDate>
+<source>Correio do Povo</source>
+</item>
+<item>
+<title>Freeway é liberada após bloqueio para retirada de caminhão envolvido em acidente na alça da nova ponte do Guaíba</title>
+<link>https://news.google.com/rss/articles/CBMipwJBVV95cUxQNTM4M1BMNWdUdU0tX3luRXJjNW5CTE1OaFVnT2lDWXNWaVJLbFM0ZWNFa25hNlhYTl9ub0ZVMm5ndXUxbHZUMlpWQnRzbTk0dGJuamhOOGk2VGJmVmRmM3hsOWt5aXc5Tkh4YWlRd2RNYzVPbmJDTFpfZGZiTTFWWHB6Z01NSVNhUVFiRFV5Vk9jMzc3TXlTak9BNFlNYVFyb04xZjBQajVCdE94ZjY0UHhEY3VOa084d1BKX2Z5bWw4T3NVOUhlcmx5MDVoZ3JySHdnbElZS2dCXzZjM0trRU1DTlFxQl9UWkhmSmdvZU5zN2pISmkyUGN4ZXpuLWxQc1FMZndOQ1VaTWhkZF8wMmRLSnZ0WWxsUHdMT2UwRktHSFhLanI4?oc=5</link>
+<guid>376a86b308d8</guid>
+<pubDate>2026-09-30T07:01:46+00:00</pubDate>
+<source>GZH</source>
+</item>
+<item>
 <title>Miss Universe Rio Grande do Sul terá transmissão oficial pela RECORD Guaíba</title>
 <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxOaUQ2YTVsTC1Nc3hmdzdMdHc1QTVwWDlVdGU0c2J0QkN1WlBHNTNVWjZka0VMZ1FobFY5VzdRVHN5U2JNcXRKazVSajFzQ25XTDdaU0pvYndLM1Fudm5kQmRXWWZObHNpXzNkOFA4TFpvUUpjeEhKdll4eHZzdUpUR3poT25nUjBYaFRMVDBYcWR6ckU1SEY5Sm9qTjVJWGtZR2RjdnM2Z1FEVFp3MTVwM0VISlRXRzM4blJjTzZOY3FyU2xxTHBR?oc=5</link>
 <guid>dff0c08eec99</guid>
@@ -58,25 +121,11 @@
 <source>R7</source>
 </item>
 <item>
-<title>elevação no Guaíba. Risco ALTO de inundação nas Ilhas de Porto Alegre</title>
+<title>Defesa Civil alerta: elevação no Guaíba. Risco ALTO de inundação nas Ilhas de Porto Alegre</title>
 <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUZwQXM4NjF1TkxYUzdxZzN6alNKTEJEYUd3TjJfRk1zTUUwWU43RHdNaGxXSENNZjVCT011RVEzU0t5eWF4eGpILXpxUFFaRDFTQl9EVlpqWFRCeHVMLURlY2dROXE1Z241RlhRaWZnX3pyTTNrZ2ZZaWpQN3lRUjlGSjhFTnZ1U0VGODFvQm04Tk5Ubm1DdFJjOXdVamx3aXhoV05Mc29VWTVNWDMzNTRLTDA0X2tESGprbzNKQQ?oc=5</link>
 <guid>b0b10e330954</guid>
 <pubDate>2026-09-30T01:46:18+00:00</pubDate>
 <source>Defesa Civil do Rio Grande do Sul</source>
-</item>
-<item>
-<title>Emitido alerta para possível elevação do Guaíba nas Ilhas e áreas ribeirinhas Sul e Extremo Sul</title>
-<link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLV9ldXdlYTJZYmVjNnY3aWV1d3BDM0c0SWZENmwzNE0tMmh5RHltenJieGxVSXR5eExlU19aWGtLeWQ2azZHZ2ZlX1JpTjZDRHNMUUdyNnA1MWpTdkhMaTI3SldjRmdELVZtZTFDLUtRaWI2Q3Y4OTlsZFBnVVV3bTdURDNOQ1c3V3JraC10OHNsMGpJckRMZ3ExTXZ1a21Ccm1SS1Q2MnlOZzZRMHZYdFp0NDJGc2FjOWdpZUpyVXF5V2M3c0dabFhkS0x5ZGlMWm55VW5B?oc=5</link>
-<guid>a9b40bcccff1</guid>
-<pubDate>2026-09-30T01:18:17+00:00</pubDate>
-<source>Porto Alegre 24 Horas</source>
-</item>
-<item>
-<title>Defesa Civil de Porto Alegre emite alerta de elevação do Guaíba nas Ilhas e áreas ribeirinhas do Sul e Extremo Sul</title>
-<link>https://news.google.com/rss/articles/CBMirwJBVV95cUxPSkZ4b2JNbE1TZXFNVVhsS2JRcGx5R240cm1lOEhoZF9na2FKNTdRRm9IUWd2NDR5dXZqMUdFblVEbTZIRGhaZ3F0V1A4NFpCNXlZZC1GQ0xvSzd3eWtVVjYwRzBvajFwMEhMa0JKeV9MYXp4WktybXB3RFVyMW1uTER5VWNNNVl2RUV1OXRVUjg3M3gzeFBoeTVveU5sd01oTXlGcENUbTNlMTVYbThPSmVSbTR0dUEwMUVwVExsVDB5bXYyQzZwSGRnWXl2azNBaHJVMm55aHgtZGR0a0RQSzZMcDJlZkFlZE9ORFpIVHRQOUtWalVSRnpGejBnMU1sRzlfcUpES01sd2lYRnRDNTBnQkhYcGFZMW9pakt3eG01eXhoX0o0UXZwQkNpWXM?oc=5</link>
-<guid>4a63831dcc1d</guid>
-<pubDate>2026-09-30T00:53:59+00:00</pubDate>
-<source>GZH</source>
 </item>
 <item>
 <title>Freeway terá bloqueio parcial para retirada de caminhão que ficou preso em alça da nova ponte do Guaíba</title>
@@ -87,58 +136,9 @@
 </item>
 <item>
 <title>Defesa Civil alerta para risco de elevação do Guaíba, em Porto Alegre, e de outros quatro rios do RS</title>
-<link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOUC0wZWk1T3pwRjRqUm91ZUZtSHlGdm0zUHo4endhSFh4R1RnQmh0akVNRW9nUG4tY1RzS2YtZDNBNk03b3FKN04wSTVzWGNQRkdCNEppN2twVEhKQWlFLXdvaXV1UzlmT1hXQ19ycmNyRUtBNy14TC1La3pjanJWZW9oQWxwQ1RZVG1ydVVVMGxyR2xxNDVxR05SbmtzQ0tNTTdwY3JfZm52aGR6UHgyVzlXdWVYZlJiWURhZ3RB?oc=5</link>
-<guid>fc17e5af3626</guid>
-<pubDate>2026-09-29T22:13:00+00:00</pubDate>
-<source>Rádio Guaíba</source>
-</item>
-<item>
-<title>Novo Centro de Operações da Brigada Militar é inaugurado em Guaíba para atender 22 municípios</title>
-<link>https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdy03RU1CQ0wxS1NoRDU0aUNPSlRBaFZnMVFsTHdlY3llendGTlQyMEQ0NGlPMk8yVTNiYkJ0NV9uRUR3RDg4YkNvZmlHSFdOanFpYWhmZzNCeUtOS042MHBJa1E2QjdBbnh6eEJMaHNHZGRyOEdLQ2luZXZLUm5ZbTVLeE4zWjdHLXZXZUgydS10T1hnZlJSRzlJUEpKZ29OWURIZy1fRHFsNEFMUFF6MWdqY1pOY1hReDdvNGdkOWFOWk42Q3A0eUJYQWVuM1pMaDBvd2NvRmZQellhU3drMDlBN1FMaWdXVXZScHdJSmJWQkh5S3c?oc=5</link>
-<guid>b509d098b40d</guid>
-<pubDate>2026-09-29T21:57:57+00:00</pubDate>
+<link>https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUHB6ZG05Z19QQVRLLWZOdllVQV91ZENrTzV5U2tXVG5NRTkzOVlqbmpPdVRmY1hZLVNWNXpjZTdqWFhHTXNIblhJVWJESVVObFR6azFPc2FITXVXamtvUFBKNUhZcGtlUDVQREtPcHMyc2FubHhXVW9mZ0tKSnhPbmpPSXZqLWVxSW5sa1lLWG5XOHpTLTJIVzE5cTNmUDFQM1FrX1Y0Zm9pT0JLbWxZRS1MSWJkTjU3b3pmZVYwQ09XVHVNQ0NJY3NpQjZhbU5FUWZQdmJmWTV6ZjRTZWpfdG9GdjMwbjNZMUY1anVXS3JWS0JsZUE?oc=5</link>
+<guid>d8a4268e0748</guid>
+<pubDate>2026-09-29T22:07:56+00:00</pubDate>
 <source>Correio do Povo</source>
-</item>
-<item>
-<title>Duas pessoas morrem atropeladas por carretas em Guaíba e Barra do Ribeiro, em intervalo de duas horas</title>
-<link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNFRZcGowY3pxTkdUTU0xR2x0Wml3eGVJME5kM19mczhKb2FzRWlSWXRjVlBTVG03MzZmX2tUT3hBSXltUmpKNDl5clZYS0dCV01ybkVnZzRqY29vT3FnM2VBR2tad21uTUFjV3pvMzdhTjVzSFMybzBJVUNHZjhwaDYxM3JLbWdJVllWN05JYkpTdktYOGIyVExkbDFlWFdHWW5wNC1pRDczeG96dnJwQU5YNGlHMlk0bkJTbG1aVFJDMWtISmRZMDlKNXdDTmZaQlVwT1dxazg4N1ktSnIxcnNGQ19OXzlseEhGag?oc=5</link>
-<guid>a2d5d3bd794b</guid>
-<pubDate>2026-09-29T21:55:39+00:00</pubDate>
-<source>Portal de Camaquã</source>
-</item>
-<item>
-<title>Defesa Civil emite alerta para possível elevação do Guaíba na região das Ilhas e Sul de Porto Alegre</title>
-<link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSnZqTlZxQ0tOWmRySms2Tk0tZ1phMzdyY3MxNmVFLUhHXzRWRGxfWmhNbDBPYnA2VVg0RkFMQVQ1djVmQ25acmp0NlJZVkxKbEZIMFdXUEdIRjVHd0xCQjRpNW9RYjlFdDdvNlpIaUxyemczOG1CZXF4M3VPZGZDRGxpMGxxZ2VMVXZLR1dOSDBzcXFqWVNMYkNmQ1FNbUJrYVFPR3lhdnhUZXpyNjc4Rkp1SGUwU3c2NjlseFdLclJDMmtneE5JbHp0aDZQQzN4b0Y4UWZjMW9uOEU2Wk84UU1fV3lfQjZpTFdycFZ3RUl2QQ?oc=5</link>
-<guid>143a91433530</guid>
-<pubDate>2026-09-29T20:26:56+00:00</pubDate>
-<source>Jornal do Comércio</source>
-</item>
-<item>
-<title>Porto Alegre é reconhecida como "Cidade da Natação em Águas Abertas", mas qualidade do Guaíba ainda limita prática</title>
-<link>https://news.google.com/rss/articles/CBMigAJBVV95cUxNWEE1aU9hak5NbGJsZDZXZ01OWFdabk1ENndrVFhURmdOc3BuYU5PcFhSMTlzQzdCRHRIYTJ4OUhkRnRlV3RrczJHNDNCdXUxQk04QmRwQlg2TmN0TzZwOUU2SXpxaXEwNkY4bE1GcFhFNHNmZ0lEWE5kMmgxUzJMMzdoZ0pHaEFTcTFuUGswT1VaTnEtakpPMVJyTkk4MTlkWW5Xazd5WUZrQzFoMzBiYzZWdzFnRnNiX0NtR01vQ3dHNUs5ZkJIV2h6akRuRFVJZ2JGMERLMExzLW10ckxvOGNFa3ZqY2xqSnYxMVB1R19PQVlELVl4Xy00YVB3b0RB?oc=5</link>
-<guid>de829b82cc8b</guid>
-<pubDate>2026-09-29T20:16:56+00:00</pubDate>
-<source>Jornal do Comércio</source>
-</item>
-<item>
-<title>ERNANI CHACRINHA — Vereador 2008 em Guaíba</title>
-<link>https://news.google.com/rss/articles/CBMifEFVX3lxTE5FMTVpck5nVFpyQUZ5ZHRkMVFzZUM2M1p4bFJ4bDVLR0t0Sm9POUwtbjFwa1hYYkhNd05RQ0huaFFYXzJVRWc3bFhOQVVlMWhqbDZYVG5BWlBjRGcxMjRwLWk1ZTdjNnhVdV90S2JXMjBFTVF3YVFZVVh3QnM?oc=5</link>
-<guid>00b2f129aca5</guid>
-<pubDate>2026-09-29T19:50:38+00:00</pubDate>
-<source>CBN Amazônia</source>
-</item>
-<item>
-<title>Confira as regras do Debate Correio do Povo, Rádio Guaíba e Amrigs ao Senado Federal</title>
-<link>https://news.google.com/rss/articles/CBMigwJBVV95cUxObzZyejJuNzQ5N3FDNlNxQ3dzYUNIWUVSUThpaFFaVlpxaTdHcW05SkFTZmVlN2RVeFBTdmM0eGoxaVpnMG1qaUliT0N0RjVxMHVIOTllSTE3TW5NeExqREs3Y2x0NkJ5bU95Yy1BY3MxRnQ0TDM3R1pJQ2NtV0NRVE1xTElCQVJQYXl1ZVR6ZU0tWnN1MnBLUDhJZFh3UFh0VG5CcWhWX25HR3pPaV9zZE5qTkdHVzVLU2lNX3ZadmFTRnc5Ynh1S0dIUkZDZGowQmdFSF9CVEJYLVBrYjVBZW5yTFM2WDdjNEdnV295RTJHSmdxYVR2OXhfN0NkWHBUNTlN?oc=5</link>
-<guid>35b5c7d83b79</guid>
-<pubDate>2026-09-29T10:28:07+00:00</pubDate>
-<source>Correio do Povo</source>
-</item>
-<item>
-<title>Guaíba recebe mobilização que une natação, limpeza e educação ambiental no Lami</title>
-<link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQeUxvRkpsbXEzcG1YSnQwbC1LZG1fakRVaGYtU2FjcGVaelkxY2x1ZmhvQUYxVzR3MFZ2SGVnTnJrZDBCbHplY19hQ3dsY2dwY0hzaW1RWXplVWJoM1I1OFg0bXYyMDVTTG95MmtGWGF2WnFSeWVpR0pJUGRhOThmQ0tDT25VTUFsOXpnZS0yQS1kbUFUSTMyOWtfa0VScjNadFA1NzBSNVJkU0JEZ21jdGNIWmEyb0lKb0wwY1N4blFjWGVSaG1n?oc=5</link>
-<guid>e942b7dae6fa</guid>
-<pubDate>2026-09-29T03:40:55+00:00</pubDate>
-<source>Jornal da Capital</source>
 </item>
 </channel></rss>
