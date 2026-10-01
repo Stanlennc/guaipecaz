@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-01T01:04:17.352173+00:00",
+  "gerado_em": "2026-10-01T08:19:39.709909+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,85 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "20ea4fe0d8af",
-      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-30T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "169 consumidores permanecem sem energia."
-    },
-    {
-      "id": "ad11fea47e8c",
-      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-30T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
-    },
-    {
-      "id": "2be8f99a228a",
-      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-30T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
-    },
-    {
-      "id": "ac4e71bc4bdd",
-      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
-      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-30T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
-    },
-    {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-30T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
-      "id": "0c103e9d857b",
-      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
-      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-30T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
-    },
-    {
-      "id": "04f08750afc3",
-      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
-      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
-    },
-    {
-      "id": "b06d127f4e0e",
-      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
-    },
-    {
       "id": "986add96f059",
       "titulo": "Defesa Civil emite alerta sobre elevação do Guaíba e monitora quatro rios acima da cota de inundação no RS",
       "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/30/elevacao-do-guaiba-e-rios-acima-da-cota-de-inundacao-no-rs.ghtml",
@@ -169,7 +90,7 @@
       "fonte": "grupo sepé",
       "publicado_em": "2026-10-01T00:50:00+00:00",
       "categoria": null,
-      "feed": "google",
+      "feed": "recentes",
       "resumo": "Defesa Civil alerta para elevação do Guaíba e monitora quatro rios no RS grupo sepé"
     },
     {
@@ -177,10 +98,30 @@
       "titulo": "De olho na régua do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEpxUktfdWpkMzlHdUdOa3VSMmhBNExMWFdQLTV6N0tEYVVPTDdMTURva29sLXVYWHgxQ1NieVpfVV9NbGdEdkpLNDdqWTdUczloNHdWWGs4WlNqQ2ZueUVGY0hpYlM3THNYVnFKZTdLSlQwM1hiVFo0cEZjQ0NIUzNJTEczR09ZX1hxN3FVZ3JjWUxGeDFubTg4ei16WlAwYUZYTi1jZjRJQ1k?oc=5",
       "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-09-30T22:18:45+00:00",
+      "publicado_em": "2026-09-30T22:21:58+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "De olho na régua do Guaíba Jornal do Comércio"
+    },
+    {
+      "id": "28c4a088e374",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVktrN3VUXzNFNlAzTDFJb0swb05BVEllX1RHZ2x0aXp6TmsycmQ1RFg4SnNnZTM1QXVMTjdKMDJwZVhVV0U0a2Rmc0J5aDZUTElSaFFFRHlLSnc2QTgxZEdxdlhDa2pueUwwRTd5SEkxWVB0Q0w5Z20zVzRQSURCMl8taDBLNXNoSTNWYTNCOUFPMm5wcGVueHo4OUdXMTA0ZWZLdG1qM2JqcXBfQWxvWnVqc21fbEJxU0VTRW5UU3pFeVFKQkpoNjBEM2hxQm5zeVctQU9zZml2X1lp?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-30T21:57:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos Repórter Guaibense"
+    },
+    {
+      "id": "48ccc658431c",
+      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd0E3WTVxbmlxSVdRakVURFRxTkt2blFwWk5MbVlJZkpMWFJIcGVCM1c1dkZFMktJUWpDQjZRdUhTYjlZWlZpZDhOZkk5bHloZnVxeGNjMEhXWks0N3h1LXBGbnNfZndCb2tZR0Y4cXQzclVuOHc4cUNGZkpHQ0p4U1BoMkNONFpaMDVERVNoMTFacVFtLTFod0dPdVZVcGxKUEw3TlV6d2llNVVhaTBHN0N2dDZPOGhpcjhyMEIyUG9nOUIwd0dEbQ?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-09-30T21:32:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba Repórter Guaibense"
     },
     {
       "id": "3724d072cd77",
@@ -196,11 +137,11 @@
       "id": "e32d3bab373f",
       "titulo": "Defesa Civil emite alerta para possível elevação do Guaíba nas Ilhas e em áreas ribeirinhas de Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOXMtVmFmT3ZaQW9fVzJONnYwVFJYMWhZcmdJajVzc0JnejNkWnp3WWxVZTAxTnhrSlV1eWZOQTROOFk1cWV0QXBYNWlBbEtXMnJCN0dQQ1ZRT0VjVDRjcjFnSWpHVzBROVEzSVV0MjJpNjhGOVQycmpCQkpkdVk4SDlHZFY4RW5vMU5MQlM0czNlb3hHV2NxX2txMVNzd3lDQ1lBTmtCYlJ5MW82eFBObnRPOHppOFFJcmpiM1kwOHdkbEV3WVV2ZHNZWmdFNkZZQWI0a0dFQ2VGREYxY3M5RXdlckxJX00?oc=5",
-      "fonte": "Sul 21",
+      "fonte": "sul21.com.br",
       "publicado_em": "2026-09-30T18:18:00+00:00",
       "categoria": null,
       "feed": "metro_poars",
-      "resumo": "Defesa Civil emite alerta para possível elevação do Guaíba nas Ilhas e em áreas ribeirinhas de Porto Alegre Sul 21"
+      "resumo": "Defesa Civil emite alerta para possível elevação do Guaíba nas Ilhas e em áreas ribeirinhas de Porto Alegre sul21.com.br"
     },
     {
       "id": "843849f82a7c",
@@ -283,16 +224,6 @@
       "resumo": "Defesa Civil estadual alerta para risco muito alto de inundação do Guaíba nas Ilhas de Porto Alegre Correio do Povo"
     },
     {
-      "id": "65620e704f87",
-      "titulo": "Pescador segue desaparecido no Guaíba após 15 dias de buscas",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMVhwNUxJS0hwRlJ4SHBsUlN4Znl2Y0ZrZWRqeU4tTVhpeTV4X0t5RGNUMm5haGNjTWFyRjVLS1JtUUxqbHNsbGs2c2RPd1ktRFUzV1pfRFBVazFnTzVrZWJ2bTZQdEE4bGs4MGNXcEJXSWhMY2p3VkxxdjRBbkNNLWtBcno1cUdqSy15Q1NiMUdSODh6Rnc1SEU4N3U4S2xSYUpwdDhURUhHTk05WWlsY3gzbXQxdGZhU19FQk9QR29fR2tQbEVfag?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-09-30T14:08:30+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Pescador segue desaparecido no Guaíba após 15 dias de buscas R7"
-    },
-    {
       "id": "b0ffedb702f5",
       "titulo": "Quatro rios superam cota de inundação no RS e Defesa Civil alerta para elevação do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQjVnX2sxMUdsd0lYNThaS3M1NWtjbXNBWVZVWEVuVm9rSHQxVm5vVmxwZzRlV2xsUDdwc3N3WENXVlVXM2ZzdnloZVQxNVJjZnR2ekhiZFNLZEljajBKemtPcGlQRGtfTEZDdVNTTU1UWE9VLW8wTzhaOWRGU3lyTGpqUTEwV3d1a2NaNWU3cThxVGN3TzhHTW0yZXlXdURHNEVXclZ6MlhfdEltcHI0RmtaZzFoc1A2aFJRWHltQUhMNUlULUxKSDdWeld3dw?oc=5",
@@ -306,11 +237,11 @@
       "id": "34cd098f4c7a",
       "titulo": "Defesa Civil de Porto Alegre emite alerta para possível elevação do Guaíba nas ilhas e nas áreas ribeirinhas",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeFVUWlpXSW10LTlsajRUYzJYQ1Y3bGRRdVJNQkFyOXN6UkJYZWpHWTl1cmhMNjNfY0FZMGc5R2VRVnc3X3dHbEFpQ09mc0NCWDk3NGxCNDJBeGJLT04wS3E4NmE1ZWw1emhBRENNUkNQTFZkY3dLRDlVRU9kRXJnaHVhUG1CdTlvamdxUmY1UGRKZ1ZVMzE1S1lObXFfUUFDVVdZUkpxcUpFWEZFeVVvWEZmYnd0S2o2NFQtbllTblZjTWpEYnBKRURRV1JfcU5rUU5F0gHTAUFVX3lxTE54VVRaWldJbXQtOWxqNFRjMlhDVjdsZFF1Uk1CQXI5c3pSQlhlakdZOXVyaEw2M19jQVkwZzlHZVFWdzdfd0dsQWlDT2ZzQ0JYOTc0bEI0MkF4YktPTjBLcTg2YTVlbDV6aEFEQ01SQ1BMVmRjd0tEOVVFT2RFcmdodWFQbUJ1OW9qZ3FSZjVQZEpnVlUzMTVLWU5tcV9RQUNVV1lSSnFxSkVYRkV5VW9YRmZid3RLajY0VC1uWVNuVmNNakRicEpFRFFXUl9xTmtRTkU?oc=5",
-      "fonte": "osul.com.br",
+      "fonte": "Jornal O Sul",
       "publicado_em": "2026-09-30T13:59:47+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Defesa Civil de Porto Alegre emite alerta para possível elevação do Guaíba nas ilhas e nas áreas ribeirinhas osul.com.br"
+      "resumo": "Defesa Civil de Porto Alegre emite alerta para possível elevação do Guaíba nas ilhas e nas áreas ribeirinhas Jornal O Sul"
     },
     {
       "id": "7277fd7364aa",
@@ -363,6 +294,16 @@
       "resumo": "Emitido alerta para possível elevação do Guaíba nas Ilhas e áreas ribeirinhas Sul e Extremo Sul Terra"
     },
     {
+      "id": "376a86b308d8",
+      "titulo": "Freeway é liberada após bloqueio para retirada de caminhão envolvido em acidente na alça da nova ponte do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNTM4M1BMNWdUdU0tX3luRXJjNW5CTE1OaFVnT2lDWXNWaVJLbFM0ZWNFa25hNlhYTl9ub0ZVMm5ndXUxbHZUMlpWQnRzbTk0dGJuamhOOGk2VGJmVmRmM3hsOWt5aXc5Tkh4YWlRd2RNYzVPbmJDTFpfZGZiTTFWWHB6Z01NSVNhUVFiRFV5Vk9jMzc3TXlTak9BNFlNYVFyb04xZjBQajVCdE94ZjY0UHhEY3VOa084d1BKX2Z5bWw4T3NVOUhlcmx5MDVoZ3JySHdnbElZS2dCXzZjM0trRU1DTlFxQl9UWkhmSmdvZU5zN2pISmkyUGN4ZXpuLWxQc1FMZndOQ1VaTWhkZF8wMmRLSnZ0WWxsUHdMT2UwRktHSFhLanI4?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-09-30T07:01:46+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Freeway é liberada após bloqueio para retirada de caminhão envolvido em acidente na alça da nova ponte do Guaíba GZH"
+    },
+    {
       "id": "dff0c08eec99",
       "titulo": "Miss Universe Rio Grande do Sul terá transmissão oficial pela RECORD Guaíba",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaUQ2YTVsTC1Nc3hmdzdMdHc1QTVwWDlVdGU0c2J0QkN1WlBHNTNVWjZka0VMZ1FobFY5VzdRVHN5U2JNcXRKazVSajFzQ25XTDdaU0pvYndLM1Fudm5kQmRXWWZObHNpXzNkOFA4TFpvUUpjeEhKdll4eHZzdUpUR3poT25nUjBYaFRMVDBYcWR6ckU1SEY5Sm9qTjVJWGtZR2RjdnM2Z1FEVFp3MTVwM0VISlRXRzM4blJjTzZOY3FyU2xxTHBR?oc=5",
@@ -371,87 +312,148 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Miss Universe Rio Grande do Sul terá transmissão oficial pela RECORD Guaíba R7"
+    },
+    {
+      "id": "b0b10e330954",
+      "titulo": "Defesa Civil alerta: elevação no Guaíba. Risco ALTO de inundação nas Ilhas de Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUZwQXM4NjF1TkxYUzdxZzN6alNKTEJEYUd3TjJfRk1zTUUwWU43RHdNaGxXSENNZjVCT011RVEzU0t5eWF4eGpILXpxUFFaRDFTQl9EVlpqWFRCeHVMLURlY2dROXE1Z241RlhRaWZnX3pyTTNrZ2ZZaWpQN3lRUjlGSjhFTnZ1U0VGODFvQm04Tk5Ubm1DdFJjOXdVamx3aXhoV05Mc29VWTVNWDMzNTRLTDA0X2tESGprbzNKQQ?oc=5",
+      "fonte": "Defesa Civil do Rio Grande do Sul",
+      "publicado_em": "2026-09-30T01:46:18+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Defesa Civil alerta: elevação no Guaíba. Risco ALTO de inundação nas Ilhas de Porto Alegre Defesa Civil do Rio Grande do Sul"
+    },
+    {
+      "id": "160a3b1da374",
+      "titulo": "Freeway terá bloqueio parcial para retirada de caminhão que ficou preso em alça da nova ponte do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdmNnd3NCVFpPZHVEZDRaOEM2UTZwMkoxS0lpdDR0SHdCaTZfekpTUkZaYkh2aE9SVVBFbVNzeW1VVlhJdzNQTi1vUEdCRjgtNlRGZGNzdHV2ZWR6THZIdHNQMjJVRTFDeWdIQ3FZQmZYQkJJY091REl0V01ucmRKQzBVZ01iRW10MjFoYUkzeDRCYjliRE5rMGxycVJKZ1BSQmNRcUxrMVB3bGw3ZnhsRTJDZ0ZyTVE2bHJnLXVJX2xJSUVydU1ySndKTDZzaHVQUVVlUFcwVE1kcXZnRFoyU0pPb1RCRlg4OXBnRDlobTFKejVvNGRuOVd4Yng0NzZoSkVrYk9BOGRSaWRMSFVtQg?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-09-30T00:00:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Freeway terá bloqueio parcial para retirada de caminhão que ficou preso em alça da nova ponte do Guaíba GZH"
+    },
+    {
+      "id": "f0d18b110184",
+      "titulo": "ERNANI CHACRINHA — Vereador 2008 em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54a085S0kxdkJua0dJTV9zMU9vNXYycVpMRDlBdFg4Z0tWckVRSTRiLVpLZU9kWi0tRFVyTUxBLXJiR0tuRjhJUkJtb2JGd2YwM3ZYeE82OUFxSXAwV3RjOVh1Y25OelFiNzNxanhsR2FIUGh6b0pZaQ?oc=5",
+      "fonte": "CBN Amazônia",
+      "publicado_em": "2026-09-29T22:22:39+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "ERNANI CHACRINHA — Vereador 2008 em Guaíba CBN Amazônia"
+    },
+    {
+      "id": "fc17e5af3626",
+      "titulo": "Defesa Civil alerta para risco de elevação do Guaíba, em Porto Alegre, e de outros quatro rios do RS",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUC0wZWk1T3pwRjRqUm91ZUZtSHlGdm0zUHo4endhSFh4R1RnQmh0akVNRW9nUG4tY1RzS2YtZDNBNk03b3FKN04wSTVzWGNQRkdCNEppN2twVEhKQWlFLXdvaXV1UzlmT1hXQ19ycmNyRUtBNy14TC1La3pjanJWZW9oQWxwQ1RZVG1ydVVVMGxyR2xxNDVxR05SbmtzQ0tNTTdwY3JfZm52aGR6UHgyVzlXdWVYZlJiWURhZ3RB?oc=5",
+      "fonte": "Rádio Guaíba",
+      "publicado_em": "2026-09-29T22:13:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Defesa Civil alerta para risco de elevação do Guaíba, em Porto Alegre, e de outros quatro rios do RS Rádio Guaíba"
+    },
+    {
+      "id": "b509d098b40d",
+      "titulo": "Novo Centro de Operações da Brigada Militar é inaugurado em Guaíba para atender 22 municípios",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdy03RU1CQ0wxS1NoRDU0aUNPSlRBaFZnMVFsTHdlY3llendGTlQyMEQ0NGlPMk8yVTNiYkJ0NV9uRUR3RDg4YkNvZmlHSFdOanFpYWhmZzNCeUtOS042MHBJa1E2QjdBbnh6eEJMaHNHZGRyOEdLQ2luZXZLUm5ZbTVLeE4zWjdHLXZXZUgydS10T1hnZlJSRzlJUEpKZ29OWURIZy1fRHFsNEFMUFF6MWdqY1pOY1hReDdvNGdkOWFOWk42Q3A0eUJYQWVuM1pMaDBvd2NvRmZQellhU3drMDlBN1FMaWdXVXZScHdJSmJWQkh5S3c?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-09-29T21:57:57+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Novo Centro de Operações da Brigada Militar é inaugurado em Guaíba para atender 22 municípios Correio do Povo"
+    },
+    {
+      "id": "a2d5d3bd794b",
+      "titulo": "Duas pessoas morrem atropeladas por carretas em Guaíba e Barra do Ribeiro, em intervalo de duas horas",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNFRZcGowY3pxTkdUTU0xR2x0Wml3eGVJME5kM19mczhKb2FzRWlSWXRjVlBTVG03MzZmX2tUT3hBSXltUmpKNDl5clZYS0dCV01ybkVnZzRqY29vT3FnM2VBR2tad21uTUFjV3pvMzdhTjVzSFMybzBJVUNHZjhwaDYxM3JLbWdJVllWN05JYkpTdktYOGIyVExkbDFlWFdHWW5wNC1pRDczeG96dnJwQU5YNGlHMlk0bkJTbG1aVFJDMWtISmRZMDlKNXdDTmZaQlVwT1dxazg4N1ktSnIxcnNGQ19OXzlseEhGag?oc=5",
+      "fonte": "Portal de Camaquã",
+      "publicado_em": "2026-09-29T21:55:39+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Duas pessoas morrem atropeladas por carretas em Guaíba e Barra do Ribeiro, em intervalo de duas horas Portal de Camaquã"
     }
   ],
   "noticias_home": [
     {
-      "id": "20ea4fe0d8af",
-      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-30T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "169 consumidores permanecem sem energia."
+      "id": "986add96f059",
+      "titulo": "Defesa Civil emite alerta sobre elevação do Guaíba e monitora quatro rios acima da cota de inundação no RS",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/30/elevacao-do-guaiba-e-rios-acima-da-cota-de-inundacao-no-rs.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-09-30T11:07:59+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Saiba o que fazer em caso de tempo extremo de acordo com a Defesa Civil A Defesa Civil de Porto Alegre emitiu um alerta, válido das 9h desta quarta-feira (30) até as 12h de domingo (4), para o risco de elevação do nível do Guaíba. Ele poderá atingir a cota de inundação no bairro Arquipélago e áreas…"
     },
     {
-      "id": "ad11fea47e8c",
-      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-30T00:00:00+00:00",
+      "id": "e231f5dca5f2",
+      "titulo": "Defesa Civil alerta para elevação do Guaíba e monitora quatro rios no RS",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rZHJEamU2c0xsWkg1OWdOSVB5VVg1OHMtdC1HSEZpMkF5ZmE2VnR3dFI4LUZpbWlsb0RFeUo1Y2lFZXBYV2tnM3J0SnRDbDFOZTZBVjk2T3hCRlZzSjhTX0RjeWgzTmtQZFA5Zy11MA?oc=5",
+      "fonte": "grupo sepé",
+      "publicado_em": "2026-10-01T00:50:00+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
+      "feed": "recentes",
+      "resumo": "Defesa Civil alerta para elevação do Guaíba e monitora quatro rios no RS grupo sepé"
     },
     {
-      "id": "2be8f99a228a",
-      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-30T00:00:00+00:00",
+      "id": "51c0d32522b4",
+      "titulo": "De olho na régua do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEpxUktfdWpkMzlHdUdOa3VSMmhBNExMWFdQLTV6N0tEYVVPTDdMTURva29sLXVYWHgxQ1NieVpfVV9NbGdEdkpLNDdqWTdUczloNHdWWGs4WlNqQ2ZueUVGY0hpYlM3THNYVnFKZTdLSlQwM1hiVFo0cEZjQ0NIUzNJTEczR09ZX1hxN3FVZ3JjWUxGeDFubTg4ei16WlAwYUZYTi1jZjRJQ1k?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-09-30T22:21:58+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
+      "feed": "recentes",
+      "resumo": "De olho na régua do Guaíba Jornal do Comércio"
     },
     {
-      "id": "ac4e71bc4bdd",
+      "id": "28c4a088e374",
       "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
-      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVktrN3VUXzNFNlAzTDFJb0swb05BVEllX1RHZ2x0aXp6TmsycmQ1RFg4SnNnZTM1QXVMTjdKMDJwZVhVV0U0a2Rmc0J5aDZUTElSaFFFRHlLSnc2QTgxZEdxdlhDa2pueUwwRTd5SEkxWVB0Q0w5Z20zVzRQSURCMl8taDBLNXNoSTNWYTNCOUFPMm5wcGVueHo4OUdXMTA0ZWZLdG1qM2JqcXBfQWxvWnVqc21fbEJxU0VTRW5UU3pFeVFKQkpoNjBEM2hxQm5zeVctQU9zZml2X1lp?oc=5",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-30T00:00:00+00:00",
+      "publicado_em": "2026-09-30T21:57:00+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+      "feed": "reporter",
+      "resumo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos Repórter Guaibense"
     },
     {
-      "id": "8402ea905dc4",
-      "titulo": "De um sorriso a um lar: grupo de Guaíba se mobiliza para transformar a vida de família com cinco filhos",
-      "url": "https://www.reporterguaibense.com.br/noticia/de-um-sorriso-a-um-lar-grupo-de-guaiba-se-mobiliza-para-transformar-a-vida-de-familia-com-cinco-filhos",
+      "id": "48ccc658431c",
+      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd0E3WTVxbmlxSVdRakVURFRxTkt2blFwWk5MbVlJZkpMWFJIcGVCM1c1dkZFMktJUWpDQjZRdUhTYjlZWlZpZDhOZkk5bHloZnVxeGNjMEhXWks0N3h1LXBGbnNfZndCb2tZR0Y4cXQzclVuOHc4cUNGZkpHQ0p4U1BoMkNONFpaMDVERVNoMTFacVFtLTFod0dPdVZVcGxKUEw3TlV6d2llNVVhaTBHN0N2dDZPOGhpcjhyMEIyUG9nOUIwd0dEbQ?oc=5",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-30T00:00:00+00:00",
+      "publicado_em": "2026-09-30T21:32:00+00:00",
       "categoria": null,
-      "feed": "reporter_direto"
+      "feed": "reporter",
+      "resumo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba Repórter Guaibense"
     },
     {
-      "id": "0c103e9d857b",
-      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
-      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-09-30T00:00:00+00:00",
+      "id": "3724d072cd77",
+      "titulo": "Em menor número, galhos seguem na orla de Guaíba, enquanto Eldorado do Sul antecipa chegada da inundação",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbmN5VkpvdklNTnhBUWVRRUZmOHdrampNempZWFRDOEZ6LXc1RXdhRktXR19yX1RaS1c2dHl2OWVhbVlLZnpBR2F4NTlLVld6cjBMLTV4MWRkTTk4RVk1X2NDV3EtQW5RdXFLT3prU3lpTzdnLWtjUkxNdEZVTHdpOXg5WFFrRUcyb2REV2dRN0xVZ09FdVA5RGE0YXpaYUtCMVhUblREQl9aWFdCNTZIWnZyNmRPOUJCMVpMMDh5OUZGSnhsYUR1ZW40V25SS0lnQmRFeWpnY1NLR0htaDZpcGV4dWhtUEZ3REE5T09yUzZZYWF3eUd1VzEwUQ?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-09-30T19:02:40+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+      "feed": "correio",
+      "resumo": "Em menor número, galhos seguem na orla de Guaíba, enquanto Eldorado do Sul antecipa chegada da inundação Correio do Povo"
     },
     {
-      "id": "04f08750afc3",
-      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
-      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "e32d3bab373f",
+      "titulo": "Defesa Civil emite alerta para possível elevação do Guaíba nas Ilhas e em áreas ribeirinhas de Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOXMtVmFmT3ZaQW9fVzJONnYwVFJYMWhZcmdJajVzc0JnejNkWnp3WWxVZTAxTnhrSlV1eWZOQTROOFk1cWV0QXBYNWlBbEtXMnJCN0dQQ1ZRT0VjVDRjcjFnSWpHVzBROVEzSVV0MjJpNjhGOVQycmpCQkpkdVk4SDlHZFY4RW5vMU5MQlM0czNlb3hHV2NxX2txMVNzd3lDQ1lBTmtCYlJ5MW82eFBObnRPOHppOFFJcmpiM1kwOHdkbEV3WVV2ZHNZWmdFNkZZQWI0a0dFQ2VGREYxY3M5RXdlckxJX00?oc=5",
+      "fonte": "sul21.com.br",
+      "publicado_em": "2026-09-30T18:18:00+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
+      "feed": "metro_poars",
+      "resumo": "Defesa Civil emite alerta para possível elevação do Guaíba nas Ilhas e em áreas ribeirinhas de Porto Alegre sul21.com.br"
     },
     {
-      "id": "b06d127f4e0e",
-      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "843849f82a7c",
+      "titulo": "Defesa Civil alerta para elevação do Guaíba e risco alto de inundação nas Ilhas de Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmZXWUZQNEVncUdUdFVWZDM3bGk4SHNlVWpxWFp4WVVMazNzNnprT3l2UUJldVNkbWJXRm52OWdyMUtiQ1R4Nm9IRzBkTWlDSWNqdFdCSDRXWFNVSEo2ZVM5ekROT1JDVDFadEc5VXkyWUxCemx1S3ZLOW85NXpvU2tqU1Vub3V0alhfMFBOWFRaNERQdUozc0NDcTl2WXVjdjFsVC1QbDQxbG9ncV9HYw?oc=5",
+      "fonte": "Clic Camaquã",
+      "publicado_em": "2026-09-30T18:14:57+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
+      "feed": "vizinhos",
+      "resumo": "Defesa Civil alerta para elevação do Guaíba e risco alto de inundação nas Ilhas de Porto Alegre Clic Camaquã"
     }
   ]
 }
