@@ -1,8 +1,17 @@
 {
-  "gerado_em": "2026-10-01T12:27:21.307752+00:00",
+  "gerado_em": "2026-10-01T22:21:01.287057+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
+    {
+      "id": "504af30654cb",
+      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbTNydzgtcmhXSS1ZR1pQVDFpU0JhUE85b0NtLXBoNDJWOEJIZm1fbHQtdm5QRmNudEVBdWNsQ0Z0WF9CZU1Qc043RG1hdFJkWVFYLUM2T3pwckhOa0xzRjZhTDV5STdvMEx5cEJ3YWY0MFZrekVPUDhMMzM5U051UHc1bktPSzAtZ0padEVGWmRCMUtWTHZaRk0tZmUydTEtcDF1bHhka2lfTDRPU0RCZjBWOVoyeDFyUXp6WlVmZU85cC1Lekp5eU96UVlTcnhFNkU3bFpUbw?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-10-01T18:52:00+00:00",
+      "feed": "vagas"
+    },
     {
       "id": "472bb9527249",
       "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
@@ -101,15 +110,6 @@
       "tipo": "concurso",
       "publicado_em": "2026-06-22T07:00:00+00:00",
       "feed": "concurso"
-    },
-    {
-      "id": "0dbcc92cd927",
-      "titulo": "Guaíba lança edital de R$ 1,5 milhão para projetos voltados a crianças e adolescentes",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3M5UXVob3JwbnczZU1fZ2xOYjNJakRUS2U4dG8xZW5PNUdzak5FOUxFRXRUYm93djRxQ2VwUGJfMzdfVVVucjM0ekMwNzNIeHFPbTZHSjJxU1BDUHFxM3RlRmFSMjdnZzZiMXM5RHBWSTNUaEo2d01nX2xQWG5mekllUjlhWU1US3h0WjZkTncxZGR6V0lPT3k2SGZhQzV5R1lVSGQ0WHFHU25aYk5XRmJLUXV5VDlvWnpTMUlaQmdLd3Y5RE1FVQ?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "edital",
-      "publicado_em": "2026-05-15T07:00:00+00:00",
-      "feed": "edital"
     }
   ]
 }
