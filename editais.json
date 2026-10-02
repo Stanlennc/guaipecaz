@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-02T11:53:49.293987+00:00",
+  "gerado_em": "2026-10-02T17:28:27.678193+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -7,7 +7,7 @@
       "id": "504af30654cb",
       "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbTNydzgtcmhXSS1ZR1pQVDFpU0JhUE85b0NtLXBoNDJWOEJIZm1fbHQtdm5QRmNudEVBdWNsQ0Z0WF9CZU1Qc043RG1hdFJkWVFYLUM2T3pwckhOa0xzRjZhTDV5STdvMEx5cEJ3YWY0MFZrekVPUDhMMzM5U051UHc1bktPSzAtZ0padEVGWmRCMUtWTHZaRk0tZmUydTEtcDF1bHhka2lfTDRPU0RCZjBWOVoyeDFyUXp6WlVmZU85cC1Lekp5eU96UVlTcnhFNkU3bFpUbw?oc=5",
-      "fonte": "reporterguaibense.com.br",
+      "fonte": "Repórter Guaibense",
       "tipo": "vaga",
       "publicado_em": "2026-10-01T18:52:00+00:00",
       "feed": "vagas"
@@ -16,7 +16,7 @@
       "id": "472bb9527249",
       "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVHVxVUZPbWJtT3Z0cS15YXhXUlhVSjFlMExLY25NZ1hxaGxCMzBHOGpobHVpOGFlTDV3Q2V3U180eXYxWUIwb0ZUQjlfaDk2dGRma1ZQU2pnYzZER0VzcHpSOEpDMEp6VWRqZGJXdGxwd0ZFVU5qbmtrVF95YXdfYWN2RGpRbGQzSXlXbElYUEhGMm9qbGx2bkYzUUJNcWhTcDRENUZOdzQ2YWNDMlhIclNlZG45RWxFQjYtR3cyM1o?oc=5",
-      "fonte": "reporterguaibense.com.br",
+      "fonte": "Repórter Guaibense",
       "tipo": "vaga",
       "publicado_em": "2026-09-10T07:00:00+00:00",
       "feed": "vagas"
@@ -25,10 +25,19 @@
       "id": "222af359a8b8",
       "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTURzNW01X2p1R2RIRjdKWDdhQnRQMnpoakNGckF0andQTEhjUWZTLXkxVzlBVF94bmp2VzB5bE5UQ0I0Nm1GSXNtampTOGtDTUp3SThLdGxybVRoVFNRNmJWZ0JCdnd3SFBaX213OVEtQVItbmI1TTFXSWI3ZUlSLU5BTXJGckE1OExjemxfWHN1RGZRTTBGS3hnX3dFdVRnQ1FjX3lRODlKTTJ4VjYtT04xdlh2YU1qUy1CMzlFUko2VnJfQWhFTkg5LUVZcnpTaFdXOUxPSzhYM1U?oc=5",
-      "fonte": "reporterguaibense.com.br",
+      "fonte": "Repórter Guaibense",
       "tipo": "vaga",
       "publicado_em": "2026-08-04T07:00:00+00:00",
       "feed": "vagas"
+    },
+    {
+      "id": "22d05c83a07f",
+      "titulo": "Câmara de Guaíba anuncia Concurso Público para nível Superior; seleção organizada pela Fafipa",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnBqRjVQYmt0M2V4cXlTMGpCVFpieGVUWGFYN1V0dlVmSzN0c3ZHdGlpQ1VQcTBpbHVBN0xoN251UkVTZVBDZXVOZk43UmIxYmstWldRR1V6d3BVNUtCV0NEbGtUcWdnSWw3QmJKclo5c21CZmlHVG9LRmNOcnN5Z3Y1NjMza05VRWdsaHk5cw?oc=5",
+      "fonte": "FiiBrasil",
+      "tipo": "edital",
+      "publicado_em": "2026-07-27T04:38:27+00:00",
+      "feed": "edital"
     },
     {
       "id": "66a7f7bdb864",
@@ -43,7 +52,7 @@
       "id": "49c16b5cee41",
       "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzlHblVqUXlZbUdfMWhiMXhQdV9NVnlFeXRjakNxbFQwem12LTkxcWlQSkdMcHBDZm5QR0hiY3Z0MFFxQ1RNMW1ZRFpxV1I1elNuX3J1OEtpLWJXQm9jNFVyT0c0YXRvV1dDTE1mdWVmYmJxOWlhZXhEOGdOdEhfMEs0aTJ5T0dXQ29zVEFPNzlmbXJ1S1ZBUTNDX1phS1hkOVBqT25qOHRvUWVsNUZoSE5lSkJOTWxmSllxZ2pxYUVueGJWSkVR?oc=5",
-      "fonte": "reporterguaibense.com.br",
+      "fonte": "Repórter Guaibense",
       "tipo": "licitacao",
       "publicado_em": "2026-07-20T07:00:00+00:00",
       "feed": "licitacao"
@@ -52,7 +61,7 @@
       "id": "07945b98a1e5",
       "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQVB6UENxS2otRmFFM2NpR1hGa2JsNzFpMU1RNUxNeVFPdGR1TmZVak1IdWRVbXRZYWVDU2M3TWx5U20zLWFHTnRUeFdzZElQS1VHNmE3aVhuT0lpS0ZPUndPRzlhRlpVQ1J3S2hNazBQTjgxXzZ4LWM1VU5Nb255LWc5TGszV1Z3cVZVWnFyY2ZHdV82Q0x3LWFSNERBVU05aHR4ZS00TXNURmtYbF9ZSlJYTzJQaW9oc2U5T1NYUkt0ZlVmOGZSbEJrQ2N5QzlCMmtEUW9CN3l0RkltdUZyUk9raHE2S3RmTnZEWG9FRQ?oc=5",
-      "fonte": "reporterguaibense.com.br",
+      "fonte": "Repórter Guaibense",
       "tipo": "vaga",
       "publicado_em": "2026-07-17T07:00:00+00:00",
       "feed": "vagas"
@@ -61,7 +70,7 @@
       "id": "d3c2091518bd",
       "titulo": "Estão abertas as inscrições para a segunda edição do concurso de fotografia \"Olhares de Guaíba\"",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0JDLU5oLXJTSkctTGtFZXgxLXZnUkh6bjBBSWlYSnJ6YTlzTkFrcDJJbGZyWko3aVZJQlJKZ1QxbjdMVUYxNU1hMElrSlZnY180cTlfNHpuUEhzTjVVQlFRQzFXd0szN2JYOC1UazhxbWlMWm15VU8tUmw4Z1V6ZFZQbTVtMFNqajVpcERDNFZyYkpVWGtqYkNoVTBPcndDWGZ6RGJ6SWZBSk9sR0NQalFBNEdLblFnWi1JNHNwSkpYREg3eWt6Z2cyUFRKd0FCMU1naQ?oc=5",
-      "fonte": "reporterguaibense.com.br",
+      "fonte": "Repórter Guaibense",
       "tipo": "concurso",
       "publicado_em": "2026-07-16T07:00:00+00:00",
       "feed": "concurso"
@@ -70,19 +79,10 @@
       "id": "a549bed95947",
       "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLTRwSjRyMGRNYWdjci1rSUdRTXk4T1ZpekoxRDJCbFhoeGxDRGl4MXNWTWVQaE5sdjVOdjNlTU93UkpzVnlSSmdVTlJneTdRaE5OLUthajc4N3N1OEI1NmI1Vkh2amFQYWVFWkZIa01sMUh1X0xjSG1FaXdSMklIaDZBR3lna0F0SllmYllLZ0dXZ1JSMjV1aFlPeTlRVTBKalBYdjBEQUVsdk9Ic216QUhmZU11RWJLdjByUkNRUHhVcVZsQ25rWi13djN3ZWFibVhERmt3azYtaFltQVU0?oc=5",
-      "fonte": "reporterguaibense.com.br",
+      "fonte": "Repórter Guaibense",
       "tipo": "vaga",
       "publicado_em": "2026-07-14T07:00:00+00:00",
       "feed": "vagas"
-    },
-    {
-      "id": "2af13ba036a9",
-      "titulo": "Oratória e Emoção: Guaíba celebra os talentos do 4º Concurso Escolar na Câmara de Vereadores",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaDRDejcteUppeGdvODF5c1VsczZOR0hITkxMaFJnMS1ESmhyTHdPZWdPTnBnMTgyUkYwWjFLaHJjTlBXbENpVFVuQURpVFVpX0R0RjAtOHZJODRIRk05bV96ODhZbXJOU3Z5cGxXRktGLWt0dVpJeGV3eVdoeGFLLUV4N0d1YmNZd3l1Q004cU9GT1U2amgzSkNqX3ZTZU8xRlZqR1ZWYkM0WDEzTlAwNlFmSQ?oc=5",
-      "fonte": "Portal ClicR",
-      "tipo": "concurso",
-      "publicado_em": "2026-06-27T07:00:00+00:00",
-      "feed": "concurso"
     },
     {
       "id": "efd910ae5dd5",
