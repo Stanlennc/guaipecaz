@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-02T04:08:22.798611+00:00",
+  "gerado_em": "2026-10-02T11:54:40.246926+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,14 +74,14 @@
   ],
   "noticias": [
     {
-      "id": "2be8f99a228a",
-      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
+      "id": "20ea4fe0d8af",
+      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-02T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
+      "resumo": "169 consumidores permanecem sem energia."
     },
     {
       "id": "388f50763bb7",
@@ -104,6 +104,16 @@
       "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
     },
     {
+      "id": "0c103e9d857b",
+      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
+      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-02T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+    },
+    {
       "id": "edea690a93c3",
       "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
       "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
@@ -112,16 +122,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
-    {
-      "id": "20ea4fe0d8af",
-      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-02T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "169 consumidores permanecem sem energia."
     },
     {
       "id": "ac4e71bc4bdd",
@@ -134,24 +134,24 @@
       "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
     },
     {
-      "id": "b06d127f4e0e",
-      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
+      "id": "2be8f99a228a",
+      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-10-02T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
+      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
     },
     {
-      "id": "a583b37fadbe",
-      "titulo": "Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba",
+      "id": "db4c16c9fddf",
+      "titulo": "Prefeitura de Guaíba tem previsão de diferença de até R$ 104 milhões no orçamento de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-r-109-2-milhoes-em-caixa-mas-preve-investir-menos-em-2027-diz-secretario-da-fazenda",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
+      "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
     },
     {
       "id": "04f08750afc3",
@@ -164,14 +164,24 @@
       "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
     },
     {
-      "id": "db4c16c9fddf",
-      "titulo": "Prefeitura de Guaíba tem previsão de diferença de até R$ 104 milhões no orçamento de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-r-109-2-milhoes-em-caixa-mas-preve-investir-menos-em-2027-diz-secretario-da-fazenda",
+      "id": "a583b37fadbe",
+      "titulo": "Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
+      "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
+    },
+    {
+      "id": "b06d127f4e0e",
+      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
     },
     {
       "id": "d1f977f45676",
@@ -194,14 +204,64 @@
       "resumo": "Saiba o que fazer em caso de tempo extremo de acordo com a Defesa Civil A Defesa Civil de Porto Alegre emitiu um alerta, válido das 9h desta quarta-feira (30) até as 12h de domingo (4), para o risco de elevação do nível do Guaíba. Ele poderá atingir a cota de inundação no bairro Arquipélago e áreas…"
     },
     {
+      "id": "5e57bbd2fa59",
+      "titulo": "Guaíba chega a 2,48 metros e segue em alerta de inundação",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWdOenZfaHZTci1hTmUzMGVFem40V3VKZDdkcHBVVVpZMnN4MGVfb1R0WnNvSDdwdHRkc0ZTckJ1T3RkcUpsbm9KWjZTWF9IY1UzQW1fa1V3amVrTXNNT2pLeDNMNk0wRjNEY19ObzBCN19zRW5nc1NwRjFBRFJpOEgwZllJQURCZHN2c1NMUUszdGR3Sy1mUFFVSXhuSWZZOFdyVnZ1dkNjVWIySWd0S2RfamVlcTNyOWN2NWVR?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-10-02T11:50:36+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Guaíba chega a 2,48 metros e segue em alerta de inundação Correio do Povo"
+    },
+    {
+      "id": "6cad1c29ec4f",
+      "titulo": "Defesa Civil emite alerta vermelho para risco de inundação no Guaíba em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUUhwOFlMNS1sV0lsbW9EOXQzelB1SWdtNVczSUhzdEM1ZVJUUk4tOVFjZjFOaE9mZ1JJSFhPcXMta0ZRQm5oTzh4aV9aWGZDLVB5RU91V2F3eUFDSUlSWF9scDhfeHpZMzVXU3ZoQktJYkxPMUhncVdMNEEwSkF1NExvQ1JwN0tKSW5yRkxVX005MUlKc0dzX2dzaDNyQld0MHhKbUJYWFVVQnp6S2RMNkNBNEgzQWVHMmhEZTFpN3c2UHdreVlDUDhOOENnMU8yNTk4TE0yVnJSQnZlWl9jdDZVcF9VWDhSZzBoVHhaTTUyUlhEb1NXUnA0MVZfcFhD?oc=5",
+      "fonte": "Terra",
+      "publicado_em": "2026-10-02T10:54:06+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Defesa Civil emite alerta vermelho para risco de inundação no Guaíba em Porto Alegre Terra"
+    },
+    {
+      "id": "6423eb5f3046",
+      "titulo": "Guaíba atinge cota de inundação; confira a previsão do tempo para o final de semana",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQjJlSnFhSTgzM2NTUzVtT2RMckt6OEZmbXlvcXFodzBZdFI2NTlVcHQwcDhaVTYyci1LUFRRR3hVOXF5V01WaXlaZTVDc1dNeldWS0d4UGVrY3dFM0FHeHZzd1ZmOWt2a0hvck5NYm9uRFBSbGh2ak5WZURyWFRNVE1Lci1qNXVnM1Y1SHRQRy1zVnZPLUF2eUs1cno4TGd4TUp5TVdpWDBkODlFRHpKd1RxS05CbFdYVW9YMW56cGdpdnc1Q245endhb2l5RW9Qa1ZPODhtdW5MLThtZmZEOG11blRUQQ?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-10-02T10:44:20+00:00",
+      "categoria": null,
+      "feed": "gzh_metro",
+      "resumo": "Guaíba atinge cota de inundação; confira a previsão do tempo para o final de semana GZH"
+    },
+    {
+      "id": "dc5cf091e42a",
+      "titulo": "Três rios seguem acima da cota de inundação no RS; Guaíba avança na Ilha da Pintada",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZm1PSWppQWVpY3lMSzVvbE93MFZkMjhwVWlmRE9FUWtXb3o4T1dJUGdpRURFaHlTblRqVV9aMENrZWRkbmxTZUdKQy1pOUVJMXJDMFMyN0szd3hETERQdUdNSnVCei1sSGs4VjRSanoxRURjWnRra0RDVW51SGhKSDlzV1dXRzQzamtlQ2pQeC1waE1lc1ZfZjdIYkhUaG56anVmajFSOENmdU9qa0JaRXE1bjdqWldzd2VZV2ctYkdscWZyR25xYWpGcXROVmVPNTJFTWNkdFZnRXFyc1FvV3REMmZiejFBRVNQdzB6QVpVamo4TjU3UXVsTQ?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-10-02T08:37:56+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Três rios seguem acima da cota de inundação no RS; Guaíba avança na Ilha da Pintada GZH"
+    },
+    {
+      "id": "26221113abd5",
+      "titulo": "Guaíba atinge cota de inundação nas Ilhas de Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0FXbnZPZGk5RTJ2UGlrZkxkdG52SFRnbmM0SFZHcnRaREh2UFFLclJoVzZzUkFNclZBTmV1VUdHT3lLQ3hDeC1iSHl1bWw0OUhEdUVpeUFjdE5MQW5kVk9xU2s0Q1BnNHk4YkZ0REpVU0R1SVkzZFk4WTZfazJYOWk0LU9JRVV0YkJqdGJzbGVEbGRFa0MxUE5GcFJiSm1CSW9kYWV5VERTR3IyMmw5S2pCVmg4T0pYX09ia3hXdDJmYnVRakVVbTd6eGxjMDNOSlk1eElaLWtCeTlnM1hvQkkxQQ?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-10-02T07:05:58+00:00",
+      "categoria": null,
+      "feed": "gzh_metro",
+      "resumo": "Guaíba atinge cota de inundação nas Ilhas de Porto Alegre GZH"
+    },
+    {
       "id": "5227bc367b32",
       "titulo": "Defesa Civil do RS emite alerta vermelho para cheia nos rios Jacuí e Guaíba",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdUR5cHBUd25LcW9jd2pjeE1QSlVsSGxzeGZ3OVQyY3BwY1h0TWZrUmVCYkdqdVpIWTM5N2t2ZnUtUVNkdExfWTBZNXhtdnlxVUtsZDJTcExTX3cxb0MtbGFTYUMtWDVCcmduT3FXMzBXc1RlRmtDS3ZLcWlkMlFiSDdRdFJTQjBxRHpUbWpaa2dOdGNJcDJ5S1JyNzdXZjc2NDM3bThQMVdpLXVmbkpfYUNEVkVmZUtZT2l3OTJ3?oc=5",
-      "fonte": "CNN Brasil",
+      "fonte": "cnnbrasil.com.br",
       "publicado_em": "2026-10-02T03:37:36+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Defesa Civil do RS emite alerta vermelho para cheia nos rios Jacuí e Guaíba CNN Brasil"
+      "resumo": "Defesa Civil do RS emite alerta vermelho para cheia nos rios Jacuí e Guaíba cnnbrasil.com.br"
     },
     {
       "id": "07d2af9b9375",
@@ -214,26 +274,6 @@
       "resumo": "Defesa Civil mantém alerta para alto risco de inundação em diversas áreas do RS; em Porto Alegre, água já invade ilhas do Guaíba Rádio Pampa"
     },
     {
-      "id": "920e3ddcfd6c",
-      "titulo": "28ª Corrida para Vencer o Diabetes ocorrerá em novembro na Orla do Guaíba; veja detalhes",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSkZSRHZGdm92YkNqMTM0Zm5SNDFPcVZMelV5dUZsQXd2YnV5R2g4aktidkNMamppbDdMeFA3b2s2YzhyeFk0OE1aYVhLU0xKQ0U2SktrM1JmMFR4Y0lfT2locnJQQ0FWdXAzZzAxcUhnWmJfWWZxT2U4VkZ5N1QtSXMwczBpakdQbUNmQnozc1RfVlVXd0NVY1VsUnBsLTZCdU9wMGRTaEV6T2hJNDdjeHgwRU1XMk42aWNLU0J0TDZFaUtYVlRScGlzZVYzQlRrd2FMZWw2a0dWWUVrXy1IOTlabjZvMjBNb1VfZVA1M3lzakhITy12ZlBWaGVtOFlHYWlUUA?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-10-02T01:04:44+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "28ª Corrida para Vencer o Diabetes ocorrerá em novembro na Orla do Guaíba; veja detalhes GZH"
-    },
-    {
-      "id": "26221113abd5",
-      "titulo": "Guaíba atinge cota de inundação nas Ilhas de Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0FXbnZPZGk5RTJ2UGlrZkxkdG52SFRnbmM0SFZHcnRaREh2UFFLclJoVzZzUkFNclZBTmV1VUdHT3lLQ3hDeC1iSHl1bWw0OUhEdUVpeUFjdE5MQW5kVk9xU2s0Q1BnNHk4YkZ0REpVU0R1SVkzZFk4WTZfazJYOWk0LU9JRVV0YkJqdGJzbGVEbGRFa0MxUE5GcFJiSm1CSW9kYWV5VERTR3IyMmw5S2pCVmg4T0pYX09ia3hXdDJmYnVRakVVbTd6eGxjMDNOSlk1eElaLWtCeTlnM1hvQkkxQQ?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-10-01T23:47:57+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba atinge cota de inundação nas Ilhas de Porto Alegre GZH"
-    },
-    {
       "id": "daff754b70f3",
       "titulo": "Guaíba atinge cota de inundação na região das Ilhas de Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdnpiQ2JmdmdpNHR4UzJJN1pIR1VoajJ5LW4wQXFIVHBuZy1QcHlXYURxaS00S2R1UnNzZVk4Ul83X0dGaUI4RkMzV20wTzllREJucjVQTVJ6Q2Nzamo3c2JQc3ZwQThFdW83VW1kbHUtOW9ZWDJReWZqTzVSemxQRUFZdlVmTGZKV1lCUld2NlRiT1hZMkJRd3hBbnNyYzBJdU51NGh3SGJlaGJPWkh5Z19wV3FVM2xkWXo0TG04eExIMlpUOS0za05na29fc1RaMEE?oc=5",
@@ -242,26 +282,6 @@
       "categoria": null,
       "feed": "gzh_metro",
       "resumo": "Guaíba atinge cota de inundação na região das Ilhas de Porto Alegre GZH"
-    },
-    {
-      "id": "2bb16efc2058",
-      "titulo": "Guaíba tem R$ 109,2 milhões em caixa, mas prevê investir menos em 2027, diz secretário da Fazenda",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOajFuVUlEWVhQYWlCUDdnQ3k3Vk5DM19Oc0RZM25pUXAtanc5aFkwRkMxbjFuT3Q2Vk56TG1WaS0tZC0wQ0RiWmVSeTBvdXF0Zm9fa2NUQWhjeTZvNV9EQ3IyMEcyMVY2RGNsakRXV0JOQVRYNlJYcC1wcWNFamwwNjhRb09LMnNySnNqZHQyZVdYSG9EX1ZLTHRjYldWNGZ4SmVxWl9MWDQtNUtFRWE5LU9uRElna1hKQ1dHMnlmRkplRk9EUkFSdUFCUWF6c2tJWDZRb2lR?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-01T21:57:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Guaíba tem R$ 109,2 milhões em caixa, mas prevê investir menos em 2027, diz secretário da Fazenda Repórter Guaibense"
-    },
-    {
-      "id": "5fbf04504b77",
-      "titulo": "Centro de Operações da Polícia Militar entra em funcionamento em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVS1EM3BEODJjNFBKLUxldzlLSzdkTWd3OVQwSGQ1LUhqeXdMS1U4ei1BdF9KR0xBVGNjT2NXaS1scmxLNHFsSnBzUm1wM1FZRzlnNDZYRlVuVk9xVFZBVEhXWElyUFBOZ19QLUFzdnh1ajZaeUlWTnB1OEtaVnJSeUFhWTl3UUtXdXc2MGpkd1dIYXdyekFNcng0TGdMWG51RTJ4VTFLaklta2k3aWVrSWlLNG9mVTRXRXdIRlpZd240Mk5jd1VselBNZGJfOTMyTmF5RFdVa0U1bVRYVXhKbzBNQk10emc?oc=5",
-      "fonte": "portaldenoticias.com.br",
-      "publicado_em": "2026-10-01T21:54:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Centro de Operações da Polícia Militar entra em funcionamento em Guaíba portaldenoticias.com.br"
     },
     {
       "id": "b414b73bc375",
@@ -294,14 +314,14 @@
       "resumo": "Níveis do Guaíba e do Jacuí sobem, e água invade ruas de Eldorado do Sul e das Ilhas de Porto Alegre GZH"
     },
     {
-      "id": "d127037dab2d",
+      "id": "e55bd2c9596d",
       "titulo": "Guaíba sobe e alaga ruas em Porto Alegre; Defesa Civil emite alerta",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVpKdlR4TEY0OG9LS2plTHBCZW5Wc0otUzV5a21ac3ZkRnBMSEczZFZJaUFpeU9ENDdOWHhPZzhWdm5SRVlCNTU0VnZhOXRSZl9pU0JIRUhNZVUwd3QzeW05R0NhWW1sWklYa2RjVlVFcGNXOUkzT0pHUWxyTG5iYndTakpYc2JhUTZJcVlFODg0ZE4yeENlN3AwVjkyUHUzZVFzX2w2UQ?oc=5",
-      "fonte": "UOL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUklrR1ZEN1ZiUmJJYzFJeFFfRExQamlPemVoN1pfUGl2b1B3emxKT2c0ZTBYRlViVlFYcnAyQnBrN3hla25Ld2xaU2RtWG5sbFp5SS10RWhabjZ2OWUzcGZrRmh0bzdBTGRCc2IzOS05V2lOTVl0Z2EtNm9KTVZmMlMxaWx3Ym1GOE5YTmE1dWdVeFV6Skg4M2xPSUV5dmVIb2tV?oc=5",
+      "fonte": "noticias.uol.com.br",
       "publicado_em": "2026-10-01T20:50:36+00:00",
       "categoria": null,
       "feed": "vizinhos",
-      "resumo": "Guaíba sobe e alaga ruas em Porto Alegre; Defesa Civil emite alerta UOL Notícias"
+      "resumo": "Guaíba sobe e alaga ruas em Porto Alegre; Defesa Civil emite alerta noticias.uol.com.br"
     },
     {
       "id": "ea3cfd8fd2e9",
@@ -317,11 +337,11 @@
       "id": "28a434f294e6",
       "titulo": "Guaíba sobe 26 centímetros em 24 horas e entra em alerta para inundação em Porto Alegre",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT3pNZXVPREJEdkNDTVVObHBRTVZ0bTBnM09TbUU4X3BDNUVieFpRdjNOQzJWd29QX0dRNXlQbzFqV0w4bktsUXd2VjdGcFVyaXU1aDFndFFjbm9kR0VwNEdFZ1AxTnRDYkJNYzl5MkY0SHB6LVBDbkdDWU5QNzZ0b3dHQ0M3VE41ckNydzBHZURONGFDbEhCMThETTRYWHNzcVNWTEFaWXlhNHdHSW03dEFFeWxJeDZnc1d1NnBkSGtoc2M?oc=5",
-      "fonte": "grupoceres.net.br",
+      "fonte": "Grupo Ceres de Comunicação",
       "publicado_em": "2026-10-01T16:52:18+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Guaíba sobe 26 centímetros em 24 horas e entra em alerta para inundação em Porto Alegre grupoceres.net.br"
+      "resumo": "Guaíba sobe 26 centímetros em 24 horas e entra em alerta para inundação em Porto Alegre Grupo Ceres de Comunicação"
     },
     {
       "id": "76020acc8c6d",
@@ -344,46 +364,26 @@
       "resumo": "Ondas de cheia e vento sul elevam risco de inundação do Guaíba e Defesa Civil mantém alertas para rios do RS abcmais.com"
     },
     {
-      "id": "acf97d7fd330",
+      "id": "3e40ba10555d",
       "titulo": "Defesa Civil estadual alerta para risco muito alto de inundação do Guaíba nas Ilhas de Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdG9RQndfMXFVY2JfYVdIOE95MHdvVExRUmtIR0kyT0dSSW0wOVR0MG9HVjVfcjh3T3c5bHRNMzU0M29JcEZUVnhCWWpCNzFRck12OTR2dVdXUVUtYmtoQkhQZDZIRjZfQW5CZVp2eFVORFVuNWt2UVFGQ1B1cUNlcXkzZ2t3TFNoYTlMVGxhRHd1X0IzT2tKazlPd1NkZnpqNlRjMXktY1hjcE13NFBQTzdhd3JNQnh1aW5YSDZoejNkZmRrNlZ1ZUZLOEZwXzByaVEtZA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZlAzWnctUy03aDZlaFg2dG9fQVN3ckRKbDNmVnlmVFV6d2p2emJaWTFQckRrOF9mZVNxc2h6SnU1NFYxSEhTQ2FiTW5aYWdnOEp3aWkyRFo0RjlSdDN5d2NCT3RJcnZsbHB1eTJ6WXkxU3BSWGpUVHlzSDR1YWlsaWhpQ3FIdXAyQVNfZmtqLXNoSEhmUjh1b2dMN3c1blB0MHpjOXpMd3ZoQXBpRklESlhzcnlITEVsVFY1VTZZMHdPaEhXZExnY0pldGdTM3VpVzNaTHg2Y1djaFk?oc=5",
       "fonte": "Portal do Estado do Rio Grande do Sul",
       "publicado_em": "2026-10-01T14:26:15+00:00",
       "categoria": null,
       "feed": "google",
       "resumo": "Defesa Civil estadual alerta para risco muito alto de inundação do Guaíba nas Ilhas de Porto Alegre Portal do Estado do Rio Grande do Sul"
-    },
-    {
-      "id": "ebdafec0ac09",
-      "titulo": "Guaíba entra em alerta de inundação e atinge 2,32 metros",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjROemNSRWdkUk5yWkpJQmIwTHVXd2dMVU9WUXVtbGxaVEcxdnNKSk1mZUFNQWxsUDhKajIxSEdVRG1JbEFYYlBheWVWaFluU0d5WVhpTkdsNXpKSzBRQ1BEV294Y1A3LTBSRGlpbWpqOHdKUWRMOWZ2SWg4Z2VBcHpOTzJkYm1IZjlrcUY3WXVCRmcyWk43UlAzcUE5bDhGNzVPZ0dkSkM?oc=5",
-      "fonte": "NB Notícias",
-      "publicado_em": "2026-10-01T14:23:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba entra em alerta de inundação e atinge 2,32 metros NB Notícias"
-    },
-    {
-      "id": "9db5de81115d",
-      "titulo": "Guaíba deve atingir pico entre cotas de atenção e alerta em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSjJZamE2Q1NpZlNFRnN5TGxvVEIwbGNveDlkTE5kZ2ZuS2F6OGZ6bWptWG9SQ2dLNXN6R2U4amZWYnBVekhUQmtlNFoyQnduSzg2dVZxdzVpSUN2MmdCWnZTZU5kSXE3eTZoZkk2cGpVTUcwVnVELVRCNVUyWnNrV3VEVGNHTUtIcTM5YlpLY2VzdEt2NHZ3T3p6UlVTZWN4U3hXanBpNlhESTB0aWZNbFVOT3V0SG1E?oc=5",
-      "fonte": "Sul 21",
-      "publicado_em": "2026-10-01T13:19:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba deve atingir pico entre cotas de atenção e alerta em Porto Alegre Sul 21"
     }
   ],
   "noticias_home": [
     {
-      "id": "2be8f99a228a",
-      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
+      "id": "20ea4fe0d8af",
+      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-02T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
+      "resumo": "169 consumidores permanecem sem energia."
     },
     {
       "id": "388f50763bb7",
@@ -406,6 +406,16 @@
       "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
     },
     {
+      "id": "0c103e9d857b",
+      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
+      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-02T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+    },
+    {
       "id": "edea690a93c3",
       "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
       "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
@@ -414,16 +424,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
-    {
-      "id": "20ea4fe0d8af",
-      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-02T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "169 consumidores permanecem sem energia."
     },
     {
       "id": "ac4e71bc4bdd",
@@ -436,24 +436,24 @@
       "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
     },
     {
-      "id": "b06d127f4e0e",
-      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
+      "id": "2be8f99a228a",
+      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-10-02T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
+      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
     },
     {
-      "id": "a583b37fadbe",
-      "titulo": "Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba",
+      "id": "db4c16c9fddf",
+      "titulo": "Prefeitura de Guaíba tem previsão de diferença de até R$ 104 milhões no orçamento de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-r-109-2-milhoes-em-caixa-mas-preve-investir-menos-em-2027-diz-secretario-da-fazenda",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
+      "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
     }
   ]
 }
