@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-04T17:58:36.560665+00:00",
+  "gerado_em": "2026-10-04T21:11:39.556652+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,14 +74,24 @@
   ],
   "noticias": [
     {
-      "id": "2be8f99a228a",
-      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
+      "id": "edea690a93c3",
+      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-04T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+    },
+    {
+      "id": "0c103e9d857b",
+      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
+      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-04T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
     },
     {
       "id": "d7cbf332c5fc",
@@ -94,24 +104,14 @@
       "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
     },
     {
-      "id": "edea690a93c3",
-      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
+      "id": "ac4e71bc4bdd",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-04T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
-    {
-      "id": "20ea4fe0d8af",
-      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-04T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "169 consumidores permanecem sem energia."
+      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
     },
     {
       "id": "ad11fea47e8c",
@@ -124,14 +124,24 @@
       "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
     },
     {
-      "id": "ac4e71bc4bdd",
-      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
-      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
+      "id": "2be8f99a228a",
+      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-04T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
+    },
+    {
+      "id": "20ea4fe0d8af",
+      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-04T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "169 consumidores permanecem sem energia."
     },
     {
       "id": "388f50763bb7",
@@ -144,6 +154,16 @@
       "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
     },
     {
+      "id": "04f08750afc3",
+      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
+      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
+    },
+    {
       "id": "b06d127f4e0e",
       "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
       "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
@@ -152,16 +172,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
-    },
-    {
-      "id": "a583b37fadbe",
-      "titulo": "Temporal com ventos acima de 80 km/h deixa casas destelhadas e 7 mil imóveis sem luz em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/temporal-com-ventos-acima-de-80-km-h-deixa-casas-destelhadas-e-7-mil-imoveis-sem-luz-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
     },
     {
       "id": "db4c16c9fddf",
@@ -174,24 +184,14 @@
       "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
     },
     {
-      "id": "04f08750afc3",
-      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
-      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
-    },
-    {
-      "id": "e43f391c9330",
-      "titulo": "Temporal no RS atinge mais de 13 mil pessoas e gera alerta para risco de inundação do Guaíba nas Ilhas",
-      "url": "https://sul21.com.br/geral-1/2026/10/temporal-no-rs-atinge-mais-de-13-mil-pessoas-e-gera-alerta-para-risco-de-inundacao-nas-ilhas-do-guaiba/",
-      "fonte": "Sul21",
-      "publicado_em": "2026-10-04T13:42:40+00:00",
-      "categoria": "Geral",
-      "feed": "sul21_direto",
-      "resumo": "Em decorrência das fortes chuvas e ventos registrados nos últimos dias, a Defesa Civil do Rio Grande do Sul emitiu, neste domingo (4), um alerta de risco muito alto de inundação no Guaíba, atingindo as ilhas de Porto Alegre. A vigência do alerta é válida até às 17h40. Nas últimas 24 horas, o Estado…"
+      "id": "7fb9bb5a8eca",
+      "titulo": "Marcelo Maranata (PSDB) vota em Guaíba",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/04/marcelo-maranata-psdb-vota.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-10-04T18:48:48+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Marcelo Maranata (PSDB) vota em Guaíba Victória Rodrigues/RBS TV O candidato ao governo do Rio Grande do Sul Marcelo Maranata (PSDB) votou neste domingo (4) em Guaíba. Ele chegou ao local de votação por volta das 15h, acompanhado da esposa e também candidata a deputada estadual, Deisi Maranata, e…"
     },
     {
       "id": "d1f977f45676",
@@ -214,6 +214,16 @@
       "resumo": "Saiba o que fazer em caso de tempo extremo de acordo com a Defesa Civil A Defesa Civil de Porto Alegre emitiu um alerta, válido das 9h desta quarta-feira (30) até as 12h de domingo (4), para o risco de elevação do nível do Guaíba. Ele poderá atingir a cota de inundação no bairro Arquipélago e áreas…"
     },
     {
+      "id": "bad093a3cfb3",
+      "titulo": "Maranata vota em Guaíba e diz acreditar em “surpresa” no resultado das eleições",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeHBoWjRhSWNuYzhJTW9MVGNIVVFVc2NsajVmOXc3ZG0zQlM5SGN0Y0lIRXo1bUhCTXZacmlOM2hvLVNEMEI2RUNBNTdhV3dEV3JmLVltbl9qaUxVeV9fa091cUNOcFFQMzBRcTN5UzY2U0h0bDhSdjFMTml0N1VZTUFLT1h2NGFHVURoQmZZeWt5X2w4TTFmVDJtc0E4Zlh4SVp0aF9JRWJGT3Z6UFcxb0hzcC1PVURoa0hZV3llN092cFZoZGJjX0NielpyZzJqYWJYOWZGdmpUV09Kbi15Y3R4bkNMRW5uQVQwTVBiclA5YUdJR0J5emZ1bw?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-10-04T19:07:30+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Maranata vota em Guaíba e diz acreditar em “surpresa” no resultado das eleições Correio do Povo"
+    },
+    {
       "id": "50f7ab41ce8e",
       "titulo": "Defesa Civil emite alerta de risco de inundação nas ilhas do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT2s1ZDBJUHlFUV9CS0o2M0hvbDMzZ0FSRWo3UzYzcFhlMTdRR18tUDloTVg4bzNrMmxzTURsbzVnUlJ1eXN1dHNtTjZxSVQxWGRJVnFUMFJXaHdPOWJxX2tkd1lIcHN2TUxfZEUwczE5dUhiZEVQUmxRZlN4bi1BWFItRUphMFRvMUJXVHJrZF9iYlJaMlZwYVhDUHpPU1Y4NEZDU3ZFay1PUXdKWG55MGVsWHpPRFFZekZ2T2YxdFEwU1lMckE?oc=5",
@@ -222,6 +232,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Defesa Civil emite alerta de risco de inundação nas ilhas do Guaíba Jornal do Comércio"
+    },
+    {
+      "id": "cf65f4fd2bce",
+      "titulo": "Temporal no RS atinge mais de 13 mil pessoas e gera alerta para risco de inundação do Guaíba nas Ilhas",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbU1nUVpOM1Z3bktXSFNnNVpuV3ZXQTVuZ1ZPV2RLNklmMGhGV0Z5bnZ1ZUhEQ2lSQzJ6T2FGdzIwX1B6Zk5WXzZkLXpkekczV2pkbnJxeWFEVU9kS1Iwbm5MQVZtcEFCSjYyQTk1Mi1DUjcyclpua0x2YmQ4SXhKNkRESlpCSG0xa1JCZ3RBQk9JRWxqODJXb1o2dmlETWRnSUdZaHh5Q3JMTm9CU2JQUUVGdXJwamJYRHdKNWNJMERGRUJ5WDFsT3hYUkZwZVg3YnlNWU9CNA?oc=5",
+      "fonte": "Sul 21",
+      "publicado_em": "2026-10-04T13:42:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Temporal no RS atinge mais de 13 mil pessoas e gera alerta para risco de inundação do Guaíba nas Ilhas Sul 21"
     },
     {
       "id": "08e645769935",
@@ -287,11 +307,11 @@
       "id": "c86fcb20a112",
       "titulo": "Estáveis, águas do Guaíba e rio Jacuí seguem presentes nas ruas de Eldorado do Sul",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZDVYS25Bd3lRc205LXpBSmxhTzVoZE9NTFgycGx3Q3d3eG1vemJUSVNjc3lJeTYzM20wb1ZYRTRKdUZpV2FBNWhrYjgzZG5MZEZnSXYxRWY4dmxJM1IzNnAwV2F4TTN5eVhUNFRxcENHT0Y0cG9RRV9TY3FRZU5jQWRVeWh2cmFUeFJQV21tVmhLd3hpZ2FRTHROa0lMVEFiTE1jOEpzN1A3VnVLdFVZMVJOX0Q5clI3SW44cW5xQ1JoTnJHZm5XSzBMZUE1S2RkcGtwcE8xekJrYnFOVm9B?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-10-02T16:19:12+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Estáveis, águas do Guaíba e rio Jacuí seguem presentes nas ruas de Eldorado do Sul correiodopovo.com.br"
+      "resumo": "Estáveis, águas do Guaíba e rio Jacuí seguem presentes nas ruas de Eldorado do Sul Correio do Povo"
     },
     {
       "id": "1557075d5bec",
@@ -337,53 +357,43 @@
       "id": "970ad4a4912f",
       "titulo": "Com Guaíba em nível de alerta, Jacuí segue em cota de inundação e rios da Bacia do Uruguai sobem no RS",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVnozTFNlbTVUeGJCV3dhZVpoMGVWZTYxWnlvWGFYVmltdWw5NGF2bWFjQmZ3NVpUWVVSa3NTMmtDckdjS3NwcmtpVUUxY1YzSDM4d1h4MFVSTnVXN19hbS01SmxmTWEweG4yS2V6Smc5OEROWUNKOTk0WVoxaFZlTHFwSUc3Y2RqYXVZSWFvdktUMmhOUHVCRURWOS1GcEVfYVVhY1J1di1JTW5UQU1SRi1mOXZwbFRmaE5fRnR0dzBLM2RHdEZfSVFsU0J5WXY5Z2pjYUI4X2hUQWJHVHFGVEFQUGhRa2ViTm0xOC1XYS1QRDQ1RGlSNGZR?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-10-02T12:04:03+00:00",
       "categoria": null,
-      "feed": "correio",
-      "resumo": "Com Guaíba em nível de alerta, Jacuí segue em cota de inundação e rios da Bacia do Uruguai sobem no RS correiodopovo.com.br"
+      "feed": "correio_metro",
+      "resumo": "Com Guaíba em nível de alerta, Jacuí segue em cota de inundação e rios da Bacia do Uruguai sobem no RS Correio do Povo"
     },
     {
       "id": "5e57bbd2fa59",
       "titulo": "Guaíba chega a 2,48 metros e segue em alerta de inundação",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWdOenZfaHZTci1hTmUzMGVFem40V3VKZDdkcHBVVVpZMnN4MGVfb1R0WnNvSDdwdHRkc0ZTckJ1T3RkcUpsbm9KWjZTWF9IY1UzQW1fa1V3amVrTXNNT2pLeDNMNk0wRjNEY19ObzBCN19zRW5nc1NwRjFBRFJpOEgwZllJQURCZHN2c1NMUUszdGR3Sy1mUFFVSXhuSWZZOFdyVnZ1dkNjVWIySWd0S2RfamVlcTNyOWN2NWVR?oc=5",
-      "fonte": "correiodopovo.com.br",
+      "fonte": "Correio do Povo",
       "publicado_em": "2026-10-02T11:54:34+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Guaíba chega a 2,48 metros e segue em alerta de inundação correiodopovo.com.br"
-    },
-    {
-      "id": "6cad1c29ec4f",
-      "titulo": "Defesa Civil emite alerta vermelho para risco de inundação no Guaíba em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUUhwOFlMNS1sV0lsbW9EOXQzelB1SWdtNVczSUhzdEM1ZVJUUk4tOVFjZjFOaE9mZ1JJSFhPcXMta0ZRQm5oTzh4aV9aWGZDLVB5RU91V2F3eUFDSUlSWF9scDhfeHpZMzVXU3ZoQktJYkxPMUhncVdMNEEwSkF1NExvQ1JwN0tKSW5yRkxVX005MUlKc0dzX2dzaDNyQld0MHhKbUJYWFVVQnp6S2RMNkNBNEgzQWVHMmhEZTFpN3c2UHdreVlDUDhOOENnMU8yNTk4TE0yVnJSQnZlWl9jdDZVcF9VWDhSZzBoVHhaTTUyUlhEb1NXUnA0MVZfcFhD?oc=5",
-      "fonte": "Terra",
-      "publicado_em": "2026-10-02T10:54:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Defesa Civil emite alerta vermelho para risco de inundação no Guaíba em Porto Alegre Terra"
-    },
-    {
-      "id": "6423eb5f3046",
-      "titulo": "Guaíba atinge cota de inundação; confira a previsão do tempo para o final de semana",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQjJlSnFhSTgzM2NTUzVtT2RMckt6OEZmbXlvcXFodzBZdFI2NTlVcHQwcDhaVTYyci1LUFRRR3hVOXF5V01WaXlaZTVDc1dNeldWS0d4UGVrY3dFM0FHeHZzd1ZmOWt2a0hvck5NYm9uRFBSbGh2ak5WZURyWFRNVE1Lci1qNXVnM1Y1SHRQRy1zVnZPLUF2eUs1cno4TGd4TUp5TVdpWDBkODlFRHpKd1RxS05CbFdYVW9YMW56cGdpdnc1Q245endhb2l5RW9Qa1ZPODhtdW5MLThtZmZEOG11blRUQQ?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-10-02T10:44:20+00:00",
-      "categoria": null,
-      "feed": "gzh_metro",
-      "resumo": "Guaíba atinge cota de inundação; confira a previsão do tempo para o final de semana GZH"
+      "resumo": "Guaíba chega a 2,48 metros e segue em alerta de inundação Correio do Povo"
     }
   ],
   "noticias_home": [
     {
-      "id": "2be8f99a228a",
-      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
+      "id": "edea690a93c3",
+      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-04T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+    },
+    {
+      "id": "0c103e9d857b",
+      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
+      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-04T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
     },
     {
       "id": "d7cbf332c5fc",
@@ -396,24 +406,14 @@
       "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
     },
     {
-      "id": "edea690a93c3",
-      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
+      "id": "ac4e71bc4bdd",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-04T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
-    {
-      "id": "20ea4fe0d8af",
-      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-04T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "169 consumidores permanecem sem energia."
+      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
     },
     {
       "id": "ad11fea47e8c",
@@ -426,14 +426,24 @@
       "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
     },
     {
-      "id": "ac4e71bc4bdd",
-      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
-      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
+      "id": "2be8f99a228a",
+      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-04T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
+    },
+    {
+      "id": "20ea4fe0d8af",
+      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-04T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "169 consumidores permanecem sem energia."
     },
     {
       "id": "388f50763bb7",
@@ -444,16 +454,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
-    },
-    {
-      "id": "b06d127f4e0e",
-      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
     }
   ]
 }
