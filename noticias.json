@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-05T19:03:56.033946+00:00",
+  "gerado_em": "2026-10-06T01:07:22.750459+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -94,6 +94,16 @@
       "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
     },
     {
+      "id": "388f50763bb7",
+      "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-05T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
+    },
+    {
       "id": "20ea4fe0d8af",
       "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
       "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
@@ -114,24 +124,14 @@
       "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
     },
     {
-      "id": "ad11fea47e8c",
-      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
+      "id": "2be8f99a228a",
+      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-05T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
-    },
-    {
-      "id": "388f50763bb7",
-      "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-05T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
+      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
     },
     {
       "id": "edea690a93c3",
@@ -144,14 +144,14 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
-      "id": "b06d127f4e0e",
-      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
+      "id": "ad11fea47e8c",
+      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-10-05T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
+      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
     },
     {
       "id": "a583b37fadbe",
@@ -164,14 +164,14 @@
       "resumo": "Dez casas foram destelhadas na madrugada desta segunda-feira, de acordo com boletim parcial da Defesa Civil"
     },
     {
-      "id": "04f08750afc3",
-      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
-      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
+      "id": "b06d127f4e0e",
+      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
+      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
     },
     {
       "id": "db4c16c9fddf",
@@ -184,14 +184,14 @@
       "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
     },
     {
-      "id": "151c35dc6eaa",
+      "id": "271023956a12",
       "titulo": "Eldorado do Sul tem recuo do Jacuí e do Guaíba após semanas de elevação",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3RPMGNtQ29hT3VLU2FoTjg3Q2Jidk5kUW83SDhacGRJV1d4aGdOSHpqcThDU3dNcWJHa2N6bFFMZ282bzBTOXMwei12bl9IZWgzZ181dVFuRm9KUE1yZ2sxOFJ3LWFQbS1BM3dxV0xMalpKUWtiNFF2OTdOQUctamNQSHo4cjlmTmUxOFdCZURlYmt3SGdEVlJR?oc=5",
-      "fonte": "Rádio Guaíba",
-      "publicado_em": "2026-10-05T17:43:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNkhPUnhKVWdPejZOenNIc19WMnNCQjV4R3FjbVU3WDl3cGFCSlY5UjNkLU11bkN1MXVoa0lmWjBrR3Qzbjh5NDhGWmxpT2RaV005ZnBYaUl0V0E4QmFCbmNsekRLb1pJbU9BUFZrcUlJOEV1V0p4LWhqSHVuY3lrb0NGRHNkeXFRNmpnNVlDZF9MT051SmdzQU8wbGtqd2ZLdHVUZkxyTjNPMHA2V2ZnamprMFF3ejV0YUZWR2R6UVBMcUZfaFlKYTU3N2tmMVNycHc?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-10-05T22:25:56+00:00",
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Eldorado do Sul tem recuo do Jacuí e do Guaíba após semanas de elevação Rádio Guaíba"
+      "feed": "correio",
+      "resumo": "Eldorado do Sul tem recuo do Jacuí e do Guaíba após semanas de elevação Correio do Povo"
     },
     {
       "id": "74a5b96c3b9c",
@@ -246,11 +246,11 @@
       "id": "7a18425687a7",
       "titulo": "Porto Alegre avança como Cidade da Natação em Águas Abertas e mutirão retira duas toneladas de resíduos do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZFlBM21Lc0tFYTR2ZlZlQ2RwUHc4RmRzLU1Ka2dvUXVUbkZJLVJOWFN1NGpUWTg5a0dzLTl2V2I2ZE95MngxYXZmQnZwNFQwSm5GcnpubklBYjh5dzM4c3FjY3FaSmZqS1VfT09nUnE1VnhFLUplNDhUazJ4NkF5U2dtc2dfa2NCM3lVXzdMeVN6bEFRNmlGVmJUYk1JMkNGMEpYREVIaXRVQ2tpdEJSU0pTS0Fua2l1SUhpSFlZbG1pUXpyWlpYT1M2cThWZDQzWFgyLWU1cUhJZER3VzFueXZsY0MyN0NadGw1NlZRMk5yaTBfTzBINzVhNW94bGs?oc=5",
-      "fonte": "Gramado Magazine",
+      "fonte": "gramadomagazine.com.br",
       "publicado_em": "2026-10-04T23:34:52+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Porto Alegre avança como Cidade da Natação em Águas Abertas e mutirão retira duas toneladas de resíduos do Guaíba Gramado Magazine"
+      "resumo": "Porto Alegre avança como Cidade da Natação em Águas Abertas e mutirão retira duas toneladas de resíduos do Guaíba gramadomagazine.com.br"
     },
     {
       "id": "97e00bdac72e",
@@ -395,6 +395,16 @@
       "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
     },
     {
+      "id": "388f50763bb7",
+      "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-05T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
+    },
+    {
       "id": "20ea4fe0d8af",
       "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
       "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
@@ -415,24 +425,14 @@
       "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
     },
     {
-      "id": "ad11fea47e8c",
-      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
+      "id": "2be8f99a228a",
+      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-05T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
-    },
-    {
-      "id": "388f50763bb7",
-      "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-05T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
+      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
     },
     {
       "id": "edea690a93c3",
@@ -445,14 +445,14 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
-      "id": "b06d127f4e0e",
-      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
+      "id": "ad11fea47e8c",
+      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-10-05T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
+      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
     }
   ]
 }
