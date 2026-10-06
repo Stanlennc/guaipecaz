@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-06T16:30:03.015156+00:00",
+  "gerado_em": "2026-10-06T22:21:11.799795+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,54 +74,14 @@
   ],
   "noticias": [
     {
-      "id": "20ea4fe0d8af",
-      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
+      "id": "ad11fea47e8c",
+      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-06T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "169 consumidores permanecem sem energia."
-    },
-    {
-      "id": "388f50763bb7",
-      "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
-    },
-    {
-      "id": "d7cbf332c5fc",
-      "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
-      "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
-    },
-    {
-      "id": "edea690a93c3",
-      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
-    {
-      "id": "ac4e71bc4bdd",
-      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
-      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
     },
     {
       "id": "2be8f99a228a",
@@ -134,24 +94,54 @@
       "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
     },
     {
-      "id": "0c103e9d857b",
-      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
-      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "id": "388f50763bb7",
+      "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-06T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+      "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
     },
     {
-      "id": "ad11fea47e8c",
-      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
+      "id": "ac4e71bc4bdd",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-06T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
+      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+    },
+    {
+      "id": "20ea4fe0d8af",
+      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-06T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "169 consumidores permanecem sem energia."
+    },
+    {
+      "id": "d7cbf332c5fc",
+      "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
+      "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-06T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
+    },
+    {
+      "id": "ab932eb63f3d",
+      "titulo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos",
+      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
     },
     {
       "id": "b06d127f4e0e",
@@ -164,6 +154,16 @@
       "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
     },
     {
+      "id": "db4c16c9fddf",
+      "titulo": "Prefeitura de Guaíba tem previsão de diferença de até R$ 104 milhões no orçamento de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-r-109-2-milhoes-em-caixa-mas-preve-investir-menos-em-2027-diz-secretario-da-fazenda",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
+    },
+    {
       "id": "04f08750afc3",
       "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
       "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
@@ -174,14 +174,34 @@
       "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
     },
     {
-      "id": "db4c16c9fddf",
-      "titulo": "Prefeitura de Guaíba tem previsão de diferença de até R$ 104 milhões no orçamento de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-r-109-2-milhoes-em-caixa-mas-preve-investir-menos-em-2027-diz-secretario-da-fazenda",
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (PSD) nesta terça"
+    },
+    {
+      "id": "635da9360a46",
+      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Santa Rita de Cassia, na 90ª zona eleitoral",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNUWoyZXljUGlzNE1tZ3RyaEhjZzVyX3dycFJIS0dOTDRWeGY2OG5zenkyb2R5bmlZdWF4UGFjRTZrUEQyLS1HTHBrRjFQM3NhU2xtS0ViWFNZUW9OOVV3UEhCdnd6T3VLTElMaTBmcW5aTEJPT2FPZTdRUzNXVFNWQUpEbjF4ZDlibFRTekJXb2xibmJnZXFTYmxUSWxWQy1OSjFqU3dScXBDTnN5aEY5QnI5RXFCQm1ObGpDS2hRcVJxYXN5V1JpU1czMWVYaE9Od0tZdkRWaXktenJSRHhZaGsyYzNDUDhqaUNyQWlpM3UwWVA2MnlidVJuLTZrb1huVmN5ci1lcU9kbndTdWI1NldUX1UwMFFVdHBLUk9INmpZNU9BMWfSAbQCQVVfeXFMTlFxb3VsN0IwVTZ4QlBTMTliR19CU2Q3R3J1OGFTX21iZlJXbnYwUktzZ1J2cW13TTRhNFVtdW9wWklEYi1WU3M0VHhMVTZvcUZaZnl5cFNRRC1pUTlqU0RpX3IzWmpiZmY4TWpFVkV3UGZGRXR6TGhCZHNpN1dqUGlXclNkMkllNy02U0ExckUwUUhCNDA1YVdxRHAyY3UtSW03b2NOc0thZzByX0ZTS20tNGdBay0wdUIyTS1BVm92ck5jUElLdTVpTmY1ZWIxNThQYXVEcWlqX2FBUW5WTDdWX3ZjYzVKWWpzQUo3X21yN2JrSnVGNWo0ZFpNUm9QamszRnI3c3A2OEVmLUpXOEhGa0pEakF1TmQ4Y3c3ZTBZZHk3V0dodzM2RWVUU3puakJuUGs?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-06T17:59:40+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Santa Rita de Cassia, na 90ª zona eleitoral G1"
+    },
+    {
+      "id": "d728b5f607a6",
+      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Sao Francisco de Assis, na 90ª zona eleitoral",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPZXllemdTU011cl9tOExaSGJodFB6Qms0MTROMnlrSWRNYmtTeUFmZGNXRW42WkExbDd1bllpT2FGOFBqWC1Cang1T0s1MUNtTVlVOGNhNVBhdFdaR2VhcEV5NWVqSVlCWDRBNV83TkFTbk9uNUVoZjVyNU9HcTA2TWgtajNXMEV4RmFDQ2lrc2NNMEVkQk1JWkRXSmVxS0NrQ1VzV1hLbHhiMHpaTFFIQmJKeWdLOVYxcFV1Z3J3Y29mRlNJRVlFLWpqdlFJamNsRWJTSzRJenJ6RUtVR1ZEMV93TEM5MzQ1UFZFR0hJZXc4Ul94emE5dzQ3WUpqODJFc0Zkam9EbC1iLWFyaEFqZHFVYVpvNmF1Y1dZcjdocW9QeWdJUmotWdIBtwJBVV95cUxOUlE3b0NJWjlmdjc2YUx1Z2FPc1VTZFdZM25MME1IR19GT0lQbmZvUE8yMzFHLXlQMlJFcHE3UjRJRnVSbHRwQzgtMFUzUFJETWNtM0lkalFVbmM0NUtOb2FibXB2bGhRMnozcUdLU3NlLVBfZWFwMHBrd0hMYTZrLV9ZRFJqVjJOS1FWMTQySC1tVl9VTmNDLVFiX0hNSGx3djlJZVRvcFlZODJ0V2M2aE14bjZ6LWFTYUdKWjlpOU55dnFoTmt1b21SakhDanYwWGxKZHJCLUpFekVISjNDNEVqX1dnS2hleURZdHd2cXYzbE1JTEtYYkt0NHA3YnNzVHFudHBUM3FQTENZMGFEUEFkRXZxNGszVlpJZDhlWnNHZ0cwZVZESDMxcTRvSTJCM19OeWIzVQ?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-06T17:59:35+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Sao Francisco de Assis, na 90ª zona eleitoral G1"
     },
     {
       "id": "48f505ffafad",
@@ -204,44 +224,44 @@
       "resumo": "Obras das quatro alças de acesso da segunda ponte do Guaíba deverão ser concluídas em 20 meses Jornal do Comércio"
     },
     {
-      "id": "ba94940f4e71",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no Salao Paroquial Nossa Senhora da Paz, na 90ª zona eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObFFNQUlUaXZxcjA3MmtfdW9XbUxQWmVocHZFQlEwSmFyTUM1dmVaaEx1dzBOU1pHSkdhX0xmejl5ZGNjYTJCc196RFJXdDdmZ0M1cERkUnQwM2lQUUctNktvWC1iM0tXSEJRSXR2SURfZnJqR0k4T1dmSjBqRlB4RFJSQThWcEpOZ043VjcwTi1DQ2J3MkVFSDNmenJUbWpQZ2pCWkdqTEtoWUQzNnZnLVRiV3VWLV9NTkFVem12a2hrWVpMeUpzdTJHMDV3Y0JuTmI5VFFVck1XdjdvMVZwVlR5VmxsTFdkQW9XbEJlWUhsb28?oc=5",
-      "fonte": "www.radioviramundo.com",
-      "publicado_em": "2026-10-06T11:14:16+00:00",
+      "id": "07503f928e53",
+      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente na Escola de Ensino Técnico Solon Tavares, na 90ª zona eleitoral",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNejRJanMydFJiWWhRbE5uZ3dlbTQ5TDRYR2R3bWZhLURfSWtVdU9qakZ0Tm1wN0VxYnN5YmtnLU9zTk9KTFZuVjZtQS1IbFRfUEZ3Tkt4NUlXZHU0WWdfbGhsLUNGQm9KelR0VzAtTnNMQVpKQ256SmZKaGtMXzhjZ0Y0cnJRNDJraUVXdmdvUW9PaWZoU0xSSHFobW0wbkRoQU1uSkM4UkJOUGV2dFdndVIzc3FNRkRVNWhNYVhtRWM0UGJ0Z0Vta2I2YzdXZ3hWQmNzb0RjQmROc3BvbzZYMUpQdHhURi1UaEtXV2llSHROZ3cyYkE?oc=5",
+      "fonte": "radioviramundo.com",
+      "publicado_em": "2026-10-06T11:13:56+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no Salao Paroquial Nossa Senhora da Paz, na 90ª zona eleitoral www.radioviramundo.com"
+      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente na Escola de Ensino Técnico Solon Tavares, na 90ª zona eleitoral radioviramundo.com"
     },
     {
       "id": "52fb8def0d2e",
       "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F Doutor Gastão Leão, na 90ª zona eleitoral",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVmoyMjRvcnA3eVl0NElxWDd4emV4U0tmUEVrUWhvNU5lTm9BTlZ0WDA4V19sOGZ5c05iRXBsOUxsRVdBUVNTc3RCall5Z0htZUxQaWk5bURsZlh4Y1pmbFlVQnRNZTd6QnpOTnRIeXp4d3E5VV81d0U0aXlFc1dPZlFrVnAwV1hhMVJOT1Iyay1FZmhZOVVMbHU2cnE1T0dOYUNWb0tEUjJwWkpMUlRnSUtRSV9xNm1yYVljaVU5U2NMR0VQS0lxQktsRDFxX2FacVFxSWtjR1lEQVdHTDJEaE1B?oc=5",
-      "fonte": "www.radioviramundo.com",
-      "publicado_em": "2026-10-06T11:14:15+00:00",
+      "fonte": "radioviramundo.com",
+      "publicado_em": "2026-10-06T11:13:56+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F Doutor Gastão Leão, na 90ª zona eleitoral www.radioviramundo.com"
-    },
-    {
-      "id": "07503f928e53",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente na Escola de Ensino Técnico Solon Tavares, na 90ª zona eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNejRJanMydFJiWWhRbE5uZ3dlbTQ5TDRYR2R3bWZhLURfSWtVdU9qakZ0Tm1wN0VxYnN5YmtnLU9zTk9KTFZuVjZtQS1IbFRfUEZ3Tkt4NUlXZHU0WWdfbGhsLUNGQm9KelR0VzAtTnNMQVpKQ256SmZKaGtMXzhjZ0Y0cnJRNDJraUVXdmdvUW9PaWZoU0xSSHFobW0wbkRoQU1uSkM4UkJOUGV2dFdndVIzc3FNRkRVNWhNYVhtRWM0UGJ0Z0Vta2I2YzdXZ3hWQmNzb0RjQmROc3BvbzZYMUpQdHhURi1UaEtXV2llSHROZ3cyYkE?oc=5",
-      "fonte": "www.radioviramundo.com",
-      "publicado_em": "2026-10-06T11:14:14+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente na Escola de Ensino Técnico Solon Tavares, na 90ª zona eleitoral www.radioviramundo.com"
+      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F Doutor Gastão Leão, na 90ª zona eleitoral radioviramundo.com"
     },
     {
       "id": "0607ce01b5e6",
       "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Arlindo Stringhini, na 90ª zona eleitoral",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTHFJdF9MeUEzWnI3dDRselp4b0FhaTBoZ3pVUlFaRTNkZG02bjdFNEJhUTF1cWFGd1Qtb2RGMUNRNzNPdjlzZDlRaGdkMXNvamRjYkJsV0xSMnB1Rzd1bkhKNHRNeklnZUpzbVBocEZEaEJkTnI0cUFsNWpzU05uaElXLWFtTVlTakFCT1lBN05JWjBlcmFnb3NTalZQc0N1bF9kWDF2dElPSDRVYlNvZUVEYjBoT3FoZmFxc0FJZ1QyZHF1U2p4YnZHQWF5UkpoOHQ2ZDVHNXI0RXd2VVNwMXd3?oc=5",
-      "fonte": "www.radioviramundo.com",
-      "publicado_em": "2026-10-06T11:14:13+00:00",
+      "fonte": "radioviramundo.com",
+      "publicado_em": "2026-10-06T11:13:56+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Arlindo Stringhini, na 90ª zona eleitoral www.radioviramundo.com"
+      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Arlindo Stringhini, na 90ª zona eleitoral radioviramundo.com"
+    },
+    {
+      "id": "ba94940f4e71",
+      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no Salao Paroquial Nossa Senhora da Paz, na 90ª zona eleitoral",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObFFNQUlUaXZxcjA3MmtfdW9XbUxQWmVocHZFQlEwSmFyTUM1dmVaaEx1dzBOU1pHSkdhX0xmejl5ZGNjYTJCc196RFJXdDdmZ0M1cERkUnQwM2lQUUctNktvWC1iM0tXSEJRSXR2SURfZnJqR0k4T1dmSjBqRlB4RFJSQThWcEpOZ043VjcwTi1DQ2J3MkVFSDNmenJUbWpQZ2pCWkdqTEtoWUQzNnZnLVRiV3VWLV9NTkFVem12a2hrWVpMeUpzdTJHMDV3Y0JuTmI5VFFVck1XdjdvMVZwVlR5VmxsTFdkQW9XbEJlWUhsb28?oc=5",
+      "fonte": "radioviramundo.com",
+      "publicado_em": "2026-10-06T11:13:56+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no Salao Paroquial Nossa Senhora da Paz, na 90ª zona eleitoral radioviramundo.com"
     },
     {
       "id": "8f476ed7b86d",
@@ -352,78 +372,18 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no Guaiba Futebol Clube, na 90ª zona eleitoral G1"
-    },
-    {
-      "id": "51c19ffb5017",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Itororó, na 90ª zona eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNV3ZveVpKTGJiVjZRMldUeTNKcDR0Y1Bzb3pLZXRJcUxDTEFrNmN5M25Ja3FVU2ctVmRhRmtmbUFNSmUyOU9TcTJlT0RYQXhUb0c3azRLTGRKNmlqMHpkQldCZEhVYWpQSW1zMDZ1cmJZUi0xTER2bTVkVUFORUJBc0JRVkt2SmhYNFJxMTZHZncyMDF4dS1QNjBfVHhPeGxyYnh4Tll1V050VU5ZbVpEMHJXSXNsM242RzRQSXAtNnRaR0pRY0lsLUMwOV9FemwxOHpJWkRqeG9PMWx4b1ozZ0FHUzNhNVJEa0VBMmZicUF0ZGE4aXRPZ01TQzV5SHJPVkctd214bzFHSDZzZkl5dmZWeGZzWXM5RXNNdXlOOXlkdWfSAaMCQVVfeXFMTVd2b3laSkxiYlY2UTJXVHkzSnA0dGNQc296S2V0SXFMQ0xBazZjeTNuSWtxVVNnLVZkYUZrZm1BTUplMjlPU3EyZU9EWEF4VG9HN2s0S0xkSjZpajB6ZEJXQmRIVWFqUEltczA2dXJiWVItMUxEdm01ZFVBTkVCQXNCUVZLdkpoWDRScTE2R2Z3MjAxeHUtUDYwX1R4T3hscmJ4eE5ZdVdOdFVOWW1aRDByV0lzbDNuNkc0UElwLTZ0WkdKUWNJbC1DMDlfRXpsMTh6SVpEanhvTzFseG9aM2dBR1MzYTVSRGtFQTJmYnFBdGRhOGl0T2dNU0M1eUhyT1ZHLXdteG8xR0g2c2ZJeXZmVnhmc1lzOUVzTXV5Tjl5ZHVn?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-06T11:01:59+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Itororó, na 90ª zona eleitoral G1"
-    },
-    {
-      "id": "5b0f2bb19d22",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no Salao Paroquial Petim, na 90ª zona eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQTERBZFdPcjF3OTJQUnhXX1pkbHBrX05lWEtyX1U2OW16UmpnaXJJYlBVSTZfaVVnZUk2QVJMWHlodTJkSzNoNjFlRVNkcWw1a255R1A3VVRidEp6Q19uTmRya3ltREZkY3dDbGtXdVlJYkQ3Mm91Vl9HTDFrVWV3STBnNVg5eXV3c3pwUWRCVXZ1NzZPQ2l3cTVRRnZ3YkVXeXZwUDZwX3NRSzlLZVpBUnhYeUwzNjhFSWdSd1NXRFhTeFR3OGtaS01iMDhXYVYtN0IzaFdVQjZYR1F5YUltZmxGMks0cDVmVkY4ZWJvVFNaZFljMEQzNkd5d1FKYzdmUmE0VW9JOWtKRWxCX0ZvM29VeDNvRnpPcVZfeWdRSm9BYmRreEpXOXp4d9IBqwJBVV95cUxQTERBZFdPcjF3OTJQUnhXX1pkbHBrX05lWEtyX1U2OW16UmpnaXJJYlBVSTZfaVVnZUk2QVJMWHlodTJkSzNoNjFlRVNkcWw1a255R1A3VVRidEp6Q19uTmRya3ltREZkY3dDbGtXdVlJYkQ3Mm91Vl9HTDFrVWV3STBnNVg5eXV3c3pwUWRCVXZ1NzZPQ2l3cTVRRnZ3YkVXeXZwUDZwX3NRSzlLZVpBUnhYeUwzNjhFSWdSd1NXRFhTeFR3OGtaS01iMDhXYVYtN0IzaFdVQjZYR1F5YUltZmxGMks0cDVmVkY4ZWJvVFNaZFljMEQzNkd5d1FKYzdmUmE0VW9JOWtKRWxCX0ZvM29VeDNvRnpPcVZfeWdRSm9BYmRreEpXOXp4dw?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-06T11:01:58+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no Salao Paroquial Petim, na 90ª zona eleitoral G1"
     }
   ],
   "noticias_home": [
     {
-      "id": "20ea4fe0d8af",
-      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
+      "id": "ad11fea47e8c",
+      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-06T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "169 consumidores permanecem sem energia."
-    },
-    {
-      "id": "388f50763bb7",
-      "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
-    },
-    {
-      "id": "d7cbf332c5fc",
-      "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
-      "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
-    },
-    {
-      "id": "edea690a93c3",
-      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
-    {
-      "id": "ac4e71bc4bdd",
-      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
-      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
     },
     {
       "id": "2be8f99a228a",
@@ -436,24 +396,64 @@
       "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
     },
     {
-      "id": "0c103e9d857b",
-      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
-      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "id": "388f50763bb7",
+      "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-06T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+      "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
     },
     {
-      "id": "ad11fea47e8c",
-      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
+      "id": "ac4e71bc4bdd",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-06T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
+      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+    },
+    {
+      "id": "20ea4fe0d8af",
+      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-06T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "169 consumidores permanecem sem energia."
+    },
+    {
+      "id": "d7cbf332c5fc",
+      "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
+      "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-06T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
+    },
+    {
+      "id": "ab932eb63f3d",
+      "titulo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos",
+      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
+    },
+    {
+      "id": "b06d127f4e0e",
+      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
     }
   ]
 }
