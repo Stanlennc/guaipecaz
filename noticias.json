@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-06T22:21:11.799795+00:00",
+  "gerado_em": "2026-10-07T04:24:26.035363+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,64 +74,74 @@
   ],
   "noticias": [
     {
-      "id": "ad11fea47e8c",
-      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
-    },
-    {
-      "id": "2be8f99a228a",
-      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
-    },
-    {
       "id": "388f50763bb7",
       "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
+      "publicado_em": "2026-10-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
+    },
+    {
+      "id": "edea690a93c3",
+      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-07T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
       "id": "ac4e71bc4bdd",
       "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
       "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
+      "publicado_em": "2026-10-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
     },
     {
-      "id": "20ea4fe0d8af",
-      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
+      "id": "0c103e9d857b",
+      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
+      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
+      "publicado_em": "2026-10-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "169 consumidores permanecem sem energia."
+      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
     },
     {
       "id": "d7cbf332c5fc",
       "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
       "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
+      "publicado_em": "2026-10-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
+    },
+    {
+      "id": "2be8f99a228a",
+      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-07T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
+    },
+    {
+      "id": "db4c16c9fddf",
+      "titulo": "Prefeitura de Guaíba tem previsão de diferença de até R$ 104 milhões no orçamento de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-r-109-2-milhoes-em-caixa-mas-preve-investir-menos-em-2027-diz-secretario-da-fazenda",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
     },
     {
       "id": "ab932eb63f3d",
@@ -154,26 +164,6 @@
       "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
     },
     {
-      "id": "db4c16c9fddf",
-      "titulo": "Prefeitura de Guaíba tem previsão de diferença de até R$ 104 milhões no orçamento de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-r-109-2-milhoes-em-caixa-mas-preve-investir-menos-em-2027-diz-secretario-da-fazenda",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
-    },
-    {
-      "id": "04f08750afc3",
-      "titulo": "Observatório Social projeta déficit de R$ 15,2 milhões em Guaíba e alerta para possível queda na arrecadação",
-      "url": "https://www.reporterguaibense.com.br/noticia/observatorio-social-projeta-deficit-de-r-15-2-milhoes-em-guaiba-e-alerta-para-possivel-queda-na-arrecadacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
-    },
-    {
       "id": "352a6ab063cb",
       "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
       "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
@@ -181,7 +171,27 @@
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (PSD) nesta terça"
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
+    },
+    {
+      "id": "efbd6cd7f3f1",
+      "titulo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no seu local de votação; consulte por zona eleitoral",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-guaiba-rs-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-10-07T02:12:39+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Guaíba (RS) tem 1 zona eleitoral. O g1 publica reportagens com a votação para presidente em cada local de votação da cidade, no 1º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Escolha a zona eleitoral e confira…"
+    },
+    {
+      "id": "1fdf3c766d1e",
+      "titulo": "Guaíba vira palco da cultura árabe",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XcTFSY3NNM2l3Ml9GUmN6dzFzRDA4aXFxN3pPcFl3RjRSenJXWlM2YkxvYnlDdjFIc21PQWNxUGJ0YTUxR192ajNmRjJDXzY1djh0dElEem9mRGJ1ZXlfanBIRUFzR2hxTk1J0gFwQVVfeXFMUG1yMUgtWkc3QjhMYkpGcTB4RkpxVlU5enJhdmx0UUNQWWdaWkdxbFlBZnZNYXQxY0NmLWlfV0xiVDc5RVBxRGtSM2xaNFVwd3k2Ui1NX0ZWT0xkN3hKWFZPWldCeXVvUDAtb2k5REtOMA?oc=5",
+      "fonte": "Jornal O Sul",
+      "publicado_em": "2026-10-07T02:22:09+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Guaíba vira palco da cultura árabe Jornal O Sul"
     },
     {
       "id": "635da9360a46",
@@ -362,78 +372,78 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Senador Teotônio Brandão Vilella, na 90ª zona eleitoral G1"
-    },
-    {
-      "id": "562094987c35",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no Guaiba Futebol Clube, na 90ª zona eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOUmg0V0JGMkhyYk52TGwtNGxKZExpOHJxYmRnM2NFd3BRTjJsMWxFM3lzeEhtaG9RYmZaMUpCY2ZjSTlmclljZHhLaHU2WW00QWhkUzFPTVBNNENNOGNxY0M3T2c4ZWlxcDBWalQwN1NUVks4Si1TajNrMEtmMklGZnJiZmM5X2JMc3JXTVUwcnVQa29wUUs5NGYtSGM3WmRyc1hUaWdTWEdSY1JNY2dGVFFEM3pXS3A1a080RWU4aG9KbXNuM3FvR3JlczRXbnZaRmRSbmpmU1hEZE9MaGtnOG1aMkJObHpwS0lPYk1xeW5SMGxaZlJ2S0Mtd2lEX216em81ZDl4bUU4UFRCLUpxb2ZhemZGWFliaVZ4dDI4RGFzYVY1ZE1zWGdR0gGqAkFVX3lxTE5SaDRXQkYySHJiTnZMbC00bEpkTGk4cnFiZGczY0V3cFFOMmwxbEUzeXN4SG1ob1FiZloxSkJjZmNJOWZyWWNkeEtodTZZbTRBaGRTMU9NUE00Q004Y3FjQzdPZzhlaXFwMFZqVDA3U1RWSzhKLVNqM2swS2YySUZmcmJmYzlfYkxzcldNVTBydVBrb3BRSzk0Zi1IYzdaZHJzWFRpZ1NYR1JjUk1jZ0ZUUUQzeldLcDVrTzRFZThob0ptc24zcW9HcmVzNFdudlpGZFJuamZTWERkT0xoa2c4bVoyQk5senBLSU9iTXF5blIwbFpmUnZLQy13aURfbXp6bzVkOXhtRThQVEItSnFvZmF6ZkZYWWJpVnh0MjhEYXNhVjVkTXNYZ1E?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-06T11:01:59+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no Guaiba Futebol Clube, na 90ª zona eleitoral G1"
     }
   ],
   "noticias_home": [
-    {
-      "id": "ad11fea47e8c",
-      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
-    },
-    {
-      "id": "2be8f99a228a",
-      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
-    },
     {
       "id": "388f50763bb7",
       "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
+      "publicado_em": "2026-10-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
+    },
+    {
+      "id": "edea690a93c3",
+      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-07T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
       "id": "ac4e71bc4bdd",
       "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
       "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
+      "publicado_em": "2026-10-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
     },
     {
-      "id": "20ea4fe0d8af",
-      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
+      "id": "0c103e9d857b",
+      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
+      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
+      "publicado_em": "2026-10-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "169 consumidores permanecem sem energia."
+      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
     },
     {
       "id": "d7cbf332c5fc",
       "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
       "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T00:00:00+00:00",
+      "publicado_em": "2026-10-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
+    },
+    {
+      "id": "2be8f99a228a",
+      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-07T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
+    },
+    {
+      "id": "db4c16c9fddf",
+      "titulo": "Prefeitura de Guaíba tem previsão de diferença de até R$ 104 milhões no orçamento de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-r-109-2-milhoes-em-caixa-mas-preve-investir-menos-em-2027-diz-secretario-da-fazenda",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
     },
     {
       "id": "ab932eb63f3d",
@@ -444,16 +454,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
-    },
-    {
-      "id": "b06d127f4e0e",
-      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
     }
   ]
 }
