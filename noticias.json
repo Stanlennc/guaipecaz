@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-08T17:12:04.306608+00:00",
+  "gerado_em": "2026-10-08T22:55:17.823750+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,14 +74,14 @@
   ],
   "noticias": [
     {
-      "id": "edea690a93c3",
-      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
+      "id": "20ea4fe0d8af",
+      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-08T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+      "resumo": "169 consumidores permanecem sem energia."
     },
     {
       "id": "388f50763bb7",
@@ -104,34 +104,14 @@
       "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
     },
     {
-      "id": "20ea4fe0d8af",
-      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
+      "id": "ac4e71bc4bdd",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-08T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "169 consumidores permanecem sem energia."
-    },
-    {
-      "id": "db4c16c9fddf",
-      "titulo": "Prefeitura de Guaíba tem previsão de diferença de até R$ 104 milhões no orçamento de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-r-109-2-milhoes-em-caixa-mas-preve-investir-menos-em-2027-diz-secretario-da-fazenda",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
-    },
-    {
-      "id": "b06d127f4e0e",
-      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
+      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
     },
     {
       "id": "ab932eb63f3d",
@@ -144,6 +124,16 @@
       "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
     },
     {
+      "id": "48102af655b2",
+      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
+      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
+    },
+    {
       "id": "c78cc11739f6",
       "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
       "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
@@ -152,6 +142,36 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
+    },
+    {
+      "id": "db4c16c9fddf",
+      "titulo": "Prefeitura de Guaíba tem previsão de diferença de até R$ 104 milhões no orçamento de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-r-109-2-milhoes-em-caixa-mas-preve-investir-menos-em-2027-diz-secretario-da-fazenda",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
+    },
+    {
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
+    },
+    {
+      "id": "b06d127f4e0e",
+      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
     },
     {
       "id": "29a7acad7962",
@@ -164,16 +184,6 @@
       "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
     },
     {
-      "id": "48102af655b2",
-      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
-      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
-    },
-    {
       "id": "efbd6cd7f3f1",
       "titulo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no seu local de votação; consulte por zona eleitoral",
       "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-guaiba-rs-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
@@ -182,6 +192,16 @@
       "categoria": "G1",
       "feed": "g1_rs",
       "resumo": "Guaíba (RS) tem 1 zona eleitoral. O g1 publica reportagens com a votação para presidente em cada local de votação da cidade, no 1º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Escolha a zona eleitoral e confira…"
+    },
+    {
+      "id": "ad30f9796cf9",
+      "titulo": "ACBF doa livros de Jarico e Guaíba à Biblioteca Pública de Carlos Barbosa",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc2dhZWZyMnBiVTVIS1lPSlJ6Slp0aWRsNlByajYyYnM5OXcyc3pnVzFCRnc5b2Zpek1fNFpKRkJ4WlZzbGJ6SHVqd2tKZzZsdFpXaUFtN2lqMkR2Zms3LXBVUU5nS09JeVUxY255aEljd3Nzb1dSOUFoRDhOODBPSUxfYkhjTlZOZDhCZ3gzbnBWLW9YdE1CN3hlbU1nYnpD?oc=5",
+      "fonte": "Liga Nacional de Futsal",
+      "publicado_em": "2026-10-08T14:08:44+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "ACBF doa livros de Jarico e Guaíba à Biblioteca Pública de Carlos Barbosa Liga Nacional de Futsal"
     },
     {
       "id": "234d4824d839",
@@ -214,6 +234,16 @@
       "resumo": "Bares na Orla do Guaíba devem ser entregues até o final do ano Jornal do Comércio"
     },
     {
+      "id": "31ee938fcf1e",
+      "titulo": "Operação da BM prende 11 indivíduos por tráfico de drogas e apreende armas de fogo em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTNyYktua19jUkc2dnhrcUlsWlBBVERySjVrS0FkQm8yM01NVFU5OFhDempfWkxuRDRwSjZad0oxejZuZzdjN2d6Wmx3UzRmLWFObDEyaFJOT3pwMUxBNERtQUc1WnFvOVFJWDkyYnk0UzRuUV9fM1pwSmxYM2FKMUFMSUthbXNSOURxY2poRWhzVnR3ajh0UUtyTm5zQ2cyUGNxSWdNNHU5OHJFaHBZWF8tRVlTYU1vN2FvWUxnM2tJR1FPelYyNw?oc=5",
+      "fonte": "Brigada Militar",
+      "publicado_em": "2026-10-07T19:08:25+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Operação da BM prende 11 indivíduos por tráfico de drogas e apreende armas de fogo em Guaíba Brigada Militar"
+    },
+    {
       "id": "1fdf3c766d1e",
       "titulo": "Guaíba vira palco da cultura árabe",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XcTFSY3NNM2l3Ml9GUmN6dzFzRDA4aXFxN3pPcFl3RjRSenJXWlM2YkxvYnlDdjFIc21PQWNxUGJ0YTUxR192ajNmRjJDXzY1djh0dElEem9mRGJ1ZXlfanBIRUFzR2hxTk1J0gFwQVVfeXFMUG1yMUgtWkc3QjhMYkpGcTB4RkpxVlU5enJhdmx0UUNQWWdaWkdxbFlBZnZNYXQxY0NmLWlfV0xiVDc5RVBxRGtSM2xaNFVwd3k2Ui1NX0ZWT0xkN3hKWFZPWldCeXVvUDAtb2k5REtOMA?oc=5",
@@ -242,16 +272,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.E.E.M. Dr.Ruy Coelho Gonçalves, na 90ª zona eleitoral G1"
-    },
-    {
-      "id": "c7cb2f766d8f",
-      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSXprdEl2VFlTNm5lT1F2ZGlaY3pNUVFlYmU3YnBtalYwZmFrWmI1TWl4ZlEwSm9HVmtGRjNHZUgzVVBBUnNZc0NNYkkzNXMyYktYRFRqNDF6ZkEyeThlMGs1SUpuNzNOdWttbktJRTM5czdKZ1M3QWlfM1VmWkpaM3BxNl9DZmg2Vm9zdlB6a3ROLWRrQXo0UHJ3bTRVT3VQTTlTTXU2VHMwTXRsU1JTVmFrOFhtQk1ldmV6X21EMFVHSFNwRWZzMjVaQVhKMnktcl9hanVRdE1FMTVUNXRCVGxKaDY1OU9u?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T22:07:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026 Repórter Guaibense"
     },
     {
       "id": "58b14104c470",
@@ -352,38 +372,18 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no Salao Paroquial Nossa Senhora da Paz, na 90ª zona eleitoral radioviramundo.com"
-    },
-    {
-      "id": "0607ce01b5e6",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Arlindo Stringhini, na 90ª zona eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTHFJdF9MeUEzWnI3dDRselp4b0FhaTBoZ3pVUlFaRTNkZG02bjdFNEJhUTF1cWFGd1Qtb2RGMUNRNzNPdjlzZDlRaGdkMXNvamRjYkJsV0xSMnB1Rzd1bkhKNHRNeklnZUpzbVBocEZEaEJkTnI0cUFsNWpzU05uaElXLWFtTVlTakFCT1lBN05JWjBlcmFnb3NTalZQc0N1bF9kWDF2dElPSDRVYlNvZUVEYjBoT3FoZmFxc0FJZ1QyZHF1U2p4YnZHQWF5UkpoOHQ2ZDVHNXI0RXd2VVNwMXd3?oc=5",
-      "fonte": "radioviramundo.com",
-      "publicado_em": "2026-10-06T11:13:56+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Arlindo Stringhini, na 90ª zona eleitoral radioviramundo.com"
-    },
-    {
-      "id": "8f476ed7b86d",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Breno Guimaraes, na 90ª zona eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQdm1yMWVxY01RTnJRRFJMUzBoNF9LOFJPVUxVbE5tN3hkejVTUGpISW1iWEg4cVVFUEdXMFh4OF9jQzVON1M1WWpfVXlPbkRBa0pkMGhOTkt5bUU1Y2htMFN2WWdRSzZUXy1CUXlLYURaeVhQb3pDbC1iWXkwZXJIMHlXRVViUDhIMVBxVm1uaWRBYU5aZWNVV3RIaHV4czUzbFQwM3pWR2ViYk9lYnEwajUyTy0tTFVSM3d3S2RNVFoxb1BlOG4yRGlHVzR1VnZzOUNqaXE5Ni0zRGFtRm9pSVFFQTB5NS02S3otcVl6Z0JaTFVfeVdvWmpWWGxRY1E3Y1lkNHo4Y1F1RGU0OW5RcDlINkEzazEwekh1bzhFN1VFQVZ3SzRjQzJNNW9aUdIBrgJBVV95cUxQdm1yMWVxY01RTnJRRFJMUzBoNF9LOFJPVUxVbE5tN3hkejVTUGpISW1iWEg4cVVFUEdXMFh4OF9jQzVON1M1WWpfVXlPbkRBa0pkMGhOTkt5bUU1Y2htMFN2WWdRSzZUXy1CUXlLYURaeVhQb3pDbC1iWXkwZXJIMHlXRVViUDhIMVBxVm1uaWRBYU5aZWNVV3RIaHV4czUzbFQwM3pWR2ViYk9lYnEwajUyTy0tTFVSM3d3S2RNVFoxb1BlOG4yRGlHVzR1VnZzOUNqaXE5Ni0zRGFtRm9pSVFFQTB5NS02S3otcVl6Z0JaTFVfeVdvWmpWWGxRY1E3Y1lkNHo4Y1F1RGU0OW5RcDlINkEzazEwekh1bzhFN1VFQVZ3SzRjQzJNNW9aUQ?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-06T11:02:21+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Breno Guimaraes, na 90ª zona eleitoral G1"
     }
   ],
   "noticias_home": [
     {
-      "id": "edea690a93c3",
-      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
+      "id": "20ea4fe0d8af",
+      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-08T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+      "resumo": "169 consumidores permanecem sem energia."
     },
     {
       "id": "388f50763bb7",
@@ -406,34 +406,14 @@
       "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
     },
     {
-      "id": "20ea4fe0d8af",
-      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
-      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
+      "id": "ac4e71bc4bdd",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-08T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "169 consumidores permanecem sem energia."
-    },
-    {
-      "id": "db4c16c9fddf",
-      "titulo": "Prefeitura de Guaíba tem previsão de diferença de até R$ 104 milhões no orçamento de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-r-109-2-milhoes-em-caixa-mas-preve-investir-menos-em-2027-diz-secretario-da-fazenda",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
-    },
-    {
-      "id": "b06d127f4e0e",
-      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
+      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
     },
     {
       "id": "ab932eb63f3d",
@@ -446,6 +426,16 @@
       "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
     },
     {
+      "id": "48102af655b2",
+      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
+      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
+    },
+    {
       "id": "c78cc11739f6",
       "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
       "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
@@ -454,6 +444,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
+    },
+    {
+      "id": "db4c16c9fddf",
+      "titulo": "Prefeitura de Guaíba tem previsão de diferença de até R$ 104 milhões no orçamento de 2027",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-r-109-2-milhoes-em-caixa-mas-preve-investir-menos-em-2027-diz-secretario-da-fazenda",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
     }
   ]
 }
