@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-07T19:44:27.762674+00:00",
+  "gerado_em": "2026-10-08T00:00:38.287161+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,16 @@
   ],
   "noticias": [
     {
+      "id": "20ea4fe0d8af",
+      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-07T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "169 consumidores permanecem sem energia."
+    },
+    {
       "id": "ad11fea47e8c",
       "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
@@ -84,44 +94,54 @@
       "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
     },
     {
-      "id": "2be8f99a228a",
-      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
+      "id": "ac4e71bc4bdd",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
+      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
     },
     {
-      "id": "0c103e9d857b",
-      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
-      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "id": "388f50763bb7",
+      "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+      "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
     },
     {
-      "id": "d7cbf332c5fc",
-      "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
-      "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
+      "id": "29a7acad7962",
+      "titulo": "Guaíba não tem condições de manter empréstimo de US$ 70 milhões com banco asiático, diz Claudinha Jardim",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
+      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
     },
     {
-      "id": "b06d127f4e0e",
-      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
+      "id": "ab932eb63f3d",
+      "titulo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos",
+      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
+      "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
+    },
+    {
+      "id": "c78cc11739f6",
+      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
+      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
     },
     {
       "id": "04f08750afc3",
@@ -154,16 +174,6 @@
       "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     },
     {
-      "id": "ab932eb63f3d",
-      "titulo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos",
-      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
-    },
-    {
       "id": "efbd6cd7f3f1",
       "titulo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no seu local de votação; consulte por zona eleitoral",
       "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-guaiba-rs-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
@@ -174,14 +184,24 @@
       "resumo": "Guaíba (RS) tem 1 zona eleitoral. O g1 publica reportagens com a votação para presidente em cada local de votação da cidade, no 1º turno das Eleições 2026, com os números de cada seção eleitoral. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE). Escolha a zona eleitoral e confira…"
     },
     {
-      "id": "31ee938fcf1e",
-      "titulo": "Operação da BM prende 11 indivíduos por tráfico de drogas e apreende armas de fogo em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTNyYktua19jUkc2dnhrcUlsWlBBVERySjVrS0FkQm8yM01NVFU5OFhDempfWkxuRDRwSjZad0oxejZuZzdjN2d6Wmx3UzRmLWFObDEyaFJOT3pwMUxBNERtQUc1WnFvOVFJWDkyYnk0UzRuUV9fM1pwSmxYM2FKMUFMSUthbXNSOURxY2poRWhzVnR3ajh0UUtyTm5zQ2cyUGNxSWdNNHU5OHJFaHBZWF8tRVlTYU1vN2FvWUxnM2tJR1FPelYyNw?oc=5",
-      "fonte": "Brigada Militar",
-      "publicado_em": "2026-10-07T19:08:25+00:00",
+      "id": "f8af4bb2d63c",
+      "titulo": "Bares na Orla do Guaíba devem ser entregues até o final do ano",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWtOMUJESXZYeHpCaWRNMkh4UjU1Vm9yQ2Z5OXI0X0sxcUZ2aC0ycWFyTV9aZHZ1dnZLSVloNjFxXzJRUHNHMW5hWXFOMTNmWHNMWF9aa1ZNb2gtc0JodmkyRm5rZ3hIaUNxdlNVbERNWFN0ZlFDR3RRLS03VlpMeU12TnVoSF9HT1hINGNYcGhPZ2gtRlVYZDZPMWp2Z2xwU0F1NkQySlpXbDJQOTNrbXVOdDVoOGhMUnQ3dThuNA?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-10-07T21:55:09+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Operação da BM prende 11 indivíduos por tráfico de drogas e apreende armas de fogo em Guaíba Brigada Militar"
+      "resumo": "Bares na Orla do Guaíba devem ser entregues até o final do ano Jornal do Comércio"
+    },
+    {
+      "id": "315ac357bcb4",
+      "titulo": "Guaíba corta 115 cargos, reduz secretarias de 16 para 9 e economiza R$ 4 milhões por mês",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTmJVX0t1UG9zVzlPekpPeFVwMjdhWmNUMWJhelhNZ1Azck5xYk5ncVJsQXdpc1RfWkZEV1ZqVDBZdnF3VzNJaFNUOVd1c1Z3Skl4Sl8xWjYwY1JVMXRZVzZUek0tZktiWkhzdDZhTzBmcFJGRWEzU282SC13QTJjQlUzNndtMWxIYi1kMUtDZm4zNFF1Y2tMYXdYQ08wZFlJRndqRUlkc3NoYUtxNFJVaUZjYmUweUU2?oc=5",
+      "fonte": "Rádio Pampa",
+      "publicado_em": "2026-10-07T17:34:54+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Guaíba corta 115 cargos, reduz secretarias de 16 para 9 e economiza R$ 4 milhões por mês Rádio Pampa"
     },
     {
       "id": "1fdf3c766d1e",
@@ -274,6 +294,16 @@
       "resumo": "Obras das quatro alças de acesso da segunda ponte do Guaíba deverão ser concluídas em 20 meses Jornal do Comércio"
     },
     {
+      "id": "07503f928e53",
+      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente na Escola de Ensino Técnico Solon Tavares, na 90ª zona eleitoral",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNejRJanMydFJiWWhRbE5uZ3dlbTQ5TDRYR2R3bWZhLURfSWtVdU9qakZ0Tm1wN0VxYnN5YmtnLU9zTk9KTFZuVjZtQS1IbFRfUEZ3Tkt4NUlXZHU0WWdfbGhsLUNGQm9KelR0VzAtTnNMQVpKQ256SmZKaGtMXzhjZ0Y0cnJRNDJraUVXdmdvUW9PaWZoU0xSSHFobW0wbkRoQU1uSkM4UkJOUGV2dFdndVIzc3FNRkRVNWhNYVhtRWM0UGJ0Z0Vta2I2YzdXZ3hWQmNzb0RjQmROc3BvbzZYMUpQdHhURi1UaEtXV2llSHROZ3cyYkE?oc=5",
+      "fonte": "radioviramundo.com",
+      "publicado_em": "2026-10-06T11:13:56+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente na Escola de Ensino Técnico Solon Tavares, na 90ª zona eleitoral radioviramundo.com"
+    },
+    {
       "id": "52fb8def0d2e",
       "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F Doutor Gastão Leão, na 90ª zona eleitoral",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVmoyMjRvcnA3eVl0NElxWDd4emV4U0tmUEVrUWhvNU5lTm9BTlZ0WDA4V19sOGZ5c05iRXBsOUxsRVdBUVNTc3RCall5Z0htZUxQaWk5bURsZlh4Y1pmbFlVQnRNZTd6QnpOTnRIeXp4d3E5VV81d0U0aXlFc1dPZlFrVnAwV1hhMVJOT1Iyay1FZmhZOVVMbHU2cnE1T0dOYUNWb0tEUjJwWkpMUlRnSUtRSV9xNm1yYVljaVU5U2NMR0VQS0lxQktsRDFxX2FacVFxSWtjR1lEQVdHTDJEaE1B?oc=5",
@@ -294,16 +324,6 @@
       "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Arlindo Stringhini, na 90ª zona eleitoral radioviramundo.com"
     },
     {
-      "id": "07503f928e53",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente na Escola de Ensino Técnico Solon Tavares, na 90ª zona eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNejRJanMydFJiWWhRbE5uZ3dlbTQ5TDRYR2R3bWZhLURfSWtVdU9qakZ0Tm1wN0VxYnN5YmtnLU9zTk9KTFZuVjZtQS1IbFRfUEZ3Tkt4NUlXZHU0WWdfbGhsLUNGQm9KelR0VzAtTnNMQVpKQ256SmZKaGtMXzhjZ0Y0cnJRNDJraUVXdmdvUW9PaWZoU0xSSHFobW0wbkRoQU1uSkM4UkJOUGV2dFdndVIzc3FNRkRVNWhNYVhtRWM0UGJ0Z0Vta2I2YzdXZ3hWQmNzb0RjQmROc3BvbzZYMUpQdHhURi1UaEtXV2llSHROZ3cyYkE?oc=5",
-      "fonte": "radioviramundo.com",
-      "publicado_em": "2026-10-06T11:13:56+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente na Escola de Ensino Técnico Solon Tavares, na 90ª zona eleitoral radioviramundo.com"
-    },
-    {
       "id": "ba94940f4e71",
       "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no Salao Paroquial Nossa Senhora da Paz, na 90ª zona eleitoral",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObFFNQUlUaXZxcjA3MmtfdW9XbUxQWmVocHZFQlEwSmFyTUM1dmVaaEx1dzBOU1pHSkdhX0xmejl5ZGNjYTJCc196RFJXdDdmZ0M1cERkUnQwM2lQUUctNktvWC1iM0tXSEJRSXR2SURfZnJqR0k4T1dmSjBqRlB4RFJSQThWcEpOZ043VjcwTi1DQ2J3MkVFSDNmenJUbWpQZ2pCWkdqTEtoWUQzNnZnLVRiV3VWLV9NTkFVem12a2hrWVpMeUpzdTJHMDV3Y0JuTmI5VFFVck1XdjdvMVZwVlR5VmxsTFdkQW9XbEJlWUhsb28?oc=5",
@@ -314,13 +334,13 @@
       "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no Salao Paroquial Nossa Senhora da Paz, na 90ª zona eleitoral radioviramundo.com"
     },
     {
-      "id": "de5898d1d36f",
+      "id": "8f476ed7b86d",
       "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Breno Guimaraes, na 90ª zona eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOcVE4alZKdEdjUGlhTWItU1JsR1hHU25OamVKMENzSHI0dkgwXzJabTE2Y21tY1BVM19CTXlMSnZXZGxmOGhTX3lZanZZWUhGN3ZTd3psRDZXNF9GT1BUMHBLX3FWUGRtYnQ0YndhZmJUYzQ5VDd5MXJ3TjJ5T294SW9iOWlDUlZ5cHI2TlRGeXVQRFVqVlZIUm9YdFF6UUpOemJGWXRGa2JJMEtvN3FIYWRhMHNoWXFOVlpwSmFndFFPV09IbzZUa2pwaUFCNHFncjhaQ1h1YWxJQ0RBcVJJZGJvWDF2RnJrT2xkMVNReldSci1iRzNFNW5abDkwcmlybHRFNG41QVdIRnpsV1lYc2Z4THJlVWF1X0hCbUpaQdIBrgJBVV95cUxQdm1yMWVxY01RTnJRRFJMUzBoNF9LOFJPVUxVbE5tN3hkejVTUGpISW1iWEg4cVVFUEdXMFh4OF9jQzVON1M1WWpfVXlPbkRBa0pkMGhOTkt5bUU1Y2htMFN2WWdRSzZUXy1CUXlLYURaeVhQb3pDbC1iWXkwZXJIMHlXRVViUDhIMVBxVm1uaWRBYU5aZWNVV3RIaHV4czUzbFQwM3pWR2ViYk9lYnEwajUyTy0tTFVSM3d3S2RNVFoxb1BlOG4yRGlHVzR1VnZzOUNqaXE5Ni0zRGFtRm9pSVFFQTB5NS02S3otcVl6Z0JaTFVfeVdvWmpWWGxRY1E3Y1lkNHo4Y1F1RGU0OW5RcDlINkEzazEwekh1bzhFN1VFQVZ3SzRjQzJNNW9aUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQdm1yMWVxY01RTnJRRFJMUzBoNF9LOFJPVUxVbE5tN3hkejVTUGpISW1iWEg4cVVFUEdXMFh4OF9jQzVON1M1WWpfVXlPbkRBa0pkMGhOTkt5bUU1Y2htMFN2WWdRSzZUXy1CUXlLYURaeVhQb3pDbC1iWXkwZXJIMHlXRVViUDhIMVBxVm1uaWRBYU5aZWNVV3RIaHV4czUzbFQwM3pWR2ViYk9lYnEwajUyTy0tTFVSM3d3S2RNVFoxb1BlOG4yRGlHVzR1VnZzOUNqaXE5Ni0zRGFtRm9pSVFFQTB5NS02S3otcVl6Z0JaTFVfeVdvWmpWWGxRY1E3Y1lkNHo4Y1F1RGU0OW5RcDlINkEzazEwekh1bzhFN1VFQVZ3SzRjQzJNNW9aUdIBrgJBVV95cUxQdm1yMWVxY01RTnJRRFJMUzBoNF9LOFJPVUxVbE5tN3hkejVTUGpISW1iWEg4cVVFUEdXMFh4OF9jQzVON1M1WWpfVXlPbkRBa0pkMGhOTkt5bUU1Y2htMFN2WWdRSzZUXy1CUXlLYURaeVhQb3pDbC1iWXkwZXJIMHlXRVViUDhIMVBxVm1uaWRBYU5aZWNVV3RIaHV4czUzbFQwM3pWR2ViYk9lYnEwajUyTy0tTFVSM3d3S2RNVFoxb1BlOG4yRGlHVzR1VnZzOUNqaXE5Ni0zRGFtRm9pSVFFQTB5NS02S3otcVl6Z0JaTFVfeVdvWmpWWGxRY1E3Y1lkNHo4Y1F1RGU0OW5RcDlINkEzazEwekh1bzhFN1VFQVZ3SzRjQzJNNW9aUQ?oc=5",
       "fonte": "G1",
       "publicado_em": "2026-10-06T11:02:21+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "google",
       "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Breno Guimaraes, na 90ª zona eleitoral G1"
     },
     {
@@ -352,29 +372,19 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. Anita Garibaldi, na 90ª zona eleitoral G1"
-    },
-    {
-      "id": "1fab6e78fe51",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. São Paulo, na 90ª zona eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPdk1DcmJEMWNXLV82MDlqTE1zMEtYNlJESmFZTVluMHhRZ3BCOTM1WTh4VUhXYWxXb0V2SEI3WEk1SEVxU1R1Y2ZKSWdmbTJ2OFRPZ2hxcEFmd0lmQ2FYc1hDUkhYQ1Rad0NNZFIwaXhqYzk1X2d1TTR6MXdVbEpHZDM4VGF1dDFZN1Q1WjRfMnh6MnpGanV1cGMzQk5mN09UeUU2ckNVc2Q0dkY1Y1FUX2N2MHR6UVg3NHh2MmJPNnJ0ZFJsZDZIdkRpRlZBS1l5T1lzUVdKY1JrT1hyTjY1eVh5aEljcmx3dERaNVlhcUJnUWNmaDVUOXh2X3p6U3dkdUVrMFlKRV9BM1ZhTndXbWhDVDA2dmhWV2QwVDdKMFMtSHY3WVHSAaYCQVVfeXFMT3ZNQ3JiRDFjVy1fNjA5akxNczBLWDZSREphWU1ZbjB4UWdwQjkzNVk4eFVIV2FsV29FdkhCN1hJNUhFcVNUdWNmSklnZm0ydjhUT2docXBBZndJZkNhWHNYQ1JIWENUWndDTWRSMGl4amM5NV9ndU00ejF3VWxKR2QzOFRhdXQxWTdUNVo0XzJ4ejJ6Rmp1dXBjM0JOZjdPVHlFNnJDVXNkNHZGNWNRVF9jdjB0elFYNzR4djJiTzZydGRSbGQ2SHZEaUZWQUtZeU9Zc1FXSmNSa09Yck42NXlYeWhJY3Jsd3REWjVZYXFCZ1FjZmg1VDl4dl96elN3ZHVFazBZSkVfQTNWYU53V21oQ1QwNnZoVldkMFQ3SjBTLUh2N1lR?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-06T11:02:09+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F. São Paulo, na 90ª zona eleitoral G1"
-    },
-    {
-      "id": "ab9bb564616b",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no Instituto Estadual Doutor Carlos Augusto de Moura e Cunha, na 90ª zona eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQTHhQNHV2RWhnb2VwYTZzdFA1RjBPcDVidk9QbU9QSWVrdHhVUWtiNGJXZWlOV3hscU9vZTEtaEVwb2xZWW1kaVJXTUF6QXhxaDNkaVY0N1JoTlMzSVRXb2tNNnBweU1jdDVfYy1UQ0VYRV96Wm1zZTUwc1hiYV9XNktmb1otcW00NERoUmdmWjNZWWtQVG8tQ05iNXYtQ1g4YTZjN05GZXFIZ1JpWGhGZW9BTWpRTlVtUHFlQTMwZnpodEFTUWlvOWRVS0UzaHFvemRDMjNMLXRzWnFyNDM2OTQ3cGNaWjNmLTA1SXFlR3ZoZ0k5TDJJUk02aWlUVWZSeU1SeG5HQWlFWFpIREpubV92V09TbDhpX3FNZVhBV0ppNkIxVTQ4QXZ4aTUya1RodHpQWTdXRDBTd0QwajMwN1ZiTlYwWW1WNVhWaXNFRzhWckxUWmRBVnh6Y9IB2wJBVV95cUxQTHhQNHV2RWhnb2VwYTZzdFA1RjBPcDVidk9QbU9QSWVrdHhVUWtiNGJXZWlOV3hscU9vZTEtaEVwb2xZWW1kaVJXTUF6QXhxaDNkaVY0N1JoTlMzSVRXb2tNNnBweU1jdDVfYy1UQ0VYRV96Wm1zZTUwc1hiYV9XNktmb1otcW00NERoUmdmWjNZWWtQVG8tQ05iNXYtQ1g4YTZjN05GZXFIZ1JpWGhGZW9BTWpRTlVtUHFlQTMwZnpodEFTUWlvOWRVS0UzaHFvemRDMjNMLXRzWnFyNDM2OTQ3cGNaWjNmLTA1SXFlR3ZoZ0k5TDJJUk02aWlUVWZSeU1SeG5HQWlFWFpIREpubV92V09TbDhpX3FNZVhBV0ppNkIxVTQ4QXZ4aTUya1RodHpQWTdXRDBTd0QwajMwN1ZiTlYwWW1WNVhWaXNFRzhWckxUWmRBVnh6Yw?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-06T11:02:07+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no Instituto Estadual Doutor Carlos Augusto de Moura e Cunha, na 90ª zona eleitoral G1"
     }
   ],
   "noticias_home": [
+    {
+      "id": "20ea4fe0d8af",
+      "titulo": "CEEE Equatorial já restabeleceu 98% da energia para os clientes de Guaíba após danos causados por evento climático severo",
+      "url": "https://www.reporterguaibense.com.br/noticia/ceee-equatorial-ja-restabeleceu-98-da-energia-para-os-clientes-de-guaiba-apos-danos-causados-por-evento-climatico-severo",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-07T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "169 consumidores permanecem sem energia."
+    },
     {
       "id": "ad11fea47e8c",
       "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
@@ -386,44 +396,54 @@
       "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
     },
     {
-      "id": "2be8f99a228a",
-      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
+      "id": "ac4e71bc4bdd",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
+      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
     },
     {
-      "id": "0c103e9d857b",
-      "titulo": "Sicredi reinaugura agência em Guaíba com mais de 9 mil associados",
-      "url": "https://www.reporterguaibense.com.br/noticia/sicredi-reinaugura-agencia-em-guaiba-com-mais-de-9-mil-associados",
+      "id": "388f50763bb7",
+      "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O presidente da Sicredi Gerações RS/MG, Paulo Alex Falcão, destacou a presença da cooperativa no município há mais de 25 anos"
+      "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
     },
     {
-      "id": "d7cbf332c5fc",
-      "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
-      "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
+      "id": "29a7acad7962",
+      "titulo": "Guaíba não tem condições de manter empréstimo de US$ 70 milhões com banco asiático, diz Claudinha Jardim",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-07T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
+      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
     },
     {
-      "id": "b06d127f4e0e",
-      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
+      "id": "ab932eb63f3d",
+      "titulo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos",
+      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
+      "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
+    },
+    {
+      "id": "c78cc11739f6",
+      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
+      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
     },
     {
       "id": "04f08750afc3",
@@ -434,26 +454,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Cidade deve cair da 5ª para a 25ª posição entre os municípios gaúchos com maior arrecadação de ICMS"
-    },
-    {
-      "id": "48102af655b2",
-      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
-      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
-    },
-    {
-      "id": "352a6ab063cb",
-      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     }
   ]
 }
