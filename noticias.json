@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-09T04:38:48.287025+00:00",
+  "gerado_em": "2026-10-09T12:36:02.159766+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,36 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "d7cbf332c5fc",
-      "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
-      "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-09T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
-    },
-    {
-      "id": "ad11fea47e8c",
-      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-09T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
-    },
-    {
-      "id": "ac4e71bc4bdd",
-      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
-      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-09T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
-    },
-    {
       "id": "2be8f99a228a",
       "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
@@ -124,24 +94,44 @@
       "resumo": "169 consumidores permanecem sem energia."
     },
     {
-      "id": "b06d127f4e0e",
-      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
+      "id": "388f50763bb7",
+      "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-10-09T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
+      "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
     },
     {
-      "id": "c78cc11739f6",
-      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
-      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "id": "ac4e71bc4bdd",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-10-09T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
+      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+    },
+    {
+      "id": "edea690a93c3",
+      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-09T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+    },
+    {
+      "id": "ad11fea47e8c",
+      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-09T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
     },
     {
       "id": "48102af655b2",
@@ -154,14 +144,14 @@
       "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
     },
     {
-      "id": "352a6ab063cb",
-      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
+      "id": "c78cc11739f6",
+      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
+      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
+      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
     },
     {
       "id": "29a7acad7962",
@@ -172,6 +162,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
+    },
+    {
+      "id": "ab932eb63f3d",
+      "titulo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos",
+      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
+    },
+    {
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     },
     {
       "id": "efbd6cd7f3f1",
@@ -188,10 +198,20 @@
       "titulo": "Cheia do Guaíba provoca a paralisação da construção da Usina do Gasômetro",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc3hIWFVCdk5adUY4U285eEVhZHZfRlZtenJKRDI2UDBGRnVHUXlWQ3Z6U1BIRmtGQUFwczFDWXNkeFJqUVJZVndQeXlnYWZCRkN2Y29BQ1NhbGUydHJwUmM3bDRQejVXeDB0MzVhc3A0RHB2UEpsaDVRZ2NJbEpxMU8zdnZtVzkwc1hlenlxbVJzWTZkN3FfVVZDYjlKeUw5QVZfM3JhS2JLOFZBdXZRRjgxZVVENG1IQ0VDV1dONzBaUDF6NUZJLTJ0YWNfWWRES3gxallCaFZEaFktNXhTaGZSaTM2QQ?oc=5",
       "fonte": "Correio do Povo",
-      "publicado_em": "2026-10-09T03:06:17+00:00",
+      "publicado_em": "2026-10-09T03:07:38+00:00",
       "categoria": null,
       "feed": "correio",
       "resumo": "Cheia do Guaíba provoca a paralisação da construção da Usina do Gasômetro Correio do Povo"
+    },
+    {
+      "id": "62c26a129458",
+      "titulo": "Corpo de homem é encontrado boiando nas águas do Guaíba no centro de Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVC1PdWdtd0YtQl9zX2JicUFadmgwY3BqTkUxUXNQbnlJaXRMQTd5YVJPdG0tVklsTndCSnFScUZ6Z0xJSmRSem50RGs4UExaM0QxNFZzYk50clF5RlExazdNaWFTNkRHdlY0VmNuOE5TU2NGUUJVeGtUYmNJXzY4Uk1IUEJqUTJCSFVJUVpZUUhNek81dTZSNm1Ca1pIZ2I4bmMtbGV1RWVJYmRfcGJIUHRjUU16QXB2OTJGQWVJSnNjUUFDUGxJVXdyU2NTekdfSnVGVHNlQV8teUhlR3Y3MmlJZ1VzOG1LLXh2eHJtckN6VXdUc1JRWU9qMUc5cC0xN2VYMi1Ldw?oc=5",
+      "fonte": "Terra",
+      "publicado_em": "2026-10-08T14:17:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Corpo de homem é encontrado boiando nas águas do Guaíba no centro de Porto Alegre Terra"
     },
     {
       "id": "ad30f9796cf9",
@@ -234,6 +254,16 @@
       "resumo": "Operação da BM prende 11 indivíduos por tráfico de drogas e apreende armas de fogo em Guaíba Brigada Militar"
     },
     {
+      "id": "18cf9d79d127",
+      "titulo": "Guaíba corta 115 cargos, reduz secretarias de 16 para 9 e economiza R$ 4 milhões por mês",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNblBnMXhFSWZmRlZNTnh4eElORmFlV09obHVPTm95MkhHV2dmTXJrRjFORVpoN3d3MDN3dDNoTlhMMDM3YmhZLW5yRXFOaDhSWk9EUTdVVlAwYUp0cm5ZN1NlQUNmcE9NY1dkdWRRWnpqTTY3b1ktTEQ2aXJLRXRQdTBEcXlHN2Z0VDJOVVlnbVJjU3ZsNU9ZNDB0M0ZqcVE1RlJxeFBSLTZqMmJpYTA2Z9IBtgFBVV95cUxPTl9VbTVQdlJCMnJBalpUZTZaNEs3Tlk1Q2F4ZEhGbmZSdi1sQ2N0bjdqMjkwZTJaZFJoSWo0OHRqSy1UbTdaSFllMkRNUmFYc3k3WG4yNzRMeFQtRC1JYWdydERSeF9wOEtkS0RkX0tiYjItaks4UFp0ZGFGT1F6RFc0UWkxeUFxR3BIVlBCeXFkYVBlb0Z5V1JkeHZNVjN2SGl5N1p3SUJ4TVBNVDh2SjBlejhMZw?oc=5",
+      "fonte": "Jornal O Sul",
+      "publicado_em": "2026-10-07T17:24:58+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba corta 115 cargos, reduz secretarias de 16 para 9 e economiza R$ 4 milhões por mês Jornal O Sul"
+    },
+    {
       "id": "1fdf3c766d1e",
       "titulo": "Guaíba vira palco da cultura árabe",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XcTFSY3NNM2l3Ml9GUmN6dzFzRDA4aXFxN3pPcFl3RjRSenJXWlM2YkxvYnlDdjFIc21PQWNxUGJ0YTUxR192ajNmRjJDXzY1djh0dElEem9mRGJ1ZXlfanBIRUFzR2hxTk1J0gFwQVVfeXFMUG1yMUgtWkc3QjhMYkpGcTB4RkpxVlU5enJhdmx0UUNQWWdaWkdxbFlBZnZNYXQxY0NmLWlfV0xiVDc5RVBxRGtSM2xaNFVwd3k2Ui1NX0ZWT0xkN3hKWFZPWldCeXVvUDAtb2k5REtOMA?oc=5",
@@ -262,16 +292,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.E.E.M. Dr.Ruy Coelho Gonçalves, na 90ª zona eleitoral G1"
-    },
-    {
-      "id": "b5ba9e9a9a78",
-      "titulo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU0I5V3Izakw0MjQzYlpkV1ZpTy1aOHJBNjVPN1FpSmxSTkl4b1E2OVBsU25LYlRwc3RFRjQzZjVMb2puZjlqYnRyM08xX09XSkRnYU52N1pRMmw1Y0laNUxkVGVZYllnYjZUcjRzS3VPVnJBak5jZEkzNEdwUGdGRTFvU18xc3pwb2RXRUp2MHZJaGl0MmppSF9CNFZEVHRDdVRKR2tjQWFxMWI2SjNyeVdxTnNpMUowQnRackx0aUE3YVFiWm0zdVQzVFVPcjNZeVlJbw?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T21:27:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos Repórter Guaibense"
     },
     {
       "id": "58b14104c470",
@@ -352,59 +372,9 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente na Escola de Ensino Técnico Solon Tavares, na 90ª zona eleitoral radioviramundo.com"
-    },
-    {
-      "id": "52fb8def0d2e",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F Doutor Gastão Leão, na 90ª zona eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVmoyMjRvcnA3eVl0NElxWDd4emV4U0tmUEVrUWhvNU5lTm9BTlZ0WDA4V19sOGZ5c05iRXBsOUxsRVdBUVNTc3RCall5Z0htZUxQaWk5bURsZlh4Y1pmbFlVQnRNZTd6QnpOTnRIeXp4d3E5VV81d0U0aXlFc1dPZlFrVnAwV1hhMVJOT1Iyay1FZmhZOVVMbHU2cnE1T0dOYUNWb0tEUjJwWkpMUlRnSUtRSV9xNm1yYVljaVU5U2NMR0VQS0lxQktsRDFxX2FacVFxSWtjR1lEQVdHTDJEaE1B?oc=5",
-      "fonte": "radioviramundo.com",
-      "publicado_em": "2026-10-06T11:13:56+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.M.E.F Doutor Gastão Leão, na 90ª zona eleitoral radioviramundo.com"
-    },
-    {
-      "id": "ba94940f4e71",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no Salao Paroquial Nossa Senhora da Paz, na 90ª zona eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObFFNQUlUaXZxcjA3MmtfdW9XbUxQWmVocHZFQlEwSmFyTUM1dmVaaEx1dzBOU1pHSkdhX0xmejl5ZGNjYTJCc196RFJXdDdmZ0M1cERkUnQwM2lQUUctNktvWC1iM0tXSEJRSXR2SURfZnJqR0k4T1dmSjBqRlB4RFJSQThWcEpOZ043VjcwTi1DQ2J3MkVFSDNmenJUbWpQZ2pCWkdqTEtoWUQzNnZnLVRiV3VWLV9NTkFVem12a2hrWVpMeUpzdTJHMDV3Y0JuTmI5VFFVck1XdjdvMVZwVlR5VmxsTFdkQW9XbEJlWUhsb28?oc=5",
-      "fonte": "radioviramundo.com",
-      "publicado_em": "2026-10-06T11:13:56+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no Salao Paroquial Nossa Senhora da Paz, na 90ª zona eleitoral radioviramundo.com"
     }
   ],
   "noticias_home": [
-    {
-      "id": "d7cbf332c5fc",
-      "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
-      "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-09T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
-    },
-    {
-      "id": "ad11fea47e8c",
-      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-09T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
-    },
-    {
-      "id": "ac4e71bc4bdd",
-      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
-      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-09T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
-    },
     {
       "id": "2be8f99a228a",
       "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
@@ -426,24 +396,44 @@
       "resumo": "169 consumidores permanecem sem energia."
     },
     {
-      "id": "b06d127f4e0e",
-      "titulo": "Rotary Club de Guaíba celebra 70 anos com homenagens a ex-presidentes",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-muita-emocao-rotary-club-de-guaiba-celebra-70-anos-com-homenagens-a-ex-presidentes",
+      "id": "388f50763bb7",
+      "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-10-09T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Clube desenvolve projetos sociais na cidade desde 1956, como o Concurso Escolar de Oratória e a Noite Alemã"
+      "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
     },
     {
-      "id": "c78cc11739f6",
-      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
-      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "id": "ac4e71bc4bdd",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-10-09T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
+      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+    },
+    {
+      "id": "edea690a93c3",
+      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-09T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+    },
+    {
+      "id": "ad11fea47e8c",
+      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-09T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
     },
     {
       "id": "48102af655b2",
@@ -454,6 +444,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
+    },
+    {
+      "id": "c78cc11739f6",
+      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
+      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
     }
   ]
 }
