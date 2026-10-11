@@ -5,30 +5,9 @@
 <description>Notícias de Guaíba e da Região Metropolitana de Porto Alegre</description>
 <language>pt-BR</language>
 <item>
-<title>Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba</title>
-<link>https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba</link>
-<guid>2be8f99a228a</guid>
-<pubDate>2026-10-11T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo</title>
-<link>https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo</link>
-<guid>d7cbf332c5fc</guid>
-<pubDate>2026-10-11T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana</title>
 <link>https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana</link>
 <guid>edea690a93c3</guid>
-<pubDate>2026-10-11T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos</title>
-<link>https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos</link>
-<guid>ac4e71bc4bdd</guid>
 <pubDate>2026-10-11T00:00:00+00:00</pubDate>
 <source>Repórter Guaibense</source>
 </item>
@@ -40,15 +19,21 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
+<title>Empreendimento de Guaíba aposta na produção artesanal de microverdes</title>
+<link>https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes</link>
+<guid>c78cc11739f6</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
 <title>Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba</title>
 <link>https://www.reporterguaibense.com.br/noticia/veja-os-10-candidatos-a-deputado-federal-e-os-10-a-deputado-estadual-mais-votados-em-guaiba</link>
 <guid>760ca1b91f96</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
-<title>Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9</title>
-<link>https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9</link>
-<guid>48102af655b2</guid>
+<title>Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026</title>
+<link>https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026</link>
+<guid>352a6ab063cb</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -58,9 +43,15 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
-<title>Empreendimento de Guaíba aposta na produção artesanal de microverdes</title>
-<link>https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes</link>
-<guid>c78cc11739f6</guid>
+<title>Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos</title>
+<link>https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos</link>
+<guid>ab932eb63f3d</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9</title>
+<link>https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9</link>
+<guid>48102af655b2</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -70,11 +61,25 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
+<title>O carimbo gigante que vai iluminar a Orla do Guaíba a partir deste final de semana</title>
+<link>https://news.google.com/rss/articles/CBMilwJBVV95cUxPdmI3dkFWT3lzT1dqWjlnSkswaGNraWd6OVNlMXFId1VuWWQ0d2lBR2NuaVE1bC1ka2VvR0l4NDc5aTNrLXVLSE51d3VBbUdVZTA1RE1VZU8ydTNBdkNKTExKWGFOaVhsakpVTUQ0b0VYdFBCNENzYW0zd056Nnhfd2w1T3ZFcFRNRmJTZUs0X0Rjc01reXpMNE9CUXgyQ0pPaVRPc0RxcjRLQWNyaTF1UU5qX0p4Y0h2SHRfM3RTOUU3Qk5oTFpaMHRrWDdsaWtNczdIcDViUElqUUxhVEE0Vk5oQ0EzVFhrOWpzM1owd2RoMUd2VkxyU24tNFEzMDhWNUlPbEtwR3JibTlTWmVkdll1MGZUWkk?oc=5</link>
+<guid>c41fc4116e95</guid>
+<pubDate>2026-10-11T15:31:01+00:00</pubDate>
+<source>GZH</source>
+</item>
+<item>
 <title>Preço da gasolina em Guaíba (RS): confira os valores desta semana</title>
-<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPYnFhdGIzSGFKUTBCQmNBXzkyX29ZQWFhWGpPQl9EYm03aDd3cVRvUzd4YWJ0d0c2a0JTR19IeEhnZGVWZ2FQR0ZPZ0diNUVwRm0xSzJTcURtUE5CZzB6RVlNSF9YVVpiUG91R1VRZGdGdU1wYjU1cXNGYWN6VlZKVGsyckJUam00bXpGZFFkazVJVElnLWJKLW1oV3VkWGk2YzdrYWdfQkxUSW5KcUp3NU5GbjItYlBQUXJIcEZ4WXJQMTJn?oc=5</link>
-<guid>e193b151bc9b</guid>
+<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS3hIN1R0anZNYWZhcmNSY3ZBcXVsTzdWQlNHeXB0Q2xhSzlFdG1WY21ydGtWNUVKVzJvanpCT0FGbHdUcHJ5TWRFLTViMlkxbnZoQV9RaDUtNzBJLXVMRHoybHAwaEpRbE1YOC05aEM1UDc5S2duTkJ3al9xV3UxVjdwUUtWRjNoemJNNk92S0FFa2daUzF2SGVUMlJjNV9Pck1CMllKblVQYVNJUVdkZnlXM0FPTXY3NGd3ckwwaFI?oc=5</link>
+<guid>a933c55d4d53</guid>
 <pubDate>2026-10-10T09:13:44+00:00</pubDate>
 <source>UOL Economia</source>
+</item>
+<item>
+<title>Guaíba: doze suspeitos são presos após disputa entre facções; uma mulher foi baleada</title>
+<link>https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdVFabDMtdjZmSmxCRzk1VmgyQjZYZ2w4S2REbVc0RVVkS1RWX3NiNlFBLUNGNXpTX29qa3Q1cEhoQVBRZ29kRGdvYmlsR1NIRzZVUTdyQ2ZQcV9DYktrSG56MVplRXZKTEh3cVIyMGFPdWRiWFYxYWs5QXRKVl9aLTFpN2ZlQ2hDa0tNaUtQa2V6V0V0enJETS1ObGlZTVdjYmdNdkhtUDltZEJFS0Jmc1Y4WGtSc0VkYTV1bFAya2RKdHdzeF9wa3AtcTdrc0RYSHNRWi1uelhZb2dQYlg5VlVBQVdUQQ?oc=5</link>
+<guid>91b49a40731f</guid>
+<pubDate>2026-10-09T17:47:05+00:00</pubDate>
+<source>R7</source>
 </item>
 <item>
 <title>Cheia do Guaíba provoca a paralisação da construção da Usina do Gasômetro</title>
@@ -130,13 +135,6 @@
 <link>https://news.google.com/rss/articles/CBMikgJBVV95cUxPOHhBUC1FMHZUcmEyT1BoVDVjRFNibHFsNlVZSGV5MEMwQzdpNHNjWGZQOVY5NUtqS3dmVUxyMGI4aUMyS2VJVXBaNndLdTR6SW4taWxXbjJnWFdndUpad0laclhqZWFJdXBETEtxVFBLTDVKN25lVlR4MTQ2amsySEtXenBic3MxYkQtWnExaWhoSmpwM18yQmMwdTV2YjhnZWxabHplbFU4Vjc5VnBUSUh1Q1pQYXItRjNRd1JNMThKYW81U0F1QWNNeVoxa1lmMTlHb3hvZWd0VlVSWDZReG05NktJLXZ6bkktWWpERU13QVJGOG50Z0VJWkRDZl96UUdBZ0JwLVZ5ZlYzbkV3THBn0gGgAkFVX3lxTE9tZ2V6dGhjMmp5UGV6N2ZxMjlDSFZILWpuTzY0aDJoS3ZjUVZvR3VDdTRzVXhkRHBPSDU4WjdsdkpHMTBiTldFV2N2WGJCTU5PRXRhWndfZFNYY0w1d1k5bnNuZXRjaU9CV0RoaWNRNmlGSjl3UjkybXRxem5jX2ZCY1dvWG5oVGYzLUhTU21uN0hDZGpudERUNmp0OUVHcy0zOUZBbXNEVmhyQ2lTTGxGSkptbWdBNjNBNnlraHNmYk5NMDA1TGVxVW9EQ0QtZ0VFUGpQZXVYSThRcFNBT2RYZFNWWWxIWGk2bjNjYkRFbzBVcjJCeHpUM2EweUhRZUIwc3QwbmJRem9Oa3F4dURrOWg1MmtBNVZ2MWRRVHR2QQ?oc=5</link>
 <guid>29249040e56e</guid>
 <pubDate>2026-10-07T02:10:34+00:00</pubDate>
-<source>G1</source>
-</item>
-<item>
-<title>Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.E.E.M. Dr.Ruy Coelho Gonçalves, na 90ª zona eleitoral</title>
-<link>https://news.google.com/rss/articles/CBMiqgJBVV95cUxQUkpIN3haU0o4Z3ZVZ2pHSXE1LVZzYjVEOWJXRkhrQ2ZzcGVXa2NhODNKNVU5NmhVSDZMOHBYTTdrUFNOOG0zUHp3bW9KVE5jbWpsdnUwTklfTHhrd0FKOUY4bzVSU2pHNlZNSldvMWtfNzFINjBRcW9sa0VIUzNCOUFLbnZfeDlFc3NYaUN4WGs0WUQ4OWtqbzRoUEJDZGEyZEpMcm0tMHprV1Y5OVdKbkdSTWRjcFNCUXB5V1l1Y016TGVZbHlVM1JpdkNGTklrcU1Id2xueklrNTJMS2xJSHZKc3g0WlRYLW9Cc1g5c2xEeWZHUVQ3c0hlNVVMVEtDTU5ZTGFmV29WUEhjRjZmY3ZiS3ZsbE0tY1pscUsyT1ZRYzdDc1liRUhn0gG4AkFVX3lxTFBhaFhzT0lROUJ3VVNFTEhGdEVKNXNRX0NOR2tKMVZRd1NWbWpBUTR1b29PNXRIQ0RHclhRUVU1TkFITElNLWhaTHQzM0s1MlNqcHNSX2s3c0hKUmZOUllielI4WHBlclFTeGFuc1JzMjZ0c1l4b0ZxZUxQNHoxNW1jYmdmOS1VcXRHUlVDR0xUb05OeEhsUVVhTU85eFZVcEc4NTQ1aGNXSml1OVF2THQySFZuN2g4cEdIQXh5NkxqcmZuZVA5ekI2aXUzZU1GcVRVOXI4WFZGek5kRnA2S1NJc0ZKeXVCc1pDS0taRUtGODluN2pjY29nWEZYcUtoaEJsZlc5Q1gtM0loTXFpaHA3ZFNkMGN2MktJdmpBSTFzSG9UR0MzQ3J5NGVqcTRSeElWcjNBckppVQ?oc=5</link>
-<guid>c5bb017101a9</guid>
-<pubDate>2026-10-07T02:08:34+00:00</pubDate>
 <source>G1</source>
 </item>
 </channel></rss>
