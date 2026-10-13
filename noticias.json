@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-13T17:21:50.124601+00:00",
+  "gerado_em": "2026-10-13T22:18:36.360979+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,26 @@
   ],
   "noticias": [
     {
+      "id": "ac4e71bc4bdd",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-13T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+    },
+    {
+      "id": "ad11fea47e8c",
+      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-13T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
+    },
+    {
       "id": "388f50763bb7",
       "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
@@ -94,14 +114,14 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
-      "id": "d7cbf332c5fc",
-      "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
-      "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-13T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
       "id": "8a25da5c0e79",
@@ -114,24 +134,14 @@
       "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
     },
     {
-      "id": "c78cc11739f6",
-      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
-      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "id": "ab932eb63f3d",
+      "titulo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos",
+      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
-    },
-    {
-      "id": "29a7acad7962",
-      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
+      "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
     },
     {
       "id": "db4c16c9fddf",
@@ -144,24 +154,14 @@
       "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
     },
     {
-      "id": "352a6ab063cb",
-      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
+      "id": "c78cc11739f6",
+      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
+      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
-    },
-    {
-      "id": "760ca1b91f96",
-      "titulo": "Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-os-10-candidatos-a-deputado-federal-e-os-10-a-deputado-estadual-mais-votados-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
+      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
     },
     {
       "id": "48102af655b2",
@@ -172,6 +172,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
+    },
+    {
+      "id": "29a7acad7962",
+      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
+    },
+    {
+      "id": "a34f1e709da6",
+      "titulo": "Guaíba atinge marca de duas semanas de cheia na capital gaúcha",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNVUwdTJMclc0Ny1hZXNlRlVlc2Y5RzF6ZHJuV1Y3T3hDVm1nUzV4ZlJiMFA5WE5ET0d5UkM3LXVHSHZlTU5qQ0EybTRmbXJjQTQ3MVFURHBDcEZiY0syMXcyRjAxUVdVVVhMQ1RmMTd1aXV6TmpHbDV6eVlLQ19aRF9oMVh3ZXFHUkt3RFpVVThXcTN6cUZCbGpndjBLdGxzbnVoYw?oc=5",
+      "fonte": "Agora Litoral",
+      "publicado_em": "2026-10-13T17:42:30+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Guaíba atinge marca de duas semanas de cheia na capital gaúcha Agora Litoral"
     },
     {
       "id": "7adb81780696",
@@ -254,6 +274,16 @@
       "resumo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana UOL Economia"
     },
     {
+      "id": "b77694195092",
+      "titulo": "Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTUp4U1pfVU1pa3JsbVpBWjRXOWVnbl9Yb1dqTTJ5d2todGJ2a0F4Zkw4eFBhVXcya2pYN1hPMHBSN3NweHdlU0V1TUpZZGpESHRmTDlhSFVhVG50OXU3el81VE95RmxUUVhuUTlUdExLbXNwNHlCOXJWeFZZYUVkMGNpSUdkQTlqUmhET1hyNC1oZXc3V1FiWVVCcEwxblhvel9pMzl0bUJta1RiMVJ0Z0s3UlV1eGlDNnR0ZDF5WjdGZ1JJc2VIY3R5LThLMHJGTXc?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-09T21:31:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba Repórter Guaibense"
+    },
+    {
       "id": "91b49a40731f",
       "titulo": "Guaíba: doze suspeitos são presos após disputa entre facções; uma mulher foi baleada",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdVFabDMtdjZmSmxCRzk1VmgyQjZYZ2w4S2REbVc0RVVkS1RWX3NiNlFBLUNGNXpTX29qa3Q1cEhoQVBRZ29kRGdvYmlsR1NIRzZVUTdyQ2ZQcV9DYktrSG56MVplRXZKTEh3cVIyMGFPdWRiWFYxYWs5QXRKVl9aLTFpN2ZlQ2hDa0tNaUtQa2V6V0V0enJETS1ObGlZTVdjYmdNdkhtUDltZEJFS0Jmc1Y4WGtSc0VkYTV1bFAya2RKdHdzeF9wa3AtcTdrc0RYSHNRWi1uelhZb2dQYlg5VlVBQVdUQQ?oc=5",
@@ -304,23 +334,13 @@
       "resumo": "Águas do Guaíba se mantêm altas e enchente se prolonga Correio do Povo"
     },
     {
-      "id": "f8af4bb2d63c",
-      "titulo": "Bares na Orla do Guaíba devem ser entregues até o final do ano",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWtOMUJESXZYeHpCaWRNMkh4UjU1Vm9yQ2Z5OXI0X0sxcUZ2aC0ycWFyTV9aZHZ1dnZLSVloNjFxXzJRUHNHMW5hWXFOMTNmWHNMWF9aa1ZNb2gtc0JodmkyRm5rZ3hIaUNxdlNVbERNWFN0ZlFDR3RRLS03VlpMeU12TnVoSF9HT1hINGNYcGhPZ2gtRlVYZDZPMWp2Z2xwU0F1NkQySlpXbDJQOTNrbXVOdDVoOGhMUnQ3dThuNA?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-10-07T21:54:29+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Bares na Orla do Guaíba devem ser entregues até o final do ano Jornal do Comércio"
-    },
-    {
       "id": "31ee938fcf1e",
       "titulo": "Operação da BM prende 11 indivíduos por tráfico de drogas e apreende armas de fogo em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTNyYktua19jUkc2dnhrcUlsWlBBVERySjVrS0FkQm8yM01NVFU5OFhDempfWkxuRDRwSjZad0oxejZuZzdjN2d6Wmx3UzRmLWFObDEyaFJOT3pwMUxBNERtQUc1WnFvOVFJWDkyYnk0UzRuUV9fM1pwSmxYM2FKMUFMSUthbXNSOURxY2poRWhzVnR3ajh0UUtyTm5zQ2cyUGNxSWdNNHU5OHJFaHBZWF8tRVlTYU1vN2FvWUxnM2tJR1FPelYyNw?oc=5",
       "fonte": "Brigada Militar",
       "publicado_em": "2026-10-07T19:08:25+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Operação da BM prende 11 indivíduos por tráfico de drogas e apreende armas de fogo em Guaíba Brigada Militar"
     },
     {
@@ -352,29 +372,29 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no seu local de votação; consulte por zona eleitoral G1"
-    },
-    {
-      "id": "29249040e56e",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação nos locais de votação da 90ª Zona Eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPOHhBUC1FMHZUcmEyT1BoVDVjRFNibHFsNlVZSGV5MEMwQzdpNHNjWGZQOVY5NUtqS3dmVUxyMGI4aUMyS2VJVXBaNndLdTR6SW4taWxXbjJnWFdndUpad0laclhqZWFJdXBETEtxVFBLTDVKN25lVlR4MTQ2amsySEtXenBic3MxYkQtWnExaWhoSmpwM18yQmMwdTV2YjhnZWxabHplbFU4Vjc5VnBUSUh1Q1pQYXItRjNRd1JNMThKYW81U0F1QWNNeVoxa1lmMTlHb3hvZWd0VlVSWDZReG05NktJLXZ6bkktWWpERU13QVJGOG50Z0VJWkRDZl96UUdBZ0JwLVZ5ZlYzbkV3THBn0gGgAkFVX3lxTE9tZ2V6dGhjMmp5UGV6N2ZxMjlDSFZILWpuTzY0aDJoS3ZjUVZvR3VDdTRzVXhkRHBPSDU4WjdsdkpHMTBiTldFV2N2WGJCTU5PRXRhWndfZFNYY0w1d1k5bnNuZXRjaU9CV0RoaWNRNmlGSjl3UjkybXRxem5jX2ZCY1dvWG5oVGYzLUhTU21uN0hDZGpudERUNmp0OUVHcy0zOUZBbXNEVmhyQ2lTTGxGSkptbWdBNjNBNnlraHNmYk5NMDA1TGVxVW9EQ0QtZ0VFUGpQZXVYSThRcFNBT2RYZFNWWWxIWGk2bjNjYkRFbzBVcjJCeHpUM2EweUhRZUIwc3QwbmJRem9Oa3F4dURrOWg1MmtBNVZ2MWRRVHR2QQ?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-07T02:10:34+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação nos locais de votação da 90ª Zona Eleitoral G1"
-    },
-    {
-      "id": "c5bb017101a9",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.E.E.M. Dr.Ruy Coelho Gonçalves, na 90ª zona eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQUkpIN3haU0o4Z3ZVZ2pHSXE1LVZzYjVEOWJXRkhrQ2ZzcGVXa2NhODNKNVU5NmhVSDZMOHBYTTdrUFNOOG0zUHp3bW9KVE5jbWpsdnUwTklfTHhrd0FKOUY4bzVSU2pHNlZNSldvMWtfNzFINjBRcW9sa0VIUzNCOUFLbnZfeDlFc3NYaUN4WGs0WUQ4OWtqbzRoUEJDZGEyZEpMcm0tMHprV1Y5OVdKbkdSTWRjcFNCUXB5V1l1Y016TGVZbHlVM1JpdkNGTklrcU1Id2xueklrNTJMS2xJSHZKc3g0WlRYLW9Cc1g5c2xEeWZHUVQ3c0hlNVVMVEtDTU5ZTGFmV29WUEhjRjZmY3ZiS3ZsbE0tY1pscUsyT1ZRYzdDc1liRUhn0gG4AkFVX3lxTFBhaFhzT0lROUJ3VVNFTEhGdEVKNXNRX0NOR2tKMVZRd1NWbWpBUTR1b29PNXRIQ0RHclhRUVU1TkFITElNLWhaTHQzM0s1MlNqcHNSX2s3c0hKUmZOUllielI4WHBlclFTeGFuc1JzMjZ0c1l4b0ZxZUxQNHoxNW1jYmdmOS1VcXRHUlVDR0xUb05OeEhsUVVhTU85eFZVcEc4NTQ1aGNXSml1OVF2THQySFZuN2g4cEdIQXh5NkxqcmZuZVA5ekI2aXUzZU1GcVRVOXI4WFZGek5kRnA2S1NJc0ZKeXVCc1pDS0taRUtGODluN2pjY29nWEZYcUtoaEJsZlc5Q1gtM0loTXFpaHA3ZFNkMGN2MktJdmpBSTFzSG9UR0MzQ3J5NGVqcTRSeElWcjNBckppVQ?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-07T02:08:34+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): votação para presidente no E.E.E.M. Dr.Ruy Coelho Gonçalves, na 90ª zona eleitoral G1"
     }
   ],
   "noticias_home": [
+    {
+      "id": "ac4e71bc4bdd",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-13T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+    },
+    {
+      "id": "ad11fea47e8c",
+      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-13T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
+    },
     {
       "id": "388f50763bb7",
       "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
@@ -396,14 +416,14 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
-      "id": "d7cbf332c5fc",
-      "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
-      "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-13T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
       "id": "8a25da5c0e79",
@@ -416,24 +436,14 @@
       "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
     },
     {
-      "id": "c78cc11739f6",
-      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
-      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "id": "ab932eb63f3d",
+      "titulo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos",
+      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
-    },
-    {
-      "id": "29a7acad7962",
-      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
+      "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
     },
     {
       "id": "db4c16c9fddf",
@@ -444,16 +454,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
-    },
-    {
-      "id": "352a6ab063cb",
-      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     }
   ]
 }
