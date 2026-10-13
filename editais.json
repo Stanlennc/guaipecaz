@@ -1,8 +1,17 @@
 {
-  "gerado_em": "2026-10-13T13:35:14.417627+00:00",
+  "gerado_em": "2026-10-13T22:17:51.863640+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
+    {
+      "id": "2aad55f17cc7",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV01qdG5Mbm82WC1TSXBuTkNyb1dIdUFkclNBYjJSUFZHWWliVHFrMUxnY2RUMDNwWDFybHp2b3B3Z0FRTEVta21iTmJmVWhxd3cyOW1OU18zWTE5WGtHTFlEMkFDUU11MU92cVg3ODBLcllKQVlKQVp0bzEyanIyN2V6dG9ITFRhR0lOaDBXelM1cS1aeUFITzZJczRpdnlrTkZVUTV2U3JuMHN6RGF3c1dUOTBtX2JEUEJKajVQc0tDYUlta01IRGduWVNVLVpl?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-10-13T17:37:00+00:00",
+      "feed": "vagas"
+    },
     {
       "id": "504af30654cb",
       "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
@@ -100,15 +109,6 @@
       "fonte": "Jornal do Comércio",
       "tipo": "vaga",
       "publicado_em": "2026-06-23T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "9215686b765c",
-      "titulo": "Círculo Saúde abre 120 vagas de emprego para a instalação do novo hospital de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQWktdE5rcGhleE9kSHRYa1RqbzFQc3JHLWhYcnBXdFlBdFFQWDhtY2VoM1FNWExuTDVCUzRvYVpYSFpyTTNqb3BPVjNXQ0Qyb3Z6R0hkcVdLUEE1UWIxajhCQmM2RGlQM2ZjeENzUERQWFJIZHFPeVE2STBnWXBWdWhJRnBLSTlkOHZKVU00d3BMYTlEeUNOUnZfbElVY0xXdkpvU2IyVi1YMExMN0RiTk4zNF9SQmMxYjBJaDlHNWszY3VnWXB2cg?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-06-22T07:00:00+00:00",
       "feed": "vagas"
     }
   ]
