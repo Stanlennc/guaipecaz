@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-13T22:18:36.360979+00:00",
+  "gerado_em": "2026-10-14T03:36:19.144886+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,74 +74,64 @@
   ],
   "noticias": [
     {
-      "id": "ac4e71bc4bdd",
-      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
-      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-13T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
-    },
-    {
-      "id": "ad11fea47e8c",
-      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-13T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
-    },
-    {
       "id": "388f50763bb7",
       "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-13T00:00:00+00:00",
+      "publicado_em": "2026-10-14T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
     },
     {
-      "id": "edea690a93c3",
-      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
+      "id": "ac4e71bc4bdd",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-13T00:00:00+00:00",
+      "publicado_em": "2026-10-14T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+    },
+    {
+      "id": "d7cbf332c5fc",
+      "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
+      "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-14T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
     },
     {
       "id": "91baa5def99d",
       "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
       "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-13T00:00:00+00:00",
+      "publicado_em": "2026-10-14T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+    },
+    {
+      "id": "edea690a93c3",
+      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-14T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
       "id": "8a25da5c0e79",
       "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-13T00:00:00+00:00",
+      "publicado_em": "2026-10-14T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
-    },
-    {
-      "id": "ab932eb63f3d",
-      "titulo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos",
-      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
     },
     {
       "id": "db4c16c9fddf",
@@ -154,16 +144,6 @@
       "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
     },
     {
-      "id": "c78cc11739f6",
-      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
-      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
-    },
-    {
       "id": "48102af655b2",
       "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
       "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
@@ -174,14 +154,64 @@
       "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
     },
     {
-      "id": "29a7acad7962",
-      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
+      "id": "ab932eb63f3d",
+      "titulo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos",
+      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
+      "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
+    },
+    {
+      "id": "c78cc11739f6",
+      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
+      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
+    },
+    {
+      "id": "760ca1b91f96",
+      "titulo": "Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/veja-os-10-candidatos-a-deputado-federal-e-os-10-a-deputado-estadual-mais-votados-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
+    },
+    {
+      "id": "8cceffdb6e38",
+      "titulo": "Eduardo Leite e Luciano Zucco instalam escritório de transição no Edifício Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSW00Y1g4LWxqZjZGOHByNHlERWJ5SFN5ak1NT3hxVmdNUTlFV1VpREVlTUI1bGJwcHB4X0NTMy1yc2tjNTdQR0FwTWlJVDhZdGxkOHhJWGQ3Z2RYQ2NqZXNRcVprZWl2cUVLVzliTjdlN0k1WG1RWGhQTFZKeXhqZm02QXJ4aENCNlNFeUFFMEduanNxaHBuN2ZmbzRYNFdhTnlDNk56MHlCNU92RXNZakVn?oc=5",
+      "fonte": "Rádio Pampa",
+      "publicado_em": "2026-10-14T02:34:51+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Eduardo Leite e Luciano Zucco instalam escritório de transição no Edifício Guaíba Rádio Pampa"
+    },
+    {
+      "id": "8cae939e5646",
+      "titulo": "Polícia Civil prende mulher de 33 anos por suspeita de tráfico de drogas em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU29WX1dGcm5JTlZUclFoaU5VQlBYdE9uUUZWRXppQzFMb3l3b2J6T0xXeGlubjFuNjA3d2QxeUdpVFhpNk1yQzhQMWtycndlVHJEVERpdk01M1NJbW9WNWhhcEx4NUFDenhTUGx1TDFRbVBhRGJ0enRBUzJoVmdwOFBRV25WWXZTSFVycFIzazhEdjM4NWhJLTJpUkJ1UldOZFhGdk9ZQ0x3VGFSczdzM0l4LThyYTlaU3J5UnpnOEU1R0QwV2VKQmFJY052WlNGWlh6TA?oc=5",
+      "fonte": "Portal de Camaquã",
+      "publicado_em": "2026-10-14T02:01:09+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Polícia Civil prende mulher de 33 anos por suspeita de tráfico de drogas em Guaíba Portal de Camaquã"
+    },
+    {
+      "id": "537fe100fb93",
+      "titulo": "Porto Alegre mantém vigilância com o Guaíba acima da cota de cheia há 2 semanas",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVzJpMFdNOWRUSGJqWjN6UHdIYmM1dlJKaC15RHpqb2JWSkx2SWNiS2VQWEFqRVFiazd5bVBPbVVtLVlTSE1fREhxVUVGVk9RNDV2Mmg5aHE0NC1Oa0FuM3Y4UVQ5MFlpWURDQXdtWVR2SzJJVFdaajJwTFdTMTRGQzQ1VGF0SFRlYmpIZXV6T3UwcHEwZnRscE1EV21CVVZucm9PNGNYSkFza3JJZENEbQ?oc=5",
+      "fonte": "www.abcmais.com",
+      "publicado_em": "2026-10-13T22:16:37+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Porto Alegre mantém vigilância com o Guaíba acima da cota de cheia há 2 semanas www.abcmais.com"
     },
     {
       "id": "a34f1e709da6",
@@ -274,16 +304,6 @@
       "resumo": "Preço da gasolina em Guaíba (RS): confira os valores desta semana UOL Economia"
     },
     {
-      "id": "b77694195092",
-      "titulo": "Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTUp4U1pfVU1pa3JsbVpBWjRXOWVnbl9Yb1dqTTJ5d2todGJ2a0F4Zkw4eFBhVXcya2pYN1hPMHBSN3NweHdlU0V1TUpZZGpESHRmTDlhSFVhVG50OXU3el81VE95RmxUUVhuUTlUdExLbXNwNHlCOXJWeFZZYUVkMGNpSUdkQTlqUmhET1hyNC1oZXc3V1FiWVVCcEwxblhvel9pMzl0bUJta1RiMVJ0Z0s3UlV1eGlDNnR0ZDF5WjdGZ1JJc2VIY3R5LThLMHJGTXc?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-09T21:31:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba Repórter Guaibense"
-    },
-    {
       "id": "91b49a40731f",
       "titulo": "Guaíba: doze suspeitos são presos após disputa entre facções; uma mulher foi baleada",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdVFabDMtdjZmSmxCRzk1VmgyQjZYZ2w4S2REbVc0RVVkS1RWX3NiNlFBLUNGNXpTX29qa3Q1cEhoQVBRZ29kRGdvYmlsR1NIRzZVUTdyQ2ZQcV9DYktrSG56MVplRXZKTEh3cVIyMGFPdWRiWFYxYWs5QXRKVl9aLTFpN2ZlQ2hDa0tNaUtQa2V6V0V0enJETS1ObGlZTVdjYmdNdkhtUDltZEJFS0Jmc1Y4WGtSc0VkYTV1bFAya2RKdHdzeF9wa3AtcTdrc0RYSHNRWi1uelhZb2dQYlg5VlVBQVdUQQ?oc=5",
@@ -334,6 +354,16 @@
       "resumo": "Águas do Guaíba se mantêm altas e enchente se prolonga Correio do Povo"
     },
     {
+      "id": "6887340a67d6",
+      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa09rRnBFWEFFZU5RSTQ1RHpWbnVzY1RQdU1oY0tmbFpFVGlYWU9yX3AxZ043SDdCOXQybWNkRVN4MWNURnpZeENIeVFORkh5ZkxJRzQxek5Ua3RUMS0zT2xCOW54N3dHWWtaZ3FreW5OSG1ycmdaVUVpcWRDNlhEeUEwUFc5eUt4OFhBVTZ6SnktMXlKdE90Y3lRSVFCbFJ0aHUtTWEwaDdmR0VxX2h2LTgtSWJiQXhtYmF4a2VxSlo3ZUJFa3RRcHI0MDdTVWRraWZmSUxRRVE4WlJxYnh2Tg?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-07T23:42:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim Repórter Guaibense"
+    },
+    {
       "id": "31ee938fcf1e",
       "titulo": "Operação da BM prende 11 indivíduos por tráfico de drogas e apreende armas de fogo em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTNyYktua19jUkc2dnhrcUlsWlBBVERySjVrS0FkQm8yM01NVFU5OFhDempfWkxuRDRwSjZad0oxejZuZzdjN2d6Wmx3UzRmLWFObDEyaFJOT3pwMUxBNERtQUc1WnFvOVFJWDkyYnk0UzRuUV9fM1pwSmxYM2FKMUFMSUthbXNSOURxY2poRWhzVnR3ajh0UUtyTm5zQ2cyUGNxSWdNNHU5OHJFaHBZWF8tRVlTYU1vN2FvWUxnM2tJR1FPelYyNw?oc=5",
@@ -342,108 +372,68 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Operação da BM prende 11 indivíduos por tráfico de drogas e apreende armas de fogo em Guaíba Brigada Militar"
-    },
-    {
-      "id": "3432f37ca8d7",
-      "titulo": "Guaíba corta 115 cargos, reduz secretarias de 16 para 9 e economiza R$ 4 milhões por mês",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRTQxTENFVU8zZXMxY3Z1SjNDRzloeXpreFRsY0t2WElKaDFhWTJGVXAtV3gwZ215Y3VtWUJlUktkYXl5dTVYTHJSZmNaTFYzOVRDZkRLY3J6UzZKdlA0NVZtMW5KYkJnYjh0VUhwR3RVSEZRNXRGalBsS2JUbndHSHB1Q3FrdVdSTFVoYkZzeUo2ak5GbWlXNVVNVzhudUZwSXBwRUN6Tk5QbVJHcEhCbEF0ejV1blNHRUZv?oc=5",
-      "fonte": "www.radiocaicara.com.br",
-      "publicado_em": "2026-10-07T17:33:34+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba corta 115 cargos, reduz secretarias de 16 para 9 e economiza R$ 4 milhões por mês www.radiocaicara.com.br"
-    },
-    {
-      "id": "1fdf3c766d1e",
-      "titulo": "Guaíba vira palco da cultura árabe",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XcTFSY3NNM2l3Ml9GUmN6dzFzRDA4aXFxN3pPcFl3RjRSenJXWlM2YkxvYnlDdjFIc21PQWNxUGJ0YTUxR192ajNmRjJDXzY1djh0dElEem9mRGJ1ZXlfanBIRUFzR2hxTk1J0gFwQVVfeXFMUG1yMUgtWkc3QjhMYkpGcTB4RkpxVlU5enJhdmx0UUNQWWdaWkdxbFlBZnZNYXQxY0NmLWlfV0xiVDc5RVBxRGtSM2xaNFVwd3k2Ui1NX0ZWT0xkN3hKWFZPWldCeXVvUDAtb2k5REtOMA?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-10-07T02:25:19+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba vira palco da cultura árabe Jornal O Sul"
-    },
-    {
-      "id": "3c2b08ad6134",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no seu local de votação; consulte por zona eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOd1dZV2tLdm9YUlIxUVBiX092TXNaQ2VSYzgzbkNFRG1HcWVHV3JKbU1PcGF2akRvTWR2Tm8wT21RdDdoWGRoQjVwUjZMN3lfVWdzRnc2SFNNbldYYlljN2ZqMkdDVHJtb0hnWjNhTGE3RUFTU0pLMjBHdjVzdmMwRWZkRUw2NE1jRnVPOHNhN016cXdNMml3WWVlQU5fY1o4RG04TlRjUnRFSWo5WTFnX1dXUk9sd3phdDZ3ZExyT2VYTjZhNm5yNEZmdUhkR0VpVzJXb08xT1VqVFhVeVRSN18ySlRneW9GcDVxRHYxVzRLM29sMnZtbm1wc0JEOG9LcEZ5ZXhYYkg0SU5PWXVDakhfQU1FeUxFNDlHbdIBqwJBVV95cUxQeVFEVHQ1RnhOVWVGUFRsNWptZG9UWGljYXdYdGlZVHVjSGpxS3NmeFJQUzlBaUg1ck81aDRNVGtnVXhNYXpmcjFCVGxWdVVFUnBkY1BrMmhDNlBQM1ZWRXhzeXFWX0RMR2MyUlN1QTBOMjcwQ1FJX2tqSmtDTkE0YllvMG5KVXQtS1Z6a3dCbnRiYUZYTXFuaUpoVzkwWXJDN3dOdWVVNEhrZDJXejZtdTVUUlktOXlJMzUxVVctb2s5UEdhQ2VvTHN3Z1BLOG1UYUpiR05GcWxrNWZ3N2VaeklXa0dma3dDSllBelJwRDQwamNxOUtleldlMGZIWE9laUNEM0doLXZCODFDYjh1QVM0aDMwY1p0al8tUnRHeFVTU0gydTQzbnFaWQ?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-07T02:12:39+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no seu local de votação; consulte por zona eleitoral G1"
     }
   ],
   "noticias_home": [
-    {
-      "id": "ac4e71bc4bdd",
-      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
-      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-13T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
-    },
-    {
-      "id": "ad11fea47e8c",
-      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-13T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
-    },
     {
       "id": "388f50763bb7",
       "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-13T00:00:00+00:00",
+      "publicado_em": "2026-10-14T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
     },
     {
-      "id": "edea690a93c3",
-      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
+      "id": "ac4e71bc4bdd",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-13T00:00:00+00:00",
+      "publicado_em": "2026-10-14T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
+      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+    },
+    {
+      "id": "d7cbf332c5fc",
+      "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
+      "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-14T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
     },
     {
       "id": "91baa5def99d",
       "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
       "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-13T00:00:00+00:00",
+      "publicado_em": "2026-10-14T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+    },
+    {
+      "id": "edea690a93c3",
+      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-14T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
       "id": "8a25da5c0e79",
       "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-13T00:00:00+00:00",
+      "publicado_em": "2026-10-14T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
-    },
-    {
-      "id": "ab932eb63f3d",
-      "titulo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos",
-      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
     },
     {
       "id": "db4c16c9fddf",
@@ -454,6 +444,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
+    },
+    {
+      "id": "48102af655b2",
+      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
+      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
     }
   ]
 }
