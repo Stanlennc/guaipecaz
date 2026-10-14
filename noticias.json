@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-14T03:36:19.144886+00:00",
+  "gerado_em": "2026-10-14T09:17:39.127529+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,16 @@
   ],
   "noticias": [
     {
+      "id": "ad11fea47e8c",
+      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-14T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
+    },
+    {
       "id": "388f50763bb7",
       "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
@@ -84,14 +94,14 @@
       "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
     },
     {
-      "id": "ac4e71bc4bdd",
-      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
-      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
+      "id": "2be8f99a228a",
+      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-14T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
     },
     {
       "id": "d7cbf332c5fc",
@@ -114,16 +124,6 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
-      "id": "edea690a93c3",
-      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-14T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
-    {
       "id": "8a25da5c0e79",
       "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
@@ -134,34 +134,14 @@
       "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
     },
     {
-      "id": "db4c16c9fddf",
-      "titulo": "Prefeitura de Guaíba tem previsão de diferença de até R$ 104 milhões no orçamento de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-r-109-2-milhoes-em-caixa-mas-preve-investir-menos-em-2027-diz-secretario-da-fazenda",
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
-    },
-    {
-      "id": "48102af655b2",
-      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
-      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
-    },
-    {
-      "id": "ab932eb63f3d",
-      "titulo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos",
-      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     },
     {
       "id": "c78cc11739f6",
@@ -172,6 +152,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
+    },
+    {
+      "id": "29a7acad7962",
+      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
     },
     {
       "id": "760ca1b91f96",
@@ -190,7 +180,7 @@
       "fonte": "Rádio Pampa",
       "publicado_em": "2026-10-14T02:34:51+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "google",
       "resumo": "Eduardo Leite e Luciano Zucco instalam escritório de transição no Edifício Guaíba Rádio Pampa"
     },
     {
@@ -248,7 +238,7 @@
       "titulo": "Guaíba celebra centenário com show gratuito de Dilsinho",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV080VzFzN3ZkcUlOcHc4S1FFdnZid1Z0U2tBdjJ5MHRmSVh5XzBubHNTaE43amczYmZwQ1hvekItNEtTWUtCM3ZoZGJYUVVYS2J5TWd6V25fd2RKRWRJUXdfMWN4VTdNV255dmNNWWN0WmtlaFFmQzNWTndQZF9uSzl0RTBsVDjSAYwBQVVfeXFMTm9CVzRGX1NYMzVDQ0tlUHFnN1pSZHk2YWhCZm5IUEMzbERsbVlrbDZRWG9rMGswN2NpOXZiamZTeGU2WmtaSWE2dVRsLWZRQTVlRTJkX3o4OThmQXk2MTlXVk5KaUVRRzJRanJBQlk5VGxCbkJxVmZzUEViNjM4UnIzbFNTUEI1MlZVSlA?oc=5",
       "fonte": "Jornal O Sul",
-      "publicado_em": "2026-10-13T01:44:59+00:00",
+      "publicado_em": "2026-10-13T01:50:08+00:00",
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Guaíba celebra centenário com show gratuito de Dilsinho Jornal O Sul"
@@ -354,16 +344,6 @@
       "resumo": "Águas do Guaíba se mantêm altas e enchente se prolonga Correio do Povo"
     },
     {
-      "id": "6887340a67d6",
-      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa09rRnBFWEFFZU5RSTQ1RHpWbnVzY1RQdU1oY0tmbFpFVGlYWU9yX3AxZ043SDdCOXQybWNkRVN4MWNURnpZeENIeVFORkh5ZkxJRzQxek5Ua3RUMS0zT2xCOW54N3dHWWtaZ3FreW5OSG1ycmdaVUVpcWRDNlhEeUEwUFc5eUt4OFhBVTZ6SnktMXlKdE90Y3lRSVFCbFJ0aHUtTWEwaDdmR0VxX2h2LTgtSWJiQXhtYmF4a2VxSlo3ZUJFa3RRcHI0MDdTVWRraWZmSUxRRVE4WlJxYnh2Tg?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-07T23:42:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim Repórter Guaibense"
-    },
-    {
       "id": "31ee938fcf1e",
       "titulo": "Operação da BM prende 11 indivíduos por tráfico de drogas e apreende armas de fogo em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTNyYktua19jUkc2dnhrcUlsWlBBVERySjVrS0FkQm8yM01NVFU5OFhDempfWkxuRDRwSjZad0oxejZuZzdjN2d6Wmx3UzRmLWFObDEyaFJOT3pwMUxBNERtQUc1WnFvOVFJWDkyYnk0UzRuUV9fM1pwSmxYM2FKMUFMSUthbXNSOURxY2poRWhzVnR3ajh0UUtyTm5zQ2cyUGNxSWdNNHU5OHJFaHBZWF8tRVlTYU1vN2FvWUxnM2tJR1FPelYyNw?oc=5",
@@ -372,9 +352,39 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Operação da BM prende 11 indivíduos por tráfico de drogas e apreende armas de fogo em Guaíba Brigada Militar"
+    },
+    {
+      "id": "3432f37ca8d7",
+      "titulo": "Guaíba corta 115 cargos, reduz secretarias de 16 para 9 e economiza R$ 4 milhões por mês",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRTQxTENFVU8zZXMxY3Z1SjNDRzloeXpreFRsY0t2WElKaDFhWTJGVXAtV3gwZ215Y3VtWUJlUktkYXl5dTVYTHJSZmNaTFYzOVRDZkRLY3J6UzZKdlA0NVZtMW5KYkJnYjh0VUhwR3RVSEZRNXRGalBsS2JUbndHSHB1Q3FrdVdSTFVoYkZzeUo2ak5GbWlXNVVNVzhudUZwSXBwRUN6Tk5QbVJHcEhCbEF0ejV1blNHRUZv?oc=5",
+      "fonte": "www.radiocaicara.com.br",
+      "publicado_em": "2026-10-07T17:33:34+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba corta 115 cargos, reduz secretarias de 16 para 9 e economiza R$ 4 milhões por mês www.radiocaicara.com.br"
+    },
+    {
+      "id": "32a9453886e6",
+      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWkphQ1A1bjBhWFZtRGVDQV9qbGhELXBnOWtfYVFvc2h5a3NxNWF1SDZfS1ZsekNBX0p3dEJ2TlFRWC1RY1ZpeXgzWk5zNHlUM1pfSEx5SFhBdElMbG10OHpQUlJwd0JhQnhxcmFTT2tCQnhUa2lyc1prTEluaU5rOXFtV3FPRVNBTVlrQnZNSm1mZmRTbE5mejBTZFZQanBEeGhSSWx2RGc1eVlHdFBiMU90LWV1aHExTndURDM2R0xfRHFNZHBfZUh6ekxTZlJscFYxejRyZkpUMkZrQ1Zj?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-07T16:56:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9 Repórter Guaibense"
     }
   ],
   "noticias_home": [
+    {
+      "id": "ad11fea47e8c",
+      "titulo": "Gincana das Cores do colégio Augusto Meyer celebra tradição, cultura e história de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/gincana-das-cores-do-colegio-augusto-meyer-celebra-tradicao-cultura-e-historia-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-14T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Gincana das Cores do Colégio Estadual Augusto Meyer celebra tradição, cultura e história de Guaíba"
+    },
     {
       "id": "388f50763bb7",
       "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
@@ -386,14 +396,14 @@
       "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
     },
     {
-      "id": "ac4e71bc4bdd",
-      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
-      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
+      "id": "2be8f99a228a",
+      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-14T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
     },
     {
       "id": "d7cbf332c5fc",
@@ -416,16 +426,6 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
-      "id": "edea690a93c3",
-      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-tem-vagas-de-emprego-para-diferentes-funcoes-e-pessoas-com-deficiencia-nesta-semana",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-14T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
-    },
-    {
       "id": "8a25da5c0e79",
       "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
@@ -436,24 +436,24 @@
       "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
     },
     {
-      "id": "db4c16c9fddf",
-      "titulo": "Prefeitura de Guaíba tem previsão de diferença de até R$ 104 milhões no orçamento de 2027",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-tem-r-109-2-milhoes-em-caixa-mas-preve-investir-menos-em-2027-diz-secretario-da-fazenda",
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cidade tem R$ 109,2 milhões em caixa, de acordo com o secretário da Fazenda"
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     },
     {
-      "id": "48102af655b2",
-      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
-      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
+      "id": "c78cc11739f6",
+      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
+      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
+      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
     }
   ]
 }
