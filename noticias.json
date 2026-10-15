@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-15T08:52:07.735397+00:00",
+  "gerado_em": "2026-10-15T14:40:31.864840+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,25 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "689591584b62",
-      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-15T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
-      "id": "91baa5def99d",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-15T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
-    },
-    {
       "id": "d7cbf332c5fc",
       "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
       "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
@@ -101,6 +82,15 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
+    },
+    {
+      "id": "689591584b62",
+      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-15T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
     },
     {
       "id": "8a25da5c0e79",
@@ -113,14 +103,24 @@
       "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
     },
     {
-      "id": "2be8f99a228a",
-      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
+      "id": "ac4e71bc4bdd",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-15T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
+      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+    },
+    {
+      "id": "388f50763bb7",
+      "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-15T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
     },
     {
       "id": "edea690a93c3",
@@ -133,44 +133,24 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
-      "id": "352a6ab063cb",
-      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-10-15T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
-      "id": "c78cc11739f6",
-      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
-      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "id": "29a7acad7962",
+      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
-    },
-    {
-      "id": "48102af655b2",
-      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
-      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
-    },
-    {
-      "id": "e808e9cd1c8f",
-      "titulo": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/inauguracao-do-novo-centro-de-distribuicao-do-mercado-livre-marca-as-comemoracoes-de-100-anos-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O empreendimento está instalado no complexo logístico Ellosul, às margens da BR-116"
+      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
     },
     {
       "id": "760ca1b91f96",
@@ -183,14 +163,34 @@
       "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
     },
     {
-      "id": "ed5cce8a573d",
-      "titulo": "Corrida para Vencer o Diabetes será realizada na Orla do Guaíba no dia 22 de novembro",
-      "url": "https://expansao.co/corrida-para-vencer-o-diabetes-sera-realizada-na-orla-do-guaiba-no-dia-22-de-novembro/",
-      "fonte": "Expansão",
-      "publicado_em": "2026-10-14T18:01:46+00:00",
-      "categoria": "Projetos especiais",
-      "feed": "expansao_direto",
-      "resumo": "A 28ª edição da Corrida para Vencer o Diabetes será realizada no próximo dia 22 de novembro, no Parque Harmonia, em Porto Alegre, com expectativa de reunir mais de 5&#8230; O post Corrida para Vencer o Diabetes será realizada na Orla do Guaíba no dia 22 de novembro apareceu primeiro em Expansão ."
+      "id": "e808e9cd1c8f",
+      "titulo": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/inauguracao-do-novo-centro-de-distribuicao-do-mercado-livre-marca-as-comemoracoes-de-100-anos-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O empreendimento está instalado no complexo logístico Ellosul, às margens da BR-116"
+    },
+    {
+      "id": "c78cc11739f6",
+      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
+      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
+    },
+    {
+      "id": "4561765be66c",
+      "titulo": "Mercado Livre inaugura centro de distribuição em Guaíba com previsão de 700 empregos diretos",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTEFBMkhhcmRtbVNwckdqUEJvSjBzUzQ4enNoeV9BaWEtZG0tU3ZsekZDWHRnUk5tSWNaa0ctX2VfaEZvc2ViQUNXUVByN3hkclBUTkRtWVpDUFVVbVlwUUEzM2ZBZ2xSeEo3czhZeU5pNWtNY0hpY0xmajBTR0dLVW5XQVE0RWhldnA5NnVWTllnRk9xTVF4WmQxamZpWURheUtJMWZVZjIzSmRSSFVVdU1mc2s4M2kteUZjU1M5LWF5LWhwM2xDcEtQeGktRlZ3aGRHSFlmZnd4Zkk?oc=5",
+      "fonte": "Jornal Tradição Regional",
+      "publicado_em": "2026-10-15T10:32:29+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Mercado Livre inaugura centro de distribuição em Guaíba com previsão de 700 empregos diretos Jornal Tradição Regional"
     },
     {
       "id": "91c3ba58f66a",
@@ -213,6 +213,16 @@
       "resumo": "Governador participa da inauguração de centro de distribuição do Mercado Livre em Guaíba Portal do Estado do Rio Grande do Sul"
     },
     {
+      "id": "ddc811c413fc",
+      "titulo": "Corrida para Vencer o Diabetes será realizada na Orla do Guaíba no dia 22 de novembro",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWZwMG50WlJsQmxNb0ZxWGZpdXhsaHRjc1U0S2ZrbTA4SWQtcDRKU05LaC0yN3RNdVJKUURkQ3ZtV2xfTHV6MlFNcUlkc1pPQjBPbXBXMTVtaUp6SWs5QnFYaUYxMGRjaXd3cW44aHNIb05GM0hKM0g5RFBEclpIamdNSDRKNGVHaUxyVHE2alRKMjFDN0p4c1pMb1UtbzBqVll1d3BDVXJiZw?oc=5",
+      "fonte": "Expansão",
+      "publicado_em": "2026-10-14T18:01:46+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Corrida para Vencer o Diabetes será realizada na Orla do Guaíba no dia 22 de novembro Expansão"
+    },
+    {
       "id": "2ddf9036b1c4",
       "titulo": "Guaíba 100 anos: planejamento urbano, inovação e desenvolvimento sustentável",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc2EzR2FON25VSUUweko1UmNCVVpEWXZ3VDNJRklJZzlOYlVRMkZ2aFpWQURtOXh6cHFfOG50dDVKWS1nQlc5LV9PZUc5a2xhdG1EYUJyWUNCWTdNSXp6cTc3NFJFUjF2U2t6TEdWQVYwMzcxb2hjam80Tm15a1RTbmZicWMxTVJhWkhXWDhDeTZZbVJmbmRGRHRfS1ZOZ1Z1TTBXNWFmd3NNdVNyTVZSNG9MSUpMbHN4WXc?oc=5",
@@ -223,24 +233,14 @@
       "resumo": "Guaíba 100 anos: planejamento urbano, inovação e desenvolvimento sustentável Repórter Guaibense"
     },
     {
-      "id": "a462e5ae6a59",
+      "id": "8cceffdb6e38",
       "titulo": "Eduardo Leite e Luciano Zucco instalam escritório de transição no Edifício Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlp2QWVxekRaTVJhZWJmTklsUkx4eEVSV2tsVm56ZE90U3kwVElYWVI1VDlLd05TWGNfLUdMTDZ1dEIxdkpLQjNHeVg2Q29ER1NmYUNEVXEydHVqVlRGQkZYS3U3RVlyZ1QwUVVUWndpcXdsM1RmVGRIZXRlRGg4aV9nTHVNUFd6dVQ0ZTgxdURQWWFSZEdONkxYTVRYTzBHcVNLLUpmLVBialR2QWNmSm5WRnc?oc=5",
-      "fonte": "radiocaicara.com.br",
-      "publicado_em": "2026-10-14T02:34:02+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSW00Y1g4LWxqZjZGOHByNHlERWJ5SFN5ak1NT3hxVmdNUTlFV1VpREVlTUI1bGJwcHB4X0NTMy1yc2tjNTdQR0FwTWlJVDhZdGxkOHhJWGQ3Z2RYQ2NqZXNRcVprZWl2cUVLVzliTjdlN0k1WG1RWGhQTFZKeXhqZm02QXJ4aENCNlNFeUFFMEduanNxaHBuN2ZmbzRYNFdhTnlDNk56MHlCNU92RXNZakVn?oc=5",
+      "fonte": "Rádio Pampa",
+      "publicado_em": "2026-10-14T02:34:51+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Eduardo Leite e Luciano Zucco instalam escritório de transição no Edifício Guaíba radiocaicara.com.br"
-    },
-    {
-      "id": "8cae939e5646",
-      "titulo": "Polícia Civil prende mulher de 33 anos por suspeita de tráfico de drogas em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU29WX1dGcm5JTlZUclFoaU5VQlBYdE9uUUZWRXppQzFMb3l3b2J6T0xXeGlubjFuNjA3d2QxeUdpVFhpNk1yQzhQMWtycndlVHJEVERpdk01M1NJbW9WNWhhcEx4NUFDenhTUGx1TDFRbVBhRGJ0enRBUzJoVmdwOFBRV25WWXZTSFVycFIzazhEdjM4NWhJLTJpUkJ1UldOZFhGdk9ZQ0x3VGFSczdzM0l4LThyYTlaU3J5UnpnOEU1R0QwV2VKQmFJY052WlNGWlh6TA?oc=5",
-      "fonte": "Portal de Camaquã",
-      "publicado_em": "2026-10-14T02:01:09+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Polícia Civil prende mulher de 33 anos por suspeita de tráfico de drogas em Guaíba Portal de Camaquã"
+      "resumo": "Eduardo Leite e Luciano Zucco instalam escritório de transição no Edifício Guaíba Rádio Pampa"
     },
     {
       "id": "537fe100fb93",
@@ -291,6 +291,16 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Guaíba atinge marca de duas semanas consecutivas em nível de cheia Agora Litoral"
+    },
+    {
+      "id": "cd0e7cc796fc",
+      "titulo": "Mostra Teatro de Bonecos do RS circula em outubro e novembro pelas cidades de Porto Alegre, Arambaré, Cachoeirinha, Guaíba, Três Coroas e Venâncio Aires",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOejFyS1VRcEVqdHpMY1ZZRllfZFBINW5CVGJxWXgxU2trNHNMNFVEX3UtX2syRU95YjI4YW8ySU42WDJjVmhLemNTMnlGdDRMLVhYOXV6T2Faa2R2ZFNqd0xIWVdvZEY2akRoUmpTdkZSd25mYXNWM1Nua0ZqcEJETUhXbURnT2pnQzhQbHNXRlFvV0J2VTVBU1d6WUNuNHlkbDlnbnhkbGVSYmtORUlINDJQNmRVbTd6ZjBkQnRUYTNhbVBzS3JQSjR0OTBBN3lkSU1ZaHowTVFvR3ZBUkFnQkVfVHA1RUxSWWphRlZWMFJIZ3N1SWtodWNraG1sNGxtd0FEWnpGYnlRWFM3aHVhOG9CRmhvRnRLQTdv?oc=5",
+      "fonte": "Pics Arte e Entretenimento",
+      "publicado_em": "2026-10-12T02:14:18+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Mostra Teatro de Bonecos do RS circula em outubro e novembro pelas cidades de Porto Alegre, Arambaré, Cachoeirinha, Guaíba, Três Coroas e Venâncio Aires Pics Arte e Entretenimento"
     },
     {
       "id": "31f47f9a0e2d",
@@ -353,46 +363,17 @@
       "resumo": "Cheia do Guaíba provoca a paralisação da construção da Usina do Gasômetro Correio do Povo"
     },
     {
-      "id": "62c26a129458",
-      "titulo": "Corpo de homem é encontrado boiando nas águas do Guaíba no centro de Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVC1PdWdtd0YtQl9zX2JicUFadmgwY3BqTkUxUXNQbnlJaXRMQTd5YVJPdG0tVklsTndCSnFScUZ6Z0xJSmRSem50RGs4UExaM0QxNFZzYk50clF5RlExazdNaWFTNkRHdlY0VmNuOE5TU2NGUUJVeGtUYmNJXzY4Uk1IUEJqUTJCSFVJUVpZUUhNek81dTZSNm1Ca1pIZ2I4bmMtbGV1RWVJYmRfcGJIUHRjUU16QXB2OTJGQWVJSnNjUUFDUGxJVXdyU2NTekdfSnVGVHNlQV8teUhlR3Y3MmlJZ1VzOG1LLXh2eHJtckN6VXdUc1JRWU9qMUc5cC0xN2VYMi1Ldw?oc=5",
-      "fonte": "Terra",
-      "publicado_em": "2026-10-08T14:17:00+00:00",
+      "id": "31ee938fcf1e",
+      "titulo": "Operação da BM prende 11 indivíduos por tráfico de drogas e apreende armas de fogo em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVTNyYktua19jUkc2dnhrcUlsWlBBVERySjVrS0FkQm8yM01NVFU5OFhDempfWkxuRDRwSjZad0oxejZuZzdjN2d6Wmx3UzRmLWFObDEyaFJOT3pwMUxBNERtQUc1WnFvOVFJWDkyYnk0UzRuUV9fM1pwSmxYM2FKMUFMSUthbXNSOURxY2poRWhzVnR3ajh0UUtyTm5zQ2cyUGNxSWdNNHU5OHJFaHBZWF8tRVlTYU1vN2FvWUxnM2tJR1FPelYyNw?oc=5",
+      "fonte": "Brigada Militar",
+      "publicado_em": "2026-10-07T19:08:25+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Corpo de homem é encontrado boiando nas águas do Guaíba no centro de Porto Alegre Terra"
-    },
-    {
-      "id": "6887340a67d6",
-      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa09rRnBFWEFFZU5RSTQ1RHpWbnVzY1RQdU1oY0tmbFpFVGlYWU9yX3AxZ043SDdCOXQybWNkRVN4MWNURnpZeENIeVFORkh5ZkxJRzQxek5Ua3RUMS0zT2xCOW54N3dHWWtaZ3FreW5OSG1ycmdaVUVpcWRDNlhEeUEwUFc5eUt4OFhBVTZ6SnktMXlKdE90Y3lRSVFCbFJ0aHUtTWEwaDdmR0VxX2h2LTgtSWJiQXhtYmF4a2VxSlo3ZUJFa3RRcHI0MDdTVWRraWZmSUxRRVE4WlJxYnh2Tg?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-07T23:42:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim Repórter Guaibense"
+      "feed": "google",
+      "resumo": "Operação da BM prende 11 indivíduos por tráfico de drogas e apreende armas de fogo em Guaíba Brigada Militar"
     }
   ],
   "noticias_home": [
-    {
-      "id": "689591584b62",
-      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-15T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
-      "id": "91baa5def99d",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-15T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
-    },
     {
       "id": "d7cbf332c5fc",
       "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
@@ -402,6 +383,15 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
+    },
+    {
+      "id": "689591584b62",
+      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-15T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto"
     },
     {
       "id": "8a25da5c0e79",
@@ -414,14 +404,24 @@
       "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
     },
     {
-      "id": "2be8f99a228a",
-      "titulo": "Com 62 câmeras, Centro de Operações da Polícia Militar inicia funcionamento em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-62-cameras-centro-de-operacoes-da-policia-militar-inicia-funcionamento-em-guaiba",
+      "id": "ac4e71bc4bdd",
+      "titulo": "OAB Guaíba lança campanha sobre a importância do voto e realiza palestra no Dia Nacional dos Surdos",
+      "url": "https://www.reporterguaibense.com.br/noticia/oab-guaiba-lanca-campanha-sobre-a-importancia-do-voto-e-realiza-palestra-no-dia-nacional-dos-surdos",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-15T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O início das atividades foi acompanhado pelo comandante-geral da Brigada Militar, coronel PM Luigi Gustavo Soares Pereira"
+      "resumo": "Ato ocorreu durante evento alusivo ao Dia Nacional dos Surdos"
+    },
+    {
+      "id": "388f50763bb7",
+      "titulo": "Festival Primavera Cultural abre sua programação nesta sexta-feira em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/festival-primavera-cultural-abre-sua-programacao-nesta-sexta-feira-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-15T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O tradicional evento do Ponto de Cultura Biguá abre a edição deste ano com apresentação do Grupo Piá, na escola APAE."
     },
     {
       "id": "edea690a93c3",
@@ -434,24 +434,24 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência"
     },
     {
-      "id": "352a6ab063cb",
-      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
       "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "publicado_em": "2026-10-15T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
-      "id": "c78cc11739f6",
-      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
-      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "id": "29a7acad7962",
+      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
+      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
     }
   ]
 }
