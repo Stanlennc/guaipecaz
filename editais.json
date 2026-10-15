@@ -1,8 +1,17 @@
 {
-  "gerado_em": "2026-10-15T16:19:27.577432+00:00",
+  "gerado_em": "2026-10-15T20:56:34.185973+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
+    {
+      "id": "4561765be66c",
+      "titulo": "Mercado Livre inaugura centro de distribuição em Guaíba com previsão de 700 empregos diretos",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTEFBMkhhcmRtbVNwckdqUEJvSjBzUzQ4enNoeV9BaWEtZG0tU3ZsekZDWHRnUk5tSWNaa0ctX2VfaEZvc2ViQUNXUVByN3hkclBUTkRtWVpDUFVVbVlwUUEzM2ZBZ2xSeEo3czhZeU5pNWtNY0hpY0xmajBTR0dLVW5XQVE0RWhldnA5NnVWTllnRk9xTVF4WmQxamZpWURheUtJMWZVZjIzSmRSSFVVdU1mc2s4M2kteUZjU1M5LWF5LWhwM2xDcEtQeGktRlZ3aGRHSFlmZnd4Zkk?oc=5",
+      "fonte": "Jornal Tradição Regional",
+      "tipo": "vaga",
+      "publicado_em": "2026-10-15T10:32:29+00:00",
+      "feed": "vagas"
+    },
     {
       "id": "2aad55f17cc7",
       "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
@@ -101,15 +110,6 @@
       "tipo": "vaga",
       "publicado_em": "2026-06-22T07:00:00+00:00",
       "feed": "vagas"
-    },
-    {
-      "id": "0b6495618e87",
-      "titulo": "ESTADO DO RIO GRANDE DO SUL PREFEITURA MUNICIPAL DE GUAÍBA",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLVNqOE42cmMxRlZJX0lSSkUwMkVvZC01Um1WNm1WcWRWYS1vblYxSVUxUDZGM0lzNzJoQlN0UEhDM0NsaEVvZDYzZmJRbVlXSTBzb1ZGRXZ4cnJXUFB6T1lLQlJRZnFuYjhGZVY5UWhneFI0VmY2UTdDbzJ4dFZ5cFo2SWc3OGNrR0ZhMURsVGU0UVVxSTk3czhBUXo2a2hzYVpmWFljcHFRZ0oxYUZxQ0N1TEJSU25NdjcxMjd4WQ?oc=5",
-      "fonte": "Agiliza Sergipe",
-      "tipo": "diario",
-      "publicado_em": "2026-05-27T11:10:15+00:00",
-      "feed": "famurs"
     }
   ]
 }
