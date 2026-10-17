@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-17T16:50:59.517880+00:00",
+  "gerado_em": "2026-10-17T20:09:08.943888+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,24 +74,14 @@
   ],
   "noticias": [
     {
-      "id": "d7cbf332c5fc",
-      "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
-      "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
+      "id": "8a25da5c0e79",
+      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-17T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
-    },
-    {
-      "id": "91baa5def99d",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-17T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
     },
     {
       "id": "b1a499dec307",
@@ -113,34 +103,24 @@
       "feed": "reporter_direto"
     },
     {
-      "id": "8a25da5c0e79",
-      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-17T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
-      "id": "48102af655b2",
-      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
-      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
-    },
-    {
-      "id": "29a7acad7962",
-      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     },
     {
       "id": "760ca1b91f96",
@@ -163,6 +143,26 @@
       "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
     },
     {
+      "id": "48102af655b2",
+      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
+      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
+    },
+    {
+      "id": "ab932eb63f3d",
+      "titulo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos",
+      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
+    },
+    {
       "id": "e808e9cd1c8f",
       "titulo": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/inauguracao-do-novo-centro-de-distribuicao-do-mercado-livre-marca-as-comemoracoes-de-100-anos-de-guaiba",
@@ -177,7 +177,7 @@
       "titulo": "Hospital Mãe de Deus promove ação de conscientização sobre câncer de mama na Orla do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ2w5Y2J2ZExmbnExZVNtdWNPdENTWEEzalFVOXhWN2ozZGxhQjU0Y0p0dFZ2d1pjWVFhQV81NHhJalAwWkFpVEJYdjQ0Tl9PSHdrcFFoVnhRTWszRXhjSUwwcVRMekoxTmFDNkVkV2ZFVjVyOWVxeEp3VXE1c29sd25EcU1KclRzS0ozcnNvTXNBT1Y1Tmg1bTdCMUJsRDJjeTRYNmw3dFRUbjdfaG9KbjVYbTF0bUR3UDRqbDFJblpjSnNVZnNoZEx5ZTJyS3ZqbHByTW9KeXp0clp5MTVTRWlVOHJIRXB6QVBiSw?oc=5",
       "fonte": "Correio do Povo",
-      "publicado_em": "2026-10-17T16:32:59+00:00",
+      "publicado_em": "2026-10-17T16:39:33+00:00",
       "categoria": null,
       "feed": "correio",
       "resumo": "Hospital Mãe de Deus promove ação de conscientização sobre câncer de mama na Orla do Guaíba Correio do Povo"
@@ -191,6 +191,16 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Guaíba celebra a inauguração oficial do novo Centro de Distribuição do Mercado Livre Serra e Litoral"
+    },
+    {
+      "id": "cea03c424e82",
+      "titulo": "Livro ‘Sem pé nem cabeça’ é lançado em Guaíba, neste domingo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVk9ONXBSNklHa3FaQ2Z1dEp1Qlg3MHlmSVc5M2xxNUNxNmxWaVZoQ2R2bXJRamw3MVpVZ0VOU3Nhdk5pZDNGejZxdEhoQ2oxcmt5ZVNlcFdHMGZqLTkxZmlBV0RBWWRyWVFzZDdoWUNQNXlYT1RvQjVZUThqREh3VW1mdi01ZU5wWEJ3dF9IcWpkUQ?oc=5",
+      "fonte": "Coletiva.net",
+      "publicado_em": "2026-10-16T20:18:05+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Livro ‘Sem pé nem cabeça’ é lançado em Guaíba, neste domingo Coletiva.net"
     },
     {
       "id": "9bdbcce40b6a",
@@ -261,6 +271,16 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Mercado Livre inaugura em Guaíba Jornal O Sul"
+    },
+    {
+      "id": "17dcc4970e26",
+      "titulo": "Procurado por estupro de vulnerável em Guaíba é preso na BR-116",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSVhkZHRmU1U3cVBjckZ3LTRBMTliRi1JUVppMVpkSkl3Z0JGSlpxR19lVVlCZE1uSDhlSXR3eG9CdGFTQW5ZUkFyWFJHb05MLWFDMVZtYllKUWxVbEI5V2JYcnZIRWdXQ2JJdWlqQ1VhMlhDdURQNmZDQ2pwbXVrX1pQbHA1M0U0QkdHVXAxaWtWWm9BSmVGSVlSZDZ3eEJJcXdueXJOcGJWYmVHQ0JJLdIBtgFBVV95cUxOUWRhcVZpRkp5WjNvLTljd0dxanBVdk53azkwSXMtWF8zNlRiVkxheTdrNHd6Q2JkdTR5LWJqeGdHMlZBanBSYXc3RHkxX01VdXdqcjljODRoUDBPUjRGQ3pybEtRbmc0WlB0c3Y3U0JMUks0RWZXNDk0UDZmSV8wZjAwdllFbV9GVU0xenBCY3otQy1saWtDNkVMYUhCY2tOaUlDNkdoU3dzN1pUdnFFRjU5V2dDQQ?oc=5",
+      "fonte": "Blog do Juares",
+      "publicado_em": "2026-10-15T00:08:58+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Procurado por estupro de vulnerável em Guaíba é preso na BR-116 Blog do Juares"
     },
     {
       "id": "63084535e880",
@@ -351,48 +371,18 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Escadaria 14 de Outubro, em Guaíba, será a segunda maior escadaria em mosaico do Brasil força do vale"
-    },
-    {
-      "id": "2965b6a744c6",
-      "titulo": "Guaíba atinge marca de duas semanas consecutivas em nível de cheia",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOWRwQ0g3RkVsVW1CXzJSTGZzYjdEZlVZVDBZOUJ2Mkx0cTlqcGZWeE1iN0xOdjhqSEsyZjhzenVjZlgyQXVWMnQ3WjNUSW1TX2JqT2RURERQczlSTkFDWVFYU1I1MS1YYmdUemJDaVFsN2dGYUpCbUpGREgxckhvNHhPV0REQWNCR0VWRXNxOFlVNFpGMG5udDlVWjhQNnFnYU8yT2hCUVJMdw?oc=5",
-      "fonte": "Agora Litoral",
-      "publicado_em": "2026-10-12T04:42:40+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba atinge marca de duas semanas consecutivas em nível de cheia Agora Litoral"
-    },
-    {
-      "id": "31f47f9a0e2d",
-      "titulo": "Guaíba se encaminha para duas semanas sob cheia",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GYUUxNVFZbl8xM2Q1dXc1ZWxLc1I5VGNMaGZnNFpaTm1BOHBJRy0tS0JkU3Nwd1RlazI1dHZVM2dObERKM05TOE9NeE0tdHpDN1gwamVCOHc3UHZMVUE0MnVpcGN0N0pCLUNDTlJGb3B5VklFaXc?oc=5",
-      "fonte": "MetSul Meteorologia",
-      "publicado_em": "2026-10-11T18:30:17+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba se encaminha para duas semanas sob cheia MetSul Meteorologia"
     }
   ],
   "noticias_home": [
     {
-      "id": "d7cbf332c5fc",
-      "titulo": "Cartório eleitoral de Guaíba destaca estrutura e a organização para as eleições deste domingo",
-      "url": "https://www.reporterguaibense.com.br/noticia/cartorio-eleitoral-de-guaiba-destaca-estrutura-e-a-organizacao-para-as-eleicoes-deste-domingo",
+      "id": "8a25da5c0e79",
+      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-17T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Andréia da Silveira Machado reforça ainda a segurança das urnas eletrônicas e a possibilidade de acompanhamento do processo por eleitore"
-    },
-    {
-      "id": "91baa5def99d",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-17T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
     },
     {
       "id": "b1a499dec307",
@@ -414,34 +404,24 @@
       "feed": "reporter_direto"
     },
     {
-      "id": "8a25da5c0e79",
-      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-17T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
-      "id": "48102af655b2",
-      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
-      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
-    },
-    {
-      "id": "29a7acad7962",
-      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     },
     {
       "id": "760ca1b91f96",
@@ -452,6 +432,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
+    },
+    {
+      "id": "c78cc11739f6",
+      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
+      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
+    },
+    {
+      "id": "48102af655b2",
+      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
+      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
     }
   ]
 }
