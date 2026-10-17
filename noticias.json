@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-17T20:09:08.943888+00:00",
+  "gerado_em": "2026-10-17T23:45:16.461001+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,6 +84,16 @@
       "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
     },
     {
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-17T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+    },
+    {
       "id": "b1a499dec307",
       "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
@@ -101,26 +111,6 @@
       "publicado_em": "2026-10-17T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
-    },
-    {
-      "id": "91baa5def99d",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-17T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
-    },
-    {
-      "id": "352a6ab063cb",
-      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     },
     {
       "id": "760ca1b91f96",
@@ -153,14 +143,24 @@
       "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
     },
     {
-      "id": "ab932eb63f3d",
-      "titulo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos",
-      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos",
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
+    },
+    {
+      "id": "29a7acad7962",
+      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
     },
     {
       "id": "e808e9cd1c8f",
@@ -283,13 +283,13 @@
       "resumo": "Procurado por estupro de vulnerável em Guaíba é preso na BR-116 Blog do Juares"
     },
     {
-      "id": "63084535e880",
+      "id": "a4b8368ec429",
       "titulo": "Governador participa da inauguração de centro de distribuição do Mercado Livre em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmwteWlJMGNmOHJlZlJLbFgyOHNmYVZrcFc4R3dWYlBRZ2twOXk0b2ZYREJOa0hCMXhqYmg4VW1vcmdDYWRuSnY0bzFzNDQtQnNZaDd5QXpJbWRuVmVFOXJWOEV5c190WWRTdU85SzJ1ODgyZkNOMF9lSmVsWVdfSU1YaFhfMWVjODVpYUZLazNYM2NqdVVhWDB5ZUN3RW9raHZGNUVEUEtZVVdsQlA5cWtjNmNndHBY?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVIyeHNpT2hnT1NaWS1xdlQ1U1U3OU9ad0xKd0NzajB5QkFoODcyTm1QS0UzNGJnZE0xSlM2NXpLMTdRN090NFRDVzR3clQ3U25HWjJQdFVEcmVMd21OZTM0MzQtTkhkVVlXRG9GSW1ueWZ5LVRLcnRiRk0xWmJzeXREXzkxSWM4TFQtOU5EbnczWndmWkRza3k0Z3FOUkkyQ0xmTDNDTC0zS2tuWTlUN1Bycw?oc=5",
       "fonte": "Portal do Estado do Rio Grande do Sul",
-      "publicado_em": "2026-10-14T20:35:02+00:00",
+      "publicado_em": "2026-10-14T20:35:00+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "google",
       "resumo": "Governador participa da inauguração de centro de distribuição do Mercado Livre em Guaíba Portal do Estado do Rio Grande do Sul"
     },
     {
@@ -313,14 +313,14 @@
       "resumo": "Guaíba 100 anos: planejamento urbano, inovação e desenvolvimento sustentável Repórter Guaibense"
     },
     {
-      "id": "8cceffdb6e38",
+      "id": "a462e5ae6a59",
       "titulo": "Eduardo Leite e Luciano Zucco instalam escritório de transição no Edifício Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSW00Y1g4LWxqZjZGOHByNHlERWJ5SFN5ak1NT3hxVmdNUTlFV1VpREVlTUI1bGJwcHB4X0NTMy1yc2tjNTdQR0FwTWlJVDhZdGxkOHhJWGQ3Z2RYQ2NqZXNRcVprZWl2cUVLVzliTjdlN0k1WG1RWGhQTFZKeXhqZm02QXJ4aENCNlNFeUFFMEduanNxaHBuN2ZmbzRYNFdhTnlDNk56MHlCNU92RXNZakVn?oc=5",
-      "fonte": "Rádio Pampa",
-      "publicado_em": "2026-10-14T02:34:51+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlp2QWVxekRaTVJhZWJmTklsUkx4eEVSV2tsVm56ZE90U3kwVElYWVI1VDlLd05TWGNfLUdMTDZ1dEIxdkpLQjNHeVg2Q29ER1NmYUNEVXEydHVqVlRGQkZYS3U3RVlyZ1QwUVVUWndpcXdsM1RmVGRIZXRlRGg4aV9nTHVNUFd6dVQ0ZTgxdURQWWFSZEdONkxYTVRYTzBHcVNLLUpmLVBialR2QWNmSm5WRnc?oc=5",
+      "fonte": "radiocaicara.com.br",
+      "publicado_em": "2026-10-14T02:34:02+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Eduardo Leite e Luciano Zucco instalam escritório de transição no Edifício Guaíba Rádio Pampa"
+      "resumo": "Eduardo Leite e Luciano Zucco instalam escritório de transição no Edifício Guaíba radiocaicara.com.br"
     },
     {
       "id": "537fe100fb93",
@@ -385,6 +385,16 @@
       "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
     },
     {
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-17T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+    },
+    {
       "id": "b1a499dec307",
       "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
@@ -402,26 +412,6 @@
       "publicado_em": "2026-10-17T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
-    },
-    {
-      "id": "91baa5def99d",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-17T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
-    },
-    {
-      "id": "352a6ab063cb",
-      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     },
     {
       "id": "760ca1b91f96",
@@ -452,6 +442,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
+    },
+    {
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     }
   ]
 }
