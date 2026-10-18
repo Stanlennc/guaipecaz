@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-18T13:46:09.013245+00:00",
+  "gerado_em": "2026-10-18T17:04:43.886887+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "b1a499dec307",
-      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-18T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
-    },
-    {
       "id": "91baa5def99d",
       "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
       "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
@@ -94,6 +84,26 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
+      "id": "8a25da5c0e79",
+      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-18T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
+    },
+    {
+      "id": "b1a499dec307",
+      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-18T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
+    },
+    {
       "id": "689591584b62",
       "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
       "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
@@ -101,36 +111,6 @@
       "publicado_em": "2026-10-18T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
-    },
-    {
-      "id": "29a7acad7962",
-      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
-    },
-    {
-      "id": "352a6ab063cb",
-      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
-    },
-    {
-      "id": "760ca1b91f96",
-      "titulo": "Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-os-10-candidatos-a-deputado-federal-e-os-10-a-deputado-estadual-mais-votados-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
     },
     {
       "id": "ab932eb63f3d",
@@ -163,6 +143,26 @@
       "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
     },
     {
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
+    },
+    {
+      "id": "29a7acad7962",
+      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
+    },
+    {
       "id": "e808e9cd1c8f",
       "titulo": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/inauguracao-do-novo-centro-de-distribuicao-do-mercado-livre-marca-as-comemoracoes-de-100-anos-de-guaiba",
@@ -171,6 +171,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O empreendimento está instalado no complexo logístico Ellosul, às margens da BR-116"
+    },
+    {
+      "id": "fd271cf50d63",
+      "titulo": "Cheia do Rio Uruguai leva Uruguaiana a decretar emergência; Guaíba passa de 2 metros",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOFh3Q29qbnhib3phdElFSTFsaGthb3hMcTlJTU1kTHpaREp3VUFNcVlkYl91M1BSUTdCU0daQzdueTRnTkpwelp3Q0p2dEIya0FpNDNjZFRnMlZpb1J6WkllR1B1emZ2Y2Vqb1BYQ01HcEFaeWdaalVKcmZyOXZtOTJRdy1meHgwOEYzTDdNRWlQZG9fcDFZOGVmTFpBS0t2c0R4MDh1QXpZX1VpcVRLODdiN2dEdnVXSjZNNjc2ZzNfWFBfeUI2Y21aOFBHUdIBzgFBVV95cUxOOFh3Q29qbnhib3phdElFSTFsaGthb3hMcTlJTU1kTHpaREp3VUFNcVlkYl91M1BSUTdCU0daQzdueTRnTkpwelp3Q0p2dEIya0FpNDNjZFRnMlZpb1J6WkllR1B1emZ2Y2Vqb1BYQ01HcEFaeWdaalVKcmZyOXZtOTJRdy1meHgwOEYzTDdNRWlQZG9fcDFZOGVmTFpBS0t2c0R4MDh1QXpZX1VpcVRLODdiN2dEdnVXSjZNNjc2ZzNfWFBfeUI2Y21aOFBHUQ?oc=5",
+      "fonte": "O Republicano",
+      "publicado_em": "2026-10-18T12:30:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Cheia do Rio Uruguai leva Uruguaiana a decretar emergência; Guaíba passa de 2 metros O Republicano"
     },
     {
       "id": "77092d0549ab",
@@ -323,16 +333,6 @@
       "resumo": "Guaíba 100 anos: planejamento urbano, inovação e desenvolvimento sustentável Repórter Guaibense"
     },
     {
-      "id": "2bc5e4fb709d",
-      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQclBJVHBlMldmR2xZdHN2bEdTN1dzeDRsc1g0QkxPRkRmeVNGYzU5dEFUdVY3RkNpUFp6dHhtcnM3aE9HVU5JV1ZwdGU0QUQtMkg2MWRZY3ZKUkwtWGNzWFVDUjRPMVprenExNUNRekNrV0RyczB1X0dlTUpUTGx2amZ1bVFHYnZSTXNZNjBheTNGWnVHS0ZLTDQ4dW1vaDlHVS10MmFqNA?oc=5",
-      "fonte": "Serra e Litoral",
-      "publicado_em": "2026-10-14T03:09:17+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba Serra e Litoral"
-    },
-    {
       "id": "a462e5ae6a59",
       "titulo": "Eduardo Leite e Luciano Zucco instalam escritório de transição no Edifício Guaíba",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlp2QWVxekRaTVJhZWJmTklsUkx4eEVSV2tsVm56ZE90U3kwVElYWVI1VDlLd05TWGNfLUdMTDZ1dEIxdkpLQjNHeVg2Q29ER1NmYUNEVXEydHVqVlRGQkZYS3U3RVlyZ1QwUVVUWndpcXdsM1RmVGRIZXRlRGg4aV9nTHVNUFd6dVQ0ZTgxdURQWWFSZEdONkxYTVRYTzBHcVNLLUpmLVBialR2QWNmSm5WRnc?oc=5",
@@ -375,16 +375,6 @@
   ],
   "noticias_home": [
     {
-      "id": "b1a499dec307",
-      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-18T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
-    },
-    {
       "id": "91baa5def99d",
       "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
       "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
@@ -395,6 +385,26 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
+      "id": "8a25da5c0e79",
+      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-18T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
+    },
+    {
+      "id": "b1a499dec307",
+      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-18T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
+    },
+    {
       "id": "689591584b62",
       "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
       "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
@@ -402,36 +412,6 @@
       "publicado_em": "2026-10-18T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
-    },
-    {
-      "id": "29a7acad7962",
-      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
-    },
-    {
-      "id": "352a6ab063cb",
-      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
-    },
-    {
-      "id": "760ca1b91f96",
-      "titulo": "Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-os-10-candidatos-a-deputado-federal-e-os-10-a-deputado-estadual-mais-votados-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
     },
     {
       "id": "ab932eb63f3d",
@@ -452,6 +432,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
+    },
+    {
+      "id": "c78cc11739f6",
+      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
+      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
+    },
+    {
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     }
   ]
 }
