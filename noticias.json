@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-18T08:33:13.391523+00:00",
+  "gerado_em": "2026-10-18T13:46:09.013245+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "8a25da5c0e79",
-      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-18T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
-    },
-    {
       "id": "b1a499dec307",
       "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
@@ -92,6 +82,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
+    },
+    {
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-18T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
       "id": "689591584b62",
@@ -103,16 +103,6 @@
       "feed": "reporter_direto"
     },
     {
-      "id": "c78cc11739f6",
-      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
-      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
-    },
-    {
       "id": "29a7acad7962",
       "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
@@ -121,6 +111,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
+    },
+    {
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     },
     {
       "id": "760ca1b91f96",
@@ -153,14 +153,14 @@
       "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
     },
     {
-      "id": "352a6ab063cb",
-      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
+      "id": "c78cc11739f6",
+      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
+      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
+      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
     },
     {
       "id": "e808e9cd1c8f",
@@ -303,6 +303,16 @@
       "resumo": "Corrida para Vencer o Diabetes será realizada na Orla do Guaíba no dia 22 de novembro Expansão"
     },
     {
+      "id": "fe0f16282b0c",
+      "titulo": "Tetto POA celebra um ano com cinco dias de festas, DJs e música ao vivo com vista para o Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZng4TFllZ095VkhMNTFobzBjTTBfa2RLNzQtSnhJR3h2WVdUV3hDU2tJaTNKWkFzOXd3Y3Nhc3JGRG5YR0Y1MmZqUE5yT1ZUQ00tNTBLNkl6UVltcEJNTzNlODV0VTJoVEJhVG9YbzRlUk1iMVZEWGZnZWlXTWlaX0lqS2NUUHZZNFBmVFFkcE94RzBXVFpWOGpkMEZrRVoyVDh5MzljS01VUk5oUmN5eUhnQXI5MnJ6bVFiMEkySGtqSUN4MDV0Nk5NRUhBRnUxYW5Pa3c3SGtVdWRRUHVUeVF3?oc=5",
+      "fonte": "Super Transado",
+      "publicado_em": "2026-10-14T17:15:57+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Tetto POA celebra um ano com cinco dias de festas, DJs e música ao vivo com vista para o Guaíba Super Transado"
+    },
+    {
       "id": "2ddf9036b1c4",
       "titulo": "Guaíba 100 anos: planejamento urbano, inovação e desenvolvimento sustentável",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc2EzR2FON25VSUUweko1UmNCVVpEWXZ3VDNJRklJZzlOYlVRMkZ2aFpWQURtOXh6cHFfOG50dDVKWS1nQlc5LV9PZUc5a2xhdG1EYUJyWUNCWTdNSXp6cTc3NFJFUjF2U2t6TEdWQVYwMzcxb2hjam80Tm15a1RTbmZicWMxTVJhWkhXWDhDeTZZbVJmbmRGRHRfS1ZOZ1Z1TTBXNWFmd3NNdVNyTVZSNG9MSUpMbHN4WXc?oc=5",
@@ -311,6 +321,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Guaíba 100 anos: planejamento urbano, inovação e desenvolvimento sustentável Repórter Guaibense"
+    },
+    {
+      "id": "2bc5e4fb709d",
+      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQclBJVHBlMldmR2xZdHN2bEdTN1dzeDRsc1g0QkxPRkRmeVNGYzU5dEFUdVY3RkNpUFp6dHhtcnM3aE9HVU5JV1ZwdGU0QUQtMkg2MWRZY3ZKUkwtWGNzWFVDUjRPMVprenExNUNRekNrV0RyczB1X0dlTUpUTGx2amZ1bVFHYnZSTXNZNjBheTNGWnVHS0ZLTDQ4dW1vaDlHVS10MmFqNA?oc=5",
+      "fonte": "Serra e Litoral",
+      "publicado_em": "2026-10-14T03:09:17+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba Serra e Litoral"
     },
     {
       "id": "a462e5ae6a59",
@@ -343,16 +363,6 @@
       "resumo": "Guaíba atinge marca de duas semanas de cheia na capital gaúcha Agora Litoral"
     },
     {
-      "id": "2aad55f17cc7",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV01qdG5Mbm82WC1TSXBuTkNyb1dIdUFkclNBYjJSUFZHWWliVHFrMUxnY2RUMDNwWDFybHp2b3B3Z0FRTEVta21iTmJmVWhxd3cyOW1OU18zWTE5WGtHTFlEMkFDUU11MU92cVg3ODBLcllKQVlKQVp0bzEyanIyN2V6dG9ITFRhR0lOaDBXelM1cS1aeUFITzZJczRpdnlrTkZVUTV2U3JuMHN6RGF3c1dUOTBtX2JEUEJKajVQc0tDYUlta01IRGduWVNVLVpl?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-13T17:37:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD Repórter Guaibense"
-    },
-    {
       "id": "cb33952ede8b",
       "titulo": "CatSul adota bilhetagem digital na travessia entre Porto Alegre e Guaíba e integra vendas, pagamentos e controle de lotação",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQOUhSNk5Ic0tjbDUzeHloWUV0VGVWcmFJNWZpUjAzQWlhaGo1blJQbVpocWdQeWk2RXlIX2F1dUJySHg3dl9OemV2STV5NE5ZRTZYZWdUQURmSG45R1FjLW9WUmZPX1lFNGtlT0pOSER6aDhkb3lsNmgzel9ERHhVVkdNM2RSWE16LXM1eWVWbFg0YWp3YVBwdEpPdnZ0UlBvelRGUWxqd0lOM28yaElHYk9jVXdjS3RuVVdGN1BBcTZyT0pXVHViNVQwajdETWZjUnB0QWhhQzJxaVFVMTlDTnhOZ29BTl8xQnV4ZEhtakdZUnZMbFpLbzNUcE3SAYICQVVfeXFMTXkxTGI3X2pPQ3JGeW5zb0JuaXJMZUpHbXMyUXlFUkZiWGVLeHVLWnZ3Q2I4ZHpCSm9WS2xXU1RwZjk2eW9qc0hnc1RoNW80ZHRKd1J4dGRDUlhxZHRWYUJCdnZMdWM1WWlXbWRYb2FJMklfcDV5YkNWMEIzVEU2dWJEd01LYU5VV29CZTBVdDhablJqdXJPLTFEWnZ6QUx0UEwtR0pEdmt5UUhhZlE5Vnp4aEdMelR2bmxnc2dxSjRwdmFnald2U25JM0pSV2Vnc1NMdXlTY0w2X2ZjbkpiUEthUWlHZU5tVWx3U1o4VXFhQThEa3lrekFEa242QXpOZF9B?oc=5",
@@ -361,29 +371,9 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "CatSul adota bilhetagem digital na travessia entre Porto Alegre e Guaíba e integra vendas, pagamentos e controle de lotação Diário do Transporte"
-    },
-    {
-      "id": "94c1b6a6bd28",
-      "titulo": "Guaíba celebra centenário com show gratuito de Dilsinho",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV080VzFzN3ZkcUlOcHc4S1FFdnZid1Z0U2tBdjJ5MHRmSVh5XzBubHNTaE43amczYmZwQ1hvekItNEtTWUtCM3ZoZGJYUVVYS2J5TWd6V25fd2RKRWRJUXdfMWN4VTdNV255dmNNWWN0WmtlaFFmQzNWTndQZF9uSzl0RTBsVDjSAYwBQVVfeXFMTm9CVzRGX1NYMzVDQ0tlUHFnN1pSZHk2YWhCZm5IUEMzbERsbVlrbDZRWG9rMGswN2NpOXZiamZTeGU2WmtaSWE2dVRsLWZRQTVlRTJkX3o4OThmQXk2MTlXVk5KaUVRRzJRanJBQlk5VGxCbkJxVmZzUEViNjM4UnIzbFNTUEI1MlZVSlA?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-10-13T01:50:08+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba celebra centenário com show gratuito de Dilsinho Jornal O Sul"
     }
   ],
   "noticias_home": [
-    {
-      "id": "8a25da5c0e79",
-      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-18T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
-    },
     {
       "id": "b1a499dec307",
       "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
@@ -395,6 +385,16 @@
       "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
     },
     {
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-18T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+    },
+    {
       "id": "689591584b62",
       "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
       "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
@@ -402,16 +402,6 @@
       "publicado_em": "2026-10-18T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto"
-    },
-    {
-      "id": "c78cc11739f6",
-      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
-      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
     },
     {
       "id": "29a7acad7962",
@@ -422,6 +412,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
+    },
+    {
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     },
     {
       "id": "760ca1b91f96",
