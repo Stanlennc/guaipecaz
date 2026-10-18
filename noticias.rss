@@ -5,13 +5,6 @@
 <description>Notícias de Guaíba e da Região Metropolitana de Porto Alegre</description>
 <language>pt-BR</language>
 <item>
-<title>Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD</title>
-<link>https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd</link>
-<guid>91baa5def99d</guid>
-<pubDate>2026-10-18T00:00:00+00:00</pubDate>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba</title>
 <link>https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba</link>
 <guid>8a25da5c0e79</guid>
@@ -33,27 +26,16 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
+<title>Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD</title>
+<link>https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd</link>
+<guid>91baa5def99d</guid>
+<pubDate>2026-10-18T00:00:00+00:00</pubDate>
+<source>Repórter Guaibense</source>
+</item>
+<item>
 <title>Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos</title>
 <link>https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos</link>
 <guid>ab932eb63f3d</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9</title>
-<link>https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9</link>
-<guid>48102af655b2</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Empreendimento de Guaíba aposta na produção artesanal de microverdes</title>
-<link>https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes</link>
-<guid>c78cc11739f6</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026</title>
-<link>https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026</link>
-<guid>352a6ab063cb</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -63,10 +45,35 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
+<title>Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026</title>
+<link>https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026</link>
+<guid>352a6ab063cb</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
 <title>Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba</title>
 <link>https://www.reporterguaibense.com.br/noticia/inauguracao-do-novo-centro-de-distribuicao-do-mercado-livre-marca-as-comemoracoes-de-100-anos-de-guaiba</link>
 <guid>e808e9cd1c8f</guid>
 <source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba</title>
+<link>https://www.reporterguaibense.com.br/noticia/veja-os-10-candidatos-a-deputado-federal-e-os-10-a-deputado-estadual-mais-votados-em-guaiba</link>
+<guid>760ca1b91f96</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9</title>
+<link>https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9</link>
+<guid>48102af655b2</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Destacada pela ONU como modelo de urbanismo, a orla que reaproximou a capital gaúcha do Guaíba leva até um estádio da Copa do Mundo feminina de 2027</title>
+<link>https://news.google.com/rss/articles/CBMiqgJBVV95cUxPOTVyblpjS3VueWhIUXc2NWdZY3NDMVlrd2pjckxkdUF0d19rbDV3Y0lwZU4zSTd0NlNuR21tNVFnWUtzV2VzY1dLTmhtSE1mNTR6WkVBWERkSjJDMG1mUjZYWHN2NV9qSm5xU1ZNQkxvUHZ0ZE5Qd21adHBpcnRFV0xhVFdwWEZRam94YW8zZ0RRcXBqWEJrTEZEY3JqeU1qMWRNTXp0SU5ETU4yYjJKdzVuUUJla0VFcVZCazZSdUhFVVJqbm9Wd3FCQ3RxZnVHSkI5TTgtQV9FSXhUdmc1Y3FnMEs5azFncjNON3haRjBValFMYk90cnY0b2Q5NnQ5d2tFRmYxWG1OR0lxUDhFRDFVTE9OVjFnV2ZGcFBYalNkRGxUUmFkVmNR?oc=5</link>
+<guid>889ce39d3a4a</guid>
+<pubDate>2026-10-18T19:47:00+00:00</pubDate>
+<source>Canal Rural</source>
 </item>
 <item>
 <title>Cheia do Rio Uruguai leva Uruguaiana a decretar emergência; Guaíba passa de 2 metros</title>
@@ -130,12 +137,5 @@
 <guid>4c694a9f0e5b</guid>
 <pubDate>2026-10-15T11:19:44+00:00</pubDate>
 <source>Acústica FM</source>
-</item>
-<item>
-<title>Mercado Livre inaugura centro de distribuição em Guaíba com previsão de 700 empregos diretos</title>
-<link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTEFBMkhhcmRtbVNwckdqUEJvSjBzUzQ4enNoeV9BaWEtZG0tU3ZsekZDWHRnUk5tSWNaa0ctX2VfaEZvc2ViQUNXUVByN3hkclBUTkRtWVpDUFVVbVlwUUEzM2ZBZ2xSeEo3czhZeU5pNWtNY0hpY0xmajBTR0dLVW5XQVE0RWhldnA5NnVWTllnRk9xTVF4WmQxamZpWURheUtJMWZVZjIzSmRSSFVVdU1mc2s4M2kteUZjU1M5LWF5LWhwM2xDcEtQeGktRlZ3aGRHSFlmZnd4Zkk?oc=5</link>
-<guid>4561765be66c</guid>
-<pubDate>2026-10-15T10:32:29+00:00</pubDate>
-<source>Jornal Tradição Regional</source>
 </item>
 </channel></rss>
