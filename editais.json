@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-18T03:03:50.366399+00:00",
+  "gerado_em": "2026-10-18T10:24:46.505058+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -85,6 +85,15 @@
       "feed": "vagas"
     },
     {
+      "id": "2af13ba036a9",
+      "titulo": "Oratória e Emoção: Guaíba celebra os talentos do 4º Concurso Escolar na Câmara de Vereadores",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaDRDejcteUppeGdvODF5c1VsczZOR0hITkxMaFJnMS1ESmhyTHdPZWdPTnBnMTgyUkYwWjFLaHJjTlBXbENpVFVuQURpVFVpX0R0RjAtOHZJODRIRk05bV96ODhZbXJOU3Z5cGxXRktGLWt0dVpJeGV3eVdoeGFLLUV4N0d1YmNZd3l1Q004cU9GT1U2amgzSkNqX3ZTZU8xRlZqR1ZWYkM0WDEzTlAwNlFmSQ?oc=5",
+      "fonte": "Portal ClicR",
+      "tipo": "concurso",
+      "publicado_em": "2026-06-27T07:00:00+00:00",
+      "feed": "concurso"
+    },
+    {
       "id": "efd910ae5dd5",
       "titulo": "Círculo Saúde abre 120 vagas para dar início às operações da unidade hospitalar de Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSklrb1o3WF93cG9GRlNsOVRyVWZzbnRPQllvSFh5UW8tNjRZX2pUdWJ0a0dCenJNa1hsdzJ1VlRJMDBSM0hBS2czSHZWRTFLXzR3YV9NS0J3UXFWVWpvT0RZTHFPVUFGR0h4c1UxaEU0MlhMQjJ3ak8xX093Sm0xSkV3VldJMEhfZlp0QVRxR3N5Q3I2U0tuU0RJMThGa3ZyRXdFRUtlU3VraVBzT2tJWUpjOTVsNjVkZnFQN3pHNkg5NnR0elkzTjdmR0RfRGZkaHNyMmVOb2NqSTJ0RjVPZzZFVE0zZzFJaUx1cVZB?oc=5",
@@ -100,15 +109,6 @@
       "fonte": "Jornal do Comércio",
       "tipo": "vaga",
       "publicado_em": "2026-06-23T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "9215686b765c",
-      "titulo": "Círculo Saúde abre 120 vagas de emprego para a instalação do novo hospital de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQWktdE5rcGhleE9kSHRYa1RqbzFQc3JHLWhYcnBXdFlBdFFQWDhtY2VoM1FNWExuTDVCUzRvYVpYSFpyTTNqb3BPVjNXQ0Qyb3Z6R0hkcVdLUEE1UWIxajhCQmM2RGlQM2ZjeENzUERQWFJIZHFPeVE2STBnWXBWdWhJRnBLSTlkOHZKVU00d3BMYTlEeUNOUnZfbElVY0xXdkpvU2IyVi1YMExMN0RiTk4zNF9SQmMxYjBJaDlHNWszY3VnWXB2cg?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-06-22T07:00:00+00:00",
       "feed": "vagas"
     }
   ]
