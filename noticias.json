@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-20T18:21:07.859438+00:00",
+  "gerado_em": "2026-10-20T22:55:47.895869+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,14 +84,14 @@
       "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
     },
     {
-      "id": "91baa5def99d",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
+      "id": "8a25da5c0e79",
+      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-20T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
     },
     {
       "id": "06a010c4f145",
@@ -104,23 +104,14 @@
       "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
     },
     {
-      "id": "8a25da5c0e79",
-      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
+      "id": "29a7acad7962",
+      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-20T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
-    },
-    {
-      "id": "689591584b62",
-      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-20T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
+      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
     },
     {
       "id": "352a6ab063cb",
@@ -133,24 +124,14 @@
       "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     },
     {
-      "id": "48102af655b2",
-      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
-      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
+      "id": "e808e9cd1c8f",
+      "titulo": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/inauguracao-do-novo-centro-de-distribuicao-do-mercado-livre-marca-as-comemoracoes-de-100-anos-de-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
-    },
-    {
-      "id": "32e02527b8e8",
-      "titulo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/hotel-ibis-deve-encerrar-atividades-em-guaiba-ate-dezembro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
+      "resumo": "O empreendimento está instalado no complexo logístico Ellosul, às margens da BR-116"
     },
     {
       "id": "c78cc11739f6",
@@ -163,16 +144,6 @@
       "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
     },
     {
-      "id": "e808e9cd1c8f",
-      "titulo": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/inauguracao-do-novo-centro-de-distribuicao-do-mercado-livre-marca-as-comemoracoes-de-100-anos-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O empreendimento está instalado no complexo logístico Ellosul, às margens da BR-116"
-    },
-    {
       "id": "760ca1b91f96",
       "titulo": "Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/veja-os-10-candidatos-a-deputado-federal-e-os-10-a-deputado-estadual-mais-votados-em-guaiba",
@@ -183,14 +154,34 @@
       "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
     },
     {
-      "id": "14109aa5b9ef",
-      "titulo": "Com o tema “Fraternidade e Moradia”, Guaíba sediará a 32ª Romaria das Capelinhas de Nossa Senhora em outubro",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa0QwZHdlZU1SLVdfUkZXSXg0b3BiRUhUM3FRck0xcHpmTzNRQ2VZTVlCT05KbEtlQ1UzdDJLMzRheWc2YXVwVXR2OGhtVXlJbGRoS19YVmxwdUhJQUxEV0dfQ1NvRDhDYlljZ2xJNzU5eU5raGlSY2hfZWJUSG1GQk1SU2RJRkx6emJQdWJjSzFfbnNVWkhuQTBvS19fZGxiYng5OThOWnBuZzRsaTNvck9XX3M1ZVlyS1plZ2M2dkhkbFRvY2c?oc=5",
-      "fonte": "Portal ClicR",
-      "publicado_em": "2026-10-20T17:13:19+00:00",
+      "id": "ab932eb63f3d",
+      "titulo": "Rotary Guaíba recebe visita do governador Francisco Valle e homenagem na Câmara pelos 70 anos",
+      "url": "https://www.reporterguaibense.com.br/noticia/rotary-guaiba-recebe-visita-do-governador-francisco-valle-e-homenagem-na-camara-pelos-70-anos",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
+    },
+    {
+      "id": "bc1a60362780",
+      "titulo": "Um parque com praias de água doce, morros de pedra e um farol de 1860 marca o ponto onde o Guaíba encontra a Laguna dos Patos",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZHc0OU4zTkdHdnZfZ0ZTeURzWmZSODZnTU9ESlVVOWNRX0dXbEVTRG5STzNMWXBmZy1Rdlo4WFZhVU90YUVpMTVfTVRCR21EbzVFRDJZNTQ2LWx5TkFDbWcwQW1MM2dtX1lMTzNWMXBRcklxVHNUakhlVEkzSDdJVUpNQU9KSGo0MnZFendSci1wU25tNjREbERIc3lQODZJS3ZtNlRPOTBzSTJ4WFZHdHlsanN1T0xKMEpLWmhxbWRYTGFndmZUOGJiZzVLQlNLOGpCeU9DZW5UWk5EVl85dlJqbGJJUXViWWZUMm9CdXg0TUpYa21Fam4yVFJEaktO?oc=5",
+      "fonte": "Correio Braziliense",
+      "publicado_em": "2026-10-20T20:55:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Um parque com praias de água doce, morros de pedra e um farol de 1860 marca o ponto onde o Guaíba encontra a Laguna dos Patos Correio Braziliense"
+    },
+    {
+      "id": "e523c983307d",
+      "titulo": "Festival Primavera Cultural promove atividades gratuitas de cordel e circo em Guaíba (RS)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVDdOaTFUa0pjeUl6cDRoWjduV2VwemJZajdyYWdBcDZPZExmaWx2RHlHSnZoTkd2clFDM3ZYX1RLNE1VcXBsWU1vUS1lMkphNFlSTy1sR1NvSkhZbk9GQjhESlg2NkhLRHZ6Nlc3LU1YcHVIN2dOMndpQWpTLXljcEU3bzNsdHNndmt0d3J5YmYwN0hLaTJIdHZiWWxCRjlHcVp0ZkY3bnBRMnM5bDVSSzVzM0RmSjNYT0JGT3k0bEZFOVRGWThSLXNtZw?oc=5",
+      "fonte": "Brasil de Fato",
+      "publicado_em": "2026-10-20T20:50:00+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Com o tema “Fraternidade e Moradia”, Guaíba sediará a 32ª Romaria das Capelinhas de Nossa Senhora em outubro Portal ClicR"
+      "resumo": "Festival Primavera Cultural promove atividades gratuitas de cordel e circo em Guaíba (RS) Brasil de Fato"
     },
     {
       "id": "bcf7a2b0fd22",
@@ -263,6 +254,16 @@
       "resumo": "Homem é preso na BR-116 após roubar carro em Guaíba Agora RS"
     },
     {
+      "id": "8f6cf2b83428",
+      "titulo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdlJabXhUY3pQdmF6bFFrZnQ1S09TSEgwUC1NNlBZVm1PYUJnX3pNcXlwWFJSQXlKZEtaQ0g0WF9VVUlaZFBxY1hIUFYxa1RfNkJaaFBVeTJpb1hYdDJxYTVoMk4yR3RKZFJraVdhTXNpVEJQcXg1cDhheVVES3pKZGtLNXlFWkxFN2NGTFJsUGZRNnY0ckZNdFgtdm9EV0xFaDZnU3dn?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-19T13:17:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro Repórter Guaibense"
+    },
+    {
       "id": "f87f406e7f03",
       "titulo": "Polícia recupera veículo furtado em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QbjVuS2tHUWMwVndxWjA0Rks2U2tJZkdfVk5WeEw1elppb3J1TFFuLTRLU3dBUnJDNF8xOWtnWUNxMnVGalM4R3dYTHNlcVEtX1ZmcHJUYm1uTENzNDVVMVhDT21KS3R2SGNIMXp5azViVlRPbjFmRw?oc=5",
@@ -271,16 +272,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Polícia recupera veículo furtado em Guaíba Rádio Acústica FM"
-    },
-    {
-      "id": "017fbe81596f",
-      "titulo": "Veículo furtado é recuperado pela PRF em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWlScHJUSW5GWWRWLWd0TjZWUlJYbG44eWtZd0RaVTl4MF9DTTdlRnFfVm0xM3RUZmVoQWExM0hDNlB5N25QWURsZ2dxamc3R1MzNEVqT2VtaEh5Rzg5d3JkU2J4b2FpcGpSemFrNnE1YnlUREpLMHlVaWZ2aTh6Q3VaYmQ1OHUzTjNYX2J4ZFBzbFhBU2R3M05XWdIBoAFBVV95cUxOcmZUTUZUZFhuM0xwVjRyZHlCLXRrWV8zS3ItNzdTcUNYY3c4N2dJNjc5RnpGX050QmNySFRmS2tPbmNmdWZ3TVdYTXVZajNnWEotb1pHUGpuS3NBMTRJU2JVR3ZYak5zVmUwNklldHYwM3JoQVlnOWM5WkZGV1BfMU9BZVFWTEVubUhzZk9JMl9xWThHZDRKV3QzZUJGYkJ2?oc=5",
-      "fonte": "Blog do Juares",
-      "publicado_em": "2026-10-18T21:04:12+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Veículo furtado é recuperado pela PRF em Guaíba Blog do Juares"
     },
     {
       "id": "889ce39d3a4a",
@@ -371,6 +362,16 @@
       "categoria": null,
       "feed": "reporter",
       "resumo": "Livro \"Sem pé nem cabeça\", do escritor Luís Augusto Lopes, será lançado neste domingo em Guaíba Repórter Guaibense"
+    },
+    {
+      "id": "2f34c1158727",
+      "titulo": "Mercado Livre inaugura centro de distribuição em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzhXdWFxUmdiM2RLQzNkYlJycVo2WjZPU19kVEd0YzVJaE5NTDNRdHVTUDJDY1drQk1NcnlWR1NmRTg3ZWNMR1RCUWlKLU9DS2FOUDlNckNQNVFSeWg0SmtPN0stdWVMNWdLcVc2MlpLVG81bVZHZ2lhYmp6SnN1RUR6cHgwRGpnTnItX3hn?oc=5",
+      "fonte": "Grupo AMANHÃ",
+      "publicado_em": "2026-10-15T11:46:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Mercado Livre inaugura centro de distribuição em Guaíba Grupo AMANHÃ"
     }
   ],
   "noticias_home": [
@@ -385,14 +386,14 @@
       "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
     },
     {
-      "id": "91baa5def99d",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
+      "id": "8a25da5c0e79",
+      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-20T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
     },
     {
       "id": "06a010c4f145",
@@ -405,23 +406,14 @@
       "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
     },
     {
-      "id": "8a25da5c0e79",
-      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
+      "id": "29a7acad7962",
+      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-20T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
-    },
-    {
-      "id": "689591584b62",
-      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-20T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
+      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
     },
     {
       "id": "352a6ab063cb",
@@ -434,24 +426,34 @@
       "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     },
     {
-      "id": "48102af655b2",
-      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
-      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
+      "id": "e808e9cd1c8f",
+      "titulo": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/inauguracao-do-novo-centro-de-distribuicao-do-mercado-livre-marca-as-comemoracoes-de-100-anos-de-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
+      "resumo": "O empreendimento está instalado no complexo logístico Ellosul, às margens da BR-116"
     },
     {
-      "id": "32e02527b8e8",
-      "titulo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/hotel-ibis-deve-encerrar-atividades-em-guaiba-ate-dezembro",
+      "id": "c78cc11739f6",
+      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
+      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
+      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
+    },
+    {
+      "id": "760ca1b91f96",
+      "titulo": "Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/veja-os-10-candidatos-a-deputado-federal-e-os-10-a-deputado-estadual-mais-votados-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
     }
   ]
 }
