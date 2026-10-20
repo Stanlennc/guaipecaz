@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-19T22:00:27.206637+00:00",
+  "gerado_em": "2026-10-20T01:01:29.982463+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,16 +84,6 @@
       "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
     },
     {
-      "id": "06a010c4f145",
-      "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tera-mudancas-nos-locais-de-votacao-no-segundo-turno-das-eleicoes-2026",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-19T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
-    },
-    {
       "id": "91baa5def99d",
       "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
       "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
@@ -102,6 +92,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+    },
+    {
+      "id": "06a010c4f145",
+      "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tera-mudancas-nos-locais-de-votacao-no-segundo-turno-das-eleicoes-2026",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-19T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
     },
     {
       "id": "b1a499dec307",
@@ -114,13 +114,14 @@
       "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
     },
     {
-      "id": "689591584b62",
-      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
+      "id": "48102af655b2",
+      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
+      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-19T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
-      "feed": "reporter_direto"
+      "feed": "reporter_direto",
+      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
     },
     {
       "id": "760ca1b91f96",
@@ -133,14 +134,14 @@
       "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
     },
     {
-      "id": "32e02527b8e8",
-      "titulo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/hotel-ibis-deve-encerrar-atividades-em-guaiba-ate-dezembro",
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     },
     {
       "id": "ab932eb63f3d",
@@ -153,16 +154,6 @@
       "resumo": "A proposição foi do vereador Alisson de Jesus (PRD)"
     },
     {
-      "id": "e808e9cd1c8f",
-      "titulo": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/inauguracao-do-novo-centro-de-distribuicao-do-mercado-livre-marca-as-comemoracoes-de-100-anos-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O empreendimento está instalado no complexo logístico Ellosul, às margens da BR-116"
-    },
-    {
       "id": "c78cc11739f6",
       "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
       "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
@@ -173,24 +164,34 @@
       "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
     },
     {
-      "id": "48102af655b2",
-      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
-      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
+      "id": "29a7acad7962",
+      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
+      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
     },
     {
-      "id": "352a6ab063cb",
-      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
+      "id": "32e02527b8e8",
+      "titulo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro",
+      "url": "https://www.reporterguaibense.com.br/noticia/hotel-ibis-deve-encerrar-atividades-em-guaiba-ate-dezembro",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
+      "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
+    },
+    {
+      "id": "bf48f649ddc5",
+      "titulo": "A 57 km de Porto Alegre, uma cidade guarda praias de água doce entre o Guaíba e a Laguna dos Patos em um parque que limita a 700 o número de visitantes",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPd1Ata1I5UklucEk5QWNkVHlzVkdMbE5oUzB0VlJDN3NlZzRlR0dtUEVzaFNzMEdWSkNMeUlESzZYRWZSVlZjdEdjUVRXd2FQZEFxc2lyYkR4amdQZFRYSHd0aUJXRmtzNnFJNTh1cGtDUjZLZEI0SGx6TTFRdkhxV0ttYkRpMmYtNkRONUFseG1XQ2tldVI2c2d0UG41ZEVxc1pEV0xpZER4MTVuVDhRMEs1bzNidVdnTjVEWXp4aFJJWE1DVm50NHZlU0xUNklMWUpLeHZoX2I3OUZyY3c4Z1VSYUdVTjhnRjdOc2x0T0VFdFRNMWR3LTJ2VnhURFFudVdvSnhOMWhxLU8xb1RIbEVqMUs?oc=5",
+      "fonte": "Super Rádio Tupi",
+      "publicado_em": "2026-10-19T22:33:23+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "A 57 km de Porto Alegre, uma cidade guarda praias de água doce entre o Guaíba e a Laguna dos Patos em um parque que limita a 700 o número de visitantes Super Rádio Tupi"
     },
     {
       "id": "85e1c0d8e0ea",
@@ -385,16 +386,6 @@
       "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
     },
     {
-      "id": "06a010c4f145",
-      "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tera-mudancas-nos-locais-de-votacao-no-segundo-turno-das-eleicoes-2026",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-19T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
-    },
-    {
       "id": "91baa5def99d",
       "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
       "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
@@ -403,6 +394,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+    },
+    {
+      "id": "06a010c4f145",
+      "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tera-mudancas-nos-locais-de-votacao-no-segundo-turno-das-eleicoes-2026",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-19T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
     },
     {
       "id": "b1a499dec307",
@@ -415,13 +416,14 @@
       "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
     },
     {
-      "id": "689591584b62",
-      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
+      "id": "48102af655b2",
+      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
+      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-19T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
-      "feed": "reporter_direto"
+      "feed": "reporter_direto",
+      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
     },
     {
       "id": "760ca1b91f96",
@@ -434,14 +436,14 @@
       "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
     },
     {
-      "id": "32e02527b8e8",
-      "titulo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/hotel-ibis-deve-encerrar-atividades-em-guaiba-ate-dezembro",
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     },
     {
       "id": "ab932eb63f3d",
