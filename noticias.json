@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-21T09:07:30.187411+00:00",
+  "gerado_em": "2026-10-21T14:51:22.056340+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,15 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "689591584b62",
-      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-21T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
       "id": "06a010c4f145",
       "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tera-mudancas-nos-locais-de-votacao-no-segundo-turno-das-eleicoes-2026",
@@ -103,6 +94,16 @@
       "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
     },
     {
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-21T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+    },
+    {
       "id": "8a25da5c0e79",
       "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
@@ -113,14 +114,24 @@
       "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
     },
     {
-      "id": "48102af655b2",
-      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
-      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
+      "id": "32e02527b8e8",
+      "titulo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro",
+      "url": "https://www.reporterguaibense.com.br/noticia/hotel-ibis-deve-encerrar-atividades-em-guaiba-ate-dezembro",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
+      "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
+    },
+    {
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     },
     {
       "id": "c78cc11739f6",
@@ -143,34 +154,24 @@
       "resumo": "O empreendimento está instalado no complexo logístico Ellosul, às margens da BR-116"
     },
     {
-      "id": "352a6ab063cb",
-      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "c433934b5a9a",
+      "titulo": "32ª Romaria das Capelinhas de Nossa Senhora deve reunir milhares de fiéis em Guaíba neste fim de semana",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdHR4WUh4MllYMzhUNS1mVEZhTXBpRkFrbVFVQWNQek0wVklJTUpfWUFmakxsYU1UQTBsVUt3MW1DQWV5ZjBkUDYzdVhidlE5NmdVcjAtdkpMNk5LYWQwdTYwVkRueGJENG1rWFh5RGZIbXpOcUNkNGJGRDAteFFZRHdTZExpOENqZnhLbVp4RlVoUEZub0hRTEt5VUdjaVVzVzdPaWk1SE5fVEh4UnBrRHlBTXMtSGh1VnNhem5VZHpTNzIySHQ5YnpERThJWGgtUUJOSGpJSG12Z3NP?oc=5",
+      "fonte": "Clic Camaquã",
+      "publicado_em": "2026-10-21T13:05:52+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
+      "feed": "vizinhos",
+      "resumo": "32ª Romaria das Capelinhas de Nossa Senhora deve reunir milhares de fiéis em Guaíba neste fim de semana Clic Camaquã"
     },
     {
-      "id": "760ca1b91f96",
-      "titulo": "Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-os-10-candidatos-a-deputado-federal-e-os-10-a-deputado-estadual-mais-votados-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "98d6ee5a5799",
+      "titulo": "Caminhada do Amor reunirá milhares de apaixonados na Orla do Guaíba neste sábado",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWC1lcjZ1NHROV0dsZEY4Y3VLdUgzS25yY3ZlR0hUMXJvNkwwSlR3Z2FwQjQtazh1NkxadHBlN1BrVUJ2anZGUmhVUDdxN1pEY0hwZ0R2cnR1MzhaRWlOeXUyb2dKLXNFYzFBMjN2M0F6NlR5MWJLZU5YVHM1eURUZGp4WktZU2gzRXZWX1lvVjhBc2FUcmtEVmtEU094eC1ncVNLQWZqUDlXR21jVUNtWVJXTXdNUm5oRG5CcW4yOG1sMmwtVUxVVGhTSHZmNWo5WXRSMmhMWWhvOHZSN2c?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-10-21T10:04:15+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
-    },
-    {
-      "id": "32e02527b8e8",
-      "titulo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/hotel-ibis-deve-encerrar-atividades-em-guaiba-ate-dezembro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
+      "feed": "recentes",
+      "resumo": "Caminhada do Amor reunirá milhares de apaixonados na Orla do Guaíba neste sábado Correio do Povo"
     },
     {
       "id": "1763aad69198",
@@ -259,18 +260,8 @@
       "fonte": "Ministério Público - RS",
       "publicado_em": "2026-10-19T15:08:00+00:00",
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba: MPRS sedia seminário sobre prevenção a desastres e fortalecimento de comunidades resilientes Ministério Público - RS"
-    },
-    {
-      "id": "ceb506fef9e8",
-      "titulo": "Guaíba adota plano de contenção para combater déficit de R$ 40 milhões",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNElaejJybzBRbm9XdkpqRExYUDNUeEpfSDJjOUtOT0VUbVM5ZndzSlZaU0JsYy1DR2pkTUhPdGw0NFVzZEFGekNidWRvOXZKemV2dGhYd21pX1J2UjBVRVYxU2NfQzhwMk41b1JMc3gyY0JHS1VMdDZ4YmRUZXFPSmVYWk9WZTZENDFIUTA5ZFo0dDNMWmh6TjBjdng?oc=5",
-      "fonte": "Rádio Acústica FM",
-      "publicado_em": "2026-10-19T13:48:53+00:00",
-      "categoria": null,
       "feed": "recentes",
-      "resumo": "Guaíba adota plano de contenção para combater déficit de R$ 40 milhões Rádio Acústica FM"
+      "resumo": "Guaíba: MPRS sedia seminário sobre prevenção a desastres e fortalecimento de comunidades resilientes Ministério Público - RS"
     },
     {
       "id": "5ed6a5812d43",
@@ -283,6 +274,16 @@
       "resumo": "Homem é preso na BR-116 após roubar carro em Guaíba Agora RS"
     },
     {
+      "id": "ebc7ddf70b78",
+      "titulo": "Procon de Guaíba terá atendimento presencial da Corsan nesta segunda-feira",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3VvNUctLVpLSkJQT0tvUUtEZURyekVNZHEtRHRaZDZsZG44WDkwZ08tenU1ZGN4NDdnMWNGU0lEblpVR2F1OUdDelE1WW94ZklmZzdmcERrMTdmR005cDBmVjBqSXl1TVQ4MHloYzZ3XzUtTW1PRl9nSmhsU253SC1GeWNyVkl0b0dta1hHSHBfLTZtSFFrUmlIODlYSzctY0Ew?oc=5",
+      "fonte": "CORSAN",
+      "publicado_em": "2026-10-19T11:38:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Procon de Guaíba terá atendimento presencial da Corsan nesta segunda-feira CORSAN"
+    },
+    {
       "id": "f87f406e7f03",
       "titulo": "Polícia recupera veículo furtado em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QbjVuS2tHUWMwVndxWjA0Rks2U2tJZkdfVk5WeEw1elppb3J1TFFuLTRLU3dBUnJDNF8xOWtnWUNxMnVGalM4R3dYTHNlcVEtX1ZmcHJUYm1uTENzNDVVMVhDT21KS3R2SGNIMXp5azViVlRPbjFmRw?oc=5",
@@ -293,54 +294,14 @@
       "resumo": "Polícia recupera veículo furtado em Guaíba Rádio Acústica FM"
     },
     {
-      "id": "889ce39d3a4a",
-      "titulo": "Destacada pela ONU como modelo de urbanismo, a orla que reaproximou a capital gaúcha do Guaíba leva até um estádio da Copa do Mundo feminina de 2027",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPOTVyblpjS3VueWhIUXc2NWdZY3NDMVlrd2pjckxkdUF0d19rbDV3Y0lwZU4zSTd0NlNuR21tNVFnWUtzV2VzY1dLTmhtSE1mNTR6WkVBWERkSjJDMG1mUjZYWHN2NV9qSm5xU1ZNQkxvUHZ0ZE5Qd21adHBpcnRFV0xhVFdwWEZRam94YW8zZ0RRcXBqWEJrTEZEY3JqeU1qMWRNTXp0SU5ETU4yYjJKdzVuUUJla0VFcVZCazZSdUhFVVJqbm9Wd3FCQ3RxZnVHSkI5TTgtQV9FSXhUdmc1Y3FnMEs5azFncjNON3haRjBValFMYk90cnY0b2Q5NnQ5d2tFRmYxWG1OR0lxUDhFRDFVTE9OVjFnV2ZGcFBYalNkRGxUUmFkVmNR?oc=5",
-      "fonte": "Canal Rural",
-      "publicado_em": "2026-10-18T19:47:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Destacada pela ONU como modelo de urbanismo, a orla que reaproximou a capital gaúcha do Guaíba leva até um estádio da Copa do Mundo feminina de 2027 Canal Rural"
-    },
-    {
-      "id": "fd271cf50d63",
-      "titulo": "Cheia do Rio Uruguai leva Uruguaiana a decretar emergência; Guaíba passa de 2 metros",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOFh3Q29qbnhib3phdElFSTFsaGthb3hMcTlJTU1kTHpaREp3VUFNcVlkYl91M1BSUTdCU0daQzdueTRnTkpwelp3Q0p2dEIya0FpNDNjZFRnMlZpb1J6WkllR1B1emZ2Y2Vqb1BYQ01HcEFaeWdaalVKcmZyOXZtOTJRdy1meHgwOEYzTDdNRWlQZG9fcDFZOGVmTFpBS0t2c0R4MDh1QXpZX1VpcVRLODdiN2dEdnVXSjZNNjc2ZzNfWFBfeUI2Y21aOFBHUdIBzgFBVV95cUxOOFh3Q29qbnhib3phdElFSTFsaGthb3hMcTlJTU1kTHpaREp3VUFNcVlkYl91M1BSUTdCU0daQzdueTRnTkpwelp3Q0p2dEIya0FpNDNjZFRnMlZpb1J6WkllR1B1emZ2Y2Vqb1BYQ01HcEFaeWdaalVKcmZyOXZtOTJRdy1meHgwOEYzTDdNRWlQZG9fcDFZOGVmTFpBS0t2c0R4MDh1QXpZX1VpcVRLODdiN2dEdnVXSjZNNjc2ZzNfWFBfeUI2Y21aOFBHUQ?oc=5",
-      "fonte": "O Republicano",
-      "publicado_em": "2026-10-18T12:30:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Cheia do Rio Uruguai leva Uruguaiana a decretar emergência; Guaíba passa de 2 metros O Republicano"
-    },
-    {
-      "id": "77092d0549ab",
-      "titulo": "Hospital Mãe de Deus promove ação de conscientização sobre câncer de mama na Orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ2w5Y2J2ZExmbnExZVNtdWNPdENTWEEzalFVOXhWN2ozZGxhQjU0Y0p0dFZ2d1pjWVFhQV81NHhJalAwWkFpVEJYdjQ0Tl9PSHdrcFFoVnhRTWszRXhjSUwwcVRMekoxTmFDNkVkV2ZFVjVyOWVxeEp3VXE1c29sd25EcU1KclRzS0ozcnNvTXNBT1Y1Tmg1bTdCMUJsRDJjeTRYNmw3dFRUbjdfaG9KbjVYbTF0bUR3UDRqbDFJblpjSnNVZnNoZEx5ZTJyS3ZqbHByTW9KeXp0clp5MTVTRWlVOHJIRXB6QVBiSw?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-10-17T16:39:33+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Hospital Mãe de Deus promove ação de conscientização sobre câncer de mama na Orla do Guaíba Correio do Povo"
-    },
-    {
-      "id": "0a900c107f06",
-      "titulo": "ERNANI CHACRINHA, Vereador 2024 em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUDZUSUhPS2h2S3l1R3FFNFdHQVRKbFZxT2huc2RKUWY0bWc4UXlHcmNnYVJBSlBLMjgzdEM5dkpJQVd3TTZ2MExNcnNTRUZ3ZnZjLTIzX1lUYTNHdlloSG5ZckVYM3pOYU5TTGFfQ3RHaFM2NGxSNDlEc0gzUFB0bWFLZnhLUFZOalhZVFROcw?oc=5",
-      "fonte": "CBN Amazônia",
-      "publicado_em": "2026-10-17T07:00:00+00:00",
+      "id": "017fbe81596f",
+      "titulo": "Veículo furtado é recuperado pela PRF em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWlScHJUSW5GWWRWLWd0TjZWUlJYbG44eWtZd0RaVTl4MF9DTTdlRnFfVm0xM3RUZmVoQWExM0hDNlB5N25QWURsZ2dxamc3R1MzNEVqT2VtaEh5Rzg5d3JkU2J4b2FpcGpSemFrNnE1YnlUREpLMHlVaWZ2aTh6Q3VaYmQ1OHUzTjNYX2J4ZFBzbFhBU2R3M05XWdIBoAFBVV95cUxOcmZUTUZUZFhuM0xwVjRyZHlCLXRrWV8zS3ItNzdTcUNYY3c4N2dJNjc5RnpGX050QmNySFRmS2tPbmNmdWZ3TVdYTXVZajNnWEotb1pHUGpuS3NBMTRJU2JVR3ZYak5zVmUwNklldHYwM3JoQVlnOWM5WkZGV1BfMU9BZVFWTEVubUhzZk9JMl9xWThHZDRKV3QzZUJGYkJ2?oc=5",
+      "fonte": "Blog do Juares",
+      "publicado_em": "2026-10-18T21:04:12+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "ERNANI CHACRINHA, Vereador 2024 em Guaíba CBN Amazônia"
-    },
-    {
-      "id": "ae7fd06e8818",
-      "titulo": "Guaíba celebra a inauguração oficial do novo Centro de Distribuição do Mercado Livre",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNLUoxOFVqUkJSSzEtX0NXSWZvRGZxRmNKamR3UTA5Mmt5TkRURWN2elhwYmY3dDQ1c2FjYzFWS3JYTGQxZkhfM1VaVTF6dlc0MkhiSjhXbUpmOVQ2ZHZ1TDJNWDROZS1pYUhaTDBxNFdEV1gxNmN4cVc5bDZLVnNZR1ZkV1djeXUxWGdiNk0yVC1XRnA1S09XVnJVTnY5MmJQdFN3OEYtTE1uUC1VenJ6MXFfMkxiV3lPMEtaNHFhcjNUUVcxVEhnZmFNTDhZZVlGS1BWUzlyMU03M3FHNWhoTkZoSEhHc1NYV2ctODB3Q0VNT0FlcWFjbXZVTXRYMUcyTEVOY3RR?oc=5",
-      "fonte": "Serra e Litoral",
-      "publicado_em": "2026-10-17T04:54:47+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Guaíba celebra a inauguração oficial do novo Centro de Distribuição do Mercado Livre Serra e Litoral"
+      "resumo": "Veículo furtado é recuperado pela PRF em Guaíba Blog do Juares"
     },
     {
       "id": "cea03c424e82",
@@ -359,7 +320,7 @@
       "fonte": "R7",
       "publicado_em": "2026-10-16T17:47:30+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Guaíba avança sobre a Ilha da Pintada e água cobre parte de avenida em Porto Alegre R7"
     },
     {
@@ -369,20 +330,51 @@
       "fonte": "Correio do Povo",
       "publicado_em": "2026-10-16T15:57:32+00:00",
       "categoria": null,
-      "feed": "correio",
+      "feed": "recentes",
       "resumo": "Seminário em Guaíba discute educação comunitária diante de desastres climáticos Correio do Povo"
+    },
+    {
+      "id": "fc31a68c6859",
+      "titulo": "Domingues Da Ponte Do Guaíba Candidato a Deputado Estadual no Rio Grande do Sul nas eleições 2026",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2pkN2dsdjFNRllFUjJxeGZQSDJmU3Y3UVFYVjZQYm9kRU55WjlrS3BWMlBrV25pXzdQS1VzbDhnZTVVWGV3aVlfLTR1Z3c3MXR4MzV2TTJiRU5xZVJrd0FRWDdmZE95NktZb1I5di1EczBWQUp6Q19wWVlTTGo2b0pxTnU2YW1fUXJQSm1feTRkMUplSHV6cE0yMnNMY1BBeWJoMHI0dXBLZw?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-16T07:00:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Domingues Da Ponte Do Guaíba Candidato a Deputado Estadual no Rio Grande do Sul nas eleições 2026 G1"
+    },
+    {
+      "id": "f12e1cb6f008",
+      "titulo": "Livro \"Sem pé nem cabeça\", do escritor Luís Augusto Lopes, será lançado neste domingo em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYm9lZlpORnJmQmRDSjFwSkwxb2c1YmlUNEVMYkQyZGk0RHB2VEE0aUZFbHNjOXkwbk80WXNwNkxUeTJQdFlURWtOdFN1LTRuaFZpWUtPcU11eHRaa3A5Rld6SFBTSDBJaWxoQzYyZzd1ajlZYkZOWEY3NmdPV2pmYlpDUkJvdENaNnpfMDViUDFrRzk4RXZEVGJNZG9KVnQ0a2IteDZBSGZqM2hkZTk4ODdObE5xTG85QWY1X3hoVk56UXZUNVpnbzByel83ZWhfT0E?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-15T18:26:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Livro \"Sem pé nem cabeça\", do escritor Luís Augusto Lopes, será lançado neste domingo em Guaíba Repórter Guaibense"
+    },
+    {
+      "id": "2f34c1158727",
+      "titulo": "Mercado Livre inaugura centro de distribuição em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzhXdWFxUmdiM2RLQzNkYlJycVo2WjZPU19kVEd0YzVJaE5NTDNRdHVTUDJDY1drQk1NcnlWR1NmRTg3ZWNMR1RCUWlKLU9DS2FOUDlNckNQNVFSeWg0SmtPN0stdWVMNWdLcVc2MlpLVG81bVZHZ2lhYmp6SnN1RUR6cHgwRGpnTnItX3hn?oc=5",
+      "fonte": "Grupo AMANHÃ",
+      "publicado_em": "2026-10-15T11:46:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Mercado Livre inaugura centro de distribuição em Guaíba Grupo AMANHÃ"
+    },
+    {
+      "id": "d747087bcfb8",
+      "titulo": "Mercado Livre inaugura em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XX0htc0cxbS1pbWpGemsyYUgxNFFJNk9mMnpzeTlLWWJyRURZZjdhVklJVUoxMnlPMndlc0JhSExoSkFuTGJHU2llR2hXRVBGWG82Wlo5a3kwc1Z4OVlPbWhfUEtXbWdDc0lxbWEyV2lCOVk?oc=5",
+      "fonte": "www.radiocaicara.com.br",
+      "publicado_em": "2026-10-15T02:33:49+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Mercado Livre inaugura em Guaíba www.radiocaicara.com.br"
     }
   ],
   "noticias_home": [
-    {
-      "id": "689591584b62",
-      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-21T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
     {
       "id": "06a010c4f145",
       "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
@@ -404,6 +396,16 @@
       "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
     },
     {
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-21T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+    },
+    {
       "id": "8a25da5c0e79",
       "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
@@ -414,14 +416,24 @@
       "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
     },
     {
-      "id": "48102af655b2",
-      "titulo": "Prefeitura de Guaíba promove enxugamento profundo da máquina pública e reduz secretarias de 16 para 9",
-      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-promove-enxugamento-profundo-da-maquina-publica-e-reduz-secretarias-de-16-para-9",
+      "id": "32e02527b8e8",
+      "titulo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro",
+      "url": "https://www.reporterguaibense.com.br/noticia/hotel-ibis-deve-encerrar-atividades-em-guaiba-ate-dezembro",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
+      "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
+    },
+    {
+      "id": "352a6ab063cb",
+      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     },
     {
       "id": "c78cc11739f6",
@@ -442,16 +454,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O empreendimento está instalado no complexo logístico Ellosul, às margens da BR-116"
-    },
-    {
-      "id": "352a6ab063cb",
-      "titulo": "Sala Lilás da Câmara de Guaíba receberá nome de Gislaine Duarte, primeira vítima de feminicídio do RS em 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/sala-lilas-da-camara-de-guaiba-recebera-nome-de-gislaine-duarte-primeira-vitima-de-feminicidio-do-rs-em-2026",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A Câmara Municipal de Vereadores aprovou a proposta da vereadora Gabi Panazzolo (MDB) nesta terça"
     }
   ]
 }
