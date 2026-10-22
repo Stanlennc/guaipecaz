@@ -1,15 +1,69 @@
 {
-  "gerado_em": "2026-10-22T11:10:11.602995+00:00",
+  "gerado_em": "2026-10-22T16:38:30.247869+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
+    {
+      "id": "fdbdab402759",
+      "titulo": "PGM e ex-subprocurador de Guaíba estão entre os alvos de operação que investiga fraude em licitações",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOY0kwcGxWX0dLV25TSWJQTEhMbnp5cF9NRmtKRW1iaGJ3Y2h2eHVfSWVxUXV5d0Z5ck5SY2x0eWpfb0hwdlhZU0Jtc1FXeWFuZlVqa0JLc1Q0eEQtS0M5WFR0c3h1ZGNUTjBpVGVlRFZXWF9PSWpGZUh1T0h3ZTJsckJSUENJSzhJcWRRdGRzX1JnaVk3MG8tZGFfcTNzb3NTNGI3R25OSWZSUkt3MjNIcm43MkVfOVBLczIyVU9pTzkyUUVBUWs3WEtxWmY1Yk5SZ1l1WGllejljYVFsWUZtdFlkZjZINFpJQjdROV9vdUZfd3hWdktUNW41b3hId1U?oc=5",
+      "fonte": "Correio do Povo",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T14:30:07+00:00",
+      "feed": "licitacao"
+    },
     {
       "id": "b27541baff2c",
       "titulo": "Polícia Civil cumpre mandados na prefeitura de Guaíba por suspeita de fraude a licitação e pagamento irregular",
       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbXlhblNmNnVEU2RwY3EyVGVHWEUzVTdFc2JxRGFPTnFYdERyU1BMc05ka3BqZWVWVkd6WlowVmhCdUhUbkk2Snh3Tk40dXN4TnlybG1Vc29ZUzl1S3Vkd1hQdDNjRkJhNjVjVUFxbTZsUWhfMjFEY3Y5a2laWXJSVjgtTlE5cGtZOXZMSnZrQUZnWTZuUllPM0FvaUt0b2g0bWZ3blRMN1d6WDFfNlRJSVBSNXp5T0VaRm40X1E1N1AtNUZ0RFZCTHVOc1RVTW1pcHlNakxQVXhDeXV3aW1fOWxxVHJSRHIxbVdDVGZsazVzUXNMZEVFc1pJckxTdWpvMmlEUzVwZEdKOHVOMHN0bzQ5dkVsMDJrbWthdF8wSFRFaWdTTUE?oc=5",
       "fonte": "GZH",
       "tipo": "licitacao",
-      "publicado_em": "2026-10-22T10:50:52+00:00",
+      "publicado_em": "2026-10-22T14:03:45+00:00",
+      "feed": "licitacao"
+    },
+    {
+      "id": "e66b4a457bd0",
+      "titulo": "Polícia Civil realiza operação para combater fraudes em licitações em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUS1tTVFfckFJTEVIWkhvZzdTeHdZc015eUN6ZDlVMTJZVUtlekNWN0sxdUtUdkN5X243YzhqaXdCYnR2Tk9ucmotdGlJalJnemhMQkR6YzlZZk9tR19yb3VQWEowRXZyV0ZscHBsN3Z4VXNZMkJweGlaUk0zZnRLbFZONE53UThjRjl1Xzh5TFdBZ1prMHlwRDZYbzFTWlRKQ1hPZUtNYjlpbC1wXzJEVHpBeXQwZw?oc=5",
+      "fonte": "Prensa Mercosur",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T13:21:02+00:00",
+      "feed": "licitacao"
+    },
+    {
+      "id": "22595aedd134",
+      "titulo": "Operação da Polícia Civil mira fraudes em licitações e pagamentos irregulares na prefeitura de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX1B1NDNzTU5mOFgxNFExeFhoWmRCTDBLdGYyRkxycEhfTDBwUFFCSU1XQW9iRVZ4X0I0SFRuN3NYakxvM2o1cnF3SDVILU82Rkw5Wi12WE05TTVubVpzLWFQVjRtRmhqWEdLNjdfN3lRS0p1eF9OY0Q0RFV6ZmZwS1NGNElZSGpSdlY4RFYxTGFMU2tYaG4zUEt3REsyNTNyQ09sSUhHaHllQUFuRkxQWkdVcC01dktOejVNUzBmY0stc2RYYXdhYmtJLW5qWjhwWm5wLU9qNVNabDRh?oc=5",
+      "fonte": "Porto Alegre 24 Horas",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T12:57:00+00:00",
+      "feed": "licitacao"
+    },
+    {
+      "id": "40529c93f744",
+      "titulo": "Operação da Polícia Civil investiga suspeita de fraude em licitações na Prefeitura de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQandfMmVlZ2pRcHBra3Zjb0pMaHNad0M1UklZaUMydUg3NzMzT25QQkhBZlNBVy1xSXo3Q3JDTnlNWGNpQ0RFTHJUdGRYS2FPLXRVQ0dPemZKZW1PZXNib0F6V01RZUdlSndGS2pMNTN4MmhkYlp3UUdRN1liYkhoLVdSTDU0V0RsLVZFQWNSMGdmT3hlQkJBcTBQZ3U2VlhLcDF0ak1SWnJEWlJBcnhROWl0Y09MLWd2dnZHVVllb0dUY0FIalRjLW95VjJMTmlvWHhJLVFHazFjbFY5VUNQcFRKWm9odkcxZ19QcHh1cjJ1ZGYt?oc=5",
+      "fonte": "Correio do Povo",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T11:44:18+00:00",
+      "feed": "licitacao"
+    },
+    {
+      "id": "8967621533c0",
+      "titulo": "Polícia Civil realiza operação na Prefeitura de Guaíba e investiga suspeitas de fraude em licitações",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRqeGNLSEoyZTdpM1JrT3RDMEtLN0hCUnlhQ2p0SW8tMkhrcU1FUFZUcTRGSEhudHFpOHNLT2ZrdGc5dk9TQjhDOUlaY1RwalZsSE9jOE0tdV9iX0ppQW5mbGp1eGdYamNMUWh5S3JpbnozRTRFSW5mcjlUbE54Snh3QmNQd0hrb3B5VDBOaW9HdmlLdG4wZWlvNDlmenBX?oc=5",
+      "fonte": "Clic Camaquã",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T11:39:46+00:00",
+      "feed": "licitacao"
+    },
+    {
+      "id": "093477ad53df",
+      "titulo": "Polícia Civil investiga suspeita de fraude em licitações em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLMVVYUEtDSkZpOE1SWHgxbVJFaDlxaW90YzUyUWdzSkRJX3hsYlk0bXlXMFNRSnI5YzV4dmZoTk9fRGllVXJwUDZmbHJPbGtlMENYZTBKSGF5OHhUbVN1MnhDdWE0X2NZY0pIZm1FbmlDdFN5d2J1Vjd2dVFLX0k?oc=5",
+      "fonte": "Rádio Acústica FM",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T11:08:29+00:00",
       "feed": "licitacao"
     },
     {
@@ -56,60 +110,6 @@
       "tipo": "vaga",
       "publicado_em": "2026-09-10T07:00:00+00:00",
       "feed": "vagas"
-    },
-    {
-      "id": "222af359a8b8",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTURzNW01X2p1R2RIRjdKWDdhQnRQMnpoakNGckF0andQTEhjUWZTLXkxVzlBVF94bmp2VzB5bE5UQ0I0Nm1GSXNtampTOGtDTUp3SThLdGxybVRoVFNRNmJWZ0JCdnd3SFBaX213OVEtQVItbmI1TTFXSWI3ZUlSLU5BTXJGckE1OExjemxfWHN1RGZRTTBGS3hnX3dFdVRnQ1FjX3lRODlKTTJ4VjYtT04xdlh2YU1qUy1CMzlFUko2VnJfQWhFTkg5LUVZcnpTaFdXOUxPSzhYM1U?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-08-04T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "49c16b5cee41",
-      "titulo": "Licitação dos semáforos em Guaíba avança para nova etapa; entenda os próximos passos",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzlHblVqUXlZbUdfMWhiMXhQdV9NVnlFeXRjakNxbFQwem12LTkxcWlQSkdMcHBDZm5QR0hiY3Z0MFFxQ1RNMW1ZRFpxV1I1elNuX3J1OEtpLWJXQm9jNFVyT0c0YXRvV1dDTE1mdWVmYmJxOWlhZXhEOGdOdEhfMEs0aTJ5T0dXQ29zVEFPNzlmbXJ1S1ZBUTNDX1phS1hkOVBqT25qOHRvUWVsNUZoSE5lSkJOTWxmSllxZ2pxYUVueGJWSkVR?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "licitacao",
-      "publicado_em": "2026-07-20T07:00:00+00:00",
-      "feed": "licitacao"
-    },
-    {
-      "id": "07945b98a1e5",
-      "titulo": "Claudinha Jardim anuncia centro logístico do Mercado Livre em Guaíba com mais de 500 vagas; veja como se inscrever",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQVB6UENxS2otRmFFM2NpR1hGa2JsNzFpMU1RNUxNeVFPdGR1TmZVak1IdWRVbXRZYWVDU2M3TWx5U20zLWFHTnRUeFdzZElQS1VHNmE3aVhuT0lpS0ZPUndPRzlhRlpVQ1J3S2hNazBQTjgxXzZ4LWM1VU5Nb255LWc5TGszV1Z3cVZVWnFyY2ZHdV82Q0x3LWFSNERBVU05aHR4ZS00TXNURmtYbF9ZSlJYTzJQaW9oc2U5T1NYUkt0ZlVmOGZSbEJrQ2N5QzlCMmtEUW9CN3l0RkltdUZyUk9raHE2S3RmTnZEWG9FRQ?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-07-17T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "d3c2091518bd",
-      "titulo": "Estão abertas as inscrições para a segunda edição do concurso de fotografia \"Olhares de Guaíba\"",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0JDLU5oLXJTSkctTGtFZXgxLXZnUkh6bjBBSWlYSnJ6YTlzTkFrcDJJbGZyWko3aVZJQlJKZ1QxbjdMVUYxNU1hMElrSlZnY180cTlfNHpuUEhzTjVVQlFRQzFXd0szN2JYOC1UazhxbWlMWm15VU8tUmw4Z1V6ZFZQbTVtMFNqajVpcERDNFZyYkpVWGtqYkNoVTBPcndDWGZ6RGJ6SWZBSk9sR0NQalFBNEdLblFnWi1JNHNwSkpYREg3eWt6Z2cyUFRKd0FCMU1naQ?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "concurso",
-      "publicado_em": "2026-07-16T07:00:00+00:00",
-      "feed": "concurso"
-    },
-    {
-      "id": "a549bed95947",
-      "titulo": "Vendedor, auxiliar mecânico, serviços gerais e mais: veja as vagas de emprego disponíveis no Sine Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLTRwSjRyMGRNYWdjci1rSUdRTXk4T1ZpekoxRDJCbFhoeGxDRGl4MXNWTWVQaE5sdjVOdjNlTU93UkpzVnlSSmdVTlJneTdRaE5OLUthajc4N3N1OEI1NmI1Vkh2amFQYWVFWkZIa01sMUh1X0xjSG1FaXdSMklIaDZBR3lna0F0SllmYllLZ0dXZ1JSMjV1aFlPeTlRVTBKalBYdjBEQUVsdk9Ic216QUhmZU11RWJLdjByUkNRUHhVcVZsQ25rWi13djN3ZWFibVhERmt3azYtaFltQVU0?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-07-14T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "2af13ba036a9",
-      "titulo": "Oratória e Emoção: Guaíba celebra os talentos do 4º Concurso Escolar na Câmara de Vereadores",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaDRDejcteUppeGdvODF5c1VsczZOR0hITkxMaFJnMS1ESmhyTHdPZWdPTnBnMTgyUkYwWjFLaHJjTlBXbENpVFVuQURpVFVpX0R0RjAtOHZJODRIRk05bV96ODhZbXJOU3Z5cGxXRktGLWt0dVpJeGV3eVdoeGFLLUV4N0d1YmNZd3l1Q004cU9GT1U2amgzSkNqX3ZTZU8xRlZqR1ZWYkM0WDEzTlAwNlFmSQ?oc=5",
-      "fonte": "Portal ClicR",
-      "tipo": "concurso",
-      "publicado_em": "2026-06-27T07:00:00+00:00",
-      "feed": "concurso"
     }
   ]
 }
