@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-22T19:44:33.981154+00:00",
+  "gerado_em": "2026-10-22T22:57:55.748035+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "8a25da5c0e79",
-      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-22T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
-    },
-    {
       "id": "b1a499dec307",
       "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
@@ -103,6 +93,16 @@
       "feed": "reporter_direto"
     },
     {
+      "id": "8a25da5c0e79",
+      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-22T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
+    },
+    {
       "id": "374a58721742",
       "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
       "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
@@ -113,14 +113,14 @@
       "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
     },
     {
-      "id": "06a010c4f145",
-      "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tera-mudancas-nos-locais-de-votacao-no-segundo-turno-das-eleicoes-2026",
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-22T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
       "id": "bfcabb8834ba",
@@ -133,14 +133,14 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira"
     },
     {
-      "id": "c78cc11739f6",
-      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
-      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "id": "29a7acad7962",
+      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
+      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
     },
     {
       "id": "e38f66be6482",
@@ -153,31 +153,51 @@
       "resumo": "Aproximadamente 25 policiais civis cumpriram sete mandados de busca e apreensão, nesta quinta-feira (22)"
     },
     {
-      "id": "32e02527b8e8",
-      "titulo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/hotel-ibis-deve-encerrar-atividades-em-guaiba-ate-dezembro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
-    },
-    {
       "id": "dfe3a46c6d44",
       "titulo": "Prefeita de Guaíba anuncia exoneração de procurador-geral investigado pela Polícia Civil",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPclhncUd2djJWUGI4NlJYSUEwNzcxcThYTnFyWE0za1M4MHZmSkRRYmJCMUdCRmdkRHVMa2V0dEpaVGdJRExxN3lwNmxBNTNHM3VLenVQdExUcVB1QXZtS2xaV2Z0ZHJDNDJiWUFfeVlqelBzYkNmNXR6cHZRM1FVLUt4TFRHN3Z6NkVBYjZ6NUU1cGN4S3AxZGRiUDkxV2VzSUktLU93RF9PQkFDWHRsbWUxZ2Yta0o1TVFrS0ZtSHJaS0ptSVc4NjVEMWxid2FucUl2VUhDb2xxNElUS1JPRmJMTWtVZm5IU21pRmtvWjdvSUgwNm9WYTRQRXgwdkV3OGpjdjV0b1o?oc=5",
       "fonte": "GZH",
-      "publicado_em": "2026-10-22T18:09:01+00:00",
+      "publicado_em": "2026-10-22T21:30:22+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "Prefeita de Guaíba anuncia exoneração de procurador-geral investigado pela Polícia Civil GZH"
+    },
+    {
+      "id": "cf6ca82d8b82",
+      "titulo": "Estátua de João Goulart é pichada na Orla do Guaíba, em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmhSbi1vMTFicWEzU194WG9SRzBnSTU4NWZJSXRoQV9PWVc1ZVZOeFhUTXdCWmFYQ2xVYmhVRG4wZkxnMWZhOHJqMVZXd0xLcEs4NGtnNWg0QklXazlaZnJldlpNelVybEhzSGtnNlBoWHotLTRVaFdPeEt5T0s2Y2JPMFVCalpJNmt3NlJOLXpNUzd0cEFvV0Vn?oc=5",
+      "fonte": "Rádio Acústica FM",
+      "publicado_em": "2026-10-22T19:25:20+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Estátua de João Goulart é pichada na Orla do Guaíba, em Porto Alegre Rádio Acústica FM"
+    },
+    {
+      "id": "837ba56cd35e",
+      "titulo": "Antecipada fase final das obras de esgotamento sanitário no bairro Passo Fundo em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXRDRG5ha25WVVB3ZjVBa1ZrMEhCc1FjX0g0VmhHZ0VzT0dyU29OdHZDNkdIR1dCNUN0NlFqeWV3bHJIR2YxTzl2TXN0UXRtTDRobS1tQ0hDNU0ySk1QTW54ZHhKTkttSnhjTlhJTGdWY09DMzBjTlRKWERtYmQ2NTF4VF94ZkJyTDRnY1VUVHlhYXJBTmZZLTNyMHV2OHh0djgwMlc3RjhsYjczclZUV0R1cGhUdw?oc=5",
+      "fonte": "CORSAN",
+      "publicado_em": "2026-10-22T19:00:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Antecipada fase final das obras de esgotamento sanitário no bairro Passo Fundo em Guaíba CORSAN"
+    },
+    {
+      "id": "6226030c1cf6",
+      "titulo": "Polícia apura suspeita de falsificação em contratos em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWTQ1cWUzUmZRVEVLb3V3V1BOeTc1ejc0a2tHSDF3WWphYnZBVE9fNlNhcy1lUWQ5ZlRUR1hlSVZFaWpyNlRhVWpLMkVFdEg0dUNhcFBpaVRjME1xOTdPeF9aVU1fbk9RY2JGcThpWGxFV2g1MFU0UTR6VXQ0VWt3LVA3akJGZU5ZSEdfSzFhU3V4Q19ZWnI4ZkNVMVN2UGtUSm5QaXlLQXJneHJOWlJXWGxCR2tOWmZPN25sdk5nRDJEci1wWjFmTW1yZnJHOVhEdFlLUWxEM1puUzhTN0FpMlRHM0NSaDAtUEs4ZUZpUkXSAfABQVVfeXFMUFk0NXFlM1JmUVRFS291d1dQTnk3NXo3NGtrR0gxd1lqYWJ2QVRPXzZTYXMtZVFkOWZUVEdYZUlWRWlqcjZUYVVqSzJFRXRINHVDYXBQaWlUYzBNcTk3T3hfWlVNX25PUWNiRnE4aVhsRVdoNTBVNFE0elV0NFVrdy1QN2pCRmVOWUhHX0sxYVN1eENfWVpyOGZDVTFTdlBrVEpuUGl5S0FyZ3hyTlpSV1hsQkdrTlpmTzdubHZOZ0QyRHItcFoxZk1tcmZyRzlYRHRZS1FsRDNablM4UzdBaTJURzNDUmgwLVBLOGVGaVJF?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-22T18:29:45+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Polícia apura suspeita de falsificação em contratos em Guaíba G1"
     },
     {
       "id": "fdbdab402759",
       "titulo": "PGM e ex-subprocurador de Guaíba estão entre os alvos de operação que investiga fraude em licitações",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOY0kwcGxWX0dLV25TSWJQTEhMbnp5cF9NRmtKRW1iaGJ3Y2h2eHVfSWVxUXV5d0Z5ck5SY2x0eWpfb0hwdlhZU0Jtc1FXeWFuZlVqa0JLc1Q0eEQtS0M5WFR0c3h1ZGNUTjBpVGVlRFZXWF9PSWpGZUh1T0h3ZTJsckJSUENJSzhJcWRRdGRzX1JnaVk3MG8tZGFfcTNzb3NTNGI3R25OSWZSUkt3MjNIcm43MkVfOVBLczIyVU9pTzkyUUVBUWs3WEtxWmY1Yk5SZ1l1WGllejljYVFsWUZtdFlkZjZINFpJQjdROV9vdUZfd3hWdktUNW41b3hId1U?oc=5",
       "fonte": "Correio do Povo",
-      "publicado_em": "2026-10-22T18:00:00+00:00",
+      "publicado_em": "2026-10-22T18:04:06+00:00",
       "categoria": null,
       "feed": "correio",
       "resumo": "PGM e ex-subprocurador de Guaíba estão entre os alvos de operação que investiga fraude em licitações Correio do Povo"
@@ -193,24 +213,24 @@
       "resumo": "Guaíba anuncia novo canal voltado a cobertura política Coletiva.net"
     },
     {
-      "id": "273059ed95d8",
-      "titulo": "Que Negócio é Esse: conheça pizzaria de Guaíba que atrai visitantes do RS e Uruguai",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRW9VN3VPS3pyX25Wam9mZGd6Z3J2dWhDZE9ES1E2UlBYLUtLS1ZoWVNGTnV0YndPaC01eEtWd0k3RVF4TDZtaGktN214Y3FQblZieUxSeXg0ZHNvaEFwNHB5OVhkUDBBR1gzS21CMDF3NndaX1dFcU9wOUZKVWgzSmRQMThSNTJidENub0FGdWJZWkgtWWNUNGFWWFd6dzRhMDUyQUtIYllZeDlwVmpMUmlfNnlpbXp1TGtPOHk5clVaWjBEaEUxdENxcE5FY1c0T0hxM1IwalRTLVFwYXRsZg?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-10-22T14:28:43+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Que Negócio é Esse: conheça pizzaria de Guaíba que atrai visitantes do RS e Uruguai Jornal do Comércio"
-    },
-    {
       "id": "ebc8bde699c4",
       "titulo": "Com receitas autorais, pizzaria em Guaíba atrai visitantes do RS e do Uruguai",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaTBrQzhQZVpJaEtXT1Q0RTRRODBJT2YtS3IxbjFwYWNXYnhDMDRfQmJjdG1ySmUzNFQ2ZFZSWDFGcXRfZExsUGE4S2J6VEt1emh3bHlyRzd2MXRsdDBxYXlETEZJUEdIWFRPVWpQZTgwdFFMTGhaZG9Ia3MtNUE0ZTRDbEtUQWNwRXJ0OS00UVNDWGE0Q3A1S2ZRTnNMNFU1bGZpNUxXdThvTHBGRlJLQ2FfcWl2ZzVEOGRrc0I1d3Z3MDJkWU5qeXA3Njd6SEdVRnZzQnQyZmw0QVU?oc=5",
       "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-10-22T14:26:15+00:00",
+      "publicado_em": "2026-10-22T14:32:50+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "Com receitas autorais, pizzaria em Guaíba atrai visitantes do RS e do Uruguai Jornal do Comércio"
+    },
+    {
+      "id": "273059ed95d8",
+      "titulo": "Que Negócio é Esse: conheça pizzaria de Guaíba que atrai visitantes do RS e Uruguai",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRW9VN3VPS3pyX25Wam9mZGd6Z3J2dWhDZE9ES1E2UlBYLUtLS1ZoWVNGTnV0YndPaC01eEtWd0k3RVF4TDZtaGktN214Y3FQblZieUxSeXg0ZHNvaEFwNHB5OVhkUDBBR1gzS21CMDF3NndaX1dFcU9wOUZKVWgzSmRQMThSNTJidENub0FGdWJZWkgtWWNUNGFWWFd6dzRhMDUyQUtIYllZeDlwVmpMUmlfNnlpbXp1TGtPOHk5clVaWjBEaEUxdENxcE5FY1c0T0hxM1IwalRTLVFwYXRsZg?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-10-22T14:32:50+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Que Negócio é Esse: conheça pizzaria de Guaíba que atrai visitantes do RS e Uruguai Jornal do Comércio"
     },
     {
       "id": "b27541baff2c",
@@ -279,7 +299,7 @@
       "fonte": "UOL Economia",
       "publicado_em": "2026-10-21T21:24:55+00:00",
       "categoria": null,
-      "feed": "google",
+      "feed": "recentes",
       "resumo": "Quanto custa a gasolina em Guaíba (RS) nesta semana? Veja preços UOL Economia"
     },
     {
@@ -351,39 +371,9 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Artista francesa Léa Poignant inaugura exposição sobre o Guaíba e Oxum no Museu do Paço Jornal do Comércio"
-    },
-    {
-      "id": "bf48f649ddc5",
-      "titulo": "A 57 km de Porto Alegre, uma cidade guarda praias de água doce entre o Guaíba e a Laguna dos Patos em um parque que limita a 700 o número de visitantes",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPd1Ata1I5UklucEk5QWNkVHlzVkdMbE5oUzB0VlJDN3NlZzRlR0dtUEVzaFNzMEdWSkNMeUlESzZYRWZSVlZjdEdjUVRXd2FQZEFxc2lyYkR4amdQZFRYSHd0aUJXRmtzNnFJNTh1cGtDUjZLZEI0SGx6TTFRdkhxV0ttYkRpMmYtNkRONUFseG1XQ2tldVI2c2d0UG41ZEVxc1pEV0xpZER4MTVuVDhRMEs1bzNidVdnTjVEWXp4aFJJWE1DVm50NHZlU0xUNklMWUpLeHZoX2I3OUZyY3c4Z1VSYUdVTjhnRjdOc2x0T0VFdFRNMWR3LTJ2VnhURFFudVdvSnhOMWhxLU8xb1RIbEVqMUs?oc=5",
-      "fonte": "Super Rádio Tupi",
-      "publicado_em": "2026-10-19T22:33:23+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "A 57 km de Porto Alegre, uma cidade guarda praias de água doce entre o Guaíba e a Laguna dos Patos em um parque que limita a 700 o número de visitantes Super Rádio Tupi"
-    },
-    {
-      "id": "85e1c0d8e0ea",
-      "titulo": "Réu por atropelar e causar duas mortes vai a júri popular em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEZ1ODJRcmppY3BlRWJsS0UwUTZSMEdXZERsVE9meWZQVThvZDJROXBmNDRVM0d3elRNNTRiSUswS1pQRlY3VFJZQlpqd0lfMUlRWG8zb0dhSG5GOXJCOXIxb1dtV0ltNnBxTG01MFl4TEpLdkZtQXJidnYtMUFqbDRQR3lIWUhpNFVpU3VVVHFfNjNYRGd5OVNSVVlRNFdFaFZ3cWdpdHNsUQ?oc=5",
-      "fonte": "Agora RS",
-      "publicado_em": "2026-10-19T21:25:28+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Réu por atropelar e causar duas mortes vai a júri popular em Guaíba Agora RS"
     }
   ],
   "noticias_home": [
-    {
-      "id": "8a25da5c0e79",
-      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-22T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
-    },
     {
       "id": "b1a499dec307",
       "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
@@ -404,6 +394,16 @@
       "feed": "reporter_direto"
     },
     {
+      "id": "8a25da5c0e79",
+      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-22T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
+    },
+    {
       "id": "374a58721742",
       "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
       "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
@@ -414,14 +414,14 @@
       "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
     },
     {
-      "id": "06a010c4f145",
-      "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tera-mudancas-nos-locais-de-votacao-no-segundo-turno-das-eleicoes-2026",
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-22T00:00:00+00:00",
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
       "id": "bfcabb8834ba",
@@ -434,14 +434,14 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira"
     },
     {
-      "id": "c78cc11739f6",
-      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
-      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "id": "29a7acad7962",
+      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
+      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
     },
     {
       "id": "e38f66be6482",
