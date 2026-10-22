@@ -1,8 +1,17 @@
 {
-  "gerado_em": "2026-10-22T03:19:49.428033+00:00",
+  "gerado_em": "2026-10-22T11:10:11.602995+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
+    {
+      "id": "b27541baff2c",
+      "titulo": "Polícia Civil cumpre mandados na prefeitura de Guaíba por suspeita de fraude a licitação e pagamento irregular",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbXlhblNmNnVEU2RwY3EyVGVHWEUzVTdFc2JxRGFPTnFYdERyU1BMc05ka3BqZWVWVkd6WlowVmhCdUhUbkk2Snh3Tk40dXN4TnlybG1Vc29ZUzl1S3Vkd1hQdDNjRkJhNjVjVUFxbTZsUWhfMjFEY3Y5a2laWXJSVjgtTlE5cGtZOXZMSnZrQUZnWTZuUllPM0FvaUt0b2g0bWZ3blRMN1d6WDFfNlRJSVBSNXp5T0VaRm40X1E1N1AtNUZ0RFZCTHVOc1RVTW1pcHlNakxQVXhDeXV3aW1fOWxxVHJSRHIxbVdDVGZsazVzUXNMZEVFc1pJckxTdWpvMmlEUzVwZEdKOHVOMHN0bzQ5dkVsMDJrbWthdF8wSFRFaWdTTUE?oc=5",
+      "fonte": "GZH",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T10:50:52+00:00",
+      "feed": "licitacao"
+    },
     {
       "id": "055c280753b7",
       "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego nesta semana; veja a lista",
@@ -101,15 +110,6 @@
       "tipo": "concurso",
       "publicado_em": "2026-06-27T07:00:00+00:00",
       "feed": "concurso"
-    },
-    {
-      "id": "92688ddede3b",
-      "titulo": "Círculo Saúde abre 120 vagas para Hospital de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc05sZUsxemhTRGJGN1hlV2FsckxQa2o3Sk9LY2ZhNldaRm1qY2Nhb3htRUY2NXZiN252WEpUY0hua2lEamlZV1Y0QVV6VzJ0alVZeFlCX2lKM2RlSmtWWkxMUVFLLWVJSUlsR09YVlBreVRoc29TZjVWSW5rR1hEa0ExTlBZU05nLWFnemRIUkRQS1hMdWVlV3p1aw?oc=5",
-      "fonte": "Jornal do Brás",
-      "tipo": "vaga",
-      "publicado_em": "2026-06-24T07:00:00+00:00",
-      "feed": "vagas"
     }
   ]
 }
