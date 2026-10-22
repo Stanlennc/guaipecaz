@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-22T03:21:56.638170+00:00",
+  "gerado_em": "2026-10-22T09:09:57.745276+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,14 +74,13 @@
   ],
   "noticias": [
     {
-      "id": "b1a499dec307",
-      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
+      "id": "689591584b62",
+      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-22T00:00:00+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
+      "feed": "reporter_direto"
     },
     {
       "id": "374a58721742",
@@ -94,6 +93,16 @@
       "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
     },
     {
+      "id": "b1a499dec307",
+      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-22T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
+    },
+    {
       "id": "bfcabb8834ba",
       "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego nesta semana; veja a lista",
       "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-mais-de-20-vagas-de-emprego-nesta-semana-veja-a-lista-613690831",
@@ -104,43 +113,14 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira"
     },
     {
-      "id": "689591584b62",
-      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-22T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
-      "id": "91baa5def99d",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-22T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
-    },
-    {
-      "id": "06a010c4f145",
-      "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tera-mudancas-nos-locais-de-votacao-no-segundo-turno-das-eleicoes-2026",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-22T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
-    },
-    {
-      "id": "29a7acad7962",
-      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
+      "id": "760ca1b91f96",
+      "titulo": "Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/veja-os-10-candidatos-a-deputado-federal-e-os-10-a-deputado-estadual-mais-votados-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
+      "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
     },
     {
       "id": "48102af655b2",
@@ -151,6 +131,36 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
+    },
+    {
+      "id": "c78cc11739f6",
+      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
+      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
+    },
+    {
+      "id": "e808e9cd1c8f",
+      "titulo": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/inauguracao-do-novo-centro-de-distribuicao-do-mercado-livre-marca-as-comemoracoes-de-100-anos-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O empreendimento está instalado no complexo logístico Ellosul, às margens da BR-116"
+    },
+    {
+      "id": "29a7acad7962",
+      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
     },
     {
       "id": "32e02527b8e8",
@@ -171,6 +181,16 @@
       "categoria": "Cidades",
       "feed": "expansao_direto",
       "resumo": "A Secretaria de Infraestrutura e Serviços Públicos de Guaíba, deu início ao retorno das operações na Usina Municipal de Asfalto na última segunda-feira, 19 de outubro. O local estava parado&#8230; O post Usina de asfalto de Guaíba retoma operações após seis meses apareceu primeiro em Expansão ."
+    },
+    {
+      "id": "adf34b4b7c27",
+      "titulo": "Quanto custa a gasolina em Guaíba (RS) nesta semana? Veja preços",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmJwSTlLWFdEeWdRSGx6dGRIczdhY2UzVU9EU3lzZUtkd210dDA1dnZHdFVQcVNRMEd1bFpMRzZ4ZWxKYjA2VC1rZTBKajM0dk9raHRFcmZoVGRYWi1SdlBUZVlRdGQ2UUMwUXNPRkdXd1lsdC1kcHRYZ1hQQ0ZfTkFadTZ4Q0VtWTRSQzMyTlBqU25vNWhZeE9uUHIyRzg2TmVpdU9ySzFpd1lCcF9IcVprWnpEclVqcGMwWDUzcw?oc=5",
+      "fonte": "UOL Economia",
+      "publicado_em": "2026-10-21T21:24:55+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Quanto custa a gasolina em Guaíba (RS) nesta semana? Veja preços UOL Economia"
     },
     {
       "id": "dbd3d0da7598",
@@ -243,16 +263,6 @@
       "resumo": "Artista francesa Léa Poignant inaugura exposição sobre o Guaíba e Oxum no Museu do Paço Jornal do Comércio"
     },
     {
-      "id": "bf48f649ddc5",
-      "titulo": "A 57 km de Porto Alegre, uma cidade guarda praias de água doce entre o Guaíba e a Laguna dos Patos em um parque que limita a 700 o número de visitantes",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPd1Ata1I5UklucEk5QWNkVHlzVkdMbE5oUzB0VlJDN3NlZzRlR0dtUEVzaFNzMEdWSkNMeUlESzZYRWZSVlZjdEdjUVRXd2FQZEFxc2lyYkR4amdQZFRYSHd0aUJXRmtzNnFJNTh1cGtDUjZLZEI0SGx6TTFRdkhxV0ttYkRpMmYtNkRONUFseG1XQ2tldVI2c2d0UG41ZEVxc1pEV0xpZER4MTVuVDhRMEs1bzNidVdnTjVEWXp4aFJJWE1DVm50NHZlU0xUNklMWUpLeHZoX2I3OUZyY3c4Z1VSYUdVTjhnRjdOc2x0T0VFdFRNMWR3LTJ2VnhURFFudVdvSnhOMWhxLU8xb1RIbEVqMUs?oc=5",
-      "fonte": "Super Rádio Tupi",
-      "publicado_em": "2026-10-19T22:33:23+00:00",
-      "categoria": null,
-      "feed": "metro_recentes",
-      "resumo": "A 57 km de Porto Alegre, uma cidade guarda praias de água doce entre o Guaíba e a Laguna dos Patos em um parque que limita a 700 o número de visitantes Super Rádio Tupi"
-    },
-    {
       "id": "85e1c0d8e0ea",
       "titulo": "Réu por atropelar e causar duas mortes vai a júri popular em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEZ1ODJRcmppY3BlRWJsS0UwUTZSMEdXZERsVE9meWZQVThvZDJROXBmNDRVM0d3elRNNTRiSUswS1pQRlY3VFJZQlpqd0lfMUlRWG8zb0dhSG5GOXJCOXIxb1dtV0ltNnBxTG01MFl4TEpLdkZtQXJidnYtMUFqbDRQR3lIWUhpNFVpU3VVVHFfNjNYRGd5OVNSVVlRNFdFaFZ3cWdpdHNsUQ?oc=5",
@@ -283,6 +293,16 @@
       "resumo": "Guaíba: MPRS sedia seminário sobre prevenção a desastres e fortalecimento de comunidades resilientes Ministério Público - RS"
     },
     {
+      "id": "6d27b0e1bc07",
+      "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWjJjaDcwVlRVUmxUTjVVQk9QdkNYWDlMd1FFLVI5VXBUbDVRRXdDT3VXVU1WZW95TkZ0NFRSMDRMOHVwWEJneFdoOFJwQXdsakpMSTFlNERHanFwOUxZUGZtSmdCWVo5SWN1d2FRZWp2dHNiNFJKNU1uaEdtSkZEbklucFNjWUJLUlpQcGhvVm4xRFBfYXNHeU00WmROU0M3Sm9tcWFXMjF0MGlNNGJUeXhqeXZvSTBtQjBNM2ZhTkZCVW5y?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-19T14:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026 Repórter Guaibense"
+    },
+    {
       "id": "5ed6a5812d43",
       "titulo": "Homem é preso na BR-116 após roubar carro em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUVRkX2pfU0xFbXBTWGU5c2g4YTFRWGx2S29JZzhHTTAxUVlIYW9yUHh1ZjVBVThib0lOMjdtejd6NlRNQUgwVndtZExfODR1Z0tabURXN0ExVVp0WXRzVjNobG9uN2U3ajFNWG9IRzRSRHc2b3RYU2NBMjFHQnJDbThYeWsxR213dkhCbHVpN3F6S2lfVmU2U3NKZUc2REFxRmREMzEtdkxMRTk3TVFv?oc=5",
@@ -293,14 +313,14 @@
       "resumo": "Homem é preso na BR-116 após roubar carro em Guaíba Agora RS"
     },
     {
-      "id": "f87f406e7f03",
-      "titulo": "Polícia recupera veículo furtado em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QbjVuS2tHUWMwVndxWjA0Rks2U2tJZkdfVk5WeEw1elppb3J1TFFuLTRLU3dBUnJDNF8xOWtnWUNxMnVGalM4R3dYTHNlcVEtX1ZmcHJUYm1uTENzNDVVMVhDT21KS3R2SGNIMXp5azViVlRPbjFmRw?oc=5",
-      "fonte": "Rádio Acústica FM",
-      "publicado_em": "2026-10-19T11:33:01+00:00",
+      "id": "ebc7ddf70b78",
+      "titulo": "Procon de Guaíba terá atendimento presencial da Corsan nesta segunda-feira",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV3VvNUctLVpLSkJQT0tvUUtEZURyekVNZHEtRHRaZDZsZG44WDkwZ08tenU1ZGN4NDdnMWNGU0lEblpVR2F1OUdDelE1WW94ZklmZzdmcERrMTdmR005cDBmVjBqSXl1TVQ4MHloYzZ3XzUtTW1PRl9nSmhsU253SC1GeWNyVkl0b0dta1hHSHBfLTZtSFFrUmlIODlYSzctY0Ew?oc=5",
+      "fonte": "CORSAN",
+      "publicado_em": "2026-10-19T11:38:00+00:00",
       "categoria": null,
-      "feed": "google",
-      "resumo": "Polícia recupera veículo furtado em Guaíba Rádio Acústica FM"
+      "feed": "recentes",
+      "resumo": "Procon de Guaíba terá atendimento presencial da Corsan nesta segunda-feira CORSAN"
     },
     {
       "id": "017fbe81596f",
@@ -351,38 +371,17 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Livro ‘Sem pé nem cabeça’ é lançado em Guaíba, neste domingo Coletiva.net"
-    },
-    {
-      "id": "9bdbcce40b6a",
-      "titulo": "Guaíba avança sobre a Ilha da Pintada e água cobre parte de avenida em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVldHQzQ3VE5mWkJVTVVoUlNESVVVZ2ctMV9sTnAtSGhFNHZhQWNiVUwtUXB4TDh2MF9IUGZuT2VuZ2hEc2VNakRyZWZsVGl5N2Z6T1RZVC1WRF9sZm9YNFU5TXJwanpyRFpJYXVLYmx6aEhpZUlxTVR0MFljQllyWlB4ZlBfcmc3SFE0MXhpdFRybUhsajBzMXhJQ0hReEFLVG5URUttVUJZYnU1SzJHUm9vVHh4WGxkb0hXY0ZMQTl3NzZRYm9vWHB2Wm1paUtiZFJfbmZ1enNxWDFqVGUzMjR3?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-10-16T17:47:30+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba avança sobre a Ilha da Pintada e água cobre parte de avenida em Porto Alegre R7"
-    },
-    {
-      "id": "9ab33e16332f",
-      "titulo": "Seminário em Guaíba discute educação comunitária diante de desastres climáticos",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNlFILTZVZ3pnS1A1LVA1ekR1UmJSaWtDS2V1dWV3RjhDM005UDNYTElsTVBlcDdrTEkzWmZZY1o4RWRYWmtaVUNSRVc3cndvemQ4SGRaU1Vqa0FYLWxVaHplNWQxYzBoSm9WRVRwQWl6LXAwejFyNjZIb2dXeEJsbUc3dVFqd0NVMGhCazQ0TmFaU0MtQVRTSzNZRHNUU2NkX2xHYXlqLVlzOEJuWGZKcFpWbTY4RUM0MzRud2hHRVg3MUp1WXlxbHR1NEEzeUUxNzhjQ2FWUkFoUTRD?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-10-16T15:57:32+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Seminário em Guaíba discute educação comunitária diante de desastres climáticos Correio do Povo"
     }
   ],
   "noticias_home": [
     {
-      "id": "b1a499dec307",
-      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
+      "id": "689591584b62",
+      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-22T00:00:00+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
+      "feed": "reporter_direto"
     },
     {
       "id": "374a58721742",
@@ -395,6 +394,16 @@
       "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
     },
     {
+      "id": "b1a499dec307",
+      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-22T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
+    },
+    {
       "id": "bfcabb8834ba",
       "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego nesta semana; veja a lista",
       "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-mais-de-20-vagas-de-emprego-nesta-semana-veja-a-lista-613690831",
@@ -405,43 +414,14 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira"
     },
     {
-      "id": "689591584b62",
-      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-22T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
-      "id": "91baa5def99d",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-22T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
-    },
-    {
-      "id": "06a010c4f145",
-      "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tera-mudancas-nos-locais-de-votacao-no-segundo-turno-das-eleicoes-2026",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-22T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
-    },
-    {
-      "id": "29a7acad7962",
-      "titulo": "Guaíba não fará empréstimo com banco asiático, diz Claudinha Jardim",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tem-condicoes-de-manter-emprestimo-de-us-70-milhoes-com-banco-asiatico-diz-claudinha-jardim",
+      "id": "760ca1b91f96",
+      "titulo": "Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/veja-os-10-candidatos-a-deputado-federal-e-os-10-a-deputado-estadual-mais-votados-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ela também afirmou que o Gabinete de Projetos Especiais deixará de existir"
+      "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
     },
     {
       "id": "48102af655b2",
@@ -452,6 +432,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "As secretarias de Educação, Fazenda, Governo e Meio Ambiente seguem mantidas sem alterações."
+    },
+    {
+      "id": "c78cc11739f6",
+      "titulo": "Empreendimento de Guaíba aposta na produção artesanal de microverdes",
+      "url": "https://www.reporterguaibense.com.br/noticia/empreendimento-de-guaiba-aposta-na-producao-artesanal-de-microverdes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Cultivados em pequena escala, sem aplicação de agrotóxicos e colhidos poucos dias após a germinação, microverdes aproximam agricultura urbana, gastronomia e alimentação fresca"
+    },
+    {
+      "id": "e808e9cd1c8f",
+      "titulo": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/inauguracao-do-novo-centro-de-distribuicao-do-mercado-livre-marca-as-comemoracoes-de-100-anos-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O empreendimento está instalado no complexo logístico Ellosul, às margens da BR-116"
     }
   ]
 }
