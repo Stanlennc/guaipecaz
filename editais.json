@@ -1,8 +1,17 @@
 {
-  "gerado_em": "2026-10-22T21:11:53.929112+00:00",
+  "gerado_em": "2026-10-23T03:24:56.348984+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
+    {
+      "id": "67a7956b77d4",
+      "titulo": "Guaíba liquidou R$ 2,74 milhões em despesas com empresa investigada por fraude em licitações",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONlVUUEQ4bFgxWjhKWENCd3phb09UWnZ5Q2U5Y21hbFdNUVJMMExFX3FzM3d0azhpVHZraHF6c2JyMzhtY09pdmRNZWtQWnlhczhvaXRoUnNWam1vaXZUY3ZjQ0lLeW1Ja3JsVFc1UHdPSDh0c0F6clpsYVBFSFJJSFB3U3Fsakp2OXZWVllvZXBGLWxLNGtFN1pMaXRkUmtCNzB0Q2ZkUjZlaG5IQTZINnlkS2x1c0xkMW55S2hjdEFMT19rNUVLZndveTNwZw?oc=5",
+      "fonte": "Porto Alegre 24 Horas",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T23:17:52+00:00",
+      "feed": "licitacao"
+    },
     {
       "id": "fdbdab402759",
       "titulo": "PGM e ex-subprocurador de Guaíba estão entre os alvos de operação que investiga fraude em licitações",
@@ -100,15 +109,6 @@
       "fonte": "Jornal Tradição",
       "tipo": "vaga",
       "publicado_em": "2026-10-15T10:32:29+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "2aad55f17cc7",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV01qdG5Mbm82WC1TSXBuTkNyb1dIdUFkclNBYjJSUFZHWWliVHFrMUxnY2RUMDNwWDFybHp2b3B3Z0FRTEVta21iTmJmVWhxd3cyOW1OU18zWTE5WGtHTFlEMkFDUU11MU92cVg3ODBLcllKQVlKQVp0bzEyanIyN2V6dG9ITFRhR0lOaDBXelM1cS1aeUFITzZJczRpdnlrTkZVUTV2U3JuMHN6RGF3c1dUOTBtX2JEUEJKajVQc0tDYUlta01IRGduWVNVLVpl?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-10-13T07:00:00+00:00",
       "feed": "vagas"
     }
   ]
