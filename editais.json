@@ -1,8 +1,17 @@
 {
-  "gerado_em": "2026-10-23T03:24:56.348984+00:00",
+  "gerado_em": "2026-10-23T11:01:17.216794+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
+    {
+      "id": "92a4fb9ffa76",
+      "titulo": "Operação Pseudographos investiga suspeita de fraude em licitações em Guaíba e uma pessoa é presa",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTEhpc1dHOEZYMGZ4cDNJUXZveGMxUnFmWnloUDVJcHluOGNTY0ZJejZJeG43aC1wRHNOcEQwNTFnZERqcE1CUGdTbzNJVlJBR0RTZThGYU1QUXB5bnM1X2V1ZVBzb0JvQTdqN1BJR1JTLWMxRHBENUsxS2N4cjNVZXdkTVZRZDVJRzVhQjRfOWdfTVFQOGd3dWhZbTZRYWd6R21KaW5ja2w4T3gyTjFyNGhhN3JFd0NYM1FId2piNHJTQ204dFJYbWRmQkxVVTRBLWtFcHVTd0Y3QVZEc1BEU1ZyNXFNZUU?oc=5",
+      "fonte": "Portal de Camaquã",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T23:24:38+00:00",
+      "feed": "licitacao"
+    },
     {
       "id": "67a7956b77d4",
       "titulo": "Guaíba liquidou R$ 2,74 milhões em despesas com empresa investigada por fraude em licitações",
@@ -40,12 +49,12 @@
       "feed": "licitacao"
     },
     {
-      "id": "e66b4a457bd0",
-      "titulo": "Polícia Civil realiza operação para combater fraudes em licitações em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUS1tTVFfckFJTEVIWkhvZzdTeHdZc015eUN6ZDlVMTJZVUtlekNWN0sxdUtUdkN5X243YzhqaXdCYnR2Tk9ucmotdGlJalJnemhMQkR6YzlZZk9tR19yb3VQWEowRXZyV0ZscHBsN3Z4VXNZMkJweGlaUk0zZnRLbFZONE53UThjRjl1Xzh5TFdBZ1prMHlwRDZYbzFTWlRKQ1hPZUtNYjlpbC1wXzJEVHpBeXQwZw?oc=5",
-      "fonte": "Prensa Mercosur",
+      "id": "f648b40e38f1",
+      "titulo": "Polícia Civil deflagra operação para investigar fraude em licitações em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUdRX2oycVlsTEw2b0hMWW1RcmliQjhiWWg2N0Q0bjRZZUhsc2owdUtHdkZjM1c5dXJoeFFSWm1mNERhdmpnSUhORVJrT3VlNXNmbnM1UUUtQk9QNGxIZEdwd3FqTHBWOWJ4UXF0SHlGampnaFdndGlDVi1adjRBcVpXZzU0UmRMOUwwdUtRekVJbUpCaUxwVVZiV0tLUGF4Ql81ai1ULWRfR3lwWjZib3p5Wmd4WGlnSkp0azBzNFlpTVNSZmhMYzNR0gHKAUFVX3lxTE5VR1FfajJxWWxMTDZvSExZbVFyaWJCOGJZaDY3RDRuNFllSGxzajB1S0d2RmMzVzl1cmh4UVJabWY0RGF2amdJSE5FUmtPdWU1c2ZuczVRRS1CT1A0bEhkR3B3cWpMcFY5YnhRcXRIeUZqamdoV2d0aUNWLVp2NEFxWldnNTRSZEw5TDB1S1F6RUltSkJpTHBVVmJXS0tQYXhCXzVqLVQtZF9HeXBaNmJvenlaZ3hYaWdKSnRrMHM0WWlNU1JmaExjM1E?oc=5",
+      "fonte": "Blog do Juares",
       "tipo": "licitacao",
-      "publicado_em": "2026-10-22T13:21:02+00:00",
+      "publicado_em": "2026-10-22T13:07:00+00:00",
       "feed": "licitacao"
     },
     {
@@ -55,6 +64,15 @@
       "fonte": "Porto Alegre 24 Horas",
       "tipo": "licitacao",
       "publicado_em": "2026-10-22T12:57:00+00:00",
+      "feed": "licitacao"
+    },
+    {
+      "id": "2409cd9d13b0",
+      "titulo": "Polícia Civil realiza operação para combater fraudes em licitações em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDd4cDlmMDlUWGxHeVFEdVd6WkhuVGZHRngtZ2tUSXpaWEpmUG96U1N2RHA1Y2l2RVhmZXdDcmd1a1pFRU1WTjdNUG9Qdlo2ZDd3dm5ydldnd0NnaHZPaTE4eU5DWXBUeWF2NXNBemhJZm5GVmlfUmVGN1FrTnR1bGxfS1VmRUwwbklmRmlva3ZkdFpFajVfSVBnbnhKQXVrdlQw0gGoAUFVX3lxTE0zeTFIX2psb3lKXzA1RG1OLWVVaGpMYm04cEt3SGlneDJGY1pmVjdneUZkb0VyY0RaQUFMSkF4SDdhVkIzblAwY1dtdWRoLUk0YUlEenhyRjZWNGxLQkVTV0NTUlJ2VEFaOEo1QzN4d2ZEOFBLNjRIWUliODI1dm8zOWxMcjU5VVMtMGJfWW9lR2x0WVpvSmdIaF95SnJMQVVDcE16NEI3bQ?oc=5",
+      "fonte": "Jornal O Sul",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T12:51:35+00:00",
       "feed": "licitacao"
     },
     {
@@ -92,24 +110,6 @@
       "tipo": "licitacao",
       "publicado_em": "2026-10-22T11:08:29+00:00",
       "feed": "licitacao"
-    },
-    {
-      "id": "055c280753b7",
-      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego nesta semana; veja a lista",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbUhfcVhXdXNmbjdkNGtXTDY0YVpQZ3BNWmRmZEFPNUFQVVpZRXJwX3FXSnIyVzBHbEFMV0I4MXZmaTBDMHdwQTRWRjU1ZW51ZXVwYmw5encteTFzbnNpdGZIZFlkWE9NOGQyaFFmWlJSMTVIWnM2Sk5CZ2N0VjVvU0RNa1VOWVY5Y2VabkRJWHFzX0ZXeHM0a3N2NjZXOU1nYm9VMmVrcE1YTW1GUndXQTdTSmZLaXg4dkE3NllxVW44RzlZU0lF?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-10-21T17:58:00+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "4561765be66c",
-      "titulo": "Mercado Livre inaugura centro de distribuição em Guaíba com previsão de 700 empregos diretos",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTEFBMkhhcmRtbVNwckdqUEJvSjBzUzQ4enNoeV9BaWEtZG0tU3ZsekZDWHRnUk5tSWNaa0ctX2VfaEZvc2ViQUNXUVByN3hkclBUTkRtWVpDUFVVbVlwUUEzM2ZBZ2xSeEo3czhZeU5pNWtNY0hpY0xmajBTR0dLVW5XQVE0RWhldnA5NnVWTllnRk9xTVF4WmQxamZpWURheUtJMWZVZjIzSmRSSFVVdU1mc2s4M2kteUZjU1M5LWF5LWhwM2xDcEtQeGktRlZ3aGRHSFlmZnd4Zkk?oc=5",
-      "fonte": "Jornal Tradição",
-      "tipo": "vaga",
-      "publicado_em": "2026-10-15T10:32:29+00:00",
-      "feed": "vagas"
     }
   ]
 }
