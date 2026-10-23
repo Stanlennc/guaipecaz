@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-23T03:26:37.675315+00:00",
+  "gerado_em": "2026-10-23T09:06:28.211500+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,46 @@
   ],
   "noticias": [
     {
+      "id": "06a010c4f145",
+      "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tera-mudancas-nos-locais-de-votacao-no-segundo-turno-das-eleicoes-2026",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-23T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
+    },
+    {
+      "id": "b1a499dec307",
+      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-23T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
+    },
+    {
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-23T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+    },
+    {
+      "id": "8a25da5c0e79",
+      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-23T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
+    },
+    {
       "id": "374a58721742",
       "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
       "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
@@ -94,35 +134,6 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira"
     },
     {
-      "id": "689591584b62",
-      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
-      "id": "91baa5def99d",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
-    },
-    {
-      "id": "06a010c4f145",
-      "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tera-mudancas-nos-locais-de-votacao-no-segundo-turno-das-eleicoes-2026",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
-    },
-    {
       "id": "e38f66be6482",
       "titulo": "Polícia Civil combate crimes contra a administração pública em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/policia-civil-combate-crimes-contra-a-administracao-publica-em-guaiba",
@@ -131,16 +142,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Aproximadamente 25 policiais civis cumpriram sete mandados de busca e apreensão, nesta quinta-feira (22)"
-    },
-    {
-      "id": "32e02527b8e8",
-      "titulo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/hotel-ibis-deve-encerrar-atividades-em-guaiba-ate-dezembro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
     },
     {
       "id": "760ca1b91f96",
@@ -234,13 +235,13 @@
     },
     {
       "id": "d513827b4870",
-      "titulo": "Guaíba anuncia novo canal voltado a cobertura política",
+      "titulo": "Guaíba anuncia novo canal voltado à cobertura política",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZllUSGE5YlJkUHFtN09oSHMtcm1hWkVERFR6WHNJdkhIbXRiRkVlbEJkTGRvanFLMjlTeTA4YWp6T284NkVzbFE1OWgycmhuWWtDTG9FaDRVSDJUc2RlUzlIRncxOVFhU0hvZlNuLUt0MDFWZ25Ud2NXSmZkeW5zV3A1M040SHQzMTlsbGpn?oc=5",
       "fonte": "Coletiva.net",
       "publicado_em": "2026-10-22T15:11:38+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Guaíba anuncia novo canal voltado a cobertura política Coletiva.net"
+      "resumo": "Guaíba anuncia novo canal voltado à cobertura política Coletiva.net"
     },
     {
       "id": "ebc8bde699c4",
@@ -281,6 +282,16 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Polícia Civil realiza operação para combater fraudes em licitações em Guaíba Jornal O Sul"
+    },
+    {
+      "id": "1615cffe7b6d",
+      "titulo": "👔😂 Aula prática de nó de gravata na Record Guaíba!",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzNWa2JCdWNqZDZNWHdTZzgzLVpTNUgwak9kR2Jnb0xWeVdidnJxTFVNZm1FWEo3dXZOcWN3TWFmMkEtUnlDbTFSVGxZMmxncVh3U2lYbHAxeHdFSGM1NE9IQUxSNGRhelR3T0Vwakw2RVZGZGlEY2tzX01OMHAxazZBLU4wYTZrZ3ZTOFVxS0ROYjE0ZE5weG1tTndDdXc?oc=5",
+      "fonte": "R7",
+      "publicado_em": "2026-10-22T12:32:32+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "👔😂 Aula prática de nó de gravata na Record Guaíba! R7"
     },
     {
       "id": "bb1ed5888841",
@@ -361,19 +372,49 @@
       "categoria": null,
       "feed": "correio",
       "resumo": "Caminhada do Amor reunirá milhares de apaixonados na Orla do Guaíba neste sábado Correio do Povo"
-    },
-    {
-      "id": "435e88771206",
-      "titulo": "Novas estações monitoram em Porto Alegre os níveis do Guaíba e do rio Gravataí",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnU4OFJlc3dHV291VkQwMnlnSTRCem01YjNicXZONjhGM0JONG1yZjBfS1BOWG1CWEl4YXA3NnBRX0EycmtNYmJUdjBQNDdka011cko1WEtGR2lMVW11cGUzc0hpZzZ5NVVIVEUwTzZzLWFQR1dWMUFSYnRqeW82dUh6cE1aZlJkMk1TaENQdXB6cVJuQ3FsT25EY2FHRjNYd3VyY3h30gGrAUFVX3lxTE45LU1uR015Mk43NXJUVm9TYU83TUhwS0lybGpWYnoyZkZRMnM4Mld2VHBORkFKTGcySFl6QVY4Rllvb1BqeUJQYWdxcjk2b2FQV2F3Q3Q2emNoRnQzdHhpVThsOHViN09DX0gyZTlzTUtrQUJ5Q2VPLTJmR0VmNUNmb0JPSWdWNWoyQ2Y4YTFVa1lnRzFCUzljczRDVzNqaFNFMi1GWTZLTHdGbw?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-10-21T01:26:47+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Novas estações monitoram em Porto Alegre os níveis do Guaíba e do rio Gravataí Jornal O Sul"
     }
   ],
   "noticias_home": [
+    {
+      "id": "06a010c4f145",
+      "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tera-mudancas-nos-locais-de-votacao-no-segundo-turno-das-eleicoes-2026",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-23T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
+    },
+    {
+      "id": "b1a499dec307",
+      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-23T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
+    },
+    {
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-23T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+    },
+    {
+      "id": "8a25da5c0e79",
+      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-23T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
+    },
     {
       "id": "374a58721742",
       "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
@@ -395,35 +436,6 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira"
     },
     {
-      "id": "689591584b62",
-      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto"
-    },
-    {
-      "id": "91baa5def99d",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
-    },
-    {
-      "id": "06a010c4f145",
-      "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tera-mudancas-nos-locais-de-votacao-no-segundo-turno-das-eleicoes-2026",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
-    },
-    {
       "id": "e38f66be6482",
       "titulo": "Polícia Civil combate crimes contra a administração pública em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/policia-civil-combate-crimes-contra-a-administracao-publica-em-guaiba",
@@ -432,16 +444,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Aproximadamente 25 policiais civis cumpriram sete mandados de busca e apreensão, nesta quinta-feira (22)"
-    },
-    {
-      "id": "32e02527b8e8",
-      "titulo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/hotel-ibis-deve-encerrar-atividades-em-guaiba-ate-dezembro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
     },
     {
       "id": "760ca1b91f96",
