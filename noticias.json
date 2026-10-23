@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-23T09:06:28.211500+00:00",
+  "gerado_em": "2026-10-23T14:40:29.274184+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,64 +74,24 @@
   ],
   "noticias": [
     {
-      "id": "06a010c4f145",
-      "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tera-mudancas-nos-locais-de-votacao-no-segundo-turno-das-eleicoes-2026",
+      "id": "32e02527b8e8",
+      "titulo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro",
+      "url": "https://www.reporterguaibense.com.br/noticia/hotel-ibis-deve-encerrar-atividades-em-guaiba-ate-dezembro",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
+      "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
     },
     {
-      "id": "b1a499dec307",
-      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
+      "id": "e808e9cd1c8f",
+      "titulo": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/inauguracao-do-novo-centro-de-distribuicao-do-mercado-livre-marca-as-comemoracoes-de-100-anos-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
-    },
-    {
-      "id": "91baa5def99d",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
-    },
-    {
-      "id": "8a25da5c0e79",
-      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
-    },
-    {
-      "id": "374a58721742",
-      "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
-    },
-    {
-      "id": "bfcabb8834ba",
-      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego nesta semana; veja a lista",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-mais-de-20-vagas-de-emprego-nesta-semana-veja-a-lista-613690831",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira"
+      "resumo": "O empreendimento está instalado no complexo logístico Ellosul, às margens da BR-116"
     },
     {
       "id": "e38f66be6482",
@@ -154,14 +114,74 @@
       "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
     },
     {
-      "id": "e808e9cd1c8f",
-      "titulo": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/inauguracao-do-novo-centro-de-distribuicao-do-mercado-livre-marca-as-comemoracoes-de-100-anos-de-guaiba",
+      "id": "689591584b62",
+      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "O empreendimento está instalado no complexo logístico Ellosul, às margens da BR-116"
+      "resumo": "&#34;Guaíba Solar&#34; é composta e interpretada pelos músicos guaibenses Victoria e Rafael Sonic"
+    },
+    {
+      "id": "b1a499dec307",
+      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
+    },
+    {
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+    },
+    {
+      "id": "374a58721742",
+      "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
+      "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
+    },
+    {
+      "id": "bfcabb8834ba",
+      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego nesta semana; veja a lista",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-mais-de-20-vagas-de-emprego-nesta-semana-veja-a-lista-613690831",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira"
+    },
+    {
+      "id": "06a010c4f145",
+      "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tera-mudancas-nos-locais-de-votacao-no-segundo-turno-das-eleicoes-2026",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
+    },
+    {
+      "id": "62d9bdd73665",
+      "titulo": "Orla do Guaíba recebe aulas gratuitas de yoga e alongamento",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd3kzdWNHaXpza0Q3SlUzYXZnRnJicVpBVU4zSDczaTU2c3U4VklWdlhNNVppNnFOVXBpNUJEeGpoMnZhdHZxMHhRZEtFbzlVOXN1OTRVYjVwdGxaNEQtT3A2RjNqQV9ELXN3VDhTMTQwWkhoRklEMXVlOGxSZ2l6SWlBTXN1ZXBVUHA5dkhlOVVlU3UzTFkxV01jdFFUNnVZTFFqa1VhdHIway1MS3FaOTA3VmxZYjA0RU44?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-10-23T11:54:33+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Orla do Guaíba recebe aulas gratuitas de yoga e alongamento Correio do Povo"
     },
     {
       "id": "dade7dcbf10f",
@@ -284,16 +304,6 @@
       "resumo": "Polícia Civil realiza operação para combater fraudes em licitações em Guaíba Jornal O Sul"
     },
     {
-      "id": "1615cffe7b6d",
-      "titulo": "👔😂 Aula prática de nó de gravata na Record Guaíba!",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzNWa2JCdWNqZDZNWHdTZzgzLVpTNUgwak9kR2Jnb0xWeVdidnJxTFVNZm1FWEo3dXZOcWN3TWFmMkEtUnlDbTFSVGxZMmxncVh3U2lYbHAxeHdFSGM1NE9IQUxSNGRhelR3T0Vwakw2RVZGZGlEY2tzX01OMHAxazZBLU4wYTZrZ3ZTOFVxS0ROYjE0ZE5weG1tTndDdXc?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-10-22T12:32:32+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "👔😂 Aula prática de nó de gravata na Record Guaíba! R7"
-    },
-    {
       "id": "bb1ed5888841",
       "titulo": "Prefeitura de Guaíba é alvo de busca em operação policial",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMXB1VjdSSUhscktBVDdZZWdsYUFFN0NaYi0xUDcwQW1CRlIyclhlOFhxTVpIVEJibXBtSFlPazhsd21MREJaOTVxSnlxTE4tVFBtUnBzeU8talpuNDZITGZvSFctZWFma2drU3pXSnZiYVZEc0xlN3JoRGVHTllxV2RLSmc2d09kckxZVmtRWUJwUU5DOG15MFMtYmFyUE9SSWlsUE5XTUtlamp4a3RvTUstWklINzQwMkgtVnZKX3h1Nldh?oc=5",
@@ -362,78 +372,28 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Usina de asfalto de Guaíba retoma operações após seis meses Expansão"
-    },
-    {
-      "id": "98d6ee5a5799",
-      "titulo": "Caminhada do Amor reunirá milhares de apaixonados na Orla do Guaíba neste sábado",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWC1lcjZ1NHROV0dsZEY4Y3VLdUgzS25yY3ZlR0hUMXJvNkwwSlR3Z2FwQjQtazh1NkxadHBlN1BrVUJ2anZGUmhVUDdxN1pEY0hwZ0R2cnR1MzhaRWlOeXUyb2dKLXNFYzFBMjN2M0F6NlR5MWJLZU5YVHM1eURUZGp4WktZU2gzRXZWX1lvVjhBc2FUcmtEVmtEU094eC1ncVNLQWZqUDlXR21jVUNtWVJXTXdNUm5oRG5CcW4yOG1sMmwtVUxVVGhTSHZmNWo5WXRSMmhMWWhvOHZSN2c?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-10-21T10:04:15+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Caminhada do Amor reunirá milhares de apaixonados na Orla do Guaíba neste sábado Correio do Povo"
     }
   ],
   "noticias_home": [
     {
-      "id": "06a010c4f145",
-      "titulo": "Guaíba não terá mudanças nos locais de votação no segundo turno das Eleições 2026",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-nao-tera-mudancas-nos-locais-de-votacao-no-segundo-turno-das-eleicoes-2026",
+      "id": "32e02527b8e8",
+      "titulo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro",
+      "url": "https://www.reporterguaibense.com.br/noticia/hotel-ibis-deve-encerrar-atividades-em-guaiba-ate-dezembro",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "As alterações ocorreram em três municípios gaúchos: Manoel Viana, São Luiz Gonzaga e Uruguaiana"
+      "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
     },
     {
-      "id": "b1a499dec307",
-      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
+      "id": "e808e9cd1c8f",
+      "titulo": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/inauguracao-do-novo-centro-de-distribuicao-do-mercado-livre-marca-as-comemoracoes-de-100-anos-de-guaiba",
       "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
+      "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
-    },
-    {
-      "id": "91baa5def99d",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
-    },
-    {
-      "id": "8a25da5c0e79",
-      "titulo": "CMPC lança álbum de figurinhas que conta a história dos 100 anos de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/cmpc-lanca-album-de-figurinhas-que-conta-a-historia-dos-100-anos-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Projeto conta com 30 mil exemplares que serão destinados a estudantes de escolas da cidade, além de órgãos educacionais"
-    },
-    {
-      "id": "374a58721742",
-      "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
-    },
-    {
-      "id": "bfcabb8834ba",
-      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego nesta semana; veja a lista",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-mais-de-20-vagas-de-emprego-nesta-semana-veja-a-lista-613690831",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira"
+      "resumo": "O empreendimento está instalado no complexo logístico Ellosul, às margens da BR-116"
     },
     {
       "id": "e38f66be6482",
@@ -454,6 +414,46 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
+    },
+    {
+      "id": "689591584b62",
+      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
+      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "&#34;Guaíba Solar&#34; é composta e interpretada pelos músicos guaibenses Victoria e Rafael Sonic"
+    },
+    {
+      "id": "b1a499dec307",
+      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
+    },
+    {
+      "id": "91baa5def99d",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+    },
+    {
+      "id": "374a58721742",
+      "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
+      "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
     }
   ]
 }
