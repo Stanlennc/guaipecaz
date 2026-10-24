@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-24T08:39:25.496736+00:00",
+  "gerado_em": "2026-10-24T13:50:10.982399+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -124,6 +124,16 @@
       "resumo": "&#34;Guaíba Solar&#34; é composta e interpretada pelos músicos guaibenses Victoria e Rafael Sonic"
     },
     {
+      "id": "a39effb41aea",
+      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
+    },
+    {
       "id": "374a58721742",
       "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
       "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
@@ -134,34 +144,14 @@
       "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
     },
     {
-      "id": "b1a499dec307",
-      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
+      "id": "7cd8213d6f9d",
+      "titulo": "Bate-papo marca o lançamento do livro de poemas ‘Sem pé nem cabeça’ em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/bate-papo-marca-o-lancamento-do-livro-de-poemas-sem-pe-nem-cabeca-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
-    },
-    {
-      "id": "91baa5def99d",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
-    },
-    {
-      "id": "a39effb41aea",
-      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
+      "resumo": "Obra é dos autores Luís Augusto Lopes e Breno Serafini, e tem prefácio de Altair Martins"
     },
     {
       "id": "0e712728c4fe",
@@ -174,14 +164,14 @@
       "resumo": "Além das dez premiadas nas duas categorias, três fotos irão receber um certificado de menção honrosa"
     },
     {
-      "id": "7cd8213d6f9d",
-      "titulo": "Bate-papo marca o lançamento do livro de poemas ‘Sem pé nem cabeça’ em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/bate-papo-marca-o-lancamento-do-livro-de-poemas-sem-pe-nem-cabeca-em-guaiba",
+      "id": "bfcabb8834ba",
+      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego nesta semana; veja a lista",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-mais-de-20-vagas-de-emprego-nesta-semana-veja-a-lista-613690831",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Obra é dos autores Luís Augusto Lopes e Breno Serafini, e tem prefácio de Altair Martins"
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira"
     },
     {
       "id": "9a08f5207f8c",
@@ -250,7 +240,7 @@
       "fonte": "GZH",
       "publicado_em": "2026-10-22T23:55:47+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "gzh_metro",
       "resumo": "Prefeita de Guaíba anuncia exoneração de procurador-geral investigado pela Polícia Civil GZH"
     },
     {
@@ -372,6 +362,16 @@
       "categoria": null,
       "feed": "correio",
       "resumo": "Operação da Polícia Civil investiga suspeita de fraude em licitações na Prefeitura de Guaíba Correio do Povo"
+    },
+    {
+      "id": "093477ad53df",
+      "titulo": "Polícia Civil investiga suspeita de fraude em licitações em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLMVVYUEtDSkZpOE1SWHgxbVJFaDlxaW90YzUyUWdzSkRJX3hsYlk0bXlXMFNRSnI5YzV4dmZoTk9fRGllVXJwUDZmbHJPbGtlMENYZTBKSGF5OHhUbVN1MnhDdWE0X2NZY0pIZm1FbmlDdFN5d2J1Vjd2dVFLX0k?oc=5",
+      "fonte": "Rádio Acústica FM",
+      "publicado_em": "2026-10-22T11:08:29+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Polícia Civil investiga suspeita de fraude em licitações em Guaíba Rádio Acústica FM"
     }
   ],
   "noticias_home": [
@@ -426,6 +426,16 @@
       "resumo": "&#34;Guaíba Solar&#34; é composta e interpretada pelos músicos guaibenses Victoria e Rafael Sonic"
     },
     {
+      "id": "a39effb41aea",
+      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
+    },
+    {
       "id": "374a58721742",
       "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
       "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
@@ -436,24 +446,14 @@
       "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
     },
     {
-      "id": "b1a499dec307",
-      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
+      "id": "7cd8213d6f9d",
+      "titulo": "Bate-papo marca o lançamento do livro de poemas ‘Sem pé nem cabeça’ em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/bate-papo-marca-o-lancamento-do-livro-de-poemas-sem-pe-nem-cabeca-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
-    },
-    {
-      "id": "91baa5def99d",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-20-vagas-de-emprego-nesta-semana-com-oportunidades-exclusivas-para-pcd",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+      "resumo": "Obra é dos autores Luís Augusto Lopes e Breno Serafini, e tem prefácio de Altair Martins"
     }
   ]
 }
