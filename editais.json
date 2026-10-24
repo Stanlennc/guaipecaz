@@ -1,8 +1,26 @@
 {
-  "gerado_em": "2026-10-23T20:59:39.471607+00:00",
+  "gerado_em": "2026-10-24T03:19:33.265534+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
+    {
+      "id": "549fa78e43fe",
+      "titulo": "Com 161 fotografias, concurso “Olhares de Guaíba” divulga resultados no ano do Centenário",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLVRpN2lzcEw4OFZ5aEkzUVliRXJKYVg3MVBKeXlaeVZEbFM5WW5tQ19TM3h0dGJNeV9kSUs0RHdsX0xqZDFPQmNMMDhXMkVDM3FyLUdGcUE0VmJIbGsxWU9EaUpyOEprNGFQM0NaWDE4UVdoNGVKSnltX1pOaG00TldQbDlscDVWRHh1THJhUFFOd095NVo0cnRlV1VJaWZtZ04zNGxkd2lCeWFCX25md1ExNmN4VzBCQmgxZVBMSmJMSi1uRzg0NzczYw?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "concurso",
+      "publicado_em": "2026-10-23T20:49:00+00:00",
+      "feed": "concurso"
+    },
+    {
+      "id": "40c404f55ef9",
+      "titulo": "Prefeita de Guaíba exonera procurador-geral após operação da Polícia Civil que investiga fraudes em licitações",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnBKZ283R1FleUJkcTMzWFVVYnNlb0RFek1acDFteFJnY0lGaTN1d0NjcG1PaV93MmVJcnpDSmhvUlRkdzJxZDVfdnN5eVFGMXF1WmNEakxqX3dEaWpmZHZlQk9kZFNCNUgyUWxtMUp4bzdBcTJhVHJFbWZDWWVqNm05a0RaczBEOEUyRlJFR3NLVEZFUE9FUHpxQVJyMEhtN3VXZFdlOUdpVkNmUzM2WA?oc=5",
+      "fonte": "Clic Camaquã",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-23T11:59:16+00:00",
+      "feed": "licitacao"
+    },
     {
       "id": "92a4fb9ffa76",
       "titulo": "Operação Pseudographos investiga suspeita de fraude em licitações em Guaíba e uma pessoa é presa",
@@ -40,6 +58,24 @@
       "feed": "licitacao"
     },
     {
+      "id": "757f79c44878",
+      "titulo": "Polícia prende suspeito e apreende armas em operação que investiga fraude em licitações de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa2M2MTQ3VzZhVkVUel96ZDJlOGh3Q2hqOURHbWlPSjltMXRtcXNyWG5ORDNWajVBZmpPWGRvREY1R1pyWERYTzlnNzE3U2d0VFZtcmlCVFpMZ1dyVHBBbi1CS0FGRjNaSjk1THQ3YkdCOFVuUERUbHZwWWVKdkxRd2ZLbHJISDBmZlhOLTdMXzVoN3JwSUU5Y2ZHWFIwU19yQmcwMW1KZjhnbTNUSWppOFNxUjcxNzlTZnNNZTNVZW9teFJaSjY5RXN6YWRVSGpvaUE?oc=5",
+      "fonte": "Timoneiro",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T13:38:05+00:00",
+      "feed": "licitacao"
+    },
+    {
+      "id": "f648b40e38f1",
+      "titulo": "Polícia Civil deflagra operação para investigar fraude em licitações em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUdRX2oycVlsTEw2b0hMWW1RcmliQjhiWWg2N0Q0bjRZZUhsc2owdUtHdkZjM1c5dXJoeFFSWm1mNERhdmpnSUhORVJrT3VlNXNmbnM1UUUtQk9QNGxIZEdwd3FqTHBWOWJ4UXF0SHlGampnaFdndGlDVi1adjRBcVpXZzU0UmRMOUwwdUtRekVJbUpCaUxwVVZiV0tLUGF4Ql81ai1ULWRfR3lwWjZib3p5Wmd4WGlnSkp0azBzNFlpTVNSZmhMYzNR0gHKAUFVX3lxTE5VR1FfajJxWWxMTDZvSExZbVFyaWJCOGJZaDY3RDRuNFllSGxzajB1S0d2RmMzVzl1cmh4UVJabWY0RGF2amdJSE5FUmtPdWU1c2ZuczVRRS1CT1A0bEhkR3B3cWpMcFY5YnhRcXRIeUZqamdoV2d0aUNWLVp2NEFxWldnNTRSZEw5TDB1S1F6RUltSkJpTHBVVmJXS0tQYXhCXzVqLVQtZF9HeXBaNmJvenlaZ3hYaWdKSnRrMHM0WWlNU1JmaExjM1E?oc=5",
+      "fonte": "Blog do Juares",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T13:07:00+00:00",
+      "feed": "licitacao"
+    },
+    {
       "id": "22595aedd134",
       "titulo": "Operação da Polícia Civil mira fraudes em licitações e pagamentos irregulares na prefeitura de Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX1B1NDNzTU5mOFgxNFExeFhoWmRCTDBLdGYyRkxycEhfTDBwUFFCSU1XQW9iRVZ4X0I0SFRuN3NYakxvM2o1cnF3SDVILU82Rkw5Wi12WE05TTVubVpzLWFQVjRtRmhqWEdLNjdfN3lRS0p1eF9OY0Q0RFV6ZmZwS1NGNElZSGpSdlY4RFYxTGFMU2tYaG4zUEt3REsyNTNyQ09sSUhHaHllQUFuRkxQWkdVcC01dktOejVNUzBmY0stc2RYYXdhYmtJLW5qWjhwWm5wLU9qNVNabDRh?oc=5",
@@ -74,42 +110,6 @@
       "tipo": "licitacao",
       "publicado_em": "2026-10-22T11:41:41+00:00",
       "feed": "licitacao"
-    },
-    {
-      "id": "27caf5c2b51a",
-      "titulo": "Polícia Civil realiza operação na Prefeitura de Guaíba por suspeita de fraude em licitações",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSmRrQkZvcjZMWlBxRG0tcV9KWXpiMU51TmJyOWNidHpERF8wVEduaHVXMjd3dDUxeGxGdEtNNGxsWGVnLUVEUHE0ODU0MmM5UG42dE5hZnFxaEJYUVFYRVgzQUNBbHhJdFJzZnB6MWJWN0Rhdmp2b09zREd1V1hVOWRSb05Gdm5qejNKV3E4aG12b2V2d1NaVjF4NmN2WVd1MGlaeFBOZzZDa0d2VDg0OUY3bGhEd045dlk3ZGhXaldZX0gxX2NGaGhoNm5WOGRT?oc=5",
-      "fonte": "Porto Alegre 24 Horas",
-      "tipo": "licitacao",
-      "publicado_em": "2026-10-22T11:13:07+00:00",
-      "feed": "licitacao"
-    },
-    {
-      "id": "093477ad53df",
-      "titulo": "Polícia Civil investiga suspeita de fraude em licitações em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLMVVYUEtDSkZpOE1SWHgxbVJFaDlxaW90YzUyUWdzSkRJX3hsYlk0bXlXMFNRSnI5YzV4dmZoTk9fRGllVXJwUDZmbHJPbGtlMENYZTBKSGF5OHhUbVN1MnhDdWE0X2NZY0pIZm1FbmlDdFN5d2J1Vjd2dVFLX0k?oc=5",
-      "fonte": "Rádio Acústica FM",
-      "tipo": "licitacao",
-      "publicado_em": "2026-10-22T11:08:29+00:00",
-      "feed": "licitacao"
-    },
-    {
-      "id": "055c280753b7",
-      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego nesta semana; veja a lista",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbUhfcVhXdXNmbjdkNGtXTDY0YVpQZ3BNWmRmZEFPNUFQVVpZRXJwX3FXSnIyVzBHbEFMV0I4MXZmaTBDMHdwQTRWRjU1ZW51ZXVwYmw5encteTFzbnNpdGZIZFlkWE9NOGQyaFFmWlJSMTVIWnM2Sk5CZ2N0VjVvU0RNa1VOWVY5Y2VabkRJWHFzX0ZXeHM0a3N2NjZXOU1nYm9VMmVrcE1YTW1GUndXQTdTSmZLaXg4dkE3NllxVW44RzlZU0lF?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-10-21T17:58:00+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "4561765be66c",
-      "titulo": "Mercado Livre inaugura centro de distribuição em Guaíba com previsão de 700 empregos diretos",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTEFBMkhhcmRtbVNwckdqUEJvSjBzUzQ4enNoeV9BaWEtZG0tU3ZsekZDWHRnUk5tSWNaa0ctX2VfaEZvc2ViQUNXUVByN3hkclBUTkRtWVpDUFVVbVlwUUEzM2ZBZ2xSeEo3czhZeU5pNWtNY0hpY0xmajBTR0dLVW5XQVE0RWhldnA5NnVWTllnRk9xTVF4WmQxamZpWURheUtJMWZVZjIzSmRSSFVVdU1mc2s4M2kteUZjU1M5LWF5LWhwM2xDcEtQeGktRlZ3aGRHSFlmZnd4Zkk?oc=5",
-      "fonte": "Jornal Tradição Regional",
-      "tipo": "vaga",
-      "publicado_em": "2026-10-15T10:32:29+00:00",
-      "feed": "vagas"
     }
   ]
 }
