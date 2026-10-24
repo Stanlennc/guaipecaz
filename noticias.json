@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-24T13:50:10.982399+00:00",
+  "gerado_em": "2026-10-24T17:12:50.004037+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -134,16 +134,6 @@
       "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
     },
     {
-      "id": "374a58721742",
-      "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
-    },
-    {
       "id": "7cd8213d6f9d",
       "titulo": "Bate-papo marca o lançamento do livro de poemas ‘Sem pé nem cabeça’ em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/bate-papo-marca-o-lancamento-do-livro-de-poemas-sem-pe-nem-cabeca-em-guaiba",
@@ -152,6 +142,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Obra é dos autores Luís Augusto Lopes e Breno Serafini, e tem prefácio de Altair Martins"
+    },
+    {
+      "id": "374a58721742",
+      "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
+      "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
     },
     {
       "id": "0e712728c4fe",
@@ -172,6 +172,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira"
+    },
+    {
+      "id": "e1298eb7db02",
+      "titulo": "Caminhada do Amor reúne casais na Orla do Guaíba para valorizar o diálogo nos relacionamentos",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdTNFYmlNMUUtWGR5U2JLR2JhR1haQlRWcVF1elhUMDd4Mi16VjdpU29SOV9WVlBYQ0JaUFV4MXRLT3VkNnNwb3lJZHUwbG1teFdmM0hlYlFjVWZhSXNubU51Y1RjWGdtSzhqY19VeU1CR3QzT3VDcWxYdjd6eENHZjFvOUdJbXdqMDFfWGoySjJ5b2o3bjd4bVlHMU5nam1WejZJN2J1R2xYQlFlQ2ZRMTA1YWF3ekJpMzRhMDJmZTM0TlI0aGp3Z1NJZ0t2Zm5feWhGdHVxMjM1R19GaWNmcElyTlFLY3NiZWxWQVlHWQ?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-10-24T15:11:15+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Caminhada do Amor reúne casais na Orla do Guaíba para valorizar o diálogo nos relacionamentos Correio do Povo"
+    },
+    {
+      "id": "2fcea4083b4f",
+      "titulo": "Busca por tag lago-guaiba",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52TFYxTjhwZ09IUHFiM3YyQjB3cjNGTHZkR0tFUXJwOTBwVnhSVWd2Sml5UzZYeVdWY3hMUFhod2VhM1Y4QjZmWUZFM2VvekQ3ek00QU1jM1JmNGVVWUV2bUpubF9aSEpwWUMyWGJ3?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-24T06:48:59+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Busca por tag lago-guaiba Repórter Guaibense"
     },
     {
       "id": "9a08f5207f8c",
@@ -240,7 +260,7 @@
       "fonte": "GZH",
       "publicado_em": "2026-10-22T23:55:47+00:00",
       "categoria": null,
-      "feed": "gzh_metro",
+      "feed": "recentes",
       "resumo": "Prefeita de Guaíba anuncia exoneração de procurador-geral investigado pela Polícia Civil GZH"
     },
     {
@@ -252,16 +272,6 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Polícia faz buscas na Prefeitura de Guaíba; empresa teria usado certificados falsos O Republicano"
-    },
-    {
-      "id": "cf6ca82d8b82",
-      "titulo": "Estátua de João Goulart é pichada na Orla do Guaíba, em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmhSbi1vMTFicWEzU194WG9SRzBnSTU4NWZJSXRoQV9PWVc1ZVZOeFhUTXdCWmFYQ2xVYmhVRG4wZkxnMWZhOHJqMVZXd0xLcEs4NGtnNWg0QklXazlaZnJldlpNelVybEhzSGtnNlBoWHotLTRVaFdPeEt5T0s2Y2JPMFVCalpJNmt3NlJOLXpNUzd0cEFvV0Vn?oc=5",
-      "fonte": "Rádio Acústica FM",
-      "publicado_em": "2026-10-22T19:25:20+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Estátua de João Goulart é pichada na Orla do Guaíba, em Porto Alegre Rádio Acústica FM"
     },
     {
       "id": "837ba56cd35e",
@@ -362,16 +372,6 @@
       "categoria": null,
       "feed": "correio",
       "resumo": "Operação da Polícia Civil investiga suspeita de fraude em licitações na Prefeitura de Guaíba Correio do Povo"
-    },
-    {
-      "id": "093477ad53df",
-      "titulo": "Polícia Civil investiga suspeita de fraude em licitações em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLMVVYUEtDSkZpOE1SWHgxbVJFaDlxaW90YzUyUWdzSkRJX3hsYlk0bXlXMFNRSnI5YzV4dmZoTk9fRGllVXJwUDZmbHJPbGtlMENYZTBKSGF5OHhUbVN1MnhDdWE0X2NZY0pIZm1FbmlDdFN5d2J1Vjd2dVFLX0k?oc=5",
-      "fonte": "Rádio Acústica FM",
-      "publicado_em": "2026-10-22T11:08:29+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Polícia Civil investiga suspeita de fraude em licitações em Guaíba Rádio Acústica FM"
     }
   ],
   "noticias_home": [
@@ -436,16 +436,6 @@
       "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
     },
     {
-      "id": "374a58721742",
-      "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
-    },
-    {
       "id": "7cd8213d6f9d",
       "titulo": "Bate-papo marca o lançamento do livro de poemas ‘Sem pé nem cabeça’ em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/bate-papo-marca-o-lancamento-do-livro-de-poemas-sem-pe-nem-cabeca-em-guaiba",
@@ -454,6 +444,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Obra é dos autores Luís Augusto Lopes e Breno Serafini, e tem prefácio de Altair Martins"
+    },
+    {
+      "id": "374a58721742",
+      "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
+      "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
     }
   ]
 }
