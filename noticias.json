@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-25T18:43:55.973381+00:00",
+  "gerado_em": "2026-10-25T22:17:57.446997+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -263,16 +263,6 @@
       "resumo": "Alvo da Operação Pseudographos, gestão do ex-prefeito de Guaíba repassou mais de R$ 19,3 milhões à empresa investigada por fraude Jornal O Sul"
     },
     {
-      "id": "08d109854548",
-      "titulo": "Guaíba tem faixa de proteção de 10 a 30 metros como lago no RS",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOGZxYUNhUkwzMXBsWmplanhBV293aHpyNWJKeGo4V1hHWlZxdnFiejlTWkUtam5Mb3E0ckgwMEZabWpuY0hXeFVvSjFrNndBSlo4R3FkYWw4UW9PT0RPblI0ZTZpWVcya3dubkJ3YzlWYUstYUNVT1ZpS1Z6NTVzR3JUdDhwcVZVU2dVVzJ4bFZ6SDVsNXNrdF9rajkzM2stZGZZ?oc=5",
-      "fonte": "Mix Vale",
-      "publicado_em": "2026-10-23T17:21:59+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Guaíba tem faixa de proteção de 10 a 30 metros como lago no RS Mix Vale"
-    },
-    {
       "id": "f22b60fef20a",
       "titulo": "Operação Papai Noel da Brigada Militar pretende intensificar segurança em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZUWpmOW5OdVFfZW9fUmNQQXdKb1Q3c245RXFwVGxjVkREeWlJNl9tbkl6eUNsbFlwY0g0eUw3T2FjUnQzMHgxdWJWOHhSMHd3Rlk2dWtBWmtGRW9VaFZ4YXE3YjBnN0ItZ1lRYw?oc=5",
@@ -371,6 +361,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Guaíba anuncia novo canal voltado à cobertura política Coletiva.net"
+    },
+    {
+      "id": "ebc8bde699c4",
+      "titulo": "Com receitas autorais, pizzaria em Guaíba atrai visitantes do RS e do Uruguai",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaTBrQzhQZVpJaEtXT1Q0RTRRODBJT2YtS3IxbjFwYWNXYnhDMDRfQmJjdG1ySmUzNFQ2ZFZSWDFGcXRfZExsUGE4S2J6VEt1emh3bHlyRzd2MXRsdDBxYXlETEZJUEdIWFRPVWpQZTgwdFFMTGhaZG9Ia3MtNUE0ZTRDbEtUQWNwRXJ0OS00UVNDWGE0Q3A1S2ZRTnNMNFU1bGZpNUxXdThvTHBGRlJLQ2FfcWl2ZzVEOGRrc0I1d3Z3MDJkWU5qeXA3Njd6SEdVRnZzQnQyZmw0QVU?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-10-22T14:32:50+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Com receitas autorais, pizzaria em Guaíba atrai visitantes do RS e do Uruguai Jornal do Comércio"
     }
   ],
   "noticias_home": [
