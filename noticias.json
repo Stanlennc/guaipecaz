@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-25T00:00:03.935700+00:00",
+  "gerado_em": "2026-10-25T04:27:33.342383+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -114,16 +114,6 @@
       "resumo": "&#34;Guaíba Solar&#34; é composta e interpretada pelos músicos guaibenses Victoria e Rafael Sonic"
     },
     {
-      "id": "a39effb41aea",
-      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
-    },
-    {
       "id": "7cd8213d6f9d",
       "titulo": "Bate-papo marca o lançamento do livro de poemas ‘Sem pé nem cabeça’ em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/bate-papo-marca-o-lancamento-do-livro-de-poemas-sem-pe-nem-cabeca-em-guaiba",
@@ -132,6 +122,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Obra é dos autores Luís Augusto Lopes e Breno Serafini, e tem prefácio de Altair Martins"
+    },
+    {
+      "id": "a39effb41aea",
+      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
     },
     {
       "id": "374a58721742",
@@ -182,6 +182,15 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Operação Pseudographos: IGP confirma certificados falsos em licitações de Guaíba BossaNews Brasil"
+    },
+    {
+      "id": "98d83f6740a0",
+      "titulo": "Romaria reúne fiéis em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZG9PbEFqODdYelE1Mm1pNFNscDlURDVGRjFYb0NDMXR1RGhjSE9HWXg2TzZTYmduX19Yc1JjS1NJSnk4Tmc3ZkJha0pyb3IwN2lyZjcwcUE2TzZJcVhOX3dFRWt5ZUhPOVgyVHhfQmsyWHE0Y3IzelRTVElqRnJnU0tEOWkxdGJIX05WUzMxZTBFNkpoUEVkcVliMkgtS2pHZVJIOHBvMC1yRERJa0ZkZTFqOHAybmtVUlp4bzV1Rl9FeHJ3UmfSAcYBQVVfeXFMT2RvT2xBajg3WHpRNTJtaTRTbHA5VEQ1RkYxWG9DQzF0dURoY0hPR1l4Nk82U2Jnbl9fWHNSY0tTSUp5OE5nN2ZCYWtKcm9yMDdpcmY3MHFBNk82SXFYTl93RUVreWVITzlYMlR4X0JrMlhxNGNyM3pUU1RJakZyZ1NLRDlpMXRiSF9OVlMzMWUwRTZKaFBFZHFZYjJILUtqR2VSSDhwbzAtckRESWtGZGUxajhwMm5rVVJaeG81dUZfRXhyd1Jn?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-24T18:01:58+00:00",
+      "categoria": null,
+      "feed": "recentes"
     },
     {
       "id": "f800d04d1d56",
@@ -252,16 +261,6 @@
       "categoria": null,
       "feed": "reporter",
       "resumo": "Operação Papai Noel da Brigada Militar pretende intensificar segurança em Guaíba Repórter Guaibense"
-    },
-    {
-      "id": "643e046ad000",
-      "titulo": "TRECHO 3 DA ORLA DO GUAÍBA COMPLETA CINCO ANOS COMO REFERÊNCIA DE ESPORTE E LAZER EM PORTO ALEGRE",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUjF2eVloOEhxZ3h4NGQ4YXA4V0U5RjZTaWJ5TXEwdThLQmZRc21MZVliVC1lSEVhcFRJb3BWUDFtNHV1emZFMGdxTC1HUTRlNFIxRVhvbjMxOTg1N1VBZ0dzcmVQR05DTUdlQXJWMENmeDRIdmJubzlBMlFQSTJHWlFrRmx3bXNjV1ZBRF8yYmJCZ2JaSlpKdXFiTkFDREsyS1p5TWI5VHp6SWp0RHpzbF9fVW5KM3EybVVPdHN5SW5LVkZhNnVDV2d1VXViUWd4clUwRmNCbkRUMWQ3WE5j?oc=5",
-      "fonte": "radiocaicara.com.br",
-      "publicado_em": "2026-10-23T15:40:08+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "TRECHO 3 DA ORLA DO GUAÍBA COMPLETA CINCO ANOS COMO REFERÊNCIA DE ESPORTE E LAZER EM PORTO ALEGRE radiocaicara.com.br"
     },
     {
       "id": "62d9bdd73665",
@@ -416,16 +415,6 @@
       "resumo": "&#34;Guaíba Solar&#34; é composta e interpretada pelos músicos guaibenses Victoria e Rafael Sonic"
     },
     {
-      "id": "a39effb41aea",
-      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
-    },
-    {
       "id": "7cd8213d6f9d",
       "titulo": "Bate-papo marca o lançamento do livro de poemas ‘Sem pé nem cabeça’ em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/bate-papo-marca-o-lancamento-do-livro-de-poemas-sem-pe-nem-cabeca-em-guaiba",
@@ -434,6 +423,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Obra é dos autores Luís Augusto Lopes e Breno Serafini, e tem prefácio de Altair Martins"
+    },
+    {
+      "id": "a39effb41aea",
+      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
     },
     {
       "id": "374a58721742",
