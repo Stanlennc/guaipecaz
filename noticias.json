@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-24T20:15:19.906873+00:00",
+  "gerado_em": "2026-10-25T00:00:03.935700+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -104,16 +104,6 @@
       "resumo": "Aproximadamente 25 policiais civis cumpriram sete mandados de busca e apreensão, nesta quinta-feira (22)"
     },
     {
-      "id": "760ca1b91f96",
-      "titulo": "Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-os-10-candidatos-a-deputado-federal-e-os-10-a-deputado-estadual-mais-votados-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
-    },
-    {
       "id": "689591584b62",
       "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
       "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
@@ -152,6 +142,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
+    },
+    {
+      "id": "b1a499dec307",
+      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
     },
     {
       "id": "0e712728c4fe",
@@ -406,16 +406,6 @@
       "resumo": "Aproximadamente 25 policiais civis cumpriram sete mandados de busca e apreensão, nesta quinta-feira (22)"
     },
     {
-      "id": "760ca1b91f96",
-      "titulo": "Veja os 10 candidatos a deputado federal e os 10 a deputado estadual mais votados em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/veja-os-10-candidatos-a-deputado-federal-e-os-10-a-deputado-estadual-mais-votados-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Gabi Panazollo e Deisi Maranata lideram a votação na cidade"
-    },
-    {
       "id": "689591584b62",
       "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
       "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
@@ -454,6 +444,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
+    },
+    {
+      "id": "b1a499dec307",
+      "titulo": "Paula Parolli anuncia saída da Secretaria de Meio Ambiente e Urbanismo de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/paula-parolli-anuncia-saida-da-secretaria-de-meio-ambiente-e-urbanismo-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Ela revela ter recebido convites para liderar projetos estratégicos para o desenvolvimento da região"
     }
   ]
 }
