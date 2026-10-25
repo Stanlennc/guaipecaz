@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-25T04:27:33.342383+00:00",
+  "gerado_em": "2026-10-25T10:45:18.998079+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -293,6 +293,16 @@
       "resumo": "Prefeita de Guaíba anuncia exoneração de procurador-geral investigado pela Polícia Civil GZH"
     },
     {
+      "id": "cf6ca82d8b82",
+      "titulo": "Estátua de João Goulart é pichada na Orla do Guaíba, em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObmhSbi1vMTFicWEzU194WG9SRzBnSTU4NWZJSXRoQV9PWVc1ZVZOeFhUTXdCWmFYQ2xVYmhVRG4wZkxnMWZhOHJqMVZXd0xLcEs4NGtnNWg0QklXazlaZnJldlpNelVybEhzSGtnNlBoWHotLTRVaFdPeEt5T0s2Y2JPMFVCalpJNmt3NlJOLXpNUzd0cEFvV0Vn?oc=5",
+      "fonte": "Rádio Acústica FM",
+      "publicado_em": "2026-10-22T19:25:20+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Estátua de João Goulart é pichada na Orla do Guaíba, em Porto Alegre Rádio Acústica FM"
+    },
+    {
       "id": "837ba56cd35e",
       "titulo": "Antecipada fase final das obras de esgotamento sanitário no bairro Passo Fundo em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXRDRG5ha25WVVB3ZjVBa1ZrMEhCc1FjX0g0VmhHZ0VzT0dyU29OdHZDNkdIR1dCNUN0NlFqeWV3bHJIR2YxTzl2TXN0UXRtTDRobS1tQ0hDNU0ySk1QTW54ZHhKTkttSnhjTlhJTGdWY09DMzBjTlRKWERtYmQ2NTF4VF94ZkJyTDRnY1VUVHlhYXJBTmZZLTNyMHV2OHh0djgwMlc3RjhsYjczclZUV0R1cGhUdw?oc=5",
@@ -361,16 +371,6 @@
       "categoria": null,
       "feed": "gzh_metro",
       "resumo": "Polícia Civil cumpre mandados na prefeitura de Guaíba por suspeita de fraude a licitação e pagamento irregular GZH"
-    },
-    {
-      "id": "2409cd9d13b0",
-      "titulo": "Polícia Civil realiza operação para combater fraudes em licitações em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDd4cDlmMDlUWGxHeVFEdVd6WkhuVGZHRngtZ2tUSXpaWEpmUG96U1N2RHA1Y2l2RVhmZXdDcmd1a1pFRU1WTjdNUG9Qdlo2ZDd3dm5ydldnd0NnaHZPaTE4eU5DWXBUeWF2NXNBemhJZm5GVmlfUmVGN1FrTnR1bGxfS1VmRUwwbklmRmlva3ZkdFpFajVfSVBnbnhKQXVrdlQw0gGoAUFVX3lxTE0zeTFIX2psb3lKXzA1RG1OLWVVaGpMYm04cEt3SGlneDJGY1pmVjdneUZkb0VyY0RaQUFMSkF4SDdhVkIzblAwY1dtdWRoLUk0YUlEenhyRjZWNGxLQkVTV0NTUlJ2VEFaOEo1QzN4d2ZEOFBLNjRIWUliODI1dm8zOWxMcjU5VVMtMGJfWW9lR2x0WVpvSmdIaF95SnJMQVVDcE16NEI3bQ?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-10-22T12:51:35+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Polícia Civil realiza operação para combater fraudes em licitações em Guaíba Jornal O Sul"
     }
   ],
   "noticias_home": [
