@@ -1,17 +1,8 @@
 {
-  "gerado_em": "2026-10-26T12:16:19.196753+00:00",
+  "gerado_em": "2026-10-26T22:17:49.867973+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
-    {
-      "id": "14c1c2c4076f",
-      "titulo": "Operação Pseudographos: IGP confirma certificados falsos em licitações de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaG9peXNkTjZHTUNFMDFvSkRESkRpcXgzR0Y0b0NJaUdDQzJXeTdmWWJsZmJjbFJENVRSZUREQ0JEWS15MGpXNEZvYWlvMGRjeEpPcVMyVDNSMDVVYjZLa1VNdTJRX0czeHlUQl9fTDFseEp0YkxCMHdrTVdVMUN4M0dTT0hLSUNUS0REWGRkdVNWeWZaTlBucGUxOE1EZnY3VzlfbnF6alE?oc=5",
-      "fonte": "BossaNews Brasil",
-      "tipo": "licitacao",
-      "publicado_em": "2026-10-24T18:10:55+00:00",
-      "feed": "licitacao"
-    },
     {
       "id": "f800d04d1d56",
       "titulo": "Operação Pseudographos: Fraude em licitações de Guaíba é descoberta após IGP identificar certificados falsos",
@@ -29,15 +20,6 @@
       "tipo": "concurso",
       "publicado_em": "2026-10-23T20:49:00+00:00",
       "feed": "concurso"
-    },
-    {
-      "id": "92a4fb9ffa76",
-      "titulo": "Operação Pseudographos investiga suspeita de fraude em licitações em Guaíba e uma pessoa é presa",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTEhpc1dHOEZYMGZ4cDNJUXZveGMxUnFmWnloUDVJcHluOGNTY0ZJejZJeG43aC1wRHNOcEQwNTFnZERqcE1CUGdTbzNJVlJBR0RTZThGYU1QUXB5bnM1X2V1ZVBzb0JvQTdqN1BJR1JTLWMxRHBENUsxS2N4cjNVZXdkTVZRZDVJRzVhQjRfOWdfTVFQOGd3dWhZbTZRYWd6R21KaW5ja2w4T3gyTjFyNGhhN3JFd0NYM1FId2piNHJTQ204dFJYbWRmQkxVVTRBLWtFcHVTd0Y3QVZEc1BEU1ZyNXFNZUU?oc=5",
-      "fonte": "Portal de Camaquã",
-      "tipo": "licitacao",
-      "publicado_em": "2026-10-22T23:24:38+00:00",
-      "feed": "licitacao"
     },
     {
       "id": "67a7956b77d4",
@@ -67,24 +49,6 @@
       "feed": "licitacao"
     },
     {
-      "id": "757f79c44878",
-      "titulo": "Polícia prende suspeito e apreende armas em operação que investiga fraude em licitações de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa2M2MTQ3VzZhVkVUel96ZDJlOGh3Q2hqOURHbWlPSjltMXRtcXNyWG5ORDNWajVBZmpPWGRvREY1R1pyWERYTzlnNzE3U2d0VFZtcmlCVFpMZ1dyVHBBbi1CS0FGRjNaSjk1THQ3YkdCOFVuUERUbHZwWWVKdkxRd2ZLbHJISDBmZlhOLTdMXzVoN3JwSUU5Y2ZHWFIwU19yQmcwMW1KZjhnbTNUSWppOFNxUjcxNzlTZnNNZTNVZW9teFJaSjY5RXN6YWRVSGpvaUE?oc=5",
-      "fonte": "Timoneiro",
-      "tipo": "licitacao",
-      "publicado_em": "2026-10-22T13:38:05+00:00",
-      "feed": "licitacao"
-    },
-    {
-      "id": "f648b40e38f1",
-      "titulo": "Polícia Civil deflagra operação para investigar fraude em licitações em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUdRX2oycVlsTEw2b0hMWW1RcmliQjhiWWg2N0Q0bjRZZUhsc2owdUtHdkZjM1c5dXJoeFFSWm1mNERhdmpnSUhORVJrT3VlNXNmbnM1UUUtQk9QNGxIZEdwd3FqTHBWOWJ4UXF0SHlGampnaFdndGlDVi1adjRBcVpXZzU0UmRMOUwwdUtRekVJbUpCaUxwVVZiV0tLUGF4Ql81ai1ULWRfR3lwWjZib3p5Wmd4WGlnSkp0azBzNFlpTVNSZmhMYzNR0gHKAUFVX3lxTE5VR1FfajJxWWxMTDZvSExZbVFyaWJCOGJZaDY3RDRuNFllSGxzajB1S0d2RmMzVzl1cmh4UVJabWY0RGF2amdJSE5FUmtPdWU1c2ZuczVRRS1CT1A0bEhkR3B3cWpMcFY5YnhRcXRIeUZqamdoV2d0aUNWLVp2NEFxWldnNTRSZEw5TDB1S1F6RUltSkJpTHBVVmJXS0tQYXhCXzVqLVQtZF9HeXBaNmJvenlaZ3hYaWdKSnRrMHM0WWlNU1JmaExjM1E?oc=5",
-      "fonte": "Blog do Juares",
-      "tipo": "licitacao",
-      "publicado_em": "2026-10-22T13:07:00+00:00",
-      "feed": "licitacao"
-    },
-    {
       "id": "33e209d5ad4d",
       "titulo": "Operação da Polícia Civil mira fraudes em licitações e pagamentos irregulares na prefeitura de Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNYUt5QkJzdVJhRFRreDhlZGlGOTVaMFVqN0xacFM4YjdKdFZkZ1BPNUthVy1FbW1HZ2I0TG41MERvb3QtNHh4TXBZdVFtMF9Mc1F3cUs3UDRHVkE0dFhUM3F4bHV1MG1Ick9jUlNmdnYwU2Jtclo3cW1VdWVadTVNVGFsVjliWEJTQ2tiMDVwY3BEdVpGZlByVEdCSFl2SkZXaHFNejZhUFBCMnpRdlBmN2ZkZjNDdHNkQ2EwRmF5Z25pSDYtV2tyTmZ2cUo1TG9fSFNoZWRWS3pjSXptb2hnS21lYlQxRnk5WWJ3SVZYSThQcWtlSVU4N0Y2Zk9sQ3NMQ2pzR3BFR1pPNWE3Qk5kRTE0OUFHTDk5dmhEWkFUcF9UZw?oc=5",
@@ -110,6 +74,42 @@
       "tipo": "licitacao",
       "publicado_em": "2026-10-22T11:44:18+00:00",
       "feed": "licitacao"
+    },
+    {
+      "id": "8967621533c0",
+      "titulo": "Polícia Civil realiza operação na Prefeitura de Guaíba e investiga suspeitas de fraude em licitações",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRqeGNLSEoyZTdpM1JrT3RDMEtLN0hCUnlhQ2p0SW8tMkhrcU1FUFZUcTRGSEhudHFpOHNLT2ZrdGc5dk9TQjhDOUlaY1RwalZsSE9jOE0tdV9iX0ppQW5mbGp1eGdYamNMUWh5S3JpbnozRTRFSW5mcjlUbE54Snh3QmNQd0hrb3B5VDBOaW9HdmlLdG4wZWlvNDlmenBX?oc=5",
+      "fonte": "Clic Camaquã",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T11:41:41+00:00",
+      "feed": "licitacao"
+    },
+    {
+      "id": "4561765be66c",
+      "titulo": "Mercado Livre inaugura centro de distribuição em Guaíba com previsão de 700 empregos diretos",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTEFBMkhhcmRtbVNwckdqUEJvSjBzUzQ4enNoeV9BaWEtZG0tU3ZsekZDWHRnUk5tSWNaa0ctX2VfaEZvc2ViQUNXUVByN3hkclBUTkRtWVpDUFVVbVlwUUEzM2ZBZ2xSeEo3czhZeU5pNWtNY0hpY0xmajBTR0dLVW5XQVE0RWhldnA5NnVWTllnRk9xTVF4WmQxamZpWURheUtJMWZVZjIzSmRSSFVVdU1mc2s4M2kteUZjU1M5LWF5LWhwM2xDcEtQeGktRlZ3aGRHSFlmZnd4Zkk?oc=5",
+      "fonte": "Jornal Tradição Regional",
+      "tipo": "vaga",
+      "publicado_em": "2026-10-15T10:32:29+00:00",
+      "feed": "vagas"
+    },
+    {
+      "id": "2aad55f17cc7",
+      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV01qdG5Mbm82WC1TSXBuTkNyb1dIdUFkclNBYjJSUFZHWWliVHFrMUxnY2RUMDNwWDFybHp2b3B3Z0FRTEVta21iTmJmVWhxd3cyOW1OU18zWTE5WGtHTFlEMkFDUU11MU92cVg3ODBLcllKQVlKQVp0bzEyanIyN2V6dG9ITFRhR0lOaDBXelM1cS1aeUFITzZJczRpdnlrTkZVUTV2U3JuMHN6RGF3c1dUOTBtX2JEUEJKajVQc0tDYUlta01IRGduWVNVLVpl?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "concurso",
+      "publicado_em": "2026-10-13T07:00:00+00:00",
+      "feed": "concurso"
+    },
+    {
+      "id": "504af30654cb",
+      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbTNydzgtcmhXSS1ZR1pQVDFpU0JhUE85b0NtLXBoNDJWOEJIZm1fbHQtdm5QRmNudEVBdWNsQ0Z0WF9CZU1Qc043RG1hdFJkWVFYLUM2T3pwckhOa0xzRjZhTDV5STdvMEx5cEJ3YWY0MFZrekVPUDhMMzM5U051UHc1bktPSzAtZ0padEVGWmRCMUtWTHZaRk0tZmUydTEtcDF1bHhka2lfTDRPU0RCZjBWOVoyeDFyUXp6WlVmZU85cC1Lekp5eU96UVlTcnhFNkU3bFpUbw?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "concurso",
+      "publicado_em": "2026-10-01T07:00:00+00:00",
+      "feed": "concurso"
     }
   ]
 }
