@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-25T20:23:01.274106+00:00",
+  "gerado_em": "2026-10-26T03:15:45.957225+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -29,15 +29,6 @@
       "tipo": "concurso",
       "publicado_em": "2026-10-23T20:49:00+00:00",
       "feed": "concurso"
-    },
-    {
-      "id": "40c404f55ef9",
-      "titulo": "Prefeita de Guaíba exonera procurador-geral após operação da Polícia Civil que investiga fraudes em licitações",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnBKZ283R1FleUJkcTMzWFVVYnNlb0RFek1acDFteFJnY0lGaTN1d0NjcG1PaV93MmVJcnpDSmhvUlRkdzJxZDVfdnN5eVFGMXF1WmNEakxqX3dEaWpmZHZlQk9kZFNCNUgyUWxtMUp4bzdBcTJhVHJFbWZDWWVqNm05a0RaczBEOEUyRlJFR3NLVEZFUE9FUHpxQVJyMEhtN3VXZFdlOUdpVkNmUzM2WA?oc=5",
-      "fonte": "Clic Camaquã",
-      "tipo": "licitacao",
-      "publicado_em": "2026-10-23T11:59:16+00:00",
-      "feed": "licitacao"
     },
     {
       "id": "92a4fb9ffa76",
@@ -94,12 +85,12 @@
       "feed": "licitacao"
     },
     {
-      "id": "22595aedd134",
+      "id": "33e209d5ad4d",
       "titulo": "Operação da Polícia Civil mira fraudes em licitações e pagamentos irregulares na prefeitura de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX1B1NDNzTU5mOFgxNFExeFhoWmRCTDBLdGYyRkxycEhfTDBwUFFCSU1XQW9iRVZ4X0I0SFRuN3NYakxvM2o1cnF3SDVILU82Rkw5Wi12WE05TTVubVpzLWFQVjRtRmhqWEdLNjdfN3lRS0p1eF9OY0Q0RFV6ZmZwS1NGNElZSGpSdlY4RFYxTGFMU2tYaG4zUEt3REsyNTNyQ09sSUhHaHllQUFuRkxQWkdVcC01dktOejVNUzBmY0stc2RYYXdhYmtJLW5qWjhwWm5wLU9qNVNabDRh?oc=5",
-      "fonte": "Porto Alegre 24 Horas",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNYUt5QkJzdVJhRFRreDhlZGlGOTVaMFVqN0xacFM4YjdKdFZkZ1BPNUthVy1FbW1HZ2I0TG41MERvb3QtNHh4TXBZdVFtMF9Mc1F3cUs3UDRHVkE0dFhUM3F4bHV1MG1Ick9jUlNmdnYwU2Jtclo3cW1VdWVadTVNVGFsVjliWEJTQ2tiMDVwY3BEdVpGZlByVEdCSFl2SkZXaHFNejZhUFBCMnpRdlBmN2ZkZjNDdHNkQ2EwRmF5Z25pSDYtV2tyTmZ2cUo1TG9fSFNoZWRWS3pjSXptb2hnS21lYlQxRnk5WWJ3SVZYSThQcWtlSVU4N0Y2Zk9sQ3NMQ2pzR3BFR1pPNWE3Qk5kRTE0OUFHTDk5dmhEWkFUcF9UZw?oc=5",
+      "fonte": "Terra",
       "tipo": "licitacao",
-      "publicado_em": "2026-10-22T12:57:00+00:00",
+      "publicado_em": "2026-10-22T12:58:00+00:00",
       "feed": "licitacao"
     },
     {
@@ -109,6 +100,15 @@
       "fonte": "Jornal O Sul",
       "tipo": "licitacao",
       "publicado_em": "2026-10-22T12:51:35+00:00",
+      "feed": "licitacao"
+    },
+    {
+      "id": "40529c93f744",
+      "titulo": "Operação da Polícia Civil investiga suspeita de fraude em licitações na Prefeitura de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQandfMmVlZ2pRcHBra3Zjb0pMaHNad0M1UklZaUMydUg3NzMzT25QQkhBZlNBVy1xSXo3Q3JDTnlNWGNpQ0RFTHJUdGRYS2FPLXRVQ0dPemZKZW1PZXNib0F6V01RZUdlSndGS2pMNTN4MmhkYlp3UUdRN1liYkhoLVdSTDU0V0RsLVZFQWNSMGdmT3hlQkJBcTBQZ3U2VlhLcDF0ak1SWnJEWlJBcnhROWl0Y09MLWd2dnZHVVllb0dUY0FIalRjLW95VjJMTmlvWHhJLVFHazFjbFY5VUNQcFRKWm9odkcxZ19QcHh1cjJ1ZGYt?oc=5",
+      "fonte": "Correio do Povo",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T11:44:18+00:00",
       "feed": "licitacao"
     }
   ]
