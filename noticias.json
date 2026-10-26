@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-25T22:17:57.446997+00:00",
+  "gerado_em": "2026-10-26T03:17:45.728980+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -184,6 +184,15 @@
       "resumo": "Guaíba (RS): siga resultado da apuração do 2º turno para presidente na cidade UOL Notícias"
     },
     {
+      "id": "78c853365835",
+      "titulo": "Rugby Sevens Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vb2kwZ19hd3JIM21yQWQxVnh6ZEZtTjdZdExJRkMyeUl4WTlsM0wxeDZ6R1JWRW9pZkxEM0pWeFotYzFQcFNLVEJiMndnR1haV1NhYjVZWlVjUWJpTVRSRFZ4V0VRR1FRMEZzeHZtaXI?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-24T23:48:08+00:00",
+      "categoria": null,
+      "feed": "reporter"
+    },
+    {
       "id": "14c1c2c4076f",
       "titulo": "Operação Pseudographos: IGP confirma certificados falsos em licitações de Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaG9peXNkTjZHTUNFMDFvSkRESkRpcXgzR0Y0b0NJaUdDQzJXeTdmWWJsZmJjbFJENVRSZUREQ0JEWS15MGpXNEZvYWlvMGRjeEpPcVMyVDNSMDVVYjZLa1VNdTJRX0czeHlUQl9fTDFseEp0YkxCMHdrTVdVMUN4M0dTT0hLSUNUS0REWGRkdVNWeWZaTlBucGUxOE1EZnY3VzlfbnF6alE?oc=5",
@@ -283,16 +292,6 @@
       "resumo": "TRECHO 3 DA ORLA DO GUAÍBA COMPLETA CINCO ANOS COMO REFERÊNCIA DE ESPORTE E LAZER EM PORTO ALEGRE radiocaicara.com.br"
     },
     {
-      "id": "62d9bdd73665",
-      "titulo": "Orla do Guaíba recebe aulas gratuitas de yoga e alongamento",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd3kzdWNHaXpza0Q3SlUzYXZnRnJicVpBVU4zSDczaTU2c3U4VklWdlhNNVppNnFOVXBpNUJEeGpoMnZhdHZxMHhRZEtFbzlVOXN1OTRVYjVwdGxaNEQtT3A2RjNqQV9ELXN3VDhTMTQwWkhoRklEMXVlOGxSZ2l6SWlBTXN1ZXBVUHA5dkhlOVVlU3UzTFkxV01jdFFUNnVZTFFqa1VhdHIway1MS3FaOTA3VmxZYjA0RU44?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-10-23T11:54:33+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Orla do Guaíba recebe aulas gratuitas de yoga e alongamento Correio do Povo"
-    },
-    {
       "id": "dade7dcbf10f",
       "titulo": "🔴 O projeto de Leonardo Aquino para um novo CT do Inter em Guaíba | Show dos Esportes",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcUtkWWtXbjhfOFQteXpKQUdRSFNXSy1ueUg0TG9BdkNZOWRnc1BINkMwdXlzelgtUEJmckpxdlJhV0M1V3BxNGhjTXNMX0EwdV9wSU5zS0RFMENFTmVPd1dVZ2FrYVdEVWpYVUNmSGlCd0JRY284NG5HUWZLdlF4OFlvdGdzVFJEbi1wdzJrcHVKWTRuNEp6Q193Yy1weGRMWk1SOGxqV2dxNE1qZkpHb1lCQXNCQy0tdDhkbmhXU2tETWlFNXY1bWJPczFUOUNLSTZHaWVQMEVJYUtXRHZNaWJfamw?oc=5",
@@ -309,7 +308,7 @@
       "fonte": "GZH",
       "publicado_em": "2026-10-22T23:55:47+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "gzh_metro",
       "resumo": "Prefeita de Guaíba anuncia exoneração de procurador-geral investigado pela Polícia Civil GZH"
     },
     {
