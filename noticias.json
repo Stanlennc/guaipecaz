@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-27T03:46:49.238610+00:00",
+  "gerado_em": "2026-10-27T09:36:41.723960+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -124,16 +124,6 @@
       "resumo": "&#34;Guaíba Solar&#34; é composta e interpretada pelos músicos guaibenses Victoria e Rafael Sonic"
     },
     {
-      "id": "a39effb41aea",
-      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
-    },
-    {
       "id": "0e712728c4fe",
       "titulo": "Com 161 fotografias, concurso “Olhares de Guaíba” divulga resultados no ano do Centenário",
       "url": "https://www.reporterguaibense.com.br/noticia/com-161-fotografias-concurso-olhares-de-guaiba-divulga-resultados-no-ano-do-centenario",
@@ -142,6 +132,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Além das dez premiadas nas duas categorias, três fotos irão receber um certificado de menção honrosa"
+    },
+    {
+      "id": "a39effb41aea",
+      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
     },
     {
       "id": "374a58721742",
@@ -174,14 +174,14 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira"
     },
     {
-      "id": "c78536d047cb",
-      "titulo": "Prefeitura de Guaíba presta esclarecimentos sobre suspeita fraude em licitações",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMW15VkxQT3FFNHdnemtjdFdhQTdDMEFpYzZHUTV5aUZVNXlrNHdVUnlsZ0I5YlFCazNtcEFNSFhoZjd4azFiRDVPWWI3SWxIMW5sNWZKRmpCU25DaVFmSzNrVkNCeFNzSUUycll2aC1oVEcwaTRuUTlqODNXS3N3Uzd6Nk5mRTA5VVJVeS1zNkc0WTdxTmxkVjUwWHRpZmhNZkZMUkFzOUM1Z0tZbDRITmpDeVo5VlFjQlZZTzJlUG91VFFvaGt6WDhjaWozRmJYMzE5SHBweXlsdFFWRUFTYWREbw?oc=5",
+      "id": "1d8c9bd9184e",
+      "titulo": "Prefeitura de Guaíba presta esclarecimentos sobre suspeita de fraude em licitações",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ09WZWxsMGZEMS02dHlZbkpWSVBDVW4zUVNsZ0JmSXFLcFd5VkJrMml0WUVtOTg2RTFtR3FCSTNTRnQxYWkzVV9nYkU4eExZRzFnSElkRGVSdDRPU1hMTGpsSElBSG5mb3ZMdEp0SE43YzdQVTFzaDR1OW42VF93RmZUYVExb3g1bVF1bjA1M3BlSkpxR2xINXltaGlNMHFYZEh5S2g4d29wOXRxcjNWSVdPcXZybk5PZXJnVmx5RF85MWlDaVE0ZHEtN0sxdmRqYmtMVWtIdWtIWERhN0VfbHdUcDZWOTg?oc=5",
       "fonte": "Correio do Povo",
-      "publicado_em": "2026-10-27T01:43:24+00:00",
+      "publicado_em": "2026-10-27T02:49:27+00:00",
       "categoria": null,
       "feed": "correio",
-      "resumo": "Prefeitura de Guaíba presta esclarecimentos sobre suspeita fraude em licitações Correio do Povo"
+      "resumo": "Prefeitura de Guaíba presta esclarecimentos sobre suspeita de fraude em licitações Correio do Povo"
     },
     {
       "id": "1ccb0f06d4c3",
@@ -264,6 +264,16 @@
       "resumo": "E.E.E.M. Otero Paiva Guimaraes, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
+      "id": "be837856607a",
+      "titulo": "Salao Paroquial Petim, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOOTN3SGJwNWIzeHJ1WjFybDdHWm9mMnpBRDMtMTRHb1lkMEdPY2lKOHNLYnVERlBralRSWkdOU2lFVXVkTHlFV0E0czdrWVBENGMyMk1QSnhhTkN5MTg0dy11NFVlUTFudnJQSDJpWVhBOFJDTmJWcFZzYVhZNHpfZWJLLUhkcC03R0EwelUxV0RhdjRfMzV6cHJaXzJEalVRQUxIZFNtbFJzaFpyMHJfNVdvcWVYV2t3UmM1OEVQTXRqdmZ4XzFDME53VGZNd1g2VFFkcjRocmg5SGZQZXQ4NjZTS1hGN0hIc25EZTBtYWsxVDg3YmdxSWNpQzhxMW55eThyUVZKQ1R6QdIBigJBVV95cUxOOTN3SGJwNWIzeHJ1WjFybDdHWm9mMnpBRDMtMTRHb1lkMEdPY2lKOHNLYnVERlBralRSWkdOU2lFVXVkTHlFV0E0czdrWVBENGMyMk1QSnhhTkN5MTg0dy11NFVlUTFudnJQSDJpWVhBOFJDTmJWcFZzYVhZNHpfZWJLLUhkcC03R0EwelUxV0RhdjRfMzV6cHJaXzJEalVRQUxIZFNtbFJzaFpyMHJfNVdvcWVYV2t3UmM1OEVQTXRqdmZ4XzFDME53VGZNd1g2VFFkcjRocmg5SGZQZXQ4NjZTS1hGN0hIc25EZTBtYWsxVDg3YmdxSWNpQzhxMW55eThyUVZKQ1R6QQ?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T05:45:16+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Salao Paroquial Petim, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+    },
+    {
       "id": "792831c8f5be",
       "titulo": "E.M.E.F. Darcy Berbigier, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVnJabEVMeHZxWEE2T25ndURHSzBJb2J6WWpLc3lCUkNDSmRyTVNDS255RHVFcHpKcVAtWGZPcTBRdnRsRHRqSDFScDRfeG1DZDE5OHRRVHVDdXJtRHJwUlpuWHVrVVc0bkFkLVM2b0dJb0ItOEJ4MVg0V1B6OEdJbEdYN1p5X1NBdC0teXlFOHFzMWtsTVlBc2RBU1otcHk3QzlmYnNGTVBiT1NVN2w0QnR2eGtQZnVvdFFNTWYtQXZ2SHJHTGExcDdRUUxJaWtjcGdmQ2RwQl9YNzNqTXF5QUpuLWVSTnB6QlRJN2Vwd1pDNzIzQ05fcDl3REhfd9IBjAJBVV95cUxOWUVKdUplbVZzU0ItbU83S3hHQktKU183dlhJcnAxZlpsb2V3ZzBtUDcwRkx1WnFVZ3YzcG9peGlwYW5zYmJ4elhkOGhhc0R4UUsxb2dvMDRPRkRPLXI3NUdCZ1M5eXdIc2tGdkNWeUUwUU05YlAxMXB2QzZKWGZYd0FnRkcxX3FGYnBFNV9fb2xMdFVyOEdUUk1oMl9TYU8wcW11Q3l3Q1RRRm1RX05uTkpjRDltdno5MGppblp1V1R4M2hLV1dwS3N4M0lpeWNkNWQ2aTZ1T042YUtLQUs2cERZUWd1QWZmVS0tT0xzSEV5SklkcVl2MHcxVDdOMlI1V09qT2tUT3VlU3Np?oc=5",
@@ -314,6 +324,16 @@
       "resumo": "E.M.E.F. Arlindo Stringhini, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
+      "id": "53259009f219",
+      "titulo": "E.M.E.F. Itororó, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcmlETENzM2VxQlpQcUU5Q2lNSE5CWnBxbUoweVU0TDJQcXVDQnZDSkZBR2RySEM4blhZc1pmYTRZX20yN2d0MFoxWGVBUEthX3lzMXQxa0c4OER0YVg2WUxiNDFHQXozVjlKeVlXMnBiWm01WV9Edlh3QzU5cTc2Y1JYWHBMb1hmTFFOUElnU2xsdjA1enpwVkdCWE1TWmx5eU1taURqSzRENjEwQ1dhc25EN1NiUzRJSHYwT0x4RF9UYnlnb3ctZk1qM2FuX3J5dTJ0T1ZvMVdDSTByb29PT3BIblV6QmJxM25LYmlEeXZKUmfSAYICQVVfeXFMTTVZem80RmF5cEZfSjlibVp5bnhRdFBuVEdsdnM1cUF4ZUZHb3pNN0p6WmR3RDdjMzZQeDlra2hNNmN1cHVFVXl1TTVZTE4xd28wNGpwaUkxNGRHaVVTejdnYUkya0EwM3pfQUQzNDlzU3AtZTd5UEVMdDkwWXcyOVNyZHdLZGNrMVdOTngyZE1TY0VzNFRZMnVLeXNtdWs4OHRWRWJrWlM4em9Jd2hFZlNQN2lyWnhYLTFiakUxT2VpcjJsdE1sWEllTUs1UHpPOWNCM2s4NVdLaTRQN2pJMFpYZm1SRUZtamF5RGxLVnNrNmVIelY3c2FJMUJRRHdPcnFR?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T05:43:39+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "E.M.E.F. Itororó, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+    },
+    {
       "id": "08ed72999778",
       "titulo": "GUAIBA Futebol Clube, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNb3BDcHM4NTJkQmYtbFBoNHBzaFpUM0xNcmtvd0laOWFKYTZyYU1zREFuVllmbkp2dmo5Wjl4QkxNc3VFbzRsMG5oRWlFd2U1UzRfZnVmRXM3c0NpRENReG5wRGtoMUt1bjJrRnFiY0g0S0pCRXhvNm9kb2hzMjVNY00yc05Sb2NDN05aN1NzdHhxeDdQY0Z5TkJwTkl1RDUzUUZVQlFZd3FnSkdmSlJXSTZDT1dmdmgtaXRHVTZqRzFCaG1mYW5OS1BIMXg0dWhxbWxEOFl3MjZscmNnX2wtZzBOWldrMUxiRWZjMDlkLUpHT3YxTGtYcHBEZk9rN3A1MHI5NHFYS3DSAYgCQVVfeXFMTW9wQ3BzODUyZEJmLWxQaDRwc2haVDNMTXJrb3dJWjlhSmE2cmFNc0RBblZZZm5KdnZqOVo5eEJMTXN1RW80bDBuaEVpRXdlNVM0X2Z1ZkVzN3NDaURDUXhucERraDFLdW4ya0ZxYmNINEtKQkV4bzZvZG9oczI1TWNNMnNOUm9jQzdOWjdTc3R4cXg3UGNGeU5CcE5JdUQ1M1FGVUJRWXdxZ0pHZkpSV0k2Q09XZnZoLWl0R1U2akcxQmhtZmFuTktQSDF4NHVocW1sRDhZdzI2bHJjZ19sLWcwTlpXazFMYkVmYzA5ZC1KR092MUxrWHBwRGZPazdwNTByOTRxWEtw?oc=5",
@@ -352,26 +372,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "E.M.E.F. Coronel Frederico Linck, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "5dbbb356f547",
-      "titulo": "Colégio Estadual Cônego Scherer, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQR0c3QzhUcEk4RXprMHZheUlsSE5JbXhMczV3TEd4T29nUnhjYkc5VnJoYmRXM0ZtX0tuQnNWa0J4YjAtV2w5RU1nNkUza0p5djE4SGk1MGU2RXR1Wmw0QmdlMDIyUzZHbFc4TFhadVJnYXhOT0dZekFWM0xvUVlOcUlfUy1EbGFBX0RUZEpUd2F0MEQ4RDBrZjYyUUVjYWVxUENNZTVRVHF5YjhTak41dDlyZXkzTWt2em1Gd1pfbG5fZUd1S0tYYjFKV2VKdG9Fd3UtWEZJdklkbVhNbzdvLXcwdk5BRjFRVmxfc0p4bmYydUpNZm9nQm00VkdhN0JFOG5uaV9yNknSAZcCQVVfeXFMTjlMajU1WVBzVlE0a3o2QU4wU3Z2cW5yREg0YlRNZkpEek56cENvbElGV2VBT01MNnlOMmMxRXBMS21jbUJkMEg0b0FlV0Ytc2tISlZnUXFjbXVDRzJLdUt5NTV4UHpHYjNieUI2cDFVNDlmcnlXZ0lpQlNlMENrUm1DdS00QWhVeTNMVE9PZGZXWkpEeHZ1Z05iYUdWYmZqMmx3UEVfdjlrUEFSVVZwVllGUEV4bC0xUXFzVW5wc2RSc0FrbGhVRkhKeWVWck9EbnF2TUxTR0FGVVVZTGVxaUtlOTVtOGFUVk1RNUNfeHpSSEZDbkZtTHZuNDBRQlZqSWo3NTdBTWdrMjc2YXgwT3hJYnRGeEd3?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T05:42:36+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Colégio Estadual Cônego Scherer, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "cbd4fcab20ce",
-      "titulo": "E.M.E.F. Inácio de Quadros, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPXy1CRzRmLTBkU0Z2UV9hN0M3TVBjck1LVWJoVkw1N3FpaU5tRUxTWjNmYzNaZ0NmUXB2NDEybzRDa2thNEd5ZURhUzdPZTdZY2RXOWhvbnJnb3Y5SU9sbjJybTZFMkxqczc3RUVOTTl4ak9mQzl1WmItX1p2Q3hBdk02dHJXZ1VfVTBSS0g0WUZGWFZValpGcmFNLVUtVjhmSFM5RGFXNlBDRlRkR0I4eTVQeXpMdFlnR0VtSDU1NjFhZmVTQTBfN2hxbVZQYV9adGNHMFQtUUtfZU40MEszVF9icXg4Rmh3Zi15ZUF5NE1wYzViSEFrblJieXJjTFVo0gGPAkFVX3lxTE02SDlzd1RKRHc0ei1sTEtuYXU0a2xJcGJCUDhuUV9WZ0RSdU1zRWhETl95WHU2S1hqMy1fYkVzdDZDdVJxVElaQmlPQ0U2bXk2elZoZ1FIeEFHeEVWRXozR1hSZU83Q204Ukxkc1NDQVo1WEt3eXlJT2dBaDRfckZoUnFEYjg4VWxGNW53bGUwM0J5QnRTS3BZb1d4VFFHYTFGZ21KSzhyYmtSU1gtRVYyUExidW1XemRxYW94ZXNfSzEyUktHaHBub2FObjVnLUhOYXk4dGs5M1BQTHNfNm9uNmp1amVLUWhma0VYeFVTSUVaT0c2ZlhxVWp4cFQ4Q2tPWlFaaTdheFpXY3lVQW8?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T05:42:29+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "E.M.E.F. Inácio de Quadros, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     }
   ],
   "noticias_home": [
@@ -426,16 +426,6 @@
       "resumo": "&#34;Guaíba Solar&#34; é composta e interpretada pelos músicos guaibenses Victoria e Rafael Sonic"
     },
     {
-      "id": "a39effb41aea",
-      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
-    },
-    {
       "id": "0e712728c4fe",
       "titulo": "Com 161 fotografias, concurso “Olhares de Guaíba” divulga resultados no ano do Centenário",
       "url": "https://www.reporterguaibense.com.br/noticia/com-161-fotografias-concurso-olhares-de-guaiba-divulga-resultados-no-ano-do-centenario",
@@ -444,6 +434,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Além das dez premiadas nas duas categorias, três fotos irão receber um certificado de menção honrosa"
+    },
+    {
+      "id": "a39effb41aea",
+      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
     },
     {
       "id": "374a58721742",
