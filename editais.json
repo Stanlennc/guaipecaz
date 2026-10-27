@@ -1,15 +1,24 @@
 {
-  "gerado_em": "2026-10-26T22:17:49.867973+00:00",
+  "gerado_em": "2026-10-27T03:44:55.377635+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
+    {
+      "id": "c78536d047cb",
+      "titulo": "Prefeitura de Guaíba presta esclarecimentos sobre suspeita fraude em licitações",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMW15VkxQT3FFNHdnemtjdFdhQTdDMEFpYzZHUTV5aUZVNXlrNHdVUnlsZ0I5YlFCazNtcEFNSFhoZjd4azFiRDVPWWI3SWxIMW5sNWZKRmpCU25DaVFmSzNrVkNCeFNzSUUycll2aC1oVEcwaTRuUTlqODNXS3N3Uzd6Nk5mRTA5VVJVeS1zNkc0WTdxTmxkVjUwWHRpZmhNZkZMUkFzOUM1Z0tZbDRITmpDeVo5VlFjQlZZTzJlUG91VFFvaGt6WDhjaWozRmJYMzE5SHBweXlsdFFWRUFTYWREbw?oc=5",
+      "fonte": "Correio do Povo",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-27T01:43:24+00:00",
+      "feed": "licitacao"
+    },
     {
       "id": "f800d04d1d56",
       "titulo": "Operação Pseudographos: Fraude em licitações de Guaíba é descoberta após IGP identificar certificados falsos",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWEZFZVdpbG5BLXhzQ0FIZEptb2w3aFN2RVlaTnZZcHJyMGU0RmNQRzVPRl9iSldwREFsd0RFQ2x6cFFJLVhJTTRocF9taURjeEN2ZGZFbExRM1ppSUNCWFFTUlZwWnZYa2lzRmtDZ0J4RVFKSUVDY2RWV3ZvdWdxLUhzTDlwdU1CV1l2ZV9pRDZFdkw2SnFOTW93d1dfU1d2d2h1bVJHVDlzSFJkenlRMmlwZU1zVUpjdEtnWW5lRDNvbVZpa2pPWTFDOE5iNk4tMFhWbkpYVlpuNjhPNHdwTTJPc2NkaExJSU9DR2cxUTJnSTFZdDBTZ3hUT2pibllFRkwxb3JLUG85RUYzYllycFdmdGFGTVhkYXpNMkZZbE9sRW9qXzYwdkhn?oc=5",
       "fonte": "Terra",
       "tipo": "licitacao",
-      "publicado_em": "2026-10-24T17:16:16+00:00",
+      "publicado_em": "2026-10-24T17:16:00+00:00",
       "feed": "licitacao"
     },
     {
@@ -85,31 +94,22 @@
       "feed": "licitacao"
     },
     {
-      "id": "4561765be66c",
-      "titulo": "Mercado Livre inaugura centro de distribuição em Guaíba com previsão de 700 empregos diretos",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTEFBMkhhcmRtbVNwckdqUEJvSjBzUzQ4enNoeV9BaWEtZG0tU3ZsekZDWHRnUk5tSWNaa0ctX2VfaEZvc2ViQUNXUVByN3hkclBUTkRtWVpDUFVVbVlwUUEzM2ZBZ2xSeEo3czhZeU5pNWtNY0hpY0xmajBTR0dLVW5XQVE0RWhldnA5NnVWTllnRk9xTVF4WmQxamZpWURheUtJMWZVZjIzSmRSSFVVdU1mc2s4M2kteUZjU1M5LWF5LWhwM2xDcEtQeGktRlZ3aGRHSFlmZnd4Zkk?oc=5",
-      "fonte": "Jornal Tradição Regional",
+      "id": "093477ad53df",
+      "titulo": "Polícia Civil investiga suspeita de fraude em licitações em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLMVVYUEtDSkZpOE1SWHgxbVJFaDlxaW90YzUyUWdzSkRJX3hsYlk0bXlXMFNRSnI5YzV4dmZoTk9fRGllVXJwUDZmbHJPbGtlMENYZTBKSGF5OHhUbVN1MnhDdWE0X2NZY0pIZm1FbmlDdFN5d2J1Vjd2dVFLX0k?oc=5",
+      "fonte": "Rádio Acústica FM",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T11:08:29+00:00",
+      "feed": "licitacao"
+    },
+    {
+      "id": "055c280753b7",
+      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego nesta semana; veja a lista",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbUhfcVhXdXNmbjdkNGtXTDY0YVpQZ3BNWmRmZEFPNUFQVVpZRXJwX3FXSnIyVzBHbEFMV0I4MXZmaTBDMHdwQTRWRjU1ZW51ZXVwYmw5encteTFzbnNpdGZIZFlkWE9NOGQyaFFmWlJSMTVIWnM2Sk5CZ2N0VjVvU0RNa1VOWVY5Y2VabkRJWHFzX0ZXeHM0a3N2NjZXOU1nYm9VMmVrcE1YTW1GUndXQTdTSmZLaXg4dkE3NllxVW44RzlZU0lF?oc=5",
+      "fonte": "Repórter Guaibense",
       "tipo": "vaga",
-      "publicado_em": "2026-10-15T10:32:29+00:00",
+      "publicado_em": "2026-10-21T17:58:00+00:00",
       "feed": "vagas"
-    },
-    {
-      "id": "2aad55f17cc7",
-      "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV01qdG5Mbm82WC1TSXBuTkNyb1dIdUFkclNBYjJSUFZHWWliVHFrMUxnY2RUMDNwWDFybHp2b3B3Z0FRTEVta21iTmJmVWhxd3cyOW1OU18zWTE5WGtHTFlEMkFDUU11MU92cVg3ODBLcllKQVlKQVp0bzEyanIyN2V6dG9ITFRhR0lOaDBXelM1cS1aeUFITzZJczRpdnlrTkZVUTV2U3JuMHN6RGF3c1dUOTBtX2JEUEJKajVQc0tDYUlta01IRGduWVNVLVpl?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "concurso",
-      "publicado_em": "2026-10-13T07:00:00+00:00",
-      "feed": "concurso"
-    },
-    {
-      "id": "504af30654cb",
-      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbTNydzgtcmhXSS1ZR1pQVDFpU0JhUE85b0NtLXBoNDJWOEJIZm1fbHQtdm5QRmNudEVBdWNsQ0Z0WF9CZU1Qc043RG1hdFJkWVFYLUM2T3pwckhOa0xzRjZhTDV5STdvMEx5cEJ3YWY0MFZrekVPUDhMMzM5U051UHc1bktPSzAtZ0padEVGWmRCMUtWTHZaRk0tZmUydTEtcDF1bHhka2lfTDRPU0RCZjBWOVoyeDFyUXp6WlVmZU85cC1Lekp5eU96UVlTcnhFNkU3bFpUbw?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "concurso",
-      "publicado_em": "2026-10-01T07:00:00+00:00",
-      "feed": "concurso"
     }
   ]
 }
