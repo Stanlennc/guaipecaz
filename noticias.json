@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-28T07:55:51.352692+00:00",
+  "gerado_em": "2026-10-28T14:52:33.667222+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -173,23 +173,13 @@
       "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
     },
     {
-      "id": "33a2b8275085",
-      "titulo": "Icehot instala estação de hidratação na Orla do Guaíba",
-      "url": "https://expansao.co/icehot-instala-estacao-de-hidratacao-na-orla-do-guaiba/",
-      "fonte": "Expansão",
-      "publicado_em": "2026-10-27T17:53:55+00:00",
-      "categoria": "Variedades",
-      "feed": "expansao_direto",
-      "resumo": "A empresa Icehot instalou uma estação de hidratação no Trecho 3 da Orla do Guaíba, em Porto Alegre, em parceria com a Secretaria Municipal de Esporte e Lazer (Smel) e&#8230; O post Icehot instala estação de hidratação na Orla do Guaíba apareceu primeiro em Expansão ."
-    },
-    {
       "id": "4e81dfe202b1",
       "titulo": "Lula vence a eleição presidencial em Guaíba (RS)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG5SdFVYSVBuTzZweDVOeG9nSkZNWVkyUmlFQzBXdmNVd3hCQ0Q5RW9XcGMxcUFtTHJkVXFad0pUVVBKNUhNdFZDbjFBUlhpeE1PSnFzSl9udzBJZTlYd1VuYmtRZFFOX3BqZG9SRjRHQ21FM1BfZFV0aFNHcklWZ0lOdlFQc1IyQnoyeEZreVNiMkJfa0hEdWp6NGw?oc=5",
       "fonte": "Congresso em Foco",
       "publicado_em": "2026-10-27T21:39:23+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Lula vence a eleição presidencial em Guaíba (RS) Congresso em Foco"
     },
     {
@@ -233,6 +223,16 @@
       "resumo": "Oficina aborda equidade racial e saúde para profissionais que atuam em unidades prisionais femininas de Guaíba e Porto Alegre Polícia Penal"
     },
     {
+      "id": "5b5e5f80e58c",
+      "titulo": "Icehot instala estação de hidratação na Orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNVp1RG5yX0hHV09RRThkbzJoeU5feUNzWW1GSXh6NF9ORV9felRFSzliYklQZ3c5aFJoTXVfYzhMYndNb19jRkZUVTNDOFdpUl9EeUxha2hQWU5rMUZSaU13Zng5UzZQZTlqWXVqU3RPLWNfYTlBa2ZERmpOUlBMeQ?oc=5",
+      "fonte": "Expansão",
+      "publicado_em": "2026-10-27T17:53:55+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Icehot instala estação de hidratação na Orla do Guaíba Expansão"
+    },
+    {
       "id": "f4314dd57f22",
       "titulo": "Guaíba encerra ciclo estadual da Semana do Ministério Público em 2026",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOVcxNTl5RTd4dl9fTnBwc3FzT3BuM2VNanF1TWZUMThpUnh3My1LLVpQLWp2NlowSHhnM2JMUFZmYnRaV3E5bFV1dVFtSkFWVXVQUjZOYTVxRFRHRW1oNFBMbXhrUEhrOXJYRG5tby1HTHVpTXM5a0Q2SkFOSjVTQ0hWcThiM2JSU2ZOVXpUZXQ0VkR6dmx0WjNTbk5DZmhCTFlCUEhLOVFwN1FCSVVpVE5KR3pRSV9pU3dZeWQwYThVSUpaRVprcTI5RTZSZm8?oc=5",
@@ -241,16 +241,6 @@
       "categoria": null,
       "feed": "correio",
       "resumo": "Guaíba encerra ciclo estadual da Semana do Ministério Público em 2026 Correio do Povo"
-    },
-    {
-      "id": "a5b499206f81",
-      "titulo": "Na cidade mais alta do RS, a cerração aparece quase todo dia e nascem rios que formam as bacias do Guaíba e do Uruguai",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRWtJT0JlekVwZ1dzVVY1ajduS09sa0FrWi1ZQVRxaEpYSXVYNmhsbFNkcWdTQzhpcURQY2hqOFNWSEZPMjJGd05JVGJBWDF2WUpDOFZKZTRmQ19kNDlsTW9GNXFvaEtnUFh1WF9jZExVallTQm12Tno3dENjRGtxR2IyWHgzVnJuTFRuVnlHZWtjT05Ud0U3QldZSWhjRWtVMmtaUHZJS3VRWW5vOU1rMUY4emxuMDRBVUxVa00yRkNmMlZma0dJY2VFd1QycEJ4eGNZY3FXVm11cEZyNDQ5UkpadElmeE5FOUlPRUU2c3VwWTZxU0lUMzRR?oc=5",
-      "fonte": "Brasil 247",
-      "publicado_em": "2026-10-27T09:45:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Na cidade mais alta do RS, a cerração aparece quase todo dia e nascem rios que formam as bacias do Guaíba e do Uruguai Brasil 247"
     },
     {
       "id": "1d8c9bd9184e",
@@ -301,6 +291,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "E.M.E.F. José Carlos Ferreira, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+    },
+    {
+      "id": "00d13745d649",
+      "titulo": "E.E.E.M. Izaura Ibanez Paiva, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOVZIMnZJUmdvUGhZMHJTWEVHTWNuVE5XOVQ4RWlXaldnRFUzYzNlSm1XQy02QVRiSGNlejRmbTREOGxpM0ctWTdYUUFaZzdYYlpZQml4N0hpcGllRFdhVlhqZElMRU9oS0Qydng3NTBRNlFKWXhxQnJyYThqaUxKSXdITkhzbTdvNUl5dHVtNngwU1l1M3Jwd25meF80RFNkSjBPTHA0WldOZjlYaDE4WGIwLTkwdEZNMGREclloY0J2MmFySExZaU1oVmd3OUx1RzdfdlNvdDJfd0xYQVhpSzVZYU5ucVd3Vm5jOFRBVEtOb2xfV21NUjI5ZmROUk9oY3Fz0gGSAkFVX3lxTFA0SVNhRWtPWi1RcXpHMlNOYjZNNnZkbjZlS2ZNMGRUU1dsRGVzbUphZHlfRUdidUNEVk16QThZbkhMRTlyZGVtUGpydThYUU92WkVwLS16NG5nQmtodkpCcjl3X2F1VTJvSy1LT3hxR1V6SGRXS2t5WjBBc2dWdEFVNlVSd2Z6SGRJbm9yTkhlMEJXN1N3SDVTanlzM29zUmJqaGg2ZGJDSXNBb01FQ0ExRnRYbmt1c3kzQkMzTmd1UVZVNFBBQTZSQWc1Ri0za3Y5Ym9aN0psS3FjYXZTMXVxUEZmN0hHUmRyelNudmVTbTRGWmpwRVF6Y0JVSHVaTTR0dWRmeGludTZGZV8wTkJDdHc?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T05:45:28+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "E.E.E.M. Izaura Ibanez Paiva, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
       "id": "26f3e61c09b9",
@@ -363,14 +363,14 @@
       "resumo": "E.M.E.F. Anita Garibaldi, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
-      "id": "972f5a9755b4",
-      "titulo": "E.M.E.F. Evaristo da Veiga, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbTZRSU5XY1ZFTFdMbUJueVl0TG8yalAxNGVXcmpvT2N0TTFjUU9yeGRsQWRjSjg3Ykxsb2pVVHh3WlhGemlFUXliYVRDMFEwR21LRjNYeFZ3QmczNEdfaElhaVlaVUpQT0c1TXpIaVB5eU8zaVdDbDFWVXVNcDdmNjA5bU56UUszTEdKNTlJbk9zNEt5bml6bGo0bUxDanNWLVZSeFlsZlc1LVVBWmRuQTFQNm5CUDRPT3RYWW5iTFdpNGtIVl82VVVlLTJLcU9VbTJjSkFUbFk3MXZqVEQzNU83bW5Ya09kZ0JUZnBLR2JfaW5PcTZMOXVtR0w0Q0t0Um90VEgxb2FnOE03VWVv0gGPAkFVX3lxTE1tNlFJTldjVkVMV0xtQm55WXRMbzJqUDE0ZVdyam9PY3RNMWNRT3J4ZGxBZGNKODdiTGxvalVUeHdaWEZ6aUVReWJhVEMwUTBHbUtGM1h4VndCZzM0R19oSWFpWVpVSlBPRzVNekhpUHl5TzNpV0NsMVZVdU1wN2Y2MDltTnpRSzNMR0o1OUluT3M0S3luaXpsajRtTENqc1YtVlJ4WWxmVzUtVUFaZG5BMVA2bkJQNE9PdFhZbmJMV2k0a0hWXzZVVWUtMktxT1VtMmNKQVRsWTcxdmpURDM1TzdtblhrT2RnQlRmcEtHYl9pbk9xNkw5dW1HTDRDS3RSb3RUSDFvYWc4TTdVZW8?oc=5",
+      "id": "c5b9d41bfa27",
+      "titulo": "Sociedade Uniao dos Veteranos, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZmx3LV9vU2xkUklRQ1BwR05rUlllMnVJODlOSHJVdlQ1R2szdldENzRxQUhDYk9Tdk0zczEwVHR6WWFMM0l5TEtPYWtLbnF3MEhfTFJscFJ2RWxmNmlNVS1GaUQ0aWtELUl0S1RoYXhCVmxzWmVxMmtKOFl6YUhZOHVmZUJ2YUpMcXplZDhEV1pYQk52eTVaSzdBb3hQdlZqbGxFYTVySi11YXlNYmJUVFNVUFdiWTV6M3RtcmdlZTFYYTMyZFFhU0ZVZS1FU09ZZVk0TnV6d0JLXzNXNGtGaHFYMVBUaDZEdTlzUUlZS0VTcXFBZ1d1MUNhQnNXY1dnaTZ3aXFn0gGUAkFVX3lxTE82b0lkaDVPdGdDX0ttQ2pzbkxUdXNUaEVrbDRybnI3ODdkV1QzMndkYU9FTXFYSE9oNWxzazh1ZEZoLWg1UGRadmdQbnhhUk5FY25GbV9neWJRQlhjTWtlZUtUQ0s1YTlrYzR5Vk03RmRsWkxvVFUxUi15MUNmVG1FTktMZHZPeTNuaEZIN25KVTIyaXNpWjc4UEhhOXozbGJ4eUw1Z0lZeG00eXdGdkdxUENUcVY5cWtiMEc3RXVMenRFZXU5SmVtSkpBOVV1aTlwN28zR0hKZjFrd0RGOHI5TlFuYW51bThzUm9JdmU4WUExVDhvT0VNUmVzWTBNQ2hGb3ZjNFJURHZnV2YtSm1fTWVGMw?oc=5",
       "fonte": "G1",
-      "publicado_em": "2026-10-26T05:44:18+00:00",
+      "publicado_em": "2026-10-26T05:44:20+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "E.M.E.F. Evaristo da Veiga, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+      "resumo": "Sociedade Uniao dos Veteranos, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     }
   ],
   "noticias_home": [
