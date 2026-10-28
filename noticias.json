@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-28T14:52:33.667222+00:00",
+  "gerado_em": "2026-10-28T20:46:35.920732+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -134,6 +134,15 @@
       "resumo": "Além das dez premiadas nas duas categorias, três fotos irão receber um certificado de menção honrosa"
     },
     {
+      "id": "3ff2b6494b3f",
+      "titulo": "Acusado de atropelar e matar menino de 10 anos e jovem de 22 na BR-116, em Guaíba, vai a júri popular",
+      "url": "https://www.reporterguaibense.com.br/noticia/acusado-de-atropelar-e-matar-menino-de-10-anos-e-jovem-de-22-na-br-116-em-guaiba-vai-a-juri-popular",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
       "id": "a39effb41aea",
       "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
@@ -144,13 +153,14 @@
       "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
     },
     {
-      "id": "3ff2b6494b3f",
-      "titulo": "Acusado de atropelar e matar menino de 10 anos e jovem de 22 na BR-116, em Guaíba, vai a júri popular",
-      "url": "https://www.reporterguaibense.com.br/noticia/acusado-de-atropelar-e-matar-menino-de-10-anos-e-jovem-de-22-na-br-116-em-guaiba-vai-a-juri-popular",
+      "id": "573f8b62e46d",
+      "titulo": "Câmara de Guaíba aprova LDO de 2027 com previsão de queda nas receitas e despesas",
+      "url": "https://www.reporterguaibense.com.br/noticia/camara-de-guaiba-aprova-ldo-de-2027-com-previsao-de-queda-nas-receitas-e-despesas",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
-      "feed": "reporter_direto"
+      "feed": "reporter_direto",
+      "resumo": "As receitas previstas passam de R$ 757,4 milhões para R$ 712,3 milhões, uma redução de 5,95%"
     },
     {
       "id": "58d23e1952ab",
@@ -161,16 +171,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Todos os 17 vereadores da cidade assinaram o documento nesta segunda-feira"
-    },
-    {
-      "id": "374a58721742",
-      "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
     },
     {
       "id": "4e81dfe202b1",
@@ -243,6 +243,16 @@
       "resumo": "Guaíba encerra ciclo estadual da Semana do Ministério Público em 2026 Correio do Povo"
     },
     {
+      "id": "a5b499206f81",
+      "titulo": "Na cidade mais alta do RS, a cerração aparece quase todo dia e nascem rios que formam as bacias do Guaíba e do Uruguai",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRWtJT0JlekVwZ1dzVVY1ajduS09sa0FrWi1ZQVRxaEpYSXVYNmhsbFNkcWdTQzhpcURQY2hqOFNWSEZPMjJGd05JVGJBWDF2WUpDOFZKZTRmQ19kNDlsTW9GNXFvaEtnUFh1WF9jZExVallTQm12Tno3dENjRGtxR2IyWHgzVnJuTFRuVnlHZWtjT05Ud0U3QldZSWhjRWtVMmtaUHZJS3VRWW5vOU1rMUY4emxuMDRBVUxVa00yRkNmMlZma0dJY2VFd1QycEJ4eGNZY3FXVm11cEZyNDQ5UkpadElmeE5FOUlPRUU2c3VwWTZxU0lUMzRR?oc=5",
+      "fonte": "Brasil 247",
+      "publicado_em": "2026-10-27T09:45:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Na cidade mais alta do RS, a cerração aparece quase todo dia e nascem rios que formam as bacias do Guaíba e do Uruguai Brasil 247"
+    },
+    {
       "id": "1d8c9bd9184e",
       "titulo": "Prefeitura de Guaíba presta esclarecimentos sobre suspeita de fraude em licitações",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ09WZWxsMGZEMS02dHlZbkpWSVBDVW4zUVNsZ0JmSXFLcFd5VkJrMml0WUVtOTg2RTFtR3FCSTNTRnQxYWkzVV9nYkU4eExZRzFnSElkRGVSdDRPU1hMTGpsSElBSG5mb3ZMdEp0SE43YzdQVTFzaDR1OW42VF93RmZUYVExb3g1bVF1bjA1M3BlSkpxR2xINXltaGlNMHFYZEh5S2g4d29wOXRxcjNWSVdPcXZybk5PZXJnVmx5RF85MWlDaVE0ZHEtN0sxdmRqYmtMVWtIdWtIWERhN0VfbHdUcDZWOTg?oc=5",
@@ -273,13 +283,13 @@
       "resumo": "Guaíba (RS): resultado do local de votação por zonas eleitorais no 2º turno G1"
     },
     {
-      "id": "4e3c538c989e",
+      "id": "1bafd9e806dd",
       "titulo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRHRmYkRxTlBiZlJFYnlmWXF5ckEzMk0xTTU5U0NlS1d2N0xhT2JrdEFreFZQM0FpMEFHaGpXU2txLXNQTlNqRXBGUEI3dHY1dW1laUREdFBwMjI3Y2FXanlaSGRGcm02aGxCeUxHNXc2ckpEX3FOc21FaE9WUGVBenJpdHZaMEUtWFJjUUljeXQ3VE5tMDVQN0FfWFdTZVFxOFg5UGRjaUxjU09WMjUtWlJzZEhLYndMRlBjX0lEOEZVbU81dHR2Y3A3Q2UybU5PNEdmN1VzNXdYUExrTTNOREZzU0tNZ9IB9AFBVV95cUxOZ3V3b0dMV0NISlp5N0wySUNRYXBhQVNjRWtqeXZrSmRsc1E2dG9yT1V3cEY5a0tuUFNQMnRNWnJyWWV4c2g3c1E2dW9rTF9VdFAzTElrVl9zbFBzblBkbHBBZ3k0MU8tX1JfWG01aVZTaGl4QlNtaEpEeml4SjIycmJqMkhqR0VLcVpPOGVIcEhXZnpvN3pxNmVJSC13QXpGUWxaaWtWbUFmNDJqcGlHdGFDblRGWktPeXBrVDVFamhlUFdNSllQeVUwSDAxVENTb3g3QXRJVTU2OGhDTDZJMUF4TDRZVHZUQnhvRjExdmJxaWlV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZ3V3b0dMV0NISlp5N0wySUNRYXBhQVNjRWtqeXZrSmRsc1E2dG9yT1V3cEY5a0tuUFNQMnRNWnJyWWV4c2g3c1E2dW9rTF9VdFAzTElrVl9zbFBzblBkbHBBZ3k0MU8tX1JfWG01aVZTaGl4QlNtaEpEeml4SjIycmJqMkhqR0VLcVpPOGVIcEhXZnpvN3pxNmVJSC13QXpGUWxaaWtWbUFmNDJqcGlHdGFDblRGWktPeXBrVDVFamhlUFdNSllQeVUwSDAxVENTb3g3QXRJVTU2OGhDTDZJMUF4TDRZVHZUQnhvRjExdmJxaWlV0gH0AUFVX3lxTE5ndXdvR0xXQ0hKWnk3TDJJQ1FhcGFBU2NFa2p5dmtKZGxzUTZ0b3JPVXdwRjlrS25QU1AydE1acnJZZXhzaDdzUTZ1b2tMX1V0UDNMSWtWX3NsUHNuUGRscEFneTQxTy1fUl9YbTVpVlNoaXhCU21oSkR6aXhKMjJyYmoySGpHRUtxWk84ZUhwSFdmem83enE2ZUlILXdBekZRbFppa1ZtQWY0MmpwaUd0YUNuVEZaS095cGtUNUVqaGVQV01KWVB5VTBIMDFUQ1NveDdBdElVNTY4aENMNkkxQXhMNFlUdlRCeG9GMTF2YnFpaVU?oc=5",
       "fonte": "G1",
       "publicado_em": "2026-10-26T05:50:00+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno G1"
     },
     {
@@ -291,16 +301,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "E.M.E.F. José Carlos Ferreira, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "00d13745d649",
-      "titulo": "E.E.E.M. Izaura Ibanez Paiva, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOVZIMnZJUmdvUGhZMHJTWEVHTWNuVE5XOVQ4RWlXaldnRFUzYzNlSm1XQy02QVRiSGNlejRmbTREOGxpM0ctWTdYUUFaZzdYYlpZQml4N0hpcGllRFdhVlhqZElMRU9oS0Qydng3NTBRNlFKWXhxQnJyYThqaUxKSXdITkhzbTdvNUl5dHVtNngwU1l1M3Jwd25meF80RFNkSjBPTHA0WldOZjlYaDE4WGIwLTkwdEZNMGREclloY0J2MmFySExZaU1oVmd3OUx1RzdfdlNvdDJfd0xYQVhpSzVZYU5ucVd3Vm5jOFRBVEtOb2xfV21NUjI5ZmROUk9oY3Fz0gGSAkFVX3lxTFA0SVNhRWtPWi1RcXpHMlNOYjZNNnZkbjZlS2ZNMGRUU1dsRGVzbUphZHlfRUdidUNEVk16QThZbkhMRTlyZGVtUGpydThYUU92WkVwLS16NG5nQmtodkpCcjl3X2F1VTJvSy1LT3hxR1V6SGRXS2t5WjBBc2dWdEFVNlVSd2Z6SGRJbm9yTkhlMEJXN1N3SDVTanlzM29zUmJqaGg2ZGJDSXNBb01FQ0ExRnRYbmt1c3kzQkMzTmd1UVZVNFBBQTZSQWc1Ri0za3Y5Ym9aN0psS3FjYXZTMXVxUEZmN0hHUmRyelNudmVTbTRGWmpwRVF6Y0JVSHVaTTR0dWRmeGludTZGZV8wTkJDdHc?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T05:45:28+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "E.E.E.M. Izaura Ibanez Paiva, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
       "id": "26f3e61c09b9",
@@ -321,16 +321,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "E.E.E.M. Otero Paiva Guimaraes, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "be837856607a",
-      "titulo": "Salao Paroquial Petim, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOOTN3SGJwNWIzeHJ1WjFybDdHWm9mMnpBRDMtMTRHb1lkMEdPY2lKOHNLYnVERlBralRSWkdOU2lFVXVkTHlFV0E0czdrWVBENGMyMk1QSnhhTkN5MTg0dy11NFVlUTFudnJQSDJpWVhBOFJDTmJWcFZzYVhZNHpfZWJLLUhkcC03R0EwelUxV0RhdjRfMzV6cHJaXzJEalVRQUxIZFNtbFJzaFpyMHJfNVdvcWVYV2t3UmM1OEVQTXRqdmZ4XzFDME53VGZNd1g2VFFkcjRocmg5SGZQZXQ4NjZTS1hGN0hIc25EZTBtYWsxVDg3YmdxSWNpQzhxMW55eThyUVZKQ1R6QdIBigJBVV95cUxOOTN3SGJwNWIzeHJ1WjFybDdHWm9mMnpBRDMtMTRHb1lkMEdPY2lKOHNLYnVERlBralRSWkdOU2lFVXVkTHlFV0E0czdrWVBENGMyMk1QSnhhTkN5MTg0dy11NFVlUTFudnJQSDJpWVhBOFJDTmJWcFZzYVhZNHpfZWJLLUhkcC03R0EwelUxV0RhdjRfMzV6cHJaXzJEalVRQUxIZFNtbFJzaFpyMHJfNVdvcWVYV2t3UmM1OEVQTXRqdmZ4XzFDME53VGZNd1g2VFFkcjRocmg5SGZQZXQ4NjZTS1hGN0hIc25EZTBtYWsxVDg3YmdxSWNpQzhxMW55eThyUVZKQ1R6QQ?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T05:45:16+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Salao Paroquial Petim, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
       "id": "841d6a7c91ee",
@@ -371,6 +361,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Sociedade Uniao dos Veteranos, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+    },
+    {
+      "id": "972f5a9755b4",
+      "titulo": "E.M.E.F. Evaristo da Veiga, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbTZRSU5XY1ZFTFdMbUJueVl0TG8yalAxNGVXcmpvT2N0TTFjUU9yeGRsQWRjSjg3Ykxsb2pVVHh3WlhGemlFUXliYVRDMFEwR21LRjNYeFZ3QmczNEdfaElhaVlaVUpQT0c1TXpIaVB5eU8zaVdDbDFWVXVNcDdmNjA5bU56UUszTEdKNTlJbk9zNEt5bml6bGo0bUxDanNWLVZSeFlsZlc1LVVBWmRuQTFQNm5CUDRPT3RYWW5iTFdpNGtIVl82VVVlLTJLcU9VbTJjSkFUbFk3MXZqVEQzNU83bW5Ya09kZ0JUZnBLR2JfaW5PcTZMOXVtR0w0Q0t0Um90VEgxb2FnOE03VWVv0gGPAkFVX3lxTE1tNlFJTldjVkVMV0xtQm55WXRMbzJqUDE0ZVdyam9PY3RNMWNRT3J4ZGxBZGNKODdiTGxvalVUeHdaWEZ6aUVReWJhVEMwUTBHbUtGM1h4VndCZzM0R19oSWFpWVpVSlBPRzVNekhpUHl5TzNpV0NsMVZVdU1wN2Y2MDltTnpRSzNMR0o1OUluT3M0S3luaXpsajRtTENqc1YtVlJ4WWxmVzUtVUFaZG5BMVA2bkJQNE9PdFhZbmJMV2k0a0hWXzZVVWUtMktxT1VtMmNKQVRsWTcxdmpURDM1TzdtblhrT2RnQlRmcEtHYl9pbk9xNkw5dW1HTDRDS3RSb3RUSDFvYWc4TTdVZW8?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T05:44:18+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "E.M.E.F. Evaristo da Veiga, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     }
   ],
   "noticias_home": [
@@ -435,6 +435,15 @@
       "resumo": "Além das dez premiadas nas duas categorias, três fotos irão receber um certificado de menção honrosa"
     },
     {
+      "id": "3ff2b6494b3f",
+      "titulo": "Acusado de atropelar e matar menino de 10 anos e jovem de 22 na BR-116, em Guaíba, vai a júri popular",
+      "url": "https://www.reporterguaibense.com.br/noticia/acusado-de-atropelar-e-matar-menino-de-10-anos-e-jovem-de-22-na-br-116-em-guaiba-vai-a-juri-popular",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto"
+    },
+    {
       "id": "a39effb41aea",
       "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
@@ -443,15 +452,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
-    },
-    {
-      "id": "3ff2b6494b3f",
-      "titulo": "Acusado de atropelar e matar menino de 10 anos e jovem de 22 na BR-116, em Guaíba, vai a júri popular",
-      "url": "https://www.reporterguaibense.com.br/noticia/acusado-de-atropelar-e-matar-menino-de-10-anos-e-jovem-de-22-na-br-116-em-guaiba-vai-a-juri-popular",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto"
     }
   ]
 }
