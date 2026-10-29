@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-29T12:18:21.264915+00:00",
+  "gerado_em": "2026-10-29T22:26:24.073526+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -29,15 +29,6 @@
       "tipo": "concurso",
       "publicado_em": "2026-10-23T20:49:00+00:00",
       "feed": "concurso"
-    },
-    {
-      "id": "67a7956b77d4",
-      "titulo": "Guaíba liquidou R$ 2,74 milhões em despesas com empresa investigada por fraude em licitações",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONlVUUEQ4bFgxWjhKWENCd3phb09UWnZ5Q2U5Y21hbFdNUVJMMExFX3FzM3d0azhpVHZraHF6c2JyMzhtY09pdmRNZWtQWnlhczhvaXRoUnNWam1vaXZUY3ZjQ0lLeW1Ja3JsVFc1UHdPSDh0c0F6clpsYVBFSFJJSFB3U3Fsakp2OXZWVllvZXBGLWxLNGtFN1pMaXRkUmtCNzB0Q2ZkUjZlaG5IQTZINnlkS2x1c0xkMW55S2hjdEFMT19rNUVLZndveTNwZw?oc=5",
-      "fonte": "Porto Alegre 24 Horas",
-      "tipo": "licitacao",
-      "publicado_em": "2026-10-22T23:17:52+00:00",
-      "feed": "licitacao"
     },
     {
       "id": "fdbdab402759",
@@ -76,21 +67,12 @@
       "feed": "licitacao"
     },
     {
-      "id": "40529c93f744",
+      "id": "777f5686ff2f",
       "titulo": "Operação da Polícia Civil investiga suspeita de fraude em licitações na Prefeitura de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQandfMmVlZ2pRcHBra3Zjb0pMaHNad0M1UklZaUMydUg3NzMzT25QQkhBZlNBVy1xSXo3Q3JDTnlNWGNpQ0RFTHJUdGRYS2FPLXRVQ0dPemZKZW1PZXNib0F6V01RZUdlSndGS2pMNTN4MmhkYlp3UUdRN1liYkhoLVdSTDU0V0RsLVZFQWNSMGdmT3hlQkJBcTBQZ3U2VlhLcDF0ak1SWnJEWlJBcnhROWl0Y09MLWd2dnZHVVllb0dUY0FIalRjLW95VjJMTmlvWHhJLVFHazFjbFY5VUNQcFRKWm9odkcxZ19QcHh1cjJ1ZGYt?oc=5",
-      "fonte": "Correio do Povo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1ViYi1xVk1QRXhVR1MzcHFXMFplVzhoaUhST1ROQU1YaTRXMzV4YTlWdzkwYlhnZkVkcE4waWRxMnNzMlZoNktadS0wU1FlMmtURFdZWDNKVHM2Vjd5TlVESlE1WUpzX1ZQMGYydnJQWkk5cjFBbTh3Z3hpLWxJcGljQy14aXBKLTN5OUQ0ajEyeUszNVVVdW5pQnI5UW1VUGFBTkVUeWdCcFViS2c?oc=5",
+      "fonte": "Rádio Guaíba",
       "tipo": "licitacao",
-      "publicado_em": "2026-10-22T11:44:18+00:00",
-      "feed": "licitacao"
-    },
-    {
-      "id": "8967621533c0",
-      "titulo": "Polícia Civil realiza operação na Prefeitura de Guaíba e investiga suspeitas de fraude em licitações",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRqeGNLSEoyZTdpM1JrT3RDMEtLN0hCUnlhQ2p0SW8tMkhrcU1FUFZUcTRGSEhudHFpOHNLT2ZrdGc5dk9TQjhDOUlaY1RwalZsSE9jOE0tdV9iX0ppQW5mbGp1eGdYamNMUWh5S3JpbnozRTRFSW5mcjlUbE54Snh3QmNQd0hrb3B5VDBOaW9HdmlLdG4wZWlvNDlmenBX?oc=5",
-      "fonte": "Clic Camaquã",
-      "tipo": "licitacao",
-      "publicado_em": "2026-10-22T11:41:41+00:00",
+      "publicado_em": "2026-10-22T12:20:00+00:00",
       "feed": "licitacao"
     },
     {
@@ -109,6 +91,24 @@
       "fonte": "Repórter Guaibense",
       "tipo": "vaga",
       "publicado_em": "2026-10-13T07:00:00+00:00",
+      "feed": "vagas"
+    },
+    {
+      "id": "472bb9527249",
+      "titulo": "Mercado Livre abre 33 vagas para PCDs no novo centro de distribuição em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVHVxVUZPbWJtT3Z0cS15YXhXUlhVSjFlMExLY25NZ1hxaGxCMzBHOGpobHVpOGFlTDV3Q2V3U180eXYxWUIwb0ZUQjlfaDk2dGRma1ZQU2pnYzZER0VzcHpSOEpDMEp6VWRqZGJXdGxwd0ZFVU5qbmtrVF95YXdfYWN2RGpRbGQzSXlXbElYUEhGMm9qbGx2bkYzUUJNcWhTcDRENUZOdzQ2YWNDMlhIclNlZG45RWxFQjYtR3cyM1o?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-09-10T07:00:00+00:00",
+      "feed": "vagas"
+    },
+    {
+      "id": "222af359a8b8",
+      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTURzNW01X2p1R2RIRjdKWDdhQnRQMnpoakNGckF0andQTEhjUWZTLXkxVzlBVF94bmp2VzB5bE5UQ0I0Nm1GSXNtampTOGtDTUp3SThLdGxybVRoVFNRNmJWZ0JCdnd3SFBaX213OVEtQVItbmI1TTFXSWI3ZUlSLU5BTXJGckE1OExjemxfWHN1RGZRTTBGS3hnX3dFdVRnQ1FjX3lRODlKTTJ4VjYtT04xdlh2YU1qUy1CMzlFUko2VnJfQWhFTkg5LUVZcnpTaFdXOUxPSzhYM1U?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-08-04T07:00:00+00:00",
       "feed": "vagas"
     }
   ]
