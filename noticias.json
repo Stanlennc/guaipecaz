@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-29T16:35:57.521320+00:00",
+  "gerado_em": "2026-10-29T22:26:47.966310+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,16 +84,6 @@
       "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
     },
     {
-      "id": "e808e9cd1c8f",
-      "titulo": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/inauguracao-do-novo-centro-de-distribuicao-do-mercado-livre-marca-as-comemoracoes-de-100-anos-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O empreendimento está instalado no complexo logístico Ellosul, às margens da BR-116"
-    },
-    {
       "id": "e38f66be6482",
       "titulo": "Polícia Civil combate crimes contra a administração pública em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/policia-civil-combate-crimes-contra-a-administracao-publica-em-guaiba",
@@ -102,6 +92,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Aproximadamente 25 policiais civis cumpriram sete mandados de busca e apreensão, nesta quinta-feira (22)"
+    },
+    {
+      "id": "831fcf5ba47f",
+      "titulo": "Lula venceu Flávio Bolsonaro por 50,19% a 49,81% em Guaíba; veja os resultados por local de votação",
+      "url": "https://www.reporterguaibense.com.br/noticia/lula-venceu-flavio-bolsonaro-por-50-19-a-49-81-em-guaiba-veja-os-resultados-por-local-de-votacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Lula foi o mais votado em 18 locais de votação, enquanto Flávio Bolsonaro venceu em 16"
     },
     {
       "id": "0e712728c4fe",
@@ -124,16 +124,6 @@
       "resumo": "Obra é dos autores Luís Augusto Lopes e Breno Serafini, e tem prefácio de Altair Martins"
     },
     {
-      "id": "689591584b62",
-      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "&#34;Guaíba Solar&#34; é composta e interpretada pelos músicos guaibenses Victoria e Rafael Sonic"
-    },
-    {
       "id": "3ff2b6494b3f",
       "titulo": "Acusado de atropelar e matar menino de 10 anos e jovem de 22 na BR-116, em Guaíba, vai a júri popular",
       "url": "https://www.reporterguaibense.com.br/noticia/acusado-de-atropelar-e-matar-menino-de-10-anos-e-jovem-de-22-na-br-116-em-guaiba-vai-a-juri-popular",
@@ -143,14 +133,24 @@
       "feed": "reporter_direto"
     },
     {
-      "id": "831fcf5ba47f",
-      "titulo": "Lula venceu Flávio Bolsonaro por 50,19% a 49,81% em Guaíba; veja os resultados por local de votação",
-      "url": "https://www.reporterguaibense.com.br/noticia/lula-venceu-flavio-bolsonaro-por-50-19-a-49-81-em-guaiba-veja-os-resultados-por-local-de-votacao",
+      "id": "a39effb41aea",
+      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Lula foi o mais votado em 18 locais de votação, enquanto Flávio Bolsonaro venceu em 16"
+      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
+    },
+    {
+      "id": "374a58721742",
+      "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
+      "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
     },
     {
       "id": "11822b2ad708",
@@ -183,14 +183,14 @@
       "resumo": "As receitas previstas passam de R$ 757,4 milhões para R$ 712,3 milhões, uma redução de 5,95%"
     },
     {
-      "id": "6ca155dbfe0b",
+      "id": "f43595063594",
       "titulo": "Prefeitura de Porto Alegre simula fechamento de comportas em caso de inundação do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNU1k3a01JMUUyNl9KMkNiYmtnWkFGeTRZdXdZR2FWNGd6YXBKc0lDSTBMUkxZZnJfVEcwLUNjSkFMUXpWZzZwY0ZZaUlsQ3RWb0ZXMjR1OG9HT29zR1FvVUhTRUJLeU9ZZlZfZWdISXhfbFJYb2p1Tndya0o1ckNXOWFtZjd1d09rV1VmRENySFAxZGV1dDg0d0JkanozVlNOOGJqQ21xckxmaDRCWVd1WWloS25nY0cxVEx1cmNhSlR4b0d3bVhqLU1iLWtkTlpmT0VfM0NBRDFZLTE1WFlOUFNwcWFXVHNrR1BjazB2WmVRSzZHUndOY1hRcHJvdW5ickxzemZ4RjgwcU9pSGc?oc=5",
-      "fonte": "Diário Gaúcho",
-      "publicado_em": "2026-10-29T16:15:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMkRmZ1UwOGg1bWJuQTZzS3hrM1l2Z0NnQUJuUG1qR3M4WW5IVk9icGlBM19rN0YwZUxQNEZqeHhHNjZpWWxYU1lleDF0LWlJTVFLemtTaU5RODRGdGdjYndjRXZ4c0lnR1B5ZzMzMjBDeDlnaDNWYUtyQ1JSWmhpRE9TcGtWbUNIUjFRTVVaek1ERkhJQ3l1dXZScG9xbXUzYVVvV01lUmVrb2kzRE80ckg0U2JjMmZ3T2t1TU5LY1JUcDFUNVQySGVrcEwtb0NRMmxMWDRRa21GTzg0MUxmRVNJY0ltY0ZFSEpjS096ajdIcmtLUjBPckpSZ2pUY3ZBWElBZTBvekZlVXA5?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-10-29T17:25:41+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Prefeitura de Porto Alegre simula fechamento de comportas em caso de inundação do Guaíba Diário Gaúcho"
+      "resumo": "Prefeitura de Porto Alegre simula fechamento de comportas em caso de inundação do Guaíba GZH"
     },
     {
       "id": "46609f57e66e",
@@ -249,7 +249,7 @@
       "fonte": "Polícia Penal",
       "publicado_em": "2026-10-27T19:37:56+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "metro_poars",
       "resumo": "Oficina aborda equidade racial e saúde para profissionais que atuam em unidades prisionais femininas de Guaíba e Porto Alegre Polícia Penal"
     },
     {
@@ -261,16 +261,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Icehot instala estação de hidratação na Orla do Guaíba Expansão"
-    },
-    {
-      "id": "a5b499206f81",
-      "titulo": "Na cidade mais alta do RS, a cerração aparece quase todo dia e nascem rios que formam as bacias do Guaíba e do Uruguai",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRWtJT0JlekVwZ1dzVVY1ajduS09sa0FrWi1ZQVRxaEpYSXVYNmhsbFNkcWdTQzhpcURQY2hqOFNWSEZPMjJGd05JVGJBWDF2WUpDOFZKZTRmQ19kNDlsTW9GNXFvaEtnUFh1WF9jZExVallTQm12Tno3dENjRGtxR2IyWHgzVnJuTFRuVnlHZWtjT05Ud0U3QldZSWhjRWtVMmtaUHZJS3VRWW5vOU1rMUY4emxuMDRBVUxVa00yRkNmMlZma0dJY2VFd1QycEJ4eGNZY3FXVm11cEZyNDQ5UkpadElmeE5FOUlPRUU2c3VwWTZxU0lUMzRR?oc=5",
-      "fonte": "Brasil 247",
-      "publicado_em": "2026-10-27T09:45:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Na cidade mais alta do RS, a cerração aparece quase todo dia e nascem rios que formam as bacias do Guaíba e do Uruguai Brasil 247"
     },
     {
       "id": "1d8c9bd9184e",
@@ -291,16 +281,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Prefeitura de Guaíba presta esclarecimentos sobre suspeita fraude em licitações Correio do Povo"
-    },
-    {
-      "id": "e57e55bccc8e",
-      "titulo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU0lTeTJIZzZJOEh0QnY4QnRBclZSU3BHT0tDaE1QUDlNN2x6QWxYSHlIN0lWMkg5YkhKQlQ2T25ra3UtV2x6QURJWU5nS1FTMm1neU0yUVlyUlhaYWsyRlpEdEtERDhyN2FKMW5Ga2RMeTJDdUNVUDU2WUh2ZEJBaUtHYmxpTGJzVWhiWWZxRHNFOTdwS252ZDV2b1l4UXVvbFR2ZWlWeW1hak1sdzM3M1QwVmZNSl90TnJ0M1BvaVBQdFNkR0ttN19HWGd2SkFzZlFidnUtZDhOTXU2eVdF?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-26T18:28:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service Repórter Guaibense"
     },
     {
       "id": "d513827b4870",
@@ -333,9 +313,9 @@
       "resumo": "Guaíba (RS): resultado do local de votação por zonas eleitorais no 2º turno G1"
     },
     {
-      "id": "1bafd9e806dd",
+      "id": "4e3c538c989e",
       "titulo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZ3V3b0dMV0NISlp5N0wySUNRYXBhQVNjRWtqeXZrSmRsc1E2dG9yT1V3cEY5a0tuUFNQMnRNWnJyWWV4c2g3c1E2dW9rTF9VdFAzTElrVl9zbFBzblBkbHBBZ3k0MU8tX1JfWG01aVZTaGl4QlNtaEpEeml4SjIycmJqMkhqR0VLcVpPOGVIcEhXZnpvN3pxNmVJSC13QXpGUWxaaWtWbUFmNDJqcGlHdGFDblRGWktPeXBrVDVFamhlUFdNSllQeVUwSDAxVENTb3g3QXRJVTU2OGhDTDZJMUF4TDRZVHZUQnhvRjExdmJxaWlV0gH0AUFVX3lxTE5ndXdvR0xXQ0hKWnk3TDJJQ1FhcGFBU2NFa2p5dmtKZGxzUTZ0b3JPVXdwRjlrS25QU1AydE1acnJZZXhzaDdzUTZ1b2tMX1V0UDNMSWtWX3NsUHNuUGRscEFneTQxTy1fUl9YbTVpVlNoaXhCU21oSkR6aXhKMjJyYmoySGpHRUtxWk84ZUhwSFdmem83enE2ZUlILXdBekZRbFppa1ZtQWY0MmpwaUd0YUNuVEZaS095cGtUNUVqaGVQV01KWVB5VTBIMDFUQ1NveDdBdElVNTY4aENMNkkxQXhMNFlUdlRCeG9GMTF2YnFpaVU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRHRmYkRxTlBiZlJFYnlmWXF5ckEzMk0xTTU5U0NlS1d2N0xhT2JrdEFreFZQM0FpMEFHaGpXU2txLXNQTlNqRXBGUEI3dHY1dW1laUREdFBwMjI3Y2FXanlaSGRGcm02aGxCeUxHNXc2ckpEX3FOc21FaE9WUGVBenJpdHZaMEUtWFJjUUljeXQ3VE5tMDVQN0FfWFdTZVFxOFg5UGRjaUxjU09WMjUtWlJzZEhLYndMRlBjX0lEOEZVbU81dHR2Y3A3Q2UybU5PNEdmN1VzNXdYUExrTTNOREZzU0tNZ9IB9AFBVV95cUxOZ3V3b0dMV0NISlp5N0wySUNRYXBhQVNjRWtqeXZrSmRsc1E2dG9yT1V3cEY5a0tuUFNQMnRNWnJyWWV4c2g3c1E2dW9rTF9VdFAzTElrVl9zbFBzblBkbHBBZ3k0MU8tX1JfWG01aVZTaGl4QlNtaEpEeml4SjIycmJqMkhqR0VLcVpPOGVIcEhXZnpvN3pxNmVJSC13QXpGUWxaaWtWbUFmNDJqcGlHdGFDblRGWktPeXBrVDVFamhlUFdNSllQeVUwSDAxVENTb3g3QXRJVTU2OGhDTDZJMUF4TDRZVHZUQnhvRjExdmJxaWlV?oc=5",
       "fonte": "G1",
       "publicado_em": "2026-10-26T05:50:00+00:00",
       "categoria": null,
@@ -359,8 +339,18 @@
       "fonte": "G1",
       "publicado_em": "2026-10-26T05:46:18+00:00",
       "categoria": null,
-      "feed": "google",
+      "feed": "vizinhos",
       "resumo": "E.M.E.F. Maximo Laviaguerre, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+    },
+    {
+      "id": "0d37966f8cfb",
+      "titulo": "E.E.E.M. Professora Aglae Kehl, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWVdIS0NmS2twcWJKM2NuOHFQX3Y4bldheXhRZ09NRVdrTExDbDBhR3VQS0ZBd21mMWdMWWpoYTFGM2tRRW5mbGY1U2lxdXdCUnpSQWlZbWowYlpNVU1MOWFlWmVIaXlPNy1VZjZoUy03ZGZ4QnFaMG15cDc1VnNvWThxN2R5V2JBZHBxX0huY0wxTHd6TDN0dUJKelBkTXlsRkl4aTlMZzg2WEpxMDBCdE9KTmhLS2RjMlpKS3FmSVNibnczY040Ym5sellwZXctSWNtU1gyTkJ6WE1KWkRpXzFfUGN3cW9jdnRDLXRicVhZLXh2Z3Fqclp5bWs4WUtmVGVMY29n0gGUAkFVX3lxTFAwcjNaaDQ3Vzd4NDVkUlYtTEo5eDRKTV80UFJlOFMzQ2VuS056dks4M0lIbEZMTzd2OUc3VWc4bjFhNy1GeGY5WWp4NXBfOGRPNkwwamdLaHVMQWhteHcwa0RhSm9ocFkwaE1jXzN2cTNKTWJRTUxjUFl2bTlhVlBHSkZFbVVJUFo0ZVd1NUE3QnU3MDFmdWR6VmJkRlktWEtYM1VHR1oxc2thekdCOGRudTVPYWplb1MtZ25fVjdURXRYSUhPVFdGZUJWdDVOdHdiLXBVSGxQT1BzbExrcE50YnJLcnFQRllraVoyVklvR3NkUmdpal9lSnI0SEJnY2J4djIzRGZTcDcyQmF4YWcwWG9LcQ?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T05:45:26+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "E.E.E.M. Professora Aglae Kehl, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
       "id": "ad783510933f",
@@ -371,6 +361,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "E.E.E.M. Otero Paiva Guimaraes, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+    },
+    {
+      "id": "841d6a7c91ee",
+      "titulo": "E.M.E.F. Breno Guimaraes, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNLVdqWjRmQlE2a0JBRXQ1STNvcFJyQ21uQ0dFbzMtWm9namYxVFlBbDU1VEkxS1ZGUm9XcmZOTlI0NkNtby1lQTluSk9yaGNxT2RsdlNTWldpNWs0amNiZEpxRURJS3ZPMHBEOC1wWUotZ2luRzVyRTRSZGxkNlE4S3JKTFItd19fWXhBRkJYcGpwVThSTEkzMWtaNVIyeThKTkJUVzd0V2EyVVFndkxaVE40aEFzR3dGOFJQVGZLT0YwWFVCZ2xiMEp5UEZDZl9JZC1XZ2V2QzJaU2tqSTZsZ1pUeXNwT0VOMXhhUFRkTmFxTHpXdWdxUkk5RTdlTXZzclVJb1htcFQ3TVdn0gGMAkFVX3lxTE0tV2paNGZCUTZrQkFFdDVJM29wUnJDbW5DR0VvMy1ab2dqZjFUWUFsNTVUSTFLVkZSb1dyZk5OUjQ2Q21vLWVBOW5KT3JoY3FPZGx2U1NaV2k1azRqY2JkSnFFRElLdk8wcEQ4LXBZSi1naW5HNXJFNFJkbGQ2UThLckpMUi13X19ZeEFGQlhwanBVOFJMSTMxa1o1UjJ5OEpOQlRXN3RXYTJVUWd2TFpUTjRoQXNHd0Y4UlBUZktPRjBYVUJnbGIwSnlQRkNmX0lkLVdnZXZDMlpTa2pJNmxnWlR5c3BPRU4xeGFQVGROYXFMeld1Z3FSSTlFN2VNdnNyVUlvWG1wVDdNV2c?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T05:45:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "E.M.E.F. Breno Guimaraes, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     }
   ],
   "noticias_home": [
@@ -385,16 +385,6 @@
       "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
     },
     {
-      "id": "e808e9cd1c8f",
-      "titulo": "Inauguração do novo centro de distribuição do Mercado Livre marca as comemorações de 100 anos de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/inauguracao-do-novo-centro-de-distribuicao-do-mercado-livre-marca-as-comemoracoes-de-100-anos-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O empreendimento está instalado no complexo logístico Ellosul, às margens da BR-116"
-    },
-    {
       "id": "e38f66be6482",
       "titulo": "Polícia Civil combate crimes contra a administração pública em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/policia-civil-combate-crimes-contra-a-administracao-publica-em-guaiba",
@@ -403,6 +393,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Aproximadamente 25 policiais civis cumpriram sete mandados de busca e apreensão, nesta quinta-feira (22)"
+    },
+    {
+      "id": "831fcf5ba47f",
+      "titulo": "Lula venceu Flávio Bolsonaro por 50,19% a 49,81% em Guaíba; veja os resultados por local de votação",
+      "url": "https://www.reporterguaibense.com.br/noticia/lula-venceu-flavio-bolsonaro-por-50-19-a-49-81-em-guaiba-veja-os-resultados-por-local-de-votacao",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Lula foi o mais votado em 18 locais de votação, enquanto Flávio Bolsonaro venceu em 16"
     },
     {
       "id": "0e712728c4fe",
@@ -425,16 +425,6 @@
       "resumo": "Obra é dos autores Luís Augusto Lopes e Breno Serafini, e tem prefácio de Altair Martins"
     },
     {
-      "id": "689591584b62",
-      "titulo": "Com 200 vozes de corais da cidade, música do centenário de Guaíba já está disponível no Spotify",
-      "url": "https://www.reporterguaibense.com.br/noticia/com-200-vozes-de-corais-da-cidade-musica-do-centenario-de-guaiba-ja-esta-disponivel-no-spotify",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "&#34;Guaíba Solar&#34; é composta e interpretada pelos músicos guaibenses Victoria e Rafael Sonic"
-    },
-    {
       "id": "3ff2b6494b3f",
       "titulo": "Acusado de atropelar e matar menino de 10 anos e jovem de 22 na BR-116, em Guaíba, vai a júri popular",
       "url": "https://www.reporterguaibense.com.br/noticia/acusado-de-atropelar-e-matar-menino-de-10-anos-e-jovem-de-22-na-br-116-em-guaiba-vai-a-juri-popular",
@@ -444,14 +434,24 @@
       "feed": "reporter_direto"
     },
     {
-      "id": "831fcf5ba47f",
-      "titulo": "Lula venceu Flávio Bolsonaro por 50,19% a 49,81% em Guaíba; veja os resultados por local de votação",
-      "url": "https://www.reporterguaibense.com.br/noticia/lula-venceu-flavio-bolsonaro-por-50-19-a-49-81-em-guaiba-veja-os-resultados-por-local-de-votacao",
+      "id": "a39effb41aea",
+      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Lula foi o mais votado em 18 locais de votação, enquanto Flávio Bolsonaro venceu em 16"
+      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
+    },
+    {
+      "id": "374a58721742",
+      "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
+      "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
     }
   ]
 }
