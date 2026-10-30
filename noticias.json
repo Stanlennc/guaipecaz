@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-30T04:27:30.000289+00:00",
+  "gerado_em": "2026-10-30T12:09:33.620673+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -173,14 +173,24 @@
       "resumo": "As receitas previstas passam de R$ 757,4 milhões para R$ 712,3 milhões, uma redução de 5,95%"
     },
     {
-      "id": "f43595063594",
-      "titulo": "Prefeitura de Porto Alegre simula fechamento de comportas em caso de inundação do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMkRmZ1UwOGg1bWJuQTZzS3hrM1l2Z0NnQUJuUG1qR3M4WW5IVk9icGlBM19rN0YwZUxQNEZqeHhHNjZpWWxYU1lleDF0LWlJTVFLemtTaU5RODRGdGdjYndjRXZ4c0lnR1B5ZzMzMjBDeDlnaDNWYUtyQ1JSWmhpRE9TcGtWbUNIUjFRTVVaek1ERkhJQ3l1dXZScG9xbXUzYVVvV01lUmVrb2kzRE80ckg0U2JjMmZ3T2t1TU5LY1JUcDFUNVQySGVrcEwtb0NRMmxMWDRRa21GTzg0MUxmRVNJY0ltY0ZFSEpjS096ajdIcmtLUjBPckpSZ2pUY3ZBWElBZTBvekZlVXA5?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-10-29T17:25:41+00:00",
+      "id": "796232a2f0c0",
+      "titulo": "Projeto de Guaíba promove formação comunitária em defesa civil",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbks0ZkgzMF9DbHV5RWNiUjNNUkNZbm5RSVlRSWpqQU5uYU5kTUhNSHRUN09TNlYwQXNsOVlWMWZ4blpac2ZYNVN3X0JRdC1veGp5WDhoXzl0Z2VDaTZncEd6VGFGS0N4Vk1SRlp2MVdBMEtWbEQyYTJaNThPdXNHWlNXby1ycUx3Ny1SSklPQWlGVS1Mbzd6NWpXTENSblNrbVB0YmVqMEpDNFl3a21EZW5ZNG1LYnZwSm1JLTBjRlRrVVJlLUEzMHplUlNwcFdYaEQ2djVQVFVJTTd0cnhsc0RDNzFnZFItUjk4?oc=5",
+      "fonte": "Diário Gaúcho",
+      "publicado_em": "2026-10-30T11:04:11+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Prefeitura de Porto Alegre simula fechamento de comportas em caso de inundação do Guaíba GZH"
+      "feed": "vizinhos",
+      "resumo": "Projeto de Guaíba promove formação comunitária em defesa civil Diário Gaúcho"
+    },
+    {
+      "id": "7a26ca746921",
+      "titulo": "Prefeitura de Porto Alegre simula fechamento de comportas em caso de inundação do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdTNmZW5JOW85dkU3d3R1bW1WcDBSVWpsYi1ERzNPTnR1ZkxrRVZla2xWLUlobV8zVnNQM0VrNlItd3BrbENZQ2wzTjFneG1ETHB5VWJncDJRUUNUMUZORHo4YURZRmMtbFN1OVJYWDZhcGVsTkR2Mk9MMVc3aE1sblhWdFJiZjRKZ1M5QkVEQlctOTRiRVlyUktqT2pLMDlhR000ZXV6c294b3N0cnE5UVh0Tno4enBUZVE?oc=5",
+      "fonte": "Serra e Litoral",
+      "publicado_em": "2026-10-30T02:38:09+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Prefeitura de Porto Alegre simula fechamento de comportas em caso de inundação do Guaíba Serra e Litoral"
     },
     {
       "id": "46609f57e66e",
@@ -239,7 +249,7 @@
       "fonte": "Polícia Penal",
       "publicado_em": "2026-10-27T19:37:56+00:00",
       "categoria": null,
-      "feed": "metro_poars",
+      "feed": "recentes",
       "resumo": "Oficina aborda equidade racial e saúde para profissionais que atuam em unidades prisionais femininas de Guaíba e Porto Alegre Polícia Penal"
     },
     {
@@ -251,6 +261,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Icehot instala estação de hidratação na Orla do Guaíba Expansão"
+    },
+    {
+      "id": "f4314dd57f22",
+      "titulo": "Guaíba encerra ciclo estadual da Semana do Ministério Público em 2026",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOVcxNTl5RTd4dl9fTnBwc3FzT3BuM2VNanF1TWZUMThpUnh3My1LLVpQLWp2NlowSHhnM2JMUFZmYnRaV3E5bFV1dVFtSkFWVXVQUjZOYTVxRFRHRW1oNFBMbXhrUEhrOXJYRG5tby1HTHVpTXM5a0Q2SkFOSjVTQ0hWcThiM2JSU2ZOVXpUZXQ0VkR6dmx0WjNTbk5DZmhCTFlCUEhLOVFwN1FCSVVpVE5KR3pRSV9pU3dZeWQwYThVSUpaRVprcTI5RTZSZm8?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-10-27T15:04:26+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba encerra ciclo estadual da Semana do Ministério Público em 2026 Correio do Povo"
     },
     {
       "id": "1d8c9bd9184e",
@@ -271,6 +291,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Prefeitura de Guaíba presta esclarecimentos sobre suspeita fraude em licitações Correio do Povo"
+    },
+    {
+      "id": "e57e55bccc8e",
+      "titulo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU0lTeTJIZzZJOEh0QnY4QnRBclZSU3BHT0tDaE1QUDlNN2x6QWxYSHlIN0lWMkg5YkhKQlQ2T25ra3UtV2x6QURJWU5nS1FTMm1neU0yUVlyUlhaYWsyRlpEdEtERDhyN2FKMW5Ga2RMeTJDdUNVUDU2WUh2ZEJBaUtHYmxpTGJzVWhiWWZxRHNFOTdwS252ZDV2b1l4UXVvbFR2ZWlWeW1hak1sdzM3M1QwVmZNSl90TnJ0M1BvaVBQdFNkR0ttN19HWGd2SkFzZlFidnUtZDhOTXU2eVdF?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-26T18:28:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service Repórter Guaibense"
     },
     {
       "id": "d513827b4870",
@@ -303,9 +333,9 @@
       "resumo": "Guaíba (RS): resultado do local de votação por zonas eleitorais no 2º turno G1"
     },
     {
-      "id": "4e3c538c989e",
+      "id": "1bafd9e806dd",
       "titulo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRHRmYkRxTlBiZlJFYnlmWXF5ckEzMk0xTTU5U0NlS1d2N0xhT2JrdEFreFZQM0FpMEFHaGpXU2txLXNQTlNqRXBGUEI3dHY1dW1laUREdFBwMjI3Y2FXanlaSGRGcm02aGxCeUxHNXc2ckpEX3FOc21FaE9WUGVBenJpdHZaMEUtWFJjUUljeXQ3VE5tMDVQN0FfWFdTZVFxOFg5UGRjaUxjU09WMjUtWlJzZEhLYndMRlBjX0lEOEZVbU81dHR2Y3A3Q2UybU5PNEdmN1VzNXdYUExrTTNOREZzU0tNZ9IB9AFBVV95cUxOZ3V3b0dMV0NISlp5N0wySUNRYXBhQVNjRWtqeXZrSmRsc1E2dG9yT1V3cEY5a0tuUFNQMnRNWnJyWWV4c2g3c1E2dW9rTF9VdFAzTElrVl9zbFBzblBkbHBBZ3k0MU8tX1JfWG01aVZTaGl4QlNtaEpEeml4SjIycmJqMkhqR0VLcVpPOGVIcEhXZnpvN3pxNmVJSC13QXpGUWxaaWtWbUFmNDJqcGlHdGFDblRGWktPeXBrVDVFamhlUFdNSllQeVUwSDAxVENTb3g3QXRJVTU2OGhDTDZJMUF4TDRZVHZUQnhvRjExdmJxaWlV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZ3V3b0dMV0NISlp5N0wySUNRYXBhQVNjRWtqeXZrSmRsc1E2dG9yT1V3cEY5a0tuUFNQMnRNWnJyWWV4c2g3c1E2dW9rTF9VdFAzTElrVl9zbFBzblBkbHBBZ3k0MU8tX1JfWG01aVZTaGl4QlNtaEpEeml4SjIycmJqMkhqR0VLcVpPOGVIcEhXZnpvN3pxNmVJSC13QXpGUWxaaWtWbUFmNDJqcGlHdGFDblRGWktPeXBrVDVFamhlUFdNSllQeVUwSDAxVENTb3g3QXRJVTU2OGhDTDZJMUF4TDRZVHZUQnhvRjExdmJxaWlV0gH0AUFVX3lxTE5ndXdvR0xXQ0hKWnk3TDJJQ1FhcGFBU2NFa2p5dmtKZGxzUTZ0b3JPVXdwRjlrS25QU1AydE1acnJZZXhzaDdzUTZ1b2tMX1V0UDNMSWtWX3NsUHNuUGRscEFneTQxTy1fUl9YbTVpVlNoaXhCU21oSkR6aXhKMjJyYmoySGpHRUtxWk84ZUhwSFdmem83enE2ZUlILXdBekZRbFppa1ZtQWY0MmpwaUd0YUNuVEZaS095cGtUNUVqaGVQV01KWVB5VTBIMDFUQ1NveDdBdElVNTY4aENMNkkxQXhMNFlUdlRCeG9GMTF2YnFpaVU?oc=5",
       "fonte": "G1",
       "publicado_em": "2026-10-26T05:50:00+00:00",
       "categoria": null,
@@ -323,14 +353,14 @@
       "resumo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
-      "id": "0d37966f8cfb",
-      "titulo": "E.E.E.M. Professora Aglae Kehl, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWVdIS0NmS2twcWJKM2NuOHFQX3Y4bldheXhRZ09NRVdrTExDbDBhR3VQS0ZBd21mMWdMWWpoYTFGM2tRRW5mbGY1U2lxdXdCUnpSQWlZbWowYlpNVU1MOWFlWmVIaXlPNy1VZjZoUy03ZGZ4QnFaMG15cDc1VnNvWThxN2R5V2JBZHBxX0huY0wxTHd6TDN0dUJKelBkTXlsRkl4aTlMZzg2WEpxMDBCdE9KTmhLS2RjMlpKS3FmSVNibnczY040Ym5sellwZXctSWNtU1gyTkJ6WE1KWkRpXzFfUGN3cW9jdnRDLXRicVhZLXh2Z3Fqclp5bWs4WUtmVGVMY29n0gGUAkFVX3lxTFAwcjNaaDQ3Vzd4NDVkUlYtTEo5eDRKTV80UFJlOFMzQ2VuS056dks4M0lIbEZMTzd2OUc3VWc4bjFhNy1GeGY5WWp4NXBfOGRPNkwwamdLaHVMQWhteHcwa0RhSm9ocFkwaE1jXzN2cTNKTWJRTUxjUFl2bTlhVlBHSkZFbVVJUFo0ZVd1NUE3QnU3MDFmdWR6VmJkRlktWEtYM1VHR1oxc2thekdCOGRudTVPYWplb1MtZ25fVjdURXRYSUhPVFdGZUJWdDVOdHdiLXBVSGxQT1BzbExrcE50YnJLcnFQRllraVoyVklvR3NkUmdpal9lSnI0SEJnY2J4djIzRGZTcDcyQmF4YWcwWG9LcQ?oc=5",
+      "id": "6618e715ad7e",
+      "titulo": "E.M.E.F. José Carlos Ferreira, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPal9KSUR6cHBIR0NnTEloY2hhMnFwdWpTc3VpNGliTm9rRnpobUxYbGVXYTlHQ09nMzI1cGxDQllaYk1EaUhDUG9IaFExd1FlS3pESGtLU0VqWWI3bzRhNnR6Z2VGamtoMG4zZVNadERlNUpJYUJOWHZjU0t1THVoTDZfdjVSaUNuendFdDlheDFFeUhIWGprMzlMZU5aM1FTM1ByR0tJS0VFbHRFMTh4S0kzeDR3VFhFY21VX0hXeU13VDU0VldFT1ViZ0hZY1JFaVhGRWJBS0VfejgxWW56UVQxdVd1NXN0YldfLVFpZGJha0hGd29TeVl3Y0E4RkMzeThGV9IBkwJBVV95cUxPZUZlZzRfaWJwR1pKSW9HQlYtbVMyOFg3Und6NG0wVlQwTFZhN3psenE0R29kem1ROF9GSi1HdFdrT3NwTWZqb05zdWNXSnVtY3FxRlJNdUpWUlBydkVWdFBJTDQ2ZnM0dFJqajlVQ0VraWhrSXhBa1lGS0JUWVladWdTVk1Md3Y5V1dOR1hCYmRzeXZsMHJhNjJQOERPcXF3cW51d254LUtEdE84aDdjeHhFUnJsT01iVzdBU05mbGQxeHhtUzhab1dvVGhSWkFtT1N0VnBsTFdZRXVxaFNwMHlHbXpINXJvTkVCM3BuelNDamJRcnh1WHZrNmZmVnRFWDRIdEtFdnBxbEtMcVZuZWgxUQ?oc=5",
       "fonte": "G1",
-      "publicado_em": "2026-10-26T05:45:26+00:00",
+      "publicado_em": "2026-10-26T05:45:47+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "E.E.E.M. Professora Aglae Kehl, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+      "resumo": "E.M.E.F. José Carlos Ferreira, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
       "id": "ad783510933f",
@@ -341,36 +371,6 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "E.E.E.M. Otero Paiva Guimaraes, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "245055d4e4f2",
-      "titulo": "Salao Paroquial Petim, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTzQwYUt1aFhCbEloWXVSNi1hbzA5SkxWcjFfOGF1bzZuSGo1XzF6SzV3TWdoSmI1UUlXdm1nTGFUNzZsV3RaN0FNQUZjS2NPZUoyaXZ4dFpfZldtSTFDU2s3VnhFUW90OEc0YTNSZmpIV0hvYzZyOGVwSklfVGNuUUgwdUNtNVZQNWFYNGs0QWNjU2RwWnJiY25TWFlDZmhpei1pSkU0YzFvdEdGZnFJNzc1NXkyalFtU2VMQmkzYW96a0hra2hlUWZvUnF0c0V2NFdaSkhJTjJPOGN2bzd1MktjMl9aMEVoNHNLOFFvVXBsdWZlOWtrR1hHUdIBigJBVV95cUxOOTN3SGJwNWIzeHJ1WjFybDdHWm9mMnpBRDMtMTRHb1lkMEdPY2lKOHNLYnVERlBralRSWkdOU2lFVXVkTHlFV0E0czdrWVBENGMyMk1QSnhhTkN5MTg0dy11NFVlUTFudnJQSDJpWVhBOFJDTmJWcFZzYVhZNHpfZWJLLUhkcC03R0EwelUxV0RhdjRfMzV6cHJaXzJEalVRQUxIZFNtbFJzaFpyMHJfNVdvcWVYV2t3UmM1OEVQTXRqdmZ4XzFDME53VGZNd1g2VFFkcjRocmg5SGZQZXQ4NjZTS1hGN0hIc25EZTBtYWsxVDg3YmdxSWNpQzhxMW55eThyUVZKQ1R6QQ?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T05:45:16+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Salao Paroquial Petim, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "841d6a7c91ee",
-      "titulo": "E.M.E.F. Breno Guimaraes, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNLVdqWjRmQlE2a0JBRXQ1STNvcFJyQ21uQ0dFbzMtWm9namYxVFlBbDU1VEkxS1ZGUm9XcmZOTlI0NkNtby1lQTluSk9yaGNxT2RsdlNTWldpNWs0amNiZEpxRURJS3ZPMHBEOC1wWUotZ2luRzVyRTRSZGxkNlE4S3JKTFItd19fWXhBRkJYcGpwVThSTEkzMWtaNVIyeThKTkJUVzd0V2EyVVFndkxaVE40aEFzR3dGOFJQVGZLT0YwWFVCZ2xiMEp5UEZDZl9JZC1XZ2V2QzJaU2tqSTZsZ1pUeXNwT0VOMXhhUFRkTmFxTHpXdWdxUkk5RTdlTXZzclVJb1htcFQ3TVdn0gGMAkFVX3lxTE0tV2paNGZCUTZrQkFFdDVJM29wUnJDbW5DR0VvMy1ab2dqZjFUWUFsNTVUSTFLVkZSb1dyZk5OUjQ2Q21vLWVBOW5KT3JoY3FPZGx2U1NaV2k1azRqY2JkSnFFRElLdk8wcEQ4LXBZSi1naW5HNXJFNFJkbGQ2UThLckpMUi13X19ZeEFGQlhwanBVOFJMSTMxa1o1UjJ5OEpOQlRXN3RXYTJVUWd2TFpUTjRoQXNHd0Y4UlBUZktPRjBYVUJnbGIwSnlQRkNmX0lkLVdnZXZDMlpTa2pJNmxnWlR5c3BPRU4xeGFQVGROYXFMeld1Z3FSSTlFN2VNdnNyVUlvWG1wVDdNV2c?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T05:45:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "E.M.E.F. Breno Guimaraes, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "c5b9d41bfa27",
-      "titulo": "Sociedade Uniao dos Veteranos, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZmx3LV9vU2xkUklRQ1BwR05rUlllMnVJODlOSHJVdlQ1R2szdldENzRxQUhDYk9Tdk0zczEwVHR6WWFMM0l5TEtPYWtLbnF3MEhfTFJscFJ2RWxmNmlNVS1GaUQ0aWtELUl0S1RoYXhCVmxzWmVxMmtKOFl6YUhZOHVmZUJ2YUpMcXplZDhEV1pYQk52eTVaSzdBb3hQdlZqbGxFYTVySi11YXlNYmJUVFNVUFdiWTV6M3RtcmdlZTFYYTMyZFFhU0ZVZS1FU09ZZVk0TnV6d0JLXzNXNGtGaHFYMVBUaDZEdTlzUUlZS0VTcXFBZ1d1MUNhQnNXY1dnaTZ3aXFn0gGUAkFVX3lxTE82b0lkaDVPdGdDX0ttQ2pzbkxUdXNUaEVrbDRybnI3ODdkV1QzMndkYU9FTXFYSE9oNWxzazh1ZEZoLWg1UGRadmdQbnhhUk5FY25GbV9neWJRQlhjTWtlZUtUQ0s1YTlrYzR5Vk03RmRsWkxvVFUxUi15MUNmVG1FTktMZHZPeTNuaEZIN25KVTIyaXNpWjc4UEhhOXozbGJ4eUw1Z0lZeG00eXdGdkdxUENUcVY5cWtiMEc3RXVMenRFZXU5SmVtSkpBOVV1aTlwN28zR0hKZjFrd0RGOHI5TlFuYW51bThzUm9JdmU4WUExVDhvT0VNUmVzWTBNQ2hGb3ZjNFJURHZnV2YtSm1fTWVGMw?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T05:44:20+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Sociedade Uniao dos Veteranos, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     }
   ],
   "noticias_home": [
