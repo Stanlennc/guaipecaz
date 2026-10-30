@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-29T22:26:47.966310+00:00",
+  "gerado_em": "2026-10-30T04:27:30.000289+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -141,16 +141,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
-    },
-    {
-      "id": "374a58721742",
-      "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
     },
     {
       "id": "11822b2ad708",
@@ -303,9 +293,9 @@
       "resumo": "Galhos e dragagem lenta prejudicam navegação no Guaíba, diz setor empresarial gaúcho Correio do Povo"
     },
     {
-      "id": "2cb7e97ed3a5",
+      "id": "cc32b7d0ef88",
       "titulo": "Guaíba (RS): resultado do local de votação por zonas eleitorais no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUjhvUExncE5pSVRXR2wzeDZjNkZ3TFV3ZDJRaTVFb1kxYm15aFFuZ0djZE1kd21IaGtWSDRvdGpWMUc0cXFjZEMzclJ5aS02alB2dDRIT1BSbnNraUxVNXgxMkh2aHhGWHVOVnVrTzVKQUYwc2hOWWppSGg4ZnRLX1hlYUZWQzk3ZF9vTThuSjhBWVBZbkFLeXlzX0hyLW1xOXpRV2RKUEVaWGFHOGJwbGZZTlIwTDFYVkw1eFpQalNXdm9TaEhqLW81ZUtBdm1DTjNud0VNUE5fa1hoUFYxODhBV0VXckJvZ0FjRDhzMUhoR1BQajlF0gH3AUFVX3lxTFBSOG9QTGdwTmlJVFdHbDN4NmM2RndMVXdkMlFpNUVvWTFibXloUW5nR2NkTWR3bUhoa1ZING90alYxRzRxcWNkQzNyUnlpLTZqUHZ0NEhPUFJuc2tpTFU1eDEySHZoeEZYdU5WdWtPNUpBRjBzaE5ZamlIaDhmdEtfWGVhRlZDOTdkX29NOG5KOEFZUFluQUt5eXNfSHItbXE5elFXZEpQRVpYYUc4YnBsZllOUjBMMVhWTDV4WlBqU1d2b1NoSGotbzVlS0F2bUNOM253RU1QTl9rWGhQVjE4OEFXRVdyQm9nQWNEOHMxSGhHUFBqOUU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONmE0SEhIUEJHakJZbHRDYlpIN29tdHFsZDNnVVFkakNxdUlNU0k2bGxick5BeU05NTFKYlg4UklxbUJCWVc5UGRGeEVUelFSTnlGM0p0ZWZJRXowS3JXZFMzYXZBNmNqdm1ZVzN2QUVCQ01VWXhISEFUTU8zSi1tcGFrc1VpdWhKdG5qaFFKU1FQMmFMbk9ZVEIyZ3N2RVVIcTU4R0JBYlpMd0hrYUhzMXI3Mk1ZNjh1ZXpGdXBxR0ZCTVNYSkFENG1XemdqblhjaVNxb01EMDNuaFdZWnkwT3BGNDdlcm5t0gH3AUFVX3lxTFBSOG9QTGdwTmlJVFdHbDN4NmM2RndMVXdkMlFpNUVvWTFibXloUW5nR2NkTWR3bUhoa1ZING90alYxRzRxcWNkQzNyUnlpLTZqUHZ0NEhPUFJuc2tpTFU1eDEySHZoeEZYdU5WdWtPNUpBRjBzaE5ZamlIaDhmdEtfWGVhRlZDOTdkX29NOG5KOEFZUFluQUt5eXNfSHItbXE5elFXZEpQRVpYYUc4YnBsZllOUjBMMVhWTDV4WlBqU1d2b1NoSGotbzVlS0F2bUNOM253RU1QTl9rWGhQVjE4OEFXRVdyQm9nQWNEOHMxSGhHUFBqOUU?oc=5",
       "fonte": "G1",
       "publicado_em": "2026-10-26T05:53:14+00:00",
       "categoria": null,
@@ -333,16 +323,6 @@
       "resumo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
-      "id": "59821544750e",
-      "titulo": "E.M.E.F. Maximo Laviaguerre, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNU0VsbnRBS2dfVnlJdWVFVHFjaldZQXpfNG9HNzE1dFRyVWI1b0xNSDdxS1FGakFmSi1pd0JNc0xSc2U3c3Vfd0M5dEV6SGpFOWpLWEtmaWNhT2cxcmtwRWFuSFJ6N2hWY1JMWGQ2Z1VUMU5XZ0x6MWJMUmRUZmtRUEl4VEp5UmNnWXRTNmVjWlVmNENIMTlldG1TNzl2Y1Fqd3N0NExlZF84SzZHelBjRUxYRkRvTWcxQV9URkJMcWs4aUZMSzIybmZQUEdZdXVRb3NzQm1OUHlCN2JXeHlIN0ozUmhkZ19BMklpMXpBdVp5U3hsZ0JlZVpKTmQ1YTJaMlHSAZACQVVfeXFMT3E4UkIyX1VMWmFPZmt1X1R5aV9yVkVjdGhaemJXeWR1MTV1QUJpckFueWluMk9QVkdxcDllb1VVVVJPS0VwYlhoRkNJLUZfM0tINTNlTXlqTkh0YXhsT1NPTlRkYXVxbzBsaUhzU1Z0YkZmN3hiQXpsbVFrOG5uXzJ3Mk5OTTVDdy0wYWN5TlcxQkVYVFVoelIxeWIzTXVsUXFjRm5ZUVRmRnlKaExjWHYwM044LTNoRHNrTXdKaGRKSlJLX184WEhwMWhwZ0FfMVJrXzZJeFF2LThkQmVZYnVJdGJDS2lhMkF1VWtCaFpub3JFRVRpU25jN3kwbDFDZDF5SnhGNU1fYWw0RE9PR2c?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T05:46:18+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "E.M.E.F. Maximo Laviaguerre, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
       "id": "0d37966f8cfb",
       "titulo": "E.E.E.M. Professora Aglae Kehl, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWVdIS0NmS2twcWJKM2NuOHFQX3Y4bldheXhRZ09NRVdrTExDbDBhR3VQS0ZBd21mMWdMWWpoYTFGM2tRRW5mbGY1U2lxdXdCUnpSQWlZbWowYlpNVU1MOWFlWmVIaXlPNy1VZjZoUy03ZGZ4QnFaMG15cDc1VnNvWThxN2R5V2JBZHBxX0huY0wxTHd6TDN0dUJKelBkTXlsRkl4aTlMZzg2WEpxMDBCdE9KTmhLS2RjMlpKS3FmSVNibnczY040Ym5sellwZXctSWNtU1gyTkJ6WE1KWkRpXzFfUGN3cW9jdnRDLXRicVhZLXh2Z3Fqclp5bWs4WUtmVGVMY29n0gGUAkFVX3lxTFAwcjNaaDQ3Vzd4NDVkUlYtTEo5eDRKTV80UFJlOFMzQ2VuS056dks4M0lIbEZMTzd2OUc3VWc4bjFhNy1GeGY5WWp4NXBfOGRPNkwwamdLaHVMQWhteHcwa0RhSm9ocFkwaE1jXzN2cTNKTWJRTUxjUFl2bTlhVlBHSkZFbVVJUFo0ZVd1NUE3QnU3MDFmdWR6VmJkRlktWEtYM1VHR1oxc2thekdCOGRudTVPYWplb1MtZ25fVjdURXRYSUhPVFdGZUJWdDVOdHdiLXBVSGxQT1BzbExrcE50YnJLcnFQRllraVoyVklvR3NkUmdpal9lSnI0SEJnY2J4djIzRGZTcDcyQmF4YWcwWG9LcQ?oc=5",
@@ -359,8 +339,18 @@
       "fonte": "G1",
       "publicado_em": "2026-10-26T05:45:18+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "E.E.E.M. Otero Paiva Guimaraes, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+    },
+    {
+      "id": "245055d4e4f2",
+      "titulo": "Salao Paroquial Petim, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTzQwYUt1aFhCbEloWXVSNi1hbzA5SkxWcjFfOGF1bzZuSGo1XzF6SzV3TWdoSmI1UUlXdm1nTGFUNzZsV3RaN0FNQUZjS2NPZUoyaXZ4dFpfZldtSTFDU2s3VnhFUW90OEc0YTNSZmpIV0hvYzZyOGVwSklfVGNuUUgwdUNtNVZQNWFYNGs0QWNjU2RwWnJiY25TWFlDZmhpei1pSkU0YzFvdEdGZnFJNzc1NXkyalFtU2VMQmkzYW96a0hra2hlUWZvUnF0c0V2NFdaSkhJTjJPOGN2bzd1MktjMl9aMEVoNHNLOFFvVXBsdWZlOWtrR1hHUdIBigJBVV95cUxOOTN3SGJwNWIzeHJ1WjFybDdHWm9mMnpBRDMtMTRHb1lkMEdPY2lKOHNLYnVERlBralRSWkdOU2lFVXVkTHlFV0E0czdrWVBENGMyMk1QSnhhTkN5MTg0dy11NFVlUTFudnJQSDJpWVhBOFJDTmJWcFZzYVhZNHpfZWJLLUhkcC03R0EwelUxV0RhdjRfMzV6cHJaXzJEalVRQUxIZFNtbFJzaFpyMHJfNVdvcWVYV2t3UmM1OEVQTXRqdmZ4XzFDME53VGZNd1g2VFFkcjRocmg5SGZQZXQ4NjZTS1hGN0hIc25EZTBtYWsxVDg3YmdxSWNpQzhxMW55eThyUVZKQ1R6QQ?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T05:45:16+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Salao Paroquial Petim, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
       "id": "841d6a7c91ee",
@@ -371,6 +361,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "E.M.E.F. Breno Guimaraes, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+    },
+    {
+      "id": "c5b9d41bfa27",
+      "titulo": "Sociedade Uniao dos Veteranos, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZmx3LV9vU2xkUklRQ1BwR05rUlllMnVJODlOSHJVdlQ1R2szdldENzRxQUhDYk9Tdk0zczEwVHR6WWFMM0l5TEtPYWtLbnF3MEhfTFJscFJ2RWxmNmlNVS1GaUQ0aWtELUl0S1RoYXhCVmxzWmVxMmtKOFl6YUhZOHVmZUJ2YUpMcXplZDhEV1pYQk52eTVaSzdBb3hQdlZqbGxFYTVySi11YXlNYmJUVFNVUFdiWTV6M3RtcmdlZTFYYTMyZFFhU0ZVZS1FU09ZZVk0TnV6d0JLXzNXNGtGaHFYMVBUaDZEdTlzUUlZS0VTcXFBZ1d1MUNhQnNXY1dnaTZ3aXFn0gGUAkFVX3lxTE82b0lkaDVPdGdDX0ttQ2pzbkxUdXNUaEVrbDRybnI3ODdkV1QzMndkYU9FTXFYSE9oNWxzazh1ZEZoLWg1UGRadmdQbnhhUk5FY25GbV9neWJRQlhjTWtlZUtUQ0s1YTlrYzR5Vk03RmRsWkxvVFUxUi15MUNmVG1FTktMZHZPeTNuaEZIN25KVTIyaXNpWjc4UEhhOXozbGJ4eUw1Z0lZeG00eXdGdkdxUENUcVY5cWtiMEc3RXVMenRFZXU5SmVtSkpBOVV1aTlwN28zR0hKZjFrd0RGOHI5TlFuYW51bThzUm9JdmU4WUExVDhvT0VNUmVzWTBNQ2hGb3ZjNFJURHZnV2YtSm1fTWVGMw?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T05:44:20+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Sociedade Uniao dos Veteranos, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     }
   ],
   "noticias_home": [
@@ -444,14 +444,14 @@
       "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
     },
     {
-      "id": "374a58721742",
-      "titulo": "32ª Romaria das Capelinhas reúne fiéis de Guaíba e região neste fim de semana",
-      "url": "https://www.reporterguaibense.com.br/noticia/32-romaria-das-capelinhas-reune-fieis-de-guaiba-e-regiao-neste-fim-de-semana",
+      "id": "11822b2ad708",
+      "titulo": "Ex-embaixatriz da terceira idade do Carnaval pede ajuda após incêndio atingir sua casa em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ex-embaixatriz-da-terceira-idade-do-carnaval-pede-ajuda-apos-incendio-atingir-sua-casa-em-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Neste ano, o evento tem como tema “Fraternidade e Moradia, seguindo os passos de José e de Maria”"
+      "resumo": "Em um vídeo publicado nas redes sociais, Mazé mostra os estragos causados pelo incêndio"
     }
   ]
 }
