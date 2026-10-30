@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-30T12:09:33.620673+00:00",
+  "gerado_em": "2026-10-30T18:59:18.432825+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -153,6 +153,16 @@
       "resumo": "Em um vídeo publicado nas redes sociais, Mazé mostra os estragos causados pelo incêndio"
     },
     {
+      "id": "1912430fa261",
+      "titulo": "Escritores e coletivo cultural de Guaíba integram programação da Feira do Livro de Porto Alegre",
+      "url": "https://www.reporterguaibense.com.br/noticia/escritores-e-coletivo-cultural-de-guaiba-integram-programacao-da-feira-do-livro-de-porto-alegre",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A programação dos próximos dias contará com lançamentos de livros, sessões de autógrafos e oficina de escrita criativa"
+    },
+    {
       "id": "6b27a37db175",
       "titulo": "Guaíba sedia capacitação sobre o ECA Digital e a Lei Henry Borel",
       "url": "https://www.reporterguaibense.com.br/noticia/guaiba-sedia-capacitacao-sobre-o-eca-digital-e-a-lei-henry-borel",
@@ -171,6 +181,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "As receitas previstas passam de R$ 757,4 milhões para R$ 712,3 milhões, uma redução de 5,95%"
+    },
+    {
+      "id": "834247ddb6d6",
+      "titulo": "Corona promove aulas abertas e Sunsets com experiências gratuitas na Orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY1hRSGdidHBQeXFrZUttT1hrM3pfUUpmYVc5M1QxTktNeHZMNUI2X2xWd0tUR1pEYkx1SHBTZ3pYM3RONFNfMUtCRV9ja1h0OUVvdnBMbmhDNFJRX1F5VzVWMVdGeHo0QW92LUFkTlFmdTNoVnZNc1BHOFE2X3pnOG9FWHVQaGpRWm5NRUd2RXRGMWFfZ3U3bmpIUkJoWHhma3ZpUDRtanJLQm04Qk1PU3lKLWZHbFAtU2hjbXhQSVZFd2dGT0VPTUpPaW0zUQ?oc=5",
+      "fonte": "Jornal da Capital",
+      "publicado_em": "2026-10-30T17:27:41+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Corona promove aulas abertas e Sunsets com experiências gratuitas na Orla do Guaíba Jornal da Capital"
     },
     {
       "id": "796232a2f0c0",
@@ -209,7 +229,7 @@
       "fonte": "Blog do Amarildo",
       "publicado_em": "2026-10-29T00:35:01+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "google",
       "resumo": "RS – Icehot instala estação de hidratação na Orla do Guaíba e amplia estrutura de apoio ao lazer em Porto Alegre Blog do Amarildo"
     },
     {
@@ -253,24 +273,24 @@
       "resumo": "Oficina aborda equidade racial e saúde para profissionais que atuam em unidades prisionais femininas de Guaíba e Porto Alegre Polícia Penal"
     },
     {
-      "id": "5b5e5f80e58c",
-      "titulo": "Icehot instala estação de hidratação na Orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNVp1RG5yX0hHV09RRThkbzJoeU5feUNzWW1GSXh6NF9ORV9felRFSzliYklQZ3c5aFJoTXVfYzhMYndNb19jRkZUVTNDOFdpUl9EeUxha2hQWU5rMUZSaU13Zng5UzZQZTlqWXVqU3RPLWNfYTlBa2ZERmpOUlBMeQ?oc=5",
-      "fonte": "Expansão",
-      "publicado_em": "2026-10-27T17:53:55+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Icehot instala estação de hidratação na Orla do Guaíba Expansão"
-    },
-    {
       "id": "f4314dd57f22",
       "titulo": "Guaíba encerra ciclo estadual da Semana do Ministério Público em 2026",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOVcxNTl5RTd4dl9fTnBwc3FzT3BuM2VNanF1TWZUMThpUnh3My1LLVpQLWp2NlowSHhnM2JMUFZmYnRaV3E5bFV1dVFtSkFWVXVQUjZOYTVxRFRHRW1oNFBMbXhrUEhrOXJYRG5tby1HTHVpTXM5a0Q2SkFOSjVTQ0hWcThiM2JSU2ZOVXpUZXQ0VkR6dmx0WjNTbk5DZmhCTFlCUEhLOVFwN1FCSVVpVE5KR3pRSV9pU3dZeWQwYThVSUpaRVprcTI5RTZSZm8?oc=5",
       "fonte": "Correio do Povo",
       "publicado_em": "2026-10-27T15:04:26+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "correio",
       "resumo": "Guaíba encerra ciclo estadual da Semana do Ministério Público em 2026 Correio do Povo"
+    },
+    {
+      "id": "a5b499206f81",
+      "titulo": "Na cidade mais alta do RS, a cerração aparece quase todo dia e nascem rios que formam as bacias do Guaíba e do Uruguai",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRWtJT0JlekVwZ1dzVVY1ajduS09sa0FrWi1ZQVRxaEpYSXVYNmhsbFNkcWdTQzhpcURQY2hqOFNWSEZPMjJGd05JVGJBWDF2WUpDOFZKZTRmQ19kNDlsTW9GNXFvaEtnUFh1WF9jZExVallTQm12Tno3dENjRGtxR2IyWHgzVnJuTFRuVnlHZWtjT05Ud0U3QldZSWhjRWtVMmtaUHZJS3VRWW5vOU1rMUY4emxuMDRBVUxVa00yRkNmMlZma0dJY2VFd1QycEJ4eGNZY3FXVm11cEZyNDQ5UkpadElmeE5FOUlPRUU2c3VwWTZxU0lUMzRR?oc=5",
+      "fonte": "Brasil 247",
+      "publicado_em": "2026-10-27T09:45:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Na cidade mais alta do RS, a cerração aparece quase todo dia e nascem rios que formam as bacias do Guaíba e do Uruguai Brasil 247"
     },
     {
       "id": "1d8c9bd9184e",
@@ -329,13 +349,13 @@
       "fonte": "G1",
       "publicado_em": "2026-10-26T05:53:14+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Guaíba (RS): resultado do local de votação por zonas eleitorais no 2º turno G1"
     },
     {
-      "id": "1bafd9e806dd",
+      "id": "4e3c538c989e",
       "titulo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZ3V3b0dMV0NISlp5N0wySUNRYXBhQVNjRWtqeXZrSmRsc1E2dG9yT1V3cEY5a0tuUFNQMnRNWnJyWWV4c2g3c1E2dW9rTF9VdFAzTElrVl9zbFBzblBkbHBBZ3k0MU8tX1JfWG01aVZTaGl4QlNtaEpEeml4SjIycmJqMkhqR0VLcVpPOGVIcEhXZnpvN3pxNmVJSC13QXpGUWxaaWtWbUFmNDJqcGlHdGFDblRGWktPeXBrVDVFamhlUFdNSllQeVUwSDAxVENTb3g3QXRJVTU2OGhDTDZJMUF4TDRZVHZUQnhvRjExdmJxaWlV0gH0AUFVX3lxTE5ndXdvR0xXQ0hKWnk3TDJJQ1FhcGFBU2NFa2p5dmtKZGxzUTZ0b3JPVXdwRjlrS25QU1AydE1acnJZZXhzaDdzUTZ1b2tMX1V0UDNMSWtWX3NsUHNuUGRscEFneTQxTy1fUl9YbTVpVlNoaXhCU21oSkR6aXhKMjJyYmoySGpHRUtxWk84ZUhwSFdmem83enE2ZUlILXdBekZRbFppa1ZtQWY0MmpwaUd0YUNuVEZaS095cGtUNUVqaGVQV01KWVB5VTBIMDFUQ1NveDdBdElVNTY4aENMNkkxQXhMNFlUdlRCeG9GMTF2YnFpaVU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRHRmYkRxTlBiZlJFYnlmWXF5ckEzMk0xTTU5U0NlS1d2N0xhT2JrdEFreFZQM0FpMEFHaGpXU2txLXNQTlNqRXBGUEI3dHY1dW1laUREdFBwMjI3Y2FXanlaSGRGcm02aGxCeUxHNXc2ckpEX3FOc21FaE9WUGVBenJpdHZaMEUtWFJjUUljeXQ3VE5tMDVQN0FfWFdTZVFxOFg5UGRjaUxjU09WMjUtWlJzZEhLYndMRlBjX0lEOEZVbU81dHR2Y3A3Q2UybU5PNEdmN1VzNXdYUExrTTNOREZzU0tNZ9IB9AFBVV95cUxOZ3V3b0dMV0NISlp5N0wySUNRYXBhQVNjRWtqeXZrSmRsc1E2dG9yT1V3cEY5a0tuUFNQMnRNWnJyWWV4c2g3c1E2dW9rTF9VdFAzTElrVl9zbFBzblBkbHBBZ3k0MU8tX1JfWG01aVZTaGl4QlNtaEpEeml4SjIycmJqMkhqR0VLcVpPOGVIcEhXZnpvN3pxNmVJSC13QXpGUWxaaWtWbUFmNDJqcGlHdGFDblRGWktPeXBrVDVFamhlUFdNSllQeVUwSDAxVENTb3g3QXRJVTU2OGhDTDZJMUF4TDRZVHZUQnhvRjExdmJxaWlV?oc=5",
       "fonte": "G1",
       "publicado_em": "2026-10-26T05:50:00+00:00",
       "categoria": null,
@@ -343,34 +363,14 @@
       "resumo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno G1"
     },
     {
-      "id": "1b3dccd5bb71",
-      "titulo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdEUwWFRxWE9MbjFteEg0bmstbmEyYm83aUJodDBTTXE4dDBaTlFpVGpPRDZ0UEI2SndjU0tHc0xhYldYQ2h2ZkpZS2I0anp3SXFEeTJnZlloSkV6dEZmOHNpakI4NFFnaUFzbV9CeGpDakNwOEU4U2R4N0lxcTl4bGlwVkRYM1Y1UDMzcEU4SXpqQTItamxhZGtqc2Q1SF9iaTRhb2xIZ01ndzRLMVhDMGRTQkFweWN5R0twTzQ1LXlNU3ZuNzV1Ym1vQTlZdG1UV0hfaGc1Uldmb29HTnNBZTgtYS14Y0ZnczBKUDBVS2dsaWRrN09ZUUI3SGgwR181ckF6aGE1SzMyU1HSAYsCQVVfeXFMTXRFMFhUcVhPTG4xbXhING5rLW5hMmJvN2lCaHQwU01xOHQwWk5RaVRqT0Q2dFBCNkp3Y1NLR3NMYWJXWENodmZKWUtiNGp6d0lxRHkyZ2ZZaEpFenRGZjhzaWpCODRRZ2lBc21fQnhqQ2pDcDhFOFNkeDdJcXE5eGxpcFZEWDNWNVAzM3BFOEl6akEyLWpsYWRranNkNUhfYmk0YW9sSGdNZ3c0SzFYQzBkU0JBcHljeUdLcE80NS15TVN2bjc1dWJtb0E5WXRtVFdIX2hnNVJXZm9vR05zQWU4LWEteGNGZ3MwSlAwVUtnbGlkazdPWVFCN0hoMEdfNXJBemhhNUszMlNR?oc=5",
+      "id": "6dd6c21bacfe",
+      "titulo": "E.M.E.F. Sao Francisco de Assis, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYldJRzhXeFFOX2V4VHpWeEtwV2JLWlBQVHg0MFdNSXozdUNCRW9GcFpxUjRYZFVDVW1ZS1VlSmd2T1V1YWt0a1JkSjhVeWo2eFZiT2tqdEZmMThsckRINVB4WFZMdUw1R3pFNFdmUXI1NmFJeExBM2N5WFhrOEZWSXdCUEJ0YnlrdjVJTnFDQzROS1NyVVQ0Wk5JR3p2dDE5bGJCN2ZGYkdFaTRlN1dMeHBSaERqQ012X25YUHljMnZrdFpjRVROem5kRmozc0JUVkpYNzVBUjVLRTkwX0tnR2NiM1VXeVhrRVJ6WUZ3RzBEQVRoVzdvcjNFcHFWek8yYkR0V1VVb9IBlgJBVV95cUxNWkJ4M0JkQUVBSUxXVWtyWHV3bElkSjVwNTYwXzcwM1lENXlYb2RBTEx3bGFiMmNuTEhocHhsbl9mT3BVVW1kdTRnNXNLRlZKRDV2RkRjcVlsbGVTb0lPM2VxMVpGYVB6NW1sUHhjV05NVmdZT0FfdmdIUXpDZXV0Y21mRGthVHhPQTFSUFZCeFNBVjhTR3BmcDI0RDlYLUNPeUF2b3RpWmg3TWgyTUVyVTY3SEI2LTdNSmdrMWpyWVk1aXMyaGxIRG5WMndodkVxUWtEcndOaXUwSHRWMi1BSVVSX1JLcmYyNEhQa3U2TFJSTmRaeWF5d1hpQTdQU3dyTmIwZ1Ixa2ZnUURyblVsTS1rYXpRdw?oc=5",
       "fonte": "G1",
-      "publicado_em": "2026-10-26T05:46:25+00:00",
+      "publicado_em": "2026-10-26T05:46:52+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "6618e715ad7e",
-      "titulo": "E.M.E.F. José Carlos Ferreira, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPal9KSUR6cHBIR0NnTEloY2hhMnFwdWpTc3VpNGliTm9rRnpobUxYbGVXYTlHQ09nMzI1cGxDQllaYk1EaUhDUG9IaFExd1FlS3pESGtLU0VqWWI3bzRhNnR6Z2VGamtoMG4zZVNadERlNUpJYUJOWHZjU0t1THVoTDZfdjVSaUNuendFdDlheDFFeUhIWGprMzlMZU5aM1FTM1ByR0tJS0VFbHRFMTh4S0kzeDR3VFhFY21VX0hXeU13VDU0VldFT1ViZ0hZY1JFaVhGRWJBS0VfejgxWW56UVQxdVd1NXN0YldfLVFpZGJha0hGd29TeVl3Y0E4RkMzeThGV9IBkwJBVV95cUxPZUZlZzRfaWJwR1pKSW9HQlYtbVMyOFg3Und6NG0wVlQwTFZhN3psenE0R29kem1ROF9GSi1HdFdrT3NwTWZqb05zdWNXSnVtY3FxRlJNdUpWUlBydkVWdFBJTDQ2ZnM0dFJqajlVQ0VraWhrSXhBa1lGS0JUWVladWdTVk1Md3Y5V1dOR1hCYmRzeXZsMHJhNjJQOERPcXF3cW51d254LUtEdE84aDdjeHhFUnJsT01iVzdBU05mbGQxeHhtUzhab1dvVGhSWkFtT1N0VnBsTFdZRXVxaFNwMHlHbXpINXJvTkVCM3BuelNDamJRcnh1WHZrNmZmVnRFWDRIdEtFdnBxbEtMcVZuZWgxUQ?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T05:45:47+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "E.M.E.F. José Carlos Ferreira, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "ad783510933f",
-      "titulo": "E.E.E.M. Otero Paiva Guimaraes, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSjVaSkZWZVhkSG52eUVseW9jTmZIUnVMMHhNZEVudHhOeGpNY2JDM01OWDRlOHZGOU1HMlFBd2Rza1ltd2hDMTUyM0lvNFRjWF95MHV4c2pkQzh1b1ZQVFBGUWVtRkQ5cFlfWmE3b014MjlXN3NlZDRxQmp6T0I3Y3ZhZWs2LUE2NW1IVWxROTRtcWtXaDdWVGVpSENsMjFfb3pRcmdYZlJFTEdsQXNRZXpRRFpDRjk2RDJPNkFNejE5OHlGbjE5djhTeTNiLVRrZXBrdDhmRU1ndlJELThYdUVMVVppWFl3eU1Iay1HMWhGQjJoaHJPaENzZHVGSnBUUGJTMEdn0gGUAkFVX3lxTE9TRWxVM0Qwb20ycWtHRHNQaGh4bXhoeHlWMEZPOWhCaUwzaDZWYlZBS0FGYUpuZUpCdUczeWFJZmZGc2RyWHBWMTVZYmRpbHdRemtReG5DOWhORTlqLUdKam1NU2RqYTJpSzQ4Nl9HbkdUVkRBZkNFbTVDOS1Qdy0tVHhFcnZTSVl6cjFKUjlucHY4a2NGaXJnYk5VUXprY0I5TUdMZWFnUXoxT0RHbU9FSGFMTVVvT0h4bWxFUHF0Zm1maXFXbEZRdGtaMS1RV2N1MU91VFVEWktPTGJ0MF9yMjcxRmFLYkNRN1I3N0dnRHhwY2EwU3JzTVRHS1pnNFhtSU9HbDZaYS1qVDV5VHp3a1VVdw?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T05:45:18+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "E.E.E.M. Otero Paiva Guimaraes, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+      "resumo": "E.M.E.F. Sao Francisco de Assis, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     }
   ],
   "noticias_home": [
