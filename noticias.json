@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-31T11:42:35.702360+00:00",
+  "gerado_em": "2026-10-31T16:50:20.244630+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -203,14 +203,14 @@
       "resumo": "Projeto de Guaíba promove formação comunitária em defesa civil Diário Gaúcho"
     },
     {
-      "id": "7a26ca746921",
+      "id": "f43595063594",
       "titulo": "Prefeitura de Porto Alegre simula fechamento de comportas em caso de inundação do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdTNmZW5JOW85dkU3d3R1bW1WcDBSVWpsYi1ERzNPTnR1ZkxrRVZla2xWLUlobV8zVnNQM0VrNlItd3BrbENZQ2wzTjFneG1ETHB5VWJncDJRUUNUMUZORHo4YURZRmMtbFN1OVJYWDZhcGVsTkR2Mk9MMVc3aE1sblhWdFJiZjRKZ1M5QkVEQlctOTRiRVlyUktqT2pLMDlhR000ZXV6c294b3N0cnE5UVh0Tno4enBUZVE?oc=5",
-      "fonte": "Serra e Litoral",
-      "publicado_em": "2026-10-30T02:38:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMkRmZ1UwOGg1bWJuQTZzS3hrM1l2Z0NnQUJuUG1qR3M4WW5IVk9icGlBM19rN0YwZUxQNEZqeHhHNjZpWWxYU1lleDF0LWlJTVFLemtTaU5RODRGdGdjYndjRXZ4c0lnR1B5ZzMzMjBDeDlnaDNWYUtyQ1JSWmhpRE9TcGtWbUNIUjFRTVVaek1ERkhJQ3l1dXZScG9xbXUzYVVvV01lUmVrb2kzRE80ckg0U2JjMmZ3T2t1TU5LY1JUcDFUNVQySGVrcEwtb0NRMmxMWDRRa21GTzg0MUxmRVNJY0ltY0ZFSEpjS096ajdIcmtLUjBPckpSZ2pUY3ZBWElBZTBvekZlVXA5?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-10-29T17:25:41+00:00",
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Prefeitura de Porto Alegre simula fechamento de comportas em caso de inundação do Guaíba Serra e Litoral"
+      "feed": "recentes",
+      "resumo": "Prefeitura de Porto Alegre simula fechamento de comportas em caso de inundação do Guaíba GZH"
     },
     {
       "id": "46609f57e66e",
@@ -339,7 +339,7 @@
       "fonte": "G1",
       "publicado_em": "2026-10-26T05:53:14+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Guaíba (RS): resultado do local de votação por zonas eleitorais no 2º turno G1"
     },
     {
@@ -359,7 +359,7 @@
       "fonte": "G1",
       "publicado_em": "2026-10-26T05:46:25+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
@@ -369,7 +369,7 @@
       "fonte": "G1",
       "publicado_em": "2026-10-26T05:46:18+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "google",
       "resumo": "E.M.E.F. Maximo Laviaguerre, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     }
   ],
