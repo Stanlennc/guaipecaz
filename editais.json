@@ -1,15 +1,15 @@
 {
-  "gerado_em": "2026-10-30T21:56:18.124011+00:00",
+  "gerado_em": "2026-10-31T04:05:34.893830+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
     {
-      "id": "c78536d047cb",
-      "titulo": "Prefeitura de Guaíba presta esclarecimentos sobre suspeita fraude em licitações",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMW15VkxQT3FFNHdnemtjdFdhQTdDMEFpYzZHUTV5aUZVNXlrNHdVUnlsZ0I5YlFCazNtcEFNSFhoZjd4azFiRDVPWWI3SWxIMW5sNWZKRmpCU25DaVFmSzNrVkNCeFNzSUUycll2aC1oVEcwaTRuUTlqODNXS3N3Uzd6Nk5mRTA5VVJVeS1zNkc0WTdxTmxkVjUwWHRpZmhNZkZMUkFzOUM1Z0tZbDRITmpDeVo5VlFjQlZZTzJlUG91VFFvaGt6WDhjaWozRmJYMzE5SHBweXlsdFFWRUFTYWREbw?oc=5",
+      "id": "1d8c9bd9184e",
+      "titulo": "Prefeitura de Guaíba presta esclarecimentos sobre suspeita de fraude em licitações",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ09WZWxsMGZEMS02dHlZbkpWSVBDVW4zUVNsZ0JmSXFLcFd5VkJrMml0WUVtOTg2RTFtR3FCSTNTRnQxYWkzVV9nYkU4eExZRzFnSElkRGVSdDRPU1hMTGpsSElBSG5mb3ZMdEp0SE43YzdQVTFzaDR1OW42VF93RmZUYVExb3g1bVF1bjA1M3BlSkpxR2xINXltaGlNMHFYZEh5S2g4d29wOXRxcjNWSVdPcXZybk5PZXJnVmx5RF85MWlDaVE0ZHEtN0sxdmRqYmtMVWtIdWtIWERhN0VfbHdUcDZWOTg?oc=5",
       "fonte": "Correio do Povo",
       "tipo": "licitacao",
-      "publicado_em": "2026-10-27T01:44:21+00:00",
+      "publicado_em": "2026-10-27T02:49:27+00:00",
       "feed": "licitacao"
     },
     {
@@ -85,6 +85,15 @@
       "feed": "licitacao"
     },
     {
+      "id": "055c280753b7",
+      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego nesta semana; veja a lista",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbUhfcVhXdXNmbjdkNGtXTDY0YVpQZ3BNWmRmZEFPNUFQVVpZRXJwX3FXSnIyVzBHbEFMV0I4MXZmaTBDMHdwQTRWRjU1ZW51ZXVwYmw5encteTFzbnNpdGZIZFlkWE9NOGQyaFFmWlJSMTVIWnM2Sk5CZ2N0VjVvU0RNa1VOWVY5Y2VabkRJWHFzX0ZXeHM0a3N2NjZXOU1nYm9VMmVrcE1YTW1GUndXQTdTSmZLaXg4dkE3NllxVW44RzlZU0lF?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-10-21T07:00:00+00:00",
+      "feed": "vagas"
+    },
+    {
       "id": "2aad55f17cc7",
       "titulo": "Sine Guaíba oferece 20 vagas de emprego nesta semana, com oportunidades exclusivas para PCD",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV01qdG5Mbm82WC1TSXBuTkNyb1dIdUFkclNBYjJSUFZHWWliVHFrMUxnY2RUMDNwWDFybHp2b3B3Z0FRTEVta21iTmJmVWhxd3cyOW1OU18zWTE5WGtHTFlEMkFDUU11MU92cVg3ODBLcllKQVlKQVp0bzEyanIyN2V6dG9ITFRhR0lOaDBXelM1cS1aeUFITzZJczRpdnlrTkZVUTV2U3JuMHN6RGF3c1dUOTBtX2JEUEJKajVQc0tDYUlta01IRGduWVNVLVpl?oc=5",
@@ -100,15 +109,6 @@
       "fonte": "Repórter Guaibense",
       "tipo": "vaga",
       "publicado_em": "2026-09-10T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "222af359a8b8",
-      "titulo": "Rede de milk-shakes Milky Moo abrirá unidade em Guaíba; veja como se candidatar às vagas de emprego",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTURzNW01X2p1R2RIRjdKWDdhQnRQMnpoakNGckF0andQTEhjUWZTLXkxVzlBVF94bmp2VzB5bE5UQ0I0Nm1GSXNtampTOGtDTUp3SThLdGxybVRoVFNRNmJWZ0JCdnd3SFBaX213OVEtQVItbmI1TTFXSWI3ZUlSLU5BTXJGckE1OExjemxfWHN1RGZRTTBGS3hnX3dFdVRnQ1FjX3lRODlKTTJ4VjYtT04xdlh2YU1qUy1CMzlFUko2VnJfQWhFTkg5LUVZcnpTaFdXOUxPSzhYM1U?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-08-04T07:00:00+00:00",
       "feed": "vagas"
     }
   ]
