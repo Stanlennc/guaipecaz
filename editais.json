@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-31T04:05:34.893830+00:00",
+  "gerado_em": "2026-10-31T11:41:38.930189+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -27,17 +27,8 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLVRpN2lzcEw4OFZ5aEkzUVliRXJKYVg3MVBKeXlaeVZEbFM5WW5tQ19TM3h0dGJNeV9kSUs0RHdsX0xqZDFPQmNMMDhXMkVDM3FyLUdGcUE0VmJIbGsxWU9EaUpyOEprNGFQM0NaWDE4UVdoNGVKSnltX1pOaG00TldQbDlscDVWRHh1THJhUFFOd095NVo0cnRlV1VJaWZtZ04zNGxkd2lCeWFCX25md1ExNmN4VzBCQmgxZVBMSmJMSi1uRzg0NzczYw?oc=5",
       "fonte": "Repórter Guaibense",
       "tipo": "concurso",
-      "publicado_em": "2026-10-23T20:49:00+00:00",
+      "publicado_em": "2026-10-23T07:00:00+00:00",
       "feed": "concurso"
-    },
-    {
-      "id": "33e209d5ad4d",
-      "titulo": "Operação da Polícia Civil mira fraudes em licitações e pagamentos irregulares na prefeitura de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNYUt5QkJzdVJhRFRreDhlZGlGOTVaMFVqN0xacFM4YjdKdFZkZ1BPNUthVy1FbW1HZ2I0TG41MERvb3QtNHh4TXBZdVFtMF9Mc1F3cUs3UDRHVkE0dFhUM3F4bHV1MG1Ick9jUlNmdnYwU2Jtclo3cW1VdWVadTVNVGFsVjliWEJTQ2tiMDVwY3BEdVpGZlByVEdCSFl2SkZXaHFNejZhUFBCMnpRdlBmN2ZkZjNDdHNkQ2EwRmF5Z25pSDYtV2tyTmZ2cUo1TG9fSFNoZWRWS3pjSXptb2hnS21lYlQxRnk5WWJ3SVZYSThQcWtlSVU4N0Y2Zk9sQ3NMQ2pzR3BFR1pPNWE3Qk5kRTE0OUFHTDk5dmhEWkFUcF9UZw?oc=5",
-      "fonte": "Terra",
-      "tipo": "licitacao",
-      "publicado_em": "2026-10-22T12:58:00+00:00",
-      "feed": "licitacao"
     },
     {
       "id": "093477ad53df",
@@ -53,6 +44,15 @@
       "titulo": "Polícia Civil cumpre mandados na prefeitura de Guaíba por suspeita de fraude a licitação e pagamento irregular",
       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbXlhblNmNnVEU2RwY3EyVGVHWEUzVTdFc2JxRGFPTnFYdERyU1BMc05ka3BqZWVWVkd6WlowVmhCdUhUbkk2Snh3Tk40dXN4TnlybG1Vc29ZUzl1S3Vkd1hQdDNjRkJhNjVjVUFxbTZsUWhfMjFEY3Y5a2laWXJSVjgtTlE5cGtZOXZMSnZrQUZnWTZuUllPM0FvaUt0b2g0bWZ3blRMN1d6WDFfNlRJSVBSNXp5T0VaRm40X1E1N1AtNUZ0RFZCTHVOc1RVTW1pcHlNakxQVXhDeXV3aW1fOWxxVHJSRHIxbVdDVGZsazVzUXNMZEVFc1pJckxTdWpvMmlEUzVwZEdKOHVOMHN0bzQ5dkVsMDJrbWthdF8wSFRFaWdTTUE?oc=5",
       "fonte": "GZH",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T07:00:00+00:00",
+      "feed": "licitacao"
+    },
+    {
+      "id": "33e209d5ad4d",
+      "titulo": "Operação da Polícia Civil mira fraudes em licitações e pagamentos irregulares na prefeitura de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNYUt5QkJzdVJhRFRreDhlZGlGOTVaMFVqN0xacFM4YjdKdFZkZ1BPNUthVy1FbW1HZ2I0TG41MERvb3QtNHh4TXBZdVFtMF9Mc1F3cUs3UDRHVkE0dFhUM3F4bHV1MG1Ick9jUlNmdnYwU2Jtclo3cW1VdWVadTVNVGFsVjliWEJTQ2tiMDVwY3BEdVpGZlByVEdCSFl2SkZXaHFNejZhUFBCMnpRdlBmN2ZkZjNDdHNkQ2EwRmF5Z25pSDYtV2tyTmZ2cUo1TG9fSFNoZWRWS3pjSXptb2hnS21lYlQxRnk5WWJ3SVZYSThQcWtlSVU4N0Y2Zk9sQ3NMQ2pzR3BFR1pPNWE3Qk5kRTE0OUFHTDk5dmhEWkFUcF9UZw?oc=5",
+      "fonte": "Terra",
       "tipo": "licitacao",
       "publicado_em": "2026-10-22T07:00:00+00:00",
       "feed": "licitacao"
