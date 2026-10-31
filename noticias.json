@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-31T16:50:20.244630+00:00",
+  "gerado_em": "2026-10-31T20:59:38.303536+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -243,16 +243,6 @@
       "resumo": "Cisne Branco transforma eventos em experiências sobre o Guaíba Jornal do Comércio"
     },
     {
-      "id": "b59a305ac425",
-      "titulo": "Não perca todas as noticias a partir das 19h! Na Record Guaíba📺#shorts",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWWRVMTJTVWRyV1NoaGFrM1VPTjExZDNucVBOSF9zQXVFZWFzUmQ0V3R0WjY5Z2xOWnVMS0Z3cnRtMW5oNG5CYzRUSW9wekE1UjdmM3FtWVQyX25NU2dBRXBLU3BjdGNXdUs3U1RhNW92ZTlSVlpCUGpobnhZTGhyUGdsUENxNFdWNkZ1SG44WVJrc19wd2tvMnZuV2JOdVpzMWE3N3JxZTJ6Uk1uN2lYTHRTMkM1UVZVcktv?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-10-27T20:13:15+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Não perca todas as noticias a partir das 19h! Na Record Guaíba📺#shorts R7"
-    },
-    {
       "id": "de96ad579b7a",
       "titulo": "MPRS sedia capacitação sobre ECA Digital e Lei Henry Borel em Guaíba - Ministério Público",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwUjktazQtQkh3MktJSXBsT2ZJaFRoSF9Zd0hBSGp6ZUtNM0FmWTh1TzRjMHhQdjR3LURCWjZ2M0s2dXJSYXVoa0NLZ2thLWM?oc=5",
@@ -289,7 +279,7 @@
       "fonte": "Correio do Povo",
       "publicado_em": "2026-10-27T15:04:26+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "correio",
       "resumo": "Guaíba encerra ciclo estadual da Semana do Ministério Público em 2026 Correio do Povo"
     },
     {
@@ -353,16 +343,6 @@
       "resumo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno G1"
     },
     {
-      "id": "3ae490d5ffbc",
-      "titulo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOUV5QzR3WkRRQTVzc1lvVkhhd2xiSGdMT1FmZGZrNmNDVVlyX1lVM3FEWEJacXAzbV9neHhEQVFhTGRjNWFBN183WXpqUHFrQTBBaWVXYk9Ya3h6bVNZLUFIcHdPX05rNWFzNWMyeEZJa2ZuRHZReVdiS251T3dSUXhnYmdCdS1nbWVMVWhMbzhtVDFQY1lKcnRsTXZ0U3hYakZFVjZCekpCQW44ZEpycGJORjd3ZUFKVUVINDFBUG5JUkFLOGhHeWw5UXk4dkZ1TWcxMEFxT3lOOUZlMzRRTmRHOVV5dUFqaTFaYTlmT0ZVTHg3MWlkeXN5a2vSAYsCQVVfeXFMTXRFMFhUcVhPTG4xbXhING5rLW5hMmJvN2lCaHQwU01xOHQwWk5RaVRqT0Q2dFBCNkp3Y1NLR3NMYWJXWENodmZKWUtiNGp6d0lxRHkyZ2ZZaEpFenRGZjhzaWpCODRRZ2lBc21fQnhqQ2pDcDhFOFNkeDdJcXE5eGxpcFZEWDNWNVAzM3BFOEl6akEyLWpsYWRranNkNUhfYmk0YW9sSGdNZ3c0SzFYQzBkU0JBcHljeUdLcE80NS15TVN2bjc1dWJtb0E5WXRtVFdIX2hnNVJXZm9vR05zQWU4LWEteGNGZ3MwSlAwVUtnbGlkazdPWVFCN0hoMEdfNXJBemhhNUszMlNR?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T05:46:25+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
       "id": "59821544750e",
       "titulo": "E.M.E.F. Maximo Laviaguerre, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNU0VsbnRBS2dfVnlJdWVFVHFjaldZQXpfNG9HNzE1dFRyVWI1b0xNSDdxS1FGakFmSi1pd0JNc0xSc2U3c3Vfd0M5dEV6SGpFOWpLWEtmaWNhT2cxcmtwRWFuSFJ6N2hWY1JMWGQ2Z1VUMU5XZ0x6MWJMUmRUZmtRUEl4VEp5UmNnWXRTNmVjWlVmNENIMTlldG1TNzl2Y1Fqd3N0NExlZF84SzZHelBjRUxYRkRvTWcxQV9URkJMcWs4aUZMSzIybmZQUEdZdXVRb3NzQm1OUHlCN2JXeHlIN0ozUmhkZ19BMklpMXpBdVp5U3hsZ0JlZVpKTmQ1YTJaMlHSAZACQVVfeXFMT3E4UkIyX1VMWmFPZmt1X1R5aV9yVkVjdGhaemJXeWR1MTV1QUJpckFueWluMk9QVkdxcDllb1VVVVJPS0VwYlhoRkNJLUZfM0tINTNlTXlqTkh0YXhsT1NPTlRkYXVxbzBsaUhzU1Z0YkZmN3hiQXpsbVFrOG5uXzJ3Mk5OTTVDdy0wYWN5TlcxQkVYVFVoelIxeWIzTXVsUXFjRm5ZUVRmRnlKaExjWHYwM044LTNoRHNrTXdKaGRKSlJLX184WEhwMWhwZ0FfMVJrXzZJeFF2LThkQmVZYnVJdGJDS2lhMkF1VWtCaFpub3JFRVRpU25jN3kwbDFDZDF5SnhGNU1fYWw0RE9PR2c?oc=5",
@@ -371,6 +351,26 @@
       "categoria": null,
       "feed": "google",
       "resumo": "E.M.E.F. Maximo Laviaguerre, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+    },
+    {
+      "id": "00d13745d649",
+      "titulo": "E.E.E.M. Izaura Ibanez Paiva, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOVZIMnZJUmdvUGhZMHJTWEVHTWNuVE5XOVQ4RWlXaldnRFUzYzNlSm1XQy02QVRiSGNlejRmbTREOGxpM0ctWTdYUUFaZzdYYlpZQml4N0hpcGllRFdhVlhqZElMRU9oS0Qydng3NTBRNlFKWXhxQnJyYThqaUxKSXdITkhzbTdvNUl5dHVtNngwU1l1M3Jwd25meF80RFNkSjBPTHA0WldOZjlYaDE4WGIwLTkwdEZNMGREclloY0J2MmFySExZaU1oVmd3OUx1RzdfdlNvdDJfd0xYQVhpSzVZYU5ucVd3Vm5jOFRBVEtOb2xfV21NUjI5ZmROUk9oY3Fz0gGSAkFVX3lxTFA0SVNhRWtPWi1RcXpHMlNOYjZNNnZkbjZlS2ZNMGRUU1dsRGVzbUphZHlfRUdidUNEVk16QThZbkhMRTlyZGVtUGpydThYUU92WkVwLS16NG5nQmtodkpCcjl3X2F1VTJvSy1LT3hxR1V6SGRXS2t5WjBBc2dWdEFVNlVSd2Z6SGRJbm9yTkhlMEJXN1N3SDVTanlzM29zUmJqaGg2ZGJDSXNBb01FQ0ExRnRYbmt1c3kzQkMzTmd1UVZVNFBBQTZSQWc1Ri0za3Y5Ym9aN0psS3FjYXZTMXVxUEZmN0hHUmRyelNudmVTbTRGWmpwRVF6Y0JVSHVaTTR0dWRmeGludTZGZV8wTkJDdHc?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T05:45:28+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "E.E.E.M. Izaura Ibanez Paiva, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+    },
+    {
+      "id": "0d37966f8cfb",
+      "titulo": "E.E.E.M. Professora Aglae Kehl, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWVdIS0NmS2twcWJKM2NuOHFQX3Y4bldheXhRZ09NRVdrTExDbDBhR3VQS0ZBd21mMWdMWWpoYTFGM2tRRW5mbGY1U2lxdXdCUnpSQWlZbWowYlpNVU1MOWFlWmVIaXlPNy1VZjZoUy03ZGZ4QnFaMG15cDc1VnNvWThxN2R5V2JBZHBxX0huY0wxTHd6TDN0dUJKelBkTXlsRkl4aTlMZzg2WEpxMDBCdE9KTmhLS2RjMlpKS3FmSVNibnczY040Ym5sellwZXctSWNtU1gyTkJ6WE1KWkRpXzFfUGN3cW9jdnRDLXRicVhZLXh2Z3Fqclp5bWs4WUtmVGVMY29n0gGUAkFVX3lxTFAwcjNaaDQ3Vzd4NDVkUlYtTEo5eDRKTV80UFJlOFMzQ2VuS056dks4M0lIbEZMTzd2OUc3VWc4bjFhNy1GeGY5WWp4NXBfOGRPNkwwamdLaHVMQWhteHcwa0RhSm9ocFkwaE1jXzN2cTNKTWJRTUxjUFl2bTlhVlBHSkZFbVVJUFo0ZVd1NUE3QnU3MDFmdWR6VmJkRlktWEtYM1VHR1oxc2thekdCOGRudTVPYWplb1MtZ25fVjdURXRYSUhPVFdGZUJWdDVOdHdiLXBVSGxQT1BzbExrcE50YnJLcnFQRllraVoyVklvR3NkUmdpal9lSnI0SEJnY2J4djIzRGZTcDcyQmF4YWcwWG9LcQ?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T05:45:26+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "E.E.E.M. Professora Aglae Kehl, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     }
   ],
   "noticias_home": [
