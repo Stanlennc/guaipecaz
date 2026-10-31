@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-31T04:08:05.235825+00:00",
+  "gerado_em": "2026-10-31T11:42:35.702360+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -223,16 +223,6 @@
       "resumo": "Orla do Guaíba ganha nova estação de hidratação gratuita Jornal do Comércio"
     },
     {
-      "id": "e9a00df0f6da",
-      "titulo": "RS – Icehot instala estação de hidratação na Orla do Guaíba e amplia estrutura de apoio ao lazer em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY0hWSEwwTWFaSDZ3Qkh4RW1ZN3pldU1Ndmx3TmNUOGM0QUxlSnBSSlh5d1RyelgyWWhzaHVvVE9yVU9qOUtCZXRKN2hRbW1IOXZycXA3LTRLTndEUTdOdVRwX1BuWmNWZ1FYNVBSZVZVWjZIZ0lwbmFPQnNSdEl1MGsyT0tFNVhBdnBobEpuQS0wSlNzbGUtREhjUHFEeXJPV1FGaHhSR0hmbGtPMHg0d3BjS1pQdWJWQVRxVFVIbElUWGIydDR5OHhiWjZvNGFHdVFoMG4yUjU?oc=5",
-      "fonte": "Blog do Amarildo",
-      "publicado_em": "2026-10-29T00:35:01+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "RS – Icehot instala estação de hidratação na Orla do Guaíba e amplia estrutura de apoio ao lazer em Porto Alegre Blog do Amarildo"
-    },
-    {
       "id": "4e81dfe202b1",
       "titulo": "Lula vence a eleição presidencial em Guaíba (RS)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG5SdFVYSVBuTzZweDVOeG9nSkZNWVkyUmlFQzBXdmNVd3hCQ0Q5RW9XcGMxcUFtTHJkVXFad0pUVVBKNUhNdFZDbjFBUlhpeE1PSnFzSl9udzBJZTlYd1VuYmtRZFFOX3BqZG9SRjRHQ21FM1BfZFV0aFNHcklWZ0lOdlFQc1IyQnoyeEZreVNiMkJfa0hEdWp6NGw?oc=5",
@@ -271,6 +261,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "MPRS sedia capacitação sobre ECA Digital e Lei Henry Borel em Guaíba Ministério Público - RS"
+    },
+    {
+      "id": "c84bb79a2a2f",
+      "titulo": "Icehot instala estação de hidratação na Orla do Guaíba e amplia estrutura de apoio ao lazer em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTEhjb19TRE10aGtXYjVOOF9MejQ0Wk5PTmJnWHB5TW5BcE56MU54UjUzcExYTXRtOV9EYm1DUUhrNGcyU1NYaEhnWFJ0Y0VhVWs5Y3BPcWViOVc0NkllMXVYNG85RjBlVnhRMDc3SG1oWUNWdmVTM2hsVE5CY013VFVhVndJWnRyVXExLUNiN0JUVkJyOUhEbnlzaHJXU3JWOXJldGpUYU1HZmI1SmVqcWpiQUloWnQtUkhXRlVGZ1doaXVvclVUVEJlZkZBNDlBSDd1dnFRZ1dCZWNkVkxPSnl0NksyVUk5YTdyQ09B?oc=5",
+      "fonte": "Jornal da Capital",
+      "publicado_em": "2026-10-27T19:47:29+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Icehot instala estação de hidratação na Orla do Guaíba e amplia estrutura de apoio ao lazer em Porto Alegre Jornal da Capital"
     },
     {
       "id": "9777db3a1156",
@@ -339,7 +339,7 @@
       "fonte": "G1",
       "publicado_em": "2026-10-26T05:53:14+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Guaíba (RS): resultado do local de votação por zonas eleitorais no 2º turno G1"
     },
     {
@@ -353,24 +353,24 @@
       "resumo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno G1"
     },
     {
+      "id": "3ae490d5ffbc",
+      "titulo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOUV5QzR3WkRRQTVzc1lvVkhhd2xiSGdMT1FmZGZrNmNDVVlyX1lVM3FEWEJacXAzbV9neHhEQVFhTGRjNWFBN183WXpqUHFrQTBBaWVXYk9Ya3h6bVNZLUFIcHdPX05rNWFzNWMyeEZJa2ZuRHZReVdiS251T3dSUXhnYmdCdS1nbWVMVWhMbzhtVDFQY1lKcnRsTXZ0U3hYakZFVjZCekpCQW44ZEpycGJORjd3ZUFKVUVINDFBUG5JUkFLOGhHeWw5UXk4dkZ1TWcxMEFxT3lOOUZlMzRRTmRHOVV5dUFqaTFaYTlmT0ZVTHg3MWlkeXN5a2vSAYsCQVVfeXFMTXRFMFhUcVhPTG4xbXhING5rLW5hMmJvN2lCaHQwU01xOHQwWk5RaVRqT0Q2dFBCNkp3Y1NLR3NMYWJXWENodmZKWUtiNGp6d0lxRHkyZ2ZZaEpFenRGZjhzaWpCODRRZ2lBc21fQnhqQ2pDcDhFOFNkeDdJcXE5eGxpcFZEWDNWNVAzM3BFOEl6akEyLWpsYWRranNkNUhfYmk0YW9sSGdNZ3c0SzFYQzBkU0JBcHljeUdLcE80NS15TVN2bjc1dWJtb0E5WXRtVFdIX2hnNVJXZm9vR05zQWU4LWEteGNGZ3MwSlAwVUtnbGlkazdPWVFCN0hoMEdfNXJBemhhNUszMlNR?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T05:46:25+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+    },
+    {
       "id": "59821544750e",
       "titulo": "E.M.E.F. Maximo Laviaguerre, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNU0VsbnRBS2dfVnlJdWVFVHFjaldZQXpfNG9HNzE1dFRyVWI1b0xNSDdxS1FGakFmSi1pd0JNc0xSc2U3c3Vfd0M5dEV6SGpFOWpLWEtmaWNhT2cxcmtwRWFuSFJ6N2hWY1JMWGQ2Z1VUMU5XZ0x6MWJMUmRUZmtRUEl4VEp5UmNnWXRTNmVjWlVmNENIMTlldG1TNzl2Y1Fqd3N0NExlZF84SzZHelBjRUxYRkRvTWcxQV9URkJMcWs4aUZMSzIybmZQUEdZdXVRb3NzQm1OUHlCN2JXeHlIN0ozUmhkZ19BMklpMXpBdVp5U3hsZ0JlZVpKTmQ1YTJaMlHSAZACQVVfeXFMT3E4UkIyX1VMWmFPZmt1X1R5aV9yVkVjdGhaemJXeWR1MTV1QUJpckFueWluMk9QVkdxcDllb1VVVVJPS0VwYlhoRkNJLUZfM0tINTNlTXlqTkh0YXhsT1NPTlRkYXVxbzBsaUhzU1Z0YkZmN3hiQXpsbVFrOG5uXzJ3Mk5OTTVDdy0wYWN5TlcxQkVYVFVoelIxeWIzTXVsUXFjRm5ZUVRmRnlKaExjWHYwM044LTNoRHNrTXdKaGRKSlJLX184WEhwMWhwZ0FfMVJrXzZJeFF2LThkQmVZYnVJdGJDS2lhMkF1VWtCaFpub3JFRVRpU25jN3kwbDFDZDF5SnhGNU1fYWw0RE9PR2c?oc=5",
       "fonte": "G1",
       "publicado_em": "2026-10-26T05:46:18+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "E.M.E.F. Maximo Laviaguerre, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "6618e715ad7e",
-      "titulo": "E.M.E.F. José Carlos Ferreira, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPal9KSUR6cHBIR0NnTEloY2hhMnFwdWpTc3VpNGliTm9rRnpobUxYbGVXYTlHQ09nMzI1cGxDQllaYk1EaUhDUG9IaFExd1FlS3pESGtLU0VqWWI3bzRhNnR6Z2VGamtoMG4zZVNadERlNUpJYUJOWHZjU0t1THVoTDZfdjVSaUNuendFdDlheDFFeUhIWGprMzlMZU5aM1FTM1ByR0tJS0VFbHRFMTh4S0kzeDR3VFhFY21VX0hXeU13VDU0VldFT1ViZ0hZY1JFaVhGRWJBS0VfejgxWW56UVQxdVd1NXN0YldfLVFpZGJha0hGd29TeVl3Y0E4RkMzeThGV9IBkwJBVV95cUxPZUZlZzRfaWJwR1pKSW9HQlYtbVMyOFg3Und6NG0wVlQwTFZhN3psenE0R29kem1ROF9GSi1HdFdrT3NwTWZqb05zdWNXSnVtY3FxRlJNdUpWUlBydkVWdFBJTDQ2ZnM0dFJqajlVQ0VraWhrSXhBa1lGS0JUWVladWdTVk1Md3Y5V1dOR1hCYmRzeXZsMHJhNjJQOERPcXF3cW51d254LUtEdE84aDdjeHhFUnJsT01iVzdBU05mbGQxeHhtUzhab1dvVGhSWkFtT1N0VnBsTFdZRXVxaFNwMHlHbXpINXJvTkVCM3BuelNDamJRcnh1WHZrNmZmVnRFWDRIdEtFdnBxbEtMcVZuZWgxUQ?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T05:45:47+00:00",
-      "categoria": null,
       "feed": "vizinhos",
-      "resumo": "E.M.E.F. José Carlos Ferreira, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+      "resumo": "E.M.E.F. Maximo Laviaguerre, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     }
   ],
   "noticias_home": [
