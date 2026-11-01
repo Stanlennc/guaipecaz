@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-01T00:41:17.983352+00:00",
+  "gerado_em": "2026-11-01T08:43:01.437299+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -193,16 +193,6 @@
       "resumo": "1ª Corrida da Guarda Civil Metropolitana reúne 600 participantes na Orla do Guaíba Prefeitura de Porto Alegre"
     },
     {
-      "id": "834247ddb6d6",
-      "titulo": "Corona promove aulas abertas e Sunsets com experiências gratuitas na Orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY1hRSGdidHBQeXFrZUttT1hrM3pfUUpmYVc5M1QxTktNeHZMNUI2X2xWd0tUR1pEYkx1SHBTZ3pYM3RONFNfMUtCRV9ja1h0OUVvdnBMbmhDNFJRX1F5VzVWMVdGeHo0QW92LUFkTlFmdTNoVnZNc1BHOFE2X3pnOG9FWHVQaGpRWm5NRUd2RXRGMWFfZ3U3bmpIUkJoWHhma3ZpUDRtanJLQm04Qk1PU3lKLWZHbFAtU2hjbXhQSVZFd2dGT0VPTUpPaW0zUQ?oc=5",
-      "fonte": "Jornal da Capital",
-      "publicado_em": "2026-10-30T17:27:41+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Corona promove aulas abertas e Sunsets com experiências gratuitas na Orla do Guaíba Jornal da Capital"
-    },
-    {
       "id": "796232a2f0c0",
       "titulo": "Projeto de Guaíba promove formação comunitária em defesa civil",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbks0ZkgzMF9DbHV5RWNiUjNNUkNZbm5RSVlRSWpqQU5uYU5kTUhNSHRUN09TNlYwQXNsOVlWMWZ4blpac2ZYNVN3X0JRdC1veGp5WDhoXzl0Z2VDaTZncEd6VGFGS0N4Vk1SRlp2MVdBMEtWbEQyYTJaNThPdXNHWlNXby1ycUx3Ny1SSklPQWlGVS1Mbzd6NWpXTENSblNrbVB0YmVqMEpDNFl3a21EZW5ZNG1LYnZwSm1JLTBjRlRrVVJlLUEzMHplUlNwcFdYaEQ2djVQVFVJTTd0cnhsc0RDNzFnZFItUjk4?oc=5",
@@ -211,6 +201,16 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Projeto de Guaíba promove formação comunitária em defesa civil Diário Gaúcho"
+    },
+    {
+      "id": "f4156366f640",
+      "titulo": "Eleições 2026: Ficha de Domingues da Ponte do Guaíba (PODE)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLVlkZV9CQkFXNlZ5cUZNY1RqZVYxQ3ZieHVIb0w0R1lELVVXWHNjbjRDbi13anBraU9wTUJsNVh0eXR5ejh3Sm1KcldJcHBMOVJjdkVQNGRTWW1JUURiOHhjWkdMenVNcmFMWmhWUmV4bWhCeVg4RXlvaHY4VXVZeGtVVklBTGY4LV9YWUlFdWppaWdIZ3RvS3JVUVBMcW9tQnlQSEpERXR5ek50OHlpTFk0Mlk0bXhjMGl2V3NERHlvRW9LZV82Yw?oc=5",
+      "fonte": "Folha de S.Paulo",
+      "publicado_em": "2026-10-29T21:02:10+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Eleições 2026: Ficha de Domingues da Ponte do Guaíba (PODE) Folha de S.Paulo"
     },
     {
       "id": "f43595063594",
@@ -289,7 +289,7 @@
       "fonte": "Correio do Povo",
       "publicado_em": "2026-10-27T15:04:26+00:00",
       "categoria": null,
-      "feed": "correio",
+      "feed": "recentes",
       "resumo": "Guaíba encerra ciclo estadual da Semana do Ministério Público em 2026 Correio do Povo"
     },
     {
