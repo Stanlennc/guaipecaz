@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-01T21:42:46.665103+00:00",
+  "gerado_em": "2026-11-02T01:16:23.067580+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -233,16 +233,6 @@
       "resumo": "Eleições 2026: Ficha de Domingues da Ponte do Guaíba (PODE) Folha de S.Paulo"
     },
     {
-      "id": "477eb28cd46e",
-      "titulo": "1ª Corrida da GCM e dos servidores municipais acontece neste sábado na Orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUjlrNVFVNVhqUW5TcENRUjBnVFlpRGxXTGg3VFpWSXlWbklrVlIxTk5FVUhYRWNUSTh5MlR2SDVJM2VSc0ktaEduSV8yZ1hLRWZ5ellhRDdhV3llT0N2Q0NMQjIxdVJieWdHbl9wcUM4ZEZ4Vnd0Z3lTR2hRWUh4WG00X0c0NFVzM2RiOGlDUF9xbjlnMk81RkxzSjd3a2tHRXc0RTBrMTVCUGRHZzhLaVVGclVXRVY1UUVVazd30gG-AUFVX3lxTE1SOWs1UVU1WGpRblNwQ1FSMGdUWWlEbFdMaDdUWlZJeVZuSWtWUjFOTkVVSFhFY1RJOHkyVHZINUkzZVJzSS1oR25JXzJnWEtFZnl6WWFEN2FXeWVPQ3ZDQ0xCMjF1UmJ5Z0duX3BxQzhkRnhWd3RneVNHaFFZSHhYbTRfRzQ0VXMzZGI4aUNQX3FuOWcyTzVGTHNKN3dra0dFdzRFMGsxNUJQZEdnOEtpVUZyVVdFVjVRRVVrN3c?oc=5",
-      "fonte": "Real News",
-      "publicado_em": "2026-10-29T17:20:52+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "1ª Corrida da GCM e dos servidores municipais acontece neste sábado na Orla do Guaíba Real News"
-    },
-    {
       "id": "46609f57e66e",
       "titulo": "Orla do Guaíba ganha nova estação de hidratação gratuita",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0NxWklhV1dOSTNQdktPYlpvWFBYNnVxYWJXY3VMY1N3OEpMOFJiUzhvREdfcnAxemZVd3ZucEhrTXdzWjZQTkkzTWo3Ym02U3pKaU51SFVqOGtpUUhEc2JWY2JRZUxZQjJMVXhvSVlNWFRhNkxQU0RRRmFfUFZsdE44dmtsTTZrVXg2SXh3U1R0Z0w1UjByUDVOdkN4S3o1QzcwaTd6WWZoalZCWk9PN3hFcHZRc2c?oc=5",
@@ -339,7 +329,7 @@
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-10-26T18:28:00+00:00",
       "categoria": null,
-      "feed": "reporter",
+      "feed": "recentes",
       "resumo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service Repórter Guaibense"
     },
     {
@@ -369,8 +359,18 @@
       "fonte": "G1",
       "publicado_em": "2026-10-26T05:53:14+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Guaíba (RS): resultado do local de votação por zonas eleitorais no 2º turno G1"
+    },
+    {
+      "id": "4e3c538c989e",
+      "titulo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRHRmYkRxTlBiZlJFYnlmWXF5ckEzMk0xTTU5U0NlS1d2N0xhT2JrdEFreFZQM0FpMEFHaGpXU2txLXNQTlNqRXBGUEI3dHY1dW1laUREdFBwMjI3Y2FXanlaSGRGcm02aGxCeUxHNXc2ckpEX3FOc21FaE9WUGVBenJpdHZaMEUtWFJjUUljeXQ3VE5tMDVQN0FfWFdTZVFxOFg5UGRjaUxjU09WMjUtWlJzZEhLYndMRlBjX0lEOEZVbU81dHR2Y3A3Q2UybU5PNEdmN1VzNXdYUExrTTNOREZzU0tNZ9IB9AFBVV95cUxOZ3V3b0dMV0NISlp5N0wySUNRYXBhQVNjRWtqeXZrSmRsc1E2dG9yT1V3cEY5a0tuUFNQMnRNWnJyWWV4c2g3c1E2dW9rTF9VdFAzTElrVl9zbFBzblBkbHBBZ3k0MU8tX1JfWG01aVZTaGl4QlNtaEpEeml4SjIycmJqMkhqR0VLcVpPOGVIcEhXZnpvN3pxNmVJSC13QXpGUWxaaWtWbUFmNDJqcGlHdGFDblRGWktPeXBrVDVFamhlUFdNSllQeVUwSDAxVENTb3g3QXRJVTU2OGhDTDZJMUF4TDRZVHZUQnhvRjExdmJxaWlV?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T05:50:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno G1"
     }
   ],
   "noticias_home": [
