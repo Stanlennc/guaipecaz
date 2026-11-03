@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-03T02:08:55.493345+00:00",
+  "gerado_em": "2026-11-03T11:38:02.222978+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -183,14 +183,14 @@
       "resumo": "As receitas previstas passam de R$ 757,4 milhões para R$ 712,3 milhões, uma redução de 5,95%"
     },
     {
-      "id": "82a2184a73d7",
+      "id": "1e081cd6295b",
       "titulo": "Guaíba ainda não voltou ao estado pré-enchente, mostra estudo do IPH da UFRGS",
-      "url": "https://sul21.com.br/noticias/meio-ambiente/2026/11/guaiba-ainda-nao-voltou-ao-estado-pre-enchente-mostra-estudo-do-iph-da-ufrgs/",
-      "fonte": "Sul21",
-      "publicado_em": "2026-11-02T13:06:19+00:00",
-      "categoria": "Meio Ambiente",
-      "feed": "sul21_direto",
-      "resumo": "Mesmo dois anos após as enchentes de maio de 2024, o Guaíba ainda não retornou ao estado anterior à catástrofe. A informação foi publicada em um estudo realizado por um grupo de cientistas vinculados ao Instituto de Pesquisas Hidráulicas (IPH) da UFRGS, que realiza o monitoramento ativo das águas…"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMlk0dWNIbml0Z3JINVRQZExOSGVZZlZoaElqRDhtZ3ZpVG5GSlZpMFhkdXh5NUpxQXJLY3o2Y2x3YVZNNEJxMHN1UmpXWmhlTWJlWlE0V2ZKYWE0dGI5VUo3U2JCRlA1RGJrZDkxOUhiYlZ6T2tRczBkZ1JER1RaT3BlVjJ4VW0wdVBOVVoxUXdqczNqR2l1NlR6NDBBYUlJUktNUjdMWHM3aDhaQVM0eWozajhIWm5adWY2UEE2bnR2LUNBSnRvTQ?oc=5",
+      "fonte": "Sul 21",
+      "publicado_em": "2026-11-02T13:06:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Guaíba ainda não voltou ao estado pré-enchente, mostra estudo do IPH da UFRGS Sul 21"
     },
     {
       "id": "916608f17fce",
@@ -239,7 +239,7 @@
       "fonte": "GZH",
       "publicado_em": "2026-10-29T17:25:41+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Prefeitura de Porto Alegre simula fechamento de comportas em caso de inundação do Guaíba GZH"
     },
     {
@@ -291,6 +291,16 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "A antiga usina a carvão com chaminé de mais de 100 metros à beira do Guaíba deixou de funcionar, quase foi demolida e virou um dos centros culturais mais famosos do Sul do país Super Rádio Tupi"
+    },
+    {
+      "id": "779d9d24f0e9",
+      "titulo": "Set Service contesta prefeita de Guaíba, afirma ter R$ 2 milhões a receber e é alvo de investigação por suspeita de fraude",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWTVMa3JiUldROGpuMEoxX2pPUUI3SUhYcERJTF80a0lTWDBRVURtdWF6aEVyN2RXWmhQSFdIZTZlNC10UlUyOFFtaUxGaklZWUgtNy11UUdINVdUOTBkTGhjRTJGdUd2emVDU09jWW9YaWxuNGVPTVBiRWRDenRWMVphcWRKM1hDV0E?oc=5",
+      "fonte": "INFO DO VALE",
+      "publicado_em": "2026-10-28T02:13:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Set Service contesta prefeita de Guaíba, afirma ter R$ 2 milhões a receber e é alvo de investigação por suspeita de fraude INFO DO VALE"
     },
     {
       "id": "e7bb77e236db",
@@ -359,18 +369,8 @@
       "fonte": "Correio do Povo",
       "publicado_em": "2026-10-27T15:04:26+00:00",
       "categoria": null,
-      "feed": "correio",
+      "feed": "recentes",
       "resumo": "Guaíba encerra ciclo estadual da Semana do Ministério Público em 2026 Correio do Povo"
-    },
-    {
-      "id": "a5b499206f81",
-      "titulo": "Na cidade mais alta do RS, a cerração aparece quase todo dia e nascem rios que formam as bacias do Guaíba e do Uruguai",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRWtJT0JlekVwZ1dzVVY1ajduS09sa0FrWi1ZQVRxaEpYSXVYNmhsbFNkcWdTQzhpcURQY2hqOFNWSEZPMjJGd05JVGJBWDF2WUpDOFZKZTRmQ19kNDlsTW9GNXFvaEtnUFh1WF9jZExVallTQm12Tno3dENjRGtxR2IyWHgzVnJuTFRuVnlHZWtjT05Ud0U3QldZSWhjRWtVMmtaUHZJS3VRWW5vOU1rMUY4emxuMDRBVUxVa00yRkNmMlZma0dJY2VFd1QycEJ4eGNZY3FXVm11cEZyNDQ5UkpadElmeE5FOUlPRUU2c3VwWTZxU0lUMzRR?oc=5",
-      "fonte": "Brasil 247",
-      "publicado_em": "2026-10-27T09:45:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Na cidade mais alta do RS, a cerração aparece quase todo dia e nascem rios que formam as bacias do Guaíba e do Uruguai Brasil 247"
     }
   ],
   "noticias_home": [
