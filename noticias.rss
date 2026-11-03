@@ -5,12 +5,6 @@
 <description>Notícias de Guaíba e da Região Metropolitana de Porto Alegre</description>
 <language>pt-BR</language>
 <item>
-<title>Hotel Ibis deve encerrar atividades em Guaíba até dezembro</title>
-<link>https://www.reporterguaibense.com.br/noticia/hotel-ibis-deve-encerrar-atividades-em-guaiba-ate-dezembro</link>
-<guid>32e02527b8e8</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>Polícia Civil combate crimes contra a administração pública em Guaíba</title>
 <link>https://www.reporterguaibense.com.br/noticia/policia-civil-combate-crimes-contra-a-administracao-publica-em-guaiba</link>
 <guid>e38f66be6482</guid>
@@ -53,6 +47,12 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
+<title>Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service</title>
+<link>https://www.reporterguaibense.com.br/noticia/vereadores-de-guaiba-protocolam-pedido-de-abertura-de-cpi-para-investigar-contratos-com-a-set-service</link>
+<guid>58d23e1952ab</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
 <title>Escritores e coletivo cultural de Guaíba integram programação da Feira do Livro de Porto Alegre</title>
 <link>https://www.reporterguaibense.com.br/noticia/escritores-e-coletivo-cultural-de-guaiba-integram-programacao-da-feira-do-livro-de-porto-alegre</link>
 <guid>1912430fa261</guid>
@@ -69,6 +69,48 @@
 <link>https://www.reporterguaibense.com.br/noticia/camara-de-guaiba-aprova-ldo-de-2027-com-previsao-de-queda-nas-receitas-e-despesas</link>
 <guid>573f8b62e46d</guid>
 <source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Grupo Tchê Travessias realiza treinamentos de natação em águas abertas no Lago Guaíba</title>
+<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDVHemhGRVZaYUNtel9meDV3aGVTWTZRYjRrS18yQTBEYldIOEhLOHB4OFVmcU5JV1JnNHNhVEdzcE1tQV9hMUhTdW92TlNjc3FJLXAzc25ZcWRkX2FTZEJqcVl5cVp0ZUYyLTNYR3FNOXNiMnFteFpQSjBNNWhCcnVkYS10QjFjMXpUN1pIcDhYeFlzUFNqWXdOY0xtdFRlLWs4TExKcTQzUQ?oc=5</link>
+<guid>afe3838ac746</guid>
+<pubDate>2026-11-03T17:09:23+00:00</pubDate>
+<source>expansao.co</source>
+</item>
+<item>
+<title>E se o Guaíba não existisse? Teríamos água nas nossas torneiras?</title>
+<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOZnBxaU56U0g1NFpZMGVONGMyS2NKVmExMnRwQWNVZV9weWUtSHVxNWFGYlBXbXhTblduN25BQ3U4RTE4WnBJVURUanpvN0hqRzNFZWY3bUs1N3VoTHJjdHhndFZUMmVIYjVPUF8tLUEwWm1lVmFobl80Zk5PTlZGcnI1azZ5amhWRVZqYTdpZ3VCamxCbGfSAZYBQVVfeXFMTmZwcWlOelNINTRaWTBlTjRjMktjSlZhMTJ0cEFjVWVfcHllLUh1cTVhRmJQV214U25XbjduQUN1OEUxOFpwSVVEVGp6bzdIakczRWVmN21LNTd1aExyY3R4Z3RWVDJlSGI1T1BfLS1BMFptZVZhaG5fNGZOT05WRnJyNWs2eWpoVkVWamE3aWd1QmpsQmxn?oc=5</link>
+<guid>028e3cb9511e</guid>
+<pubDate>2026-11-03T16:02:01+00:00</pubDate>
+<source>Jornal O Sul</source>
+</item>
+<item>
+<title>Grupo Tchê Travessias intensifica treinamentos no Lago Guaíba e fortalece a natação em águas abertas em Porto Alegre</title>
+<link>https://news.google.com/rss/articles/CBMi9wFBVV95cUxPa2NZcE9Hc1FqN1I5LWhBME0zZ2N6eFhnRWxkUEEzOWpFNW1zTGVMallYMlNYMXFyQjBjUEp5T3FBZWRZLXVrOS1UTFdEWEpOc3ZiY1VXbWN0cXF0SzdoOUxaN3dINF9NSjQxY2txZk4wSGU1RlpnQWJTVC1XQm9jX3U4YmE1a09kZ0M2U0tEMENfbDhJT0NUSzRHRmhaRHM0cG51MHVTNFh5YlJJT3NHV0tnVC0xRUZkcVdwcnBQZWxITmpOQXRYSWE2R1UtdEhmUlVKa2c4VWoxcVFMRHBqNmlUbWtTTjZCVFpwUUhBbFNlam1mMS1R0gH8AUFVX3lxTE5HNG5JQ05qZURmT1pCMGROajlpbmdYLV84ZXlfbUEzMmVSaWF1NW1iTFJpOTItY1RRTlFMODFDbHJSRVM2eXI4RFhBcFFtWGhxU2xIeS1wSjJrcllXSzRMZ2NJc2JiR04wOThSaWlEclRzM0lHTHpBTzJrZm9Ia2g1bFkxVUMzeml3ZnBpdGRZLW00QjA4cFVCZW9DUWhwLUJhQlMyTTdiUmdNOTdfR3lqb0dSaEpJYmhrVlk4Z09TN2c5WGl3amljYmE4eGpsV2YzdkZPN2EtUEUwdjlGOTZqdlVEamJyd29kcTdlUEdCQmotekgxdFhibXNfZA?oc=5</link>
+<guid>afc72179685f</guid>
+<pubDate>2026-11-03T14:19:42+00:00</pubDate>
+<source>Blog do Juares</source>
+</item>
+<item>
+<title>Skatista entra no Guaíba e salva jovem que estava se afogando em Porto Alegre</title>
+<link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxORHd0azd1N1FSUFFvb0RhbHYxZUloNWJGQk5mdThRUHJmdWFrME9MdmtNU2hjSGRaZU9ZYjMwQ1UxbWxnNDhXTVZSTHd0NzBPdWtlRHBSTS1oWkQxbm56Y3U2QWhZdTRUVnNKOVFtQmxEaHF0THF0emg1aFl2TDlicTJsMHFYQ0NYRnhlMjd0bFA0YVBJWEpLY2pLT21CUHJLWTU0SFdsOFFFTnNGdElqWVc4WVJheHY5Nkt1X2wzWXluMUxrc1hGVm9TbXdxZTBFdDVMU2hELVBreFlGamZB?oc=5</link>
+<guid>6cf839ad5ec1</guid>
+<pubDate>2026-11-03T13:20:18+00:00</pubDate>
+<source>R7</source>
+</item>
+<item>
+<title>Bistek terá loja em Gravataí, e Passarela planeja atacarejo Via em Guaíba</title>
+<link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUjJCam9mMWxfaXRZbkozSjlLaVRPM2t3RUNWVDlsRWpTZ0twc3FiM1VBR0cwQlV0aGhXY1JHNHl6RGVoNW9WajU5RnlRMl9yczRWZzZqMlVIUVhELU41OVFNUFg1MW40UEwwM0RVdmliRmotUjFDb3hsdE42Y3gxSm1RbHdEdW1vZU40cnNMMkhNN1VzR1pvbEJ0V3hDY0lrRnpaWUlvR0hVSnB3WVVtSmJYa0l5NWp6OXRyYnhqV1pGTFNDQktfMVNNaFRWSGtYV3ZweXZpNG5NWjBoaldGSDBn?oc=5</link>
+<guid>5b476e80b3a0</guid>
+<pubDate>2026-11-03T13:12:44+00:00</pubDate>
+<source>Jornal do Comércio</source>
+</item>
+<item>
+<title>Porto Alegre vira Cidade da Natação em Águas Abertas, e Grupo Tchê Travessias leva nadadores ao Lago Guaíba</title>
+<link>https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcnU2S0U2STFtMHJmem1WVmFfYl9hdkpoOENYczVqOVpDajN4R0Zkc3pXNVRyYm1yN20taHRvQjVEbEFiSzB6ODRxMzFWWFgtLXgwd2o1N2FxREdCcEpvdDhIYlRHVFFOUUpUYUlVUExoNDVzOWwzTFlLSWk0Mkl4cGdfcThLQ0c2ZWVXVncyZ3hUSHYwZEhpcTN5UGd4b1lmRHR4RUhhSHJtdlFWbWpQTFFrcVB1WG5GWTR0VVRyYkI5YnJfVXdONG53MkVDMlFvbWxQeFBUZ0dVbG5KTEIwbkY3al9qb3dtZGFueDlXOW8?oc=5</link>
+<guid>5936adea4d67</guid>
+<pubDate>2026-11-03T12:07:47+00:00</pubDate>
+<source>Gramado Magazine</source>
 </item>
 <item>
 <title>Guaíba ainda não voltou ao estado pré-enchente, mostra estudo do IPH da UFRGS</title>
@@ -90,47 +132,5 @@
 <guid>834247ddb6d6</guid>
 <pubDate>2026-10-30T17:27:41+00:00</pubDate>
 <source>Jornal da Capital</source>
-</item>
-<item>
-<title>ERNANI CHACRINHA, Vereador 2008 em Guaíba</title>
-<link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOakVOZTcxZTl4V0Z6QXkwckI1bUpKWVZTS3dYd3gzTzRvT2NjQ0J4SGhVNTF2eFFJVl9zYl9weG1LSDVUZkZiS1NyNTl5Zl9qeDZ5amtzdkl4UElibWVpd0d0a0VRcFZHUUY4ZXRPZ3Zkc19jWWdHTDMyWEZWbk5TLTREdmZubVFwbFFJ?oc=5</link>
-<guid>793592c00ae2</guid>
-<pubDate>2026-10-30T05:57:33+00:00</pubDate>
-<source>CBN Amazônia</source>
-</item>
-<item>
-<title>Eleições 2026: Ficha de Domingues da Ponte do Guaíba (PODE)</title>
-<link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLVlkZV9CQkFXNlZ5cUZNY1RqZVYxQ3ZieHVIb0w0R1lELVVXWHNjbjRDbi13anBraU9wTUJsNVh0eXR5ejh3Sm1KcldJcHBMOVJjdkVQNGRTWW1JUURiOHhjWkdMenVNcmFMWmhWUmV4bWhCeVg4RXlvaHY4VXVZeGtVVklBTGY4LV9YWUlFdWppaWdIZ3RvS3JVUVBMcW9tQnlQSEpERXR5ek50OHlpTFk0Mlk0bXhjMGl2V3NERHlvRW9LZV82Yw?oc=5</link>
-<guid>f4156366f640</guid>
-<pubDate>2026-10-29T21:02:10+00:00</pubDate>
-<source>Folha de S.Paulo</source>
-</item>
-<item>
-<title>Prefeitura de Porto Alegre simula fechamento de comportas em caso de inundação do Guaíba</title>
-<link>https://news.google.com/rss/articles/CBMijAJBVV95cUxPMkRmZ1UwOGg1bWJuQTZzS3hrM1l2Z0NnQUJuUG1qR3M4WW5IVk9icGlBM19rN0YwZUxQNEZqeHhHNjZpWWxYU1lleDF0LWlJTVFLemtTaU5RODRGdGdjYndjRXZ4c0lnR1B5ZzMzMjBDeDlnaDNWYUtyQ1JSWmhpRE9TcGtWbUNIUjFRTVVaek1ERkhJQ3l1dXZScG9xbXUzYVVvV01lUmVrb2kzRE80ckg0U2JjMmZ3T2t1TU5LY1JUcDFUNVQySGVrcEwtb0NRMmxMWDRRa21GTzg0MUxmRVNJY0ltY0ZFSEpjS096ajdIcmtLUjBPckpSZ2pUY3ZBWElBZTBvekZlVXA5?oc=5</link>
-<guid>f43595063594</guid>
-<pubDate>2026-10-29T17:25:41+00:00</pubDate>
-<source>GZH</source>
-</item>
-<item>
-<title>Orla do Guaíba ganha nova estação de hidratação gratuita</title>
-<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0NxWklhV1dOSTNQdktPYlpvWFBYNnVxYWJXY3VMY1N3OEpMOFJiUzhvREdfcnAxemZVd3ZucEhrTXdzWjZQTkkzTWo3Ym02U3pKaU51SFVqOGtpUUhEc2JWY2JRZUxZQjJMVXhvSVlNWFRhNkxQU0RRRmFfUFZsdE44dmtsTTZrVXg2SXh3U1R0Z0w1UjByUDVOdkN4S3o1QzcwaTd6WWZoalZCWk9PN3hFcHZRc2c?oc=5</link>
-<guid>46609f57e66e</guid>
-<pubDate>2026-10-29T13:43:47+00:00</pubDate>
-<source>Jornal do Comércio</source>
-</item>
-<item>
-<title>ERNANI CHACRINHA, Vereador 2012 em Guaíba</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0xaa25TbUwxVkRnZkdPa1dZWWRrMGVLSm5yRnVsV0xtSW9CTHRsQTJpdmU4a0NJbDhoX2NhblVMN1hkMTB6bjBmZVNaZWdwNi1EZ0JIN0cwZGJzNklpZTZmSTBER0FqRlNEem1BM2JPZ3VsTTFpSllrS3hYZmp0amYtbw?oc=5</link>
-<guid>be40965df6e3</guid>
-<pubDate>2026-10-29T02:40:32+00:00</pubDate>
-<source>CBN Amazônia</source>
-</item>
-<item>
-<title>RS – Icehot instala estação de hidratação na Orla do Guaíba e amplia estrutura de apoio ao lazer em Porto Alegre</title>
-<link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY0hWSEwwTWFaSDZ3Qkh4RW1ZN3pldU1Ndmx3TmNUOGM0QUxlSnBSSlh5d1RyelgyWWhzaHVvVE9yVU9qOUtCZXRKN2hRbW1IOXZycXA3LTRLTndEUTdOdVRwX1BuWmNWZ1FYNVBSZVZVWjZIZ0lwbmFPQnNSdEl1MGsyT0tFNVhBdnBobEpuQS0wSlNzbGUtREhjUHFEeXJPV1FGaHhSR0hmbGtPMHg0d3BjS1pQdWJWQVRxVFVIbElUWGIydDR5OHhiWjZvNGFHdVFoMG4yUjU?oc=5</link>
-<guid>e9a00df0f6da</guid>
-<pubDate>2026-10-29T00:35:01+00:00</pubDate>
-<source>Blog do Amarildo</source>
 </item>
 </channel></rss>

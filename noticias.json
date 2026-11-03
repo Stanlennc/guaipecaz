@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-03T11:38:02.222978+00:00",
+  "gerado_em": "2026-11-03T19:04:19.789821+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "32e02527b8e8",
-      "titulo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/hotel-ibis-deve-encerrar-atividades-em-guaiba-ate-dezembro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
-    },
-    {
       "id": "e38f66be6482",
       "titulo": "Polícia Civil combate crimes contra a administração pública em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/policia-civil-combate-crimes-contra-a-administracao-publica-em-guaiba",
@@ -153,6 +143,16 @@
       "resumo": "Em um vídeo publicado nas redes sociais, Mazé mostra os estragos causados pelo incêndio"
     },
     {
+      "id": "58d23e1952ab",
+      "titulo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service",
+      "url": "https://www.reporterguaibense.com.br/noticia/vereadores-de-guaiba-protocolam-pedido-de-abertura-de-cpi-para-investigar-contratos-com-a-set-service",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Todos os 17 vereadores da cidade assinaram o documento nesta segunda-feira"
+    },
+    {
       "id": "1912430fa261",
       "titulo": "Escritores e coletivo cultural de Guaíba integram programação da Feira do Livro de Porto Alegre",
       "url": "https://www.reporterguaibense.com.br/noticia/escritores-e-coletivo-cultural-de-guaiba-integram-programacao-da-feira-do-livro-de-porto-alegre",
@@ -181,6 +181,66 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "As receitas previstas passam de R$ 757,4 milhões para R$ 712,3 milhões, uma redução de 5,95%"
+    },
+    {
+      "id": "afe3838ac746",
+      "titulo": "Grupo Tchê Travessias realiza treinamentos de natação em águas abertas no Lago Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDVHemhGRVZaYUNtel9meDV3aGVTWTZRYjRrS18yQTBEYldIOEhLOHB4OFVmcU5JV1JnNHNhVEdzcE1tQV9hMUhTdW92TlNjc3FJLXAzc25ZcWRkX2FTZEJqcVl5cVp0ZUYyLTNYR3FNOXNiMnFteFpQSjBNNWhCcnVkYS10QjFjMXpUN1pIcDhYeFlzUFNqWXdOY0xtdFRlLWs4TExKcTQzUQ?oc=5",
+      "fonte": "expansao.co",
+      "publicado_em": "2026-11-03T17:09:23+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Grupo Tchê Travessias realiza treinamentos de natação em águas abertas no Lago Guaíba expansao.co"
+    },
+    {
+      "id": "028e3cb9511e",
+      "titulo": "E se o Guaíba não existisse? Teríamos água nas nossas torneiras?",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZnBxaU56U0g1NFpZMGVONGMyS2NKVmExMnRwQWNVZV9weWUtSHVxNWFGYlBXbXhTblduN25BQ3U4RTE4WnBJVURUanpvN0hqRzNFZWY3bUs1N3VoTHJjdHhndFZUMmVIYjVPUF8tLUEwWm1lVmFobl80Zk5PTlZGcnI1azZ5amhWRVZqYTdpZ3VCamxCbGfSAZYBQVVfeXFMTmZwcWlOelNINTRaWTBlTjRjMktjSlZhMTJ0cEFjVWVfcHllLUh1cTVhRmJQV214U25XbjduQUN1OEUxOFpwSVVEVGp6bzdIakczRWVmN21LNTd1aExyY3R4Z3RWVDJlSGI1T1BfLS1BMFptZVZhaG5fNGZOT05WRnJyNWs2eWpoVkVWamE3aWd1QmpsQmxn?oc=5",
+      "fonte": "Jornal O Sul",
+      "publicado_em": "2026-11-03T16:02:01+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "E se o Guaíba não existisse? Teríamos água nas nossas torneiras? Jornal O Sul"
+    },
+    {
+      "id": "afc72179685f",
+      "titulo": "Grupo Tchê Travessias intensifica treinamentos no Lago Guaíba e fortalece a natação em águas abertas em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPa2NZcE9Hc1FqN1I5LWhBME0zZ2N6eFhnRWxkUEEzOWpFNW1zTGVMallYMlNYMXFyQjBjUEp5T3FBZWRZLXVrOS1UTFdEWEpOc3ZiY1VXbWN0cXF0SzdoOUxaN3dINF9NSjQxY2txZk4wSGU1RlpnQWJTVC1XQm9jX3U4YmE1a09kZ0M2U0tEMENfbDhJT0NUSzRHRmhaRHM0cG51MHVTNFh5YlJJT3NHV0tnVC0xRUZkcVdwcnBQZWxITmpOQXRYSWE2R1UtdEhmUlVKa2c4VWoxcVFMRHBqNmlUbWtTTjZCVFpwUUhBbFNlam1mMS1R0gH8AUFVX3lxTE5HNG5JQ05qZURmT1pCMGROajlpbmdYLV84ZXlfbUEzMmVSaWF1NW1iTFJpOTItY1RRTlFMODFDbHJSRVM2eXI4RFhBcFFtWGhxU2xIeS1wSjJrcllXSzRMZ2NJc2JiR04wOThSaWlEclRzM0lHTHpBTzJrZm9Ia2g1bFkxVUMzeml3ZnBpdGRZLW00QjA4cFVCZW9DUWhwLUJhQlMyTTdiUmdNOTdfR3lqb0dSaEpJYmhrVlk4Z09TN2c5WGl3amljYmE4eGpsV2YzdkZPN2EtUEUwdjlGOTZqdlVEamJyd29kcTdlUEdCQmotekgxdFhibXNfZA?oc=5",
+      "fonte": "Blog do Juares",
+      "publicado_em": "2026-11-03T14:19:42+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Grupo Tchê Travessias intensifica treinamentos no Lago Guaíba e fortalece a natação em águas abertas em Porto Alegre Blog do Juares"
+    },
+    {
+      "id": "6cf839ad5ec1",
+      "titulo": "Skatista entra no Guaíba e salva jovem que estava se afogando em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORHd0azd1N1FSUFFvb0RhbHYxZUloNWJGQk5mdThRUHJmdWFrME9MdmtNU2hjSGRaZU9ZYjMwQ1UxbWxnNDhXTVZSTHd0NzBPdWtlRHBSTS1oWkQxbm56Y3U2QWhZdTRUVnNKOVFtQmxEaHF0THF0emg1aFl2TDlicTJsMHFYQ0NYRnhlMjd0bFA0YVBJWEpLY2pLT21CUHJLWTU0SFdsOFFFTnNGdElqWVc4WVJheHY5Nkt1X2wzWXluMUxrc1hGVm9TbXdxZTBFdDVMU2hELVBreFlGamZB?oc=5",
+      "fonte": "R7",
+      "publicado_em": "2026-11-03T13:20:18+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Skatista entra no Guaíba e salva jovem que estava se afogando em Porto Alegre R7"
+    },
+    {
+      "id": "5b476e80b3a0",
+      "titulo": "Bistek terá loja em Gravataí, e Passarela planeja atacarejo Via em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUjJCam9mMWxfaXRZbkozSjlLaVRPM2t3RUNWVDlsRWpTZ0twc3FiM1VBR0cwQlV0aGhXY1JHNHl6RGVoNW9WajU5RnlRMl9yczRWZzZqMlVIUVhELU41OVFNUFg1MW40UEwwM0RVdmliRmotUjFDb3hsdE42Y3gxSm1RbHdEdW1vZU40cnNMMkhNN1VzR1pvbEJ0V3hDY0lrRnpaWUlvR0hVSnB3WVVtSmJYa0l5NWp6OXRyYnhqV1pGTFNDQktfMVNNaFRWSGtYV3ZweXZpNG5NWjBoaldGSDBn?oc=5",
+      "fonte": "Jornal do Comércio",
+      "publicado_em": "2026-11-03T13:12:44+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Bistek terá loja em Gravataí, e Passarela planeja atacarejo Via em Guaíba Jornal do Comércio"
+    },
+    {
+      "id": "5936adea4d67",
+      "titulo": "Porto Alegre vira Cidade da Natação em Águas Abertas, e Grupo Tchê Travessias leva nadadores ao Lago Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcnU2S0U2STFtMHJmem1WVmFfYl9hdkpoOENYczVqOVpDajN4R0Zkc3pXNVRyYm1yN20taHRvQjVEbEFiSzB6ODRxMzFWWFgtLXgwd2o1N2FxREdCcEpvdDhIYlRHVFFOUUpUYUlVUExoNDVzOWwzTFlLSWk0Mkl4cGdfcThLQ0c2ZWVXVncyZ3hUSHYwZEhpcTN5UGd4b1lmRHR4RUhhSHJtdlFWbWpQTFFrcVB1WG5GWTR0VVRyYkI5YnJfVXdONG53MkVDMlFvbWxQeFBUZ0dVbG5KTEIwbkY3al9qb3dtZGFueDlXOW8?oc=5",
+      "fonte": "Gramado Magazine",
+      "publicado_em": "2026-11-03T12:07:47+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Porto Alegre vira Cidade da Natação em Águas Abertas, e Grupo Tchê Travessias leva nadadores ao Lago Guaíba Gramado Magazine"
     },
     {
       "id": "1e081cd6295b",
@@ -239,7 +299,7 @@
       "fonte": "GZH",
       "publicado_em": "2026-10-29T17:25:41+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Prefeitura de Porto Alegre simula fechamento de comportas em caso de inundação do Guaíba GZH"
     },
     {
@@ -293,16 +353,6 @@
       "resumo": "A antiga usina a carvão com chaminé de mais de 100 metros à beira do Guaíba deixou de funcionar, quase foi demolida e virou um dos centros culturais mais famosos do Sul do país Super Rádio Tupi"
     },
     {
-      "id": "779d9d24f0e9",
-      "titulo": "Set Service contesta prefeita de Guaíba, afirma ter R$ 2 milhões a receber e é alvo de investigação por suspeita de fraude",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWTVMa3JiUldROGpuMEoxX2pPUUI3SUhYcERJTF80a0lTWDBRVURtdWF6aEVyN2RXWmhQSFdIZTZlNC10UlUyOFFtaUxGaklZWUgtNy11UUdINVdUOTBkTGhjRTJGdUd2emVDU09jWW9YaWxuNGVPTVBiRWRDenRWMVphcWRKM1hDV0E?oc=5",
-      "fonte": "INFO DO VALE",
-      "publicado_em": "2026-10-28T02:13:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Set Service contesta prefeita de Guaíba, afirma ter R$ 2 milhões a receber e é alvo de investigação por suspeita de fraude INFO DO VALE"
-    },
-    {
       "id": "e7bb77e236db",
       "titulo": "AMANHÃ TEM FLUMINENSE X INTER AO VIVO NA RECORD GUAÍBA#shorts",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbTZ1VnRjM2c0ZkhxY2JHeXNZdlVQZGdyMldtZEE5Yk1ZeVRHbmZ6WFpNMGpFQkRBZUxHZzdaVXd4ekZ5Q1RhcGJJTDBCclpoSjVlaEpqWUxTS2hqT2doQ2JQTkEyQ21acWJzRmEtUjR0T19KRlg2dUVhMXJjNVJpektiNlBXY2dFLTYzdXpVSnlCb0U3UW40UWQxcGhXSnRkZEtvZjdVREtqeVhhTkliTG1B?oc=5",
@@ -321,69 +371,9 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Lula vence a eleição presidencial em Guaíba (RS) Congresso em Foco"
-    },
-    {
-      "id": "a4569ccdd2e4",
-      "titulo": "Cisne Branco transforma eventos em experiências sobre o Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd0RidTIxLUFVZGRoTVVyMUNWeXJDbjdGaWYxTWVCZ09JRTdnOHBrT2lCektYNFpFLThxT0IxYTExNFY4TXRodDQtU1E5NGFXNW03b1ZDM3ZaR1VtcDI0M0VZY2h3c2NXdkx4RTA4OGlRRVdjY1lCU29KcjlCb2FKMUwzYzRFNWEyTUFNS3dWY1ZSdHVqdm54c3hBcWlLdENBa0cwbi1kNGZXWXp3dVY2QlRqWldmUjZmMDM2bzBHeWxfV0tQUTlJVnVackRGT0tO?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-10-27T21:37:06+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Cisne Branco transforma eventos em experiências sobre o Guaíba Jornal do Comércio"
-    },
-    {
-      "id": "b59a305ac425",
-      "titulo": "Não perca todas as noticias a partir das 19h! Na Record Guaíba📺#shorts",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWWRVMTJTVWRyV1NoaGFrM1VPTjExZDNucVBOSF9zQXVFZWFzUmQ0V3R0WjY5Z2xOWnVMS0Z3cnRtMW5oNG5CYzRUSW9wekE1UjdmM3FtWVQyX25NU2dBRXBLU3BjdGNXdUs3U1RhNW92ZTlSVlpCUGpobnhZTGhyUGdsUENxNFdWNkZ1SG44WVJrc19wd2tvMnZuV2JOdVpzMWE3N3JxZTJ6Uk1uN2lYTHRTMkM1UVZVcktv?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-10-27T20:13:15+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Não perca todas as noticias a partir das 19h! Na Record Guaíba📺#shorts R7"
-    },
-    {
-      "id": "de96ad579b7a",
-      "titulo": "MPRS sedia capacitação sobre ECA Digital e Lei Henry Borel em Guaíba - Ministério Público",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwUjktazQtQkh3MktJSXBsT2ZJaFRoSF9Zd0hBSGp6ZUtNM0FmWTh1TzRjMHhQdjR3LURCWjZ2M0s2dXJSYXVoa0NLZ2thLWM?oc=5",
-      "fonte": "Ministério Público - RS",
-      "publicado_em": "2026-10-27T20:08:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "MPRS sedia capacitação sobre ECA Digital e Lei Henry Borel em Guaíba Ministério Público - RS"
-    },
-    {
-      "id": "9777db3a1156",
-      "titulo": "Oficina aborda equidade racial e saúde para profissionais que atuam em unidades prisionais femininas de Guaíba e Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaWJlYjh0ZTIzRGFDeDloVmJQVjlFdy1FWTFRUElhbHVwWGlyUGtkbVhVcVJTUTZIR1Z4T3kyQ1ZmZWpzejI0d1ZwX1Y4Nk9NMjBXRjU1ZXprV0d6aFg4Wko1V00zU29Tb0doMXFQOHplbzF0eThjaWREaTB6c3VUeURZbnVUZy0yQTlnMDNoelQ2eWFaSTl0aDNoNW9seFU1RldUNUlkQ280SlBTQm5USGF6SmdlUUUxZXJXb2ZhME5qLXVKSkF5OUp3WFNMSDhfZ1pSWE5wSEd3RFhTVTBSTHVubGNNNHhoUF9kSw?oc=5",
-      "fonte": "Polícia Penal",
-      "publicado_em": "2026-10-27T19:37:56+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Oficina aborda equidade racial e saúde para profissionais que atuam em unidades prisionais femininas de Guaíba e Porto Alegre Polícia Penal"
-    },
-    {
-      "id": "f4314dd57f22",
-      "titulo": "Guaíba encerra ciclo estadual da Semana do Ministério Público em 2026",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOVcxNTl5RTd4dl9fTnBwc3FzT3BuM2VNanF1TWZUMThpUnh3My1LLVpQLWp2NlowSHhnM2JMUFZmYnRaV3E5bFV1dVFtSkFWVXVQUjZOYTVxRFRHRW1oNFBMbXhrUEhrOXJYRG5tby1HTHVpTXM5a0Q2SkFOSjVTQ0hWcThiM2JSU2ZOVXpUZXQ0VkR6dmx0WjNTbk5DZmhCTFlCUEhLOVFwN1FCSVVpVE5KR3pRSV9pU3dZeWQwYThVSUpaRVprcTI5RTZSZm8?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-10-27T15:04:26+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba encerra ciclo estadual da Semana do Ministério Público em 2026 Correio do Povo"
     }
   ],
   "noticias_home": [
-    {
-      "id": "32e02527b8e8",
-      "titulo": "Hotel Ibis deve encerrar atividades em Guaíba até dezembro",
-      "url": "https://www.reporterguaibense.com.br/noticia/hotel-ibis-deve-encerrar-atividades-em-guaiba-ate-dezembro",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Outra rede hoteleira deverá assumir a administração do prédio a partir de dezembro"
-    },
     {
       "id": "e38f66be6482",
       "titulo": "Polícia Civil combate crimes contra a administração pública em Guaíba",
@@ -452,6 +442,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Em um vídeo publicado nas redes sociais, Mazé mostra os estragos causados pelo incêndio"
+    },
+    {
+      "id": "58d23e1952ab",
+      "titulo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service",
+      "url": "https://www.reporterguaibense.com.br/noticia/vereadores-de-guaiba-protocolam-pedido-de-abertura-de-cpi-para-investigar-contratos-com-a-set-service",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Todos os 17 vereadores da cidade assinaram o documento nesta segunda-feira"
     }
   ]
 }
