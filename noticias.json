@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-03T19:04:19.789821+00:00",
+  "gerado_em": "2026-11-04T00:23:05.839620+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -123,16 +123,6 @@
       "feed": "reporter_direto"
     },
     {
-      "id": "a39effb41aea",
-      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
-    },
-    {
       "id": "11822b2ad708",
       "titulo": "Ex-embaixatriz da terceira idade do Carnaval pede ajuda após incêndio atingir sua casa em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/ex-embaixatriz-da-terceira-idade-do-carnaval-pede-ajuda-apos-incendio-atingir-sua-casa-em-guaiba",
@@ -143,6 +133,16 @@
       "resumo": "Em um vídeo publicado nas redes sociais, Mazé mostra os estragos causados pelo incêndio"
     },
     {
+      "id": "a39effb41aea",
+      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
+    },
+    {
       "id": "58d23e1952ab",
       "titulo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service",
       "url": "https://www.reporterguaibense.com.br/noticia/vereadores-de-guaiba-protocolam-pedido-de-abertura-de-cpi-para-investigar-contratos-com-a-set-service",
@@ -151,6 +151,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Todos os 17 vereadores da cidade assinaram o documento nesta segunda-feira"
+    },
+    {
+      "id": "fff3797ad870",
+      "titulo": "Ministério Público do RS acompanha avanços da modernização do Plano Diretor de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ministerio-publico-do-rs-acompanha-avancos-da-modernizacao-do-plano-diretor-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Órgão recebeu comitiva da prefeitura de Guaíba para a apresentação na sexta-feira"
     },
     {
       "id": "1912430fa261",
@@ -183,14 +193,34 @@
       "resumo": "As receitas previstas passam de R$ 757,4 milhões para R$ 712,3 milhões, uma redução de 5,95%"
     },
     {
+      "id": "b085c6723a60",
+      "titulo": "Vídeo mostra cortina de fumaça \"invadindo\" orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa283dkE5cFJXQlpueHplbXc1enQ3eHU4ZVlVYk4xNEp5a2EwdVA2NE1wLVdnMGRlUUpPNklFRHZIdU1BUURuVzlWSmd6bWg1VmJrWXBlSlVJLWdKX2VuaF9jUGFtSDZVNFdVaUtDYnNsMEpqbDF3VUw4UFRibXFFdWhZWDRIbGo0Z3c0MUNaQnVrcW82WC1kTzlJaUxMaS1lcjdxYlpZMExyZG9zZ2RBZzBaWWpTOG1KRnZvZElKeFBfMEs1U2xUWVY2akRLeE5KTEhqR1ZwZk9RZG5Ua1lDVw?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-11-03T21:36:56+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Vídeo mostra cortina de fumaça \"invadindo\" orla do Guaíba GZH"
+    },
+    {
+      "id": "fe8727cf068d",
+      "titulo": "Icehot instala estação de hidratação na Orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGw0S21OcVFwZmgzcE5rdHJnV29qLVZVTFpmUHdXLXkzcXJKM1BMX2QxNFFBc09jRk9PTTFMakNxc3pMTWNDeWFGWHJ6T1ZpQnZGQngyRXZHb09DSXNWektJa196eGQwOVcxZUplU0NUcGRKZm5zd2p3VUtBd05EMnF1amhYdW5maXk2TUZn?oc=5",
+      "fonte": "Coletiva.net",
+      "publicado_em": "2026-11-03T18:17:54+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Icehot instala estação de hidratação na Orla do Guaíba Coletiva.net"
+    },
+    {
       "id": "afe3838ac746",
       "titulo": "Grupo Tchê Travessias realiza treinamentos de natação em águas abertas no Lago Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDVHemhGRVZaYUNtel9meDV3aGVTWTZRYjRrS18yQTBEYldIOEhLOHB4OFVmcU5JV1JnNHNhVEdzcE1tQV9hMUhTdW92TlNjc3FJLXAzc25ZcWRkX2FTZEJqcVl5cVp0ZUYyLTNYR3FNOXNiMnFteFpQSjBNNWhCcnVkYS10QjFjMXpUN1pIcDhYeFlzUFNqWXdOY0xtdFRlLWs4TExKcTQzUQ?oc=5",
-      "fonte": "expansao.co",
+      "fonte": "Expansão",
       "publicado_em": "2026-11-03T17:09:23+00:00",
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Grupo Tchê Travessias realiza treinamentos de natação em águas abertas no Lago Guaíba expansao.co"
+      "feed": "recentes",
+      "resumo": "Grupo Tchê Travessias realiza treinamentos de natação em águas abertas no Lago Guaíba Expansão"
     },
     {
       "id": "028e3cb9511e",
@@ -341,36 +371,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "ERNANI CHACRINHA, Vereador 2020 em Guaíba CBN Amazônia"
-    },
-    {
-      "id": "3d5fc8e6b61a",
-      "titulo": "A antiga usina a carvão com chaminé de mais de 100 metros à beira do Guaíba deixou de funcionar, quase foi demolida e virou um dos centros culturais mais famosos do Sul do país",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNZFNDQXhyd05UN1pUUjFOXzhJM2ptazFGZEpPaVZGaThXb3JPMkhBV3JZTjN6M2NHNWFfYW9lU1RucmVSdmM5dEdPckJUbVhoUnNrVmhsQmxsM0k0YjZ4aHhxaFJVZTB5Rmc1aFBhaWoycU0yQlpvdmhGVlRfUDFKbTNNUG1NRDNiUEU1dDVjZzdzb21jTEVCejd4ZldUMFFpWUJyajR5bEw5dURkN3VpZXRLV1ZQaENWdHE0WXRldGMwVDlzN1JkTDE2TXcxQnZtMzhrcFI1WVBLNXFvczdVbXlXYml6SjIydmp6VUhuakdFNVFFMDBNajI2aUwwcVNETFZyX3lNS1J0aXdfXzZRQlhCamxUVzJGNmQybUxzTG5RVlRzbXNqd2N3NA?oc=5",
-      "fonte": "Super Rádio Tupi",
-      "publicado_em": "2026-10-28T16:41:56+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "A antiga usina a carvão com chaminé de mais de 100 metros à beira do Guaíba deixou de funcionar, quase foi demolida e virou um dos centros culturais mais famosos do Sul do país Super Rádio Tupi"
-    },
-    {
-      "id": "e7bb77e236db",
-      "titulo": "AMANHÃ TEM FLUMINENSE X INTER AO VIVO NA RECORD GUAÍBA#shorts",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbTZ1VnRjM2c0ZkhxY2JHeXNZdlVQZGdyMldtZEE5Yk1ZeVRHbmZ6WFpNMGpFQkRBZUxHZzdaVXd4ekZ5Q1RhcGJJTDBCclpoSjVlaEpqWUxTS2hqT2doQ2JQTkEyQ21acWJzRmEtUjR0T19KRlg2dUVhMXJjNVJpektiNlBXY2dFLTYzdXpVSnlCb0U3UW40UWQxcGhXSnRkZEtvZjdVREtqeVhhTkliTG1B?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-10-27T23:01:03+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "AMANHÃ TEM FLUMINENSE X INTER AO VIVO NA RECORD GUAÍBA#shorts R7"
-    },
-    {
-      "id": "4e81dfe202b1",
-      "titulo": "Lula vence a eleição presidencial em Guaíba (RS)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG5SdFVYSVBuTzZweDVOeG9nSkZNWVkyUmlFQzBXdmNVd3hCQ0Q5RW9XcGMxcUFtTHJkVXFad0pUVVBKNUhNdFZDbjFBUlhpeE1PSnFzSl9udzBJZTlYd1VuYmtRZFFOX3BqZG9SRjRHQ21FM1BfZFV0aFNHcklWZ0lOdlFQc1IyQnoyeEZreVNiMkJfa0hEdWp6NGw?oc=5",
-      "fonte": "Congresso em Foco",
-      "publicado_em": "2026-10-27T21:39:23+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Lula vence a eleição presidencial em Guaíba (RS) Congresso em Foco"
     }
   ],
   "noticias_home": [
@@ -424,16 +424,6 @@
       "feed": "reporter_direto"
     },
     {
-      "id": "a39effb41aea",
-      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
-    },
-    {
       "id": "11822b2ad708",
       "titulo": "Ex-embaixatriz da terceira idade do Carnaval pede ajuda após incêndio atingir sua casa em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/ex-embaixatriz-da-terceira-idade-do-carnaval-pede-ajuda-apos-incendio-atingir-sua-casa-em-guaiba",
@@ -442,6 +432,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Em um vídeo publicado nas redes sociais, Mazé mostra os estragos causados pelo incêndio"
+    },
+    {
+      "id": "a39effb41aea",
+      "titulo": "Guaíba recebe sua primeira Oktoberfest neste sábado",
+      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-recebe-sua-primeira-oktoberfest-neste-sabado",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
     },
     {
       "id": "58d23e1952ab",
