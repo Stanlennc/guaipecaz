@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-05T14:00:10.569746+00:00",
+  "gerado_em": "2026-11-05T21:00:11.261098+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "e38f66be6482",
-      "titulo": "Polícia Civil combate crimes contra a administração pública em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/policia-civil-combate-crimes-contra-a-administracao-publica-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Aproximadamente 25 policiais civis cumpriram sete mandados de busca e apreensão, nesta quinta-feira (22)"
-    },
-    {
       "id": "831fcf5ba47f",
       "titulo": "Lula venceu Flávio Bolsonaro por 50,19% a 49,81% em Guaíba; veja os resultados por local de votação",
       "url": "https://www.reporterguaibense.com.br/noticia/lula-venceu-flavio-bolsonaro-por-50-19-a-49-81-em-guaiba-veja-os-resultados-por-local-de-votacao",
@@ -92,6 +82,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Lula foi o mais votado em 18 locais de votação, enquanto Flávio Bolsonaro venceu em 16"
+    },
+    {
+      "id": "e38f66be6482",
+      "titulo": "Polícia Civil combate crimes contra a administração pública em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/policia-civil-combate-crimes-contra-a-administracao-publica-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Aproximadamente 25 policiais civis cumpriram sete mandados de busca e apreensão, nesta quinta-feira (22)"
     },
     {
       "id": "0e712728c4fe",
@@ -153,6 +153,16 @@
       "resumo": "Órgão recebeu comitiva da prefeitura de Guaíba para a apresentação na sexta-feira"
     },
     {
+      "id": "0e4181da1d9d",
+      "titulo": "Vendedor, balconista, estoquista e mais: Sine Guaíba oferece 14 vagas de emprego nesta quinta-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-balconista-estoquista-e-mais-sine-guaiba-oferece-14-vagas-de-emprego-nesta-quinta-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+    },
+    {
       "id": "1912430fa261",
       "titulo": "Escritores e coletivo cultural de Guaíba integram programação da Feira do Livro de Porto Alegre",
       "url": "https://www.reporterguaibense.com.br/noticia/escritores-e-coletivo-cultural-de-guaiba-integram-programacao-da-feira-do-livro-de-porto-alegre",
@@ -171,16 +181,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O encontro teve como objetivo sensibilizar os serviços da rede e qualificar servidores municipais para o fortalecimento da proteção integral de crianças e adolescentes"
-    },
-    {
-      "id": "573f8b62e46d",
-      "titulo": "Câmara de Guaíba aprova LDO de 2027 com previsão de queda nas receitas e despesas",
-      "url": "https://www.reporterguaibense.com.br/noticia/camara-de-guaiba-aprova-ldo-de-2027-com-previsao-de-queda-nas-receitas-e-despesas",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "As receitas previstas passam de R$ 757,4 milhões para R$ 712,3 milhões, uma redução de 5,95%"
     },
     {
       "id": "2c9642f30652",
@@ -231,6 +231,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Icehot instala estação de hidratação na Orla do Guaíba Coletiva.net"
+    },
+    {
+      "id": "afe3838ac746",
+      "titulo": "Grupo Tchê Travessias realiza treinamentos de natação em águas abertas no Lago Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDVHemhGRVZaYUNtel9meDV3aGVTWTZRYjRrS18yQTBEYldIOEhLOHB4OFVmcU5JV1JnNHNhVEdzcE1tQV9hMUhTdW92TlNjc3FJLXAzc25ZcWRkX2FTZEJqcVl5cVp0ZUYyLTNYR3FNOXNiMnFteFpQSjBNNWhCcnVkYS10QjFjMXpUN1pIcDhYeFlzUFNqWXdOY0xtdFRlLWs4TExKcTQzUQ?oc=5",
+      "fonte": "Expansão",
+      "publicado_em": "2026-11-03T17:09:23+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Grupo Tchê Travessias realiza treinamentos de natação em águas abertas no Lago Guaíba Expansão"
     },
     {
       "id": "028e3cb9511e",
@@ -293,16 +303,6 @@
       "resumo": "Eleições 2026: Ficha de Domingues da Ponte do Guaíba (PODE) Folha de S.Paulo"
     },
     {
-      "id": "46609f57e66e",
-      "titulo": "Orla do Guaíba ganha nova estação de hidratação gratuita",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0NxWklhV1dOSTNQdktPYlpvWFBYNnVxYWJXY3VMY1N3OEpMOFJiUzhvREdfcnAxemZVd3ZucEhrTXdzWjZQTkkzTWo3Ym02U3pKaU51SFVqOGtpUUhEc2JWY2JRZUxZQjJMVXhvSVlNWFRhNkxQU0RRRmFfUFZsdE44dmtsTTZrVXg2SXh3U1R0Z0w1UjByUDVOdkN4S3o1QzcwaTd6WWZoalZCWk9PN3hFcHZRc2c?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-10-29T13:43:47+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Orla do Guaíba ganha nova estação de hidratação gratuita Jornal do Comércio"
-    },
-    {
       "id": "4e81dfe202b1",
       "titulo": "Lula vence a eleição presidencial em Guaíba (RS)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG5SdFVYSVBuTzZweDVOeG9nSkZNWVkyUmlFQzBXdmNVd3hCQ0Q5RW9XcGMxcUFtTHJkVXFad0pUVVBKNUhNdFZDbjFBUlhpeE1PSnFzSl9udzBJZTlYd1VuYmtRZFFOX3BqZG9SRjRHQ21FM1BfZFV0aFNHcklWZ0lOdlFQc1IyQnoyeEZreVNiMkJfa0hEdWp6NGw?oc=5",
@@ -323,16 +323,6 @@
       "resumo": "GUAIBA Futebol Clube, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
-      "id": "4e3c538c989e",
-      "titulo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRHRmYkRxTlBiZlJFYnlmWXF5ckEzMk0xTTU5U0NlS1d2N0xhT2JrdEFreFZQM0FpMEFHaGpXU2txLXNQTlNqRXBGUEI3dHY1dW1laUREdFBwMjI3Y2FXanlaSGRGcm02aGxCeUxHNXc2ckpEX3FOc21FaE9WUGVBenJpdHZaMEUtWFJjUUljeXQ3VE5tMDVQN0FfWFdTZVFxOFg5UGRjaUxjU09WMjUtWlJzZEhLYndMRlBjX0lEOEZVbU81dHR2Y3A3Q2UybU5PNEdmN1VzNXdYUExrTTNOREZzU0tNZ9IB9AFBVV95cUxOZ3V3b0dMV0NISlp5N0wySUNRYXBhQVNjRWtqeXZrSmRsc1E2dG9yT1V3cEY5a0tuUFNQMnRNWnJyWWV4c2g3c1E2dW9rTF9VdFAzTElrVl9zbFBzblBkbHBBZ3k0MU8tX1JfWG01aVZTaGl4QlNtaEpEeml4SjIycmJqMkhqR0VLcVpPOGVIcEhXZnpvN3pxNmVJSC13QXpGUWxaaWtWbUFmNDJqcGlHdGFDblRGWktPeXBrVDVFamhlUFdNSllQeVUwSDAxVENTb3g3QXRJVTU2OGhDTDZJMUF4TDRZVHZUQnhvRjExdmJxaWlV?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno G1"
-    },
-    {
       "id": "53259009f219",
       "titulo": "E.M.E.F. Itororó, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcmlETENzM2VxQlpQcUU5Q2lNSE5CWnBxbUoweVU0TDJQcXVDQnZDSkZBR2RySEM4blhZc1pmYTRZX20yN2d0MFoxWGVBUEthX3lzMXQxa0c4OER0YVg2WUxiNDFHQXozVjlKeVlXMnBiWm01WV9Edlh3QzU5cTc2Y1JYWHBMb1hmTFFOUElnU2xsdjA1enpwVkdCWE1TWmx5eU1taURqSzRENjEwQ1dhc25EN1NiUzRJSHYwT0x4RF9UYnlnb3ctZk1qM2FuX3J5dTJ0T1ZvMVdDSTByb29PT3BIblV6QmJxM25LYmlEeXZKUmfSAYICQVVfeXFMTTVZem80RmF5cEZfSjlibVp5bnhRdFBuVEdsdnM1cUF4ZUZHb3pNN0p6WmR3RDdjMzZQeDlra2hNNmN1cHVFVXl1TTVZTE4xd28wNGpwaUkxNGRHaVVTejdnYUkya0EwM3pfQUQzNDlzU3AtZTd5UEVMdDkwWXcyOVNyZHdLZGNrMVdOTngyZE1TY0VzNFRZMnVLeXNtdWs4OHRWRWJrWlM4em9Jd2hFZlNQN2lyWnhYLTFiakUxT2VpcjJsdE1sWEllTUs1UHpPOWNCM2s4NVdLaTRQN2pJMFpYZm1SRUZtamF5RGxLVnNrNmVIelY3c2FJMUJRRHdPcnFR?oc=5",
@@ -341,16 +331,6 @@
       "categoria": null,
       "feed": "google",
       "resumo": "E.M.E.F. Itororó, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "3ae490d5ffbc",
-      "titulo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOUV5QzR3WkRRQTVzc1lvVkhhd2xiSGdMT1FmZGZrNmNDVVlyX1lVM3FEWEJacXAzbV9neHhEQVFhTGRjNWFBN183WXpqUHFrQTBBaWVXYk9Ya3h6bVNZLUFIcHdPX05rNWFzNWMyeEZJa2ZuRHZReVdiS251T3dSUXhnYmdCdS1nbWVMVWhMbzhtVDFQY1lKcnRsTXZ0U3hYakZFVjZCekpCQW44ZEpycGJORjd3ZUFKVUVINDFBUG5JUkFLOGhHeWw5UXk4dkZ1TWcxMEFxT3lOOUZlMzRRTmRHOVV5dUFqaTFaYTlmT0ZVTHg3MWlkeXN5a2vSAYsCQVVfeXFMTXRFMFhUcVhPTG4xbXhING5rLW5hMmJvN2lCaHQwU01xOHQwWk5RaVRqT0Q2dFBCNkp3Y1NLR3NMYWJXWENodmZKWUtiNGp6d0lxRHkyZ2ZZaEpFenRGZjhzaWpCODRRZ2lBc21fQnhqQ2pDcDhFOFNkeDdJcXE5eGxpcFZEWDNWNVAzM3BFOEl6akEyLWpsYWRranNkNUhfYmk0YW9sSGdNZ3c0SzFYQzBkU0JBcHljeUdLcE80NS15TVN2bjc1dWJtb0E5WXRtVFdIX2hnNVJXZm9vR05zQWU4LWEteGNGZ3MwSlAwVUtnbGlkazdPWVFCN0hoMEdfNXJBemhhNUszMlNR?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
       "id": "59821544750e",
@@ -363,27 +343,37 @@
       "resumo": "E.M.E.F. Maximo Laviaguerre, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
-      "id": "de964277f317",
-      "titulo": "E.M.E.F. São Paulo, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONW03MjlveDdEWlFBa3d1YTFERy1hM21SVjE1aGhVWk9manpiQ1hBZTZxRkpRVVJQcDRjZjlNdUdqeUY5aGVoanRzb3lHaERIcXd4bFRuYUVIMlhnNFctdEhVajF3MjJiZ1pyVV9pUW1tNTJtSUwzYVFaMVU5dDcxd1VwTjNkcnJpV05QWXFNWXhBQkE2a2x2MWRXMnhuZXA0SmFWVUNhWlctSy1lWGs2bHI3aTNFMDVQRGdpTGppeUxEekQxRHVzaHRUWEFjM0tLOFl1S1BLa0cxdFRDV0k1QzdKdmZLa25pLU1ySUFjQkNtT0p3OVBmN0VrRWdXbm1zOE5wNtIBhAJBVV95cUxONW03MjlveDdEWlFBa3d1YTFERy1hM21SVjE1aGhVWk9manpiQ1hBZTZxRkpRVVJQcDRjZjlNdUdqeUY5aGVoanRzb3lHaERIcXd4bFRuYUVIMlhnNFctdEhVajF3MjJiZ1pyVV9pUW1tNTJtSUwzYVFaMVU5dDcxd1VwTjNkcnJpV05QWXFNWXhBQkE2a2x2MWRXMnhuZXA0SmFWVUNhWlctSy1lWGs2bHI3aTNFMDVQRGdpTGppeUxEekQxRHVzaHRUWEFjM0tLOFl1S1BLa0cxdFRDV0k1QzdKdmZLa25pLU1ySUFjQkNtT0p3OVBmN0VrRWdXbm1zOE5wNg?oc=5",
+      "id": "81b26f00b547",
+      "titulo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSF9qbWI1MjR4d2tlUGZMUGZyVXZZaTE3WTFtZXNFbVlMR3E5Y3E1c2hiRzZKNGNJSl8tQUptb0x4aTNWeUNoaXpaVkdlUkdWZHlGNS1BczZKOURKMDJNTGtReXRjdFNKNmplUzBSbF84dHpOZmppclctZWpyc1NRaXpzRnZodWE5Q3dSOXhTVHhxR1ZkQkhLelNTbG5WMnUxaVdTSmJkWngyOTViWUVJNXlmSFR4RkozWFE5RHczUFhMNU9KbHhCOUpOVTNWX05CcTk1dWpPQ0xfUzFUMWZKRnk0Y2RpdTjSAfYBQVVfeXFMTVpLUm9WSWRTakJULWdrZUdSeklIdTNxMGVQa1UwTDdMaWp6V0haS2ozZkFCbkt4TEtORnR1WWgxWjFTMzFyUmU3MEM4TVNvdkZIa0x5b1Z6Ui1pSTFjbmx1V0NwVXRabE9TaVo0RnR5QUVHMkNHa2JkaklxS3FUbEJ5bmxScFRkTjR6YVpCb3h3elh5LTJQakhjRnA2TUlteTdHSzU4QlNxelB0THhNSFVTVXBYSkIzYnp1Y1hnOTVkUzVaZzBJUmVPNlQySlY5SUljeGNMZVFwWXlPNHlxOE9ObWlWb2lWVjVka0s5VjdPNjlpUzlB?oc=5",
       "fonte": "G1",
-      "publicado_em": "2026-10-26T07:00:00+00:00",
+      "publicado_em": "2026-10-25T07:00:00+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "E.M.E.F. São Paulo, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+      "resumo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no 2º turno G1"
+    },
+    {
+      "id": "adf34b4b7c27",
+      "titulo": "Quanto custa a gasolina em Guaíba (RS) nesta semana? Veja preços",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmJwSTlLWFdEeWdRSGx6dGRIczdhY2UzVU9EU3lzZUtkd210dDA1dnZHdFVQcVNRMEd1bFpMRzZ4ZWxKYjA2VC1rZTBKajM0dk9raHRFcmZoVGRYWi1SdlBUZVlRdGQ2UUMwUXNPRkdXd1lsdC1kcHRYZ1hQQ0ZfTkFadTZ4Q0VtWTRSQzMyTlBqU25vNWhZeE9uUHIyRzg2TmVpdU9ySzFpd1lCcF9IcVprWnpEclVqcGMwWDUzcw?oc=5",
+      "fonte": "UOL Economia",
+      "publicado_em": "2026-10-21T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Quanto custa a gasolina em Guaíba (RS) nesta semana? Veja preços UOL Economia"
+    },
+    {
+      "id": "e523c983307d",
+      "titulo": "Festival Primavera Cultural promove atividades gratuitas de cordel e circo em Guaíba (RS)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVDdOaTFUa0pjeUl6cDRoWjduV2VwemJZajdyYWdBcDZPZExmaWx2RHlHSnZoTkd2clFDM3ZYX1RLNE1VcXBsWU1vUS1lMkphNFlSTy1sR1NvSkhZbk9GQjhESlg2NkhLRHZ6Nlc3LU1YcHVIN2dOMndpQWpTLXljcEU3bzNsdHNndmt0d3J5YmYwN0hLaTJIdHZiWWxCRjlHcVp0ZkY3bnBRMnM5bDVSSzVzM0RmSjNYT0JGT3k0bEZFOVRGWThSLXNtZw?oc=5",
+      "fonte": "Brasil de Fato",
+      "publicado_em": "2026-10-20T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Festival Primavera Cultural promove atividades gratuitas de cordel e circo em Guaíba (RS) Brasil de Fato"
     }
   ],
   "noticias_home": [
-    {
-      "id": "e38f66be6482",
-      "titulo": "Polícia Civil combate crimes contra a administração pública em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/policia-civil-combate-crimes-contra-a-administracao-publica-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Aproximadamente 25 policiais civis cumpriram sete mandados de busca e apreensão, nesta quinta-feira (22)"
-    },
     {
       "id": "831fcf5ba47f",
       "titulo": "Lula venceu Flávio Bolsonaro por 50,19% a 49,81% em Guaíba; veja os resultados por local de votação",
@@ -393,6 +383,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Lula foi o mais votado em 18 locais de votação, enquanto Flávio Bolsonaro venceu em 16"
+    },
+    {
+      "id": "e38f66be6482",
+      "titulo": "Polícia Civil combate crimes contra a administração pública em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/policia-civil-combate-crimes-contra-a-administracao-publica-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Aproximadamente 25 policiais civis cumpriram sete mandados de busca e apreensão, nesta quinta-feira (22)"
     },
     {
       "id": "0e712728c4fe",

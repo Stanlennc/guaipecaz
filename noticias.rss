@@ -5,15 +5,15 @@
 <description>Notícias de Guaíba e da Região Metropolitana de Porto Alegre</description>
 <language>pt-BR</language>
 <item>
-<title>Polícia Civil combate crimes contra a administração pública em Guaíba</title>
-<link>https://www.reporterguaibense.com.br/noticia/policia-civil-combate-crimes-contra-a-administracao-publica-em-guaiba</link>
-<guid>e38f66be6482</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
 <title>Lula venceu Flávio Bolsonaro por 50,19% a 49,81% em Guaíba; veja os resultados por local de votação</title>
 <link>https://www.reporterguaibense.com.br/noticia/lula-venceu-flavio-bolsonaro-por-50-19-a-49-81-em-guaiba-veja-os-resultados-por-local-de-votacao</link>
 <guid>831fcf5ba47f</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
+<title>Polícia Civil combate crimes contra a administração pública em Guaíba</title>
+<link>https://www.reporterguaibense.com.br/noticia/policia-civil-combate-crimes-contra-a-administracao-publica-em-guaiba</link>
+<guid>e38f66be6482</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -53,6 +53,12 @@
 <source>Repórter Guaibense</source>
 </item>
 <item>
+<title>Vendedor, balconista, estoquista e mais: Sine Guaíba oferece 14 vagas de emprego nesta quinta-feira</title>
+<link>https://www.reporterguaibense.com.br/noticia/vendedor-balconista-estoquista-e-mais-sine-guaiba-oferece-14-vagas-de-emprego-nesta-quinta-feira</link>
+<guid>0e4181da1d9d</guid>
+<source>Repórter Guaibense</source>
+</item>
+<item>
 <title>Escritores e coletivo cultural de Guaíba integram programação da Feira do Livro de Porto Alegre</title>
 <link>https://www.reporterguaibense.com.br/noticia/escritores-e-coletivo-cultural-de-guaiba-integram-programacao-da-feira-do-livro-de-porto-alegre</link>
 <guid>1912430fa261</guid>
@@ -62,12 +68,6 @@
 <title>Guaíba sedia capacitação sobre o ECA Digital e a Lei Henry Borel</title>
 <link>https://www.reporterguaibense.com.br/noticia/guaiba-sedia-capacitacao-sobre-o-eca-digital-e-a-lei-henry-borel</link>
 <guid>6b27a37db175</guid>
-<source>Repórter Guaibense</source>
-</item>
-<item>
-<title>Câmara de Guaíba aprova LDO de 2027 com previsão de queda nas receitas e despesas</title>
-<link>https://www.reporterguaibense.com.br/noticia/camara-de-guaiba-aprova-ldo-de-2027-com-previsao-de-queda-nas-receitas-e-despesas</link>
-<guid>573f8b62e46d</guid>
 <source>Repórter Guaibense</source>
 </item>
 <item>
@@ -106,6 +106,13 @@
 <source>Coletiva.net</source>
 </item>
 <item>
+<title>Grupo Tchê Travessias realiza treinamentos de natação em águas abertas no Lago Guaíba</title>
+<link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDVHemhGRVZaYUNtel9meDV3aGVTWTZRYjRrS18yQTBEYldIOEhLOHB4OFVmcU5JV1JnNHNhVEdzcE1tQV9hMUhTdW92TlNjc3FJLXAzc25ZcWRkX2FTZEJqcVl5cVp0ZUYyLTNYR3FNOXNiMnFteFpQSjBNNWhCcnVkYS10QjFjMXpUN1pIcDhYeFlzUFNqWXdOY0xtdFRlLWs4TExKcTQzUQ?oc=5</link>
+<guid>afe3838ac746</guid>
+<pubDate>2026-11-03T17:09:23+00:00</pubDate>
+<source>Expansão</source>
+</item>
+<item>
 <title>E se o Guaíba não existisse? Teríamos água nas nossas torneiras?</title>
 <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOZnBxaU56U0g1NFpZMGVONGMyS2NKVmExMnRwQWNVZV9weWUtSHVxNWFGYlBXbXhTblduN25BQ3U4RTE4WnBJVURUanpvN0hqRzNFZWY3bUs1N3VoTHJjdHhndFZUMmVIYjVPUF8tLUEwWm1lVmFobl80Zk5PTlZGcnI1azZ5amhWRVZqYTdpZ3VCamxCbGfSAZYBQVVfeXFMTmZwcWlOelNINTRaWTBlTjRjMktjSlZhMTJ0cEFjVWVfcHllLUh1cTVhRmJQV214U25XbjduQUN1OEUxOFpwSVVEVGp6bzdIakczRWVmN21LNTd1aExyY3R4Z3RWVDJlSGI1T1BfLS1BMFptZVZhaG5fNGZOT05WRnJyNWs2eWpoVkVWamE3aWd1QmpsQmxn?oc=5</link>
 <guid>028e3cb9511e</guid>
@@ -125,12 +132,5 @@
 <guid>5b476e80b3a0</guid>
 <pubDate>2026-11-03T13:12:44+00:00</pubDate>
 <source>Jornal do Comércio</source>
-</item>
-<item>
-<title>Guaíba ainda não voltou ao estado pré-enchente, mostra estudo do IPH da UFRGS</title>
-<link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMlk0dWNIbml0Z3JINVRQZExOSGVZZlZoaElqRDhtZ3ZpVG5GSlZpMFhkdXh5NUpxQXJLY3o2Y2x3YVZNNEJxMHN1UmpXWmhlTWJlWlE0V2ZKYWE0dGI5VUo3U2JCRlA1RGJrZDkxOUhiYlZ6T2tRczBkZ1JER1RaT3BlVjJ4VW0wdVBOVVoxUXdqczNqR2l1NlR6NDBBYUlJUktNUjdMWHM3aDhaQVM0eWozajhIWm5adWY2UEE2bnR2LUNBSnRvTQ?oc=5</link>
-<guid>1e081cd6295b</guid>
-<pubDate>2026-11-02T13:06:00+00:00</pubDate>
-<source>Sul 21</source>
 </item>
 </channel></rss>
