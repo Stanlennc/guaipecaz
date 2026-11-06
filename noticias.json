@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-06T09:13:53.804462+00:00",
+  "gerado_em": "2026-11-06T17:10:30.527407+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,16 +84,6 @@
       "resumo": "Lula foi o mais votado em 18 locais de votação, enquanto Flávio Bolsonaro venceu em 16"
     },
     {
-      "id": "e38f66be6482",
-      "titulo": "Polícia Civil combate crimes contra a administração pública em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/policia-civil-combate-crimes-contra-a-administracao-publica-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Aproximadamente 25 policiais civis cumpriram sete mandados de busca e apreensão, nesta quinta-feira (22)"
-    },
-    {
       "id": "0e712728c4fe",
       "titulo": "Com 161 fotografias, concurso “Olhares de Guaíba” divulga resultados no ano do Centenário",
       "url": "https://www.reporterguaibense.com.br/noticia/com-161-fotografias-concurso-olhares-de-guaiba-divulga-resultados-no-ano-do-centenario",
@@ -153,6 +143,16 @@
       "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
     },
     {
+      "id": "58d23e1952ab",
+      "titulo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service",
+      "url": "https://www.reporterguaibense.com.br/noticia/vereadores-de-guaiba-protocolam-pedido-de-abertura-de-cpi-para-investigar-contratos-com-a-set-service",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Todos os 17 vereadores da cidade assinaram o documento nesta segunda-feira"
+    },
+    {
       "id": "9d9722e31cd3",
       "titulo": "Jovem de Guaíba precisa de cirurgia cerebral e família organiza vaquinha para custear procedimento",
       "url": "https://www.reporterguaibense.com.br/noticia/jovem-de-guaiba-precisa-de-cirurgia-cerebral-e-familia-organiza-vaquinha-para-custear-procedimento",
@@ -181,6 +181,36 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A programação dos próximos dias contará com lançamentos de livros, sessões de autógrafos e oficina de escrita criativa"
+    },
+    {
+      "id": "e068d8d0b924",
+      "titulo": "MP contribui para inclusão de medidas de adaptação climática na revisão do Plano Diretor de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaVZLcHJDZGFUcEpIM0ctTUVVaDdiOE42SmRCY0E5cnRtbks1ajliSHV2ZFBXbnJnM21ibVdZbDJTOVVsNzdwVGxxbHNOWmhoQWlkY1dnemVUWW5kaDJWdmd5N2VJc1hRNEFySkpsT3M1Rmg4OTM3Q3R3THI5U052VjV2M3JndWVjajhVSG5OMTFoRmlSQ1R4YnhhbXNRS0NRWXhVQnExdnc5WWtsdDJQWmdmeXduemdFdkt1OFZ4Q3NfUVN0eE85R1JjaFR2eHpiTThfVWNJMWVHV3Z0ekN6U2FrV0N3dGw1Q21GRjNTWnNFd3NVb3c?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-11-06T14:48:38+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "MP contribui para inclusão de medidas de adaptação climática na revisão do Plano Diretor de Guaíba Correio do Povo"
+    },
+    {
+      "id": "08e2696ebaf0",
+      "titulo": "Guaíba Revista: 3 meses da volta de um dos mais tradicionais programas do rádio gaúcho",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGRXZUFEcVA3VHVQWGhESkVzWThHQ2pZQTB0Mmk4TEFEQ0g5TG1aT3ZsYndGMXVBR3NMTHZpdWJnQjRlVGpoN2xiZko2UW1RSVduQlByYmp2dUhKd1VrUGlYYkhpZXpLa1c2ZUg2RlZrWmNyU01BQTlQUjVzV3d2bk9pNXByMWptVDJGd2VId0FmLW84eW45dVhqZ1lJR2l1Q3pwcGZOQnZPU2NL?oc=5",
+      "fonte": "Rádio Guaíba",
+      "publicado_em": "2026-11-06T14:29:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba Revista: 3 meses da volta de um dos mais tradicionais programas do rádio gaúcho Rádio Guaíba"
+    },
+    {
+      "id": "b6aa43b71869",
+      "titulo": "Grupo Hospitalar Conceição comemora 70 anos com corrida de rua na orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQnlpVmpiekhoQVNyb0puMC1KRkVIeE12TUFzVU1vRmNhMm9aSEtzSEFJdVBBM2lwV21FMFhqbFh2cVZkYkZJbkNMNUNyZFhndjRMLThZLTZ2U2hRNmkwZk1USDVPbVJjZmxPX2JwcjRPM1h6MERlLVJDQURGVzJfTlpRZzBBZXZva28yMjd1VzdHS3gzZUhHcUwtTExhZ211dE1FZDBxWUpIQ09VMVhsVS1UVlJkV21qVm1ZWDZoRHpReWppYXNHakh0SWhVNmVHcGoyeHY0NWdRMmxGQVd0Q2NZZlpKUXpNTmdfZnhPTnZrdldvMWlYVGtHZldFTUxDWmc?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-11-06T12:25:41+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Grupo Hospitalar Conceição comemora 70 anos com corrida de rua na orla do Guaíba GZH"
     },
     {
       "id": "20e3567f023a",
@@ -213,24 +243,24 @@
       "resumo": "Icehot instala estação de hidratação na Orla do Guaíba Coletiva.net"
     },
     {
-      "id": "afe3838ac746",
-      "titulo": "Grupo Tchê Travessias realiza treinamentos de natação em águas abertas no Lago Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDVHemhGRVZaYUNtel9meDV3aGVTWTZRYjRrS18yQTBEYldIOEhLOHB4OFVmcU5JV1JnNHNhVEdzcE1tQV9hMUhTdW92TlNjc3FJLXAzc25ZcWRkX2FTZEJqcVl5cVp0ZUYyLTNYR3FNOXNiMnFteFpQSjBNNWhCcnVkYS10QjFjMXpUN1pIcDhYeFlzUFNqWXdOY0xtdFRlLWs4TExKcTQzUQ?oc=5",
-      "fonte": "Expansão",
-      "publicado_em": "2026-11-03T17:09:23+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Grupo Tchê Travessias realiza treinamentos de natação em águas abertas no Lago Guaíba Expansão"
-    },
-    {
-      "id": "028e3cb9511e",
+      "id": "04667519d5f3",
       "titulo": "E se o Guaíba não existisse? Teríamos água nas nossas torneiras?",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZnBxaU56U0g1NFpZMGVONGMyS2NKVmExMnRwQWNVZV9weWUtSHVxNWFGYlBXbXhTblduN25BQ3U4RTE4WnBJVURUanpvN0hqRzNFZWY3bUs1N3VoTHJjdHhndFZUMmVIYjVPUF8tLUEwWm1lVmFobl80Zk5PTlZGcnI1azZ5amhWRVZqYTdpZ3VCamxCbGfSAZYBQVVfeXFMTmZwcWlOelNINTRaWTBlTjRjMktjSlZhMTJ0cEFjVWVfcHllLUh1cTVhRmJQV214U25XbjduQUN1OEUxOFpwSVVEVGp6bzdIakczRWVmN21LNTd1aExyY3R4Z3RWVDJlSGI1T1BfLS1BMFptZVZhaG5fNGZOT05WRnJyNWs2eWpoVkVWamE3aWd1QmpsQmxn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVHVtTTUzVHlzVHN6czIzSk5zTmZWZ3RkQVFFYk1WN2NlUkFWX2tFMk9BeUJLSzNlUFpUTWhkVldUUElqT05KQXdTN1p3aXN0ODMyc09naTRaMmpTUWxPcW9nUzE3WTMzR0JSLWZ4MDFXalZQVWEzR2ZJZ3NTRld6UHg0N29vb2hRbFphbVM4enTSAZYBQVVfeXFMTmZwcWlOelNINTRaWTBlTjRjMktjSlZhMTJ0cEFjVWVfcHllLUh1cTVhRmJQV214U25XbjduQUN1OEUxOFpwSVVEVGp6bzdIakczRWVmN21LNTd1aExyY3R4Z3RWVDJlSGI1T1BfLS1BMFptZVZhaG5fNGZOT05WRnJyNWs2eWpoVkVWamE3aWd1QmpsQmxn?oc=5",
       "fonte": "Jornal O Sul",
-      "publicado_em": "2026-11-03T16:02:01+00:00",
+      "publicado_em": "2026-11-03T16:14:05+00:00",
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "E se o Guaíba não existisse? Teríamos água nas nossas torneiras? Jornal O Sul"
+    },
+    {
+      "id": "afc72179685f",
+      "titulo": "Grupo Tchê Travessias intensifica treinamentos no Lago Guaíba e fortalece a natação em águas abertas em Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPa2NZcE9Hc1FqN1I5LWhBME0zZ2N6eFhnRWxkUEEzOWpFNW1zTGVMallYMlNYMXFyQjBjUEp5T3FBZWRZLXVrOS1UTFdEWEpOc3ZiY1VXbWN0cXF0SzdoOUxaN3dINF9NSjQxY2txZk4wSGU1RlpnQWJTVC1XQm9jX3U4YmE1a09kZ0M2U0tEMENfbDhJT0NUSzRHRmhaRHM0cG51MHVTNFh5YlJJT3NHV0tnVC0xRUZkcVdwcnBQZWxITmpOQXRYSWE2R1UtdEhmUlVKa2c4VWoxcVFMRHBqNmlUbWtTTjZCVFpwUUhBbFNlam1mMS1R0gH8AUFVX3lxTE5HNG5JQ05qZURmT1pCMGROajlpbmdYLV84ZXlfbUEzMmVSaWF1NW1iTFJpOTItY1RRTlFMODFDbHJSRVM2eXI4RFhBcFFtWGhxU2xIeS1wSjJrcllXSzRMZ2NJc2JiR04wOThSaWlEclRzM0lHTHpBTzJrZm9Ia2g1bFkxVUMzeml3ZnBpdGRZLW00QjA4cFVCZW9DUWhwLUJhQlMyTTdiUmdNOTdfR3lqb0dSaEpJYmhrVlk4Z09TN2c5WGl3amljYmE4eGpsV2YzdkZPN2EtUEUwdjlGOTZqdlVEamJyd29kcTdlUEdCQmotekgxdFhibXNfZA?oc=5",
+      "fonte": "Blog do Juares",
+      "publicado_em": "2026-11-03T14:20:46+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Grupo Tchê Travessias intensifica treinamentos no Lago Guaíba e fortalece a natação em águas abertas em Porto Alegre Blog do Juares"
     },
     {
       "id": "6cf839ad5ec1",
@@ -277,7 +307,7 @@
       "titulo": "Lula vence a eleição presidencial em Guaíba (RS)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG5SdFVYSVBuTzZweDVOeG9nSkZNWVkyUmlFQzBXdmNVd3hCQ0Q5RW9XcGMxcUFtTHJkVXFad0pUVVBKNUhNdFZDbjFBUlhpeE1PSnFzSl9udzBJZTlYd1VuYmtRZFFOX3BqZG9SRjRHQ21FM1BfZFV0aFNHcklWZ0lOdlFQc1IyQnoyeEZreVNiMkJfa0hEdWp6NGw?oc=5",
       "fonte": "Congresso em Foco",
-      "publicado_em": "2026-10-27T21:39:23+00:00",
+      "publicado_em": "2026-10-27T07:00:00+00:00",
       "categoria": null,
       "feed": "google",
       "resumo": "Lula vence a eleição presidencial em Guaíba (RS) Congresso em Foco"
@@ -303,9 +333,9 @@
       "resumo": "E.M.E.F. Itororó, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
-      "id": "de964277f317",
+      "id": "63788c8a453f",
       "titulo": "E.M.E.F. São Paulo, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONW03MjlveDdEWlFBa3d1YTFERy1hM21SVjE1aGhVWk9manpiQ1hBZTZxRkpRVVJQcDRjZjlNdUdqeUY5aGVoanRzb3lHaERIcXd4bFRuYUVIMlhnNFctdEhVajF3MjJiZ1pyVV9pUW1tNTJtSUwzYVFaMVU5dDcxd1VwTjNkcnJpV05QWXFNWXhBQkE2a2x2MWRXMnhuZXA0SmFWVUNhWlctSy1lWGs2bHI3aTNFMDVQRGdpTGppeUxEekQxRHVzaHRUWEFjM0tLOFl1S1BLa0cxdFRDV0k1QzdKdmZLa25pLU1ySUFjQkNtT0p3OVBmN0VrRWdXbm1zOE5wNtIBhAJBVV95cUxONW03MjlveDdEWlFBa3d1YTFERy1hM21SVjE1aGhVWk9manpiQ1hBZTZxRkpRVVJQcDRjZjlNdUdqeUY5aGVoanRzb3lHaERIcXd4bFRuYUVIMlhnNFctdEhVajF3MjJiZ1pyVV9pUW1tNTJtSUwzYVFaMVU5dDcxd1VwTjNkcnJpV05QWXFNWXhBQkE2a2x2MWRXMnhuZXA0SmFWVUNhWlctSy1lWGs2bHI3aTNFMDVQRGdpTGppeUxEekQxRHVzaHRUWEFjM0tLOFl1S1BLa0cxdFRDV0k1QzdKdmZLa25pLU1ySUFjQkNtT0p3OVBmN0VrRWdXbm1zOE5wNg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMEJzT1VjOE9RS2dPc1lOMVdGV3R1YnhLLXZZeC1DeXRZak9CdVBYQ2xHVW10cEtENjRFRjhtbE55N2Y5TkxnMnB5cTlTVDEtbEUwblZjLTFCbm9mWmZvTno2RE9BNzN2MHNrTHRRZnNwbEt4R2g2eHdNazA1SklyalByWFFIN0hwSDVUR3dsQjIwNnlfN2JadXFFSElTTmhjTEF5ckotS0Y3b3V5NnRHNGJjQnZrNElEMldPTGVLNVZBeWdqX1h1X3lwSEk4ZXdPczctbExldEJYZTM5Tzh0a3hCMlN6VUtlaTVLSkhLMU5iR0htX1HSAYQCQVVfeXFMTjVtNzI5b3g3RFpRQWt3dWExREctYTNtUlYxNWhoVVpPZmp6YkNYQWU2cUZKUVVSUHA0Y2Y5TXVHanlGOWhlaGp0c295R2hESHF3eGxUbmFFSDJYZzRXLXRIVWoxdzIyYmdaclVfaVFtbTUybUlMM2FRWjFVOXQ3MXdVcE4zZHJyaVdOUFlxTVl4QUJBNmtsdjFkVzJ4bmVwNEphVlVDYVpXLUstZVhrNmxyN2kzRTA1UERnaUxqaXlMRHpEMUR1c2h0VFhBYzNLSzhZdUtQS2tHMXRUQ1dJNUM3SnZmS2tuaS1NcklBY0JDbU9KdzlQZjdFa0VnV25tczhOcDY?oc=5",
       "fonte": "G1",
       "publicado_em": "2026-10-26T07:00:00+00:00",
       "categoria": null,
@@ -323,6 +353,16 @@
       "resumo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no 2º turno G1"
     },
     {
+      "id": "3aa133136a9e",
+      "titulo": "Polícia Civil combate crimes contra a administração pública em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQTNrc0JyQXduV21rX3NGYkhLb3VYakdpUWdIeGg5QVh2LVJzdGVYc1FubjUxZmdXdG15WlJEc1RDSFFVRmNhY1FqZFRGNnI1dVU3TXJVeVpuZDFDRExoTkZxRFhzMnpMN2gwanp6eW02NHJZbG9wbWZ1YVZ3cW9nUEJ0RnYwWjZ3SjRMVmg1R19TRkpTSjlSUC13?oc=5",
+      "fonte": "Polícia Civil RS",
+      "publicado_em": "2026-10-22T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Polícia Civil combate crimes contra a administração pública em Guaíba Polícia Civil RS"
+    },
+    {
       "id": "adf34b4b7c27",
       "titulo": "Quanto custa a gasolina em Guaíba (RS) nesta semana? Veja preços",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWmJwSTlLWFdEeWdRSGx6dGRIczdhY2UzVU9EU3lzZUtkd210dDA1dnZHdFVQcVNRMEd1bFpMRzZ4ZWxKYjA2VC1rZTBKajM0dk9raHRFcmZoVGRYWi1SdlBUZVlRdGQ2UUMwUXNPRkdXd1lsdC1kcHRYZ1hQQ0ZfTkFadTZ4Q0VtWTRSQzMyTlBqU25vNWhZeE9uUHIyRzg2TmVpdU9ySzFpd1lCcF9IcVprWnpEclVqcGMwWDUzcw?oc=5",
@@ -331,46 +371,6 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Quanto custa a gasolina em Guaíba (RS) nesta semana? Veja preços UOL Economia"
-    },
-    {
-      "id": "e523c983307d",
-      "titulo": "Festival Primavera Cultural promove atividades gratuitas de cordel e circo em Guaíba (RS)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVDdOaTFUa0pjeUl6cDRoWjduV2VwemJZajdyYWdBcDZPZExmaWx2RHlHSnZoTkd2clFDM3ZYX1RLNE1VcXBsWU1vUS1lMkphNFlSTy1sR1NvSkhZbk9GQjhESlg2NkhLRHZ6Nlc3LU1YcHVIN2dOMndpQWpTLXljcEU3bzNsdHNndmt0d3J5YmYwN0hLaTJIdHZiWWxCRjlHcVp0ZkY3bnBRMnM5bDVSSzVzM0RmSjNYT0JGT3k0bEZFOVRGWThSLXNtZw?oc=5",
-      "fonte": "Brasil de Fato",
-      "publicado_em": "2026-10-20T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Festival Primavera Cultural promove atividades gratuitas de cordel e circo em Guaíba (RS) Brasil de Fato"
-    },
-    {
-      "id": "cbe7bbbd4026",
-      "titulo": "https://materiais.circulosaude.com.br/guaiba",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNlg0OHhud29JTTZtQWpteEx3RmlFcFU3MkJsWTA4YzRBSXFTcUZTOUdxZ0tOUE5PWkR5WUowZFNuQjRxLU1vUzBDOEN2Q2dDdDFxTTZlVWZLaWFtRDJKeGM2YjJDeGszX3dMOTd5VmdsSzl0SmZ4dVg0dmN0cUJvQjluZzhJLVJBZTdra2F3?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-06T19:29:09+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "https://materiais.circulosaude.com.br/guaiba Repórter Guaibense"
-    },
-    {
-      "id": "98cebbccebf6",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no 1º turno",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVmJzWDhYVlFaTEE5QUItQmtFNFhLUWllczJ3dVAzMjNEcjkxYWlYRzRfSU5adlItSHRGT0VoNEk3SmdVQ0plYk5TSEZiNXBMR0VXX2ZWd3BzdWJRVnJhb1Zzcm1udUNYbHF2b3hHc2djYlNvNk85ejJ0NElYOGdkU09ER2x0dm5rQzRuNTNSb3V1MEhHWlhuMUo3QzB2SEtFNDBYWDB5ZmZBWmZRRVgxdXcwdmI2RHZ1MnVpcWQ3RExYT2dOT1h4SWpJeHFyblV3emhmZ1JnSFdTc2xxNGY1bW1WV3RtOGvSAfYBQVVfeXFMTmNiMzJ0ZGJxRlFYb3hTZFVtRXVYcnN4b1lHZ1ZOWl9wdDhMaWp5QVV4LXMyZ1ZaVjdmLVVBNVZ0blMtV0RVQmVjY25VSjZhaHdwNDRFVTFhZmtTdnp6Wi1zVEYzaXpjRUNzakdIbXBhTG1BZUs4c2lxNUNweXNvRlFTMzQweWs1a29FQk9fNXl2eVhIM2tnZTVmWGQtWDJJSEVQWTF2VXFHTkhJOG00R2ZlZFFVNUg2MGFFZWlSa05ubFZyYzh4RkwxUTdXYVltN2JIOUtxN2RQQXdCZjZfLTlWQmN2NFVRMDBJZDEzdzJ6RG51VkhB?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-06T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no 1º turno G1"
-    },
-    {
-      "id": "3c2b08ad6134",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no seu local de votação; consulte por zona eleitoral",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOd1dZV2tLdm9YUlIxUVBiX092TXNaQ2VSYzgzbkNFRG1HcWVHV3JKbU1PcGF2akRvTWR2Tm8wT21RdDdoWGRoQjVwUjZMN3lfVWdzRnc2SFNNbldYYlljN2ZqMkdDVHJtb0hnWjNhTGE3RUFTU0pLMjBHdjVzdmMwRWZkRUw2NE1jRnVPOHNhN016cXdNMml3WWVlQU5fY1o4RG04TlRjUnRFSWo5WTFnX1dXUk9sd3phdDZ3ZExyT2VYTjZhNm5yNEZmdUhkR0VpVzJXb08xT1VqVFhVeVRSN18ySlRneW9GcDVxRHYxVzRLM29sMnZtbm1wc0JEOG9LcEZ5ZXhYYkg0SU5PWXVDakhfQU1FeUxFNDlHbdIBqwJBVV95cUxQeVFEVHQ1RnhOVWVGUFRsNWptZG9UWGljYXdYdGlZVHVjSGpxS3NmeFJQUzlBaUg1ck81aDRNVGtnVXhNYXpmcjFCVGxWdVVFUnBkY1BrMmhDNlBQM1ZWRXhzeXFWX0RMR2MyUlN1QTBOMjcwQ1FJX2tqSmtDTkE0YllvMG5KVXQtS1Z6a3dCbnRiYUZYTXFuaUpoVzkwWXJDN3dOdWVVNEhrZDJXejZtdTVUUlktOXlJMzUxVVctb2s5UEdhQ2VvTHN3Z1BLOG1UYUpiR05GcWxrNWZ3N2VaeklXa0dma3dDSllBelJwRDQwamNxOUtleldlMGZIWE9laUNEM0doLXZCODFDYjh1QVM0aDMwY1p0al8tUnRHeFVTU0gydTQzbnFaWQ?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-06T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no seu local de votação; consulte por zona eleitoral G1"
     }
   ],
   "noticias_home": [
@@ -383,16 +383,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Lula foi o mais votado em 18 locais de votação, enquanto Flávio Bolsonaro venceu em 16"
-    },
-    {
-      "id": "e38f66be6482",
-      "titulo": "Polícia Civil combate crimes contra a administração pública em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/policia-civil-combate-crimes-contra-a-administracao-publica-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Aproximadamente 25 policiais civis cumpriram sete mandados de busca e apreensão, nesta quinta-feira (22)"
     },
     {
       "id": "0e712728c4fe",
@@ -452,6 +442,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
+    },
+    {
+      "id": "58d23e1952ab",
+      "titulo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service",
+      "url": "https://www.reporterguaibense.com.br/noticia/vereadores-de-guaiba-protocolam-pedido-de-abertura-de-cpi-para-investigar-contratos-com-a-set-service",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Todos os 17 vereadores da cidade assinaram o documento nesta segunda-feira"
     }
   ]
 }
