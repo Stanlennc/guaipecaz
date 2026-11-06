@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-05T21:00:11.261098+00:00",
+  "gerado_em": "2026-11-06T01:59:17.057695+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -123,6 +123,16 @@
       "feed": "reporter_direto"
     },
     {
+      "id": "fff3797ad870",
+      "titulo": "Ministério Público do RS acompanha avanços da modernização do Plano Diretor de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ministerio-publico-do-rs-acompanha-avancos-da-modernizacao-do-plano-diretor-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Órgão recebeu comitiva da prefeitura de Guaíba para a apresentação na sexta-feira"
+    },
+    {
       "id": "11822b2ad708",
       "titulo": "Ex-embaixatriz da terceira idade do Carnaval pede ajuda após incêndio atingir sua casa em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/ex-embaixatriz-da-terceira-idade-do-carnaval-pede-ajuda-apos-incendio-atingir-sua-casa-em-guaiba",
@@ -143,14 +153,14 @@
       "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
     },
     {
-      "id": "fff3797ad870",
-      "titulo": "Ministério Público do RS acompanha avanços da modernização do Plano Diretor de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ministerio-publico-do-rs-acompanha-avancos-da-modernizacao-do-plano-diretor-de-guaiba",
+      "id": "9d9722e31cd3",
+      "titulo": "Jovem de Guaíba precisa de cirurgia cerebral e família organiza vaquinha para custear procedimento",
+      "url": "https://www.reporterguaibense.com.br/noticia/jovem-de-guaiba-precisa-de-cirurgia-cerebral-e-familia-organiza-vaquinha-para-custear-procedimento",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Órgão recebeu comitiva da prefeitura de Guaíba para a apresentação na sexta-feira"
+      "resumo": "Até esta quinta-feira (5), foram arrecadados R$ 15 mil, sendo que a meta é chegar a R$ 40 mil"
     },
     {
       "id": "0e4181da1d9d",
@@ -173,34 +183,14 @@
       "resumo": "A programação dos próximos dias contará com lançamentos de livros, sessões de autógrafos e oficina de escrita criativa"
     },
     {
-      "id": "6b27a37db175",
-      "titulo": "Guaíba sedia capacitação sobre o ECA Digital e a Lei Henry Borel",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-sedia-capacitacao-sobre-o-eca-digital-e-a-lei-henry-borel",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O encontro teve como objetivo sensibilizar os serviços da rede e qualificar servidores municipais para o fortalecimento da proteção integral de crianças e adolescentes"
-    },
-    {
-      "id": "2c9642f30652",
-      "titulo": "» Senador da República, General Hamilton Mourão concede entrevista ao programa Esfera Pública, da Rádio Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPandKWm9sZEVlOXozQS05a0dXSmNkbWpnUlBxY3ZVT0VjbUxBYU1EdEl6blUtRlMzbkJfaXFJcDhuX18wcFlabzkteFdDMk93TFRvNDRoNTd1eW5fQ29oQUc0UUhEX1lwNVB5UGluaXdxcFNuU016RUF6RHc0dUZHSS1tTkx0TUljZnVXbTliVVc2bFdxOGoxSjczYUFzamp4ajFUQlNYRXNXU3N3LXhlb1RWZ1VrdDFPdXBSSFdINGN1SUp3V19JR2k0c3h5RXBnekZuRFUwMjVHajg?oc=5",
-      "fonte": "Jornal A Plateia",
-      "publicado_em": "2026-11-04T18:51:00+00:00",
+      "id": "5a4bcdf73b61",
+      "titulo": "Guaíba promove 2ª Motociata do Novembro Azul",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TSkdVSUFrQk13SHNmZ1JaVEpSNDRCTkRCVmpnUWRWYldValA0d1doZjZmV0FLazVkZGtVZ1BucUtXVGM2dmduSHl0el82WnVBMWljbHBrMERIUWJHZnNkckpFQ3IydnJfUlhYWUNndEpCdjA4STQ5bU9TRE4?oc=5",
+      "fonte": "TV Pampa",
+      "publicado_em": "2026-11-06T01:42:57+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "» Senador da República, General Hamilton Mourão concede entrevista ao programa Esfera Pública, da Rádio Guaíba Jornal A Plateia"
-    },
-    {
-      "id": "b8e3338f99aa",
-      "titulo": "Quarta-feira de muito futebol na tela da Record Guaíba! ⚽️📺#shorts",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWNNRUNKT0lpNGNoa2xHdEFqZHVLRG9UT1pqdW81clNBTEFKamNITFdtN3c1cUdGVEJ6WFJ6bmhyTFFIdzRmN0xTbGlnWUM0bG1xYTdQSUpVZThIMlZwZ1c3NnhmUWpyQkFUbUs2MXlDNTEtbzgwTGRIbWNObEFZeU1xMjk1ekRGSE9zbV9qWG9welV6Qkg4WE15cWdYRGpBYlpIeVIwWS14RFQ2Z3gyQ05lOA?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-11-04T17:24:41+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Quarta-feira de muito futebol na tela da Record Guaíba! ⚽️📺#shorts R7"
+      "resumo": "Guaíba promove 2ª Motociata do Novembro Azul TV Pampa"
     },
     {
       "id": "03ca1dc05f7f",
@@ -213,14 +203,14 @@
       "resumo": "Atuação do MPRS contribui para inclusão de medidas de adaptação climática na revisão do Plano Diretor de Guaíba Ministério Público - RS"
     },
     {
-      "id": "b59845988f8f",
+      "id": "b085c6723a60",
       "titulo": "Vídeo mostra cortina de fumaça \"invadindo\" orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTzN2RXM1SkpCTS03QkEwdnhqYU4tdHBSaWlSVkROV29LN3BNemljdXpLSUNsM1JRRHRDNUdSdnJZai1CTUw0eFdPS25DWWxTWnliQVFkRUFXRjZPSzlGdm9LRDBCWldVN2pxTVFjVGxEYmhzYWRST092bTVHMjF0NUFvN1lxeUdpaXZrR1djRGFkaDhtWUlIV0FXcU1WQ1NaZWlBRnRyVC1xLTdXemR1aHp5UWJLWjNRcVRFWHcxS0NGTTJNMnFFX0czSEY1N1FGRzJ3T3QyTXdWVjZ6VVd3U09R?oc=5",
-      "fonte": "Diário Gaúcho",
-      "publicado_em": "2026-11-04T12:42:18+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa283dkE5cFJXQlpueHplbXc1enQ3eHU4ZVlVYk4xNEp5a2EwdVA2NE1wLVdnMGRlUUpPNklFRHZIdU1BUURuVzlWSmd6bWg1VmJrWXBlSlVJLWdKX2VuaF9jUGFtSDZVNFdVaUtDYnNsMEpqbDF3VUw4UFRibXFFdWhZWDRIbGo0Z3c0MUNaQnVrcW82WC1kTzlJaUxMaS1lcjdxYlpZMExyZG9zZ2RBZzBaWWpTOG1KRnZvZElKeFBfMEs1U2xUWVY2akRLeE5KTEhqR1ZwZk9RZG5Ua1lDVw?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-11-03T23:47:37+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Vídeo mostra cortina de fumaça \"invadindo\" orla do Guaíba Diário Gaúcho"
+      "feed": "vizinhos",
+      "resumo": "Vídeo mostra cortina de fumaça \"invadindo\" orla do Guaíba GZH"
     },
     {
       "id": "fe8727cf068d",
@@ -293,16 +283,6 @@
       "resumo": "1ª Corrida da Guarda Civil Metropolitana reúne 600 participantes na Orla do Guaíba Prefeitura de Porto Alegre"
     },
     {
-      "id": "f4156366f640",
-      "titulo": "Eleições 2026: Ficha de Domingues da Ponte do Guaíba (PODE)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLVlkZV9CQkFXNlZ5cUZNY1RqZVYxQ3ZieHVIb0w0R1lELVVXWHNjbjRDbi13anBraU9wTUJsNVh0eXR5ejh3Sm1KcldJcHBMOVJjdkVQNGRTWW1JUURiOHhjWkdMenVNcmFMWmhWUmV4bWhCeVg4RXlvaHY4VXVZeGtVVklBTGY4LV9YWUlFdWppaWdIZ3RvS3JVUVBMcW9tQnlQSEpERXR5ek50OHlpTFk0Mlk0bXhjMGl2V3NERHlvRW9LZV82Yw?oc=5",
-      "fonte": "Folha de S.Paulo",
-      "publicado_em": "2026-10-29T21:02:10+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Eleições 2026: Ficha de Domingues da Ponte do Guaíba (PODE) Folha de S.Paulo"
-    },
-    {
       "id": "4e81dfe202b1",
       "titulo": "Lula vence a eleição presidencial em Guaíba (RS)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG5SdFVYSVBuTzZweDVOeG9nSkZNWVkyUmlFQzBXdmNVd3hCQ0Q5RW9XcGMxcUFtTHJkVXFad0pUVVBKNUhNdFZDbjFBUlhpeE1PSnFzSl9udzBJZTlYd1VuYmtRZFFOX3BqZG9SRjRHQ21FM1BfZFV0aFNHcklWZ0lOdlFQc1IyQnoyeEZreVNiMkJfa0hEdWp6NGw?oc=5",
@@ -323,6 +303,16 @@
       "resumo": "GUAIBA Futebol Clube, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
+      "id": "63788c8a453f",
+      "titulo": "E.M.E.F. São Paulo, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMEJzT1VjOE9RS2dPc1lOMVdGV3R1YnhLLXZZeC1DeXRZak9CdVBYQ2xHVW10cEtENjRFRjhtbE55N2Y5TkxnMnB5cTlTVDEtbEUwblZjLTFCbm9mWmZvTno2RE9BNzN2MHNrTHRRZnNwbEt4R2g2eHdNazA1SklyalByWFFIN0hwSDVUR3dsQjIwNnlfN2JadXFFSElTTmhjTEF5ckotS0Y3b3V5NnRHNGJjQnZrNElEMldPTGVLNVZBeWdqX1h1X3lwSEk4ZXdPczctbExldEJYZTM5Tzh0a3hCMlN6VUtlaTVLSkhLMU5iR0htX1HSAYQCQVVfeXFMTjVtNzI5b3g3RFpRQWt3dWExREctYTNtUlYxNWhoVVpPZmp6YkNYQWU2cUZKUVVSUHA0Y2Y5TXVHanlGOWhlaGp0c295R2hESHF3eGxUbmFFSDJYZzRXLXRIVWoxdzIyYmdaclVfaVFtbTUybUlMM2FRWjFVOXQ3MXdVcE4zZHJyaVdOUFlxTVl4QUJBNmtsdjFkVzJ4bmVwNEphVlVDYVpXLUstZVhrNmxyN2kzRTA1UERnaUxqaXlMRHpEMUR1c2h0VFhBYzNLSzhZdUtQS2tHMXRUQ1dJNUM3SnZmS2tuaS1NcklBY0JDbU9KdzlQZjdFa0VnV25tczhOcDY?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "E.M.E.F. São Paulo, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+    },
+    {
       "id": "53259009f219",
       "titulo": "E.M.E.F. Itororó, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcmlETENzM2VxQlpQcUU5Q2lNSE5CWnBxbUoweVU0TDJQcXVDQnZDSkZBR2RySEM4blhZc1pmYTRZX20yN2d0MFoxWGVBUEthX3lzMXQxa0c4OER0YVg2WUxiNDFHQXozVjlKeVlXMnBiWm01WV9Edlh3QzU5cTc2Y1JYWHBMb1hmTFFOUElnU2xsdjA1enpwVkdCWE1TWmx5eU1taURqSzRENjEwQ1dhc25EN1NiUzRJSHYwT0x4RF9UYnlnb3ctZk1qM2FuX3J5dTJ0T1ZvMVdDSTByb29PT3BIblV6QmJxM25LYmlEeXZKUmfSAYICQVVfeXFMTTVZem80RmF5cEZfSjlibVp5bnhRdFBuVEdsdnM1cUF4ZUZHb3pNN0p6WmR3RDdjMzZQeDlra2hNNmN1cHVFVXl1TTVZTE4xd28wNGpwaUkxNGRHaVVTejdnYUkya0EwM3pfQUQzNDlzU3AtZTd5UEVMdDkwWXcyOVNyZHdLZGNrMVdOTngyZE1TY0VzNFRZMnVLeXNtdWs4OHRWRWJrWlM4em9Jd2hFZlNQN2lyWnhYLTFiakUxT2VpcjJsdE1sWEllTUs1UHpPOWNCM2s4NVdLaTRQN2pJMFpYZm1SRUZtamF5RGxLVnNrNmVIelY3c2FJMUJRRHdPcnFR?oc=5",
@@ -331,16 +321,6 @@
       "categoria": null,
       "feed": "google",
       "resumo": "E.M.E.F. Itororó, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "59821544750e",
-      "titulo": "E.M.E.F. Maximo Laviaguerre, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNU0VsbnRBS2dfVnlJdWVFVHFjaldZQXpfNG9HNzE1dFRyVWI1b0xNSDdxS1FGakFmSi1pd0JNc0xSc2U3c3Vfd0M5dEV6SGpFOWpLWEtmaWNhT2cxcmtwRWFuSFJ6N2hWY1JMWGQ2Z1VUMU5XZ0x6MWJMUmRUZmtRUEl4VEp5UmNnWXRTNmVjWlVmNENIMTlldG1TNzl2Y1Fqd3N0NExlZF84SzZHelBjRUxYRkRvTWcxQV9URkJMcWs4aUZMSzIybmZQUEdZdXVRb3NzQm1OUHlCN2JXeHlIN0ozUmhkZ19BMklpMXpBdVp5U3hsZ0JlZVpKTmQ1YTJaMlHSAZACQVVfeXFMT3E4UkIyX1VMWmFPZmt1X1R5aV9yVkVjdGhaemJXeWR1MTV1QUJpckFueWluMk9QVkdxcDllb1VVVVJPS0VwYlhoRkNJLUZfM0tINTNlTXlqTkh0YXhsT1NPTlRkYXVxbzBsaUhzU1Z0YkZmN3hiQXpsbVFrOG5uXzJ3Mk5OTTVDdy0wYWN5TlcxQkVYVFVoelIxeWIzTXVsUXFjRm5ZUVRmRnlKaExjWHYwM044LTNoRHNrTXdKaGRKSlJLX184WEhwMWhwZ0FfMVJrXzZJeFF2LThkQmVZYnVJdGJDS2lhMkF1VWtCaFpub3JFRVRpU25jN3kwbDFDZDF5SnhGNU1fYWw0RE9PR2c?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "E.M.E.F. Maximo Laviaguerre, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
       "id": "81b26f00b547",
@@ -371,6 +351,26 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Festival Primavera Cultural promove atividades gratuitas de cordel e circo em Guaíba (RS) Brasil de Fato"
+    },
+    {
+      "id": "cbe7bbbd4026",
+      "titulo": "https://materiais.circulosaude.com.br/guaiba",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNlg0OHhud29JTTZtQWpteEx3RmlFcFU3MkJsWTA4YzRBSXFTcUZTOUdxZ0tOUE5PWkR5WUowZFNuQjRxLU1vUzBDOEN2Q2dDdDFxTTZlVWZLaWFtRDJKeGM2YjJDeGszX3dMOTd5VmdsSzl0SmZ4dVg0dmN0cUJvQjluZzhJLVJBZTdra2F3?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-06T19:29:09+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "https://materiais.circulosaude.com.br/guaiba Repórter Guaibense"
+    },
+    {
+      "id": "98cebbccebf6",
+      "titulo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no 1º turno",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVmJzWDhYVlFaTEE5QUItQmtFNFhLUWllczJ3dVAzMjNEcjkxYWlYRzRfSU5adlItSHRGT0VoNEk3SmdVQ0plYk5TSEZiNXBMR0VXX2ZWd3BzdWJRVnJhb1Zzcm1udUNYbHF2b3hHc2djYlNvNk85ejJ0NElYOGdkU09ER2x0dm5rQzRuNTNSb3V1MEhHWlhuMUo3QzB2SEtFNDBYWDB5ZmZBWmZRRVgxdXcwdmI2RHZ1MnVpcWQ3RExYT2dOT1h4SWpJeHFyblV3emhmZ1JnSFdTc2xxNGY1bW1WV3RtOGvSAfYBQVVfeXFMTmNiMzJ0ZGJxRlFYb3hTZFVtRXVYcnN4b1lHZ1ZOWl9wdDhMaWp5QVV4LXMyZ1ZaVjdmLVVBNVZ0blMtV0RVQmVjY25VSjZhaHdwNDRFVTFhZmtTdnp6Wi1zVEYzaXpjRUNzakdIbXBhTG1BZUs4c2lxNUNweXNvRlFTMzQweWs1a29FQk9fNXl2eVhIM2tnZTVmWGQtWDJJSEVQWTF2VXFHTkhJOG00R2ZlZFFVNUg2MGFFZWlSa05ubFZyYzh4RkwxUTdXYVltN2JIOUtxN2RQQXdCZjZfLTlWQmN2NFVRMDBJZDEzdzJ6RG51VkhB?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-06T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no 1º turno G1"
     }
   ],
   "noticias_home": [
@@ -424,6 +424,16 @@
       "feed": "reporter_direto"
     },
     {
+      "id": "fff3797ad870",
+      "titulo": "Ministério Público do RS acompanha avanços da modernização do Plano Diretor de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ministerio-publico-do-rs-acompanha-avancos-da-modernizacao-do-plano-diretor-de-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Órgão recebeu comitiva da prefeitura de Guaíba para a apresentação na sexta-feira"
+    },
+    {
       "id": "11822b2ad708",
       "titulo": "Ex-embaixatriz da terceira idade do Carnaval pede ajuda após incêndio atingir sua casa em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/ex-embaixatriz-da-terceira-idade-do-carnaval-pede-ajuda-apos-incendio-atingir-sua-casa-em-guaiba",
@@ -442,16 +452,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
-    },
-    {
-      "id": "fff3797ad870",
-      "titulo": "Ministério Público do RS acompanha avanços da modernização do Plano Diretor de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ministerio-publico-do-rs-acompanha-avancos-da-modernizacao-do-plano-diretor-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Órgão recebeu comitiva da prefeitura de Guaíba para a apresentação na sexta-feira"
     }
   ]
 }
