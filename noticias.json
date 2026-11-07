@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-06T22:43:35.050759+00:00",
+  "gerado_em": "2026-11-07T04:43:29.468783+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -143,16 +143,6 @@
       "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
     },
     {
-      "id": "58d23e1952ab",
-      "titulo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service",
-      "url": "https://www.reporterguaibense.com.br/noticia/vereadores-de-guaiba-protocolam-pedido-de-abertura-de-cpi-para-investigar-contratos-com-a-set-service",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Todos os 17 vereadores da cidade assinaram o documento nesta segunda-feira"
-    },
-    {
       "id": "9d9722e31cd3",
       "titulo": "Jovem de Guaíba precisa de cirurgia cerebral e família organiza vaquinha para custear procedimento",
       "url": "https://www.reporterguaibense.com.br/noticia/jovem-de-guaiba-precisa-de-cirurgia-cerebral-e-familia-organiza-vaquinha-para-custear-procedimento",
@@ -161,6 +151,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Até esta quinta-feira (5), foram arrecadados R$ 15 mil, sendo que a meta é chegar a R$ 40 mil"
+    },
+    {
+      "id": "58d23e1952ab",
+      "titulo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service",
+      "url": "https://www.reporterguaibense.com.br/noticia/vereadores-de-guaiba-protocolam-pedido-de-abertura-de-cpi-para-investigar-contratos-com-a-set-service",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Todos os 17 vereadores da cidade assinaram o documento nesta segunda-feira"
     },
     {
       "id": "0e4181da1d9d",
@@ -243,6 +243,16 @@
       "resumo": "Guaíba promove 2ª Motociata do Novembro Azul Jornal O Sul"
     },
     {
+      "id": "03ca1dc05f7f",
+      "titulo": "Atuação do MPRS contribui para inclusão de medidas de adaptação climática na revisão do Plano Diretor de Guaíba - Ministério Público",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hbUJYd2ZDc3p5NG9Vc3ZUZnBqRWtORWljUmFUeDhHMzk3b1dOUV8zcUhiRHdCWmtNZmN6TE5SOTJSTmNIZ3YtRmNwdkdGRDg?oc=5",
+      "fonte": "Ministério Público - RS",
+      "publicado_em": "2026-11-04T16:20:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Atuação do MPRS contribui para inclusão de medidas de adaptação climática na revisão do Plano Diretor de Guaíba Ministério Público - RS"
+    },
+    {
       "id": "b085c6723a60",
       "titulo": "Vídeo mostra cortina de fumaça \"invadindo\" orla do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa283dkE5cFJXQlpueHplbXc1enQ3eHU4ZVlVYk4xNEp5a2EwdVA2NE1wLVdnMGRlUUpPNklFRHZIdU1BUURuVzlWSmd6bWg1VmJrWXBlSlVJLWdKX2VuaF9jUGFtSDZVNFdVaUtDYnNsMEpqbDF3VUw4UFRibXFFdWhZWDRIbGo0Z3c0MUNaQnVrcW82WC1kTzlJaUxMaS1lcjdxYlpZMExyZG9zZ2RBZzBaWWpTOG1KRnZvZElKeFBfMEs1U2xUWVY2akRLeE5KTEhqR1ZwZk9RZG5Ua1lDVw?oc=5",
@@ -271,16 +281,6 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "E se o Guaíba não existisse? Teríamos água nas nossas torneiras? Jornal O Sul"
-    },
-    {
-      "id": "afc72179685f",
-      "titulo": "Grupo Tchê Travessias intensifica treinamentos no Lago Guaíba e fortalece a natação em águas abertas em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPa2NZcE9Hc1FqN1I5LWhBME0zZ2N6eFhnRWxkUEEzOWpFNW1zTGVMallYMlNYMXFyQjBjUEp5T3FBZWRZLXVrOS1UTFdEWEpOc3ZiY1VXbWN0cXF0SzdoOUxaN3dINF9NSjQxY2txZk4wSGU1RlpnQWJTVC1XQm9jX3U4YmE1a09kZ0M2U0tEMENfbDhJT0NUSzRHRmhaRHM0cG51MHVTNFh5YlJJT3NHV0tnVC0xRUZkcVdwcnBQZWxITmpOQXRYSWE2R1UtdEhmUlVKa2c4VWoxcVFMRHBqNmlUbWtTTjZCVFpwUUhBbFNlam1mMS1R0gH8AUFVX3lxTE5HNG5JQ05qZURmT1pCMGROajlpbmdYLV84ZXlfbUEzMmVSaWF1NW1iTFJpOTItY1RRTlFMODFDbHJSRVM2eXI4RFhBcFFtWGhxU2xIeS1wSjJrcllXSzRMZ2NJc2JiR04wOThSaWlEclRzM0lHTHpBTzJrZm9Ia2g1bFkxVUMzeml3ZnBpdGRZLW00QjA4cFVCZW9DUWhwLUJhQlMyTTdiUmdNOTdfR3lqb0dSaEpJYmhrVlk4Z09TN2c5WGl3amljYmE4eGpsV2YzdkZPN2EtUEUwdjlGOTZqdlVEamJyd29kcTdlUEdCQmotekgxdFhibXNfZA?oc=5",
-      "fonte": "Blog do Juares",
-      "publicado_em": "2026-11-03T14:20:46+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Grupo Tchê Travessias intensifica treinamentos no Lago Guaíba e fortalece a natação em águas abertas em Porto Alegre Blog do Juares"
     },
     {
       "id": "6cf839ad5ec1",
@@ -333,14 +333,14 @@
       "resumo": "Lula vence a eleição presidencial em Guaíba (RS) Congresso em Foco"
     },
     {
-      "id": "4e3c538c989e",
-      "titulo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRHRmYkRxTlBiZlJFYnlmWXF5ckEzMk0xTTU5U0NlS1d2N0xhT2JrdEFreFZQM0FpMEFHaGpXU2txLXNQTlNqRXBGUEI3dHY1dW1laUREdFBwMjI3Y2FXanlaSGRGcm02aGxCeUxHNXc2ckpEX3FOc21FaE9WUGVBenJpdHZaMEUtWFJjUUljeXQ3VE5tMDVQN0FfWFdTZVFxOFg5UGRjaUxjU09WMjUtWlJzZEhLYndMRlBjX0lEOEZVbU81dHR2Y3A3Q2UybU5PNEdmN1VzNXdYUExrTTNOREZzU0tNZ9IB9AFBVV95cUxOZ3V3b0dMV0NISlp5N0wySUNRYXBhQVNjRWtqeXZrSmRsc1E2dG9yT1V3cEY5a0tuUFNQMnRNWnJyWWV4c2g3c1E2dW9rTF9VdFAzTElrVl9zbFBzblBkbHBBZ3k0MU8tX1JfWG01aVZTaGl4QlNtaEpEeml4SjIycmJqMkhqR0VLcVpPOGVIcEhXZnpvN3pxNmVJSC13QXpGUWxaaWtWbUFmNDJqcGlHdGFDblRGWktPeXBrVDVFamhlUFdNSllQeVUwSDAxVENTb3g3QXRJVTU2OGhDTDZJMUF4TDRZVHZUQnhvRjExdmJxaWlV?oc=5",
+      "id": "cc32b7d0ef88",
+      "titulo": "Guaíba (RS): resultado do local de votação por zonas eleitorais no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONmE0SEhIUEJHakJZbHRDYlpIN29tdHFsZDNnVVFkakNxdUlNU0k2bGxick5BeU05NTFKYlg4UklxbUJCWVc5UGRGeEVUelFSTnlGM0p0ZWZJRXowS3JXZFMzYXZBNmNqdm1ZVzN2QUVCQ01VWXhISEFUTU8zSi1tcGFrc1VpdWhKdG5qaFFKU1FQMmFMbk9ZVEIyZ3N2RVVIcTU4R0JBYlpMd0hrYUhzMXI3Mk1ZNjh1ZXpGdXBxR0ZCTVNYSkFENG1XemdqblhjaVNxb01EMDNuaFdZWnkwT3BGNDdlcm5t0gH3AUFVX3lxTFBSOG9QTGdwTmlJVFdHbDN4NmM2RndMVXdkMlFpNUVvWTFibXloUW5nR2NkTWR3bUhoa1ZING90alYxRzRxcWNkQzNyUnlpLTZqUHZ0NEhPUFJuc2tpTFU1eDEySHZoeEZYdU5WdWtPNUpBRjBzaE5ZamlIaDhmdEtfWGVhRlZDOTdkX29NOG5KOEFZUFluQUt5eXNfSHItbXE5elFXZEpQRVpYYUc4YnBsZllOUjBMMVhWTDV4WlBqU1d2b1NoSGotbzVlS0F2bUNOM253RU1QTl9rWGhQVjE4OEFXRVdyQm9nQWNEOHMxSGhHUFBqOUU?oc=5",
       "fonte": "G1",
       "publicado_em": "2026-10-26T07:00:00+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno G1"
+      "resumo": "Guaíba (RS): resultado do local de votação por zonas eleitorais no 2º turno G1"
     },
     {
       "id": "2bf5e8c54fad",
@@ -444,14 +444,14 @@
       "resumo": "Evento na Casa Vince terá gastronomia, decoração temática e apresentações musicais das 16h à meia-noite"
     },
     {
-      "id": "58d23e1952ab",
-      "titulo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service",
-      "url": "https://www.reporterguaibense.com.br/noticia/vereadores-de-guaiba-protocolam-pedido-de-abertura-de-cpi-para-investigar-contratos-com-a-set-service",
+      "id": "9d9722e31cd3",
+      "titulo": "Jovem de Guaíba precisa de cirurgia cerebral e família organiza vaquinha para custear procedimento",
+      "url": "https://www.reporterguaibense.com.br/noticia/jovem-de-guaiba-precisa-de-cirurgia-cerebral-e-familia-organiza-vaquinha-para-custear-procedimento",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
       "feed": "reporter_direto",
-      "resumo": "Todos os 17 vereadores da cidade assinaram o documento nesta segunda-feira"
+      "resumo": "Até esta quinta-feira (5), foram arrecadados R$ 15 mil, sendo que a meta é chegar a R$ 40 mil"
     }
   ]
 }
