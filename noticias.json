@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-08T18:39:31.015969+00:00",
+  "gerado_em": "2026-11-08T23:25:56.480234+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -189,7 +189,7 @@
       "fonte": "Blog do Juares",
       "publicado_em": "2026-11-07T12:38:04+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Dnit vai executar limpeza em pontes, passarelas e viadutos entre Camaquã e Guaíba Blog do Juares"
     },
     {
@@ -343,6 +343,16 @@
       "resumo": "GUAIBA Futebol Clube, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
+      "id": "3ae490d5ffbc",
+      "titulo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOUV5QzR3WkRRQTVzc1lvVkhhd2xiSGdMT1FmZGZrNmNDVVlyX1lVM3FEWEJacXAzbV9neHhEQVFhTGRjNWFBN183WXpqUHFrQTBBaWVXYk9Ya3h6bVNZLUFIcHdPX05rNWFzNWMyeEZJa2ZuRHZReVdiS251T3dSUXhnYmdCdS1nbWVMVWhMbzhtVDFQY1lKcnRsTXZ0U3hYakZFVjZCekpCQW44ZEpycGJORjd3ZUFKVUVINDFBUG5JUkFLOGhHeWw5UXk4dkZ1TWcxMEFxT3lOOUZlMzRRTmRHOVV5dUFqaTFaYTlmT0ZVTHg3MWlkeXN5a2vSAYsCQVVfeXFMTXRFMFhUcVhPTG4xbXhING5rLW5hMmJvN2lCaHQwU01xOHQwWk5RaVRqT0Q2dFBCNkp3Y1NLR3NMYWJXWENodmZKWUtiNGp6d0lxRHkyZ2ZZaEpFenRGZjhzaWpCODRRZ2lBc21fQnhqQ2pDcDhFOFNkeDdJcXE5eGxpcFZEWDNWNVAzM3BFOEl6akEyLWpsYWRranNkNUhfYmk0YW9sSGdNZ3c0SzFYQzBkU0JBcHljeUdLcE80NS15TVN2bjc1dWJtb0E5WXRtVFdIX2hnNVJXZm9vR05zQWU4LWEteGNGZ3MwSlAwVUtnbGlkazdPWVFCN0hoMEdfNXJBemhhNUszMlNR?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+    },
+    {
       "id": "53259009f219",
       "titulo": "E.M.E.F. Itororó, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcmlETENzM2VxQlpQcUU5Q2lNSE5CWnBxbUoweVU0TDJQcXVDQnZDSkZBR2RySEM4blhZc1pmYTRZX20yN2d0MFoxWGVBUEthX3lzMXQxa0c4OER0YVg2WUxiNDFHQXozVjlKeVlXMnBiWm01WV9Edlh3QzU5cTc2Y1JYWHBMb1hmTFFOUElnU2xsdjA1enpwVkdCWE1TWmx5eU1taURqSzRENjEwQ1dhc25EN1NiUzRJSHYwT0x4RF9UYnlnb3ctZk1qM2FuX3J5dTJ0T1ZvMVdDSTByb29PT3BIblV6QmJxM25LYmlEeXZKUmfSAYICQVVfeXFMTTVZem80RmF5cEZfSjlibVp5bnhRdFBuVEdsdnM1cUF4ZUZHb3pNN0p6WmR3RDdjMzZQeDlra2hNNmN1cHVFVXl1TTVZTE4xd28wNGpwaUkxNGRHaVVTejdnYUkya0EwM3pfQUQzNDlzU3AtZTd5UEVMdDkwWXcyOVNyZHdLZGNrMVdOTngyZE1TY0VzNFRZMnVLeXNtdWs4OHRWRWJrWlM4em9Jd2hFZlNQN2lyWnhYLTFiakUxT2VpcjJsdE1sWEllTUs1UHpPOWNCM2s4NVdLaTRQN2pJMFpYZm1SRUZtamF5RGxLVnNrNmVIelY3c2FJMUJRRHdPcnFR?oc=5",
@@ -351,16 +361,6 @@
       "categoria": null,
       "feed": "google",
       "resumo": "E.M.E.F. Itororó, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "63788c8a453f",
-      "titulo": "E.M.E.F. São Paulo, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMEJzT1VjOE9RS2dPc1lOMVdGV3R1YnhLLXZZeC1DeXRZak9CdVBYQ2xHVW10cEtENjRFRjhtbE55N2Y5TkxnMnB5cTlTVDEtbEUwblZjLTFCbm9mWmZvTno2RE9BNzN2MHNrTHRRZnNwbEt4R2g2eHdNazA1SklyalByWFFIN0hwSDVUR3dsQjIwNnlfN2JadXFFSElTTmhjTEF5ckotS0Y3b3V5NnRHNGJjQnZrNElEMldPTGVLNVZBeWdqX1h1X3lwSEk4ZXdPczctbExldEJYZTM5Tzh0a3hCMlN6VUtlaTVLSkhLMU5iR0htX1HSAYQCQVVfeXFMTjVtNzI5b3g3RFpRQWt3dWExREctYTNtUlYxNWhoVVpPZmp6YkNYQWU2cUZKUVVSUHA0Y2Y5TXVHanlGOWhlaGp0c295R2hESHF3eGxUbmFFSDJYZzRXLXRIVWoxdzIyYmdaclVfaVFtbTUybUlMM2FRWjFVOXQ3MXdVcE4zZHJyaVdOUFlxTVl4QUJBNmtsdjFkVzJ4bmVwNEphVlVDYVpXLUstZVhrNmxyN2kzRTA1UERnaUxqaXlMRHpEMUR1c2h0VFhBYzNLSzhZdUtQS2tHMXRUQ1dJNUM3SnZmS2tuaS1NcklBY0JDbU9KdzlQZjdFa0VnV25tczhOcDY?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "E.M.E.F. São Paulo, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     },
     {
       "id": "59821544750e",
