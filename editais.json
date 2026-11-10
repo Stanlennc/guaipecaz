@@ -1,8 +1,17 @@
 {
-  "gerado_em": "2026-11-10T14:20:39.837578+00:00",
+  "gerado_em": "2026-11-10T22:50:49.438889+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
+    {
+      "id": "aa26f6cd84b1",
+      "titulo": "Sine Guaíba oferece cerca de 20 vagas de emprego nesta semana; veja a lista",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX2hwRlZwd21ncHZ5c2UzUXpxeEw4Z0Jpdmp5S0dMVV9HVndjbEZSNlcwTUFGcmZaSEVFSFZHOXFYcUN4cVEzQnBIR0xCTHRvQ1lTYW1KTjdrYTI1Vzc5MUZ1aUsybFBSbktxU3ZHcmFZb2dDUm12T2F2RlIzeV9mMS1UdDZ4WmVSTU16dDJfS0tkdzdRd29CdHNVcFR5aGlVYlk1Q2Y5X2h4dHdSYUd1c2UzUmp0NzlFVnNZ?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-11-10T19:53:00+00:00",
+      "feed": "vagas"
+    },
     {
       "id": "8c499d1603ec",
       "titulo": "Vendedor, balconista, estoquista e mais: Sine Guaíba oferece 14 vagas de emprego nesta quinta-feira",
@@ -101,15 +110,6 @@
       "tipo": "licitacao",
       "publicado_em": "2026-10-22T07:00:00+00:00",
       "feed": "licitacao"
-    },
-    {
-      "id": "055c280753b7",
-      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego nesta semana; veja a lista",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbUhfcVhXdXNmbjdkNGtXTDY0YVpQZ3BNWmRmZEFPNUFQVVpZRXJwX3FXSnIyVzBHbEFMV0I4MXZmaTBDMHdwQTRWRjU1ZW51ZXVwYmw5encteTFzbnNpdGZIZFlkWE9NOGQyaFFmWlJSMTVIWnM2Sk5CZ2N0VjVvU0RNa1VOWVY5Y2VabkRJWHFzX0ZXeHM0a3N2NjZXOU1nYm9VMmVrcE1YTW1GUndXQTdTSmZLaXg4dkE3NllxVW44RzlZU0lF?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-10-21T07:00:00+00:00",
-      "feed": "vagas"
     }
   ]
 }
