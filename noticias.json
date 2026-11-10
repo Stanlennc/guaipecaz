@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-10T06:46:00.586297+00:00",
+  "gerado_em": "2026-11-10T16:06:14.804379+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -104,16 +104,6 @@
       "resumo": "A programação dos próximos dias contará com lançamentos de livros, sessões de autógrafos e oficina de escrita criativa"
     },
     {
-      "id": "6b27a37db175",
-      "titulo": "Guaíba sedia capacitação sobre o ECA Digital e a Lei Henry Borel",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-sedia-capacitacao-sobre-o-eca-digital-e-a-lei-henry-borel",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2025-01-26T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O encontro teve como objetivo sensibilizar os serviços da rede e qualificar servidores municipais para o fortalecimento da proteção integral de crianças e adolescentes"
-    },
-    {
       "id": "831fcf5ba47f",
       "titulo": "Lula venceu Flávio Bolsonaro por 50,19% a 49,81% em Guaíba; veja os resultados por local de votação",
       "url": "https://www.reporterguaibense.com.br/noticia/lula-venceu-flavio-bolsonaro-por-50-19-a-49-81-em-guaiba-veja-os-resultados-por-local-de-votacao",
@@ -181,6 +171,36 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "As receitas previstas passam de R$ 757,4 milhões para R$ 712,3 milhões, uma redução de 5,95%"
+    },
+    {
+      "id": "09dc59da6ca9",
+      "titulo": "Esta capital nasceu de uma espera: casais açorianos aguardavam terras nas Missões que nunca receberam e ficaram à beira do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdG10RVc4cHdQOFNUVXY4NEN0ajVCUUZiVm5BZC1rMzlVNERmT21tX1M5N2VMV09OMS01U2ctcm05cXRWY3AwRFdtTkVMa2hxeXp4NGlWVUtBeHFnY3o2NmRfR2hUYVBaV0xPTjFvaG40YV8xNnJNQUVvU3VrMzVQRERubWRWVFpiX2Y4NjRWak11U01mZmlOX0VJZ29fSVdBeWtTR1JpRVlhblNDZG5WaHhrN3VrOVhuVzhUb3BmcUpCMFdlcTVhOE9HcEZ6X3dKVHItTmJOYnp3Q19GclpXMTdxTWpPR3dYLWpWZU15WWVoajZwZU1Odi1WNEc0dlRyU21pTWdxY2k?oc=5",
+      "fonte": "Brasil 247",
+      "publicado_em": "2026-11-10T14:15:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Esta capital nasceu de uma espera: casais açorianos aguardavam terras nas Missões que nunca receberam e ficaram à beira do Guaíba Brasil 247"
+    },
+    {
+      "id": "7be17cba04a3",
+      "titulo": "Polícia investiga morte de homem baleado no bairro Santa Rita, em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQm9fUUxobHZnWGNwM2NySTJIMHhQRkt1YTFPUFhRamZEajNLalFMQVFpbFVEOV94OFFyd1dCNWdIQmN2cUppeUs4SnBteE51VWpIQV9PWTJNWGlyQllyb1dzbXpPZm5ENkd0S2ppQTZ5YmlJYkhyOUVuazVwbU9OZU9JSFBsenVHZlQtN2lQWDlNdXhETTk3V1ZfaHc4M1lhQl9IdE1CeUk?oc=5",
+      "fonte": "Studio Notícias",
+      "publicado_em": "2026-11-10T10:37:44+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Polícia investiga morte de homem baleado no bairro Santa Rita, em Guaíba Studio Notícias"
+    },
+    {
+      "id": "76c4b5455eac",
+      "titulo": "Justiça determina que a prefeitura de Guaíba adote providências para combater doença causada por fungo que atinge animais e humanos",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNmg4NmllZE1sTnNXSUg3bmR0cWh1U2pkU2o2cjZmQ1VBSVMxWFhIeDlELWoxWFBSZTdYYTFlcmd2UGZ5bGVuclZPVWpLSjRMNGRMV242anJOZkVybnZYbEtkVVRHbnZRaW1yYVUtalNPa3JCbWc4WjRIVFI3S0Q0dTZmd29CU0Y1MnAxYWd0cUF0TTFvamY3UThWQUxUX0xWdExQcTJUNDR4S0ttVzlLbHdzUmRsendieGVTVGJFelAtMURLTkdhb1ZBWkd3eG9zMGh0U0RRdF8xQ0tZMDc5THRkQVFkYmpVN1lnbdIB8gFBVV95cUxOVTl4czE0QllfbW5TZ2hqck9kVFpYMGphZGNrZVh3azNmZmk0anZTME1VRzBFak5ua2lQTkIzRkUtR3IxZF96YTdwaWVDYW5DWVYxT1RzZHlOdktrUVZjTFlMQ1MwOUJOcEhKOEVPNjJQVVBEQ1lRTmFUdzVBd3JVQWpwZENfd2RWWWZDVFdERGx1RURLREtOTXBXQ19aRklpemxYbTdZNDkxRGhwOHl0ZkQwTFQxZjZoS0E5QzRoVGU3NVNzTHBaYUVvaERmYUh5MEg2Z2NWeE9DYW9UbkdINGNSM19KbWlrdF9VMVh5eFplZw?oc=5",
+      "fonte": "Jornal O Sul",
+      "publicado_em": "2026-11-10T10:35:07+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Justiça determina que a prefeitura de Guaíba adote providências para combater doença causada por fungo que atinge animais e humanos Jornal O Sul"
     },
     {
       "id": "88d5ffff3677",
@@ -303,26 +323,6 @@
       "resumo": "E se o Guaíba não existisse? Teríamos água nas nossas torneiras? Jornal O Sul"
     },
     {
-      "id": "6cf839ad5ec1",
-      "titulo": "Skatista entra no Guaíba e salva jovem que estava se afogando em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORHd0azd1N1FSUFFvb0RhbHYxZUloNWJGQk5mdThRUHJmdWFrME9MdmtNU2hjSGRaZU9ZYjMwQ1UxbWxnNDhXTVZSTHd0NzBPdWtlRHBSTS1oWkQxbm56Y3U2QWhZdTRUVnNKOVFtQmxEaHF0THF0emg1aFl2TDlicTJsMHFYQ0NYRnhlMjd0bFA0YVBJWEpLY2pLT21CUHJLWTU0SFdsOFFFTnNGdElqWVc4WVJheHY5Nkt1X2wzWXluMUxrc1hGVm9TbXdxZTBFdDVMU2hELVBreFlGamZB?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-11-03T13:20:18+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Skatista entra no Guaíba e salva jovem que estava se afogando em Porto Alegre R7"
-    },
-    {
-      "id": "5b476e80b3a0",
-      "titulo": "Bistek terá loja em Gravataí, e Passarela planeja atacarejo Via em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUjJCam9mMWxfaXRZbkozSjlLaVRPM2t3RUNWVDlsRWpTZ0twc3FiM1VBR0cwQlV0aGhXY1JHNHl6RGVoNW9WajU5RnlRMl9yczRWZzZqMlVIUVhELU41OVFNUFg1MW40UEwwM0RVdmliRmotUjFDb3hsdE42Y3gxSm1RbHdEdW1vZU40cnNMMkhNN1VzR1pvbEJ0V3hDY0lrRnpaWUlvR0hVSnB3WVVtSmJYa0l5NWp6OXRyYnhqV1pGTFNDQktfMVNNaFRWSGtYV3ZweXZpNG5NWjBoaldGSDBn?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-11-03T13:12:44+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Bistek terá loja em Gravataí, e Passarela planeja atacarejo Via em Guaíba Jornal do Comércio"
-    },
-    {
       "id": "4e81dfe202b1",
       "titulo": "Lula vence a eleição presidencial em Guaíba (RS)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG5SdFVYSVBuTzZweDVOeG9nSkZNWVkyUmlFQzBXdmNVd3hCQ0Q5RW9XcGMxcUFtTHJkVXFad0pUVVBKNUhNdFZDbjFBUlhpeE1PSnFzSl9udzBJZTlYd1VuYmtRZFFOX3BqZG9SRjRHQ21FM1BfZFV0aFNHcklWZ0lOdlFQc1IyQnoyeEZreVNiMkJfa0hEdWp6NGw?oc=5",
@@ -343,6 +343,16 @@
       "resumo": "Guaíba (RS): resultado do local de votação por zonas eleitorais no 2º turno G1"
     },
     {
+      "id": "4e3c538c989e",
+      "titulo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRHRmYkRxTlBiZlJFYnlmWXF5ckEzMk0xTTU5U0NlS1d2N0xhT2JrdEFreFZQM0FpMEFHaGpXU2txLXNQTlNqRXBGUEI3dHY1dW1laUREdFBwMjI3Y2FXanlaSGRGcm02aGxCeUxHNXc2ckpEX3FOc21FaE9WUGVBenJpdHZaMEUtWFJjUUljeXQ3VE5tMDVQN0FfWFdTZVFxOFg5UGRjaUxjU09WMjUtWlJzZEhLYndMRlBjX0lEOEZVbU81dHR2Y3A3Q2UybU5PNEdmN1VzNXdYUExrTTNOREZzU0tNZ9IB9AFBVV95cUxOZ3V3b0dMV0NISlp5N0wySUNRYXBhQVNjRWtqeXZrSmRsc1E2dG9yT1V3cEY5a0tuUFNQMnRNWnJyWWV4c2g3c1E2dW9rTF9VdFAzTElrVl9zbFBzblBkbHBBZ3k0MU8tX1JfWG01aVZTaGl4QlNtaEpEeml4SjIycmJqMkhqR0VLcVpPOGVIcEhXZnpvN3pxNmVJSC13QXpGUWxaaWtWbUFmNDJqcGlHdGFDblRGWktPeXBrVDVFamhlUFdNSllQeVUwSDAxVENTb3g3QXRJVTU2OGhDTDZJMUF4TDRZVHZUQnhvRjExdmJxaWlV?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno G1"
+    },
+    {
       "id": "3ae490d5ffbc",
       "titulo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOUV5QzR3WkRRQTVzc1lvVkhhd2xiSGdMT1FmZGZrNmNDVVlyX1lVM3FEWEJacXAzbV9neHhEQVFhTGRjNWFBN183WXpqUHFrQTBBaWVXYk9Ya3h6bVNZLUFIcHdPX05rNWFzNWMyeEZJa2ZuRHZReVdiS251T3dSUXhnYmdCdS1nbWVMVWhMbzhtVDFQY1lKcnRsTXZ0U3hYakZFVjZCekpCQW44ZEpycGJORjd3ZUFKVUVINDFBUG5JUkFLOGhHeWw5UXk4dkZ1TWcxMEFxT3lOOUZlMzRRTmRHOVV5dUFqaTFaYTlmT0ZVTHg3MWlkeXN5a2vSAYsCQVVfeXFMTXRFMFhUcVhPTG4xbXhING5rLW5hMmJvN2lCaHQwU01xOHQwWk5RaVRqT0Q2dFBCNkp3Y1NLR3NMYWJXWENodmZKWUtiNGp6d0lxRHkyZ2ZZaEpFenRGZjhzaWpCODRRZ2lBc21fQnhqQ2pDcDhFOFNkeDdJcXE5eGxpcFZEWDNWNVAzM3BFOEl6akEyLWpsYWRranNkNUhfYmk0YW9sSGdNZ3c0SzFYQzBkU0JBcHljeUdLcE80NS15TVN2bjc1dWJtb0E5WXRtVFdIX2hnNVJXZm9vR05zQWU4LWEteGNGZ3MwSlAwVUtnbGlkazdPWVFCN0hoMEdfNXJBemhhNUszMlNR?oc=5",
@@ -361,16 +371,6 @@
       "categoria": null,
       "feed": "google",
       "resumo": "GUAIBA Futebol Clube, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "63788c8a453f",
-      "titulo": "E.M.E.F. São Paulo, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMEJzT1VjOE9RS2dPc1lOMVdGV3R1YnhLLXZZeC1DeXRZak9CdVBYQ2xHVW10cEtENjRFRjhtbE55N2Y5TkxnMnB5cTlTVDEtbEUwblZjLTFCbm9mWmZvTno2RE9BNzN2MHNrTHRRZnNwbEt4R2g2eHdNazA1SklyalByWFFIN0hwSDVUR3dsQjIwNnlfN2JadXFFSElTTmhjTEF5ckotS0Y3b3V5NnRHNGJjQnZrNElEMldPTGVLNVZBeWdqX1h1X3lwSEk4ZXdPczctbExldEJYZTM5Tzh0a3hCMlN6VUtlaTVLSkhLMU5iR0htX1HSAYQCQVVfeXFMTjVtNzI5b3g3RFpRQWt3dWExREctYTNtUlYxNWhoVVpPZmp6YkNYQWU2cUZKUVVSUHA0Y2Y5TXVHanlGOWhlaGp0c295R2hESHF3eGxUbmFFSDJYZzRXLXRIVWoxdzIyYmdaclVfaVFtbTUybUlMM2FRWjFVOXQ3MXdVcE4zZHJyaVdOUFlxTVl4QUJBNmtsdjFkVzJ4bmVwNEphVlVDYVpXLUstZVhrNmxyN2kzRTA1UERnaUxqaXlMRHpEMUR1c2h0VFhBYzNLSzhZdUtQS2tHMXRUQ1dJNUM3SnZmS2tuaS1NcklBY0JDbU9KdzlQZjdFa0VnV25tczhOcDY?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "E.M.E.F. São Paulo, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     }
   ],
   "noticias_home": [
@@ -403,16 +403,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A programação dos próximos dias contará com lançamentos de livros, sessões de autógrafos e oficina de escrita criativa"
-    },
-    {
-      "id": "6b27a37db175",
-      "titulo": "Guaíba sedia capacitação sobre o ECA Digital e a Lei Henry Borel",
-      "url": "https://www.reporterguaibense.com.br/noticia/guaiba-sedia-capacitacao-sobre-o-eca-digital-e-a-lei-henry-borel",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2025-01-26T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O encontro teve como objetivo sensibilizar os serviços da rede e qualificar servidores municipais para o fortalecimento da proteção integral de crianças e adolescentes"
     },
     {
       "id": "831fcf5ba47f",
@@ -452,6 +442,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Em um vídeo publicado nas redes sociais, Mazé mostra os estragos causados pelo incêndio"
+    },
+    {
+      "id": "58d23e1952ab",
+      "titulo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service",
+      "url": "https://www.reporterguaibense.com.br/noticia/vereadores-de-guaiba-protocolam-pedido-de-abertura-de-cpi-para-investigar-contratos-com-a-set-service",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Todos os 17 vereadores da cidade assinaram o documento nesta segunda-feira"
     }
   ]
 }
