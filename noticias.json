@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-10T16:06:14.804379+00:00",
+  "gerado_em": "2026-11-10T22:51:21.444855+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,16 +84,6 @@
       "resumo": "Órgão recebeu comitiva da prefeitura de Guaíba para a apresentação na sexta-feira"
     },
     {
-      "id": "d9446b4d2524",
-      "titulo": "Grupo Lebes realiza último evento da turnê de 70 anos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-lebes-realiza-ultimo-evento-da-turne-de-70-anos-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2025-01-26T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A organização preparou atividades para as famílias e sorteio de prêmios neste domingo (8)"
-    },
-    {
       "id": "1912430fa261",
       "titulo": "Escritores e coletivo cultural de Guaíba integram programação da Feira do Livro de Porto Alegre",
       "url": "https://www.reporterguaibense.com.br/noticia/escritores-e-coletivo-cultural-de-guaiba-integram-programacao-da-feira-do-livro-de-porto-alegre",
@@ -102,6 +92,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A programação dos próximos dias contará com lançamentos de livros, sessões de autógrafos e oficina de escrita criativa"
+    },
+    {
+      "id": "fcb1878c62ca",
+      "titulo": "Sine Guaíba oferece cerca de 20 vagas de emprego nesta semana; veja a lista",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-cerca-de-20-vagas-de-emprego-nesta-semana-veja-a-lista",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2025-01-26T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Lista inclui oportunidades para pessoas com deficiência (pcd&#39;s)"
+    },
+    {
+      "id": "d9446b4d2524",
+      "titulo": "Grupo Lebes realiza último evento da turnê de 70 anos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-lebes-realiza-ultimo-evento-da-turne-de-70-anos-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2025-01-26T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A organização preparou atividades para as famílias e sorteio de prêmios neste domingo (8)"
     },
     {
       "id": "831fcf5ba47f",
@@ -143,16 +153,6 @@
       "resumo": "Em um vídeo publicado nas redes sociais, Mazé mostra os estragos causados pelo incêndio"
     },
     {
-      "id": "58d23e1952ab",
-      "titulo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service",
-      "url": "https://www.reporterguaibense.com.br/noticia/vereadores-de-guaiba-protocolam-pedido-de-abertura-de-cpi-para-investigar-contratos-com-a-set-service",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Todos os 17 vereadores da cidade assinaram o documento nesta segunda-feira"
-    },
-    {
       "id": "0e4181da1d9d",
       "titulo": "Vendedor, balconista, estoquista e mais: Sine Guaíba oferece 14 vagas de emprego nesta quinta-feira",
       "url": "https://www.reporterguaibense.com.br/noticia/vendedor-balconista-estoquista-e-mais-sine-guaiba-oferece-14-vagas-de-emprego-nesta-quinta-feira",
@@ -173,13 +173,32 @@
       "resumo": "As receitas previstas passam de R$ 757,4 milhões para R$ 712,3 milhões, uma redução de 5,95%"
     },
     {
+      "id": "07b8fec3eb90",
+      "titulo": "Com renda destinada à APAE de Guaíba, 6ª edição do Circuito Eco CMPC será realizada no dia 29 de novembro",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTUdKWjlaMzlON0E3SWtqQjRnOHh2ZlR2bm1zak1aRjFpLU5PNFpHQlRCUFEtczUtSk9XMkFzZHhNMjdaSXJjX0FaYnVhMkczamowbmg0VlJuTGtSVXcxMk0tUmxwVl84UjFsUTd2Ni1TbDUxVjY0dU1qQWMtSUpETUh2Y2NRQQ?oc=5",
+      "fonte": "INFO DO VALE",
+      "publicado_em": "2026-11-10T18:14:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Com renda destinada à APAE de Guaíba, 6ª edição do Circuito Eco CMPC será realizada no dia 29 de novembro INFO DO VALE"
+    },
+    {
+      "id": "677712daad97",
+      "titulo": "Surto de esporotricose em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnloVkRrVjNYcXJBaEwtcHh6UFZQT2hMcmNJSE5YME1XQnM2ZHlrTHNDbHhTS3pVc0hiZ2xfYmd1Si01X3JmU0FQaXJzT0FnODU2WXp3aTh1dTNTcDl1bHM2Zy1la0E2OTVRY21sSWJRSTMyQ3hFTUNoREY4WDlPUm9UcFdFdUp0RnJnNkFKM2hDeXREdVVib1BiVzFtLWhSWlp2WjBvWVlpV0lsQ1Y4azZ0M1RhV2NVa2Vj0gHKAUFVX3lxTE96Rks2YURDS3RQQ2dIYWhrZkVadW1sU2VPTjE4U1RIZngzcGlnTXB5WUFQY3RmenZRRWh2cEt2MmpiT1BnVW9RWFp6dmdVQzFBSEV0Z2s5TkRYdmV4N29DYVNGM2xQT1VDcHZ4cWJPSWs4UmNlalhxZ1ZaVjJVX0dIRTRUQmtaX0hFRlI3S3dmaV9RTjZSaWhyY1p3eUxFRnozYVVRSkdYNjVMRHVwdTNZbzhPZXhCUXRiUklXRkdNblZqMGJJM3lLOEE?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-11-10T17:46:30+00:00",
+      "categoria": null,
+      "feed": "vizinhos"
+    },
+    {
       "id": "09dc59da6ca9",
       "titulo": "Esta capital nasceu de uma espera: casais açorianos aguardavam terras nas Missões que nunca receberam e ficaram à beira do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdG10RVc4cHdQOFNUVXY4NEN0ajVCUUZiVm5BZC1rMzlVNERmT21tX1M5N2VMV09OMS01U2ctcm05cXRWY3AwRFdtTkVMa2hxeXp4NGlWVUtBeHFnY3o2NmRfR2hUYVBaV0xPTjFvaG40YV8xNnJNQUVvU3VrMzVQRERubWRWVFpiX2Y4NjRWak11U01mZmlOX0VJZ29fSVdBeWtTR1JpRVlhblNDZG5WaHhrN3VrOVhuVzhUb3BmcUpCMFdlcTVhOE9HcEZ6X3dKVHItTmJOYnp3Q19GclpXMTdxTWpPR3dYLWpWZU15WWVoajZwZU1Odi1WNEc0dlRyU21pTWdxY2k?oc=5",
       "fonte": "Brasil 247",
       "publicado_em": "2026-11-10T14:15:00+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Esta capital nasceu de uma espera: casais açorianos aguardavam terras nas Missões que nunca receberam e ficaram à beira do Guaíba Brasil 247"
     },
     {
@@ -207,7 +226,7 @@
       "titulo": "Homem é morto com mais de 20 tiros em Guaíba, na Região Metropolitana",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb0htLTFMdW1YN19nQXFPRWRndlFjOUVQZUV6WDZJRHFxb1FxdGt6dEFrTjluaEJkV1ZBaEV0eENJMGNQTmdhT2MzOEZjZ2lvMmd6cGE2c1hvN3ZFeDlNc0drZnVTY05iOU52OVNPaTVYQzF2YlVwWWd1YkltOFh1YWEwS0NnaEgzRlBWSVJqdThIUlMtYjFocmFZd3F2ZmlvSDNjd1M5eXlXRmgxRENaV0lLY2pGc3FWWW0tRXJ1NllOQ29JUF94dmpHWWVCREFIRFU4Y3dXeENYNXFTRmNGME8xVXVfNGlPNWprTGxR?oc=5",
       "fonte": "GZH",
-      "publicado_em": "2026-11-09T22:26:17+00:00",
+      "publicado_em": "2026-11-09T22:24:55+00:00",
       "categoria": null,
       "feed": "gzh_metro",
       "resumo": "Homem é morto com mais de 20 tiros em Guaíba, na Região Metropolitana GZH"
@@ -243,24 +262,24 @@
       "resumo": "Inscrições para o Circuito Eco CMPC estão oficialmente abertas; arrecadações serão destinadas à APAE de Guaíba Jornal Tradição Regional"
     },
     {
+      "id": "e01df12fa795",
+      "titulo": "Inscrições para escolas municipais de Guaíba estão abertas para o ano letivo de 2027; veja prazos e como participar",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPV3RvYmsxeDVwTWR5WElJVUlZT09GSUF6RkJKTktUMkg1MTlhM0FxR0lRcXBFb2FZUnIwWU5aT0ZSMmdVNmUyc1RwVkFNTVowNWlOQ2J2UUdOQ0hMQW5PbkJteU9ZdVlBWFFXWHFqTjhQalNYdldncEcxTWVxTDJGNG5SQ2JGanhkcTRBYmxvRFcwTGthXzUzQThlc2ZrVVRfR19RNk9zUDFwekw5cDgwQkgxQ0FkUWN0WXh2T1Z3eTJsa005aDlKYVpqYnVhV1VRSndSUnRYTV9obU53OTA1NnhLX0NGTmNiQ1V1TUZpc0h0RUhYSUJraHk0SlhiRHM?oc=5",
+      "fonte": "Portal de Camaquã",
+      "publicado_em": "2026-11-09T02:41:03+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Inscrições para escolas municipais de Guaíba estão abertas para o ano letivo de 2027; veja prazos e como participar Portal de Camaquã"
+    },
+    {
       "id": "576c7e898b3d",
       "titulo": "Dnit vai executar limpeza em pontes, passarelas e viadutos entre Camaquã e Guaíba",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVhxSWZuY2JsRWR0LVIyVDJmQlVua1dOOFdIZjlkRURkT3dXcEItbDVBb0lIVGxhWklhVmJmdHJVRE13UHQ4cXl3SGh0Zlo4d3BxX2RCdjFDa08wOExiQWxVV1I5aXBzSkxkTmV4SlVYTGtOaElTMFN6NVg3bU5TVHJ1bjhCN3M4dm94NXpwdEtBalUzS0wtTmJHakVxTVZDQ2xUOWstcWNnaGtGVkZ2andmOG53Vzg2UndrNFhZY2RlQm95bGo00gHMAUFVX3lxTE9MemJWaFFOa2ZMam1yNHc5SDVnY0ROVWVLaWFfMExFVUZaak0xMjBMU1dlNHlGVEY1V0liVTlDSnVOVHFBVm5qLVJmcnU0NC1meWFMT2VEcmNxRzZyWEI2VllWNWx4MXpad0ZmdlhRTFQtanpjYUdUa0hQbmZlanVRVVJmb0RrQkdndFUzNmN3M0xkZjRHU3NFdXQzaXNkOTI1cWxENDdCa2tlYjhKV0o1NnBnNWh6VTJnQ3NKbUQ5b3U4ckJCZnppbUFkOA?oc=5",
       "fonte": "Blog do Juares",
       "publicado_em": "2026-11-07T12:38:04+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Dnit vai executar limpeza em pontes, passarelas e viadutos entre Camaquã e Guaíba Blog do Juares"
-    },
-    {
-      "id": "eae549c07543",
-      "titulo": "Corrida dos 70 anos do GHC terá shows e serviços gratuitos de saúde neste sábado na Orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZjBSbWxabG8ydmJwRG03YWpMd016V1JkZDJTX2tZb2I0Z1hucHdpZzEyX0VmMEhxYmVWclF1SDVyb1FacmpEUFpfQ0ZQc09FNmZOTHV5OUV6VVdjSFgyazNjSVQzOG0ya3pENktNYXFHaHhzYnk4Y0tUSWtmQlpYbUUzdVVlT01Zd1pPamFwMUI5MWttMXhoQnhyMG1CS3poUm0wWmU2V0NtakhyRmk0eTByXzJHSWJJU0pvVEJUelpWQUxHNjdWVHdWODhqa1ZremFYU3FNdFdBQVNzZWhETzVtUjd6Y3M2Q2pEakVabzBuTmtLM3c?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-11-06T20:59:07+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Corrida dos 70 anos do GHC terá shows e serviços gratuitos de saúde neste sábado na Orla do Guaíba Correio do Povo"
     },
     {
       "id": "f26da160192b",
@@ -303,26 +322,6 @@
       "resumo": "Vídeo mostra cortina de fumaça \"invadindo\" orla do Guaíba GZH"
     },
     {
-      "id": "fe8727cf068d",
-      "titulo": "Icehot instala estação de hidratação na Orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGw0S21OcVFwZmgzcE5rdHJnV29qLVZVTFpmUHdXLXkzcXJKM1BMX2QxNFFBc09jRk9PTTFMakNxc3pMTWNDeWFGWHJ6T1ZpQnZGQngyRXZHb09DSXNWektJa196eGQwOVcxZUplU0NUcGRKZm5zd2p3VUtBd05EMnF1amhYdW5maXk2TUZn?oc=5",
-      "fonte": "Coletiva.net",
-      "publicado_em": "2026-11-03T18:17:54+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Icehot instala estação de hidratação na Orla do Guaíba Coletiva.net"
-    },
-    {
-      "id": "04667519d5f3",
-      "titulo": "E se o Guaíba não existisse? Teríamos água nas nossas torneiras?",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVHVtTTUzVHlzVHN6czIzSk5zTmZWZ3RkQVFFYk1WN2NlUkFWX2tFMk9BeUJLSzNlUFpUTWhkVldUUElqT05KQXdTN1p3aXN0ODMyc09naTRaMmpTUWxPcW9nUzE3WTMzR0JSLWZ4MDFXalZQVWEzR2ZJZ3NTRld6UHg0N29vb2hRbFphbVM4enTSAZYBQVVfeXFMTmZwcWlOelNINTRaWTBlTjRjMktjSlZhMTJ0cEFjVWVfcHllLUh1cTVhRmJQV214U25XbjduQUN1OEUxOFpwSVVEVGp6bzdIakczRWVmN21LNTd1aExyY3R4Z3RWVDJlSGI1T1BfLS1BMFptZVZhaG5fNGZOT05WRnJyNWs2eWpoVkVWamE3aWd1QmpsQmxn?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-11-03T16:14:05+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "E se o Guaíba não existisse? Teríamos água nas nossas torneiras? Jornal O Sul"
-    },
-    {
       "id": "4e81dfe202b1",
       "titulo": "Lula vence a eleição presidencial em Guaíba (RS)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG5SdFVYSVBuTzZweDVOeG9nSkZNWVkyUmlFQzBXdmNVd3hCQ0Q5RW9XcGMxcUFtTHJkVXFad0pUVVBKNUhNdFZDbjFBUlhpeE1PSnFzSl9udzBJZTlYd1VuYmtRZFFOX3BqZG9SRjRHQ21FM1BfZFV0aFNHcklWZ0lOdlFQc1IyQnoyeEZreVNiMkJfa0hEdWp6NGw?oc=5",
@@ -353,16 +352,6 @@
       "resumo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno G1"
     },
     {
-      "id": "3ae490d5ffbc",
-      "titulo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOUV5QzR3WkRRQTVzc1lvVkhhd2xiSGdMT1FmZGZrNmNDVVlyX1lVM3FEWEJacXAzbV9neHhEQVFhTGRjNWFBN183WXpqUHFrQTBBaWVXYk9Ya3h6bVNZLUFIcHdPX05rNWFzNWMyeEZJa2ZuRHZReVdiS251T3dSUXhnYmdCdS1nbWVMVWhMbzhtVDFQY1lKcnRsTXZ0U3hYakZFVjZCekpCQW44ZEpycGJORjd3ZUFKVUVINDFBUG5JUkFLOGhHeWw5UXk4dkZ1TWcxMEFxT3lOOUZlMzRRTmRHOVV5dUFqaTFaYTlmT0ZVTHg3MWlkeXN5a2vSAYsCQVVfeXFMTXRFMFhUcVhPTG4xbXhING5rLW5hMmJvN2lCaHQwU01xOHQwWk5RaVRqT0Q2dFBCNkp3Y1NLR3NMYWJXWENodmZKWUtiNGp6d0lxRHkyZ2ZZaEpFenRGZjhzaWpCODRRZ2lBc21fQnhqQ2pDcDhFOFNkeDdJcXE5eGxpcFZEWDNWNVAzM3BFOEl6akEyLWpsYWRranNkNUhfYmk0YW9sSGdNZ3c0SzFYQzBkU0JBcHljeUdLcE80NS15TVN2bjc1dWJtb0E5WXRtVFdIX2hnNVJXZm9vR05zQWU4LWEteGNGZ3MwSlAwVUtnbGlkazdPWVFCN0hoMEdfNXJBemhhNUszMlNR?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
       "id": "2bf5e8c54fad",
       "titulo": "GUAIBA Futebol Clube, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWm02QUpLSXd6a096M3hQbG9wZGV6TnlMcE9remtBQUVwMzlPbWpVMDc0VEIwNnlKWjZETjdGTlhaVTRlT1l6X1FJSTFYdlhQTV9zNzhhbFRSdHB3emdzS1pVemVvcnlzdlY1QUt3QTd1a29YcHZ1T2lCSEdja045b3pIbWxsd2pscjdRQ1RBb3laWnp5Rkw0SWNwa09kcXFTS3pxdm14UUpScWhKUlpDbENxT1lzRGh1RElsTEc3TW16RjEzVTNQNjRHMVRLcUNPWTQwOE5PR3gya3NCLWZsU2ZzM3NTQ1FJUmIzM0hZVi1fMmdTZUVzVkpn0gGIAkFVX3lxTE1vcENwczg1MmRCZi1sUGg0cHNoWlQzTE1ya293SVo5YUphNnJhTXNEQW5WWWZuSnZ2ajlaOXhCTE1zdUVvNGwwbmhFaUV3ZTVTNF9mdWZFczdzQ2lEQ1F4bnBEa2gxS3VuMmtGcWJjSDRLSkJFeG82b2RvaHMyNU1jTTJzTlJvY0M3Tlo3U3N0eHF4N1BjRnlOQnBOSXVENTNRRlVCUVl3cWdKR2ZKUldJNkNPV2Z2aC1pdEdVNmpHMUJobWZhbk5LUEgxeDR1aHFtbEQ4WXcyNmxyY2dfbC1nME5aV2sxTGJFZmMwOWQtSkdPdjFMa1hwcERmT2s3cDUwcjk0cVhLcA?oc=5",
@@ -371,6 +360,16 @@
       "categoria": null,
       "feed": "google",
       "resumo": "GUAIBA Futebol Clube, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+    },
+    {
+      "id": "63788c8a453f",
+      "titulo": "E.M.E.F. São Paulo, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMEJzT1VjOE9RS2dPc1lOMVdGV3R1YnhLLXZZeC1DeXRZak9CdVBYQ2xHVW10cEtENjRFRjhtbE55N2Y5TkxnMnB5cTlTVDEtbEUwblZjLTFCbm9mWmZvTno2RE9BNzN2MHNrTHRRZnNwbEt4R2g2eHdNazA1SklyalByWFFIN0hwSDVUR3dsQjIwNnlfN2JadXFFSElTTmhjTEF5ckotS0Y3b3V5NnRHNGJjQnZrNElEMldPTGVLNVZBeWdqX1h1X3lwSEk4ZXdPczctbExldEJYZTM5Tzh0a3hCMlN6VUtlaTVLSkhLMU5iR0htX1HSAYQCQVVfeXFMTjVtNzI5b3g3RFpRQWt3dWExREctYTNtUlYxNWhoVVpPZmp6YkNYQWU2cUZKUVVSUHA0Y2Y5TXVHanlGOWhlaGp0c295R2hESHF3eGxUbmFFSDJYZzRXLXRIVWoxdzIyYmdaclVfaVFtbTUybUlMM2FRWjFVOXQ3MXdVcE4zZHJyaVdOUFlxTVl4QUJBNmtsdjFkVzJ4bmVwNEphVlVDYVpXLUstZVhrNmxyN2kzRTA1UERnaUxqaXlMRHpEMUR1c2h0VFhBYzNLSzhZdUtQS2tHMXRUQ1dJNUM3SnZmS2tuaS1NcklBY0JDbU9KdzlQZjdFa0VnV25tczhOcDY?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "E.M.E.F. São Paulo, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     }
   ],
   "noticias_home": [
@@ -385,16 +384,6 @@
       "resumo": "Órgão recebeu comitiva da prefeitura de Guaíba para a apresentação na sexta-feira"
     },
     {
-      "id": "d9446b4d2524",
-      "titulo": "Grupo Lebes realiza último evento da turnê de 70 anos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-lebes-realiza-ultimo-evento-da-turne-de-70-anos-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2025-01-26T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A organização preparou atividades para as famílias e sorteio de prêmios neste domingo (8)"
-    },
-    {
       "id": "1912430fa261",
       "titulo": "Escritores e coletivo cultural de Guaíba integram programação da Feira do Livro de Porto Alegre",
       "url": "https://www.reporterguaibense.com.br/noticia/escritores-e-coletivo-cultural-de-guaiba-integram-programacao-da-feira-do-livro-de-porto-alegre",
@@ -403,6 +392,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A programação dos próximos dias contará com lançamentos de livros, sessões de autógrafos e oficina de escrita criativa"
+    },
+    {
+      "id": "fcb1878c62ca",
+      "titulo": "Sine Guaíba oferece cerca de 20 vagas de emprego nesta semana; veja a lista",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-cerca-de-20-vagas-de-emprego-nesta-semana-veja-a-lista",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2025-01-26T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Lista inclui oportunidades para pessoas com deficiência (pcd&#39;s)"
+    },
+    {
+      "id": "d9446b4d2524",
+      "titulo": "Grupo Lebes realiza último evento da turnê de 70 anos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-lebes-realiza-ultimo-evento-da-turne-de-70-anos-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2025-01-26T00:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A organização preparou atividades para as famílias e sorteio de prêmios neste domingo (8)"
     },
     {
       "id": "831fcf5ba47f",
@@ -442,16 +451,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Em um vídeo publicado nas redes sociais, Mazé mostra os estragos causados pelo incêndio"
-    },
-    {
-      "id": "58d23e1952ab",
-      "titulo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service",
-      "url": "https://www.reporterguaibense.com.br/noticia/vereadores-de-guaiba-protocolam-pedido-de-abertura-de-cpi-para-investigar-contratos-com-a-set-service",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Todos os 17 vereadores da cidade assinaram o documento nesta segunda-feira"
     }
   ]
 }
