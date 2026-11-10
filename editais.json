@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-10T01:10:57.868497+00:00",
+  "gerado_em": "2026-11-10T14:20:39.837578+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -85,6 +85,15 @@
       "feed": "licitacao"
     },
     {
+      "id": "8967621533c0",
+      "titulo": "Polícia Civil realiza operação na Prefeitura de Guaíba e investiga suspeitas de fraude em licitações",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFRqeGNLSEoyZTdpM1JrT3RDMEtLN0hCUnlhQ2p0SW8tMkhrcU1FUFZUcTRGSEhudHFpOHNLT2ZrdGc5dk9TQjhDOUlaY1RwalZsSE9jOE0tdV9iX0ppQW5mbGp1eGdYamNMUWh5S3JpbnozRTRFSW5mcjlUbE54Snh3QmNQd0hrb3B5VDBOaW9HdmlLdG4wZWlvNDlmenBX?oc=5",
+      "fonte": "Clic Camaquã",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T07:00:00+00:00",
+      "feed": "licitacao"
+    },
+    {
       "id": "40529c93f744",
       "titulo": "Operação da Polícia Civil investiga suspeita de fraude em licitações na Prefeitura de Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQandfMmVlZ2pRcHBra3Zjb0pMaHNad0M1UklZaUMydUg3NzMzT25QQkhBZlNBVy1xSXo3Q3JDTnlNWGNpQ0RFTHJUdGRYS2FPLXRVQ0dPemZKZW1PZXNib0F6V01RZUdlSndGS2pMNTN4MmhkYlp3UUdRN1liYkhoLVdSTDU0V0RsLVZFQWNSMGdmT3hlQkJBcTBQZ3U2VlhLcDF0ak1SWnJEWlJBcnhROWl0Y09MLWd2dnZHVVllb0dUY0FIalRjLW95VjJMTmlvWHhJLVFHazFjbFY5VUNQcFRKWm9odkcxZ19QcHh1cjJ1ZGYt?oc=5",
@@ -100,15 +109,6 @@
       "fonte": "Repórter Guaibense",
       "tipo": "vaga",
       "publicado_em": "2026-10-21T07:00:00+00:00",
-      "feed": "vagas"
-    },
-    {
-      "id": "504af30654cb",
-      "titulo": "Sine Guaíba tem vagas de emprego para diferentes funções e pessoas com deficiência nesta semana",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbTNydzgtcmhXSS1ZR1pQVDFpU0JhUE85b0NtLXBoNDJWOEJIZm1fbHQtdm5QRmNudEVBdWNsQ0Z0WF9CZU1Qc043RG1hdFJkWVFYLUM2T3pwckhOa0xzRjZhTDV5STdvMEx5cEJ3YWY0MFZrekVPUDhMMzM5U051UHc1bktPSzAtZ0padEVGWmRCMUtWTHZaRk0tZmUydTEtcDF1bHhka2lfTDRPU0RCZjBWOVoyeDFyUXp6WlVmZU85cC1Lekp5eU96UVlTcnhFNkU3bFpUbw?oc=5",
-      "fonte": "Repórter Guaibense",
-      "tipo": "vaga",
-      "publicado_em": "2026-10-01T07:00:00+00:00",
       "feed": "vagas"
     }
   ]
