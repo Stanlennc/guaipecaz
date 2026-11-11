@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-11T13:35:21.113415+00:00",
+  "gerado_em": "2026-11-11T21:03:18.795189+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,46 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "fff3797ad870",
-      "titulo": "Ministério Público do RS acompanha avanços da modernização do Plano Diretor de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ministerio-publico-do-rs-acompanha-avancos-da-modernizacao-do-plano-diretor-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2025-01-26T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Órgão recebeu comitiva da prefeitura de Guaíba para a apresentação na sexta-feira"
-    },
-    {
-      "id": "1912430fa261",
-      "titulo": "Escritores e coletivo cultural de Guaíba integram programação da Feira do Livro de Porto Alegre",
-      "url": "https://www.reporterguaibense.com.br/noticia/escritores-e-coletivo-cultural-de-guaiba-integram-programacao-da-feira-do-livro-de-porto-alegre",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2025-01-26T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A programação dos próximos dias contará com lançamentos de livros, sessões de autógrafos e oficina de escrita criativa"
-    },
-    {
-      "id": "fcb1878c62ca",
-      "titulo": "Sine Guaíba oferece cerca de 20 vagas de emprego nesta semana; veja a lista",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-cerca-de-20-vagas-de-emprego-nesta-semana-veja-a-lista",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2025-01-26T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Lista inclui oportunidades para pessoas com deficiência (pcd&#39;s)"
-    },
-    {
-      "id": "d9446b4d2524",
-      "titulo": "Grupo Lebes realiza último evento da turnê de 70 anos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-lebes-realiza-ultimo-evento-da-turne-de-70-anos-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2025-01-26T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A organização preparou atividades para as famílias e sorteio de prêmios neste domingo (8)"
-    },
-    {
       "id": "831fcf5ba47f",
       "titulo": "Lula venceu Flávio Bolsonaro por 50,19% a 49,81% em Guaíba; veja os resultados por local de votação",
       "url": "https://www.reporterguaibense.com.br/noticia/lula-venceu-flavio-bolsonaro-por-50-19-a-49-81-em-guaiba-veja-os-resultados-por-local-de-votacao",
@@ -134,13 +94,14 @@
       "resumo": "Até esta quinta-feira (5), foram arrecadados R$ 15 mil, sendo que a meta é chegar a R$ 40 mil"
     },
     {
-      "id": "3ff2b6494b3f",
-      "titulo": "Acusado de atropelar e matar menino de 10 anos e jovem de 22 na BR-116, em Guaíba, vai a júri popular",
-      "url": "https://www.reporterguaibense.com.br/noticia/acusado-de-atropelar-e-matar-menino-de-10-anos-e-jovem-de-22-na-br-116-em-guaiba-vai-a-juri-popular",
+      "id": "fff3797ad870",
+      "titulo": "Ministério Público do RS acompanha avanços da modernização do Plano Diretor de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ministerio-publico-do-rs-acompanha-avancos-da-modernizacao-do-plano-diretor-de-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
-      "feed": "reporter_direto"
+      "feed": "reporter_direto",
+      "resumo": "Órgão recebeu comitiva da prefeitura de Guaíba para a apresentação na sexta-feira"
     },
     {
       "id": "11822b2ad708",
@@ -173,14 +134,83 @@
       "resumo": "As receitas previstas passam de R$ 757,4 milhões para R$ 712,3 milhões, uma redução de 5,95%"
     },
     {
+      "id": "1912430fa261",
+      "titulo": "Escritores e coletivo cultural de Guaíba integram programação da Feira do Livro de Porto Alegre",
+      "url": "https://www.reporterguaibense.com.br/noticia/escritores-e-coletivo-cultural-de-guaiba-integram-programacao-da-feira-do-livro-de-porto-alegre",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A programação dos próximos dias contará com lançamentos de livros, sessões de autógrafos e oficina de escrita criativa"
+    },
+    {
+      "id": "fcb1878c62ca",
+      "titulo": "Sine Guaíba oferece cerca de 20 vagas de emprego nesta semana; veja a lista",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-cerca-de-20-vagas-de-emprego-nesta-semana-veja-a-lista",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Lista inclui oportunidades para pessoas com deficiência (pcd&#39;s)"
+    },
+    {
+      "id": "d9446b4d2524",
+      "titulo": "Grupo Lebes realiza último evento da turnê de 70 anos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-lebes-realiza-ultimo-evento-da-turne-de-70-anos-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A organização preparou atividades para as famílias e sorteio de prêmios neste domingo (8)"
+    },
+    {
+      "id": "d524e9fef02e",
+      "titulo": "Aos 2 anos, pequeno “marceneiro” de Guaíba conquista a internet com mais de 70 milhões de visualizações",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZnBwV3MtRWktX2V2eVpfbHVhbks1Q3VlbFp5LThGdGdqSzNFVjZJa1VsTjhyNXlhQUJPRkdPOFVGZ1ViZFlneW53eGZ4RFFGdnJ6LVN1QXdNUXFISUdGbHNkRFFORl81cnVKRmpfZ05NejFBaUN2d2E4VFlQc2pUV045MWhxTTdkcWZYZWlkVHlsSWhjNXpjRlNsTlBYVDJLM1pCVVdORDh0a2hhWEpLZnRXYVRVY3ZKd01rQjY4aEtNemVYZjhtWVVNYkZlSFROVTRsVFJQMTUzN3hPNWJ4NXhDSTV3Ykd2UlJTTkdqRmRGeXlmd05CekNRWnUzZw?oc=5",
+      "fonte": "R7",
+      "publicado_em": "2026-11-11T20:29:56+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Aos 2 anos, pequeno “marceneiro” de Guaíba conquista a internet com mais de 70 milhões de visualizações R7"
+    },
+    {
+      "id": "f37c1f6a12f0",
+      "titulo": "Fábrica de celulose à beira do guaíba vai impactar os recursos hídricos, o pampa e os povo indígenas",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ01IdGtienZTUnVQTDlCQUk5UDFPbFJUeGVhdWU2cGE5U3FTZWxCbXRGMi1MUDJHT3RiQUh5d1VsR0Z1ZU83NG9mY1VyaUI4WnVVV3ZvVkhyYWZ6aXFWVjZXMHRzbGdNUld0RkhmUHFuVzhTS3NPbnZvUnY5dVB4VkQtSFBoNFN5UzgyMUlkY0J1MjVVSXBIRFZIckEycjZDdnIyTjNfd2xYSHFUNTg0YXFYcEgzdzJGTW53X3hZc3MxTFdOY2pkMEVXNko2U3lGOXdkUk9R?oc=5",
+      "fonte": "Assufrgs",
+      "publicado_em": "2026-11-11T17:05:43+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Fábrica de celulose à beira do guaíba vai impactar os recursos hídricos, o pampa e os povo indígenas Assufrgs"
+    },
+    {
+      "id": "f50655150d5f",
+      "titulo": "Surto de esporotricose em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdUI3TXNMUElGMUZCbC0wVUNySlNNS1ZuM3owRXg0ODRJRWJJcDFOaU5oRTdNVThUcXl1SzZ6bEFkVXExUnB1NGF2T1RJcHkzcUI2VEtwTUZpd0NnT0puTHJYRXJEa2E1b004MUpPRE9hdTltUW9USXdmUWJncmM1ZmpxZWRZSWp2SHNwbGNxcUhFZG9ldllEanM1VHF3Q0NUTjlGbUlnTDIzcGs0aHhvRmYxTlJFVE1JYVBoR3Bn0gHMAUFVX3lxTE5PT1RVRndYd2hYSGlUUTZ2c2t4SUNveUFqT3VFNEpmQ0ZESWNoR0FfTEJVM09sVkg2S0c1anMzYWtpcmVKYl9seVJjdnlUcnduZHYxNXA4NHRDa2tnZk1SaU8xNTZnM1ByRnFYQjZvMklVQTlmYmg0VW5zSUxsOGMweWdpa1RMZ256X0VKTmFQWVdTdXFxR1V4a0VzYWxJUXFqdVBlOEdwS2RqN1lOaWs0cGZaTHdZS2dVQUdlUE8wdFBqZ1R2eENJd3J0SA?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-11-11T14:28:48+00:00",
+      "categoria": null,
+      "feed": "recentes"
+    },
+    {
       "id": "7ab8a58d0eba",
       "titulo": "Cinco casas ainda resistem às obras da nova ponte do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcXhLdkJvZ0MwdDV5MU1PVXFKbklubDhyVFFZRDd2RVNKZmpteEczOW9VNlpJZlFNcUdicDBadF9fTnBpTFNjSEVkdnpVX3BhWlZGb2lsV3FDZVljQUp4bm43SWpRd0c1SDROTHNpYV9ReE5udl9ZcS1WSDNXeEM0MHgtWTczX1hDQ2VnUGExVEw3dFhWWGVzWlFKQ1hMWkliZkJ2T2N2T0VDeEJhMmJKNjZvNmJlUWU0ZFBPTzFNY1owTDV3RklfdnVNVFZJSHM3RmxyajdtVkYxZEtab01iNW9KUGR4ZTVvWnlSZjZLa2hzSXczRUNN?oc=5",
       "fonte": "GZH",
-      "publicado_em": "2026-11-11T13:06:50+00:00",
+      "publicado_em": "2026-11-11T13:08:30+00:00",
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Cinco casas ainda resistem às obras da nova ponte do Guaíba GZH"
+    },
+    {
+      "id": "775da88edc09",
+      "titulo": "Agentes municipais de saúde visitam estação de tratamento de esgoto de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUk5JVW9vR1RuQ1J4cGlBTDlEOEZRZnJsODJRMlVIc1hxekdoRjVrai16Y0xyT1ROVW14NzRELWZZUnNoQndVMlJUZE5PN0ZFQ2ZQVER0Z1N4eXZMX0o1Yy1EYi1GcVJaOEN5VmdYZnY3a0h3emRPZmQ1Q2lrUEloejRGSlYwaG93cVAxZ2pjR0w5UWZkNC1JYno2YkFqWWJfVjNIOXVJbw?oc=5",
+      "fonte": "CORSAN",
+      "publicado_em": "2026-11-11T12:40:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Agentes municipais de saúde visitam estação de tratamento de esgoto de Guaíba CORSAN"
     },
     {
       "id": "6d071a9f534b",
@@ -221,25 +251,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Condições da BR-116 em Guaíba preocupam motoristas G1"
-    },
-    {
-      "id": "300f034115b9",
-      "titulo": "Surto de esporotricose em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPekZLNmFEQ0t0UENnSGFoa2ZFWnVtbFNlT04xOFNUSGZ4M3BpZ01weVlBUGN0Znp2UUVodnBLdjJqYk9QZ1VvUVhaenZnVUMxQUhFdGdrOU5EWHZleDdvQ2FTRjNsUE9VQ3B2eHFiT0lrOFJjZWpYcWdWWlYyVV9HSEU0VEJrWl9IRUZSN0t3ZmlfUU42UmlocmNad3lMRUZ6M2FVUUpHWDY1TER1cHUzWW84T2V4QlF0YlJJV0ZHTW5WajBiSTN5SzhB0gHKAUFVX3lxTE96Rks2YURDS3RQQ2dIYWhrZkVadW1sU2VPTjE4U1RIZngzcGlnTXB5WUFQY3RmenZRRWh2cEt2MmpiT1BnVW9RWFp6dmdVQzFBSEV0Z2s5TkRYdmV4N29DYVNGM2xQT1VDcHZ4cWJPSWs4UmNlalhxZ1ZaVjJVX0dIRTRUQmtaX0hFRlI3S3dmaV9RTjZSaWhyY1p3eUxFRnozYVVRSkdYNjVMRHVwdTNZbzhPZXhCUXRiUklXRkdNblZqMGJJM3lLOEE?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-11-10T17:46:30+00:00",
-      "categoria": null,
-      "feed": "recentes"
-    },
-    {
-      "id": "09dc59da6ca9",
-      "titulo": "Esta capital nasceu de uma espera: casais açorianos aguardavam terras nas Missões que nunca receberam e ficaram à beira do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdG10RVc4cHdQOFNUVXY4NEN0ajVCUUZiVm5BZC1rMzlVNERmT21tX1M5N2VMV09OMS01U2ctcm05cXRWY3AwRFdtTkVMa2hxeXp4NGlWVUtBeHFnY3o2NmRfR2hUYVBaV0xPTjFvaG40YV8xNnJNQUVvU3VrMzVQRERubWRWVFpiX2Y4NjRWak11U01mZmlOX0VJZ29fSVdBeWtTR1JpRVlhblNDZG5WaHhrN3VrOVhuVzhUb3BmcUpCMFdlcTVhOE9HcEZ6X3dKVHItTmJOYnp3Q19GclpXMTdxTWpPR3dYLWpWZU15WWVoajZwZU1Odi1WNEc0dlRyU21pTWdxY2k?oc=5",
-      "fonte": "Brasil 247",
-      "publicado_em": "2026-11-10T14:15:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Esta capital nasceu de uma espera: casais açorianos aguardavam terras nas Missões que nunca receberam e ficaram à beira do Guaíba Brasil 247"
     },
     {
       "id": "7be17cba04a3",
@@ -360,59 +371,9 @@
       "categoria": null,
       "feed": "google",
       "resumo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno G1"
-    },
-    {
-      "id": "2bf5e8c54fad",
-      "titulo": "GUAIBA Futebol Clube, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWm02QUpLSXd6a096M3hQbG9wZGV6TnlMcE9remtBQUVwMzlPbWpVMDc0VEIwNnlKWjZETjdGTlhaVTRlT1l6X1FJSTFYdlhQTV9zNzhhbFRSdHB3emdzS1pVemVvcnlzdlY1QUt3QTd1a29YcHZ1T2lCSEdja045b3pIbWxsd2pscjdRQ1RBb3laWnp5Rkw0SWNwa09kcXFTS3pxdm14UUpScWhKUlpDbENxT1lzRGh1RElsTEc3TW16RjEzVTNQNjRHMVRLcUNPWTQwOE5PR3gya3NCLWZsU2ZzM3NTQ1FJUmIzM0hZVi1fMmdTZUVzVkpn0gGIAkFVX3lxTE1vcENwczg1MmRCZi1sUGg0cHNoWlQzTE1ya293SVo5YUphNnJhTXNEQW5WWWZuSnZ2ajlaOXhCTE1zdUVvNGwwbmhFaUV3ZTVTNF9mdWZFczdzQ2lEQ1F4bnBEa2gxS3VuMmtGcWJjSDRLSkJFeG82b2RvaHMyNU1jTTJzTlJvY0M3Tlo3U3N0eHF4N1BjRnlOQnBOSXVENTNRRlVCUVl3cWdKR2ZKUldJNkNPV2Z2aC1pdEdVNmpHMUJobWZhbk5LUEgxeDR1aHFtbEQ4WXcyNmxyY2dfbC1nME5aV2sxTGJFZmMwOWQtSkdPdjFMa1hwcERmT2s3cDUwcjk0cVhLcA?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "GUAIBA Futebol Clube, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     }
   ],
   "noticias_home": [
-    {
-      "id": "fff3797ad870",
-      "titulo": "Ministério Público do RS acompanha avanços da modernização do Plano Diretor de Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/ministerio-publico-do-rs-acompanha-avancos-da-modernizacao-do-plano-diretor-de-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2025-01-26T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Órgão recebeu comitiva da prefeitura de Guaíba para a apresentação na sexta-feira"
-    },
-    {
-      "id": "1912430fa261",
-      "titulo": "Escritores e coletivo cultural de Guaíba integram programação da Feira do Livro de Porto Alegre",
-      "url": "https://www.reporterguaibense.com.br/noticia/escritores-e-coletivo-cultural-de-guaiba-integram-programacao-da-feira-do-livro-de-porto-alegre",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2025-01-26T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A programação dos próximos dias contará com lançamentos de livros, sessões de autógrafos e oficina de escrita criativa"
-    },
-    {
-      "id": "fcb1878c62ca",
-      "titulo": "Sine Guaíba oferece cerca de 20 vagas de emprego nesta semana; veja a lista",
-      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-cerca-de-20-vagas-de-emprego-nesta-semana-veja-a-lista",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2025-01-26T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Lista inclui oportunidades para pessoas com deficiência (pcd&#39;s)"
-    },
-    {
-      "id": "d9446b4d2524",
-      "titulo": "Grupo Lebes realiza último evento da turnê de 70 anos em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/grupo-lebes-realiza-ultimo-evento-da-turne-de-70-anos-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2025-01-26T00:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A organização preparou atividades para as famílias e sorteio de prêmios neste domingo (8)"
-    },
     {
       "id": "831fcf5ba47f",
       "titulo": "Lula venceu Flávio Bolsonaro por 50,19% a 49,81% em Guaíba; veja os resultados por local de votação",
@@ -434,13 +395,14 @@
       "resumo": "Até esta quinta-feira (5), foram arrecadados R$ 15 mil, sendo que a meta é chegar a R$ 40 mil"
     },
     {
-      "id": "3ff2b6494b3f",
-      "titulo": "Acusado de atropelar e matar menino de 10 anos e jovem de 22 na BR-116, em Guaíba, vai a júri popular",
-      "url": "https://www.reporterguaibense.com.br/noticia/acusado-de-atropelar-e-matar-menino-de-10-anos-e-jovem-de-22-na-br-116-em-guaiba-vai-a-juri-popular",
+      "id": "fff3797ad870",
+      "titulo": "Ministério Público do RS acompanha avanços da modernização do Plano Diretor de Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/ministerio-publico-do-rs-acompanha-avancos-da-modernizacao-do-plano-diretor-de-guaiba",
       "fonte": "Repórter Guaibense",
       "publicado_em": null,
       "categoria": null,
-      "feed": "reporter_direto"
+      "feed": "reporter_direto",
+      "resumo": "Órgão recebeu comitiva da prefeitura de Guaíba para a apresentação na sexta-feira"
     },
     {
       "id": "11822b2ad708",
@@ -451,6 +413,46 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Em um vídeo publicado nas redes sociais, Mazé mostra os estragos causados pelo incêndio"
+    },
+    {
+      "id": "0e4181da1d9d",
+      "titulo": "Vendedor, balconista, estoquista e mais: Sine Guaíba oferece 14 vagas de emprego nesta quinta-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-balconista-estoquista-e-mais-sine-guaiba-oferece-14-vagas-de-emprego-nesta-quinta-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+    },
+    {
+      "id": "573f8b62e46d",
+      "titulo": "Câmara de Guaíba aprova LDO de 2027 com previsão de queda nas receitas e despesas",
+      "url": "https://www.reporterguaibense.com.br/noticia/camara-de-guaiba-aprova-ldo-de-2027-com-previsao-de-queda-nas-receitas-e-despesas",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "As receitas previstas passam de R$ 757,4 milhões para R$ 712,3 milhões, uma redução de 5,95%"
+    },
+    {
+      "id": "1912430fa261",
+      "titulo": "Escritores e coletivo cultural de Guaíba integram programação da Feira do Livro de Porto Alegre",
+      "url": "https://www.reporterguaibense.com.br/noticia/escritores-e-coletivo-cultural-de-guaiba-integram-programacao-da-feira-do-livro-de-porto-alegre",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A programação dos próximos dias contará com lançamentos de livros, sessões de autógrafos e oficina de escrita criativa"
+    },
+    {
+      "id": "fcb1878c62ca",
+      "titulo": "Sine Guaíba oferece cerca de 20 vagas de emprego nesta semana; veja a lista",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-cerca-de-20-vagas-de-emprego-nesta-semana-veja-a-lista",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Lista inclui oportunidades para pessoas com deficiência (pcd&#39;s)"
     }
   ]
 }
