@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-12T02:41:20.075106+00:00",
+  "gerado_em": "2026-11-12T12:11:26.304955+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -114,16 +114,6 @@
       "resumo": "Em um vídeo publicado nas redes sociais, Mazé mostra os estragos causados pelo incêndio"
     },
     {
-      "id": "0e4181da1d9d",
-      "titulo": "Vendedor, balconista, estoquista e mais: Sine Guaíba oferece 14 vagas de emprego nesta quinta-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-balconista-estoquista-e-mais-sine-guaiba-oferece-14-vagas-de-emprego-nesta-quinta-feira",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
-    },
-    {
       "id": "3019f3de0304",
       "titulo": "Prefeitura de Guaíba esclarece que segunda parcela do 13º salário dos servidores não será parcelada",
       "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-garante-pagamento-do-13-salario-apos-circulacao-de-documento-sobre-parcelamento",
@@ -132,6 +122,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O poder executivo reafirmou que a segunda parcela do benefício deverá ser paga normalmente"
+    },
+    {
+      "id": "0e4181da1d9d",
+      "titulo": "Vendedor, balconista, estoquista e mais: Sine Guaíba oferece 14 vagas de emprego nesta quinta-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-balconista-estoquista-e-mais-sine-guaiba-oferece-14-vagas-de-emprego-nesta-quinta-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
       "id": "573f8b62e46d",
@@ -162,6 +162,26 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A organização preparou atividades para as famílias e sorteio de prêmios neste domingo (8)"
+    },
+    {
+      "id": "25a84d0463ec",
+      "titulo": "Mundialito do Cavalo Crioulo reúne premiação de R$ 95,2 mil e atividades em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb2lNR2p3WktuUk1yRFFmZjh3eUxGMjVLN2RRQUl1U0JBdUZpMzlvSWRQdEJMUVN4Q2xzYmx4RGt2anVTbVFmTzZWY0lGWVdBRGxHa0FuQmR3Ykx0LUV2a0lGMjhXNm9SY0llb0RVTWFEQXMtTW1KalRFSVFnRXMzcFFiOUFmMVlGaFlSUWNkYUJiazRrazVYeng3Nkp4QU95eGhiVDZlakZrMjZjZll3NXgtZGdXQmVhSFVMZE9NNkxCd0hYZG9lQTF6bGxyTU5lbVdPN1hIVVZDZHM?oc=5",
+      "fonte": "Correio do Povo",
+      "publicado_em": "2026-11-12T12:03:51+00:00",
+      "categoria": null,
+      "feed": "correio",
+      "resumo": "Mundialito do Cavalo Crioulo reúne premiação de R$ 95,2 mil e atividades em Guaíba Correio do Povo"
+    },
+    {
+      "id": "64c60944ebd8",
+      "titulo": "Com renda destinada à APAE de Guaíba, 6ª edição do Circuito Eco CMPC será realizada no dia 29 de novembro",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWnhueVFYNGxnOUlKYVlucXNHUjk3bUZKRzN4bGR1TThCY0w3M05RRWFBRDZmVG1FazJhcFdDcEN6MncyNlBld2RpNlJQYXNkT3NpcFJXU3JkX0FoS1ItQVNlME5ISXVyS045bERYWkZtRF9zcV9yUUNBWFNDZ1Q0N3Q2RU4tMkJkUmhaRTNmS0YxODNFbnJDQVYzY2N2bW1rT2ZROGdYMGVhZVFpYzgzci1Zdi1xeFFSdHVxaTA5RGhnOEVGS0xLbDNQY3VHOFNy?oc=5",
+      "fonte": "Portal Celulose",
+      "publicado_em": "2026-11-12T10:28:52+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Com renda destinada à APAE de Guaíba, 6ª edição do Circuito Eco CMPC será realizada no dia 29 de novembro Portal Celulose"
     },
     {
       "id": "b9af45ef946c",
@@ -207,9 +227,9 @@
       "titulo": "Cinco casas ainda resistem às obras da nova ponte do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcXhLdkJvZ0MwdDV5MU1PVXFKbklubDhyVFFZRDd2RVNKZmpteEczOW9VNlpJZlFNcUdicDBadF9fTnBpTFNjSEVkdnpVX3BhWlZGb2lsV3FDZVljQUp4bm43SWpRd0c1SDROTHNpYV9ReE5udl9ZcS1WSDNXeEM0MHgtWTczX1hDQ2VnUGExVEw3dFhWWGVzWlFKQ1hMWkliZkJ2T2N2T0VDeEJhMmJKNjZvNmJlUWU0ZFBPTzFNY1owTDV3RklfdnVNVFZJSHM3RmxyajdtVkYxZEtab01iNW9KUGR4ZTVvWnlSZjZLa2hzSXczRUNN?oc=5",
       "fonte": "GZH",
-      "publicado_em": "2026-11-11T13:08:30+00:00",
+      "publicado_em": "2026-11-11T13:03:18+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Cinco casas ainda resistem às obras da nova ponte do Guaíba GZH"
     },
     {
@@ -221,16 +241,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Agentes municipais de saúde visitam estação de tratamento de esgoto de Guaíba CORSAN"
-    },
-    {
-      "id": "6d071a9f534b",
-      "titulo": "Com renda destinada à APAE de Guaíba, 6ª edição do Circuito Eco CMPC será realizada no dia 29 de novembro",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZm44SVJfU0dyeDV4Q1lRRU9OTXBRaGlJLWg5MFhOOWMtXzM2eGRYMEI4Z2hZNnVJQTdCUzBXYnh3ZXE3Z0s0UW5EVzRMdHZac2oyUFV5WVlKQy12bFF5LTlJRW9HdDExcUgyY1ZPWWlTWFN0aHFqcUZ0THVjeUdFUjA3bGtMMzFUaEZpczQ5RzYyUVBZOHM2TUFjT2pMbm1NeWxDV1AzcWdYN29xVldOQ3dObVVCNG1WRUxlS3BSSDhIODFNZFd5VDRtYlk5V0hlbEtDUDVuRFU4MzY3aXNkdG1RcjBYN0h4OW9YU042bzJSM0FTN1VaQ256R0c?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-11-11T12:37:42+00:00",
-      "categoria": null,
-      "feed": "correio",
-      "resumo": "Com renda destinada à APAE de Guaíba, 6ª edição do Circuito Eco CMPC será realizada no dia 29 de novembro Correio do Povo"
     },
     {
       "id": "496c8a9a9aa2",
@@ -287,20 +297,10 @@
       "titulo": "Homem é morto com mais de 20 tiros em Guaíba, na Região Metropolitana",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb0htLTFMdW1YN19nQXFPRWRndlFjOUVQZUV6WDZJRHFxb1FxdGt6dEFrTjluaEJkV1ZBaEV0eENJMGNQTmdhT2MzOEZjZ2lvMmd6cGE2c1hvN3ZFeDlNc0drZnVTY05iOU52OVNPaTVYQzF2YlVwWWd1YkltOFh1YWEwS0NnaEgzRlBWSVJqdThIUlMtYjFocmFZd3F2ZmlvSDNjd1M5eXlXRmgxRENaV0lLY2pGc3FWWW0tRXJ1NllOQ29JUF94dmpHWWVCREFIRFU4Y3dXeENYNXFTRmNGME8xVXVfNGlPNWprTGxR?oc=5",
       "fonte": "GZH",
-      "publicado_em": "2026-11-09T22:24:55+00:00",
+      "publicado_em": "2026-11-09T22:23:46+00:00",
       "categoria": null,
       "feed": "gzh_metro",
       "resumo": "Homem é morto com mais de 20 tiros em Guaíba, na Região Metropolitana GZH"
-    },
-    {
-      "id": "29568e70c7c4",
-      "titulo": "Com renda destinada à Apae, estão abertas inscrições para corrida de rua em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQc0Fha2dRT1dQOVVlUlBERFlFM1hIUkpab01MZlRiVUFNRHZnWFc1bm9mejQ0TjA5NjZfbWs4WjFpNERTM29jTFgyN051UzZjaVk2bE5NNUxaV3VSNnQxYmx3ekxkaTBVdEt1Y3lrWTNvaVBZTU1VaDJ0VGNHLVhzSC0wSHZwV2t0djNrMlVrc2NxanNDS1Fmb0NrMTEzMGFid29aSTgzMUotWm4xSVV2UTZka05OQy1mNG5XMms5UVJicExPc1licHlpM1AxWE92TzBRbzE3eFJORjBLWFVJTFV0RmRNamltOHlyYnZxLWlHazR4djVjeTQtUmh5UQ?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-11-09T21:05:49+00:00",
-      "categoria": null,
-      "feed": "gzh_metro",
-      "resumo": "Com renda destinada à Apae, estão abertas inscrições para corrida de rua em Guaíba GZH"
     },
     {
       "id": "70c1ef8af5dc",
@@ -313,16 +313,6 @@
       "resumo": "Com renda destinada à APAE de Guaíba, inscrições para a 6ª edição do Circuito Eco CMPC serão abertas na segunda-feira Jornal da Capital"
     },
     {
-      "id": "71a0536d9dbd",
-      "titulo": "Inscrições para o Circuito Eco CMPC estão oficialmente abertas; arrecadações serão destinadas à APAE de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNEdFSFNlTUxIWmtaeGF4aEVjVDVTeFhqYTN2VzhYekExZmtpd2N0MjE2cDdsMFk3LW5wT0I5UGNlcnZ0bjZ6am9KX0RCaVRSMXdKQmluMnIxeDRtRFdOTmRWeVhFci0zajZGRFdBMEcyU3pnTGZISFA3OFVRVTJqdGtWYnY4VXdNSTJDNllNRWFuYUlsT0Vfa2o1MHJLUDZqQkJYcTU1SWtYYTl2ckN3TDEybGNsWW1jTHc0alhDUXBsU1F5aFJMZnlIVC00RGdkc0ZMRzVTMm5GVHA2cTY4NEdZN05jd3dwYkd0T2V3?oc=5",
-      "fonte": "Jornal Tradição Regional",
-      "publicado_em": "2026-11-09T14:12:29+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Inscrições para o Circuito Eco CMPC estão oficialmente abertas; arrecadações serão destinadas à APAE de Guaíba Jornal Tradição Regional"
-    },
-    {
       "id": "f26da160192b",
       "titulo": "HOJE NO CIDADE ALERTA ÀS 18H | Record Guaíba#shorts",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0pabzJNeEZBdERnSTE1ajJNdHRkSm1GamgyVF9rVDVkYldTMGhxbjNEUmRsUkVDdUJMa19jQTVmMzdIai1mYVUwRGM2amFvcTRBaUFodEQzcVU3ZmtVZXlZVTJuSmllNG80cHRRZ2lRSmNqWVRyT1U1cUdYdk4tSnZZN2VZQlppZkRFaGJ5NUxLU1plMk00TjFSV1AwRlJyV0E?oc=5",
@@ -331,6 +321,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "HOJE NO CIDADE ALERTA ÀS 18H | Record Guaíba#shorts R7"
+    },
+    {
+      "id": "08e2696ebaf0",
+      "titulo": "Guaíba Revista: 3 meses da volta de um dos mais tradicionais programas do rádio gaúcho",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGRXZUFEcVA3VHVQWGhESkVzWThHQ2pZQTB0Mmk4TEFEQ0g5TG1aT3ZsYndGMXVBR3NMTHZpdWJnQjRlVGpoN2xiZko2UW1RSVduQlByYmp2dUhKd1VrUGlYYkhpZXpLa1c2ZUg2RlZrWmNyU01BQTlQUjVzV3d2bk9pNXByMWptVDJGd2VId0FmLW84eW45dVhqZ1lJR2l1Q3pwcGZOQnZPU2NL?oc=5",
+      "fonte": "Rádio Guaíba",
+      "publicado_em": "2026-11-06T14:29:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Guaíba Revista: 3 meses da volta de um dos mais tradicionais programas do rádio gaúcho Rádio Guaíba"
     },
     {
       "id": "4e81dfe202b1",
@@ -363,14 +363,14 @@
       "resumo": "Guaíba (RS): resultado do local de votação por zonas eleitorais no 2º turno G1"
     },
     {
-      "id": "2bf5e8c54fad",
-      "titulo": "GUAIBA Futebol Clube, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWm02QUpLSXd6a096M3hQbG9wZGV6TnlMcE9remtBQUVwMzlPbWpVMDc0VEIwNnlKWjZETjdGTlhaVTRlT1l6X1FJSTFYdlhQTV9zNzhhbFRSdHB3emdzS1pVemVvcnlzdlY1QUt3QTd1a29YcHZ1T2lCSEdja045b3pIbWxsd2pscjdRQ1RBb3laWnp5Rkw0SWNwa09kcXFTS3pxdm14UUpScWhKUlpDbENxT1lzRGh1RElsTEc3TW16RjEzVTNQNjRHMVRLcUNPWTQwOE5PR3gya3NCLWZsU2ZzM3NTQ1FJUmIzM0hZVi1fMmdTZUVzVkpn0gGIAkFVX3lxTE1vcENwczg1MmRCZi1sUGg0cHNoWlQzTE1ya293SVo5YUphNnJhTXNEQW5WWWZuSnZ2ajlaOXhCTE1zdUVvNGwwbmhFaUV3ZTVTNF9mdWZFczdzQ2lEQ1F4bnBEa2gxS3VuMmtGcWJjSDRLSkJFeG82b2RvaHMyNU1jTTJzTlJvY0M3Tlo3U3N0eHF4N1BjRnlOQnBOSXVENTNRRlVCUVl3cWdKR2ZKUldJNkNPV2Z2aC1pdEdVNmpHMUJobWZhbk5LUEgxeDR1aHFtbEQ4WXcyNmxyY2dfbC1nME5aV2sxTGJFZmMwOWQtSkdPdjFMa1hwcERmT2s3cDUwcjk0cVhLcA?oc=5",
+      "id": "3ae490d5ffbc",
+      "titulo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOUV5QzR3WkRRQTVzc1lvVkhhd2xiSGdMT1FmZGZrNmNDVVlyX1lVM3FEWEJacXAzbV9neHhEQVFhTGRjNWFBN183WXpqUHFrQTBBaWVXYk9Ya3h6bVNZLUFIcHdPX05rNWFzNWMyeEZJa2ZuRHZReVdiS251T3dSUXhnYmdCdS1nbWVMVWhMbzhtVDFQY1lKcnRsTXZ0U3hYakZFVjZCekpCQW44ZEpycGJORjd3ZUFKVUVINDFBUG5JUkFLOGhHeWw5UXk4dkZ1TWcxMEFxT3lOOUZlMzRRTmRHOVV5dUFqaTFaYTlmT0ZVTHg3MWlkeXN5a2vSAYsCQVVfeXFMTXRFMFhUcVhPTG4xbXhING5rLW5hMmJvN2lCaHQwU01xOHQwWk5RaVRqT0Q2dFBCNkp3Y1NLR3NMYWJXWENodmZKWUtiNGp6d0lxRHkyZ2ZZaEpFenRGZjhzaWpCODRRZ2lBc21fQnhqQ2pDcDhFOFNkeDdJcXE5eGxpcFZEWDNWNVAzM3BFOEl6akEyLWpsYWRranNkNUhfYmk0YW9sSGdNZ3c0SzFYQzBkU0JBcHljeUdLcE80NS15TVN2bjc1dWJtb0E5WXRtVFdIX2hnNVJXZm9vR05zQWU4LWEteGNGZ3MwSlAwVUtnbGlkazdPWVFCN0hoMEdfNXJBemhhNUszMlNR?oc=5",
       "fonte": "G1",
       "publicado_em": "2026-10-26T07:00:00+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "GUAIBA Futebol Clube, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+      "resumo": "E.M.E.F. Santa Catarina, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     }
   ],
   "noticias_home": [
@@ -415,16 +415,6 @@
       "resumo": "Em um vídeo publicado nas redes sociais, Mazé mostra os estragos causados pelo incêndio"
     },
     {
-      "id": "0e4181da1d9d",
-      "titulo": "Vendedor, balconista, estoquista e mais: Sine Guaíba oferece 14 vagas de emprego nesta quinta-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-balconista-estoquista-e-mais-sine-guaiba-oferece-14-vagas-de-emprego-nesta-quinta-feira",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
-    },
-    {
       "id": "3019f3de0304",
       "titulo": "Prefeitura de Guaíba esclarece que segunda parcela do 13º salário dos servidores não será parcelada",
       "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-garante-pagamento-do-13-salario-apos-circulacao-de-documento-sobre-parcelamento",
@@ -433,6 +423,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "O poder executivo reafirmou que a segunda parcela do benefício deverá ser paga normalmente"
+    },
+    {
+      "id": "0e4181da1d9d",
+      "titulo": "Vendedor, balconista, estoquista e mais: Sine Guaíba oferece 14 vagas de emprego nesta quinta-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-balconista-estoquista-e-mais-sine-guaiba-oferece-14-vagas-de-emprego-nesta-quinta-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
       "id": "573f8b62e46d",
