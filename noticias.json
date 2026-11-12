@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-11T21:03:18.795189+00:00",
+  "gerado_em": "2026-11-12T02:41:20.075106+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -124,6 +124,16 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
+      "id": "3019f3de0304",
+      "titulo": "Prefeitura de Guaíba esclarece que segunda parcela do 13º salário dos servidores não será parcelada",
+      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-garante-pagamento-do-13-salario-apos-circulacao-de-documento-sobre-parcelamento",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O poder executivo reafirmou que a segunda parcela do benefício deverá ser paga normalmente"
+    },
+    {
       "id": "573f8b62e46d",
       "titulo": "Câmara de Guaíba aprova LDO de 2027 com previsão de queda nas receitas e despesas",
       "url": "https://www.reporterguaibense.com.br/noticia/camara-de-guaiba-aprova-ldo-de-2027-com-previsao-de-queda-nas-receitas-e-despesas",
@@ -132,16 +142,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "As receitas previstas passam de R$ 757,4 milhões para R$ 712,3 milhões, uma redução de 5,95%"
-    },
-    {
-      "id": "1912430fa261",
-      "titulo": "Escritores e coletivo cultural de Guaíba integram programação da Feira do Livro de Porto Alegre",
-      "url": "https://www.reporterguaibense.com.br/noticia/escritores-e-coletivo-cultural-de-guaiba-integram-programacao-da-feira-do-livro-de-porto-alegre",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A programação dos próximos dias contará com lançamentos de livros, sessões de autógrafos e oficina de escrita criativa"
     },
     {
       "id": "fcb1878c62ca",
@@ -162,6 +162,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "A organização preparou atividades para as famílias e sorteio de prêmios neste domingo (8)"
+    },
+    {
+      "id": "b9af45ef946c",
+      "titulo": "Justiça determina que a Prefeitura de Guaíba adote medidas contra surto de doença animal causada por fungo",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVnBrdWU4Y01zYTVNRU1yajgyN08xREhlV0NtWlpCMXJYR2pjWml2RjdsdUFFbEZpOXlUM2JHanVKazRMTFJIbVVYcHB1bllKelNrQWNlbHZMeVpmR1N1MjlLNDlFdU1rcmEwb2thakNtc1dZa0JuVDFld3A2S0VPZzM5YlZoSjBGYWR2b0swNHdOX05pbzU5djRIcjZkMnV5SEpSVHJtS1dlb0RKNmthM3QtTFhvbzREeHpDNURQaVNkb0toRlFnV3h5bmZGcnJwUHI0?oc=5",
+      "fonte": "Rádio Pampa",
+      "publicado_em": "2026-11-11T23:34:22+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Justiça determina que a Prefeitura de Guaíba adote medidas contra surto de doença animal causada por fungo Rádio Pampa"
     },
     {
       "id": "d524e9fef02e",
@@ -233,24 +243,24 @@
       "resumo": "JUSTIÇA DÁ DEZ DIAS PARA GUAÍBA GARANTIR MEDICAMENTOS CONTRA ESPOROTRICOSE EM GATOS radiocaicara.com.br"
     },
     {
-      "id": "ee29757e2167",
-      "titulo": "Grupo Lebes encerrou 'Turnê Lebes – 70 anos, 70 shows' com evento especial em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxdy1iWFBZUXlYQ01RcU1aVlg3RWQ1TTZZT3VxQUMxVzBpRk9ocTBIY0pWWUg1VjBZUFpFLWdTWTNMNndPZWRRQUEwMUhncm1Sc2N3eWtPRk9EZGpDSUJMNWN4eVpqbnRYU21EQ0RB?oc=5",
-      "fonte": "Consumidor RS",
-      "publicado_em": "2026-11-11T02:01:13+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Grupo Lebes encerrou 'Turnê Lebes – 70 anos, 70 shows' com evento especial em Guaíba Consumidor RS"
-    },
-    {
-      "id": "4b0695295d2e",
+      "id": "2df7b7caae0f",
       "titulo": "Condições da BR-116 em Guaíba preocupam motoristas",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS1hkUzlOLWlybHJQYTlCOElDWmRpUkVQY1NEdzFMazFDZ2lfNU9WUnBkSjljLWJvYjl0OHJpTHVYMmxzdl9taUJMSGlBeUpKMzR2ZUpjb0RYeDBZdkZ1bzQ0UjZkT1hLS2dMTnk3UGVtaHVFSFctNWpFalJQNmpYM0JLdUNBaWEyLXpBdVdTbjQwdW91bElLTVdBMXZVYzZ0VnMyOF8zQk1tVEExS3pZOURpTXJOMkVvdVIyTEVpdVZrdDRWWGNFamFhcGhfUdIB3AFBVV95cUxNNHBrWE13VVpNT1JnalNQbmRnLURnbEktZXJmTk5Ic0FVb0JUVHVYMmYza0d1MzZaOFFGakhBM0R3WWxsaUUtaWFyZUdVUnQwTElHVV9HdnZ6ekxDSVRBWUlaT2hrQ1BtTlM2U1Q4SnB1dmY2Y0lqRDBQNkFrMlU5R0hJbEdZZ0RIVWFxVTFjSlE5bFF1RGRUZ3FLV09hMUc4NXVNNkFhY2NFR09pQWF1U1Q5QVh3akN1VC1TMkZBMXJwRmFDajUxZUxuN0pBR19MNVNuM1VOSHVzZ3Yw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNHBrWE13VVpNT1JnalNQbmRnLURnbEktZXJmTk5Ic0FVb0JUVHVYMmYza0d1MzZaOFFGakhBM0R3WWxsaUUtaWFyZUdVUnQwTElHVV9HdnZ6ekxDSVRBWUlaT2hrQ1BtTlM2U1Q4SnB1dmY2Y0lqRDBQNkFrMlU5R0hJbEdZZ0RIVWFxVTFjSlE5bFF1RGRUZ3FLV09hMUc4NXVNNkFhY2NFR09pQWF1U1Q5QVh3akN1VC1TMkZBMXJwRmFDajUxZUxuN0pBR19MNVNuM1VOSHVzZ3Yw0gHcAUFVX3lxTE00cGtYTXdVWk1PUmdqU1BuZGctRGdsSS1lcmZOTkhzQVVvQlRUdVgyZjNrR3UzNlo4UUZqSEEzRHdZbGxpRS1pYXJlR1VSdDBMSUdVX0d2dnp6TENJVEFZSVpPaGtDUG1OUzZTVDhKcHV2ZjZjSWpEMFA2QWsyVTlHSElsR1lnREhVYXFVMWNKUTlsUXVEZFRncUtXT2ExRzg1dU02QWFjY0VHT2lBYXVTVDlBWHdqQ3VULVMyRkExcnBGYUNqNTFlTG43SkFHX0w1U24zVU5IdXNndjA?oc=5",
       "fonte": "G1",
       "publicado_em": "2026-11-11T00:49:03+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "Condições da BR-116 em Guaíba preocupam motoristas G1"
+    },
+    {
+      "id": "09dc59da6ca9",
+      "titulo": "Esta capital nasceu de uma espera: casais açorianos aguardavam terras nas Missões que nunca receberam e ficaram à beira do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdG10RVc4cHdQOFNUVXY4NEN0ajVCUUZiVm5BZC1rMzlVNERmT21tX1M5N2VMV09OMS01U2ctcm05cXRWY3AwRFdtTkVMa2hxeXp4NGlWVUtBeHFnY3o2NmRfR2hUYVBaV0xPTjFvaG40YV8xNnJNQUVvU3VrMzVQRERubWRWVFpiX2Y4NjRWak11U01mZmlOX0VJZ29fSVdBeWtTR1JpRVlhblNDZG5WaHhrN3VrOVhuVzhUb3BmcUpCMFdlcTVhOE9HcEZ6X3dKVHItTmJOYnp3Q19GclpXMTdxTWpPR3dYLWpWZU15WWVoajZwZU1Odi1WNEc0dlRyU21pTWdxY2k?oc=5",
+      "fonte": "Brasil 247",
+      "publicado_em": "2026-11-10T14:15:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Esta capital nasceu de uma espera: casais açorianos aguardavam terras nas Missões que nunca receberam e ficaram à beira do Guaíba Brasil 247"
     },
     {
       "id": "7be17cba04a3",
@@ -313,16 +323,6 @@
       "resumo": "Inscrições para o Circuito Eco CMPC estão oficialmente abertas; arrecadações serão destinadas à APAE de Guaíba Jornal Tradição Regional"
     },
     {
-      "id": "576c7e898b3d",
-      "titulo": "Dnit vai executar limpeza em pontes, passarelas e viadutos entre Camaquã e Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVhxSWZuY2JsRWR0LVIyVDJmQlVua1dOOFdIZjlkRURkT3dXcEItbDVBb0lIVGxhWklhVmJmdHJVRE13UHQ4cXl3SGh0Zlo4d3BxX2RCdjFDa08wOExiQWxVV1I5aXBzSkxkTmV4SlVYTGtOaElTMFN6NVg3bU5TVHJ1bjhCN3M4dm94NXpwdEtBalUzS0wtTmJHakVxTVZDQ2xUOWstcWNnaGtGVkZ2andmOG53Vzg2UndrNFhZY2RlQm95bGo00gHMAUFVX3lxTE9MemJWaFFOa2ZMam1yNHc5SDVnY0ROVWVLaWFfMExFVUZaak0xMjBMU1dlNHlGVEY1V0liVTlDSnVOVHFBVm5qLVJmcnU0NC1meWFMT2VEcmNxRzZyWEI2VllWNWx4MXpad0ZmdlhRTFQtanpjYUdUa0hQbmZlanVRVVJmb0RrQkdndFUzNmN3M0xkZjRHU3NFdXQzaXNkOTI1cWxENDdCa2tlYjhKV0o1NnBnNWh6VTJnQ3NKbUQ5b3U4ckJCZnppbUFkOA?oc=5",
-      "fonte": "Blog do Juares",
-      "publicado_em": "2026-11-07T12:38:04+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Dnit vai executar limpeza em pontes, passarelas e viadutos entre Camaquã e Guaíba Blog do Juares"
-    },
-    {
       "id": "f26da160192b",
       "titulo": "HOJE NO CIDADE ALERTA ÀS 18H | Record Guaíba#shorts",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0pabzJNeEZBdERnSTE1ajJNdHRkSm1GamgyVF9rVDVkYldTMGhxbjNEUmRsUkVDdUJMa19jQTVmMzdIai1mYVUwRGM2amFvcTRBaUFodEQzcVU3ZmtVZXlZVTJuSmllNG80cHRRZ2lRSmNqWVRyT1U1cUdYdk4tSnZZN2VZQlppZkRFaGJ5NUxLU1plMk00TjFSV1AwRlJyV0E?oc=5",
@@ -331,16 +331,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "HOJE NO CIDADE ALERTA ÀS 18H | Record Guaíba#shorts R7"
-    },
-    {
-      "id": "b6aa43b71869",
-      "titulo": "Grupo Hospitalar Conceição comemora 70 anos com corrida de rua na orla do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQnlpVmpiekhoQVNyb0puMC1KRkVIeE12TUFzVU1vRmNhMm9aSEtzSEFJdVBBM2lwV21FMFhqbFh2cVZkYkZJbkNMNUNyZFhndjRMLThZLTZ2U2hRNmkwZk1USDVPbVJjZmxPX2JwcjRPM1h6MERlLVJDQURGVzJfTlpRZzBBZXZva28yMjd1VzdHS3gzZUhHcUwtTExhZ211dE1FZDBxWUpIQ09VMVhsVS1UVlJkV21qVm1ZWDZoRHpReWppYXNHakh0SWhVNmVHcGoyeHY0NWdRMmxGQVd0Q2NZZlpKUXpNTmdfZnhPTnZrdldvMWlYVGtHZldFTUxDWmc?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-11-06T12:25:41+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Grupo Hospitalar Conceição comemora 70 anos com corrida de rua na orla do Guaíba GZH"
     },
     {
       "id": "4e81dfe202b1",
@@ -353,6 +343,16 @@
       "resumo": "Lula vence a eleição presidencial em Guaíba (RS) Congresso em Foco"
     },
     {
+      "id": "4e3c538c989e",
+      "titulo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRHRmYkRxTlBiZlJFYnlmWXF5ckEzMk0xTTU5U0NlS1d2N0xhT2JrdEFreFZQM0FpMEFHaGpXU2txLXNQTlNqRXBGUEI3dHY1dW1laUREdFBwMjI3Y2FXanlaSGRGcm02aGxCeUxHNXc2ckpEX3FOc21FaE9WUGVBenJpdHZaMEUtWFJjUUljeXQ3VE5tMDVQN0FfWFdTZVFxOFg5UGRjaUxjU09WMjUtWlJzZEhLYndMRlBjX0lEOEZVbU81dHR2Y3A3Q2UybU5PNEdmN1VzNXdYUExrTTNOREZzU0tNZ9IB9AFBVV95cUxOZ3V3b0dMV0NISlp5N0wySUNRYXBhQVNjRWtqeXZrSmRsc1E2dG9yT1V3cEY5a0tuUFNQMnRNWnJyWWV4c2g3c1E2dW9rTF9VdFAzTElrVl9zbFBzblBkbHBBZ3k0MU8tX1JfWG01aVZTaGl4QlNtaEpEeml4SjIycmJqMkhqR0VLcVpPOGVIcEhXZnpvN3pxNmVJSC13QXpGUWxaaWtWbUFmNDJqcGlHdGFDblRGWktPeXBrVDVFamhlUFdNSllQeVUwSDAxVENTb3g3QXRJVTU2OGhDTDZJMUF4TDRZVHZUQnhvRjExdmJxaWlV?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-10-26T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno G1"
+    },
+    {
       "id": "cc32b7d0ef88",
       "titulo": "Guaíba (RS): resultado do local de votação por zonas eleitorais no 2º turno",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONmE0SEhIUEJHakJZbHRDYlpIN29tdHFsZDNnVVFkakNxdUlNU0k2bGxick5BeU05NTFKYlg4UklxbUJCWVc5UGRGeEVUelFSTnlGM0p0ZWZJRXowS3JXZFMzYXZBNmNqdm1ZVzN2QUVCQ01VWXhISEFUTU8zSi1tcGFrc1VpdWhKdG5qaFFKU1FQMmFMbk9ZVEIyZ3N2RVVIcTU4R0JBYlpMd0hrYUhzMXI3Mk1ZNjh1ZXpGdXBxR0ZCTVNYSkFENG1XemdqblhjaVNxb01EMDNuaFdZWnkwT3BGNDdlcm5t0gH3AUFVX3lxTFBSOG9QTGdwTmlJVFdHbDN4NmM2RndMVXdkMlFpNUVvWTFibXloUW5nR2NkTWR3bUhoa1ZING90alYxRzRxcWNkQzNyUnlpLTZqUHZ0NEhPUFJuc2tpTFU1eDEySHZoeEZYdU5WdWtPNUpBRjBzaE5ZamlIaDhmdEtfWGVhRlZDOTdkX29NOG5KOEFZUFluQUt5eXNfSHItbXE5elFXZEpQRVpYYUc4YnBsZllOUjBMMVhWTDV4WlBqU1d2b1NoSGotbzVlS0F2bUNOM253RU1QTl9rWGhQVjE4OEFXRVdyQm9nQWNEOHMxSGhHUFBqOUU?oc=5",
@@ -363,14 +363,14 @@
       "resumo": "Guaíba (RS): resultado do local de votação por zonas eleitorais no 2º turno G1"
     },
     {
-      "id": "4e3c538c989e",
-      "titulo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRHRmYkRxTlBiZlJFYnlmWXF5ckEzMk0xTTU5U0NlS1d2N0xhT2JrdEFreFZQM0FpMEFHaGpXU2txLXNQTlNqRXBGUEI3dHY1dW1laUREdFBwMjI3Y2FXanlaSGRGcm02aGxCeUxHNXc2ckpEX3FOc21FaE9WUGVBenJpdHZaMEUtWFJjUUljeXQ3VE5tMDVQN0FfWFdTZVFxOFg5UGRjaUxjU09WMjUtWlJzZEhLYndMRlBjX0lEOEZVbU81dHR2Y3A3Q2UybU5PNEdmN1VzNXdYUExrTTNOREZzU0tNZ9IB9AFBVV95cUxOZ3V3b0dMV0NISlp5N0wySUNRYXBhQVNjRWtqeXZrSmRsc1E2dG9yT1V3cEY5a0tuUFNQMnRNWnJyWWV4c2g3c1E2dW9rTF9VdFAzTElrVl9zbFBzblBkbHBBZ3k0MU8tX1JfWG01aVZTaGl4QlNtaEpEeml4SjIycmJqMkhqR0VLcVpPOGVIcEhXZnpvN3pxNmVJSC13QXpGUWxaaWtWbUFmNDJqcGlHdGFDblRGWktPeXBrVDVFamhlUFdNSllQeVUwSDAxVENTb3g3QXRJVTU2OGhDTDZJMUF4TDRZVHZUQnhvRjExdmJxaWlV?oc=5",
+      "id": "2bf5e8c54fad",
+      "titulo": "GUAIBA Futebol Clube, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWm02QUpLSXd6a096M3hQbG9wZGV6TnlMcE9remtBQUVwMzlPbWpVMDc0VEIwNnlKWjZETjdGTlhaVTRlT1l6X1FJSTFYdlhQTV9zNzhhbFRSdHB3emdzS1pVemVvcnlzdlY1QUt3QTd1a29YcHZ1T2lCSEdja045b3pIbWxsd2pscjdRQ1RBb3laWnp5Rkw0SWNwa09kcXFTS3pxdm14UUpScWhKUlpDbENxT1lzRGh1RElsTEc3TW16RjEzVTNQNjRHMVRLcUNPWTQwOE5PR3gya3NCLWZsU2ZzM3NTQ1FJUmIzM0hZVi1fMmdTZUVzVkpn0gGIAkFVX3lxTE1vcENwczg1MmRCZi1sUGg0cHNoWlQzTE1ya293SVo5YUphNnJhTXNEQW5WWWZuSnZ2ajlaOXhCTE1zdUVvNGwwbmhFaUV3ZTVTNF9mdWZFczdzQ2lEQ1F4bnBEa2gxS3VuMmtGcWJjSDRLSkJFeG82b2RvaHMyNU1jTTJzTlJvY0M3Tlo3U3N0eHF4N1BjRnlOQnBOSXVENTNRRlVCUVl3cWdKR2ZKUldJNkNPV2Z2aC1pdEdVNmpHMUJobWZhbk5LUEgxeDR1aHFtbEQ4WXcyNmxyY2dfbC1nME5aV2sxTGJFZmMwOWQtSkdPdjFMa1hwcERmT2s3cDUwcjk0cVhLcA?oc=5",
       "fonte": "G1",
       "publicado_em": "2026-10-26T07:00:00+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno G1"
+      "resumo": "GUAIBA Futebol Clube, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     }
   ],
   "noticias_home": [
@@ -425,6 +425,16 @@
       "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
+      "id": "3019f3de0304",
+      "titulo": "Prefeitura de Guaíba esclarece que segunda parcela do 13º salário dos servidores não será parcelada",
+      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-garante-pagamento-do-13-salario-apos-circulacao-de-documento-sobre-parcelamento",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O poder executivo reafirmou que a segunda parcela do benefício deverá ser paga normalmente"
+    },
+    {
       "id": "573f8b62e46d",
       "titulo": "Câmara de Guaíba aprova LDO de 2027 com previsão de queda nas receitas e despesas",
       "url": "https://www.reporterguaibense.com.br/noticia/camara-de-guaiba-aprova-ldo-de-2027-com-previsao-de-queda-nas-receitas-e-despesas",
@@ -433,16 +443,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "As receitas previstas passam de R$ 757,4 milhões para R$ 712,3 milhões, uma redução de 5,95%"
-    },
-    {
-      "id": "1912430fa261",
-      "titulo": "Escritores e coletivo cultural de Guaíba integram programação da Feira do Livro de Porto Alegre",
-      "url": "https://www.reporterguaibense.com.br/noticia/escritores-e-coletivo-cultural-de-guaiba-integram-programacao-da-feira-do-livro-de-porto-alegre",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "A programação dos próximos dias contará com lançamentos de livros, sessões de autógrafos e oficina de escrita criativa"
     },
     {
       "id": "fcb1878c62ca",
