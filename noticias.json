@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-13T19:13:36.926410+00:00",
+  "gerado_em": "2026-11-14T00:40:10.127732+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -154,14 +154,24 @@
       "resumo": "Situação atual da rede foi tema da reunião-palestra do Rotary Club de Guaíba, na última terça-feira"
     },
     {
+      "id": "c6b694c1fa55",
+      "titulo": "Centauros encara o Guaíba em amistoso neste sábado - Jornal",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVhhVGRRb1BCRVNXVnI1Vm5GcG9WdVhjYzlvRUdxVktyeGVXcTU1RXVlUDItTWdHbFBjRjNnUVh3UnRZRHJ6TlJwMEYzdnlaazBGVWZ3aTB3b04yTEVlVnlrZl9mUFNNS0JGVnhlLVBuTjRrSFZJQzF6eHRxMmY4bkZkbTdlZVpzZUZJbHBTWFp0ZXdzcWVXVWJQazhCSG8?oc=5",
+      "fonte": "Jornal - Folha Popular",
+      "publicado_em": "2026-11-13T21:15:42+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Centauros encara o Guaíba em amistoso neste sábado Jornal - Folha Popular"
+    },
+    {
       "id": "33a38b647d7a",
       "titulo": "Trecho 2 da orla do Guaíba perde orquestra e não deve ter obras antes de 2028",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOV2MwZEZrRzdaVU5Kd1hPTXFxWGdCY0pUVENuS1MyZ1FHemV2d1NWTlBucDl0TU5WM203MzNZbXItY0plc3NkRTZkMXpveEpxVkg4NFBjZ2o1ckt2b3N0VzU5MUdYamtoZUdWS3VQTEs3bnc1WkpmaDVZOFVqRXFwSVVZNE9GakUtMTh2OWx1N3otVG9JS21tLWZiZFNta09zOFJsMk9GVzVhQjdRcHByZS1HTS1YdGtjN01peTJJdUE3UDNhOXlWSVhBYTNlSWptMFZhR242b2lLQ1pWZzhWWFg3bk1UOUdScDNRTTQ5ZVJHSEUyOUw0N3dOWHFSUnV0TG53N1JER1AxZTlKRHBJ?oc=5",
-      "fonte": "clicRBS",
+      "fonte": "GZH",
       "publicado_em": "2026-11-13T17:35:30+00:00",
       "categoria": null,
-      "feed": "gzh_metro",
-      "resumo": "Trecho 2 da orla do Guaíba perde orquestra e não deve ter obras antes de 2028 clicRBS"
+      "feed": "recentes",
+      "resumo": "Trecho 2 da orla do Guaíba perde orquestra e não deve ter obras antes de 2028 GZH"
     },
     {
       "id": "65c1faa0a468",
@@ -227,31 +237,11 @@
       "id": "b401837ec921",
       "titulo": "Após surto em animais, prefeitura de Guaíba confirma 25 casos de doença transmitida de gatos para humanos",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOLU5id1pVVWtJcWtKQi05Y2ZxdkVaWkVWbHhtenBVd0FycEk4RnROcWh3emNRb2hPMkM1SjJIeDNPM2R2Z1VzYkhqY2VzUEl5Qml0SHRyLVhseklvczhDS1dJbVRMNEU4c2JCdUR0LW92YmpUQTBDT05kbkRkMWVQYkRYdzlMLXo5bXNkejJyQXo1ZGhRSlhudFpwUm5OMERTUjVvbk03d2lyM3NyWFhOWkNPZW9XYTNrd1BQdWMtVVlKdXo1djNvTEs4R1BJTVh5clZEWmhWOUxlVlJHQVk3S3NtUk1oVFdiQkFCVWJta1oyMnhqTmluVi00MldEczBNUEFDbGVXYy12YlZ2bTRrM0JhYVNBVHJG?oc=5",
-      "fonte": "clicRBS",
+      "fonte": "GZH",
       "publicado_em": "2026-11-13T01:35:04+00:00",
       "categoria": null,
       "feed": "gzh_metro",
-      "resumo": "Após surto em animais, prefeitura de Guaíba confirma 25 casos de doença transmitida de gatos para humanos clicRBS"
-    },
-    {
-      "id": "17ca72cba4b3",
-      "titulo": "Natal Alegre 2026 transforma o Cais Embarcadero em um grande cenário natalino às margens do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbWNmckp3QUFlYjlsUUxxVlhFM3dRTGRiTVVFNnBsajZHYzlZZTJpS09ZUkxjNUZqV1k2eDNSMHExZmM4RzRyZ3ladGlSWmhfUjZzMTRxLWlzM18zTmFDVlY5SFFCbnZpMVpISUhUblJ5NFdPUGJxWEd5Y0pHSTZYSmFXaHZKd2RIYUlwMGt4TDM3anZjQkhZM252UWdaS2VOSnRONmVDemtFdEwzVXJJRjlXSm9SOXN5ZTF0ZmdtVGdKa1M5bHJLcEZsdHNFUnp1Yk56Z2U3N3J6MXVMRUVzVnZGeU1jNDA?oc=5",
-      "fonte": "Super Transado",
-      "publicado_em": "2026-11-12T15:28:44+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Natal Alegre 2026 transforma o Cais Embarcadero em um grande cenário natalino às margens do Guaíba Super Transado"
-    },
-    {
-      "id": "4c9041efc0ba",
-      "titulo": "Cinco casas resistem à obra da nova ponte do Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOazRjU1RhUUFabnk3bC1xV2lCYlo1QzdMVW1hUG9yWUV2M3FpZVVfN0VBempSNWpCSVFheTBsWjRNdW5ubHlVTUpXYmtQNWN1ZmdNZXh4UHZ6d0dXeHdCSmUyNjZTZm9MUUo0ZENEejY4MDNoUm80b0MxSUs0Y2dVcWZrWmo4LTNoUnBmQWJITVJJMWE3WnNTOHNBWnJId012TEJ1ME4tV1NMa0JVdzQ3QnVMaGdrcVpEVDNqRnVLUGtvVlptZHRwMHptVjhpVHVzVGJka0hjSzZpNXYtcUJSYl9ZRFdrUdIB5gFBVV95cUxOazRjU1RhUUFabnk3bC1xV2lCYlo1QzdMVW1hUG9yWUV2M3FpZVVfN0VBempSNWpCSVFheTBsWjRNdW5ubHlVTUpXYmtQNWN1ZmdNZXh4UHZ6d0dXeHdCSmUyNjZTZm9MUUo0ZENEejY4MDNoUm80b0MxSUs0Y2dVcWZrWmo4LTNoUnBmQWJITVJJMWE3WnNTOHNBWnJId012TEJ1ME4tV1NMa0JVdzQ3QnVMaGdrcVpEVDNqRnVLUGtvVlptZHRwMHptVjhpVHVzVGJka0hjSzZpNXYtcUJSYl9ZRFdrUQ?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-11-12T13:35:30+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Cinco casas resistem à obra da nova ponte do Guaíba G1"
+      "resumo": "Após surto em animais, prefeitura de Guaíba confirma 25 casos de doença transmitida de gatos para humanos GZH"
     },
     {
       "id": "25a84d0463ec",
@@ -280,7 +270,7 @@
       "fonte": "Rádio Pampa",
       "publicado_em": "2026-11-11T23:34:22+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Justiça determina que a Prefeitura de Guaíba adote medidas contra surto de doença animal causada por fungo Rádio Pampa"
     },
     {
@@ -333,16 +323,6 @@
       "resumo": "Agentes municipais de saúde visitam estação de tratamento de esgoto de Guaíba CORSAN"
     },
     {
-      "id": "496c8a9a9aa2",
-      "titulo": "JUSTIÇA DÁ DEZ DIAS PARA GUAÍBA GARANTIR MEDICAMENTOS CONTRA ESPOROTRICOSE EM GATOS",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZHZWbWZiUVNmQm1sVElxc203a01IWGRiUGFtOTJVdmZDNHh0MkY4YVVDUDZIZDNwbzhzQ0lSc1Z2bm1lblE3ZGdtUFRkUDFURXo5bWJ4MW5lMXRFRlA5QUJsc0pOdER3TUtUY3NfZmVUYTdCTjBoQjFWOHNjWWVWTUlJQWNNcnJDSnhEQjZldVVvOHZMYVVQMFZ1amF4VzFrYkxwSktQYnY2Mks3TjFLYXpCMUZ6ejhMSW5wQnMwTEJNOXRqaV81SzYweGg?oc=5",
-      "fonte": "radiocaicara.com.br",
-      "publicado_em": "2026-11-11T12:35:21+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "JUSTIÇA DÁ DEZ DIAS PARA GUAÍBA GARANTIR MEDICAMENTOS CONTRA ESPOROTRICOSE EM GATOS radiocaicara.com.br"
-    },
-    {
       "id": "2df7b7caae0f",
       "titulo": "Condições da BR-116 em Guaíba preocupam motoristas",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNHBrWE13VVpNT1JnalNQbmRnLURnbEktZXJmTk5Ic0FVb0JUVHVYMmYza0d1MzZaOFFGakhBM0R3WWxsaUUtaWFyZUdVUnQwTElHVV9HdnZ6ekxDSVRBWUlaT2hrQ1BtTlM2U1Q4SnB1dmY2Y0lqRDBQNkFrMlU5R0hJbEdZZ0RIVWFxVTFjSlE5bFF1RGRUZ3FLV09hMUc4NXVNNkFhY2NFR09pQWF1U1Q5QVh3akN1VC1TMkZBMXJwRmFDajUxZUxuN0pBR19MNVNuM1VOSHVzZ3Yw0gHcAUFVX3lxTE00cGtYTXdVWk1PUmdqU1BuZGctRGdsSS1lcmZOTkhzQVVvQlRUdVgyZjNrR3UzNlo4UUZqSEEzRHdZbGxpRS1pYXJlR1VSdDBMSUdVX0d2dnp6TENJVEFZSVpPaGtDUG1OUzZTVDhKcHV2ZjZjSWpEMFA2QWsyVTlHSElsR1lnREhVYXFVMWNKUTlsUXVEZFRncUtXT2ExRzg1dU02QWFjY0VHT2lBYXVTVDlBWHdqQ3VULVMyRkExcnBGYUNqNTFlTG43SkFHX0w1U24zVU5IdXNndjA?oc=5",
@@ -366,11 +346,31 @@
       "id": "88d5ffff3677",
       "titulo": "Homem é morto com mais de 20 tiros em Guaíba, na Região Metropolitana",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb0htLTFMdW1YN19nQXFPRWRndlFjOUVQZUV6WDZJRHFxb1FxdGt6dEFrTjluaEJkV1ZBaEV0eENJMGNQTmdhT2MzOEZjZ2lvMmd6cGE2c1hvN3ZFeDlNc0drZnVTY05iOU52OVNPaTVYQzF2YlVwWWd1YkltOFh1YWEwS0NnaEgzRlBWSVJqdThIUlMtYjFocmFZd3F2ZmlvSDNjd1M5eXlXRmgxRENaV0lLY2pGc3FWWW0tRXJ1NllOQ29JUF94dmpHWWVCREFIRFU4Y3dXeENYNXFTRmNGME8xVXVfNGlPNWprTGxR?oc=5",
-      "fonte": "GZH",
+      "fonte": "clicRBS",
       "publicado_em": "2026-11-09T22:24:55+00:00",
       "categoria": null,
       "feed": "gzh_metro",
-      "resumo": "Homem é morto com mais de 20 tiros em Guaíba, na Região Metropolitana GZH"
+      "resumo": "Homem é morto com mais de 20 tiros em Guaíba, na Região Metropolitana clicRBS"
+    },
+    {
+      "id": "70c1ef8af5dc",
+      "titulo": "Com renda destinada à APAE de Guaíba, inscrições para a 6ª edição do Circuito Eco CMPC serão abertas na segunda-feira",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOS09fcFlod1NwU20yZnNveHRtMzd4N2cwcUVKZElISXdSeU5pT3RrX3JLV3JjNllWam9FdFI2Vkp2OEJEMElSVWRoUVBfcVk0QXctSGxUTDRfeC16UklQWVA1TW45ejVYaGcwSTlSSnA3U2VHSVo3VHJ5QVNXT1ZRRGoyV2NZRW1DVkZ1Mm11djdwa2JEMTBURUh1MzhjYklXaEQ0LXMtYTdhdkNLVTJHOWxCSmhPbUdiXzYySHBVb1Q3X3FZamN4dGhFXzJxbFF6cUp3a2gtaEVlRFFpX25zYmtEclRoZzM4cm5OZFo4T3lyd0c5X0lvMVJB?oc=5",
+      "fonte": "Jornal da Capital",
+      "publicado_em": "2026-11-09T18:23:02+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Com renda destinada à APAE de Guaíba, inscrições para a 6ª edição do Circuito Eco CMPC serão abertas na segunda-feira Jornal da Capital"
+    },
+    {
+      "id": "4e81dfe202b1",
+      "titulo": "Lula vence a eleição presidencial em Guaíba (RS)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG5SdFVYSVBuTzZweDVOeG9nSkZNWVkyUmlFQzBXdmNVd3hCQ0Q5RW9XcGMxcUFtTHJkVXFad0pUVVBKNUhNdFZDbjFBUlhpeE1PSnFzSl9udzBJZTlYd1VuYmtRZFFOX3BqZG9SRjRHQ21FM1BfZFV0aFNHcklWZ0lOdlFQc1IyQnoyeEZreVNiMkJfa0hEdWp6NGw?oc=5",
+      "fonte": "Congresso em Foco",
+      "publicado_em": "2026-10-27T07:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Lula vence a eleição presidencial em Guaíba (RS) Congresso em Foco"
     }
   ],
   "noticias_home": [
