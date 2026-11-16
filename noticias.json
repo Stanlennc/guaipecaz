@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-16T14:50:01.627549+00:00",
+  "gerado_em": "2026-11-16T23:58:37.513879+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -134,6 +134,16 @@
       "resumo": "A organização preparou atividades para as famílias e sorteio de prêmios neste domingo (8)"
     },
     {
+      "id": "f3ff7e307b63",
+      "titulo": "Sindicato Rural de Guaíba sedia o Mundialito do Cavalo Crioulo com R$ 95 mil em premiações",
+      "url": "https://www.reporterguaibense.com.br/noticia/sindicato-rural-de-guaiba-sedia-o-mundialito-do-cavalo-crioulo-com-r-95-mil-em-premiacoes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Para 2027, a meta é ampliar ainda a participação de criatórios do Rio Grande do Sul e de outros estados"
+    },
+    {
       "id": "e5cc2ae4f89d",
       "titulo": "Banco de Alimentos de Guaíba registra queda de 84% no estoque e busca reforçar doações",
       "url": "https://www.reporterguaibense.com.br/noticia/banco-de-alimentos-de-guaiba-registra-queda-de-84-no-estoque-e-busca-reforcar-doacoes",
@@ -164,13 +174,23 @@
       "resumo": "OLIFEIRA 2026 é cancelada em Guaíba; Prefeitura aponta crise financeira e previsão de El Niño Portal de Camaquã"
     },
     {
+      "id": "e3088a3cc091",
+      "titulo": "Esporotricose: Guaíba confirma 25 casos em humanos; liminar determina remédio gratuito para animais",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTGhsMFpkSW5vWTNCU0Vwdm1ha19nblBuYU5PVUJRbW94ZUlJaTNQSE5DM2RjX1V6ZjdaVllSeHc4VUgxbnhFXzdxOGtoSUh3T0YwT2dvVmRySlZNQ0dyQ2pvaWdjQlJyV28xNllzUU92MXJSRWQ3YmdId0dmdzYtOFFhUHNkSDV0TVV6VXEtQ1BlajlyQWFDbGdPS2RNSXc2Uk0yNlM0V0xsb2h1SXN2SDlobEkycEJobnV6WXlFa0FpNTdGcXYtU21Zbw?oc=5",
+      "fonte": "Correio Braziliense",
+      "publicado_em": "2026-11-15T10:04:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Esporotricose: Guaíba confirma 25 casos em humanos; liminar determina remédio gratuito para animais Correio Braziliense"
+    },
+    {
       "id": "c79f7a62d109",
       "titulo": "Guaíba orienta buscar hospital após avanço da esporotricose",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkY2djRfTUVSWFg5R2E5M19WQl9NSlQ3MTV0WnRRbUFhaWlhWUVQYnlNREx1Szg0T0NDUFNGRmFLTmQwS0FHTFBXOTNuWUxkZW4zWUttWTR3a2FEZlZOc0k4YUV4VWpkMFJSVVBETmZneHdhcVJyd0dncTNoSUt1WThDLXNReENIMEtUdVJZNTZZT0ZTVTloQzdJRUxTc0XSAaQBQVVfeXFMTkpBRDl6aWVZdWZFZFVBSnlwZmUtT0ZyNG56czBBSFpsU3pTVkRSSkVnRElHR3RqRnd0VFF0cHMxX0l0RWMzSzctRUh1bWpZZE42SkRFNnpMWEo3dndFZ3A0NHRpMVZIUkViZDdpYzV2ZFpGWDM5eTItQ1NUX3k0NmRhY2FDMTdsVzdtNUpsRGpNNDF3MDQwOHpJaDZVdmdPb3BWQW8?oc=5",
       "fonte": "O Cafezinho",
       "publicado_em": "2026-11-15T07:40:00+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Guaíba orienta buscar hospital após avanço da esporotricose O Cafezinho"
     },
     {
@@ -190,7 +210,7 @@
       "fonte": "Jornal O Sul",
       "publicado_em": "2026-11-15T01:16:11+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "RS obtém reconhecimento internacional na COP31 por projeto climático sobre bacias hidrográficas do Guaíba Jornal O Sul"
     },
     {
@@ -244,23 +264,13 @@
       "resumo": "Trecho 2 da orla do Guaíba perde orquestra e não deve ter obras antes de 2028 GZH"
     },
     {
-      "id": "65c1faa0a468",
-      "titulo": "Banda brasiliense Maskavo revisita Rumo ao Sul em clipe gravado no Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRFJMVHk5djdUeVp2QWhVenJzTVNUeWkwaURYYXZ0LTZFak5LWWFBVld1WjR3bmM2OE43ZGx2MVlRVXNaSEJ0SjQ5V3FlT01nTFZsUzl0d0l4NDlzYnZsYTRDSV9lakhtOHpWeFE3NWVDTUNDQVVYc0FYX2lRMnljNDhUYWRXd1RnQlJMZTd0d2sxUzZaREdRa2JsQVVRdS1mSkd1WU9URnJfZXZhSEdBUWpreFpwNDdGOGcta2tXU0lCZklJNURDV0VXdzNmVHBDc2kzUS11TkpLZUYwbEVIXzlB?oc=5",
-      "fonte": "Correio Braziliense",
-      "publicado_em": "2026-11-13T13:44:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Banda brasiliense Maskavo revisita Rumo ao Sul em clipe gravado no Guaíba Correio Braziliense"
-    },
-    {
       "id": "dd3467d0db95",
       "titulo": "Maskavo revisita 'Rumo ao Sul' com clipe às margens do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1Y3ZG92MnJmNk5NNzRJb1V1M0Q2YmJsUDcxOHZ4Q1JITndPNjEwamVwT0JIRTFIT3h3eE1vNnFnREs4Sk91NVFFellpdWxkTzlkSjk5ajZWZk5kTnFiRG9zbGpEZGhWakdpcmJWN3BsM0JLd0hBTkU2bkh6cXA5Vk1neDlCLVVxaE5tV1F6NWRjRVExZV9uTlJSb1BzYmFackVqU0tqTEZxYWkzYW9RelVkb3BHNjM1LW1fYUl0dzdtMVhUbHdOeDNn0gHPAUFVX3lxTE5QTkZIbndYTW9xRkk5c1N2cHVPd3pkWUtaVFJPRmhMWWZRMlBDb3JFbFdUYzh0b0VOSjJ6c1VoTWc5MEZ4Mmc5V0tIS19LVEEzRDEtV2hVS2JJN05abHJiMEdTRURrZ2RYVEtzN1JqOVVUUDhFWHZCamRORVBzMVNRaU9ZVTNBaWZ5OUxkTWQ5dUx0aGltOTMwS0tkay12QWNMb0ZaQmlYNHhaSk5tOXFUdmtuNGliblpselBVcWVWMkhKQ1RZc2JVMHl0NmxDOA?oc=5",
       "fonte": "Estado de Minas",
       "publicado_em": "2026-11-13T13:39:00+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Maskavo revisita 'Rumo ao Sul' com clipe às margens do Guaíba Estado de Minas"
     },
     {
@@ -270,7 +280,7 @@
       "fonte": "Terra",
       "publicado_em": "2026-11-13T13:34:00+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Maskavo lança clipe de \"Rumo ao Sul\" no Guaíba e revisita clássico do álbum \"Já\" Terra"
     },
     {
@@ -284,16 +294,6 @@
       "resumo": "Após surto em animais, prefeitura de Guaíba confirma 25 casos de doença transmitida de gatos para humanos Diário Gaúcho"
     },
     {
-      "id": "ce5232fc15b0",
-      "titulo": "Espiritismo na Praça em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wRlhwSkE1QlEzZTJZVlFBd1ZQYUpYdzJhRkU5aFpzZHNBNnJiNldUN2ZkX2UxMDc1RWI0bTNMejZtUDZHakxHTmJCVFprMDFlMjFrLWctNzBlQlF4aldZNklEZGtEQmNnUlHSAWpBVV95cUxOcEZYcEpBNUJRM2UyWVZRQXdWUGFKWHcyYUZFOWhac2RzQTZyYjZXVDdmZF9lMTA3NUViNG0zTHo2bVA2R2pMR05iQlRaazAxZTIxay1nLTcwZUJReGpXWTZJRGRrREJjZ1JR?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-11-13T02:34:56+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Espiritismo na Praça em Guaíba Jornal O Sul"
-    },
-    {
       "id": "17ca72cba4b3",
       "titulo": "Natal Alegre 2026 transforma o Cais Embarcadero em um grande cenário natalino às margens do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbWNmckp3QUFlYjlsUUxxVlhFM3dRTGRiTVVFNnBsajZHYzlZZTJpS09ZUkxjNUZqV1k2eDNSMHExZmM4RzRyZ3ladGlSWmhfUjZzMTRxLWlzM18zTmFDVlY5SFFCbnZpMVpISUhUblJ5NFdPUGJxWEd5Y0pHSTZYSmFXaHZKd2RIYUlwMGt4TDM3anZjQkhZM252UWdaS2VOSnRONmVDemtFdEwzVXJJRjlXSm9SOXN5ZTF0ZmdtVGdKa1M5bHJLcEZsdHNFUnp1Yk56Z2U3N3J6MXVMRUVzVnZGeU1jNDA?oc=5",
@@ -304,13 +304,23 @@
       "resumo": "Natal Alegre 2026 transforma o Cais Embarcadero em um grande cenário natalino às margens do Guaíba Super Transado"
     },
     {
+      "id": "4d28d204a835",
+      "titulo": "Cinco casas resistem à obra da nova ponte do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLUtHRkQzMTZ6TnJ1VXRmNXhnaUVPc1V1ZUlOaE00Vk9pUkRoTG41TlFXNVJoTlZ6Z2g0WDh2Z2p2R2dFZFpjMXVnYVJiZk00RUdqZkh4RTMyMnRPUnVsbWN6OGRHSWlaR2hDRkJadGhoS0x3QTVSc1FaOURBS0txRUo4TGdUcllCSFlpbEwzQkVCYlZvOHpyZk1jS2Z2Yjl3M3kxX09LaVhVVmhURHI5Wml2SktmYl9BdEg4WmdVczVycGUwZjA2cUJNNTFlUi1KcUF2NjhtUdIB5gFBVV95cUxOazRjU1RhUUFabnk3bC1xV2lCYlo1QzdMVW1hUG9yWUV2M3FpZVVfN0VBempSNWpCSVFheTBsWjRNdW5ubHlVTUpXYmtQNWN1ZmdNZXh4UHZ6d0dXeHdCSmUyNjZTZm9MUUo0ZENEejY4MDNoUm80b0MxSUs0Y2dVcWZrWmo4LTNoUnBmQWJITVJJMWE3WnNTOHNBWnJId012TEJ1ME4tV1NMa0JVdzQ3QnVMaGdrcVpEVDNqRnVLUGtvVlptZHRwMHptVjhpVHVzVGJka0hjSzZpNXYtcUJSYl9ZRFdrUQ?oc=5",
+      "fonte": "G1",
+      "publicado_em": "2026-11-12T13:35:30+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Cinco casas resistem à obra da nova ponte do Guaíba G1"
+    },
+    {
       "id": "25a84d0463ec",
       "titulo": "Mundialito do Cavalo Crioulo reúne premiação de R$ 95,2 mil e atividades em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb2lNR2p3WktuUk1yRFFmZjh3eUxGMjVLN2RRQUl1U0JBdUZpMzlvSWRQdEJMUVN4Q2xzYmx4RGt2anVTbVFmTzZWY0lGWVdBRGxHa0FuQmR3Ykx0LUV2a0lGMjhXNm9SY0llb0RVTWFEQXMtTW1KalRFSVFnRXMzcFFiOUFmMVlGaFlSUWNkYUJiazRrazVYeng3Nkp4QU95eGhiVDZlakZrMjZjZll3NXgtZGdXQmVhSFVMZE9NNkxCd0hYZG9lQTF6bGxyTU5lbVdPN1hIVVZDZHM?oc=5",
       "fonte": "Correio do Povo",
       "publicado_em": "2026-11-12T12:04:27+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "correio",
       "resumo": "Mundialito do Cavalo Crioulo reúne premiação de R$ 95,2 mil e atividades em Guaíba Correio do Povo"
     },
     {
@@ -324,14 +334,24 @@
       "resumo": "Com renda destinada à APAE de Guaíba, 6ª edição do Circuito Eco CMPC será realizada no dia 29 de novembro Portal Celulose"
     },
     {
-      "id": "b9af45ef946c",
+      "id": "02dc4e22809b",
       "titulo": "Justiça determina que a Prefeitura de Guaíba adote medidas contra surto de doença animal causada por fungo",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVnBrdWU4Y01zYTVNRU1yajgyN08xREhlV0NtWlpCMXJYR2pjWml2RjdsdUFFbEZpOXlUM2JHanVKazRMTFJIbVVYcHB1bllKelNrQWNlbHZMeVpmR1N1MjlLNDlFdU1rcmEwb2thakNtc1dZa0JuVDFld3A2S0VPZzM5YlZoSjBGYWR2b0swNHdOX05pbzU5djRIcjZkMnV5SEpSVHJtS1dlb0RKNmthM3QtTFhvbzREeHpDNURQaVNkb0toRlFnV3h5bmZGcnJwUHI0?oc=5",
-      "fonte": "Rádio Pampa",
-      "publicado_em": "2026-11-11T23:34:22+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUENueDdnbXlZVGFlbk1nYVR6ZGx4VENRVnBUTHp4eFUyUDVRdlZ2Qi1MZ1lVdC0ta2p4aUdhVm9QcjIxNXR5Y0Zfb2pGemRlbFhxMnVkbFhkTURlOF9oUzUxbWlna2h6S09fcXhCUXZXMldiV1ZNaVZGdDNjMS1UODlQX1dtNnY0MGdJOWdsc0lBNFktZjY4TzJQcngtaFA1c01YWWplZk0tM1R5OXFOd05GOXFubnNPY0d4Qk9SZENzQUFFV1k4al94Y9IB0AFBVV95cUxQaTF0OTBZNDhTeWdiT2gxcHZtX0s1RDhWV2ktODF5aTd1MmpSU2VkTnpKN21jbVoweVd0NElmQnZUb1BCVVV6QWdWRG1hbkVWaW9DbWtfS1FwV01pSEJ6YXRTdDJxNVpXLXlTV0NoNlNQc3dXUk8xcHZFT1NkbmhnMHZFdGt1LXFXSFpxQmRycS15aThFRWJJeUZ4czF1bkltSV9TSGpZUmdIWTJ1VmJzbjdLUXV1dHNzbDFZX3l6eV9rNGpxWGZUakVwZlRnMEl1?oc=5",
+      "fonte": "Jornal O Sul",
+      "publicado_em": "2026-11-12T01:14:53+00:00",
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Justiça determina que a Prefeitura de Guaíba adote medidas contra surto de doença animal causada por fungo Rádio Pampa"
+      "feed": "recentes",
+      "resumo": "Justiça determina que a Prefeitura de Guaíba adote medidas contra surto de doença animal causada por fungo Jornal O Sul"
+    },
+    {
+      "id": "d524e9fef02e",
+      "titulo": "Aos 2 anos, pequeno “marceneiro” de Guaíba conquista a internet com mais de 70 milhões de visualizações",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZnBwV3MtRWktX2V2eVpfbHVhbks1Q3VlbFp5LThGdGdqSzNFVjZJa1VsTjhyNXlhQUJPRkdPOFVGZ1ViZFlneW53eGZ4RFFGdnJ6LVN1QXdNUXFISUdGbHNkRFFORl81cnVKRmpfZ05NejFBaUN2d2E4VFlQc2pUV045MWhxTTdkcWZYZWlkVHlsSWhjNXpjRlNsTlBYVDJLM1pCVVdORDh0a2hhWEpLZnRXYVRVY3ZKd01rQjY4aEtNemVYZjhtWVVNYkZlSFROVTRsVFJQMTUzN3hPNWJ4NXhDSTV3Ykd2UlJTTkdqRmRGeXlmd05CekNRWnUzZw?oc=5",
+      "fonte": "R7",
+      "publicado_em": "2026-11-11T20:29:56+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Aos 2 anos, pequeno “marceneiro” de Guaíba conquista a internet com mais de 70 milhões de visualizações R7"
     },
     {
       "id": "f37c1f6a12f0",
@@ -344,33 +364,14 @@
       "resumo": "Fábrica de celulose à beira do guaíba vai impactar os recursos hídricos, o pampa e os povo indígenas Assufrgs"
     },
     {
-      "id": "f50655150d5f",
-      "titulo": "Surto de esporotricose em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdUI3TXNMUElGMUZCbC0wVUNySlNNS1ZuM3owRXg0ODRJRWJJcDFOaU5oRTdNVThUcXl1SzZ6bEFkVXExUnB1NGF2T1RJcHkzcUI2VEtwTUZpd0NnT0puTHJYRXJEa2E1b004MUpPRE9hdTltUW9USXdmUWJncmM1ZmpxZWRZSWp2SHNwbGNxcUhFZG9ldllEanM1VHF3Q0NUTjlGbUlnTDIzcGs0aHhvRmYxTlJFVE1JYVBoR3Bn0gHMAUFVX3lxTE5PT1RVRndYd2hYSGlUUTZ2c2t4SUNveUFqT3VFNEpmQ0ZESWNoR0FfTEJVM09sVkg2S0c1anMzYWtpcmVKYl9seVJjdnlUcnduZHYxNXA4NHRDa2tnZk1SaU8xNTZnM1ByRnFYQjZvMklVQTlmYmg0VW5zSUxsOGMweWdpa1RMZ256X0VKTmFQWVdTdXFxR1V4a0VzYWxJUXFqdVBlOEdwS2RqN1lOaWs0cGZaTHdZS2dVQUdlUE8wdFBqZ1R2eENJd3J0SA?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-11-11T14:28:48+00:00",
-      "categoria": null,
-      "feed": "recentes"
-    },
-    {
       "id": "7ab8a58d0eba",
       "titulo": "Cinco casas ainda resistem às obras da nova ponte do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcXhLdkJvZ0MwdDV5MU1PVXFKbklubDhyVFFZRDd2RVNKZmpteEczOW9VNlpJZlFNcUdicDBadF9fTnBpTFNjSEVkdnpVX3BhWlZGb2lsV3FDZVljQUp4bm43SWpRd0c1SDROTHNpYV9ReE5udl9ZcS1WSDNXeEM0MHgtWTczX1hDQ2VnUGExVEw3dFhWWGVzWlFKQ1hMWkliZkJ2T2N2T0VDeEJhMmJKNjZvNmJlUWU0ZFBPTzFNY1owTDV3RklfdnVNVFZJSHM3RmxyajdtVkYxZEtab01iNW9KUGR4ZTVvWnlSZjZLa2hzSXczRUNN?oc=5",
       "fonte": "GZH",
       "publicado_em": "2026-11-11T13:03:18+00:00",
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Cinco casas ainda resistem às obras da nova ponte do Guaíba GZH"
-    },
-    {
-      "id": "775da88edc09",
-      "titulo": "Agentes municipais de saúde visitam estação de tratamento de esgoto de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUk5JVW9vR1RuQ1J4cGlBTDlEOEZRZnJsODJRMlVIc1hxekdoRjVrai16Y0xyT1ROVW14NzRELWZZUnNoQndVMlJUZE5PN0ZFQ2ZQVER0Z1N4eXZMX0o1Yy1EYi1GcVJaOEN5VmdYZnY3a0h3emRPZmQ1Q2lrUEloejRGSlYwaG93cVAxZ2pjR0w5UWZkNC1JYno2YkFqWWJfVjNIOXVJbw?oc=5",
-      "fonte": "CORSAN",
-      "publicado_em": "2026-11-11T12:40:00+00:00",
-      "categoria": null,
       "feed": "recentes",
-      "resumo": "Agentes municipais de saúde visitam estação de tratamento de esgoto de Guaíba CORSAN"
+      "resumo": "Cinco casas ainda resistem às obras da nova ponte do Guaíba GZH"
     }
   ],
   "noticias_home": [
@@ -435,6 +436,16 @@
       "resumo": "A organização preparou atividades para as famílias e sorteio de prêmios neste domingo (8)"
     },
     {
+      "id": "f3ff7e307b63",
+      "titulo": "Sindicato Rural de Guaíba sedia o Mundialito do Cavalo Crioulo com R$ 95 mil em premiações",
+      "url": "https://www.reporterguaibense.com.br/noticia/sindicato-rural-de-guaiba-sedia-o-mundialito-do-cavalo-crioulo-com-r-95-mil-em-premiacoes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Para 2027, a meta é ampliar ainda a participação de criatórios do Rio Grande do Sul e de outros estados"
+    },
+    {
       "id": "e5cc2ae4f89d",
       "titulo": "Banco de Alimentos de Guaíba registra queda de 84% no estoque e busca reforçar doações",
       "url": "https://www.reporterguaibense.com.br/noticia/banco-de-alimentos-de-guaiba-registra-queda-de-84-no-estoque-e-busca-reforcar-doacoes",
@@ -443,16 +454,6 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Situação atual da rede foi tema da reunião-palestra do Rotary Club de Guaíba, na última terça-feira"
-    },
-    {
-      "id": "88e64a656650",
-      "titulo": "Esporotricose: prefeitura de Guaíba orienta onde buscar atendimento após aumento de casos; saiba como prevenir",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/14/prevencao-esporotricose-guaiba.ghtml",
-      "fonte": "G1 RS",
-      "publicado_em": "2026-11-14T14:07:30+00:00",
-      "categoria": "G1",
-      "feed": "g1_rs",
-      "resumo": "Cidade do RS combate esporotricose após aumento de casos em humanos e em gatos A prefeitura de Guaíba, na Região Metropolitana de Porto Alegre, orienta que moradores com sintomas de esporotricose procurem o Hospital Nelson Cornett. A recomendação foi divulgada em meio ao aumento de casos da doença,…"
     }
   ]
 }
