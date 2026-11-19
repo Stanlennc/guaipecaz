@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-19T09:53:56.276340+00:00",
+  "gerado_em": "2026-11-19T18:52:22.959590+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,6 +74,86 @@
   ],
   "noticias": [
     {
+      "id": "9d9722e31cd3",
+      "titulo": "Jovem de Guaíba precisa de cirurgia cerebral e família organiza vaquinha para custear procedimento",
+      "url": "https://www.reporterguaibense.com.br/noticia/jovem-de-guaiba-precisa-de-cirurgia-cerebral-e-familia-organiza-vaquinha-para-custear-procedimento",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Até esta quinta-feira (5), foram arrecadados R$ 15 mil, sendo que a meta é chegar a R$ 40 mil"
+    },
+    {
+      "id": "3019f3de0304",
+      "titulo": "Prefeitura de Guaíba esclarece que segunda parcela do 13º salário dos servidores não será parcelada",
+      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-garante-pagamento-do-13-salario-apos-circulacao-de-documento-sobre-parcelamento",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O poder executivo reafirmou que a segunda parcela do benefício deverá ser paga normalmente"
+    },
+    {
+      "id": "f3ff7e307b63",
+      "titulo": "Sindicato Rural de Guaíba sedia o Mundialito do Cavalo Crioulo com R$ 95 mil em premiações",
+      "url": "https://www.reporterguaibense.com.br/noticia/sindicato-rural-de-guaiba-sedia-o-mundialito-do-cavalo-crioulo-com-r-95-mil-em-premiacoes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Para 2027, a meta é ampliar ainda a participação de criatórios do Rio Grande do Sul e de outros estados"
+    },
+    {
+      "id": "0e4181da1d9d",
+      "titulo": "Vendedor, balconista, estoquista e mais: Sine Guaíba oferece 14 vagas de emprego nesta quinta-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-balconista-estoquista-e-mais-sine-guaiba-oferece-14-vagas-de-emprego-nesta-quinta-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
+    },
+    {
+      "id": "fcb1878c62ca",
+      "titulo": "Sine Guaíba oferece cerca de 20 vagas de emprego nesta semana; veja a lista",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-cerca-de-20-vagas-de-emprego-nesta-semana-veja-a-lista",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Lista inclui oportunidades para pessoas com deficiência (pcd&#39;s)"
+    },
+    {
+      "id": "d9446b4d2524",
+      "titulo": "Grupo Lebes realiza último evento da turnê de 70 anos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-lebes-realiza-ultimo-evento-da-turne-de-70-anos-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A organização preparou atividades para as famílias e sorteio de prêmios neste domingo (8)"
+    },
+    {
+      "id": "cff521e7bd3f",
+      "titulo": "Frentista, vendedor, eletricista e mais: Sine Guaíba oferta 19 vagas de emprego nesta quinta-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/frentista-vendedor-eletricista-e-mais-sine-guaiba-oferta-19-vagas-de-emprego-nesta-quinta-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "As oportunidades são rotativas, o que significa que podem ser preenchidas ao longo do dia e não necessariamente estarão disponíveis no dia seguinte"
+    },
+    {
+      "id": "e5cc2ae4f89d",
+      "titulo": "Banco de Alimentos de Guaíba registra queda de 84% no estoque e busca reforçar doações",
+      "url": "https://www.reporterguaibense.com.br/noticia/banco-de-alimentos-de-guaiba-registra-queda-de-84-no-estoque-e-busca-reforcar-doacoes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Situação atual da rede foi tema da reunião-palestra do Rotary Club de Guaíba, na última terça-feira"
+    },
+    {
       "id": "de9321bf42ce",
       "titulo": "RS registrou quase 1,5 mil casos de esporotricose em 2026; doença transmitida por gatos tem alta em Guaíba",
       "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/19/casos-esporotricose-2026.ghtml",
@@ -104,6 +184,26 @@
       "resumo": "Cidade do RS combate esporotricose após aumento de casos em humanos e em gatos A prefeitura de Guaíba, na Região Metropolitana de Porto Alegre, orienta que moradores com sintomas de esporotricose procurem o Hospital Nelson Cornett. A recomendação foi divulgada em meio ao aumento de casos da doença,…"
     },
     {
+      "id": "39e69d36c9b8",
+      "titulo": "CMPC recebe apicultores do Rio Grande do Sul no 2º Seminário Favos do Sul, em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGE3U2xSM0FhYXhKNl9XVWxkUE0wTXNIQ0ZFU0I2bE9NTTJSSFJ0VUpJdFFQSXlFQWlYZjExQVN1cnFnZlZZeHhpMHI1U0ZBWGVmaGlMRGF1Mm5aYThmNDFzRGIybk13RE51Q2R6MFZWUDdVaGRvMW9QdmdMYVNDaXpkZVhsWGRqSE93c3FFR0xTaE8xZU5uMEdvSXk4UXJFXzI1MDZBQmc?oc=5",
+      "fonte": "Portal ClicR",
+      "publicado_em": "2026-11-19T17:41:32+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "CMPC recebe apicultores do Rio Grande do Sul no 2º Seminário Favos do Sul, em Guaíba Portal ClicR"
+    },
+    {
+      "id": "c7ae693cd78a",
+      "titulo": "Ato contra fábrica de celulose no Guaíba alerta para riscos à Lagoa dos Patos",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM19mbXlTVGI5Q193U3p1TThPRmZ2SlcxMmZEdWFIYWVwMi1EcFdyazlHUXhXempQOUdGZGtMbU5BNzR1M1JSY09ZaUR5YUJmOEFxZ0JkbjRPRUlBOS1ESWJIQ3NYRnAxYXF5dzBmb3FUbHNsdjk0QmpMamhFcU1ZeElFbV83VXpfVThkV0J5dENOdGxYZjV2TEpCSGZtTlRZMWJpeF9ERzREV25TT25lUkp0bE4tQzRw?oc=5",
+      "fonte": "www.radiocom.org.br",
+      "publicado_em": "2026-11-19T13:10:07+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Ato contra fábrica de celulose no Guaíba alerta para riscos à Lagoa dos Patos www.radiocom.org.br"
+    },
+    {
       "id": "1b8d56321ce1",
       "titulo": "Marcha para Jesus em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IMktidGZxT3FnUjh5dXFyQ3RCbmdmZmZQZVJPNGd6SmV1VC1Zczlmbl9rSjBTVF9vNkd5S2NoVmFkV1psV0hUc3JwQlBUUWJzUUcya2hRal9hYWZRXzRGa3ln0gFnQVVfeXFMTWo4SlBaVlpYWFJMSkMwY29DWTBzSHFGQ21kbjZvbU9sdFdsVF9hREJhVnJSN3hYMnpiT29jVHJNVmJVbmdRN1NqWFM3NndENWNaZ1lFamxWckp0TmthdklfR2ZDU3pMUQ?oc=5",
@@ -122,6 +222,26 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Guaíba registra aumento de casos de esporotricose em animais e anuncia plano emergencial Terra"
+    },
+    {
+      "id": "c45c95cca1ab",
+      "titulo": "Jogo inspirado no GTA se passa em Porto Alegre; dá pra fugir da Brigada Militar, surfar no Guaíba e até descer a rampa do Caff de skate!",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTTZ3U1FzOG9jcldJMFJiYVJwRUlzOEREaG1VYmRBcUdaOHRsR0ZTRTNWejF2YmZBUURsUjd2V2Z5UUlCc0FXNzNXNzB5UW51aDZodGxCV0JQbG5qdG5RdmVFVFNUTHlNeXNCNHVOeGVkLWlycnFQbWVxVmdMbUY5dHJ4X3lpdkFERzlRX2FlSXluSkwxRjFicnVobDRZUDJ6WjUxZjFqbXVJRHk3NTZEZ0ZkRThOblFLdlowLWxIV2ZnNVRxYmpaRVVSMkt3SlQ1c1ZnUVV0TjBORncxazF1dGpleFBfdG1NclBDYjA1cw?oc=5",
+      "fonte": "DuduNews",
+      "publicado_em": "2026-11-17T20:27:36+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Jogo inspirado no GTA se passa em Porto Alegre; dá pra fugir da Brigada Militar, surfar no Guaíba e até descer a rampa do Caff de skate! DuduNews"
+    },
+    {
+      "id": "865dbe75cf98",
+      "titulo": "Suspeito de sequestrar vítimas por dívidas de agiotagem é preso em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TN2QyWkhLLUhvRUJXQ1FZb0lkNFA4NTNWdG41d0xOWFh6UENmclEzQlBzOC1yeVNydHVFbmdnX3pSQ3dvRXZqVzNMVXkyeFJTNExUYnA2U0V6dnV6ZUQ5REM3Q1BqOVJWcl9Jbk5hWXY0R3d3cFE0NDJ5dw?oc=5",
+      "fonte": "Rádio Acústica FM",
+      "publicado_em": "2026-11-17T18:59:43+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Suspeito de sequestrar vítimas por dívidas de agiotagem é preso em Guaíba Rádio Acústica FM"
     },
     {
       "id": "c5a8831b1178",
@@ -152,16 +272,6 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Prefeitura de Guaíba é obrigada a garantir tratamento para esporotricose R7"
-    },
-    {
-      "id": "3c190c2f433a",
-      "titulo": "Sindicato Rural de Guaíba sedia o Mundialito do Cavalo Crioulo com R$ 95 mil em premiações",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaVN1MUtrSVl2VlQ2Z3pNd1IxeHpTT2NtZmRLcHE4ME13dVZKM0pWSGt3bDFZek5HQVpUa1puWkxXRHdKenNEUzdyQjJoNXc4aHJXbXlXdFcwS3RCaTVpaVFGYV9Cdk9HVU1jVGRSbUxyWXlZRUdybVdMV21XZGl6ZHdtUzlNNmdfQk5RMWhoQ1lfQnBrM0xoNWswWTdEMnF6aU5TVExEZV9qcGdfXzh1Nmc0RndRT1U1VDlHOHk1MURDRjlnWWUyYlBoRi1pZFU?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-11-16T21:48:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Sindicato Rural de Guaíba sedia o Mundialito do Cavalo Crioulo com R$ 95 mil em premiações Repórter Guaibense"
     },
     {
       "id": "e3088a3cc091",
@@ -210,7 +320,7 @@
       "fonte": "G1",
       "publicado_em": "2026-11-14T17:36:03+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Guaíba reforça combate à esporotricose no RS G1"
     },
     {
@@ -234,6 +344,26 @@
       "resumo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço UOL Economia"
     },
     {
+      "id": "c6b694c1fa55",
+      "titulo": "Centauros encara o Guaíba em amistoso neste sábado - Jornal",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVhhVGRRb1BCRVNXVnI1Vm5GcG9WdVhjYzlvRUdxVktyeGVXcTU1RXVlUDItTWdHbFBjRjNnUVh3UnRZRHJ6TlJwMEYzdnlaazBGVWZ3aTB3b04yTEVlVnlrZl9mUFNNS0JGVnhlLVBuTjRrSFZJQzF6eHRxMmY4bkZkbTdlZVpzZUZJbHBTWFp0ZXdzcWVXVWJQazhCSG8?oc=5",
+      "fonte": "Jornal - Folha Popular",
+      "publicado_em": "2026-11-13T21:15:42+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Centauros encara o Guaíba em amistoso neste sábado Jornal - Folha Popular"
+    },
+    {
+      "id": "65c1faa0a468",
+      "titulo": "Banda brasiliense Maskavo revisita Rumo ao Sul em clipe gravado no Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRFJMVHk5djdUeVp2QWhVenJzTVNUeWkwaURYYXZ0LTZFak5LWWFBVld1WjR3bmM2OE43ZGx2MVlRVXNaSEJ0SjQ5V3FlT01nTFZsUzl0d0l4NDlzYnZsYTRDSV9lakhtOHpWeFE3NWVDTUNDQVVYc0FYX2lRMnljNDhUYWRXd1RnQlJMZTd0d2sxUzZaREdRa2JsQVVRdS1mSkd1WU9URnJfZXZhSEdBUWpreFpwNDdGOGcta2tXU0lCZklJNURDV0VXdzNmVHBDc2kzUS11TkpLZUYwbEVIXzlB?oc=5",
+      "fonte": "Correio Braziliense",
+      "publicado_em": "2026-11-13T13:44:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "Banda brasiliense Maskavo revisita Rumo ao Sul em clipe gravado no Guaíba Correio Braziliense"
+    },
+    {
       "id": "dd3467d0db95",
       "titulo": "Maskavo revisita 'Rumo ao Sul' com clipe às margens do Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1Y3ZG92MnJmNk5NNzRJb1V1M0Q2YmJsUDcxOHZ4Q1JITndPNjEwamVwT0JIRTFIT3h3eE1vNnFnREs4Sk91NVFFellpdWxkTzlkSjk5ajZWZk5kTnFiRG9zbGpEZGhWakdpcmJWN3BsM0JLd0hBTkU2bkh6cXA5Vk1neDlCLVVxaE5tV1F6NWRjRVExZV9uTlJSb1BzYmFackVqU0tqTEZxYWkzYW9RelVkb3BHNjM1LW1fYUl0dzdtMVhUbHdOeDNn0gHPAUFVX3lxTE5QTkZIbndYTW9xRkk5c1N2cHVPd3pkWUtaVFJPRmhMWWZRMlBDb3JFbFdUYzh0b0VOSjJ6c1VoTWc5MEZ4Mmc5V0tIS19LVEEzRDEtV2hVS2JJN05abHJiMEdTRURrZ2RYVEtzN1JqOVVUUDhFWHZCamRORVBzMVNRaU9ZVTNBaWZ5OUxkTWQ5dUx0aGltOTMwS0tkay12QWNMb0ZaQmlYNHhaSk5tOXFUdmtuNGliblpselBVcWVWMkhKQ1RZc2JVMHl0NmxDOA?oc=5",
@@ -242,218 +372,88 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Maskavo revisita 'Rumo ao Sul' com clipe às margens do Guaíba Estado de Minas"
-    },
-    {
-      "id": "9dbee6172e5c",
-      "titulo": "Maskavo lança clipe de \"Rumo ao Sul\" no Guaíba e revisita clássico do álbum \"Já\"",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQTVVvaFVnaVdFcWdfWXRUeDJLWDF0VEZfT0FOVmhDYWd5TXZwQTVuMk1nSTQ1UWc4NVo4OG5XZlRrVHBTX2d1WXcxQ3hCX04wd2c3UEdDTktlQUxiZzdfUnE4R1gyTjdxbnlXZFFIZjFZZFpUMkRsVThBSFFjR3Jsc1ZCdUpSWTBKQlNBaHU1SGltazNtRkJTVlJtR3NmZGFoYTRCNS1jQklJMngyTUFZUnJnM191YjRocWI1ZElOcWxJb3lmX1Z4QmtfRGtmb0pVSWdLc0JZYlI3UVZVdFRHMHBVNWNGUmNxeEZjZG9ndzI5WXhHVElQRFIzcDFWWGRvOFhsVGVnZGFjNWswb2c?oc=5",
-      "fonte": "Terra",
-      "publicado_em": "2026-11-13T13:34:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Maskavo lança clipe de \"Rumo ao Sul\" no Guaíba e revisita clássico do álbum \"Já\" Terra"
-    },
-    {
-      "id": "a1f65148b5bd",
-      "titulo": "Após surto em animais, prefeitura de Guaíba confirma 25 casos de doença transmitida de gatos para humanos",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOcFdWenc4Rm1VUXZ1aWFwajRucWx3Mk9iY3F2ZEtxNkJRbndUYVNVRG5QRG9reGd0OWpUVTdOOWp6RjliN21US3hIOEtpYVhmaEhvNmd2S2QxTk1XRExHYzhlTjdJTFJoUnZhMDRyZUJQTGxMa2VzMmVzUGZFYTRzaVRUaTZZWVN2cER6cF9LVXFQcDh4MTlINGVIMHlwUThZYnVnODRsZlVfMFltaGVCZHl0MmJBUWpUUEVkWWF3eHk2emY0dnZEMlhXc0ZIMml1UnZxQ2lwR1RFLXdrZ19ZWktFTDc0S0E2eVpaNlNFLUZMZjdOUUZsX3Y2eW9zZjVxVEhaMS1ldktDVDF1aUxjejFCa1pBdDNQdFdXWGxseG5TcWc?oc=5",
-      "fonte": "Diário Gaúcho",
-      "publicado_em": "2026-11-13T13:10:59+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Após surto em animais, prefeitura de Guaíba confirma 25 casos de doença transmitida de gatos para humanos Diário Gaúcho"
-    },
-    {
-      "id": "16d0854785dc",
-      "titulo": "Centauros disputa amistoso contra Guaíba neste sábado",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSDMyVkN4akhZdENEdmR1bEVJaksxX3NjQ1pHcXhlQXlwcDRHRi1WekJna05EWHQ4V01TMmNzUVF4a0t6WVZmeWVwS0pXbHdFY0s1ZHFueG1uSUU2by1oNndJUUZVa1ZOaUxuejNpeDhIbnI2REpZYTFZS2czSDRGVUlHNXRGTTVINjBaYkpzN3UwRU10blBCTlVJZm5LZkhEb3E4?oc=5",
-      "fonte": "Grupo A Hora",
-      "publicado_em": "2026-11-13T12:59:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Centauros disputa amistoso contra Guaíba neste sábado Grupo A Hora"
-    },
-    {
-      "id": "33a38b647d7a",
-      "titulo": "Trecho 2 da orla do Guaíba perde orquestra e não deve ter obras antes de 2028",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOV2MwZEZrRzdaVU5Kd1hPTXFxWGdCY0pUVENuS1MyZ1FHemV2d1NWTlBucDl0TU5WM203MzNZbXItY0plc3NkRTZkMXpveEpxVkg4NFBjZ2o1ckt2b3N0VzU5MUdYamtoZUdWS3VQTEs3bnc1WkpmaDVZOFVqRXFwSVVZNE9GakUtMTh2OWx1N3otVG9JS21tLWZiZFNta09zOFJsMk9GVzVhQjdRcHByZS1HTS1YdGtjN01peTJJdUE3UDNhOXlWSVhBYTNlSWptMFZhR242b2lLQ1pWZzhWWFg3bk1UOUdScDNRTTQ5ZVJHSEUyOUw0N3dOWHFSUnV0TG53N1JER1AxZTlKRHBJ?oc=5",
-      "fonte": "GZH",
-      "publicado_em": "2026-11-13T12:32:12+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Trecho 2 da orla do Guaíba perde orquestra e não deve ter obras antes de 2028 GZH"
-    },
-    {
-      "id": "7ae791bd1687",
-      "titulo": "Banco de Alimentos de Guaíba registra queda de 84% no estoque e busca reforçar doações",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlJyVUpoazFtbW9nOHhOejVYdkVwVDNpWjFMLVNMWmhRQTIzdlc1dXlfaks0UUplanZHY2paUEhsQUh4ekNrd0lScDdqQ0dWWnAtM1VWYkpla3N1WmRpbUg4ZVZrRWVoSDlqaTF1dWV2Q1hWVzU1enNSVGpaN09oTS1tZEx3VGpjMEFjcHN6ZzhvN0Y5V0tWcW8teVFQMG14RjZ0c0lsbUpLYnhzckdPY29FRjlra0k3ZWJnZXpjVnlMSmwxdDhHSV93?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-11-12T18:22:00+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Banco de Alimentos de Guaíba registra queda de 84% no estoque e busca reforçar doações Repórter Guaibense"
-    },
-    {
-      "id": "de3ffe2d2991",
-      "titulo": "Aula de yoga gratuita na Orla do Guaíba, em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUV9STUpUYVZWWnZhOFVWT2pIazZPa0dIekJaLUZkbFJUYWtKekItRVFYb0REZWcxLWUyZ1J0ZmFaNUN1SEs3SzdDUGxOVVZ1LW1lT3NXVk5iQ2pzcWNSbzdCVnZmT0dYUnJDNTlVanNLOVhaM293MFJWVUxISGRfYm5YZWdvOTTSAYwBQVVfeXFMT1VSRnRjeGh0WW9Zd01tU1ZwQ2lXSU5vRG1ER3NST0JaSXQtSmIyVDdjUjNnaUMwblZJWENlczBHUmdZYU1neHNybEJmMnpuM2s2cWdwcEpLdnN6VFlyZlNYOWFJbzZVazZIdjJQWkpZdThUbjNHVHpKTGY4dG1ZRGFEUzZIQ2RaT3lhSE4?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-11-12T14:01:24+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Aula de yoga gratuita na Orla do Guaíba, em Porto Alegre Jornal O Sul"
-    },
-    {
-      "id": "64c60944ebd8",
-      "titulo": "Com renda destinada à APAE de Guaíba, 6ª edição do Circuito Eco CMPC será realizada no dia 29 de novembro",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWnhueVFYNGxnOUlKYVlucXNHUjk3bUZKRzN4bGR1TThCY0w3M05RRWFBRDZmVG1FazJhcFdDcEN6MncyNlBld2RpNlJQYXNkT3NpcFJXU3JkX0FoS1ItQVNlME5ISXVyS045bERYWkZtRF9zcV9yUUNBWFNDZ1Q0N3Q2RU4tMkJkUmhaRTNmS0YxODNFbnJDQVYzY2N2bW1rT2ZROGdYMGVhZVFpYzgzci1Zdi1xeFFSdHVxaTA5RGhnOEVGS0xLbDNQY3VHOFNy?oc=5",
-      "fonte": "Portal Celulose",
-      "publicado_em": "2026-11-12T10:28:52+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Com renda destinada à APAE de Guaíba, 6ª edição do Circuito Eco CMPC será realizada no dia 29 de novembro Portal Celulose"
-    },
-    {
-      "id": "8c499d1603ec",
-      "titulo": "Vendedor, balconista, estoquista e mais: Sine Guaíba oferece 14 vagas de emprego nesta quinta-feira",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcTVHTlM5NXRBcDFrTWIxZUVUNnhVM0lRVXBfaU04Qm5rMVFnR2tSZHVYcWc5WFMyb2toS0xSVGVDMDBPY1Rza2hvamIzd0NKYjdVZHRadjBWb1FrQTdFVlV2YUl0OURwaFUybnowTUp4S2trM1BiT09peEtMNXpQUzI0VEhlYXpoZGVVYXZZRno4UnczRVNsZFg0V09hRGRJeFctcm0tUy0teUM1ZVY4Vk9pN1FyRG1vUkJwU2d5UENQVmdkVGRrRjlrYV9LV3BaSDZObTZsMmg?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-11-05T14:23:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Vendedor, balconista, estoquista e mais: Sine Guaíba oferece 14 vagas de emprego nesta quinta-feira Repórter Guaibense"
-    },
-    {
-      "id": "4e81dfe202b1",
-      "titulo": "Lula vence a eleição presidencial em Guaíba (RS)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG5SdFVYSVBuTzZweDVOeG9nSkZNWVkyUmlFQzBXdmNVd3hCQ0Q5RW9XcGMxcUFtTHJkVXFad0pUVVBKNUhNdFZDbjFBUlhpeE1PSnFzSl9udzBJZTlYd1VuYmtRZFFOX3BqZG9SRjRHQ21FM1BfZFV0aFNHcklWZ0lOdlFQc1IyQnoyeEZreVNiMkJfa0hEdWp6NGw?oc=5",
-      "fonte": "Congresso em Foco",
-      "publicado_em": "2026-10-27T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Lula vence a eleição presidencial em Guaíba (RS) Congresso em Foco"
-    },
-    {
-      "id": "4e3c538c989e",
-      "titulo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRHRmYkRxTlBiZlJFYnlmWXF5ckEzMk0xTTU5U0NlS1d2N0xhT2JrdEFreFZQM0FpMEFHaGpXU2txLXNQTlNqRXBGUEI3dHY1dW1laUREdFBwMjI3Y2FXanlaSGRGcm02aGxCeUxHNXc2ckpEX3FOc21FaE9WUGVBenJpdHZaMEUtWFJjUUljeXQ3VE5tMDVQN0FfWFdTZVFxOFg5UGRjaUxjU09WMjUtWlJzZEhLYndMRlBjX0lEOEZVbU81dHR2Y3A3Q2UybU5PNEdmN1VzNXdYUExrTTNOREZzU0tNZ9IB9AFBVV95cUxOZ3V3b0dMV0NISlp5N0wySUNRYXBhQVNjRWtqeXZrSmRsc1E2dG9yT1V3cEY5a0tuUFNQMnRNWnJyWWV4c2g3c1E2dW9rTF9VdFAzTElrVl9zbFBzblBkbHBBZ3k0MU8tX1JfWG01aVZTaGl4QlNtaEpEeml4SjIycmJqMkhqR0VLcVpPOGVIcEhXZnpvN3pxNmVJSC13QXpGUWxaaWtWbUFmNDJqcGlHdGFDblRGWktPeXBrVDVFamhlUFdNSllQeVUwSDAxVENTb3g3QXRJVTU2OGhDTDZJMUF4TDRZVHZUQnhvRjExdmJxaWlV?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno G1"
-    },
-    {
-      "id": "81b26f00b547",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSF9qbWI1MjR4d2tlUGZMUGZyVXZZaTE3WTFtZXNFbVlMR3E5Y3E1c2hiRzZKNGNJSl8tQUptb0x4aTNWeUNoaXpaVkdlUkdWZHlGNS1BczZKOURKMDJNTGtReXRjdFNKNmplUzBSbF84dHpOZmppclctZWpyc1NRaXpzRnZodWE5Q3dSOXhTVHhxR1ZkQkhLelNTbG5WMnUxaVdTSmJkWngyOTViWUVJNXlmSFR4RkozWFE5RHczUFhMNU9KbHhCOUpOVTNWX05CcTk1dWpPQ0xfUzFUMWZKRnk0Y2RpdTjSAfYBQVVfeXFMTVpLUm9WSWRTakJULWdrZUdSeklIdTNxMGVQa1UwTDdMaWp6V0haS2ozZkFCbkt4TEtORnR1WWgxWjFTMzFyUmU3MEM4TVNvdkZIa0x5b1Z6Ui1pSTFjbmx1V0NwVXRabE9TaVo0RnR5QUVHMkNHa2JkaklxS3FUbEJ5bmxScFRkTjR6YVpCb3h3elh5LTJQakhjRnA2TUlteTdHSzU4QlNxelB0THhNSFVTVXBYSkIzYnp1Y1hnOTVkUzVaZzBJUmVPNlQySlY5SUljeGNMZVFwWXlPNHlxOE9ObWlWb2lWVjVka0s5VjdPNjlpUzlB?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-25T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no 2º turno G1"
-    },
-    {
-      "id": "f900e7ecc42b",
-      "titulo": "FAQ - Repórter Guaibense - Site de notícias de Guaíba, Rio Grande do Sul",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1QjBjeGowel9tN194UEFrYUtER0Z2eDF6ZWFIdHJSVktiY1I3VjVYV1RwZGxRMU5TR2V3QXFLeEpFcEYxMTUyYTFuaGdvdEY2QlE?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T14:14:19+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "FAQ - Repórter Guaibense - Site de notícias de Guaíba, Rio Grande do Sul Repórter Guaibense"
-    },
-    {
-      "id": "3aa133136a9e",
-      "titulo": "Polícia Civil combate crimes contra a administração pública em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQTNrc0JyQXduV21rX3NGYkhLb3VYakdpUWdIeGg5QVh2LVJzdGVYc1FubjUxZmdXdG15WlJEc1RDSFFVRmNhY1FqZFRGNnI1dVU3TXJVeVpuZDFDRExoTkZxRFhzMnpMN2gwanp6eW02NHJZbG9wbWZ1YVZ3cW9nUEJ0RnYwWjZ3SjRMVmg1R19TRkpTSjlSUC13?oc=5",
-      "fonte": "Polícia Civil RS",
-      "publicado_em": "2026-10-22T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Polícia Civil combate crimes contra a administração pública em Guaíba Polícia Civil RS"
     }
   ],
   "noticias_home": [
     {
-      "id": "de9321bf42ce",
-      "titulo": "RS registrou quase 1,5 mil casos de esporotricose em 2026; doença transmitida por gatos tem alta em Guaíba",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/19/casos-esporotricose-2026.ghtml",
-      "fonte": "G1 RS",
-      "publicado_em": "2026-11-19T05:00:00+00:00",
-      "categoria": "G1",
-      "feed": "g1_rs",
-      "resumo": "Casos de esporotricose em animais aumentam em Guaíba e prefeitura apresenta plano Uma doença transmitida de gatos para humanos que preocupa as autoridades de Guaíba, diante da alta de casos no município, já foi registrada em quase 1,5 mil pessoas de 88 cidades do Rio Grande do Sul em 2026, segundo…"
-    },
-    {
-      "id": "f2689519cce5",
-      "titulo": "Casos de esporotricose em animais aumentam em Guaíba e prefeitura apresenta plano emergencial",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/17/casos-de-esporotricose-em-animais-aumentam-em-guaiba-e-prefeitura-apresenta-plano-emergencial.ghtml",
-      "fonte": "G1 RS",
-      "publicado_em": "2026-11-17T17:13:39+00:00",
-      "categoria": "G1",
-      "feed": "g1_rs",
-      "resumo": "Casos de esporotricose em animais aumentam em Guaíba e prefeitura apresenta plano O número de animais com diagnóstico positivo para esporotricose aumentou em Guaíba, na Região Metropolitana de Porto Alegre. O total passou de 293 para 302, nove casos a mais do que no levantamento anterior divulgado…"
-    },
-    {
-      "id": "88e64a656650",
-      "titulo": "Esporotricose: prefeitura de Guaíba orienta onde buscar atendimento após aumento de casos; saiba como prevenir",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/14/prevencao-esporotricose-guaiba.ghtml",
-      "fonte": "G1 RS",
-      "publicado_em": "2026-11-14T14:07:30+00:00",
-      "categoria": "G1",
-      "feed": "g1_rs",
-      "resumo": "Cidade do RS combate esporotricose após aumento de casos em humanos e em gatos A prefeitura de Guaíba, na Região Metropolitana de Porto Alegre, orienta que moradores com sintomas de esporotricose procurem o Hospital Nelson Cornett. A recomendação foi divulgada em meio ao aumento de casos da doença,…"
-    },
-    {
-      "id": "1b8d56321ce1",
-      "titulo": "Marcha para Jesus em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IMktidGZxT3FnUjh5dXFyQ3RCbmdmZmZQZVJPNGd6SmV1VC1Zczlmbl9rSjBTVF9vNkd5S2NoVmFkV1psV0hUc3JwQlBUUWJzUUcya2hRal9hYWZRXzRGa3ln0gFnQVVfeXFMTWo4SlBaVlpYWFJMSkMwY29DWTBzSHFGQ21kbjZvbU9sdFdsVF9hREJhVnJSN3hYMnpiT29jVHJNVmJVbmdRN1NqWFM3NndENWNaZ1lFamxWckp0TmthdklfR2ZDU3pMUQ?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-11-19T04:29:35+00:00",
+      "id": "9d9722e31cd3",
+      "titulo": "Jovem de Guaíba precisa de cirurgia cerebral e família organiza vaquinha para custear procedimento",
+      "url": "https://www.reporterguaibense.com.br/noticia/jovem-de-guaiba-precisa-de-cirurgia-cerebral-e-familia-organiza-vaquinha-para-custear-procedimento",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Marcha para Jesus em Guaíba Jornal O Sul"
+      "feed": "reporter_direto",
+      "resumo": "Até esta quinta-feira (5), foram arrecadados R$ 15 mil, sendo que a meta é chegar a R$ 40 mil"
     },
     {
-      "id": "1df1b21a93be",
-      "titulo": "Guaíba registra aumento de casos de esporotricose em animais e anuncia plano emergencial",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPX1poWFdnSzh3SnN5Sm1ZZHhET0F6d0ZudGtaX1FrMW44RThMZV9WVFFVU2NvbjBiSGZpWlppWFU2VWgyTlF2V2tkNEJabXllTEk4LVJnUk5OZmpxdkhQWmNCbm5JMXdHS0hMS1NyT0o2UzdTdV9CbjItc3lOWGNCZkpBbjRGNlVqQXA1Mm42clpFOUFXcnd5X1NuUDRwaW1VWlFzcE1JUjJuTmJlVnVmai1MYnByMXpRV1h3ejZYMDJLbENCanVFZ01sajU1RjU0a0pyRDVuNGY0dVl0dlVMM3B3UHRLU3d4UXVOYXRSeVpsamYzOEt2TWswSTc1bDFycWtlMjZR?oc=5",
-      "fonte": "Terra",
-      "publicado_em": "2026-11-17T22:46:00+00:00",
+      "id": "3019f3de0304",
+      "titulo": "Prefeitura de Guaíba esclarece que segunda parcela do 13º salário dos servidores não será parcelada",
+      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-garante-pagamento-do-13-salario-apos-circulacao-de-documento-sobre-parcelamento",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Guaíba registra aumento de casos de esporotricose em animais e anuncia plano emergencial Terra"
+      "feed": "reporter_direto",
+      "resumo": "O poder executivo reafirmou que a segunda parcela do benefício deverá ser paga normalmente"
     },
     {
-      "id": "c5a8831b1178",
-      "titulo": "O Guaíba além da paisagem: a qualidade da água e os desafios ambientais de Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPemF6dk9XSXcwYW5yU1ppTmVuNlg0bzllV1A0b0p0X0VCbUpPMDZ4c3JneDltbHlyYXF5YUMxa2dQeFNVSTRyZGxOSW9tZ1FweGFuSmhrNy11YjNrNlhkOHFSTDJwdms2cG16bEZubGwzb2NlOHF2M2NXWC1ENUFYbjBWTlUtbEUyeVczc2l5TnhDUDE4Y2dIckRSR1ZtOUN1dlo4Yk9aeDJ3Y2FFM3FIc2wzblpwWktOVEhUTjJNM1hBd0tiaTN4T2FoQXpYUVJqemFTVWduTk9NNUpmM18tdS1SUlVOSzFiNUFF?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-11-17T18:50:41+00:00",
+      "id": "f3ff7e307b63",
+      "titulo": "Sindicato Rural de Guaíba sedia o Mundialito do Cavalo Crioulo com R$ 95 mil em premiações",
+      "url": "https://www.reporterguaibense.com.br/noticia/sindicato-rural-de-guaiba-sedia-o-mundialito-do-cavalo-crioulo-com-r-95-mil-em-premiacoes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
       "categoria": null,
-      "feed": "correio",
-      "resumo": "O Guaíba além da paisagem: a qualidade da água e os desafios ambientais de Porto Alegre Correio do Povo"
+      "feed": "reporter_direto",
+      "resumo": "Para 2027, a meta é ampliar ainda a participação de criatórios do Rio Grande do Sul e de outros estados"
     },
     {
-      "id": "4075ea59461c",
-      "titulo": "Casos de esporotricose em animais aumentam em Guaíba e prefeitura apresenta plano",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUHdYYkFMWEdQZWpLMkg1aVFaMjZ1Y20zMHgyVE1sS0JPSV84S19NVVo5RmNzUDM1QUloSmhmRGpodUp5NHJOaDYwWUdqVzcxQ1o1Zl91UGpEZ3E1LW5KN3oxMmhsdmJoUHV0Ykc5aFZzTFZCOGNITUZxOTdESlJnaFRWOGsxRlZxUGhfSjJXVVJsYUR3R0JtLWVDZE1yaHpSc2xUY1ZEOXRwTW1jTGtnbllKUHJtRGxvWW5TTnA2anFHZGsyWHB1bjlXelFxUlZtTmMzbjZkc3F1a1920gHrAUFVX3lxTE1YRktZNml0MU9uZmFBbXBaaFJpQ2EzemNIeXFKZ0J1QWU3WENHY1lnYUVCaU9sdjZwV2RuMkkydnF5OVN5UTVualI2MkhKQ1lMbjZiSHhFNkFybF9DeGhXSkFGamQ0Ry1GR3JGS1l1ck04ODl2dkM3YjBzZ29qTEFoSWo3RXBDUE00TWxCWmpjR2hGUEtabk1iMFJfOVlMOVM2TWFUQnpONTRTYXpsbmwySjU5T2hHUjB3Mi1paVBFVjFkdFJOeVVINzJKZC1GZmVUZnVrQm90Rm0yWGNVUFdsUFpVS2JPV01VaUU?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-11-17T18:27:33+00:00",
+      "id": "0e4181da1d9d",
+      "titulo": "Vendedor, balconista, estoquista e mais: Sine Guaíba oferece 14 vagas de emprego nesta quinta-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/vendedor-balconista-estoquista-e-mais-sine-guaiba-oferece-14-vagas-de-emprego-nesta-quinta-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Casos de esporotricose em animais aumentam em Guaíba e prefeitura apresenta plano G1"
+      "feed": "reporter_direto",
+      "resumo": "Os interessados podem cadastrar seus currículos de segunda a sexta-feira diretamente na agência do Sine"
     },
     {
-      "id": "1e8c94cd5109",
-      "titulo": "Prefeitura de Guaíba é obrigada a garantir tratamento para esporotricose",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMHpndU5iR0ktWHZNSFdORHhzZ05oMFVRbWh1MkVuZlk3SDZsN0dqSjZpRmtIVWZMN1hYTG5mMXEtQXB1MDFGYnptYnNWU2dNUUpkdEJpdzBOZWNUbExuNzlBLUFZWVdUNEYxRnNnQUZkRy1CMUdYRW1EdkZ6aWV0UmNaaHBnYkZQbzdCcEZIN29FOWFPNEh0V2EyMkhRdmNvNWxxWlFHc3BxYnMzdU8xQmV4Q1RvWFZSUGNTNEJ5aHdOcnhPT1RreWozMlMycjRIWjhTWFJFWUVMUQ?oc=5",
-      "fonte": "R7",
-      "publicado_em": "2026-11-17T17:41:23+00:00",
+      "id": "fcb1878c62ca",
+      "titulo": "Sine Guaíba oferece cerca de 20 vagas de emprego nesta semana; veja a lista",
+      "url": "https://www.reporterguaibense.com.br/noticia/sine-guaiba-oferece-cerca-de-20-vagas-de-emprego-nesta-semana-veja-a-lista",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "Prefeitura de Guaíba é obrigada a garantir tratamento para esporotricose R7"
+      "feed": "reporter_direto",
+      "resumo": "Lista inclui oportunidades para pessoas com deficiência (pcd&#39;s)"
+    },
+    {
+      "id": "d9446b4d2524",
+      "titulo": "Grupo Lebes realiza último evento da turnê de 70 anos em Guaíba",
+      "url": "https://www.reporterguaibense.com.br/noticia/grupo-lebes-realiza-ultimo-evento-da-turne-de-70-anos-em-guaiba",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "A organização preparou atividades para as famílias e sorteio de prêmios neste domingo (8)"
+    },
+    {
+      "id": "cff521e7bd3f",
+      "titulo": "Frentista, vendedor, eletricista e mais: Sine Guaíba oferta 19 vagas de emprego nesta quinta-feira",
+      "url": "https://www.reporterguaibense.com.br/noticia/frentista-vendedor-eletricista-e-mais-sine-guaiba-oferta-19-vagas-de-emprego-nesta-quinta-feira",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "As oportunidades são rotativas, o que significa que podem ser preenchidas ao longo do dia e não necessariamente estarão disponíveis no dia seguinte"
+    },
+    {
+      "id": "e5cc2ae4f89d",
+      "titulo": "Banco de Alimentos de Guaíba registra queda de 84% no estoque e busca reforçar doações",
+      "url": "https://www.reporterguaibense.com.br/noticia/banco-de-alimentos-de-guaiba-registra-queda-de-84-no-estoque-e-busca-reforcar-doacoes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Situação atual da rede foi tema da reunião-palestra do Rotary Club de Guaíba, na última terça-feira"
     }
   ]
 }
