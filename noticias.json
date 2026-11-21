@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-20T18:19:38.690387+00:00",
+  "gerado_em": "2026-11-21T01:05:17.074782+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -73,16 +73,6 @@
     }
   ],
   "noticias": [
-    {
-      "id": "9d9722e31cd3",
-      "titulo": "Jovem de Guaíba precisa de cirurgia cerebral e família organiza vaquinha para custear procedimento",
-      "url": "https://www.reporterguaibense.com.br/noticia/jovem-de-guaiba-precisa-de-cirurgia-cerebral-e-familia-organiza-vaquinha-para-custear-procedimento",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Até esta quinta-feira (5), foram arrecadados R$ 15 mil, sendo que a meta é chegar a R$ 40 mil"
-    },
     {
       "id": "3019f3de0304",
       "titulo": "Prefeitura de Guaíba esclarece que segunda parcela do 13º salário dos servidores não será parcelada",
@@ -172,6 +162,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Catsul passa a ser ponto de coleta e entrega entre Guaíba e Porto Alegre Mobilidade Porto Alegre"
+    },
+    {
+      "id": "c6c0e4c1b2bf",
+      "titulo": "Clínica veterinária municipal de Guaíba suspende entrada de cães após confirmar 10 casos de cinomose",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPM0lpNEd1YnRLMW9zSnNMOFF0RjhPbE1FQ2ZudWwyQVJMQWRjeWJPRVAyQ1BSQ1p0WFdVTWFqU1pYYWdScjdrejNEbmI4blpjNE5nVTFJSEdsOTdRMFI3dERqN1YzeFh3STcydFRRT05sTmdFcUZ5M3NDc1JqMk9ESWZvZ3A4dEt6bFdiUURaLWJCWHJ3VmJHVHJ5OXVKYWJqQlRYa3ZZeGt1dkZfMlZ0aFRJdTNJYXcyWm5rWC1QakN6NThPbXpJOVJUY2lCT08zNkFzRmMwd25Ga0c2TXdzNDgzU0FtYW9DTGpyNS16QzBDN0FCbFhrXzBuUGZDZ1hTc1ZUNm84dENYa3MycGh2RFc4QQ?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-11-20T00:37:44+00:00",
+      "categoria": null,
+      "feed": "gzh_metro",
+      "resumo": "Clínica veterinária municipal de Guaíba suspende entrada de cães após confirmar 10 casos de cinomose GZH"
     },
     {
       "id": "39e69d36c9b8",
@@ -284,6 +284,16 @@
       "resumo": "Guaíba (RS) tem 25 casos de esporotricose e alerta sobre abandono TV Sim Brasil"
     },
     {
+      "id": "74518ea6d3fd",
+      "titulo": "RS obtém reconhecimento internacional na COP31 por projeto climático sobre bacias hidrográficas do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWEpKc0RVRUVfMWs4U3lpMlozQWxXd2h6WS1sT2ZaSktPU2Z3TUxwekt2cGUwNkhpYTNfQWZ0NHIxNkt2bm8wVXptNFZRMmR4QURkMFlTQS1KSUJGM2lJM2FOVUw3a1pYOVdJNVgzS29TR0tNNENsalJUOWJvSDNRLXJGYnViU1M4NVRfQWtoelNxYXd4aS1GdHBIeHEyUEtLcUpGR0xKOFhkb3RkeUNoSDJCdno5a09KTUxvUENpektrX2RFZ0t5VFdZZkpYd09ndnc?oc=5",
+      "fonte": "Rádio Pampa",
+      "publicado_em": "2026-11-15T01:34:14+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "RS obtém reconhecimento internacional na COP31 por projeto climático sobre bacias hidrográficas do Guaíba Rádio Pampa"
+    },
+    {
       "id": "bcea125e160f",
       "titulo": "Corrida do Servidor movimenta a Orla do Guaíba com esporte e atrações para famílias",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMExZVlp4RWktY1ZKZ2xoV3I2dl9VNVNQWmc4and1bV8xQzBDaEJybGMzcm5saHNXQW5qUnhqeV9CWVJvREwyb3UtLUVENk96YUFmcmgtSE5xT3hXVjNUU3J1dkRfX01RZzVzbHlUOGxLMVYyUXhGVWdUX2R2dlotV3owd0QweldsR1dUUzR0dGFtSlB4T2lTUGVwUFc3RWJOUHNvTjhCTVBGdkpU?oc=5",
@@ -324,16 +334,6 @@
       "resumo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço UOL Economia"
     },
     {
-      "id": "c6b694c1fa55",
-      "titulo": "Centauros encara o Guaíba em amistoso neste sábado - Jornal",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVhhVGRRb1BCRVNXVnI1Vm5GcG9WdVhjYzlvRUdxVktyeGVXcTU1RXVlUDItTWdHbFBjRjNnUVh3UnRZRHJ6TlJwMEYzdnlaazBGVWZ3aTB3b04yTEVlVnlrZl9mUFNNS0JGVnhlLVBuTjRrSFZJQzF6eHRxMmY4bkZkbTdlZVpzZUZJbHBTWFp0ZXdzcWVXVWJQazhCSG8?oc=5",
-      "fonte": "Jornal - Folha Popular",
-      "publicado_em": "2026-11-13T21:15:42+00:00",
-      "categoria": null,
-      "feed": "recentes",
-      "resumo": "Centauros encara o Guaíba em amistoso neste sábado Jornal - Folha Popular"
-    },
-    {
       "id": "8c499d1603ec",
       "titulo": "Vendedor, balconista, estoquista e mais: Sine Guaíba oferece 14 vagas de emprego nesta quinta-feira",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcTVHTlM5NXRBcDFrTWIxZUVUNnhVM0lRVXBfaU04Qm5rMVFnR2tSZHVYcWc5WFMyb2toS0xSVGVDMDBPY1Rza2hvamIzd0NKYjdVZHRadjBWb1FrQTdFVlV2YUl0OURwaFUybnowTUp4S2trM1BiT09peEtMNXpQUzI0VEhlYXpoZGVVYXZZRno4UnczRVNsZFg0V09hRGRJeFctcm0tUy0teUM1ZVY4Vk9pN1FyRG1vUkJwU2d5UENQVmdkVGRrRjlrYV9LV3BaSDZObTZsMmg?oc=5",
@@ -364,27 +364,17 @@
       "resumo": "90ª zona eleitoral de Guaíba (RS): votos por local de votação no 2º turno G1"
     },
     {
-      "id": "2bf5e8c54fad",
-      "titulo": "GUAIBA Futebol Clube, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWm02QUpLSXd6a096M3hQbG9wZGV6TnlMcE9remtBQUVwMzlPbWpVMDc0VEIwNnlKWjZETjdGTlhaVTRlT1l6X1FJSTFYdlhQTV9zNzhhbFRSdHB3emdzS1pVemVvcnlzdlY1QUt3QTd1a29YcHZ1T2lCSEdja045b3pIbWxsd2pscjdRQ1RBb3laWnp5Rkw0SWNwa09kcXFTS3pxdm14UUpScWhKUlpDbENxT1lzRGh1RElsTEc3TW16RjEzVTNQNjRHMVRLcUNPWTQwOE5PR3gya3NCLWZsU2ZzM3NTQ1FJUmIzM0hZVi1fMmdTZUVzVkpn0gGIAkFVX3lxTE1vcENwczg1MmRCZi1sUGg0cHNoWlQzTE1ya293SVo5YUphNnJhTXNEQW5WWWZuSnZ2ajlaOXhCTE1zdUVvNGwwbmhFaUV3ZTVTNF9mdWZFczdzQ2lEQ1F4bnBEa2gxS3VuMmtGcWJjSDRLSkJFeG82b2RvaHMyNU1jTTJzTlJvY0M3Tlo3U3N0eHF4N1BjRnlOQnBOSXVENTNRRlVCUVl3cWdKR2ZKUldJNkNPV2Z2aC1pdEdVNmpHMUJobWZhbk5LUEgxeDR1aHFtbEQ4WXcyNmxyY2dfbC1nME5aV2sxTGJFZmMwOWQtSkdPdjFMa1hwcERmT2s3cDUwcjk0cVhLcA?oc=5",
+      "id": "59821544750e",
+      "titulo": "E.M.E.F. Maximo Laviaguerre, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNU0VsbnRBS2dfVnlJdWVFVHFjaldZQXpfNG9HNzE1dFRyVWI1b0xNSDdxS1FGakFmSi1pd0JNc0xSc2U3c3Vfd0M5dEV6SGpFOWpLWEtmaWNhT2cxcmtwRWFuSFJ6N2hWY1JMWGQ2Z1VUMU5XZ0x6MWJMUmRUZmtRUEl4VEp5UmNnWXRTNmVjWlVmNENIMTlldG1TNzl2Y1Fqd3N0NExlZF84SzZHelBjRUxYRkRvTWcxQV9URkJMcWs4aUZMSzIybmZQUEdZdXVRb3NzQm1OUHlCN2JXeHlIN0ozUmhkZ19BMklpMXpBdVp5U3hsZ0JlZVpKTmQ1YTJaMlHSAZACQVVfeXFMT3E4UkIyX1VMWmFPZmt1X1R5aV9yVkVjdGhaemJXeWR1MTV1QUJpckFueWluMk9QVkdxcDllb1VVVVJPS0VwYlhoRkNJLUZfM0tINTNlTXlqTkh0YXhsT1NPTlRkYXVxbzBsaUhzU1Z0YkZmN3hiQXpsbVFrOG5uXzJ3Mk5OTTVDdy0wYWN5TlcxQkVYVFVoelIxeWIzTXVsUXFjRm5ZUVRmRnlKaExjWHYwM044LTNoRHNrTXdKaGRKSlJLX184WEhwMWhwZ0FfMVJrXzZJeFF2LThkQmVZYnVJdGJDS2lhMkF1VWtCaFpub3JFRVRpU25jN3kwbDFDZDF5SnhGNU1fYWw0RE9PR2c?oc=5",
       "fonte": "G1",
       "publicado_em": "2026-10-26T07:00:00+00:00",
       "categoria": null,
       "feed": "google",
-      "resumo": "GUAIBA Futebol Clube, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
+      "resumo": "E.M.E.F. Maximo Laviaguerre, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
     }
   ],
   "noticias_home": [
-    {
-      "id": "9d9722e31cd3",
-      "titulo": "Jovem de Guaíba precisa de cirurgia cerebral e família organiza vaquinha para custear procedimento",
-      "url": "https://www.reporterguaibense.com.br/noticia/jovem-de-guaiba-precisa-de-cirurgia-cerebral-e-familia-organiza-vaquinha-para-custear-procedimento",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Até esta quinta-feira (5), foram arrecadados R$ 15 mil, sendo que a meta é chegar a R$ 40 mil"
-    },
     {
       "id": "3019f3de0304",
       "titulo": "Prefeitura de Guaíba esclarece que segunda parcela do 13º salário dos servidores não será parcelada",
@@ -454,6 +444,16 @@
       "categoria": "G1",
       "feed": "g1_rs",
       "resumo": "Casos de esporotricose em animais aumentam em Guaíba e prefeitura apresenta plano Uma doença transmitida de gatos para humanos que preocupa as autoridades de Guaíba, diante da alta de casos no município, já foi registrada em quase 1,5 mil pessoas de 88 cidades do Rio Grande do Sul em 2026, segundo…"
+    },
+    {
+      "id": "f2689519cce5",
+      "titulo": "Casos de esporotricose em animais aumentam em Guaíba e prefeitura apresenta plano emergencial",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/17/casos-de-esporotricose-em-animais-aumentam-em-guaiba-e-prefeitura-apresenta-plano-emergencial.ghtml",
+      "fonte": "G1 RS",
+      "publicado_em": "2026-11-17T17:13:39+00:00",
+      "categoria": "G1",
+      "feed": "g1_rs",
+      "resumo": "Casos de esporotricose em animais aumentam em Guaíba e prefeitura apresenta plano O número de animais com diagnóstico positivo para esporotricose aumentou em Guaíba, na Região Metropolitana de Porto Alegre. O total passou de 293 para 302, nove casos a mais do que no levantamento anterior divulgado…"
     }
   ]
 }
