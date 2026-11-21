@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-21T09:13:27.461460+00:00",
+  "gerado_em": "2026-11-21T17:05:55.297730+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -164,14 +164,24 @@
       "resumo": "Catsul passa a ser ponto de coleta e entrega entre Guaíba e Porto Alegre Mobilidade Porto Alegre"
     },
     {
-      "id": "39e69d36c9b8",
-      "titulo": "CMPC recebe apicultores do Rio Grande do Sul no 2º Seminário Favos do Sul, em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGE3U2xSM0FhYXhKNl9XVWxkUE0wTXNIQ0ZFU0I2bE9NTTJSSFJ0VUpJdFFQSXlFQWlYZjExQVN1cnFnZlZZeHhpMHI1U0ZBWGVmaGlMRGF1Mm5aYThmNDFzRGIybk13RE51Q2R6MFZWUDdVaGRvMW9QdmdMYVNDaXpkZVhsWGRqSE93c3FFR0xTaE8xZU5uMEdvSXk4UXJFXzI1MDZBQmc?oc=5",
-      "fonte": "Portal ClicR",
-      "publicado_em": "2026-11-19T17:41:32+00:00",
+      "id": "c6c0e4c1b2bf",
+      "titulo": "Clínica veterinária municipal de Guaíba suspende entrada de cães após confirmar 10 casos de cinomose",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPM0lpNEd1YnRLMW9zSnNMOFF0RjhPbE1FQ2ZudWwyQVJMQWRjeWJPRVAyQ1BSQ1p0WFdVTWFqU1pYYWdScjdrejNEbmI4blpjNE5nVTFJSEdsOTdRMFI3dERqN1YzeFh3STcydFRRT05sTmdFcUZ5M3NDc1JqMk9ESWZvZ3A4dEt6bFdiUURaLWJCWHJ3VmJHVHJ5OXVKYWJqQlRYa3ZZeGt1dkZfMlZ0aFRJdTNJYXcyWm5rWC1QakN6NThPbXpJOVJUY2lCT08zNkFzRmMwd25Ga0c2TXdzNDgzU0FtYW9DTGpyNS16QzBDN0FCbFhrXzBuUGZDZ1hTc1ZUNm84dENYa3MycGh2RFc4QQ?oc=5",
+      "fonte": "GZH",
+      "publicado_em": "2026-11-20T00:37:44+00:00",
       "categoria": null,
-      "feed": "recentes",
-      "resumo": "CMPC recebe apicultores do Rio Grande do Sul no 2º Seminário Favos do Sul, em Guaíba Portal ClicR"
+      "feed": "gzh_metro",
+      "resumo": "Clínica veterinária municipal de Guaíba suspende entrada de cães após confirmar 10 casos de cinomose GZH"
+    },
+    {
+      "id": "f961178a1787",
+      "titulo": "CMPC recebe apicultores do Rio Grande do Sul no 2º Seminário Favos do Sul, em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVNqOGZ5NjVYZUtNNDRyX3pGQmlRU0lrblkyRXdrVGtSZTNJbWk0WFZuYzl1SURyZHdLaGlEZC14bkYxOEJsTlJjd2pjb1lNc2ZFblFhcTNEVEU1cGxRY3hJTlVOSlF1MU5CbTRPUkZDU1ducGhhZmtlN1RvMzFZX2Fvenk1aVdXM0NWTG9Gc0I2ZDNOOGJKYTZWMGRsQjEwM3FRSlZtbWdRanlRcTAzN1Y5V2tkNTl2MW1pZkcyWHFnNTg5TjBRM1BBcw?oc=5",
+      "fonte": "A Hora do Sul",
+      "publicado_em": "2026-11-19T14:25:00+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "CMPC recebe apicultores do Rio Grande do Sul no 2º Seminário Favos do Sul, em Guaíba A Hora do Sul"
     },
     {
       "id": "c7ae693cd78a",
@@ -202,6 +212,16 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Guaíba registra aumento de casos de esporotricose em animais e anuncia plano emergencial Terra"
+    },
+    {
+      "id": "865dbe75cf98",
+      "titulo": "Suspeito de sequestrar vítimas por dívidas de agiotagem é preso em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TN2QyWkhLLUhvRUJXQ1FZb0lkNFA4NTNWdG41d0xOWFh6UENmclEzQlBzOC1yeVNydHVFbmdnX3pSQ3dvRXZqVzNMVXkyeFJTNExUYnA2U0V6dnV6ZUQ5REM3Q1BqOVJWcl9Jbk5hWXY0R3d3cFE0NDJ5dw?oc=5",
+      "fonte": "Rádio Acústica FM",
+      "publicado_em": "2026-11-17T18:59:43+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Suspeito de sequestrar vítimas por dívidas de agiotagem é preso em Guaíba Rádio Acústica FM"
     },
     {
       "id": "c5a8831b1178",
@@ -264,6 +284,16 @@
       "resumo": "Guaíba (RS) tem 25 casos de esporotricose e alerta sobre abandono TV Sim Brasil"
     },
     {
+      "id": "293ac1c9ea87",
+      "titulo": "RS obtém reconhecimento internacional na COP31 por projeto climático sobre bacias hidrográficas do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOE1XOWZGdjdZOGdHcFIwNnhUR3FEcTExZUtSdGN6dDBpc0Y5M1JBQmdaTXFVdE9VcEZkMWNiYml2aHBHV0ZSaVB5MER1dnpMX1ItU1k3VS1Sc0VqeEw0Y1hySFAtSHU3RTJmckpxd21OSlU0eFluWWJoMWM0cjZuSjdTLUZQSkdfTHlmLXNuajgzdm5MYVhSU1pYV3NDU1NpSXlLRXBhMmNmbjhWQzU3VXRTR25fUFh3NjZSZ1gxRnlVQldQUXptTXV30gHPAUFVX3lxTE1fMG9aUkgzSmJmeWhSSE1yRmdpYlpRdWc5WTVXMUtTQmM5UnlTSFFobWQ5M2c1Q3dsbFBtSVZXSHU2NlJ0VWQxY281eTFtOVJwRmRPaXR0OWtXdnRILTNLWXVRQkQ1aU01SW5TWGRGeVkyVzkyMVg4OWZ6STNwdkloUnRlNjRhTTR2N21ydTdhczZWc2p4OWxWQ21CZ1lVdDRNVWhiRmJQNmR4NFJQRThvSjZlNl9nbVVzSVZqNTBveTVTeHhtaDY3ay1STktFWQ?oc=5",
+      "fonte": "Jornal O Sul",
+      "publicado_em": "2026-11-15T01:16:11+00:00",
+      "categoria": null,
+      "feed": "vizinhos",
+      "resumo": "RS obtém reconhecimento internacional na COP31 por projeto climático sobre bacias hidrográficas do Guaíba Jornal O Sul"
+    },
+    {
       "id": "bcea125e160f",
       "titulo": "Corrida do Servidor movimenta a Orla do Guaíba com esporte e atrações para famílias",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMExZVlp4RWktY1ZKZ2xoV3I2dl9VNVNQWmc4and1bV8xQzBDaEJybGMzcm5saHNXQW5qUnhqeV9CWVJvREwyb3UtLUVENk96YUFmcmgtSE5xT3hXVjNUU3J1dkRfX01RZzVzbHlUOGxLMVYyUXhGVWdUX2R2dlotV3owd0QweldsR1dUUzR0dGFtSlB4T2lTUGVwUFc3RWJOUHNvTjhCTVBGdkpU?oc=5",
@@ -290,7 +320,7 @@
       "fonte": "G1",
       "publicado_em": "2026-11-14T14:07:30+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "google",
       "resumo": "Esporotricose: prefeitura de Guaíba orienta onde buscar atendimento após aumento de casos; saiba como prevenir G1"
     },
     {
@@ -342,36 +372,6 @@
       "categoria": null,
       "feed": "google",
       "resumo": "GUAIBA Futebol Clube, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "81b26f00b547",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSF9qbWI1MjR4d2tlUGZMUGZyVXZZaTE3WTFtZXNFbVlMR3E5Y3E1c2hiRzZKNGNJSl8tQUptb0x4aTNWeUNoaXpaVkdlUkdWZHlGNS1BczZKOURKMDJNTGtReXRjdFNKNmplUzBSbF84dHpOZmppclctZWpyc1NRaXpzRnZodWE5Q3dSOXhTVHhxR1ZkQkhLelNTbG5WMnUxaVdTSmJkWngyOTViWUVJNXlmSFR4RkozWFE5RHczUFhMNU9KbHhCOUpOVTNWX05CcTk1dWpPQ0xfUzFUMWZKRnk0Y2RpdTjSAfYBQVVfeXFMTVpLUm9WSWRTakJULWdrZUdSeklIdTNxMGVQa1UwTDdMaWp6V0haS2ozZkFCbkt4TEtORnR1WWgxWjFTMzFyUmU3MEM4TVNvdkZIa0x5b1Z6Ui1pSTFjbmx1V0NwVXRabE9TaVo0RnR5QUVHMkNHa2JkaklxS3FUbEJ5bmxScFRkTjR6YVpCb3h3elh5LTJQakhjRnA2TUlteTdHSzU4QlNxelB0THhNSFVTVXBYSkIzYnp1Y1hnOTVkUzVaZzBJUmVPNlQySlY5SUljeGNMZVFwWXlPNHlxOE9ObWlWb2lWVjVka0s5VjdPNjlpUzlB?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-25T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no 2º turno G1"
-    },
-    {
-      "id": "f900e7ecc42b",
-      "titulo": "FAQ - Repórter Guaibense - Site de notícias de Guaíba, Rio Grande do Sul",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1QjBjeGowel9tN194UEFrYUtER0Z2eDF6ZWFIdHJSVktiY1I3VjVYV1RwZGxRMU5TR2V3QXFLeEpFcEYxMTUyYTFuaGdvdEY2QlE?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-23T14:14:19+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "FAQ - Repórter Guaibense - Site de notícias de Guaíba, Rio Grande do Sul Repórter Guaibense"
-    },
-    {
-      "id": "3aa133136a9e",
-      "titulo": "Polícia Civil combate crimes contra a administração pública em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQTNrc0JyQXduV21rX3NGYkhLb3VYakdpUWdIeGg5QVh2LVJzdGVYc1FubjUxZmdXdG15WlJEc1RDSFFVRmNhY1FqZFRGNnI1dVU3TXJVeVpuZDFDRExoTkZxRFhzMnpMN2gwanp6eW02NHJZbG9wbWZ1YVZ3cW9nUEJ0RnYwWjZ3SjRMVmg1R19TRkpTSjlSUC13?oc=5",
-      "fonte": "Polícia Civil RS",
-      "publicado_em": "2026-10-22T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Polícia Civil combate crimes contra a administração pública em Guaíba Polícia Civil RS"
     }
   ],
   "noticias_home": [
