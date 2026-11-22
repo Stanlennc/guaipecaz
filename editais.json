@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-21T22:46:05.876363+00:00",
+  "gerado_em": "2026-11-22T05:07:38.056432+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -29,15 +29,6 @@
       "tipo": "vaga",
       "publicado_em": "2026-11-05T14:23:00+00:00",
       "feed": "vagas"
-    },
-    {
-      "id": "5070eb82a295",
-      "titulo": "EDITAL COMISSÃO ELEITORAL Nº 003/2026 – GUAIBAPREV EDITAL DE INSCRIÇÕES PARA AS ELEIÇÕES GUAIBAPREV 2026 — Diário Oficial dos Municípios do Estado do Rio Grande do Sul",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2RW40c1BUWU9VaFF3T01oWTRTRkY0Y1NNVm0yVlB1WlpaRkczQVVKNVdOQW1tR2IzVUZKT3g4amN0TXo4NGp3N2RZR0Vha0xoQ2cwb0o5U3VIQm1aRlFNcmt3ZFNUb0hpbGc?oc=5",
-      "fonte": "Agiliza Sergipe",
-      "tipo": "diario",
-      "publicado_em": "2026-11-04T08:00:00+00:00",
-      "feed": "famurs"
     },
     {
       "id": "1d8c9bd9184e",
@@ -98,6 +89,15 @@
       "titulo": "Polícia Civil realiza operação para combater fraudes em licitações em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDd4cDlmMDlUWGxHeVFEdVd6WkhuVGZHRngtZ2tUSXpaWEpmUG96U1N2RHA1Y2l2RVhmZXdDcmd1a1pFRU1WTjdNUG9Qdlo2ZDd3dm5ydldnd0NnaHZPaTE4eU5DWXBUeWF2NXNBemhJZm5GVmlfUmVGN1FrTnR1bGxfS1VmRUwwbklmRmlva3ZkdFpFajVfSVBnbnhKQXVrdlQw0gGoAUFVX3lxTE0zeTFIX2psb3lKXzA1RG1OLWVVaGpMYm04cEt3SGlneDJGY1pmVjdneUZkb0VyY0RaQUFMSkF4SDdhVkIzblAwY1dtdWRoLUk0YUlEenhyRjZWNGxLQkVTV0NTUlJ2VEFaOEo1QzN4d2ZEOFBLNjRIWUliODI1dm8zOWxMcjU5VVMtMGJfWW9lR2x0WVpvSmdIaF95SnJMQVVDcE16NEI3bQ?oc=5",
       "fonte": "Jornal O Sul",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T07:00:00+00:00",
+      "feed": "licitacao"
+    },
+    {
+      "id": "777f5686ff2f",
+      "titulo": "Operação da Polícia Civil investiga suspeita de fraude em licitações na Prefeitura de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1ViYi1xVk1QRXhVR1MzcHFXMFplVzhoaUhST1ROQU1YaTRXMzV4YTlWdzkwYlhnZkVkcE4waWRxMnNzMlZoNktadS0wU1FlMmtURFdZWDNKVHM2Vjd5TlVESlE1WUpzX1ZQMGYydnJQWkk5cjFBbTh3Z3hpLWxJcGljQy14aXBKLTN5OUQ0ajEyeUszNVVVdW5pQnI5UW1VUGFBTkVUeWdCcFViS2c?oc=5",
+      "fonte": "Rádio Guaíba",
       "tipo": "licitacao",
       "publicado_em": "2026-10-22T07:00:00+00:00",
       "feed": "licitacao"
