@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-22T14:03:07.476622+00:00",
+  "gerado_em": "2026-11-22T23:14:31.399290+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -27,17 +27,8 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcTVHTlM5NXRBcDFrTWIxZUVUNnhVM0lRVXBfaU04Qm5rMVFnR2tSZHVYcWc5WFMyb2toS0xSVGVDMDBPY1Rza2hvamIzd0NKYjdVZHRadjBWb1FrQTdFVlV2YUl0OURwaFUybnowTUp4S2trM1BiT09peEtMNXpQUzI0VEhlYXpoZGVVYXZZRno4UnczRVNsZFg0V09hRGRJeFctcm0tUy0teUM1ZVY4Vk9pN1FyRG1vUkJwU2d5UENQVmdkVGRrRjlrYV9LV3BaSDZObTZsMmg?oc=5",
       "fonte": "Repórter Guaibense",
       "tipo": "vaga",
-      "publicado_em": "2026-11-05T14:23:00+00:00",
+      "publicado_em": "2026-11-05T08:00:00+00:00",
       "feed": "vagas"
-    },
-    {
-      "id": "5070eb82a295",
-      "titulo": "EDITAL COMISSÃO ELEITORAL Nº 003/2026 – GUAIBAPREV EDITAL DE INSCRIÇÕES PARA AS ELEIÇÕES GUAIBAPREV 2026 — Diário Oficial dos Municípios do Estado do Rio Grande do Sul",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2RW40c1BUWU9VaFF3T01oWTRTRkY0Y1NNVm0yVlB1WlpaRkczQVVKNVdOQW1tR2IzVUZKT3g4amN0TXo4NGp3N2RZR0Vha0xoQ2cwb0o5U3VIQm1aRlFNcmt3ZFNUb0hpbGc?oc=5",
-      "fonte": "Agiliza Sergipe",
-      "tipo": "diario",
-      "publicado_em": "2026-11-04T08:00:00+00:00",
-      "feed": "famurs"
     },
     {
       "id": "1d8c9bd9184e",
@@ -107,6 +98,15 @@
       "titulo": "Polícia Civil investiga suspeita de fraude em licitações em Guaíba",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLMVVYUEtDSkZpOE1SWHgxbVJFaDlxaW90YzUyUWdzSkRJX3hsYlk0bXlXMFNRSnI5YzV4dmZoTk9fRGllVXJwUDZmbHJPbGtlMENYZTBKSGF5OHhUbVN1MnhDdWE0X2NZY0pIZm1FbmlDdFN5d2J1Vjd2dVFLX0k?oc=5",
       "fonte": "Rádio Acústica FM",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T07:00:00+00:00",
+      "feed": "licitacao"
+    },
+    {
+      "id": "777f5686ff2f",
+      "titulo": "Operação da Polícia Civil investiga suspeita de fraude em licitações na Prefeitura de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1ViYi1xVk1QRXhVR1MzcHFXMFplVzhoaUhST1ROQU1YaTRXMzV4YTlWdzkwYlhnZkVkcE4waWRxMnNzMlZoNktadS0wU1FlMmtURFdZWDNKVHM2Vjd5TlVESlE1WUpzX1ZQMGYydnJQWkk5cjFBbTh3Z3hpLWxJcGljQy14aXBKLTN5OUQ0ajEyeUszNVVVdW5pQnI5UW1VUGFBTkVUeWdCcFViS2c?oc=5",
+      "fonte": "Rádio Guaíba",
       "tipo": "licitacao",
       "publicado_em": "2026-10-22T07:00:00+00:00",
       "feed": "licitacao"
