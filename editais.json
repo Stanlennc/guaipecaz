@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-26T01:34:00.510710+00:00",
+  "gerado_em": "2026-11-26T16:23:56.032968+00:00",
   "fonte_oficial": "https://www.diariomunicipal.com.br/famurs/pesquisar",
   "entidade_famurs": "963876",
   "editais": [
@@ -49,6 +49,15 @@
       "feed": "concurso"
     },
     {
+      "id": "777f5686ff2f",
+      "titulo": "Operação da Polícia Civil investiga suspeita de fraude em licitações na Prefeitura de Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1ViYi1xVk1QRXhVR1MzcHFXMFplVzhoaUhST1ROQU1YaTRXMzV4YTlWdzkwYlhnZkVkcE4waWRxMnNzMlZoNktadS0wU1FlMmtURFdZWDNKVHM2Vjd5TlVESlE1WUpzX1ZQMGYydnJQWkk5cjFBbTh3Z3hpLWxJcGljQy14aXBKLTN5OUQ0ajEyeUszNVVVdW5pQnI5UW1VUGFBTkVUeWdCcFViS2c?oc=5",
+      "fonte": "Rádio Guaíba",
+      "tipo": "licitacao",
+      "publicado_em": "2026-10-22T12:22:26+00:00",
+      "feed": "licitacao"
+    },
+    {
       "id": "b27541baff2c",
       "titulo": "Polícia Civil cumpre mandados na prefeitura de Guaíba por suspeita de fraude a licitação e pagamento irregular",
       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbXlhblNmNnVEU2RwY3EyVGVHWEUzVTdFc2JxRGFPTnFYdERyU1BMc05ka3BqZWVWVkd6WlowVmhCdUhUbkk2Snh3Tk40dXN4TnlybG1Vc29ZUzl1S3Vkd1hQdDNjRkJhNjVjVUFxbTZsUWhfMjFEY3Y5a2laWXJSVjgtTlE5cGtZOXZMSnZrQUZnWTZuUllPM0FvaUt0b2g0bWZ3blRMN1d6WDFfNlRJSVBSNXp5T0VaRm40X1E1N1AtNUZ0RFZCTHVOc1RVTW1pcHlNakxQVXhDeXV3aW1fOWxxVHJSRHIxbVdDVGZsazVzUXNMZEVFc1pJckxTdWpvMmlEUzVwZEdKOHVOMHN0bzQ5dkVsMDJrbWthdF8wSFRFaWdTTUE?oc=5",
@@ -94,22 +103,13 @@
       "feed": "licitacao"
     },
     {
-      "id": "40529c93f744",
-      "titulo": "Operação da Polícia Civil investiga suspeita de fraude em licitações na Prefeitura de Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQandfMmVlZ2pRcHBra3Zjb0pMaHNad0M1UklZaUMydUg3NzMzT25QQkhBZlNBVy1xSXo3Q3JDTnlNWGNpQ0RFTHJUdGRYS2FPLXRVQ0dPemZKZW1PZXNib0F6V01RZUdlSndGS2pMNTN4MmhkYlp3UUdRN1liYkhoLVdSTDU0V0RsLVZFQWNSMGdmT3hlQkJBcTBQZ3U2VlhLcDF0ak1SWnJEWlJBcnhROWl0Y09MLWd2dnZHVVllb0dUY0FIalRjLW95VjJMTmlvWHhJLVFHazFjbFY5VUNQcFRKWm9odkcxZ19QcHh1cjJ1ZGYt?oc=5",
-      "fonte": "Correio do Povo",
-      "tipo": "licitacao",
-      "publicado_em": "2026-10-22T07:00:00+00:00",
-      "feed": "licitacao"
-    },
-    {
-      "id": "67a7956b77d4",
-      "titulo": "Guaíba liquidou R$ 2,74 milhões em despesas com empresa investigada por fraude em licitações",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONlVUUEQ4bFgxWjhKWENCd3phb09UWnZ5Q2U5Y21hbFdNUVJMMExFX3FzM3d0azhpVHZraHF6c2JyMzhtY09pdmRNZWtQWnlhczhvaXRoUnNWam1vaXZUY3ZjQ0lLeW1Ja3JsVFc1UHdPSDh0c0F6clpsYVBFSFJJSFB3U3Fsakp2OXZWVllvZXBGLWxLNGtFN1pMaXRkUmtCNzB0Q2ZkUjZlaG5IQTZINnlkS2x1c0xkMW55S2hjdEFMT19rNUVLZndveTNwZw?oc=5",
-      "fonte": "Porto Alegre 24 Horas",
-      "tipo": "licitacao",
-      "publicado_em": "2026-10-22T07:00:00+00:00",
-      "feed": "licitacao"
+      "id": "055c280753b7",
+      "titulo": "Sine Guaíba oferece mais de 20 vagas de emprego nesta semana; veja a lista",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbUhfcVhXdXNmbjdkNGtXTDY0YVpQZ3BNWmRmZEFPNUFQVVpZRXJwX3FXSnIyVzBHbEFMV0I4MXZmaTBDMHdwQTRWRjU1ZW51ZXVwYmw5encteTFzbnNpdGZIZFlkWE9NOGQyaFFmWlJSMTVIWnM2Sk5CZ2N0VjVvU0RNa1VOWVY5Y2VabkRJWHFzX0ZXeHM0a3N2NjZXOU1nYm9VMmVrcE1YTW1GUndXQTdTSmZLaXg4dkE3NllxVW44RzlZU0lF?oc=5",
+      "fonte": "Repórter Guaibense",
+      "tipo": "vaga",
+      "publicado_em": "2026-10-21T07:00:00+00:00",
+      "feed": "vagas"
     }
   ]
 }
