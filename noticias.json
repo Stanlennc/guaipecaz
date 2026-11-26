@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-25T21:04:05.121085+00:00",
+  "gerado_em": "2026-11-26T03:57:11.028795+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -84,16 +84,6 @@
       "resumo": "O poder executivo reafirmou que a segunda parcela do benefício deverá ser paga normalmente"
     },
     {
-      "id": "f3ff7e307b63",
-      "titulo": "Sindicato Rural de Guaíba sedia o Mundialito do Cavalo Crioulo com R$ 95 mil em premiações",
-      "url": "https://www.reporterguaibense.com.br/noticia/sindicato-rural-de-guaiba-sedia-o-mundialito-do-cavalo-crioulo-com-r-95-mil-em-premiacoes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Para 2027, a meta é ampliar ainda a participação de criatórios do Rio Grande do Sul e de outros estados"
-    },
-    {
       "id": "cb22bb5bcb19",
       "titulo": "Plataforma de delivery inicia operação em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/plataforma-de-delivery-criada-por-guaibenses-inicia-operacao-em-guaiba",
@@ -102,6 +92,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Além do sistema de pedidos, o Pedidos10 contará com uma estrutura logística própria"
+    },
+    {
+      "id": "f3ff7e307b63",
+      "titulo": "Sindicato Rural de Guaíba sedia o Mundialito do Cavalo Crioulo com R$ 95 mil em premiações",
+      "url": "https://www.reporterguaibense.com.br/noticia/sindicato-rural-de-guaiba-sedia-o-mundialito-do-cavalo-crioulo-com-r-95-mil-em-premiacoes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Para 2027, a meta é ampliar ainda a participação de criatórios do Rio Grande do Sul e de outros estados"
     },
     {
       "id": "cff521e7bd3f",
@@ -134,21 +134,11 @@
       "resumo": "Exibição do filme Uma em Mil, de Tiago e Jonatas Rubert, será nesta quarta-feira"
     },
     {
-      "id": "e5cc2ae4f89d",
-      "titulo": "Banco de Alimentos de Guaíba registra queda de 84% no estoque e busca reforçar doações",
-      "url": "https://www.reporterguaibense.com.br/noticia/banco-de-alimentos-de-guaiba-registra-queda-de-84-no-estoque-e-busca-reforcar-doacoes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Situação atual da rede foi tema da reunião-palestra do Rotary Club de Guaíba, na última terça-feira"
-    },
-    {
       "id": "5b44f523b0e5",
       "titulo": "CMPC conclui modernização da fábrica de Guaíba (RS) com investimentos superiores a US$ 670 milhões",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaTd2MUQtdkRPenNwbXR2ZmRkclZuYXFQMTRNQzhtX2JEMnZMY0doUnAyemFZampGTGhLMjFFam5zV2JvSjlNZ182Q3J4Y05DUW8wYmdnN3loaklKbjQ0b3lEQ2NUX1IzZUpXa3NsS1BhTklYQUxXWjFOc1BnVjlVb2hFTnlDampNTzRPUkRKTU1ydDVkWXpPaXNDQnRJVDlmdTRJOVZuWDFxU05hWXE0anV0ZUhvZElGV0pMUDRweVZYRnhJ?oc=5",
       "fonte": "Portal Celulose",
-      "publicado_em": "2026-11-25T17:19:41+00:00",
+      "publicado_em": "2026-11-25T17:18:41+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "CMPC conclui modernização da fábrica de Guaíba (RS) com investimentos superiores a US$ 670 milhões Portal Celulose"
@@ -170,7 +160,7 @@
       "fonte": "Expansão",
       "publicado_em": "2026-11-24T16:10:46+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "Guaíba envia ambulância e equipe reserva do Samu para apoiar atendimentos em Tupanciretã Expansão"
     },
     {
@@ -190,18 +180,18 @@
       "fonte": "Extra Classe",
       "publicado_em": "2026-11-23T20:21:45+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "De olho no Guaíba, CMPC demite em SC e vende ativos na Argentina Extra Classe"
     },
     {
-      "id": "cc30bcc69435",
-      "titulo": "Corrida para Vencer o Diabetes reúne 5 mil pessoas na Orla do Guaíba em Porto Alegre",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNanNLUzMySjI1Q2dTRnFnUkFfd1JfZmt4QkpwdnRfcDBRcTF2dUc5V0R4S2t5cUMyNHlXaVVfZ3NWS3UtaXJzVmZGMDNUQ1B1VDF2cGd3ekJIdUJaNzg3T3NDS0NYRmRoVXk3akZ6TU1YUURhWUNOZVRhYXZ4ZEY0d2JoRW5PekVHYm9XMUU2Z3dxeWJ6Yk5DTTVGRDRjNEM4UTFTVTlaTC0?oc=5",
-      "fonte": "Alcir 61",
-      "publicado_em": "2026-11-22T20:21:46+00:00",
+      "id": "d849b09406ab",
+      "titulo": "Corrida para Vencer o Diabetes reúne 5 mil pessoas na Orla do Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYURkdG9xcW9UM0ljb0loTFlOSU5qWC1MZUZqV2owZFQxakhTZ3lHMTEzOHJqTTB0Y0VBbnk5cERCTjJfSkR5OHp1Zkdjb3Y1VW9UT3U0b0RleVZtT3oxeERhMGJpaHdGZzZISkpjb0F0ajdZc2R5VHJ0UUFETENRU2o3MHVFV2F0ZFF4Wm5OOGszekU?oc=5",
+      "fonte": "Expansão",
+      "publicado_em": "2026-11-23T14:23:50+00:00",
       "categoria": null,
       "feed": "recentes",
-      "resumo": "Corrida para Vencer o Diabetes reúne 5 mil pessoas na Orla do Guaíba em Porto Alegre Alcir 61"
+      "resumo": "Corrida para Vencer o Diabetes reúne 5 mil pessoas na Orla do Guaíba Expansão"
     },
     {
       "id": "1617d546e11e",
@@ -262,6 +252,16 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço UOL Economia"
+    },
+    {
+      "id": "7ae791bd1687",
+      "titulo": "Banco de Alimentos de Guaíba registra queda de 84% no estoque e busca reforçar doações",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlJyVUpoazFtbW9nOHhOejVYdkVwVDNpWjFMLVNMWmhRQTIzdlc1dXlfaks0UUplanZHY2paUEhsQUh4ekNrd0lScDdqQ0dWWnAtM1VWYkpla3N1WmRpbUg4ZVZrRWVoSDlqaTF1dWV2Q1hWVzU1enNSVGpaN09oTS1tZEx3VGpjMEFjcHN6ZzhvN0Y5V0tWcW8teVFQMG14RjZ0c0lsbUpLYnhzckdPY29FRjlra0k3ZWJnZXpjVnlMSmwxdDhHSV93?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-11-12T08:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Banco de Alimentos de Guaíba registra queda de 84% no estoque e busca reforçar doações Repórter Guaibense"
     },
     {
       "id": "aacaf233ac66",
@@ -386,16 +386,6 @@
       "resumo": "O poder executivo reafirmou que a segunda parcela do benefício deverá ser paga normalmente"
     },
     {
-      "id": "f3ff7e307b63",
-      "titulo": "Sindicato Rural de Guaíba sedia o Mundialito do Cavalo Crioulo com R$ 95 mil em premiações",
-      "url": "https://www.reporterguaibense.com.br/noticia/sindicato-rural-de-guaiba-sedia-o-mundialito-do-cavalo-crioulo-com-r-95-mil-em-premiacoes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Para 2027, a meta é ampliar ainda a participação de criatórios do Rio Grande do Sul e de outros estados"
-    },
-    {
       "id": "cb22bb5bcb19",
       "titulo": "Plataforma de delivery inicia operação em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/plataforma-de-delivery-criada-por-guaibenses-inicia-operacao-em-guaiba",
@@ -404,6 +394,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Além do sistema de pedidos, o Pedidos10 contará com uma estrutura logística própria"
+    },
+    {
+      "id": "f3ff7e307b63",
+      "titulo": "Sindicato Rural de Guaíba sedia o Mundialito do Cavalo Crioulo com R$ 95 mil em premiações",
+      "url": "https://www.reporterguaibense.com.br/noticia/sindicato-rural-de-guaiba-sedia-o-mundialito-do-cavalo-crioulo-com-r-95-mil-em-premiacoes",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "Para 2027, a meta é ampliar ainda a participação de criatórios do Rio Grande do Sul e de outros estados"
     },
     {
       "id": "cff521e7bd3f",
@@ -436,24 +436,24 @@
       "resumo": "Exibição do filme Uma em Mil, de Tiago e Jonatas Rubert, será nesta quarta-feira"
     },
     {
-      "id": "e5cc2ae4f89d",
-      "titulo": "Banco de Alimentos de Guaíba registra queda de 84% no estoque e busca reforçar doações",
-      "url": "https://www.reporterguaibense.com.br/noticia/banco-de-alimentos-de-guaiba-registra-queda-de-84-no-estoque-e-busca-reforcar-doacoes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Situação atual da rede foi tema da reunião-palestra do Rotary Club de Guaíba, na última terça-feira"
-    },
-    {
       "id": "5b44f523b0e5",
       "titulo": "CMPC conclui modernização da fábrica de Guaíba (RS) com investimentos superiores a US$ 670 milhões",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaTd2MUQtdkRPenNwbXR2ZmRkclZuYXFQMTRNQzhtX2JEMnZMY0doUnAyemFZampGTGhLMjFFam5zV2JvSjlNZ182Q3J4Y05DUW8wYmdnN3loaklKbjQ0b3lEQ2NUX1IzZUpXa3NsS1BhTklYQUxXWjFOc1BnVjlVb2hFTnlDampNTzRPUkRKTU1ydDVkWXpPaXNDQnRJVDlmdTRJOVZuWDFxU05hWXE0anV0ZUhvZElGV0pMUDRweVZYRnhJ?oc=5",
       "fonte": "Portal Celulose",
-      "publicado_em": "2026-11-25T17:19:41+00:00",
+      "publicado_em": "2026-11-25T17:18:41+00:00",
       "categoria": null,
       "feed": "recentes",
       "resumo": "CMPC conclui modernização da fábrica de Guaíba (RS) com investimentos superiores a US$ 670 milhões Portal Celulose"
+    },
+    {
+      "id": "473bc202b176",
+      "titulo": "Corsan fortalece diálogo com lideranças comunitárias de Guaíba em encontro sobre saneamento",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3M2UXFwUnNJeXYwcnd1LS1OMEJvRFQtOUNJdEl3SHBtOWpyZDAyRzVJMDdmYl8yaVVObld1WTFhZ25JN2U1QnlhQ0NpT2g3TUZVT0RxbmpYVlhpcmNVNXotdzJfUjJWbUxwMTNtOUlZeVBBMk5HZlVmRE5TMkRUVXdsejVrbGpia3N2Tk9zTS1WOWhRcFlJR2Z6UjRTMGFINVk0WGsydlJzdlh2d2hRYnYtUTBRVTFONkE?oc=5",
+      "fonte": "CORSAN",
+      "publicado_em": "2026-11-25T16:18:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Corsan fortalece diálogo com lideranças comunitárias de Guaíba em encontro sobre saneamento CORSAN"
     }
   ]
 }
