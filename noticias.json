@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-26T03:57:11.028795+00:00",
+  "gerado_em": "2026-11-26T13:38:59.342766+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,16 +74,6 @@
   ],
   "noticias": [
     {
-      "id": "3019f3de0304",
-      "titulo": "Prefeitura de Guaíba esclarece que segunda parcela do 13º salário dos servidores não será parcelada",
-      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-garante-pagamento-do-13-salario-apos-circulacao-de-documento-sobre-parcelamento",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O poder executivo reafirmou que a segunda parcela do benefício deverá ser paga normalmente"
-    },
-    {
       "id": "cb22bb5bcb19",
       "titulo": "Plataforma de delivery inicia operação em Guaíba",
       "url": "https://www.reporterguaibense.com.br/noticia/plataforma-de-delivery-criada-por-guaibenses-inicia-operacao-em-guaiba",
@@ -92,6 +82,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Além do sistema de pedidos, o Pedidos10 contará com uma estrutura logística própria"
+    },
+    {
+      "id": "3019f3de0304",
+      "titulo": "Prefeitura de Guaíba esclarece que segunda parcela do 13º salário dos servidores não será parcelada",
+      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-garante-pagamento-do-13-salario-apos-circulacao-de-documento-sobre-parcelamento",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O poder executivo reafirmou que a segunda parcela do benefício deverá ser paga normalmente"
     },
     {
       "id": "f3ff7e307b63",
@@ -160,7 +160,7 @@
       "fonte": "Expansão",
       "publicado_em": "2026-11-24T16:10:46+00:00",
       "categoria": null,
-      "feed": "vizinhos",
+      "feed": "recentes",
       "resumo": "Guaíba envia ambulância e equipe reserva do Samu para apoiar atendimentos em Tupanciretã Expansão"
     },
     {
@@ -180,7 +180,7 @@
       "fonte": "Extra Classe",
       "publicado_em": "2026-11-23T20:21:45+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "De olho no Guaíba, CMPC demite em SC e vende ativos na Argentina Extra Classe"
     },
     {
@@ -214,34 +214,14 @@
       "resumo": "Comunicado e chamado internacional da Frente em Defesa do Guaíba e contra a CMPC Repórter Popular"
     },
     {
-      "id": "c7ae693cd78a",
-      "titulo": "Ato contra fábrica de celulose no Guaíba alerta para riscos à Lagoa dos Patos",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM19mbXlTVGI5Q193U3p1TThPRmZ2SlcxMmZEdWFIYWVwMi1EcFdyazlHUXhXempQOUdGZGtMbU5BNzR1M1JSY09ZaUR5YUJmOEFxZ0JkbjRPRUlBOS1ESWJIQ3NYRnAxYXF5dzBmb3FUbHNsdjk0QmpMamhFcU1ZeElFbV83VXpfVThkV0J5dENOdGxYZjV2TEpCSGZtTlRZMWJpeF9ERzREV25TT25lUkp0bE4tQzRw?oc=5",
-      "fonte": "radiocom.org.br",
-      "publicado_em": "2026-11-19T13:10:07+00:00",
+      "id": "c5c1ae681fb5",
+      "titulo": "Guaíba (RS) tem 25 casos de esporotricose e alerta sobre abandono",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHhtd1hGZzhrb29KQ2MzaWtqNm1mb01IVXhCV3FhSGU0WmFuYnVqdG1rbUFqMHpMRzhVLTI2aVZ5LTcwcTlBMy12TV9SOWxZcmQzLWpUTHgtR2g5b0lBbGE0WF8yS2VxTlpBZkNRb0s0UG0xRmlmS2RYVjFvN05DYVlsS3k5YzNHLW5XNGJnckxGZUZFa3dRWGtzRU5OQW9CRmZ6TFR3?oc=5",
+      "fonte": "TV Sim Brasil",
+      "publicado_em": "2026-11-15T08:00:00+00:00",
       "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Ato contra fábrica de celulose no Guaíba alerta para riscos à Lagoa dos Patos radiocom.org.br"
-    },
-    {
-      "id": "5394bb1c87c4",
-      "titulo": "RS registrou quase 1,5 mil casos de esporotricose em 2026; doença transmitida por gatos tem alta em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEFuRTFOekUycjJUdXh5MlNsYkFfUDJsSUhadFJfRE1MMEJWcGp5RElOQUI1Y2NaYjE5M2k0RXBXaF9NVmMtVGJoN2dyQ3cwWU1wWnVkOTFfaWR3LVU0M1FlUFFqXzliTFFqMnVaaUtYR2tfYVFwUlpIMUc3b2F1dzlsaXRsbDRaOFJuampfQi1rMGtUSkHSAaQBQVVfeXFMTlhfTGRIN1ozNXhhTW50NXVyN0wwLWtPVXY3T0RPcnFjMWNnd0RtU001elJOTG4tZTBoOGVjVGVELTRUTGY4b0JwdmJ1T0wxWC1CLTBXQWpEekNqb0tia2NTTWFjUTlCQjI0NjY4dTRrYzl1ZUluak14WG5oOE5MNmJuRlNvNGtZT3dNOW52SWQxOXE3eVFqand4bS1iWm5YT0kzUUc?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-11-19T05:00:00+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "RS registrou quase 1,5 mil casos de esporotricose em 2026; doença transmitida por gatos tem alta em Guaíba G1"
-    },
-    {
-      "id": "1b8d56321ce1",
-      "titulo": "Marcha para Jesus em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IMktidGZxT3FnUjh5dXFyQ3RCbmdmZmZQZVJPNGd6SmV1VC1Zczlmbl9rSjBTVF9vNkd5S2NoVmFkV1psV0hUc3JwQlBUUWJzUUcya2hRal9hYWZRXzRGa3ln0gFnQVVfeXFMTWo4SlBaVlpYWFJMSkMwY29DWTBzSHFGQ21kbjZvbU9sdFdsVF9hREJhVnJSN3hYMnpiT29jVHJNVmJVbmdRN1NqWFM3NndENWNaZ1lFamxWckp0TmthdklfR2ZDU3pMUQ?oc=5",
-      "fonte": "Jornal O Sul",
-      "publicado_em": "2026-11-19T04:29:35+00:00",
-      "categoria": null,
-      "feed": "vizinhos",
-      "resumo": "Marcha para Jesus em Guaíba Jornal O Sul"
+      "feed": "google",
+      "resumo": "Guaíba (RS) tem 25 casos de esporotricose e alerta sobre abandono TV Sim Brasil"
     },
     {
       "id": "cbac7943d12c",
@@ -252,6 +232,26 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Gasolina em Guaíba (RS) ficou mais cara ou mais barata nesta semana? Veja preço UOL Economia"
+    },
+    {
+      "id": "bcea125e160f",
+      "titulo": "Corrida do Servidor movimenta a Orla do Guaíba com esporte e atrações para famílias",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMExZVlp4RWktY1ZKZ2xoV3I2dl9VNVNQWmc4and1bV8xQzBDaEJybGMzcm5saHNXQW5qUnhqeV9CWVJvREwyb3UtLUVENk96YUFmcmgtSE5xT3hXVjNUU3J1dkRfX01RZzVzbHlUOGxLMVYyUXhGVWdUX2R2dlotV3owd0QweldsR1dUUzR0dGFtSlB4T2lTUGVwUFc3RWJOUHNvTjhCTVBGdkpU?oc=5",
+      "fonte": "Portal do Estado do Rio Grande do Sul",
+      "publicado_em": "2026-11-14T08:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Corrida do Servidor movimenta a Orla do Guaíba com esporte e atrações para famílias Portal do Estado do Rio Grande do Sul"
+    },
+    {
+      "id": "40997edcca7d",
+      "titulo": "Ato em Porto Alegre (RS) ocupa Fepam contra projeto da CMPC no Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd1JFQjBSc2NUM0huRlpORXpqQnZiQzhPRVcyRnZBWnF4VGdiUWNidm9MVkp4WHYzMmQwXzVHMUx1dXcwXzFjaUxMNzlUal9QRDBmQUVRdVl5ajQ2ZGwzM2JWMGxxUHhFZGJITXY3cm04NjB6SDJKVGtYN21ldkF2Yk1Dc29hc3JqMHo2S2ppeUdWaWlJYXkxemNaWTUySkNy?oc=5",
+      "fonte": "Repórter Popular",
+      "publicado_em": "2026-11-12T18:59:15+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Ato em Porto Alegre (RS) ocupa Fepam contra projeto da CMPC no Guaíba Repórter Popular"
     },
     {
       "id": "7ae791bd1687",
@@ -272,6 +272,16 @@
       "categoria": null,
       "feed": "reporter",
       "resumo": "Grupo Lebes realiza último evento da turnê de 70 anos em Guaíba Repórter Guaibense"
+    },
+    {
+      "id": "b06bcfbf5f11",
+      "titulo": "Domingues da Ponte do Guaíba 20006 (PODE): candidato a Deputado Estadual pelo RS",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOXNsRGlxWUxzNTJrWkNHeXNmMElnLS1VNlUzMkdlRjNmNUZDZEZaWGxSX3FyVjRZSmRzeVZ4My1DLVFCakp0bmw1dk9HcWhYcld2LTEzNjQ4UUc3eHVSV3praG1rUC1zRlBhWmc5VVVEWk9FWWJYcnptZTF2Um5yWkVFcl9MRHVEOVMwNG56YjZkS1ZBSEktR2RkTG4xYlRxNHQ2Qko4a0hoZXl6OUtlNTJRRjdud0JTY2c?oc=5",
+      "fonte": "Gazeta do Povo",
+      "publicado_em": "2026-11-09T08:00:00+00:00",
+      "categoria": null,
+      "feed": "google",
+      "resumo": "Domingues da Ponte do Guaíba 20006 (PODE): candidato a Deputado Estadual pelo RS Gazeta do Povo"
     },
     {
       "id": "d8c4c64a2576",
@@ -362,29 +372,9 @@
       "categoria": null,
       "feed": "google",
       "resumo": "Lula vence a eleição presidencial em Guaíba (RS) Congresso em Foco"
-    },
-    {
-      "id": "e57e55bccc8e",
-      "titulo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU0lTeTJIZzZJOEh0QnY4QnRBclZSU3BHT0tDaE1QUDlNN2x6QWxYSHlIN0lWMkg5YkhKQlQ2T25ra3UtV2x6QURJWU5nS1FTMm1neU0yUVlyUlhaYWsyRlpEdEtERDhyN2FKMW5Ga2RMeTJDdUNVUDU2WUh2ZEJBaUtHYmxpTGJzVWhiWWZxRHNFOTdwS252ZDV2b1l4UXVvbFR2ZWlWeW1hak1sdzM3M1QwVmZNSl90TnJ0M1BvaVBQdFNkR0ttN19HWGd2SkFzZlFidnUtZDhOTXU2eVdF?oc=5",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": "2026-10-26T07:00:00+00:00",
-      "categoria": null,
-      "feed": "reporter",
-      "resumo": "Vereadores de Guaíba protocolam pedido de abertura de CPI para investigar contratos com a Set Service Repórter Guaibense"
     }
   ],
   "noticias_home": [
-    {
-      "id": "3019f3de0304",
-      "titulo": "Prefeitura de Guaíba esclarece que segunda parcela do 13º salário dos servidores não será parcelada",
-      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-garante-pagamento-do-13-salario-apos-circulacao-de-documento-sobre-parcelamento",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O poder executivo reafirmou que a segunda parcela do benefício deverá ser paga normalmente"
-    },
     {
       "id": "cb22bb5bcb19",
       "titulo": "Plataforma de delivery inicia operação em Guaíba",
@@ -394,6 +384,16 @@
       "categoria": null,
       "feed": "reporter_direto",
       "resumo": "Além do sistema de pedidos, o Pedidos10 contará com uma estrutura logística própria"
+    },
+    {
+      "id": "3019f3de0304",
+      "titulo": "Prefeitura de Guaíba esclarece que segunda parcela do 13º salário dos servidores não será parcelada",
+      "url": "https://www.reporterguaibense.com.br/noticia/prefeitura-de-guaiba-garante-pagamento-do-13-salario-apos-circulacao-de-documento-sobre-parcelamento",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": null,
+      "categoria": null,
+      "feed": "reporter_direto",
+      "resumo": "O poder executivo reafirmou que a segunda parcela do benefício deverá ser paga normalmente"
     },
     {
       "id": "f3ff7e307b63",
