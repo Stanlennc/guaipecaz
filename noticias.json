@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-26T22:48:51.269336+00:00",
+  "gerado_em": "2026-11-27T06:48:08.577074+00:00",
   "fontes": [
     {
       "id": "reporter_direto",
@@ -74,74 +74,14 @@
   ],
   "noticias": [
     {
-      "id": "cb22bb5bcb19",
-      "titulo": "Plataforma de delivery inicia operação em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/plataforma-de-delivery-criada-por-guaibenses-inicia-operacao-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "f9f7a190bb6a",
+      "titulo": "Circuito Eco CMPC acontece neste domingo (29), em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HSUFYZzlzVUYxQnFmYXRBMXRBdHYwRWpBMjlwR0xFeHNzUWVDbFNMRkIyaUh1bFhvODc3OU5Kd2RsbEVRZU1KTk1tN3dLUHk1WTlVU1p6YjdnTzJvNTlCQWNsVDhtVXd2YjB4aW16WQ?oc=5",
+      "fonte": "Consumidor RS",
+      "publicado_em": "2026-11-26T23:41:44+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Além do sistema de pedidos, o Pedidos10 contará com uma estrutura logística própria"
-    },
-    {
-      "id": "f3ff7e307b63",
-      "titulo": "Sindicato Rural de Guaíba sedia o Mundialito do Cavalo Crioulo com R$ 95 mil em premiações",
-      "url": "https://www.reporterguaibense.com.br/noticia/sindicato-rural-de-guaiba-sedia-o-mundialito-do-cavalo-crioulo-com-r-95-mil-em-premiacoes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Para 2027, a meta é ampliar ainda a participação de criatórios do Rio Grande do Sul e de outros estados"
-    },
-    {
-      "id": "e0c503a589e1",
-      "titulo": "Em noite de emoção, Rotary Guaíba reconhece trajetórias e contribuições de profissionais da cidade",
-      "url": "https://www.reporterguaibense.com.br/noticia/em-noite-de-emocao-rotary-guaiba-reconhece-trajetorias-e-contribuicoes-de-profissionais-da-cidade",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Clube também reconheceu João Ovalhe como Rotariano Destaque do Ano"
-    },
-    {
-      "id": "cff521e7bd3f",
-      "titulo": "Frentista, vendedor, eletricista e mais: Sine Guaíba oferta 19 vagas de emprego nesta quinta-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/frentista-vendedor-eletricista-e-mais-sine-guaiba-oferta-19-vagas-de-emprego-nesta-quinta-feira",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "As oportunidades são rotativas, o que significa que podem ser preenchidas ao longo do dia e não necessariamente estarão disponíveis no dia seguinte"
-    },
-    {
-      "id": "f435932e6e49",
-      "titulo": "Câmara de Vereadores de Guaíba aprova auxílio-saúde a servidores e agentes políticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/camara-de-vereadores-de-guaiba-aprova-auxilio-saude-a-servidores-e-agentes-politicos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O Programa de Assistência à Saúde Suplementar prevê o pagamento mediante ressarcimento de despesas"
-    },
-    {
-      "id": "e50cccbcbe71",
-      "titulo": "24º Festival de Cinema Estudantil reúne produções de mais de 100 países em Guaíba; veja a programação",
-      "url": "https://www.reporterguaibense.com.br/noticia/24-festival-de-cinema-estudantil-reune-producoes-de-mais-de-100-paises-em-guaiba-veja-a-programacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Exibição do filme Uma em Mil, de Tiago e Jonatas Rubert, será nesta quarta-feira"
-    },
-    {
-      "id": "e5cc2ae4f89d",
-      "titulo": "Banco de Alimentos de Guaíba registra queda de 84% no estoque e busca reforçar doações",
-      "url": "https://www.reporterguaibense.com.br/noticia/banco-de-alimentos-de-guaiba-registra-queda-de-84-no-estoque-e-busca-reforcar-doacoes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Situação atual da rede foi tema da reunião-palestra do Rotary Club de Guaíba, na última terça-feira"
+      "feed": "recentes",
+      "resumo": "Circuito Eco CMPC acontece neste domingo (29), em Guaíba Consumidor RS"
     },
     {
       "id": "e0223e0ca2c2",
@@ -152,6 +92,36 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "RECORD Guaíba é premiada no Prêmio Themis com reportagem sobre bullying R7"
+    },
+    {
+      "id": "a44480d4af67",
+      "titulo": "Câmara de Vereadores de Guaíba aprova auxílio-saúde a servidores e agentes políticos",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaE16TkVIWlM1cFMzVzlUeFM5Z08tWGxkelhycVkzdldRNkphNjhVT1hBLW1VdWVVVlR5RVFIWXlqZ0JVVW5QeTRYN3JNeXRFX2dYY0JfNG9Hb1NNcXBBaU9wMkhJNDRLXzlKbkJHdjFzQ1pHb2h5a3gzZUt2QnhjV183d2V0cTF6MlhwdjhCUndDNDk2LXYwTUs4Ny01djhLY0lJYjI3a0RKeVJ1ZHc0MXQ4cENXb1J3ZU5LTTZfa2Rma1FwOGJkTA?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-11-26T18:20:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Câmara de Vereadores de Guaíba aprova auxílio-saúde a servidores e agentes políticos Repórter Guaibense"
+    },
+    {
+      "id": "a69c7f69c15f",
+      "titulo": "Em noite de emoção, Rotary Guaíba reconhece trajetórias e contribuições de profissionais da cidade",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNam03TEFEeVBHZ1laLVdxTzBKUElhMTNqYktkNGhyc2RkdWV4djVoOVFURFlKQjhzZWFlcUpqSzNTRFBTMDdOVXdTb2k1UFpWTjd2Tkw0T0p4eG9va1VRNVp5TElZSDJHT1RwNHVvWEp0Q3JIWmtKVHRhN1ptMjJ1dmJTTXJUVzhISEwwNFF4S1FXRFk1OE85OXNZU1ZqZUN2aVdDUUVReWprckVvMndKS3lrTEFoSkptS2pFMnd5a0lveFA3YVVWY05Sb1IwSGJfMVhXODdRNEZhQQ?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-11-25T19:30:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Em noite de emoção, Rotary Guaíba reconhece trajetórias e contribuições de profissionais da cidade Repórter Guaibense"
+    },
+    {
+      "id": "b307710128e5",
+      "titulo": "Eu Nunca: quem imaginou pegar onda no Guaíba?",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRWd0dURjSnhjV1ZNVzVfVDRMT2tFN3dBTWdyR092Y3g5bWZSMDU3Zy1IYVBtTEgzM1hTSmh2S2Uxbi1OYTVCa3VRVTVBREtKUzdxc2lQa1lOSjVnWXpnQlFiUTBmQzEzOUVQUVlkek1OUm8wS1JsNkNZS2c0YkFEVE96ZEVFemZnN1J0eVNXZ0RxOGZWOFlLVmdFNGczV2VPU05oTWpDSnBPc2J1SUtzQ2p0SDVfUkpwZm1PcjFB?oc=5",
+      "fonte": "Rede Atlântida",
+      "publicado_em": "2026-11-25T19:17:09+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Eu Nunca: quem imaginou pegar onda no Guaíba? Rede Atlântida"
     },
     {
       "id": "5b44f523b0e5",
@@ -172,6 +142,26 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "Corsan fortalece diálogo com lideranças comunitárias de Guaíba em encontro sobre saneamento CORSAN"
+    },
+    {
+      "id": "cfef97c86c0f",
+      "titulo": "Plataforma de delivery inicia operação em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUWxOT0czS1ljc3RFd2FGR3NwSlp6LTJINTZWQVZXN3c5cHdLTnBBOEVENHZKSHZjOGdNU3Qxa2lPVHNzMEFGZEtMN2FKNUEybDNiZHZHLXo3YjlzUFM2LVgwUGRvbmlZS0NMejFXaldabXRuaDZpN1NZNW1sakJlRzRwMEtzWWxOa29zSlFRQ25OTVA3ZzI1MENqeDd3dXpkZGJNTktOLUhBZWZMM1JGS3czU29Wdw?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-11-24T21:11:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Plataforma de delivery inicia operação em Guaíba Repórter Guaibense"
+    },
+    {
+      "id": "c933f34427e5",
+      "titulo": "24º Festival de Cinema Estudantil reúne produções de mais de 100 países em Guaíba; veja a programação",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSUJPb1Y0cW95N3Eyc1BTanlfd3hMa2RTMWhPbVVvR2d2cWVpaFdJMG5CRmVpZVU4T2ZqZGRwOTdtT3ZXR2V2WmlURUNYZDUtcloyYVUxY2oxb1ZabzF2Tkp4YklQay1tUFYzX29pa3NuakJFTmdNdm9kZFJNdV9wVXNCRHo3X0tOYVlQUnMxOWdodFlYcEtQQ0R1eXg3TnNBM3J0QzF3S043XzhQMU5qdHBNYWZJa2YxNzE4Y2hxUlNHWTVOUU9iY0g5bnRjdmtieEFLeENTU3dwS3Bt?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-11-24T17:07:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "24º Festival de Cinema Estudantil reúne produções de mais de 100 países em Guaíba; veja a programação Repórter Guaibense"
     },
     {
       "id": "7dc28bba03f2",
@@ -214,13 +204,23 @@
       "resumo": "Corrida para Vencer o Diabetes reúne 5 mil pessoas na Orla do Guaíba Expansão"
     },
     {
+      "id": "6eadb8408f5b",
+      "titulo": "DR. ALEX MEDEIROS, Vereador 2012 em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNallMa2lEY3VzTUpZbk5XT1pTd3dsY3B4TjRrQkw1d21xZXp2aWRxc0xCdTV0UlUteFAwX2ZoS21hZjlhUmxMRXYtb0N6OXFDNFRNakcwM28tVDBvcE1ydl9JX1ZmSWtDM2RBekVINWVjNU9LZ3ZpclFkN0JJN1Q4QjZ5LVRtcURseG9z?oc=5",
+      "fonte": "CBN Amazônia",
+      "publicado_em": "2026-11-23T00:49:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "DR. ALEX MEDEIROS, Vereador 2012 em Guaíba CBN Amazônia"
+    },
+    {
       "id": "1617d546e11e",
       "titulo": "CMPC conclui a modernização de US$ 670 milhões da fábrica de celulose de Guaíba, no Rio Grande do Sul, aumenta a linha 2 em 350 mil toneladas por ano e corta 21% do custo da linha 1",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPWjRHMFp0YXRwNVVIVnFVOU1wLVVZS3RPVkF0czVCYm1TYUJqT1lKSzR2TVRiUnBDT3RtTHQ3Nk1OdlpCOXItQm0wQUVkWFFubVRpTFlxTnBMc1hVNU5xVU9OWGcyQzFKUVpmSDRXblEzdXMxZGJlMnhxZE1aOGtSZ3lacFdzY2FGa0ZTb3JGWUFuNWlSWUw5VWRVZENXWFZCVlFNSkhBTXJ0d2pjSUprN1IwLVFQVXJQVV8wd3Y2Tml2WkR6bmZXZGdBMGw3VGJpbHF1eHo1b18ydXNJdWI1RzBZLTlKRkVPNW9kX0RGMFpMMWJUY05hZXdMTTJLYWdjSFVyTEVZM2VNX2VyaGJaMXRZZVZabDc2MzBHY1JYSWZUQ2JBcmRjRTZSTWRVZTIwMXhCbUY1eWh4d0h6?oc=5",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado_em": "2026-11-21T15:01:00+00:00",
       "categoria": null,
-      "feed": "recentes",
+      "feed": "vizinhos",
       "resumo": "CMPC conclui a modernização de US$ 670 milhões da fábrica de celulose de Guaíba, no Rio Grande do Sul, aumenta a linha 2 em 350 mil toneladas por ano e corta 21% do custo da linha 1 CPG Click Petróleo e Gás"
     },
     {
@@ -232,6 +232,26 @@
       "categoria": null,
       "feed": "vizinhos",
       "resumo": "Comunicado e chamado internacional da Frente em Defesa do Guaíba e contra a CMPC Repórter Popular"
+    },
+    {
+      "id": "fb60e256a92d",
+      "titulo": "Frentista, vendedor, eletricista e mais: Sine Guaíba oferta 19 vagas de emprego nesta quinta-feira",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLVJrbkRmUFVMNlBxemhwYTJpbGJvWlpZZ3QzTW9aV0ZlaHk0T19fS0kwWkZiU1JidWlsYS1haUx2TXh5a1c3STFzMEs1VExlR01RaDdDc3RMZUtaLUhEQUNaTXVMNkZGZG5uc0lpMURrdlJQSFlWbWZiTGRBSkdBNWZYc2RrSXNEcmxicjYwXzhsdTlQSHpwSmoyb0c5aGVhSk9sVDM2cHJiMWtKd1B2LWFNQU5iY2VJRGhSRlg4clZnV0FoaFZnSjMzUGdPUkFUR0QxZUtIZw?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-11-19T12:09:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Frentista, vendedor, eletricista e mais: Sine Guaíba oferta 19 vagas de emprego nesta quinta-feira Repórter Guaibense"
+    },
+    {
+      "id": "3c190c2f433a",
+      "titulo": "Sindicato Rural de Guaíba sedia o Mundialito do Cavalo Crioulo com R$ 95 mil em premiações",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaVN1MUtrSVl2VlQ2Z3pNd1IxeHpTT2NtZmRLcHE4ME13dVZKM0pWSGt3bDFZek5HQVpUa1puWkxXRHdKenNEUzdyQjJoNXc4aHJXbXlXdFcwS3RCaTVpaVFGYV9Cdk9HVU1jVGRSbUxyWXlZRUdybVdMV21XZGl6ZHdtUzlNNmdfQk5RMWhoQ1lfQnBrM0xoNWswWTdEMnF6aU5TVExEZV9qcGdfXzh1Nmc0RndRT1U1VDlHOHk1MURDRjlnWWUyYlBoRi1pZFU?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-11-16T21:48:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Sindicato Rural de Guaíba sedia o Mundialito do Cavalo Crioulo com R$ 95 mil em premiações Repórter Guaibense"
     },
     {
       "id": "c5c1ae681fb5",
@@ -274,176 +294,96 @@
       "resumo": "Ato em Porto Alegre (RS) ocupa Fepam contra projeto da CMPC no Guaíba Repórter Popular"
     },
     {
+      "id": "7ae791bd1687",
+      "titulo": "Banco de Alimentos de Guaíba registra queda de 84% no estoque e busca reforçar doações",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlJyVUpoazFtbW9nOHhOejVYdkVwVDNpWjFMLVNMWmhRQTIzdlc1dXlfaks0UUplanZHY2paUEhsQUh4ekNrd0lScDdqQ0dWWnAtM1VWYkpla3N1WmRpbUg4ZVZrRWVoSDlqaTF1dWV2Q1hWVzU1enNSVGpaN09oTS1tZEx3VGpjMEFjcHN6ZzhvN0Y5V0tWcW8teVFQMG14RjZ0c0lsbUpLYnhzckdPY29FRjlra0k3ZWJnZXpjVnlMSmwxdDhHSV93?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-11-12T08:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Banco de Alimentos de Guaíba registra queda de 84% no estoque e busca reforçar doações Repórter Guaibense"
+    },
+    {
+      "id": "1bca7db6e2b4",
+      "titulo": "Prefeitura de Guaíba esclarece que segunda parcela do 13º salário dos servidores não será parcelada",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZk9xb29uQ3J6M0FvSzNQLXpBRC0zYm44c0hHeHNTWDE5ZEY5TmZhWUpjQnJDRWRLS3FpVlhrT3l5dkRXMlFSdUJUXzFiZ1pMMWFKNURaN0d3SE9XVHdtazFyRWVycVBMMWtYc09oLUpmX2xiVWNHVWdhaS1hb2FIdkhMNHZSaG5TWTdqVDNEQW5lUXo0d01QTGlWbml4b3JSeVppRW5IMHJNdF9ZZmNMd0NHMnZ1S2xQNmZXeDB6SFFhS3ZNQWVHT2Y0b1E5NlY5bzFJZ3hUYzR4b2ZJbnc?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-11-11T08:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Prefeitura de Guaíba esclarece que segunda parcela do 13º salário dos servidores não será parcelada Repórter Guaibense"
+    },
+    {
+      "id": "aa26f6cd84b1",
+      "titulo": "Sine Guaíba oferece cerca de 20 vagas de emprego nesta semana; veja a lista",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX2hwRlZwd21ncHZ5c2UzUXpxeEw4Z0Jpdmp5S0dMVV9HVndjbEZSNlcwTUFGcmZaSEVFSFZHOXFYcUN4cVEzQnBIR0xCTHRvQ1lTYW1KTjdrYTI1Vzc5MUZ1aUsybFBSbktxU3ZHcmFZb2dDUm12T2F2RlIzeV9mMS1UdDZ4WmVSTU16dDJfS0tkdzdRd29CdHNVcFR5aGlVYlk1Q2Y5X2h4dHdSYUd1c2UzUmp0NzlFVnNZ?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-11-10T08:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Sine Guaíba oferece cerca de 20 vagas de emprego nesta semana; veja a lista Repórter Guaibense"
+    },
+    {
+      "id": "aacaf233ac66",
+      "titulo": "Grupo Lebes realiza último evento da turnê de 70 anos em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDkxSk15X2ZyaE5aOFJFZzB1MU1ZSGltU2JUeVlUd3AzTm5UajhkVXhuaTVGRWhjMWlIQS1kWkVhUjhwc1BYWmhzT21JR1V1WEdxTzNQVm5OZnVwdlJqYzczWVBYRVkzbkp4WF9lXzItcjJTYzRZbm1ERlVqMWJNa1BJT1NmZHFnYU1oUzE5LVVDcENJa25VODl2TnpBeDFSeFo2ZjVEVFNGX3Jw?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-11-09T08:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Grupo Lebes realiza último evento da turnê de 70 anos em Guaíba Repórter Guaibense"
+    },
+    {
+      "id": "8c499d1603ec",
+      "titulo": "Vendedor, balconista, estoquista e mais: Sine Guaíba oferece 14 vagas de emprego nesta quinta-feira",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcTVHTlM5NXRBcDFrTWIxZUVUNnhVM0lRVXBfaU04Qm5rMVFnR2tSZHVYcWc5WFMyb2toS0xSVGVDMDBPY1Rza2hvamIzd0NKYjdVZHRadjBWb1FrQTdFVlV2YUl0OURwaFUybnowTUp4S2trM1BiT09peEtMNXpQUzI0VEhlYXpoZGVVYXZZRno4UnczRVNsZFg0V09hRGRJeFctcm0tUy0teUM1ZVY4Vk9pN1FyRG1vUkJwU2d5UENQVmdkVGRrRjlrYV9LV3BaSDZObTZsMmg?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-11-05T08:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Vendedor, balconista, estoquista e mais: Sine Guaíba oferece 14 vagas de emprego nesta quinta-feira Repórter Guaibense"
+    },
+    {
+      "id": "d8c4c64a2576",
+      "titulo": "Jovem de Guaíba precisa de cirurgia cerebral e família organiza vaquinha para custear procedimento",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMUVVd2hHVkNGLVZ1RmE5MUpCS0V4LUZxUzcxRDNUZ2pzU3BhNlktcmhwRlJJMklPRHJzQmZzY2s3c0xhTjVPQjd5Rm9ZR0xobG9qWGZsUlpHMTVfREt1cEtjbVI3SXRlbndRUFd5UkNaQ05VNlBGdGowR3Q5Z253d0tkWHBlcldteXdPRFhaU28waGhCbXRPd0pHNjVCSzhPclpBZVNKaGxIVVVESUJNNDNDWXFWV0ZvaGY3SjNDQ2IwbGRCN3NTbGJNR3JDWDhqbzhDaUVtNTZmUDA?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-11-05T08:00:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Jovem de Guaíba precisa de cirurgia cerebral e família organiza vaquinha para custear procedimento Repórter Guaibense"
+    },
+    {
       "id": "e6fd5d9a719b",
       "titulo": "Ministério Público do RS acompanha avanços da modernização do Plano Diretor de Guaíba",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXpfRWNVVFpJNlZCVHNHNFVBdzkxOUl4YmQ4WHZaZTFPaFJmMXRuUFNsQk45Ym9oZWJnWktfUUxiVG9INkFYRXBPZXBaMENfVVA3VWdDNjBuS3lMT3lYdkxiVFJJYW12X21GTXk4N3BuZG5CLUlJX2FnZFBha0ttZmY3d2lzQW5ucGl3WUpuWmdIN2xsekdzUkFFcFVYbWJ6cmo2RTNORmo3TkZRZ0dabERLV3d1ZzVvMlNQNEpOVnhZOEEzaUx1MlhR?oc=5",
       "fonte": "Repórter Guaibense",
       "publicado_em": "2026-11-03T08:00:00+00:00",
       "categoria": null,
-      "feed": "google",
+      "feed": "reporter",
       "resumo": "Ministério Público do RS acompanha avanços da modernização do Plano Diretor de Guaíba Repórter Guaibense"
     },
     {
-      "id": "4e81dfe202b1",
-      "titulo": "Lula vence a eleição presidencial em Guaíba (RS)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG5SdFVYSVBuTzZweDVOeG9nSkZNWVkyUmlFQzBXdmNVd3hCQ0Q5RW9XcGMxcUFtTHJkVXFad0pUVVBKNUhNdFZDbjFBUlhpeE1PSnFzSl9udzBJZTlYd1VuYmtRZFFOX3BqZG9SRjRHQ21FM1BfZFV0aFNHcklWZ0lOdlFQc1IyQnoyeEZreVNiMkJfa0hEdWp6NGw?oc=5",
-      "fonte": "Congresso em Foco",
-      "publicado_em": "2026-10-27T07:00:00+00:00",
+      "id": "9f67bda7774e",
+      "titulo": "Escritores e coletivo cultural de Guaíba integram programação da Feira do Livro de Porto Alegre",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdjYtQ3FnTkYtSTduVVRrdU1EX2MyNHdERndQTGpjeFh5V2p5emNCdzRvMFpHUkR2Z25YaTdiQ1VkQmNheW0xMVpUOU5tbnczeUVCa2dzck1lUF9pcmhGc0JwY2Z0OHRsdzNiV092cmNzOU9RNDZJSjBTOGs2NndkOE5XbVFGWWl1d0tSVDdOQU1oMkFjMEhJbWx1OUFaZm1jRlEzdi1UcGhXMkdyRE9MeFFsM0Jsc0pMbU5zamtFU2xSckRwdWExTkZlTnRybFdVbG81SkkxTQ?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-10-30T07:00:00+00:00",
       "categoria": null,
-      "feed": "google",
-      "resumo": "Lula vence a eleição presidencial em Guaíba (RS) Congresso em Foco"
-    },
-    {
-      "id": "63788c8a453f",
-      "titulo": "E.M.E.F. São Paulo, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMEJzT1VjOE9RS2dPc1lOMVdGV3R1YnhLLXZZeC1DeXRZak9CdVBYQ2xHVW10cEtENjRFRjhtbE55N2Y5TkxnMnB5cTlTVDEtbEUwblZjLTFCbm9mWmZvTno2RE9BNzN2MHNrTHRRZnNwbEt4R2g2eHdNazA1SklyalByWFFIN0hwSDVUR3dsQjIwNnlfN2JadXFFSElTTmhjTEF5ckotS0Y3b3V5NnRHNGJjQnZrNElEMldPTGVLNVZBeWdqX1h1X3lwSEk4ZXdPczctbExldEJYZTM5Tzh0a3hCMlN6VUtlaTVLSkhLMU5iR0htX1HSAYQCQVVfeXFMTjVtNzI5b3g3RFpRQWt3dWExREctYTNtUlYxNWhoVVpPZmp6YkNYQWU2cUZKUVVSUHA0Y2Y5TXVHanlGOWhlaGp0c295R2hESHF3eGxUbmFFSDJYZzRXLXRIVWoxdzIyYmdaclVfaVFtbTUybUlMM2FRWjFVOXQ3MXdVcE4zZHJyaVdOUFlxTVl4QUJBNmtsdjFkVzJ4bmVwNEphVlVDYVpXLUstZVhrNmxyN2kzRTA1UERnaUxqaXlMRHpEMUR1c2h0VFhBYzNLSzhZdUtQS2tHMXRUQ1dJNUM3SnZmS2tuaS1NcklBY0JDbU9KdzlQZjdFa0VnV25tczhOcDY?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "E.M.E.F. São Paulo, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "239464738f7c",
-      "titulo": "E.M.E.F Doutor Gastão Leão, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVVJMQUt4b3pValFOdzB6cVRiWE5xaWNveDV1TWdZakZ2MnRnTU8yYUR4Mk8zOHk3ejctSzhwZnVnOE5kRFNDZHNCZ2w0QzlwQlFTbGxkcm9Ia1BPMlFjTWRveld3VkpQam8xTERFaFRuWHhuZFU4NFhDZU9GVng1RGJJVk9Fa1gwek1JTk04Vzh5ZjR6MjRmRzhkRm1IbXVVTmgya05kY3QzVENaaE15dFBoVUU3TEd3ZktzbXBGb0I0XzBrZzlraGNOZWxEVGY5UE5LTUtwMFc1UlpVeWx0Q1kyZ1pES0duTlBtbzNhRDlnNld6bWRmaG1Dcl8tTmJJMWfSAZACQVVfeXFMUDB6VmNYQ1J4R2dKc1dlTDJGLUctTVhaQlVQeTJCaXlTdWtJLUtzcERyc2ZaRGh0ZVQzQ053cHJqU2luTTNiTE1VeE5VRUFQeEE3UWNhT3pVa2dzaXNRWE8wNFowLWw4eWd2bmEyUVB4b3EzdkhzRjVJTWRYM1NlR2RCaExhNjlFTUZ2d0FGMkNxd1A1bl9CeUdjRTRIZ0NxdHp2OEpiT1FoREJpbUkyaE9vNFVLUGlZa1lValJDdW01SEhIOVo4UTZrd1ZaU0lBd0FDQmVyT05qM2FGdVpWVTc0RE14VHVtYzNBYmZGUG16a3ZtNDdndTBBODAtSWZSWFJoSGh5UUthWVU5SkJHYW4?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-26T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "E.M.E.F Doutor Gastão Leão, 90ª zona eleitoral: resultado da votação em Guaíba (RS) no 2º turno G1"
-    },
-    {
-      "id": "81b26f00b547",
-      "titulo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no 2º turno",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSF9qbWI1MjR4d2tlUGZMUGZyVXZZaTE3WTFtZXNFbVlMR3E5Y3E1c2hiRzZKNGNJSl8tQUptb0x4aTNWeUNoaXpaVkdlUkdWZHlGNS1BczZKOURKMDJNTGtReXRjdFNKNmplUzBSbF84dHpOZmppclctZWpyc1NRaXpzRnZodWE5Q3dSOXhTVHhxR1ZkQkhLelNTbG5WMnUxaVdTSmJkWngyOTViWUVJNXlmSFR4RkozWFE5RHczUFhMNU9KbHhCOUpOVTNWX05CcTk1dWpPQ0xfUzFUMWZKRnk0Y2RpdTjSAfYBQVVfeXFMTVpLUm9WSWRTakJULWdrZUdSeklIdTNxMGVQa1UwTDdMaWp6V0haS2ozZkFCbkt4TEtORnR1WWgxWjFTMzFyUmU3MEM4TVNvdkZIa0x5b1Z6Ui1pSTFjbmx1V0NwVXRabE9TaVo0RnR5QUVHMkNHa2JkaklxS3FUbEJ5bmxScFRkTjR6YVpCb3h3elh5LTJQakhjRnA2TUlteTdHSzU4QlNxelB0THhNSFVTVXBYSkIzYnp1Y1hnOTVkUzVaZzBJUmVPNlQySlY5SUljeGNMZVFwWXlPNHlxOE9ObWlWb2lWVjVka0s5VjdPNjlpUzlB?oc=5",
-      "fonte": "G1",
-      "publicado_em": "2026-10-25T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Resultado das eleições 2026 em Guaíba (RS): como foi a votação no 2º turno G1"
-    },
-    {
-      "id": "9c9b44c9971b",
-      "titulo": "Guaíba (RS): siga resultado da apuração do 2º turno para presidente na cidade",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQakEwT2lvbGhhU2MycVNyS21ZWkkwWkZYSXRieGpSVVdneFFYNHRlTlhRQm5ENXRRc09UN0NPa2NMaVl0Rml1c2VMVDMtVFVCSVZPZExMSHRlTm9nQ1JGNkhMWlY3b091U2NETUt4ZDRoWk9ydkdWOUQyelhOdmJLRTh0dkEtWTJtNHVMYWNQLThCdUhLUFpRdHVIbw?oc=5",
-      "fonte": "UOL Notícias",
-      "publicado_em": "2026-10-25T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Guaíba (RS): siga resultado da apuração do 2º turno para presidente na cidade UOL Notícias"
-    },
-    {
-      "id": "89bfe9117c24",
-      "titulo": "Guaíba (RS): veja resultado da apuração do 2º turno para presidente na cidade",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFBDbVJjWUdlWjFtX0ZNYlREWk0wM3F4TGhxbzM5MFhtM1dPNDYyWjZNTzZHa1RuTVk1ZmI4aGdWczllcjN2c2I3WGpoRnc1VnAtUkhWS0xDcVdjbC1rV3ZSeTI4YjZycXFpbmZyVWlTcGFhVTJnZ01XWlNiVXJLOVpSNHdtbmIwRy1lZm01S0VFX2Z3OXpKWi1QanJHU3ZLZmQzTXg5aHh3UQ?oc=5",
-      "fonte": "UOL Notícias",
-      "publicado_em": "2026-10-25T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Guaíba (RS): veja resultado da apuração do 2º turno para presidente na cidade UOL Notícias"
-    },
-    {
-      "id": "fdbdab402759",
-      "titulo": "PGM e ex-subprocurador de Guaíba estão entre os alvos de operação que investiga fraude em licitações",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOY0kwcGxWX0dLV25TSWJQTEhMbnp5cF9NRmtKRW1iaGJ3Y2h2eHVfSWVxUXV5d0Z5ck5SY2x0eWpfb0hwdlhZU0Jtc1FXeWFuZlVqa0JLc1Q0eEQtS0M5WFR0c3h1ZGNUTjBpVGVlRFZXWF9PSWpGZUh1T0h3ZTJsckJSUENJSzhJcWRRdGRzX1JnaVk3MG8tZGFfcTNzb3NTNGI3R25OSWZSUkt3MjNIcm43MkVfOVBLczIyVU9pTzkyUUVBUWs3WEtxWmY1Yk5SZ1l1WGllejljYVFsWUZtdFlkZjZINFpJQjdROV9vdUZfd3hWdktUNW41b3hId1U?oc=5",
-      "fonte": "Correio do Povo",
-      "publicado_em": "2026-10-22T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "PGM e ex-subprocurador de Guaíba estão entre os alvos de operação que investiga fraude em licitações Correio do Povo"
-    },
-    {
-      "id": "3aa133136a9e",
-      "titulo": "Polícia Civil combate crimes contra a administração pública em Guaíba",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQTNrc0JyQXduV21rX3NGYkhLb3VYakdpUWdIeGg5QVh2LVJzdGVYc1FubjUxZmdXdG15WlJEc1RDSFFVRmNhY1FqZFRGNnI1dVU3TXJVeVpuZDFDRExoTkZxRFhzMnpMN2gwanp6eW02NHJZbG9wbWZ1YVZ3cW9nUEJ0RnYwWjZ3SjRMVmg1R19TRkpTSjlSUC13?oc=5",
-      "fonte": "Polícia Civil RS",
-      "publicado_em": "2026-10-22T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Polícia Civil combate crimes contra a administração pública em Guaíba Polícia Civil RS"
-    },
-    {
-      "id": "ebc8bde699c4",
-      "titulo": "Com receitas autorais, pizzaria em Guaíba atrai visitantes do RS e do Uruguai",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaTBrQzhQZVpJaEtXT1Q0RTRRODBJT2YtS3IxbjFwYWNXYnhDMDRfQmJjdG1ySmUzNFQ2ZFZSWDFGcXRfZExsUGE4S2J6VEt1emh3bHlyRzd2MXRsdDBxYXlETEZJUEdIWFRPVWpQZTgwdFFMTGhaZG9Ia3MtNUE0ZTRDbEtUQWNwRXJ0OS00UVNDWGE0Q3A1S2ZRTnNMNFU1bGZpNUxXdThvTHBGRlJLQ2FfcWl2ZzVEOGRrc0I1d3Z3MDJkWU5qeXA3Njd6SEdVRnZzQnQyZmw0QVU?oc=5",
-      "fonte": "Jornal do Comércio",
-      "publicado_em": "2026-10-22T07:00:00+00:00",
-      "categoria": null,
-      "feed": "google",
-      "resumo": "Com receitas autorais, pizzaria em Guaíba atrai visitantes do RS e do Uruguai Jornal do Comércio"
+      "feed": "reporter",
+      "resumo": "Escritores e coletivo cultural de Guaíba integram programação da Feira do Livro de Porto Alegre Repórter Guaibense"
     }
   ],
   "noticias_home": [
     {
-      "id": "cb22bb5bcb19",
-      "titulo": "Plataforma de delivery inicia operação em Guaíba",
-      "url": "https://www.reporterguaibense.com.br/noticia/plataforma-de-delivery-criada-por-guaibenses-inicia-operacao-em-guaiba",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
+      "id": "f9f7a190bb6a",
+      "titulo": "Circuito Eco CMPC acontece neste domingo (29), em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HSUFYZzlzVUYxQnFmYXRBMXRBdHYwRWpBMjlwR0xFeHNzUWVDbFNMRkIyaUh1bFhvODc3OU5Kd2RsbEVRZU1KTk1tN3dLUHk1WTlVU1p6YjdnTzJvNTlCQWNsVDhtVXd2YjB4aW16WQ?oc=5",
+      "fonte": "Consumidor RS",
+      "publicado_em": "2026-11-26T23:41:44+00:00",
       "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Além do sistema de pedidos, o Pedidos10 contará com uma estrutura logística própria"
-    },
-    {
-      "id": "f3ff7e307b63",
-      "titulo": "Sindicato Rural de Guaíba sedia o Mundialito do Cavalo Crioulo com R$ 95 mil em premiações",
-      "url": "https://www.reporterguaibense.com.br/noticia/sindicato-rural-de-guaiba-sedia-o-mundialito-do-cavalo-crioulo-com-r-95-mil-em-premiacoes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Para 2027, a meta é ampliar ainda a participação de criatórios do Rio Grande do Sul e de outros estados"
-    },
-    {
-      "id": "e0c503a589e1",
-      "titulo": "Em noite de emoção, Rotary Guaíba reconhece trajetórias e contribuições de profissionais da cidade",
-      "url": "https://www.reporterguaibense.com.br/noticia/em-noite-de-emocao-rotary-guaiba-reconhece-trajetorias-e-contribuicoes-de-profissionais-da-cidade",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Clube também reconheceu João Ovalhe como Rotariano Destaque do Ano"
-    },
-    {
-      "id": "cff521e7bd3f",
-      "titulo": "Frentista, vendedor, eletricista e mais: Sine Guaíba oferta 19 vagas de emprego nesta quinta-feira",
-      "url": "https://www.reporterguaibense.com.br/noticia/frentista-vendedor-eletricista-e-mais-sine-guaiba-oferta-19-vagas-de-emprego-nesta-quinta-feira",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "As oportunidades são rotativas, o que significa que podem ser preenchidas ao longo do dia e não necessariamente estarão disponíveis no dia seguinte"
-    },
-    {
-      "id": "f435932e6e49",
-      "titulo": "Câmara de Vereadores de Guaíba aprova auxílio-saúde a servidores e agentes políticos",
-      "url": "https://www.reporterguaibense.com.br/noticia/camara-de-vereadores-de-guaiba-aprova-auxilio-saude-a-servidores-e-agentes-politicos",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "O Programa de Assistência à Saúde Suplementar prevê o pagamento mediante ressarcimento de despesas"
-    },
-    {
-      "id": "e50cccbcbe71",
-      "titulo": "24º Festival de Cinema Estudantil reúne produções de mais de 100 países em Guaíba; veja a programação",
-      "url": "https://www.reporterguaibense.com.br/noticia/24-festival-de-cinema-estudantil-reune-producoes-de-mais-de-100-paises-em-guaiba-veja-a-programacao",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Exibição do filme Uma em Mil, de Tiago e Jonatas Rubert, será nesta quarta-feira"
-    },
-    {
-      "id": "e5cc2ae4f89d",
-      "titulo": "Banco de Alimentos de Guaíba registra queda de 84% no estoque e busca reforçar doações",
-      "url": "https://www.reporterguaibense.com.br/noticia/banco-de-alimentos-de-guaiba-registra-queda-de-84-no-estoque-e-busca-reforcar-doacoes",
-      "fonte": "Repórter Guaibense",
-      "publicado_em": null,
-      "categoria": null,
-      "feed": "reporter_direto",
-      "resumo": "Situação atual da rede foi tema da reunião-palestra do Rotary Club de Guaíba, na última terça-feira"
+      "feed": "recentes",
+      "resumo": "Circuito Eco CMPC acontece neste domingo (29), em Guaíba Consumidor RS"
     },
     {
       "id": "e0223e0ca2c2",
@@ -454,6 +394,66 @@
       "categoria": null,
       "feed": "recentes",
       "resumo": "RECORD Guaíba é premiada no Prêmio Themis com reportagem sobre bullying R7"
+    },
+    {
+      "id": "a44480d4af67",
+      "titulo": "Câmara de Vereadores de Guaíba aprova auxílio-saúde a servidores e agentes políticos",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaE16TkVIWlM1cFMzVzlUeFM5Z08tWGxkelhycVkzdldRNkphNjhVT1hBLW1VdWVVVlR5RVFIWXlqZ0JVVW5QeTRYN3JNeXRFX2dYY0JfNG9Hb1NNcXBBaU9wMkhJNDRLXzlKbkJHdjFzQ1pHb2h5a3gzZUt2QnhjV183d2V0cTF6MlhwdjhCUndDNDk2LXYwTUs4Ny01djhLY0lJYjI3a0RKeVJ1ZHc0MXQ4cENXb1J3ZU5LTTZfa2Rma1FwOGJkTA?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-11-26T18:20:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Câmara de Vereadores de Guaíba aprova auxílio-saúde a servidores e agentes políticos Repórter Guaibense"
+    },
+    {
+      "id": "a69c7f69c15f",
+      "titulo": "Em noite de emoção, Rotary Guaíba reconhece trajetórias e contribuições de profissionais da cidade",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNam03TEFEeVBHZ1laLVdxTzBKUElhMTNqYktkNGhyc2RkdWV4djVoOVFURFlKQjhzZWFlcUpqSzNTRFBTMDdOVXdTb2k1UFpWTjd2Tkw0T0p4eG9va1VRNVp5TElZSDJHT1RwNHVvWEp0Q3JIWmtKVHRhN1ptMjJ1dmJTTXJUVzhISEwwNFF4S1FXRFk1OE85OXNZU1ZqZUN2aVdDUUVReWprckVvMndKS3lrTEFoSkptS2pFMnd5a0lveFA3YVVWY05Sb1IwSGJfMVhXODdRNEZhQQ?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-11-25T19:30:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Em noite de emoção, Rotary Guaíba reconhece trajetórias e contribuições de profissionais da cidade Repórter Guaibense"
+    },
+    {
+      "id": "b307710128e5",
+      "titulo": "Eu Nunca: quem imaginou pegar onda no Guaíba?",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRWd0dURjSnhjV1ZNVzVfVDRMT2tFN3dBTWdyR092Y3g5bWZSMDU3Zy1IYVBtTEgzM1hTSmh2S2Uxbi1OYTVCa3VRVTVBREtKUzdxc2lQa1lOSjVnWXpnQlFiUTBmQzEzOUVQUVlkek1OUm8wS1JsNkNZS2c0YkFEVE96ZEVFemZnN1J0eVNXZ0RxOGZWOFlLVmdFNGczV2VPU05oTWpDSnBPc2J1SUtzQ2p0SDVfUkpwZm1PcjFB?oc=5",
+      "fonte": "Rede Atlântida",
+      "publicado_em": "2026-11-25T19:17:09+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Eu Nunca: quem imaginou pegar onda no Guaíba? Rede Atlântida"
+    },
+    {
+      "id": "5b44f523b0e5",
+      "titulo": "CMPC conclui modernização da fábrica de Guaíba (RS) com investimentos superiores a US$ 670 milhões",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaTd2MUQtdkRPenNwbXR2ZmRkclZuYXFQMTRNQzhtX2JEMnZMY0doUnAyemFZampGTGhLMjFFam5zV2JvSjlNZ182Q3J4Y05DUW8wYmdnN3loaklKbjQ0b3lEQ2NUX1IzZUpXa3NsS1BhTklYQUxXWjFOc1BnVjlVb2hFTnlDampNTzRPUkRKTU1ydDVkWXpPaXNDQnRJVDlmdTRJOVZuWDFxU05hWXE0anV0ZUhvZElGV0pMUDRweVZYRnhJ?oc=5",
+      "fonte": "Portal Celulose",
+      "publicado_em": "2026-11-25T17:18:41+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "CMPC conclui modernização da fábrica de Guaíba (RS) com investimentos superiores a US$ 670 milhões Portal Celulose"
+    },
+    {
+      "id": "473bc202b176",
+      "titulo": "Corsan fortalece diálogo com lideranças comunitárias de Guaíba em encontro sobre saneamento",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3M2UXFwUnNJeXYwcnd1LS1OMEJvRFQtOUNJdEl3SHBtOWpyZDAyRzVJMDdmYl8yaVVObld1WTFhZ25JN2U1QnlhQ0NpT2g3TUZVT0RxbmpYVlhpcmNVNXotdzJfUjJWbUxwMTNtOUlZeVBBMk5HZlVmRE5TMkRUVXdsejVrbGpia3N2Tk9zTS1WOWhRcFlJR2Z6UjRTMGFINVk0WGsydlJzdlh2d2hRYnYtUTBRVTFONkE?oc=5",
+      "fonte": "CORSAN",
+      "publicado_em": "2026-11-25T16:18:00+00:00",
+      "categoria": null,
+      "feed": "recentes",
+      "resumo": "Corsan fortalece diálogo com lideranças comunitárias de Guaíba em encontro sobre saneamento CORSAN"
+    },
+    {
+      "id": "cfef97c86c0f",
+      "titulo": "Plataforma de delivery inicia operação em Guaíba",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUWxOT0czS1ljc3RFd2FGR3NwSlp6LTJINTZWQVZXN3c5cHdLTnBBOEVENHZKSHZjOGdNU3Qxa2lPVHNzMEFGZEtMN2FKNUEybDNiZHZHLXo3YjlzUFM2LVgwUGRvbmlZS0NMejFXaldabXRuaDZpN1NZNW1sakJlRzRwMEtzWWxOa29zSlFRQ25OTVA3ZzI1MENqeDd3dXpkZGJNTktOLUhBZWZMM1JGS3czU29Wdw?oc=5",
+      "fonte": "Repórter Guaibense",
+      "publicado_em": "2026-11-24T21:11:00+00:00",
+      "categoria": null,
+      "feed": "reporter",
+      "resumo": "Plataforma de delivery inicia operação em Guaíba Repórter Guaibense"
     }
   ]
 }
